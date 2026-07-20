@@ -24,6 +24,7 @@ export function loadConfig({ argv = process.argv.slice(2) } = {}) {
     minDaily: integer('MIN_DAILY_NEWS', 21, 21, 100),
     timeoutMs: integer('REQUEST_TIMEOUT_MS', 15000, 1000, 60000),
     concurrency: integer('FETCH_CONCURRENCY', 5, 1, 10),
+    aiRequestDelayMs: integer('AI_REQUEST_DELAY_MS', 6500, 1000, 30000),
     email: {
       user: process.env.EMAIL_USER || '', password: process.env.EMAIL_APP_PASSWORD || '',
       to: (process.env.EMAIL_TO || '').split(/[,;]/).map((x) => x.trim()).filter(Boolean)

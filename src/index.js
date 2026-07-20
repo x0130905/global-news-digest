@@ -40,7 +40,11 @@ export async function run({ config = loadConfig(), now = new Date(), fetchers = 
   const eligible = applyHistory(deduped, history);
   const candidates = selectSections(eligible, config);
   const allCandidates = [...new Map(Object.values(candidates).flat().map((a) => [a.id, a])).values()];
-  const summarized = await mapLimit(allCandidates, Math.min(3, config.concurrency || 3), async (a) => ({ ...a, ...await summarizeArticle(a, config) }));
+  const aiEnabled = Boolean(config.ai.geminiKey || config.ai.groqKey);
+  const summarized = await mapLimit(allCandidates, aiEnabled ? 1 : Math.min(3, config.concurrency || 3), async (a, index) => {
+    if (aiEnabled && index > 0) await new Promise((resolve) => setTimeout(resolve, config.aiRequestDelayMs || 6500));
+    return { ...a, ...await summarizeArticle(a, config) };
+  });
   const byId = new Map(summarized.map((a) => [a.id, a]));
   const sections = Object.fromEntries(Object.entries(candidates).map(([name, items]) => [name, items.map((a) => byId.get(a.id))]));
   const allSelected = summarized;

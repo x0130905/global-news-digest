@@ -47,6 +47,19 @@ test('AI 接口失败后自动降级到规则摘要', async () => {
   assert.equal(result.summaryMode, 'rule'); assert.equal(result.translationStatus, 'unavailable'); assert.match(result.summaryZh, /中文译文/);
 });
 
+test('Gemini 使用当前模型和请求头生成中文译文', async () => {
+  const originalFetch = global.fetch;
+  global.fetch = async (url, options) => {
+    assert.match(String(url), /gemini-3\.5-flash:generateContent$/); assert.equal(options.headers['x-goog-api-key'], 'fake-key');
+    return new Response(JSON.stringify({ candidates: [{ content: { parts: [{ text: JSON.stringify({ titleZh: '中文标题', summaryZh: '这是忠实的中文摘要。', whyImportant: '这件事值得关注。' }) }] } }] }), { status: 200, headers: { 'content-type': 'application/json' } });
+  };
+  try {
+    const config = { timeoutMs: 1000, ai: { provider: 'gemini', geminiKey: 'fake-key', groqKey: '' } };
+    const article = { title: 'English headline', summary: 'Public summary.', source: 'Source', publishedAt: new Date().toISOString(), tags: [], isChina: false, isUsa: false };
+    const result = await summarizeArticle(article, config); assert.equal(result.translationStatus, 'translated'); assert.equal(result.titleZh, '中文标题');
+  } finally { global.fetch = originalFetch; }
+});
+
 test('历史记录过滤完全重复事件，并标记有新进展的持续事件', () => {
   const article = { title: 'Regional talks continue', summary: 'A much longer summary with clearly updated public details and new developments.', tags: [], id: '1' };
   const first = applyHistory([article], { days: [] });

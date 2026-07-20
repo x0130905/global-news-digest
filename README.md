@@ -104,6 +104,7 @@ git push -u origin main
 | `MAX_CHINA_NEWS` | `5` | 中国重点上限（1–10） |
 | `MAX_US_NEWS` | `5` | 美国重点上限（1–10） |
 | `MIN_DAILY_NEWS` | `21` | 网站每天必须发布的最低新闻数；不足时停止发布并保留上一版 |
+| `AI_REQUEST_DELAY_MS` | `6500` | AI 翻译请求间隔，避免免费额度触发限流 |
 
 修改收件人只需更新 Secret `EMAIL_TO`。启用/禁用来源、添加 RSS 请编辑 `config/sources.json`；可靠性权重在 `config/source-reliability.json`；分类词在 `config/keywords.json`。
 
