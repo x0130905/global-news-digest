@@ -21,16 +21,18 @@ test('专题匹配增加标签与有限热度加成', () => {
   assert.equal(result.topicMatch, true); assert.ok(result.score > 80 && result.score <= 100); assert.ok(result.tags.some((tag) => tag.startsWith('专题·')));
 });
 
-test('网站发布生成 latest 并只保留 30 天档案', () => {
+test('网站按日期永久保存档案且不截断历史', () => {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'news-site-')); fs.mkdirSync(path.join(dir, 'data'));
-  fs.writeFileSync(path.join(dir, 'data', 'archive.json'), JSON.stringify(Array.from({ length: 35 }, (_, i) => ({ date: `old-${i}`, items: [] }))));
+  const legacy = Array.from({ length: 35 }, (_, i) => ({ date: `2025-${String(Math.floor(i / 28) + 1).padStart(2, '0')}-${String((i % 28) + 1).padStart(2, '0')}`, generatedAt: new Date().toISOString(), topic: topics[0], items: [] }));
+  fs.writeFileSync(path.join(dir, 'data', 'archive.json'), JSON.stringify(legacy));
   const item = { id: '1', title: 'x' }; const report = { date: '2026-01-01', generatedAt: new Date().toISOString(), topic: topics[0], overview: 'x', featured: [item], global: [item], china: [], usa: [], watch: [] };
-  const result = publishReport(report, dir); assert.equal(result.latest.items.length, 1); assert.equal(result.archive.length, 30);
+  const result = publishReport(report, dir); assert.equal(result.latest.items.length, 1); assert.equal(result.archive.length, 36);
   assert.ok(fs.existsSync(path.join(dir, 'data', 'latest.json')));
+  assert.ok(fs.existsSync(path.join(dir, 'data', 'archive', '2026-01-01.json'))); assert.ok(fs.existsSync(path.join(dir, 'data', 'archive', 'index.json')));
 });
 
 test('PWA 页面包含搜索、响应式视口和安全外链处理', () => {
   const root = path.resolve(import.meta.dirname, '..', 'public');
   const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8'); const app = fs.readFileSync(path.join(root, 'app.js'), 'utf8');
-  assert.match(html, /id="search"/); assert.match(html, /viewport/); assert.match(html, /manifest\.webmanifest/); assert.match(app, /noopener noreferrer/); assert.match(app, /http:.*https:/); assert.match(app, /bilingual-grid/); assert.match(app, /EN · ORIGINAL/); assert.match(app, /中文翻译/);
+  assert.match(html, /id="search"/); assert.match(html, /id="date-picker"/); assert.match(html, /command-bar/); assert.match(html, /viewport/); assert.match(html, /manifest\.webmanifest/); assert.match(app, /archive\/index\.json/); assert.match(app, /sources-panel/); assert.match(app, /noopener noreferrer/); assert.match(app, /http:.*https:/); assert.match(app, /bilingual-grid/); assert.match(app, /EN · ORIGINAL/); assert.match(app, /中文翻译/);
 });

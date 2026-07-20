@@ -33,6 +33,7 @@ jobs:
       MAX_GLOBAL_NEWS: ${{ vars.MAX_GLOBAL_NEWS || '10' }}
       MAX_CHINA_NEWS: ${{ vars.MAX_CHINA_NEWS || '5' }}
       MAX_US_NEWS: ${{ vars.MAX_US_NEWS || '5' }}
+      MIN_DAILY_NEWS: ${{ vars.MIN_DAILY_NEWS || '21' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -49,11 +50,11 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
-      - name: 保存 30 天新闻历史
+      - name: 永久保存每日新闻历史
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/latest.json public/data/archive.json public/data/topics.json
+          git add public/data
           git diff --cached --quiet || git commit -m "data: update daily news site [skip ci]"
           git push
   deploy:

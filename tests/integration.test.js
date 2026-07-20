@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import { run } from '../src/index.js';
+import { run, selectSections } from '../src/index.js';
 import keywords from '../config/keywords.json' with { type: 'json' };
 import topics from '../config/topics.json' with { type: 'json' };
 
@@ -16,4 +16,11 @@ test('dry-run 生成三种成品且绝不调用发信', async () => {
   assert.equal(mailed, false); assert.equal(result.report.metadata.selected, 1);
   assert.equal(result.report.topic.slug, 'technology-energy'); assert.equal(result.report.featured.length, 1);
   for (const file of ['latest.html', 'latest.txt', 'latest.json']) assert.ok(fs.statSync(path.join(outputDir, file)).size > 50);
+});
+
+test('每日新闻选择数量至少为 21 条', () => {
+  const articles = Array.from({ length: 30 }, (_, index) => ({ id: String(index), score: 60 - index / 10, isNoise: false, isChina: index < 4, isUsa: index >= 4 && index < 8, tags: [] }));
+  const sections = selectSections(articles, { maxChina: 5, maxUsa: 5, maxGlobal: 10, minDaily: 21 });
+  const unique = new Set(Object.values(sections).flat().map((item) => item.id));
+  assert.ok(unique.size >= 21);
 });

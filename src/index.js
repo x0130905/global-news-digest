@@ -18,11 +18,14 @@ import { mapLimit } from './utils/http.js';
 import { applyTopic, selectDailyTopic } from './processing/topic.js';
 
 export function selectSections(articles, config) {
-  const sorted = articles.filter((a) => !a.isNoise && a.score >= 35).sort((a, b) => b.score - a.score);
+  const quality = articles.filter((a) => !a.isNoise && a.score >= 25).sort((a, b) => b.score - a.score);
+  const sorted = quality.filter((a) => a.score >= 35);
   const used = new Set(); const take = (predicate, max) => sorted.filter((a) => predicate(a) && !used.has(a.id)).slice(0, max).map((a) => (used.add(a.id), a));
   const china = take((a) => a.isChina, config.maxChina), usa = take((a) => a.isUsa, config.maxUsa), global = take(() => true, config.maxGlobal);
-  const watch = sorted.filter((a) => !used.has(a.id) || a.tags.includes('持续关注')).slice(0, 3);
-  return { global, china, usa, watch };
+  const watch = sorted.filter((a) => !used.has(a.id)).slice(0, 3).map((a) => (used.add(a.id), a));
+  const needed = Math.max(0, (config.minDaily || 21) - used.size);
+  const more = quality.filter((a) => !used.has(a.id)).slice(0, needed).map((a) => (used.add(a.id), a));
+  return { global, china, usa, watch, more };
 }
 
 export async function run({ config = loadConfig(), now = new Date(), fetchers = { rss: fetchAllRss, gdelt: fetchGdelt }, mailer = sendEmail } = {}) {
@@ -35,10 +38,14 @@ export async function run({ config = loadConfig(), now = new Date(), fetchers = 
   if (!raw.length && config.sampleFallback) { raw = sampleArticles; logger.warn('实时来源无可用结果，dry-run 使用明确标注的模拟数据'); }
   const deduped = deduplicate(raw).map((a) => applyTopic(scoreArticle(classify(a, config.keywords), config.reliability, now), topic));
   const eligible = applyHistory(deduped, history);
-  const summarized = await mapLimit(eligible, Math.min(3, config.concurrency || 3), async (a) => ({ ...a, ...await summarizeArticle(a, config) }));
-  const sections = selectSections(summarized, config); const allSelected = [...new Map([...sections.global, ...sections.china, ...sections.usa, ...sections.watch].map((a) => [a.id, a])).values()];
+  const candidates = selectSections(eligible, config);
+  const allCandidates = [...new Map(Object.values(candidates).flat().map((a) => [a.id, a])).values()];
+  const summarized = await mapLimit(allCandidates, Math.min(3, config.concurrency || 3), async (a) => ({ ...a, ...await summarizeArticle(a, config) }));
+  const byId = new Map(summarized.map((a) => [a.id, a]));
+  const sections = Object.fromEntries(Object.entries(candidates).map(([name, items]) => [name, items.map((a) => byId.get(a.id))]));
+  const allSelected = summarized;
   const featured = allSelected.filter((a) => a.topicMatch).sort((a, b) => b.score - a.score).slice(0, 8);
-  const report = { date, generatedAt: now.toISOString(), timezone: config.timezone, topic, overview: allSelected.length ? `今日专题“${topic.name}”。共筛选 ${allSelected.length} 个高价值事件，重点关注${sections.china.length ? '中国相关进展、' : ''}${sections.usa.length ? '美国相关进展及' : ''}全球外交、经济与安全动态。` : `今日专题“${topic.name}”。过去 24 小时未发现达到质量阈值且可验证的新闻条目。`, featured, ...sections, metadata: { fetched: raw.length, deduplicated: deduped.length, selected: allSelected.length, featured: featured.length, dryRun: config.dryRun, sampleData: raw === sampleArticles } };
+  const report = { date, generatedAt: now.toISOString(), timezone: config.timezone, topic, overview: allSelected.length ? `今日专题“${topic.name}”。共筛选 ${allSelected.length} 个高价值事件，重点关注${sections.china.length ? '中国相关进展、' : ''}${sections.usa.length ? '美国相关进展及' : ''}全球外交、经济与安全动态。` : `今日专题“${topic.name}”。过去 24 小时未发现达到质量阈值且可验证的新闻条目。`, featured, ...sections, metadata: { fetched: raw.length, deduplicated: deduped.length, selected: allSelected.length, minimumRequired: config.minDaily, featured: featured.length, dryRun: config.dryRun, sampleData: raw === sampleArticles } };
   const html = renderHtml(report), text = renderText(report); const json = JSON.stringify(report, null, 2);
   fs.writeFileSync(path.join(config.outputDir, 'latest.html'), html); fs.writeFileSync(path.join(config.outputDir, 'latest.txt'), text); fs.writeFileSync(path.join(config.outputDir, 'latest.json'), json); fs.writeFileSync(path.join(config.outputDir, 'run.log'), JSON.stringify({ date, generatedAt: report.generatedAt, ...report.metadata }, null, 2));
   if (!config.dryRun) {
