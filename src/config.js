@@ -21,6 +21,7 @@ export function loadConfig({ argv = process.argv.slice(2) } = {}) {
     maxGlobal: integer('MAX_GLOBAL_NEWS', 10, 1, 20),
     maxChina: integer('MAX_CHINA_NEWS', 5, 1, 10),
     maxUsa: integer('MAX_US_NEWS', 5, 1, 10),
+    minDaily: integer('MIN_DAILY_NEWS', 21, 21, 100),
     timeoutMs: integer('REQUEST_TIMEOUT_MS', 15000, 1000, 60000),
     concurrency: integer('FETCH_CONCURRENCY', 5, 1, 10),
     email: {
