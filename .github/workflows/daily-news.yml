@@ -41,7 +41,7 @@ jobs:
         with:
           node-version: 20
       - name: 启用 pnpm
-        run: corepack enable
+        run: corepack enable && corepack prepare pnpm@11.9.0 --activate
       - name: 按锁文件安装依赖
         run: pnpm install --frozen-lockfile
       - run: pnpm test
