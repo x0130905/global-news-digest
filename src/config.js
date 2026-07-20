@@ -29,7 +29,7 @@ export function loadConfig({ argv = process.argv.slice(2) } = {}) {
       user: process.env.EMAIL_USER || '', password: process.env.EMAIL_APP_PASSWORD || '',
       to: (process.env.EMAIL_TO || '').split(/[,;]/).map((x) => x.trim()).filter(Boolean)
     },
-    ai: { provider: process.env.AI_PROVIDER || 'auto', geminiKey: process.env.GEMINI_API_KEY || '', groqKey: process.env.GROQ_API_KEY || '' },
+    ai: { provider: process.env.AI_PROVIDER || 'auto', geminiKey: process.env.GEMINI_API_KEY || '', geminiModel: process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite', groqKey: process.env.GROQ_API_KEY || '' },
     sources: readJson('config/sources.json'), keywords: readJson('config/keywords.json'),
     topics: readJson('config/topics.json'), requestedTopic: process.env.REPORT_TOPIC || '',
     reliability: readJson('config/source-reliability.json'),
