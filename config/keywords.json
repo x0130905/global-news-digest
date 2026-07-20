@@ -1,0 +1,17 @@
+{
+  "china": ["china", "chinese", "beijing", "hong kong", "taiwan", "中国", "北京", "香港", "台湾", "中美", "人民币", "解放军"],
+  "usa": ["united states", "u.s.", "america", "american", "washington", "white house", "pentagon", "美国", "华盛顿", "白宫", "美联储"],
+  "noise": ["celebrity", "fashion", "horoscope", "lottery", "shopping", "recipe", "sponsored", "promotion"],
+  "breaking": ["breaking", "urgent", "explosion", "earthquake", "attack", "ceasefire", "突发", "地震", "袭击", "爆炸", "停火"],
+  "categories": {
+    "外交": ["diplomacy", "diplomatic", "summit", "treaty", "sanction", "foreign minister", "外交", "峰会", "制裁", "条约"],
+    "经济": ["economy", "economic", "trade", "tariff", "gdp", "inflation", "经济", "贸易", "关税", "通胀"],
+    "金融": ["market", "stocks", "bank", "interest rate", "currency", "金融", "股市", "银行", "利率", "汇率"],
+    "军事与安全": ["military", "war", "missile", "defence", "defense", "security", "army", "军事", "战争", "导弹", "安全"],
+    "科技": ["technology", "artificial intelligence", "ai ", "semiconductor", "space", "科技", "人工智能", "芯片", "太空"],
+    "能源": ["energy", "oil", "gas", "nuclear", "renewable", "能源", "石油", "天然气", "核能"],
+    "环境": ["climate", "environment", "wildfire", "flood", "storm", "环境", "气候", "山火", "洪水", "风暴"],
+    "公共安全": ["disaster", "accident", "casualties", "evacuation", "health emergency", "灾害", "事故", "伤亡", "疏散"],
+    "国际组织": ["united nations", "nato", "who", "imf", "world bank", "联合国", "北约", "世卫", "国际货币基金"]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "global-news-digest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "全球新闻时政日报邮件系统",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/index.js",
+    "dry-run": "node src/index.js --dry-run --sample-fallback",
+    "update-site": "node src/site/buildSite.js",
+    "preview": "node src/site/preview.js",
+    "test": "node --test --test-reporter=spec",
+    "check": "node --check src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "16.4.7",
+    "nodemailer": "6.10.0",
+    "rss-parser": "3.13.0"
+  }
+}

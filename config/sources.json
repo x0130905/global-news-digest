@@ -1,0 +1,16 @@
+{
+  "gdelt": { "enabled": true, "queries": ["world politics diplomacy economy security", "China diplomacy economy security", "United States politics diplomacy economy"] },
+  "rss": [
+    { "id": "un-news", "name": "联合国新闻", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "region": "international", "enabled": true },
+    { "id": "bbc-world", "name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "region": "international", "enabled": true },
+    { "id": "guardian-world", "name": "The Guardian World", "url": "https://www.theguardian.com/world/rss", "region": "international", "enabled": true },
+    { "id": "dw-world", "name": "DW", "url": "https://rss.dw.com/rdf/rss-en-world", "region": "europe", "enabled": true },
+    { "id": "aljazeera", "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "region": "middle-east", "enabled": true },
+    { "id": "nhk-world", "name": "NHK World", "url": "https://www3.nhk.or.jp/rss/news/cat0.xml", "region": "asia", "enabled": true },
+    { "id": "china-daily", "name": "China Daily", "url": "https://www.chinadaily.com.cn/rss/world_rss.xml", "region": "china", "enabled": true },
+    { "id": "scmp", "name": "SCMP", "url": "https://www.scmp.com/rss/91/feed", "region": "china", "enabled": true },
+    { "id": "white-house", "name": "The White House", "url": "https://www.whitehouse.gov/news/feed/", "region": "usa", "enabled": true },
+    { "id": "state-dept", "name": "U.S. Department of State", "url": "https://www.state.gov/rss-feed/press-releases/feed/", "region": "usa", "enabled": true },
+    { "id": "nasa", "name": "NASA", "url": "https://www.nasa.gov/news-release/feed/", "region": "usa", "enabled": true }
+  ]
+}

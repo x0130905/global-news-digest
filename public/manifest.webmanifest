@@ -1,0 +1,12 @@
+{
+  "name": "世界脉搏 · 全球新闻专题",
+  "short_name": "世界脉搏",
+  "description": "每天自动更新不同专题的全球新闻与时政应用",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "lang": "zh-CN",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
