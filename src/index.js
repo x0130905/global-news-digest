@@ -8,13 +8,12 @@ import { deduplicate } from './processing/deduplicate.js';
 import { classify } from './processing/classify.js';
 import { scoreArticle } from './processing/score.js';
 import { applyHistory, isLocked, loadHistory, markSent, reportDate, saveHistory } from './processing/history.js';
-import { summarizeArticle } from './summarizers/aiSummarizer.js';
+import { summarizeArticles } from './summarizers/aiSummarizer.js';
 import { renderHtml } from './email/renderHtml.js';
 import { renderText } from './email/renderText.js';
 import { sendEmail } from './email/sendEmail.js';
 import { sampleArticles } from './sampleData.js';
 import { logger } from './utils/logger.js';
-import { mapLimit } from './utils/http.js';
 import { applyTopic, selectDailyTopic } from './processing/topic.js';
 
 export function selectSections(articles, config) {
@@ -40,11 +39,8 @@ export async function run({ config = loadConfig(), now = new Date(), fetchers = 
   const eligible = applyHistory(deduped, history);
   const candidates = selectSections(eligible, config);
   const allCandidates = [...new Map(Object.values(candidates).flat().map((a) => [a.id, a])).values()];
-  const aiEnabled = Boolean(config.ai.geminiKey || config.ai.groqKey);
-  const summarized = await mapLimit(allCandidates, aiEnabled ? 1 : Math.min(3, config.concurrency || 3), async (a, index) => {
-    if (aiEnabled && index > 0) await new Promise((resolve) => setTimeout(resolve, config.aiRequestDelayMs || 6500));
-    return { ...a, ...await summarizeArticle(a, config) };
-  });
+  const translations = await summarizeArticles(allCandidates, config);
+  const summarized = allCandidates.map((article, index) => ({ ...article, ...translations[index] }));
   const byId = new Map(summarized.map((a) => [a.id, a]));
   const sections = Object.fromEntries(Object.entries(candidates).map(([name, items]) => [name, items.map((a) => byId.get(a.id))]));
   const allSelected = summarized;

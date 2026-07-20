@@ -8,7 +8,7 @@ import { deduplicate } from '../src/processing/deduplicate.js';
 import { classify } from '../src/processing/classify.js';
 import { scoreArticle } from '../src/processing/score.js';
 import { applyHistory, isLocked, markSent } from '../src/processing/history.js';
-import { summarizeArticle } from '../src/summarizers/aiSummarizer.js';
+import { summarizeArticle, summarizeArticles } from '../src/summarizers/aiSummarizer.js';
 import { renderHtml } from '../src/email/renderHtml.js';
 import keywords from '../config/keywords.json' with { type: 'json' };
 
@@ -50,7 +50,7 @@ test('AI 接口失败后自动降级到规则摘要', async () => {
 test('Gemini 使用当前模型和请求头生成中文译文', async () => {
   const originalFetch = global.fetch;
   global.fetch = async (url, options) => {
-    assert.match(String(url), /gemini-3\.5-flash:generateContent$/); assert.equal(options.headers['x-goog-api-key'], 'fake-key');
+    assert.match(String(url), /gemini-3\.1-flash-lite:generateContent$/); assert.equal(options.headers['x-goog-api-key'], 'fake-key');
     return new Response(JSON.stringify({ candidates: [{ content: { parts: [{ text: JSON.stringify({ titleZh: '中文标题', summaryZh: '这是忠实的中文摘要。', whyImportant: '这件事值得关注。' }) }] } }] }), { status: 200, headers: { 'content-type': 'application/json' } });
   };
   try {
@@ -58,6 +58,33 @@ test('Gemini 使用当前模型和请求头生成中文译文', async () => {
     const article = { title: 'English headline', summary: 'Public summary.', source: 'Source', publishedAt: new Date().toISOString(), tags: [], isChina: false, isUsa: false };
     const result = await summarizeArticle(article, config); assert.equal(result.translationStatus, 'translated'); assert.equal(result.titleZh, '中文标题');
   } finally { global.fetch = originalFetch; }
+});
+
+test('Gemini batches a full news edition into one translation request', async () => {
+  const originalFetch = global.fetch;
+  let calls = 0;
+  global.fetch = async (url, options) => {
+    calls += 1;
+    assert.match(String(url), /gemini-3\.1-flash-lite:generateContent$/);
+    const request = JSON.parse(options.body);
+    const input = JSON.parse(request.contents[0].parts[0].text);
+    assert.equal(input.length, 2);
+    const items = input.map((item, index) => ({ id: item.id, titleZh: `中文标题${index + 1}`, summaryZh: `这是第${index + 1}篇新闻的中文摘要。`, whyImportant: '这件事值得持续关注。' }));
+    return new Response(JSON.stringify({ candidates: [{ content: { parts: [{ text: JSON.stringify({ items }) }] } }] }), { status: 200, headers: { 'content-type': 'application/json' } });
+  };
+  try {
+    const config = { timeoutMs: 1000, ai: { provider: 'gemini', geminiKey: 'fake-key', geminiModel: 'gemini-3.1-flash-lite', groqKey: '' } };
+    const articles = [
+      { id: 'one', title: 'First headline', summary: 'First public summary.', source: 'A', publishedAt: new Date().toISOString() },
+      { id: 'two', title: 'Second headline', summary: 'Second public summary.', source: 'B', publishedAt: new Date().toISOString() }
+    ];
+    const result = await summarizeArticles(articles, config);
+    assert.equal(calls, 1);
+    assert.equal(result.length, 2);
+    assert.ok(result.every((item) => item.translationStatus === 'translated'));
+  } finally {
+    global.fetch = originalFetch;
+  }
 });
 
 test('历史记录过滤完全重复事件，并标记有新进展的持续事件', () => {
