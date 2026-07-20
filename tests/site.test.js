@@ -33,6 +33,7 @@ test('网站按日期永久保存档案且不截断历史', () => {
 
 test('PWA 页面包含搜索、响应式视口和安全外链处理', () => {
   const root = path.resolve(import.meta.dirname, '..', 'public');
-  const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8'); const app = fs.readFileSync(path.join(root, 'app.js'), 'utf8');
-  assert.match(html, /id="search"/); assert.match(html, /id="date-picker"/); assert.match(html, /command-bar/); assert.match(html, /viewport/); assert.match(html, /manifest\.webmanifest/); assert.match(app, /archive\/index\.json/); assert.match(app, /sources-panel/); assert.match(app, /noopener noreferrer/); assert.match(app, /http:.*https:/); assert.match(app, /bilingual-grid/); assert.match(app, /EN · ORIGINAL/); assert.match(app, /中文翻译/);
+  const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8'); const app = fs.readFileSync(path.join(root, 'app.js'), 'utf8'); const css = fs.readFileSync(path.join(root, 'styles.css'), 'utf8');
+  assert.match(html, /id="search"/); assert.match(html, /id="date-picker"/); assert.match(html, /command-bar/); assert.match(html, /viewport/); assert.match(html, /manifest\.webmanifest/); assert.match(app, /archive\/index\.json/); assert.match(app, /sources-panel/); assert.match(app, /card-source/); assert.match(app, /noopener noreferrer/); assert.match(app, /http:.*https:/); assert.match(app, /bilingual-grid/); assert.match(app, /EN · ORIGINAL/); assert.match(app, /中文翻译/);
+  assert.match(html, /data-filter="label:red"/); assert.match(html, /data-filter="label:blue"/); assert.match(html, /data-filter="label:green"/); assert.match(app, /global-pulse-article-labels-v1/); assert.match(app, /data-label-action/); assert.match(css, /--label-red/); assert.match(css, /--label-blue/); assert.match(css, /--label-green/); assert.match(css, /\.command-inner[^}]*justify-content:start/);
 });
