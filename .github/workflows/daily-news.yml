@@ -39,7 +39,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
       - name: 启用 pnpm
         run: corepack enable && corepack prepare pnpm@11.9.0 --activate
       - name: 按锁文件安装依赖
