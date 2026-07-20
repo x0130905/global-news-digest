@@ -34,6 +34,7 @@ jobs:
       MAX_CHINA_NEWS: ${{ vars.MAX_CHINA_NEWS || '5' }}
       MAX_US_NEWS: ${{ vars.MAX_US_NEWS || '5' }}
       MIN_DAILY_NEWS: ${{ vars.MIN_DAILY_NEWS || '21' }}
+      AI_REQUEST_DELAY_MS: ${{ vars.AI_REQUEST_DELAY_MS || '6500' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
