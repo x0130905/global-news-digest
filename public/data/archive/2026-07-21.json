@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generatedAt": "2026-07-21T03:43:44.284Z",
+  "generatedAt": "2026-07-21T06:16:53.313Z",
   "timezone": "Asia/Shanghai",
   "topic": {
     "slug": "technology-energy",
@@ -23,8 +23,8 @@
   },
   "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "metadata": {
-    "fetched": 267,
-    "deduplicated": 231,
+    "fetched": 198,
+    "deduplicated": 192,
     "selected": 23,
     "minimumRequired": 21,
     "featured": 8,
@@ -32,6 +32,92 @@
     "sampleData": false
   },
   "items": [
+    {
+      "id": "34bb5fbcad75a9b4",
+      "title": "US issues ‘worldwide caution’ for American citizens – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "publishedAt": "2026-07-21T05:32:17.000Z",
+      "summary": "This blog is now closed – our live coverage of the Middle East crisis continues here The price of oil jumped in early Asian trade on Monday after the US carried out its latest wave of strikes on Iran and a vessel caught fire in the strait of Hormuz. Brent crude for September delivery rose 2.72% to $90.50 a barrel by around 0100 GMT, after briefly crossing $91 – its highest price since June. CENTCOM assets targeted Iranian military command centers, air defense and coastal surveillance sites, maritime capabilities, missile and drone launch sites, and communications networks to further diminish Iran’s ability to attack commercial vessels and civilian mariners transiting the Strait of Hormuz. The U.S. military is holding Iran accountable at the Commander in Chief’s direction. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+          "publishedAt": "2026-07-21T05:32:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "经济",
+        "军事与安全",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 86,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "a1c67dfeacec3bafce42e425",
+      "isContinuation": false,
+      "titleZh": "美国发布针对美国公民的“全球警告”——事件回顾",
+      "summaryZh": "受美伊冲突升级影响，布伦特原油价格在亚洲早盘交易中上涨至每桶90.50美元。美军中央司令部表示，已针对伊朗军事指挥中心、防空系统及导弹发射场发动打击，旨在削弱伊朗在霍尔木兹海峡的威胁能力。",
+      "whyImportant": "美伊冲突的升级直接导致全球能源市场动荡及安全风险上升。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "99a93e165d091738",
+      "title": "Iran and US trade more attacks as Houthis threaten blockade",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3361306/iran-and-us-trade-more-attacks-houthis-threaten-blockade?utm_source=rss_feed",
+      "publishedAt": "2026-07-21T05:12:35.000Z",
+      "summary": "Iran targeted US radar and air defence installations in the Gulf on Tuesday, warning Washington of “more decisive and powerful” attacks to come as the conflict threatened to widen with a blockade of Saudi ports by Houthi rebels in Yemen. Iran’s Revolutionary Guards said they had attacked and stopped two “non-compliant oil tankers” attempting to transit the Strait of Hormuz, part of an effort to tighten its grip on the vital waterway while the war reignited. Following the deaths of at least three...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3361306/iran-and-us-trade-more-attacks-houthis-threaten-blockade?utm_source=rss_feed",
+          "publishedAt": "2026-07-21T05:12:35.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "经济",
+        "军事与安全",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 86,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "98aa2368acadf34150403373",
+      "isContinuation": false,
+      "titleZh": "伊朗与美国互换攻击，胡塞武装威胁封锁",
+      "summaryZh": "伊朗革命卫队周二袭击了美国在海湾地区的雷达和防空设施，并扣押了两艘油轮。与此同时，也门胡塞武装宣布对沙特港口实施封锁，使冲突范围有进一步扩大的风险。",
+      "whyImportant": "冲突的蔓延威胁到关键海上贸易路线的安全，加剧了地区局势的不确定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
     {
       "id": "23b266f275b5963b",
       "title": "China won’t waste its reserves to cushion oil price impact of Iran war",
@@ -61,7 +147,7 @@
         "能源",
         "专题·科技、能源与产业"
       ],
-      "score": 87,
+      "score": 85,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": true,
@@ -71,51 +157,8 @@
       "fingerprint": "e9d7cd5100b01470a2b0b8f1",
       "isContinuation": false,
       "titleZh": "中国不会动用储备来缓冲伊朗战争对油价的影响",
-      "summaryZh": "随着美伊冲突导致霍尔木兹海峡再次关闭，全球油价面临上涨压力。分析指出，中国不太可能通过消耗战略储备来平抑油价波动。",
-      "whyImportant": "中国在能源市场上的应对策略将对全球油价走势产生重要影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "34bb5fbcad75a9b4",
-      "title": "US launches further strikes on Iran; Houthis threaten Saudi shipping blockade – Middle East crisis live",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "publishedAt": "2026-07-21T03:22:49.000Z",
-      "summary": "US says latest attack aimed at further degrading Iranian military capabilities; Yemen militant group threatens traffic moving through Bab el-Mandeb strait US launches 10th round of strikes as Iran says it is in ‘full-scale war’ The price of oil jumped in early Asian trade on Monday after the US carried out its latest wave of strikes on Iran and a vessel caught fire in the strait of Hormuz. Brent crude for September delivery rose 2.72% to $90.50 a barrel by around 0100 GMT, after briefly crossing $91 – its highest price since June. CENTCOM assets targeted Iranian military command centers, air defense and coastal surveillance sites, maritime capabilities, missile and drone launch sites, and communications networks to further diminish Iran’s ability to attack commercial vessels and civilian mariners transiting the Strait of Hormuz. The U.S. military is holding Iran accountable at the Commander in Chief’s direction. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-          "publishedAt": "2026-07-21T03:22:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "经济",
-        "军事与安全",
-        "能源",
-        "专题·科技、能源与产业"
-      ],
-      "score": 87,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "能源"
-      ],
-      "fingerprint": "dd2a1164d8995a88dd30461d",
-      "isContinuation": false,
-      "titleZh": "美国对伊朗发动进一步袭击；胡塞武装威胁封锁沙特航运——中东危机直播",
-      "summaryZh": "美军持续打击伊朗军事目标，胡塞武装则威胁封锁红海航道。地区冲突升级导致国际油价显著上涨。",
-      "whyImportant": "中东地区冲突的蔓延对全球航运和能源安全构成了严峻挑战。",
+      "summaryZh": "随着美伊冲突导致霍尔木兹海峡再次关闭，全球油价面临上涨压力。分析人士指出，若油价持续维持在每桶100美元以上，可能引发通胀并拖累经济，而中国目前无意动用储备来平抑价格。",
+      "whyImportant": "油价波动对全球经济复苏及通胀控制构成了严峻挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -149,7 +192,7 @@
         "公共安全",
         "专题·科技、能源与产业"
       ],
-      "score": 85,
+      "score": 83,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": true,
@@ -158,9 +201,135 @@
       ],
       "fingerprint": "ccf217a3da39824d93eb1757",
       "isContinuation": false,
-      "titleZh": "白宫官员称，特朗普正在考虑对加拿大征收额外关税，以应对野火烟雾对美国的影响",
-      "summaryZh": "特朗普政府计划对加拿大商品征收50%的关税，理由包括贸易歧视及环境影响。此举引发了美加双边关系的紧张。",
-      "whyImportant": "将环境问题与贸易关税挂钩是特朗普政府政策的新动向，可能引发连锁贸易反应。",
+      "titleZh": "白宫官员称，特朗普正在研究因野火烟雾影响对加拿大加征额外关税——事件回顾",
+      "summaryZh": "特朗普在从新泽西州返回华盛顿时，对三名美军士兵在伊朗袭击中丧生表示哀悼，并重申了美军阻止伊朗获得核武器的立场。此前白宫宣布将对大多数加拿大商品征收50%的关税。",
+      "whyImportant": "美加双边关系因贸易关税及政治摩擦而持续紧张。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0be9f0ff98872c42",
+      "title": "Iran claims attacks in strait of Hormuz; Houthis announce blockade of Red Sea shipping route – Middle East crisis live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+      "publishedAt": "2026-07-21T05:59:34.000Z",
+      "summary": "Revolutionary Guard claims attack on oil tanker and two other ships; Houthis in Yemen say they are imposing an immediate maritime blockade of Saudi Arabia in the Red Sea Full report: Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies Iran’s Revolutionary ⁠Guard ⁠said it targeted ​infrastructure belonging ⁠to the US company ⁠Amazon in ​Bahrain, ‌according ‌to ‌a statements published by state media on ‌Tuesday. There was no ​official confirmation from ⁠Bahrain. ​ Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+          "publishedAt": "2026-07-21T05:59:34.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 79,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "16723188e96bc7f237f22fb8",
+      "isContinuation": false,
+      "titleZh": "伊朗声称在霍尔木兹海峡发动袭击；胡塞武装宣布封锁红海航线——中东危机直播",
+      "summaryZh": "伊朗革命卫队声称袭击了油轮及其他船只，并指控袭击了亚马逊公司在巴林的设施。与此同时，也门胡塞武装宣布对红海的沙特航线实施立即封锁。",
+      "whyImportant": "针对商业设施和航线的袭击升级，严重威胁到全球供应链的稳定。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f5849f6182d40b43",
+      "title": "Australia news live: Perth teenager arrested after allegedly stabbing mother to death; Victorian teachers to strike on Thursday",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
+      "publishedAt": "2026-07-21T05:58:28.000Z",
+      "summary": "Follow today’s news live Get our breaking news email, free app or daily news podcast Alpine ski resorts in New South Wales and Victoria saw climate records shattered at the weekend with maximum temperatures up to 12C above average. Ski areas of Mount Hotham and Falls Creek set July records for their hottest daytime and night-time temperatures and Thredbo also set a new hottest July day, according to the Bureau of Meteorology. We want to see more Australian ideas commercialised, more Australian technology deployed globally, and more of the economic value harnessed here at home. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
+          "publishedAt": "2026-07-21T05:58:28.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "经济",
+        "科技",
+        "环境",
+        "专题·科技、能源与产业"
+      ],
+      "score": 75,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "0bc90243e661426ecae092f7",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻直播：珀斯一名青少年因涉嫌刺死母亲被捕；维多利亚州教师将于周四罢工",
+      "summaryZh": "澳大利亚新南威尔士州和维多利亚州的高山滑雪胜地周末气温打破气候记录，最高气温比平均水平高出12摄氏度。气象局数据显示，霍瑟姆山和福尔斯克里克等滑雪区创下了7月最高日间和夜间气温记录。",
+      "whyImportant": "极端高温天气对澳大利亚滑雪产业及气候环境造成了显著影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8834a578b88ceea2",
+      "title": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba",
+      "publishedAt": "2026-07-20T22:50:46.000Z",
+      "summary": "New report denounces Havana and claims ‘campaign of subversion’ has infiltrated highest levels of US government As part of the Trump administration’s continuing attack on left-leaning groups, the US state department has listed several activists and organizations as “front groups and fellow travelers” for Cuba, including Hasan Piker and Amazon Labor Union founder Chris Smalls. In a 100-page report released on Monday, the state department denounces Cuba as the “capital of 21st-century communism”, accusing the Cuban government of carrying out a “campaign of subversion” that has “infiltrated the highest reaches of the US government, recruited and cultivated generations of American activists [and] backed an unprecedented wave of leftwing terrorism on American soil”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba",
+          "publishedAt": "2026-07-20T22:50:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "0e713bb797cb5e39da7bd56d",
+      "isContinuation": false,
+      "titleZh": "“前线组织与同路人”：美国国务院抨击美国左翼支持古巴",
+      "summaryZh": "美国国务院发布一份百页报告，指责古巴实施“颠覆运动”并渗透至美国政府高层。报告将多名活动人士及组织列为古巴的“前线组织与同路人”，并指控其支持美国境内的左翼恐怖主义。",
+      "whyImportant": "此举标志着美国政府对国内左翼政治力量的打压进一步升级。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -191,7 +360,7 @@
         "能源",
         "专题·科技、能源与产业"
       ],
-      "score": 75,
+      "score": 73,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": true,
@@ -200,67 +369,26 @@
       ],
       "fingerprint": "53fbd1f0a375bf7f63148356",
       "isContinuation": false,
-      "titleZh": "尽管有特朗普与习近平的协议，美国大豆出口下降，巴西扩大在华市场份额",
-      "summaryZh": "中国海关数据显示，巴西大豆进口量大幅增长，而美国大豆进口量则出现下滑。这表明美中贸易协议的执行情况与预期存在差距。",
-      "whyImportant": "大豆贸易数据的变化反映了美中贸易关系的复杂性及全球农产品市场的竞争格局。",
+      "titleZh": "尽管有特朗普与习近平的协议，美国大豆出口下降，巴西在华市场份额扩大",
+      "summaryZh": "中国海关数据显示，6月份中国进口巴西大豆量同比增长13.7%，而美国大豆进口量则下降20.6%。这表明美国大豆出口远未达到两国领导人此前达成的采购协议预期。",
+      "whyImportant": "美中贸易协议在农产品领域的执行情况不及预期，影响了全球大豆贸易格局。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8834a578b88ceea2",
-      "title": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
+      "id": "f540a99aaf935404",
+      "title": "Kumanjayi Little Baby’s mother was not supported to protect her children while escaping domestic violence, review finds",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba",
-      "publishedAt": "2026-07-20T22:50:46.000Z",
-      "summary": "New report denounces Havana and claims ‘campaign of subversion’ has infiltrated highest levels of US government As part of the Trump administration’s continuing attack on left-leaning groups, the US state department has listed several activists and organizations as “front groups and fellow travelers” for Cuba, including Hasan Piker and Amazon Labor Union founder Chris Smalls. In a 100-page report released on Monday, the state department denounces Cuba as the “capital of 21st-century communism”, accusing the Cuban government of carrying out a “campaign of subversion” that has “infiltrated the highest reaches of the US government, recruited and cultivated generations of American activists [and] backed an unprecedented wave of leftwing terrorism on American soil”. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/21/kumanjayi-little-babys-mother-was-not-supported-to-protect-her-children-while-escaping-domestic-violence-review-found-ntwnfb",
+      "publishedAt": "2026-07-21T04:55:37.000Z",
+      "summary": "Interim report not able to draw ‘nexus’ between matters referred to child protection and circumstances leading to five-year-old’s alleged murder •Warning: This story contains references to Indigenous Australians who have died Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Kumanjayi Little Baby’s mother was “effectively” left alone to protect her children while also experiencing domestic violence, because child protection authorities failed to adequately assess multiple threats to her safety, a draft review has found. But the interim report, tabled in parliament on Tuesday, found that despite those conclusions, the review was unable to draw a link between the child protection referrals and the five-year-old Warlpiri girl’s death. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba",
-          "publishedAt": "2026-07-20T22:50:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "能源",
-        "专题·科技、能源与产业"
-      ],
-      "score": 75,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "能源"
-      ],
-      "fingerprint": "0e713bb797cb5e39da7bd56d",
-      "isContinuation": false,
-      "titleZh": "“前线组织和同路人”：美国国务院攻击美国左翼与古巴的关系",
-      "summaryZh": "美国国务院发布报告，指责古巴对美国进行“颠覆活动”，并将部分左翼活动人士列为古巴的“同路人”。此举被视为特朗普政府对国内政治对手的打压。",
-      "whyImportant": "该报告反映了美国国内政治极化以及政府对意识形态对手的强硬立场。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f5849f6182d40b43",
-      "title": "Australia news live: Pauline Hanson says Trump had ‘a great way’ of dealing with migrants; Nine newspapers announce redundancies",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
-      "publishedAt": "2026-07-21T03:06:42.000Z",
-      "summary": "One Nation leader says Trump’s methods dealt with people ‘using all these ploys to stay in the country’. Follow today’s news live Get our breaking news email, free app or daily news podcast Alpine ski resorts in New South Wales and Victoria saw climate records shattered at the weekend with maximum temperatures up to 12C above average. Ski areas of Mount Hotham and Falls Creek set July records for their hottest daytime and night-time temperatures and Thredbo also set a new hottest July day, according to the Bureau of Meteorology. We want to see more Australian ideas commercialised, more Australian technology deployed globally, and more of the economic value harnessed here at home. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
-          "publishedAt": "2026-07-21T03:06:42.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/jul/21/kumanjayi-little-babys-mother-was-not-supported-to-protect-her-children-while-escaping-domestic-violence-review-found-ntwnfb",
+          "publishedAt": "2026-07-21T04:55:37.000Z"
         }
       ],
       "sourceCount": 1,
@@ -270,24 +398,57 @@
       "tags": [
         "全球焦点",
         "突发",
-        "经济",
-        "科技",
-        "环境",
-        "专题·科技、能源与产业"
+        "军事与安全",
+        "国际组织"
       ],
-      "score": 74,
+      "score": 71,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "21de8605abb9788b6d141ca6",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5c103d9dede690754a6220a8",
       "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：宝琳·汉森称特朗普处理移民的方式“很棒”；九号报业宣布裁员",
-      "summaryZh": "一族党领袖汉森称赞特朗普应对移民的手段有效。与此同时，澳大利亚部分滑雪胜地气温打破历史纪录，极端高温引发关注。",
-      "whyImportant": "该报道反映了澳大利亚政坛对移民政策的争议以及气候变化对当地旅游业的直接影响。",
+      "titleZh": "审查发现：库曼贾伊·小宝贝的母亲在逃离家庭暴力时未获得保护子女的支持",
+      "summaryZh": "一份草拟审查报告指出，儿童保护机构未能充分评估安全威胁，导致库曼贾伊·小宝贝的母亲在遭受家暴时被迫独自保护子女。然而，报告未能证实儿童保护部门的失职与这名五岁女孩的死亡之间存在直接关联。",
+      "whyImportant": "该事件凸显了澳大利亚儿童保护系统在处理家庭暴力案件时的监管漏洞。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "42f2c01de89a3abc",
+      "title": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
+      "publishedAt": "2026-07-21T04:09:54.000Z",
+      "summary": "Iran has attacked a tanker in the strait of Hormuz, forcing its crew to abandon the ship, after the US launched a tenth consecutive night of strikes Middle East crisis live: follow latest updates Nearly 100 US service members have been injured over the last two weeks of escalating strikes on Iran, the Pentagon has said, as Tehran launched a wave of reprisals to the tenth consecutive night of attacks. Iran’s Revolutionary Guards said on Tuesday they had targeted US military sites including air defence systems and a radar installation in Bahrain and Kuwait, while a tanker in the strait of Hormuz reported being ⁠struck by an unknown projectile, forcing its crew to abandon the vessel and board a lifeboat. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
+          "publishedAt": "2026-07-21T04:09:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 71,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c8ab9d9bc01ae865e7ebf046",
+      "isContinuation": false,
+      "titleZh": "五角大楼承认近几周有近百名士兵受伤，伊朗对美国盟友发动报复",
+      "summaryZh": "在美伊冲突升级背景下，五角大楼证实过去两周内有近百名美军士兵受伤。伊朗革命卫队声称袭击了巴林和科威特的美国军事设施，同时霍尔木兹海峡一艘油轮遭不明物体袭击。",
+      "whyImportant": "美伊军事对抗的加剧正导致中东地区安全局势急剧恶化。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -317,7 +478,7 @@
         "能源",
         "专题·科技、能源与产业"
       ],
-      "score": 73,
+      "score": 71,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": true,
@@ -326,51 +487,9 @@
       ],
       "fingerprint": "9155f647bc4b25da1c8d93f1",
       "isContinuation": false,
-      "titleZh": "白宫称特朗普将对大多数加拿大商品征收50%的关税",
-      "summaryZh": "特朗普政府宣布对加拿大商品征收高额关税，以报复加拿大对美国产品的歧视性政策。此举预计将对美加贸易产生重大冲击。",
-      "whyImportant": "美加贸易战的升级将对北美经济一体化造成严重破坏。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a39f47a5f62ed724",
-      "title": "How will Zelenskyy handle the growing political crisis at home?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-      "publishedAt": "2026-07-20T20:50:31.000Z",
-      "summary": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-          "publishedAt": "2026-07-20T20:50:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "能源",
-        "专题·科技、能源与产业"
-      ],
-      "score": 72,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "能源"
-      ],
-      "fingerprint": "cab658d92cc5096c12ee805b",
-      "isContinuation": false,
-      "titleZh": "泽连斯基将如何处理国内日益严重的政治危机？",
-      "summaryZh": "在乌克兰对俄罗斯石油设施发动袭击后，泽连斯基政府面临部长被解职引发的内部政治危机。乌克兰正处于应对外部军事压力与内部政治动荡的双重挑战中。",
-      "whyImportant": "乌克兰的内部政治稳定直接影响其在俄乌冲突中的应对能力。",
+      "titleZh": "白宫称唐纳德·特朗普将对大多数加拿大商品征收50%的关税",
+      "summaryZh": "白宫宣布，因不满加拿大对美国汽车、酒精和乳制品实施所谓的不公平歧视，特朗普政府将对大多数加拿大商品征收50%的关税。此次关税范围广泛，涵盖了此前受美墨加协定保护的多种商品。",
+      "whyImportant": "此举将严重冲击美加贸易关系，并可能引发两国间的贸易争端。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -400,7 +519,7 @@
         "军事与安全",
         "公共安全"
       ],
-      "score": 73,
+      "score": 71,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": false,
@@ -408,8 +527,8 @@
       "fingerprint": "db6bb47a59eeafe04b9d0cd2",
       "isContinuation": false,
       "titleZh": "“必须立即停止”：民主党人敦促特朗普在美军死亡后停止对伊战争",
-      "summaryZh": "随着三名美军在伊朗袭击中丧生，民主党人指责特朗普失去对战争的控制。尽管美军持续发动反击，但不断攀升的伤亡人数加剧了国内对冲突升级的担忧。",
-      "whyImportant": "美军伤亡事件加剧了美国国内政治分歧，并使美伊冲突的走向变得更加复杂。",
+      "summaryZh": "三名美军士兵在伊朗袭击中丧生，引发民主党人对特朗普政府升级冲突的强烈批评。尽管美军已连续十天对伊朗目标发动攻击，但不断攀升的伤亡人数正使局势变得更加复杂。",
+      "whyImportant": "美军伤亡事件加剧了美国国内对重启对伊战争的政治压力与担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -418,7 +537,7 @@
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T02:41:28.000Z",
+      "publishedAt": "2026-07-21T06:16:06.000Z",
       "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
       "language": "",
       "region": "international",
@@ -426,7 +545,7 @@
         {
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-21T02:41:28.000Z"
+          "publishedAt": "2026-07-21T06:16:06.000Z"
         }
       ],
       "sourceCount": 1,
@@ -438,7 +557,7 @@
         "突发",
         "军事与安全"
       ],
-      "score": 67,
+      "score": 68,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": false,
@@ -446,249 +565,8 @@
       "fingerprint": "2c7cd538f78eef90b8d2904a",
       "isContinuation": false,
       "titleZh": "美国对伊朗发动新一轮袭击，特朗普警告将为士兵死亡进行报复",
-      "summaryZh": "美国表示，此次袭击旨在削弱伊朗在霍尔木兹海峡攻击船只的能力。特朗普政府誓言要对美军士兵的死亡采取报复行动。",
-      "whyImportant": "美伊军事对抗升级，直接威胁到全球能源运输要道霍尔木兹海峡的安全。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "96c65c811fc6c4c7",
-      "title": "Chinese teenager lies to parents about holiday to secretly help flood victims in Guangxi",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361101/chinese-teenager-lies-parents-about-holiday-secretly-help-flood-victims-guangxi?utm_source=rss_feed",
-      "publishedAt": "2026-07-21T01:00:08.000Z",
-      "summary": "A teenager from eastern China told his parents he was going on holiday, but secretly travelled with a friend to a flood-stricken region to join relief efforts. Earlier this month, 18-year-old Shanghai student Wu Yulun had just completed the gaokao, China’s national college entrance examination, and was planning a graduation trip. But after seeing an online appeal from a volunteer group in the southwestern Guangxi region, he abandoned those plans and headed for the disaster zone instead. Days of...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361101/chinese-teenager-lies-parents-about-holiday-secretly-help-flood-victims-guangxi?utm_source=rss_feed",
-          "publishedAt": "2026-07-21T01:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "环境",
-        "公共安全",
-        "专题·科技、能源与产业"
-      ],
-      "score": 66,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "eec24db32101ae3f8290b8ea",
-      "isContinuation": false,
-      "titleZh": "中国少年谎称度假，实则秘密前往广西支援洪灾救援",
-      "summaryZh": "一名刚参加完高考的上海学生瞒着父母，前往广西洪灾区参与志愿服务。他的善举在网上引发关注，展现了年轻一代的社会责任感。",
-      "whyImportant": "该事件体现了中国青年在面对自然灾害时的积极参与精神。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "65f690d9a75edf72",
-      "title": "Hong Kong’s first-time lawmakers ask fewer questions but attend Legco more often",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3361252/hong-kongs-first-time-lawmakers-ask-fewer-questions-attend-legco-more-often?utm_source=rss_feed",
-      "publishedAt": "2026-07-21T00:30:07.000Z",
-      "summary": "Hong Kong’s first-time lawmakers have raised fewer questions than their veteran counterparts but recorded a higher attendance rate, a South China Morning Post check has found. Alan Chan Chung-yee, who is also the chief operating officer of Miramar Group, and athlete turned legislator Vivian Kong Man-wai were among those who submitted the fewest questions to the government. Political observers attributed the trend to newcomers seeking to balance respect for the executive-led system with their...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3361252/hong-kongs-first-time-lawmakers-ask-fewer-questions-attend-legco-more-often?utm_source=rss_feed",
-          "publishedAt": "2026-07-21T00:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "国际组织",
-        "专题·科技、能源与产业"
-      ],
-      "score": 66,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "7e0c9f9912e816133146e985",
-      "isContinuation": false,
-      "titleZh": "香港新任议员提问减少但出席率更高",
-      "summaryZh": "调查显示，香港新任立法会议员在议会中的提问频率低于资深议员，但出席率表现更佳。分析认为这反映了新人试图在行政主导体制下寻求平衡。",
-      "whyImportant": "这一趋势反映了香港立法会新老议员在履职风格上的差异及政治生态的变化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6035c8c54cda9b7d",
-      "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
-      "publishedAt": "2026-07-20T15:08:45.000Z",
-      "summary": "Moscow targets southern city after the Russian capital was hit by 400 drones in response to one of the war’s biggest attacks on Kyiv at the weekend There is also a bit more from Reuters on the context – and the significance – of these continued strikes on ships: “Both Russia and Ukraine are major grain exporters, and ​the renewed violence on this route has ​raised concerns about supply. Ukraine, which in recent ​seasons accounted for about 6% of global wheat exports and about 11% of global corn ​exports, has lost about a ‌third of its capacity ​to export grain via ​its Black Sea ports due to Russian missile and drone attacks, traders and analysts have said. “Upon prime minister @KoretskyiUA’s instructions, @MFA_Ukraine is already informing the International Maritime Organization and our international partners about Russia’s latest attacks on civilian shipping, as well as the governments of the states whose citizens were killed or injured. During president @ZelenskyyUa‘s recent visit to London, I discussed this issue with the IMO leadership and called for the deployment of an international monitoring mission to Ukraine’s ports. We expect this mission to begin its work as planned in ",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
-          "publishedAt": "2026-07-20T15:08:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 65,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "73d06034ad2c3e85cb2874dd",
-      "isContinuation": false,
-      "titleZh": "俄罗斯袭击敖德萨致三人死亡，此前乌克兰连夜用无人机袭击莫斯科",
-      "summaryZh": "俄乌双方近期爆发大规模相互袭击，导致平民伤亡及基础设施受损。冲突升级引发了国际社会对全球粮食供应安全的担忧。",
-      "whyImportant": "俄乌冲突的持续升级不仅造成严重人道主义后果，还对全球粮食供应链构成威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f7fe1666e968347d",
-      "title": "Can Europe win a trade war with China? It may depend on how victory is defined",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3361174/can-europe-win-trade-war-china-it-may-depend-how-victory-defined?utm_source=rss_feed",
-      "publishedAt": "2026-07-20T14:00:18.000Z",
-      "summary": "As trade tensions with China reach boiling point, EU officials are ramping up engagement with Beijing in search of an off-ramp. Quietly behind the scenes, though, Europe is preparing for a trade war. In Brussels, a steely determination has set in to ensure the bloc’s manufacturing heartlands are not deindustrialised by the “China Shock 2.0”. With some industries already haemorrhaging jobs, the EU’s resilience-building and de-risking plans are now laced with deterrents as Brussels looks to...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3361174/can-europe-win-trade-war-china-it-may-depend-how-victory-defined?utm_source=rss_feed",
-          "publishedAt": "2026-07-20T14:00:18.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "军事与安全",
-        "能源",
-        "专题·科技、能源与产业"
-      ],
-      "score": 65,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "能源"
-      ],
-      "fingerprint": "eede2e4618a94ee32a7ad9bd",
-      "isContinuation": false,
-      "titleZh": "欧洲能赢得与中国的贸易战吗？这可能取决于如何定义胜利",
-      "summaryZh": "欧盟在寻求与中国接触的同时，也在为潜在的贸易战做准备。布鲁塞尔致力于保护制造业免受“中国冲击”，并加强经济韧性。",
-      "whyImportant": "中欧贸易关系的紧张态势对全球经济格局及双方产业发展具有深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9f137dd21c210428",
-      "title": "Pauline Hanson shares Seven pitch for Spotlight special that says program would highlight ‘uncontrolled immigration’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/pauline-hanson-shares-seven-pitch-encouraging-her-to-meet-nigel-farage-for-spotlight-special-ntwnfb",
-      "publishedAt": "2026-07-21T00:17:26.000Z",
-      "summary": "One Nation leader posts network’s proposal to travel to UK to explore what Australia faces ‘if we don’t take back control of who comes to our country’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A Seven producer urged Pauline Hanson to travel to Britain to meet Nigel Farage and film a Spotlight special highlighting so-called “uncontrolled immigration”, according to a pitch posted to social media by the One Nation leader. The pitch also suggested that Seven might cover some of the travel costs for the One Nation leader and her team and that the program wanted the Reform UK leader to “invite Ms Hanson to Britain”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/jul/21/pauline-hanson-shares-seven-pitch-encouraging-her-to-meet-nigel-farage-for-spotlight-special-ntwnfb",
-          "publishedAt": "2026-07-21T00:17:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 64,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "154a0c77eae9c4ecb9f708d3",
-      "isContinuation": false,
-      "titleZh": "宝琳·汉森分享七号台节目提案，称将重点报道“不受控制的移民”",
-      "summaryZh": "一族党领袖汉森公开了一份节目提案，显示七号台曾邀请她前往英国探讨移民问题。此举引发了关于媒体中立性及政治议程设置的讨论。",
-      "whyImportant": "该事件揭示了澳大利亚媒体与政治人物在移民议题上的互动及其对公众舆论的影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd19095d1c3b503d",
-      "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-      "publishedAt": "2026-07-21T00:00:00.000Z",
-      "summary": "Explosions reported in Iran's Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-          "publishedAt": "2026-07-21T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 64,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "92ea5801fac535b128fae324",
-      "isContinuation": false,
-      "titleZh": "伊朗战争直播：德黑兰袭击海湾国家，称霍尔木兹海峡两艘油轮起火",
-      "summaryZh": "伊朗多地发生爆炸，同时美军发动新一轮袭击。霍尔木兹海峡局势急剧恶化，油轮受袭引发市场恐慌。",
-      "whyImportant": "霍尔木兹海峡的动荡直接冲击全球能源市场，加剧了地区战争风险。",
+      "summaryZh": "美国对伊朗采取了新一轮军事打击行动。美方表示，此次袭击旨在削弱伊朗在霍尔木兹海峡攻击船只的能力。",
+      "whyImportant": "美伊双方军事行动的升级进一步推高了地区冲突失控的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -718,16 +596,54 @@
         "经济",
         "军事与安全"
       ],
-      "score": 69,
+      "score": 67,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
       "fingerprint": "b38165778915b3b779a00560",
       "isContinuation": false,
-      "titleZh": "特朗普签署行政令，针对与中国有关的军事矿产供应链",
-      "summaryZh": "特朗普签署行政令，要求国防承包商在2027年1月前减少对中国关键矿产的依赖。此举旨在确保美国在军事竞争中的供应链安全。",
-      "whyImportant": "美国在关键矿产领域的“去中国化”政策将重塑全球国防工业供应链。",
+      "titleZh": "特朗普签署行政令，针对与中国相关的军事矿产供应链",
+      "summaryZh": "特朗普签署行政令，要求减少国防关键矿产对中国的依赖，并指示军事承包商从2027年1月起逐步脱离与中国相关的供应链。该命令强调在“大国竞争时代”维护美国军事优势的重要性。",
+      "whyImportant": "此举旨在通过供应链重组削弱中国在关键国防资源领域的影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8461e710b9cf42fb",
+      "title": "Japan says Chinese and Russian warships held live-fire drills within its EEZ",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3361291/japan-says-chinese-and-russian-warships-held-live-fire-drills-within-its-eez?utm_source=rss_feed",
+      "publishedAt": "2026-07-21T04:00:20.000Z",
+      "summary": "Chinese and Russian navy ships were spotted conducting joint live-fire drills within Japan’s claimed exclusive economic zone in the Pacific Ocean on Sunday, its defence ministry said. Japanese Defence Minister Shinjiro Koizumi first revealed that the two navies had held drills in Japan’s EEZ during an address to the Farnborough International Airshow in Britain on Monday, highlighting their deepening military cooperation, according to media reports. Japan’s defence ministry later confirmed that...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3361291/japan-says-chinese-and-russian-warships-held-live-fire-drills-within-its-eez?utm_source=rss_feed",
+          "publishedAt": "2026-07-21T04:00:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9f41dc4286c586bd838d9176",
+      "isContinuation": false,
+      "titleZh": "日本称中俄军舰在其专属经济区内进行实弹演习",
+      "summaryZh": "日本防卫省表示，中俄海军舰艇周日在日本专属经济区内进行了联合实弹演习。日本防卫大臣小泉进次郎在英国航展上强调了此举反映出两国军事合作的深化。",
+      "whyImportant": "中俄在敏感海域的联合军事活动引发了日本对地区安全局势的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -757,33 +673,33 @@
         "军事与安全",
         "国际组织"
       ],
-      "score": 68,
+      "score": 66,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
       "fingerprint": "777bae13f811e3a20a51eef5",
       "isContinuation": false,
-      "titleZh": "美国声称中国在古巴设有三个间谍站点，用于监控美军活动",
-      "summaryZh": "美国国务院发布报告，指责中国在古巴运营情报设施并扩大人员规模。美方认为这构成了对美国国家安全的潜在威胁。",
-      "whyImportant": "美中在情报领域的相互指责加剧了双边关系的紧张程度。",
+      "titleZh": "美国声称中国在古巴设有三个间谍站点，用于监控美国军事活动",
+      "summaryZh": "美国国务院报告指控中国在古巴运营三个情报收集设施，并大幅增加人员部署。美方认为古巴已成为北京监控美国军事活动和电子通信的战略平台。",
+      "whyImportant": "美方对中国在古巴情报活动的指控加剧了美中之间的地缘政治紧张关系。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "339a0b4f3958bad4",
-      "title": "Chinese robot makers’ lament: if we only had a better ‘brain’, and more data",
+      "id": "d53b59062c983326",
+      "title": "SpaceX slump fails to dent Hong Kong tech as investors seen pivoting",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/article/3361243/chinese-robot-makers-lament-if-we-only-had-better-brain-and-more-data?utm_source=rss_feed",
-      "publishedAt": "2026-07-20T23:00:09.000Z",
-      "summary": "Chinese robotics companies lack both sufficient data and a good “brain” to improve the interaction of their products with the physical world, according to industry insiders at the World Artificial Intelligence Conference (WAIC), which concluded on Monday in Shanghai. The most critical challenge for the embodied AI industry was to “link hardware, data, models and real-world scenarios into a closed-loop iterative system”, said Wang Xiaogang, co-founder of SenseTime and chairman of its robotics...",
+      "url": "https://www.scmp.com/business/markets/article/3361297/spacex-slump-fails-dent-hong-kong-tech-investors-seen-pivoting?utm_source=rss_feed",
+      "publishedAt": "2026-07-21T05:00:07.000Z",
+      "summary": "A sharp pullback in US space-technology giant SpaceX and renewed valuation pressure on Wall Street’s tech heavyweights are unlikely to trigger a major sell-off in Hong Kong equities, according to analysts, who note that local tech firms operate under distinct business models and lack the stretched valuations of their overseas peers. “I don’t think there will be much impact” in Hong Kong, said Kenny Tang Sing-hing, chairman of the Hong Kong Institute of Financial Analysts and Professional...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/article/3361243/chinese-robot-makers-lament-if-we-only-had-better-brain-and-more-data?utm_source=rss_feed",
-          "publishedAt": "2026-07-20T23:00:09.000Z"
+          "url": "https://www.scmp.com/business/markets/article/3361297/spacex-slump-fails-dent-hong-kong-tech-investors-seen-pivoting?utm_source=rss_feed",
+          "publishedAt": "2026-07-21T05:00:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -792,8 +708,92 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
         "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 71,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "space",
+        "科技"
+      ],
+      "fingerprint": "e96f49fcdf872cdb0599f4a1",
+      "isContinuation": false,
+      "titleZh": "SpaceX股价下跌未冲击香港科技股，投资者被视为正在转向",
+      "summaryZh": "分析人士认为，美国太空技术巨头SpaceX的股价回调及华尔街科技股的估值压力，不太可能引发香港股市的大规模抛售。专家指出，香港科技公司拥有独特的商业模式，且估值并未像海外同行那样处于高位。",
+      "whyImportant": "香港科技股表现出与美股科技板块一定的脱钩趋势，显示出市场韧性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d30ef3f71aefaebe",
+      "title": "India joins China, US in commercial space race with Skyroot launch",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3361253/india-joins-china-us-commercial-space-race-skyroot-launch?utm_source=rss_feed",
+      "publishedAt": "2026-07-21T04:00:15.000Z",
+      "summary": "India’s first privately developed orbital rocket has given the country’s fledgling commercial space industry a long-sought proof point, but analysts say Skyroot Aerospace must now show it can launch regularly, cheaply and reliably enough to win customers in a crowded global market. Skyroot’s Vikram-1 rocket lifted off on Saturday from the Satish Dhawan Space Centre in Sriharikota in the southern Indian state of Andhra Pradesh, carrying several customer payloads and in-orbit experiments on its...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3361253/india-joins-china-us-commercial-space-race-skyroot-launch?utm_source=rss_feed",
+          "publishedAt": "2026-07-21T04:00:15.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 69,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "ff8f6b73d4159718b23d418d",
+      "isContinuation": false,
+      "titleZh": "印度凭借Skyroot的发射加入中美的商业太空竞赛",
+      "summaryZh": "印度首枚私营轨道火箭Vikram-1成功发射，标志着该国商业航天产业取得重要进展。分析人士指出，Skyroot Aerospace公司目前需证明其具备定期、低成本且可靠的发射能力，以在竞争激烈的全球市场中立足。",
+      "whyImportant": "印度在商业航天领域的突破加剧了全球私营航天市场的竞争。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1af1e07a866de61d",
+      "title": "Teenager sent to detention centre for attempted voyeurism in school toilet",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361298/teenager-sent-detention-centre-attempted-voyeurism-school-toilet?utm_source=rss_feed",
+      "publishedAt": "2026-07-21T04:17:33.000Z",
+      "summary": "A 16-year-old Hong Kong student has been sentenced to up to six months at a detention centre for attempted voyeurism after he admitted to trying to spy on a female pupil in a school toilet. Kowloon City Court Magistrate Tsang Chung-yiu on Tuesday told the student to reflect on his actions as he spent the next few months at the Sha Tsui Correctional Institution, which is for young offenders. The defendant earlier pleaded guilty to a count of attempted voyeurism. He was caught in the act by the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361298/teenager-sent-detention-centre-attempted-voyeurism-school-toilet?utm_source=rss_feed",
+          "publishedAt": "2026-07-21T04:17:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "能源",
         "专题·科技、能源与产业"
       ],
       "score": 67,
@@ -801,14 +801,13 @@
       "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "artificial intelligence",
-        "科技"
+        "能源"
       ],
-      "fingerprint": "3b95b67b186b29c4540b9d21",
+      "fingerprint": "060ff0e01940df6eded2e485",
       "isContinuation": false,
-      "titleZh": "中国机器人制造商的感叹：如果能有更好的“大脑”和更多数据就好了",
-      "summaryZh": "行业专家指出，中国机器人企业在数据积累和人工智能算法方面仍面临挑战。实现硬件与模型的闭环迭代是行业发展的关键瓶颈。",
-      "whyImportant": "中国机器人产业在核心技术上的突破能力将决定其在全球市场的竞争力。",
+      "titleZh": "一名青少年因在学校厕所企图偷窥被送往教导所",
+      "summaryZh": "一名16岁香港学生因承认在学校厕所企图偷窥女同学，被法院判处在教导所服刑最长六个月。法官要求该学生在沙咀惩教所服刑期间深刻反省其行为。",
+      "whyImportant": "该判决反映了香港司法机构对校园性骚扰及偷窥行为的严厉打击态度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -838,71 +837,74 @@
         "军事与安全",
         "公共安全"
       ],
-      "score": 75,
+      "score": 73,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
       "fingerprint": "8ae4af3dbcc7ce47c6e98c82",
       "isContinuation": false,
-      "titleZh": "美国连续第10晚袭击伊朗",
-      "summaryZh": "华盛顿誓言为美军伤亡复仇，而伊朗则声称对该地区的美国设施进行了反击。双方军事对抗进入白热化阶段。",
-      "whyImportant": "持续的军事打击增加了中东地区爆发全面战争的风险。",
+      "titleZh": "美国连续第十晚袭击伊朗",
+      "summaryZh": "华盛顿誓言为美军伤亡进行报复，而伊朗则声称已对该地区的美国设施发动了反击。",
+      "whyImportant": "美伊双方持续的军事报复行动使地区冲突陷入恶性循环。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "00d25abb6d3b69f4",
-      "title": "US Justice Department investigating Harvard over financial aid programmes",
+      "id": "57a91f56e1888a54",
+      "title": "How Chinese police infiltrated and monitored the dark web with the help of AI tools",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3361270/us-justice-department-investigating-whether-harvard-aid-programmes-are-discriminatory?utm_source=rss_feed",
-      "publishedAt": "2026-07-20T22:31:45.000Z",
-      "summary": "The US Department of Justice said on Monday it launched a probe reviewing whether some Harvard University financial aid programmes were discriminatory, marking the latest fight against ‌the university by President Donald Trump’s administration. “The Justice Department’s Civil Rights Division announced today it is opening a compliance review into Harvard University to determine whether its China-based financial aid programmes and practices exclude American-citizen students,” the department said...",
+      "url": "https://www.scmp.com/news/china/science/article/3361173/how-chinese-police-infiltrated-and-monitored-dark-web-help-ai-tools?utm_source=rss_feed",
+      "publishedAt": "2026-07-21T06:00:15.000Z",
+      "summary": "Chinese police scientists have offered a rare insight into how they were able to break into the dark web using artificial intelligence to decode underground content. The dark web – a realm unfamiliar to most – is built on encrypted communications and anonymous routing technologies that render user activity nearly untraceable, making it a haven for illegal activity and data trafficking. In recent years, researchers both in China and abroad have made progress in analysing dark web content, but...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361270/us-justice-department-investigating-whether-harvard-aid-programmes-are-discriminatory?utm_source=rss_feed",
-          "publishedAt": "2026-07-20T22:31:45.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3361173/how-chinese-police-infiltrated-and-monitored-dark-web-help-ai-tools?utm_source=rss_feed",
+          "publishedAt": "2026-07-21T06:00:15.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
-        "国际组织"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 64,
+      "score": 65,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "43aed1ae117518e0ddc89446",
+      "topicMatch": true,
+      "topicKeywords": [
+        "artificial intelligence",
+        "科技"
+      ],
+      "fingerprint": "a2ca4c8cd446bd9f0744428b",
       "isContinuation": false,
-      "titleZh": "美国司法部调查哈佛大学的经济援助项目",
-      "summaryZh": "美国司法部启动调查，审查哈佛大学的经济援助项目是否存在歧视行为。重点在于这些项目是否排斥了美国公民学生。",
-      "whyImportant": "此举是特朗普政府对高等教育机构进行意识形态审查的一部分。",
+      "titleZh": "中国警方如何利用人工智能工具渗透和监控暗网",
+      "summaryZh": "中国警方科研人员展示了如何利用人工智能技术解码暗网中的加密内容。暗网因其匿名性和加密通信常被用于非法活动，而AI技术的应用显著提升了警方追踪和分析此类非法数据的能力。",
+      "whyImportant": "人工智能在网络犯罪侦查中的应用正成为各国执法部门提升打击能力的关键。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "975b58086b50911b",
-      "title": "Healey made chancellor, Miliband named foreign secretary and Yvette Cooper becomes health secretary as Burnham picks cabinet – UK politics as it happened",
+      "id": "97e868184b2ffc3a",
+      "title": "UK military ‘eyes innovative electric flying taxi’ as 2029 launch planned",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-      "publishedAt": "2026-07-20T22:23:47.000Z",
-      "summary": "Rayner is back as housing secretary, while Mahmood and McFadden remain in their existing posts Burnham vows his arrival in power will be ‘circuit breaker’ moment for UK Six highlights from Andy Burnham’s first Downing Street speech Andy Burnham may see banners urging the government not to allow the proposed Rosebank oil field development in the North Sea as he drives to Buckingham Palace and the No 10 today. Here is a banner on Whitehall. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/jul/21/uk-military-electric-flying-taxi-vertical-aerospace-evtol",
+      "publishedAt": "2026-07-21T06:00:03.000Z",
+      "summary": "Vertical Aerospace says government has given £10m backing, taking its total investment in the project to £48m British flying taxi startup Vertical Aerospace has said the UK government has expressed interest in buying a military variant of its aircraft as it races to gain approval for flights with paying passengers. Vertical also welcomed another £10m grant from the government, taking its total UK state funding to £48m. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-          "publishedAt": "2026-07-20T22:23:47.000Z"
+          "url": "https://www.theguardian.com/business/2026/jul/21/uk-military-electric-flying-taxi-vertical-aerospace-evtol",
+          "publishedAt": "2026-07-21T06:00:03.000Z"
         }
       ],
       "sourceCount": 1,
@@ -911,39 +913,40 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "金融",
-        "能源",
+        "军事与安全",
+        "科技",
         "专题·科技、能源与产业"
       ],
-      "score": 64,
+      "score": 65,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "能源"
+        "space",
+        "科技"
       ],
-      "fingerprint": "3f614cf50ca4bcaa4a72d241",
+      "fingerprint": "e328b4fe2c1a8da83176de61",
       "isContinuation": false,
-      "titleZh": "希利出任财政大臣，米利班德被任命为外交大臣，伊薇特·库珀成为卫生大臣，伯纳姆组建内阁——英国政治直播",
-      "summaryZh": "安迪·伯纳姆组建新内阁，任命多位资深政客担任关键职务。他承诺其执政将成为英国政治的“断路器”时刻。",
-      "whyImportant": "英国新内阁的组建标志着该国政治方向的重大调整。",
+      "titleZh": "英国军方“着眼于创新型电动飞行出租车”，计划2029年推出",
+      "summaryZh": "英国飞行出租车初创公司Vertical Aerospace获得政府1000万英镑资助，总投资额达4800万英镑。该公司表示，英国政府已对其飞机的军事变体表现出兴趣，目前正加速争取载客飞行许可。",
+      "whyImportant": "政府对飞行出租车技术的投资显示了英国在未来交通及国防创新领域的战略布局。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "567c7312974450b6",
-      "title": "Taiwan reviews Papua New Guinea LNG imports after economic office’s forced closure",
+      "id": "339a0b4f3958bad4",
+      "title": "Chinese robot makers’ lament: if we only had a better ‘brain’, and more data",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3361237/taiwan-reviews-papua-new-guinea-lng-imports-after-economic-offices-forced-closure?utm_source=rss_feed",
-      "publishedAt": "2026-07-20T12:00:20.000Z",
-      "summary": "Taiwan is reviewing liquefied natural gas (LNG) imports from Papua New Guinea after the Pacific nation said it would close Taipei’s unofficial representative office. PNG announced last week that it would immediately shut down the office, with Foreign Minister Justin Tkatchenko saying the move reflected the government’s “unwavering commitment to the one-China policy” ahead of the 50th anniversary of the country’s diplomatic ties with Beijing. Chinese foreign ministry spokesman Lin Jian swiftly...",
+      "url": "https://www.scmp.com/tech/article/3361243/chinese-robot-makers-lament-if-we-only-had-better-brain-and-more-data?utm_source=rss_feed",
+      "publishedAt": "2026-07-20T23:00:09.000Z",
+      "summary": "Chinese robotics companies lack both sufficient data and a good “brain” to improve the interaction of their products with the physical world, according to industry insiders at the World Artificial Intelligence Conference (WAIC), which concluded on Monday in Shanghai. The most critical challenge for the embodied AI industry was to “link hardware, data, models and real-world scenarios into a closed-loop iterative system”, said Wang Xiaogang, co-founder of SenseTime and chairman of its robotics...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3361237/taiwan-reviews-papua-new-guinea-lng-imports-after-economic-offices-forced-closure?utm_source=rss_feed",
-          "publishedAt": "2026-07-20T12:00:20.000Z"
+          "url": "https://www.scmp.com/tech/article/3361243/chinese-robot-makers-lament-if-we-only-had-better-brain-and-more-data?utm_source=rss_feed",
+          "publishedAt": "2026-07-20T23:00:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -952,23 +955,23 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "外交",
-        "经济",
-        "能源",
+        "军事与安全",
+        "科技",
         "专题·科技、能源与产业"
       ],
-      "score": 64,
+      "score": 65,
       "topic": "technology-energy",
       "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "能源"
+        "artificial intelligence",
+        "科技"
       ],
-      "fingerprint": "d78c4c1f94e5a843d70c69ba",
+      "fingerprint": "3b95b67b186b29c4540b9d21",
       "isContinuation": false,
-      "titleZh": "在经济办事处被迫关闭后，台湾审查从巴布亚新几内亚进口的液化天然气",
-      "summaryZh": "因巴布亚新几内亚关闭台湾驻当地代表处，台湾方面正在审查从该国进口液化天然气的相关事宜。此举反映了地缘政治对贸易关系的直接影响。",
-      "whyImportant": "地缘政治因素正日益干扰台湾与太平洋岛国的经贸往来。",
+      "titleZh": "中国机器人制造商的感叹：如果我们有一个更好的“大脑”和更多的数据",
+      "summaryZh": "在上海举行的世界人工智能大会上，行业专家指出，中国机器人公司在数据积累和“大脑”模型方面仍面临挑战。核心难点在于如何将硬件、数据和模型有效整合，实现物理世界的闭环迭代。",
+      "whyImportant": "机器人产业在具身智能领域的瓶颈，反映了中国在高端人工智能应用方面仍需进一步突破。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
