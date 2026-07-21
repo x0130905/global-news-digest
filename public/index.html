@@ -21,52 +21,43 @@
     <div class="live"><span></span> 每日更新</div>
   </header>
 
-  <section class="command-bar" aria-label="固定新闻工具栏">
-    <div class="command-inner">
-      <div class="sticky-topic"><span>今日专题</span><strong id="sticky-topic-name">载入中</strong></div>
+  <div class="app-shell">
+    <aside class="side-panel" aria-label="新闻查找与筛选">
+      <div class="side-panel-head"><span>NEWS NAVIGATION</span><h2>查找与筛选</h2></div>
       <div class="search-wrap">
         <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.4-4.4m2.4-5.1a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg>
         <label class="sr-only" for="search">搜索新闻</label>
         <input id="search" type="search" placeholder="搜索事件、国家、机构、来源或标签…" autocomplete="off">
-        <kbd>⌘ K</kbd>
+        <kbd>Ctrl K</kbd>
       </div>
       <div class="date-control">
-        <label for="date-picker">选择日期</label>
+        <label for="date-picker">按日期查找新闻</label>
         <input id="date-picker" type="date" aria-describedby="archive-count">
         <small id="archive-count">永久档案</small>
       </div>
-    </div>
-  </section>
+      <nav class="filters" aria-label="新闻筛选">
+        <div class="filter-scroll" id="filter-list">
+          <button class="filter active" data-filter="all">全部</button>
+          <button class="filter" data-filter="featured">今日专题</button>
+          <button class="filter color-filter label-red" data-filter="label:red">红色 · 重点</button>
+          <button class="filter color-filter label-blue" data-filter="label:blue">蓝色 · 跟进</button>
+          <button class="filter color-filter label-green" data-filter="label:green">绿色 · 已读</button>
+          <button class="filter" data-filter="中国重点">中国重点</button>
+          <button class="filter" data-filter="美国重点">美国重点</button>
+          <button class="filter" data-filter="经济">经济金融</button>
+          <button class="filter" data-filter="军事与安全">安全</button>
+          <button class="filter" data-filter="科技">科技</button>
+          <button class="filter" data-filter="环境">环境</button>
+        </div>
+        <button class="history-toggle" id="history-toggle" hidden>返回今天</button>
+      </nav>
+    </aside>
 
-  <main>
-    <section class="hero">
-      <div class="eyebrow" id="report-date">正在获取今日日报</div>
-      <h1>看见事件，<em>理解影响。</em></h1>
-      <p id="overview">聚合不同地区与立场的公开来源，为你梳理过去 24 小时真正重要的全球动态。</p>
-    </section>
-
-    <section class="topic-banner" id="topic-banner" aria-labelledby="topic-title">
-      <div class="topic-orbit"><span></span></div>
-      <div><span class="section-kicker">DAILY FOCUS · 今日专题</span><h2 id="topic-title">载入中</h2><p id="topic-description"></p></div>
-      <div class="topic-count"><strong id="featured-count">0</strong><span>篇专题报道</span></div>
-    </section>
-
-    <nav class="filters" aria-label="新闻筛选">
-      <div class="filter-scroll" id="filter-list">
-        <button class="filter active" data-filter="all">全部</button>
-        <button class="filter" data-filter="featured">今日专题</button>
-        <button class="filter color-filter label-red" data-filter="label:red">红色 · 重点</button>
-        <button class="filter color-filter label-blue" data-filter="label:blue">蓝色 · 跟进</button>
-        <button class="filter color-filter label-green" data-filter="label:green">绿色 · 已读</button>
-        <button class="filter" data-filter="中国重点">中国重点</button>
-        <button class="filter" data-filter="美国重点">美国重点</button>
-        <button class="filter" data-filter="经济">经济金融</button>
-        <button class="filter" data-filter="军事与安全">安全</button>
-        <button class="filter" data-filter="科技">科技</button>
-        <button class="filter" data-filter="环境">环境</button>
-      </div>
-      <button class="history-toggle" id="history-toggle" hidden>返回今天</button>
-    </nav>
+    <main>
+      <section class="hero">
+        <div class="eyebrow" id="report-date">正在获取今日日报</div>
+        <h1>看见事件，<em>理解影响。</em></h1>
+      </section>
 
     <section class="results-head">
       <div><span class="section-kicker" id="result-kicker">LATEST INTELLIGENCE</span><h2 id="result-title">最新动态</h2></div>
@@ -75,7 +66,8 @@
     <div class="status" id="status" role="status">正在载入公开新闻数据…</div>
     <section class="news-grid" id="news-grid" aria-live="polite"></section>
     <button class="load-more" id="load-more" hidden>加载更多</button>
-  </main>
+    </main>
+  </div>
 
   <footer>
     <div class="footer-brand">世界脉搏 <span>·</span> 全球新闻专题</div>
