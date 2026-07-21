@@ -82,11 +82,6 @@ function applyReport(report, history = false) {
   if (report.metadata?.sampleData) throw new Error('检测到演示数据，已阻止展示');
   state.current = report; state.items = report.items || []; state.history = history; state.visible = 12;
   $('#report-date').textContent = `${report.date} · 北京时间 · 过去 24 小时`;
-  $('#overview').textContent = report.overview;
-  $('#topic-title').textContent = report.topic?.name || '全球焦点'; $('#sticky-topic-name').textContent = report.topic?.name || '全球焦点';
-  $('#topic-description').textContent = report.topic?.description || '';
-  $('#topic-banner').style.setProperty('--topic', report.topic?.accent || '#8b5cf6');
-  $('#featured-count').textContent = report.featured?.length ?? state.items.filter((item) => item.topicMatch).length;
   $('#updated-at').textContent = `最近更新：${fmtDate(report.generatedAt, { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })}`;
   $('#date-picker').value = report.date; $('#history-toggle').hidden = !history;
   render();
