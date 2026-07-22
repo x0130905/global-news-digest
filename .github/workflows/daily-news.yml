@@ -30,8 +30,10 @@ jobs:
     timeout-minutes: 30
     env:
       EMAIL_USER: ${{ secrets.EMAIL_USER }}
+      EMAIL_AUTH_CODE: ${{ secrets.EMAIL_AUTH_CODE }}
       EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
       EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      EMAIL_PROVIDER: ${{ vars.EMAIL_PROVIDER || 'auto' }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       REPORT_TIMEZONE: ${{ vars.REPORT_TIMEZONE || 'Asia/Shanghai' }}
@@ -51,9 +53,8 @@ jobs:
         shell: bash
         run: |
           missing=()
-          [[ -z "$EMAIL_USER" ]] && missing+=(EMAIL_USER)
-          [[ -z "$EMAIL_APP_PASSWORD" ]] && missing+=(EMAIL_APP_PASSWORD)
           [[ -z "$EMAIL_TO" ]] && missing+=(EMAIL_TO)
+          [[ -z "$EMAIL_AUTH_CODE" && -z "$EMAIL_APP_PASSWORD" ]] && missing+=(EMAIL_AUTH_CODE)
           if (( ${#missing[@]} )); then
             echo "::error::缺少 GitHub Actions Secrets: ${missing[*]}。请在 Settings → Secrets and variables → Actions 中添加。"
             exit 1
