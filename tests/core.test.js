@@ -117,6 +117,23 @@ test('Gmail SMTP 使用安全端口、连接校验和明确成功结果', async 
   assert.equal(verified, true); assert.equal(closed, true); assert.equal(message.subject, '【测试】全球日报'); assert.equal(result.messageId, 'test-message');
 });
 
+test('QQ 邮箱自动使用 QQ SMTP 和授权码', async () => {
+  let transportOptions; let message;
+  const createTransport = (options) => {
+    transportOptions = options;
+    return {
+      verify: async () => {},
+      sendMail: async (value) => { message = value; return { messageId: 'qq-message', accepted: ['123456@qq.com'], rejected: [] }; },
+      close: () => {}
+    };
+  };
+  const config = { email: { user: '123456@qq.com', password: 'qq-auth-code', provider: 'auto', to: ['123456@qq.com'], testMode: true } };
+  const result = await sendEmail({ config, subject: '【测试】全球日报', html: '<p>news</p>', text: 'news', createTransport });
+  assert.equal(transportOptions.host, 'smtp.qq.com'); assert.equal(transportOptions.port, 465); assert.equal(transportOptions.secure, true);
+  assert.deepEqual(transportOptions.auth, { user: '123456@qq.com', pass: 'qq-auth-code' });
+  assert.match(message.from, /123456@qq\.com/); assert.equal(result.messageId, 'qq-message');
+});
+
 test('同一天发送锁阻止重复发送', () => {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'news-lock-')); const config = { outputDir: dir };
   assert.equal(isLocked(config, '2026-01-01'), false); markSent(config, '2026-01-01', 'id'); assert.equal(isLocked(config, '2026-01-01'), true);

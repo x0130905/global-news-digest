@@ -1,6 +1,6 @@
 # 世界脉搏：全球新闻专题软件与日报邮件系统
 
-这是一个可以直接部署到 GitHub Pages 与 GitHub Actions 的 Node.js 20 项目。它每天汇总过去 24 小时的 GDELT 与公开 RSS，去重、分类、评分并更新深色响应式 Web 软件，也可以通过 Gmail SMTP 发送日报。无 AI Key 时自动使用规则摘要，不会中断。
+这是一个可以直接部署到 GitHub Pages 与 GitHub Actions 的 Node.js 20 项目。它每天汇总过去 24 小时的 GDELT 与公开 RSS，去重、分类、评分并更新深色响应式 Web 软件，也可以通过 QQ 邮箱或 Gmail SMTP 发送日报。无 AI Key 时自动使用规则摘要，不会中断。
 
 Web 软件支持手机与电脑、自适应布局、左侧搜索与分类导航、日期选择、永久历史和 PWA 安装。每篇新闻都显示可打开的来源，并可添加“红色·重点、蓝色·跟进、绿色·已读”三类个人标签；标签保存在当前浏览器中，可通过左侧对应分类筛选，再点一次已选标签即可取消。每天自动轮换“全球治理、中国、美国、经济金融、军事安全、科技能源、气候公共安全”七个专题，并至少发布21条合格新闻。英文新闻采用双栏排版：电脑端左英文、右中文，手机端英文在上、中文在下。
 
@@ -29,7 +29,7 @@ npm run preview
 5. 完成后回到 **Settings → Pages**，页面会显示网站地址，通常为 `https://用户名.github.io/仓库名/`。
 6. 手机浏览器打开该地址：iPhone Safari 使用“分享 → 添加到主屏幕”；Android Chrome 使用菜单中的“安装应用”。电脑 Chrome/Edge 可点击地址栏右侧安装图标。
 
-以后 GitHub Actions 每天北京时间 08:15 自动抓取、测试并发布。网站不需要邮箱 Secret；只有使用邮件功能时才需要 Gmail 配置。
+以后 GitHub Actions 每天北京时间 08:15 自动抓取、测试并发布。网站不需要邮箱 Secret；只有使用邮件功能时才需要邮箱配置。
 
 ## 三、创建 GitHub 私有仓库并上传
 
@@ -48,12 +48,14 @@ git push -u origin main
 
 上传前确认 `.env` 没有被提交：运行 `git status` 时不应看到 `.env`。
 
-## 四、准备 Gmail 应用专用密码（仅邮件功能需要）
+## 四、准备 QQ 邮箱授权码（QQ 发信时需要）
 
-1. 登录用于发信的 Google 账号，打开 **Google 账号 → 安全性**。
-2. 在“您如何登录 Google”中开启 **两步验证**，按页面提示绑定手机或安全密钥。
-3. 开启后，在 Google 账号页面搜索 **应用专用密码（App passwords）**。工作/学校账号若被管理员禁用，此入口可能不存在，应改用允许 SMTP 的个人 Gmail 或联系管理员。
-4. 新建名称 `Global News Digest`，复制生成的 16 位密码。它不是 Gmail 登录密码，只显示一次。
+1. 用电脑浏览器登录 [QQ 邮箱](https://mail.qq.com/)，打开 **设置**。
+2. 找到 **账号与安全/账户 → POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV 服务**（QQ 页面名称可能略有调整）。
+3. 开启 **IMAP/SMTP 服务** 或 **POP3/SMTP 服务**，按页面要求完成安全验证。
+4. 点击 **生成授权码** 并复制。授权码专门供本软件连接 `smtp.qq.com`，**不是 QQ 登录密码，不要把 QQ 登录密码填入 GitHub**。
+
+如果页面显示 SMTP 服务已经开启，直接生成新的授权码即可。授权码只保存到 GitHub Secret，不要发在聊天或截图中。
 
 ## 五、添加 GitHub Secrets
 
@@ -61,9 +63,10 @@ git push -u origin main
 
 | Secret | 必需 | 填写内容 |
 |---|---:|---|
-| `EMAIL_USER` | 是 | 完整 Gmail 地址，例如 `name@gmail.com` |
-| `EMAIL_APP_PASSWORD` | 是 | 上一步的 16 位应用专用密码（空格可去掉） |
-| `EMAIL_TO` | 是 | 一个或多个收件人；多个用英文逗号分隔 |
+| `EMAIL_TO` | 是 | QQ 收件邮箱；多个用英文逗号分隔，第一个地址同时作为默认发件邮箱 |
+| `EMAIL_AUTH_CODE` | QQ 发信必需 | 上一步生成的 QQ 邮箱授权码 |
+| `EMAIL_USER` | 否 | 发件邮箱；不填时自动使用 `EMAIL_TO` 中的第一个地址 |
+| `EMAIL_APP_PASSWORD` | 仅兼容 Gmail | Gmail 的 16 位应用专用密码；只使用 QQ 时不要填写 |
 | `GEMINI_API_KEY` | 英文翻译建议必填 | Google AI Studio 创建的 Key |
 | `GROQ_API_KEY` | 可作为翻译备用 | Groq Console 创建的 Key |
 
@@ -77,7 +80,7 @@ git push -u origin main
 4. 发送测试邮件时再次点 **Run workflow**，设置 **dry_run = false**、**test_email = true**。邮件标题会以“【测试】”开头，且不会占用当天正式发送锁或修改正式历史。
 5. 测试到达后，正式手动发送应设置 **dry_run = false**、**test_email = false**；每天的定时任务也会自动使用正式模式。
 
-工作流会在安装依赖前预检 `EMAIL_USER`、`EMAIL_APP_PASSWORD`、`EMAIL_TO`；缺少时会直接列出缺少的 Secret 名称，但绝不显示值。失败时点开红色任务，展开失败步骤查看脱敏日志；无论成功失败，上传步骤都会尽量保存已生成文件。常见 Gmail 错误是把普通登录密码误当应用专用密码。
+工作流会在安装依赖前预检 `EMAIL_TO` 和邮箱授权凭据；QQ 发信使用 `EMAIL_AUTH_CODE`，`EMAIL_USER` 可以省略。缺少时会直接列出 Secret 名称，但绝不显示值。失败时点开红色任务，展开失败步骤查看脱敏日志；无论成功失败，上传步骤都会尽量保存已生成文件。QQ 邮箱会自动连接 `smtp.qq.com:465`，最常见错误是把 QQ 登录密码误当授权码。
 
 ## 七、专题、网站更新与邮件时间
 
@@ -101,6 +104,7 @@ git push -u origin main
 |---|---|---|
 | `REPORT_TIMEZONE` | `Asia/Shanghai` | 日报日期与发送幂等锁时区 |
 | `REPORT_LANGUAGE` | `zh-CN` | 报告语言预留配置 |
+| `EMAIL_PROVIDER` | `auto` | 按发件地址自动选择 QQ/Gmail；也可设为 `qq` 或 `gmail` |
 | `MAX_GLOBAL_NEWS` | `10` | 全球焦点上限（1–20） |
 | `MAX_CHINA_NEWS` | `5` | 中国重点上限（1–10） |
 | `MAX_US_NEWS` | `5` | 美国重点上限（1–10） |
