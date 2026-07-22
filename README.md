@@ -72,11 +72,12 @@ git push -u origin main
 ## 六、首次手动运行邮件任务
 
 1. 打开仓库 **Actions → 全球新闻日报 → Run workflow**。
-2. 第一次保持 **dry_run = true**，点绿色 **Run workflow**。
+2. 第一次保持 **dry_run = true**、**test_email = false**，点绿色 **Run workflow**。
 3. 运行完成后点开该次任务，在页面底部 **Artifacts** 下载 `global-news-digest-*`，检查 HTML、TXT、JSON。
-4. 确认内容后再次 **Run workflow**，把 **dry_run** 改为 `false`。只有这次会实际发送。
+4. 发送测试邮件时再次点 **Run workflow**，设置 **dry_run = false**、**test_email = true**。邮件标题会以“【测试】”开头，且不会占用当天正式发送锁或修改正式历史。
+5. 测试到达后，正式手动发送应设置 **dry_run = false**、**test_email = false**；每天的定时任务也会自动使用正式模式。
 
-失败时点开红色任务，展开失败步骤查看脱敏日志；无论成功失败，上传步骤都会尽量保存已生成文件。常见 Gmail 错误是把普通登录密码误当应用专用密码。
+工作流会在安装依赖前预检 `EMAIL_USER`、`EMAIL_APP_PASSWORD`、`EMAIL_TO`；缺少时会直接列出缺少的 Secret 名称，但绝不显示值。失败时点开红色任务，展开失败步骤查看脱敏日志；无论成功失败，上传步骤都会尽量保存已生成文件。常见 Gmail 错误是把普通登录密码误当应用专用密码。
 
 ## 七、专题、网站更新与邮件时间
 

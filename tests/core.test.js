@@ -10,6 +10,7 @@ import { scoreArticle } from '../src/processing/score.js';
 import { applyHistory, isLocked, markSent } from '../src/processing/history.js';
 import { summarizeArticle, summarizeArticles } from '../src/summarizers/aiSummarizer.js';
 import { renderHtml } from '../src/email/renderHtml.js';
+import { sendEmail } from '../src/email/sendEmail.js';
 import keywords from '../config/keywords.json' with { type: 'json' };
 
 test('RSS 与 GDELT 字段可标准化且危险 URL 被拒绝', () => {
@@ -98,6 +99,22 @@ test('邮件模板转义 HTML 且完整渲染板块', () => {
   const item = { titleZh: '<script>alert(1)</script>', summaryZh: '摘要', whyImportant: '重要', score: 88, tags: ['中国重点'], url: 'https://example.com', source: '来源', publishedAt: new Date().toISOString(), crossSources: [] };
   const html = renderHtml({ date: '2026-01-01', overview: '总览', global: [item], china: [], usa: [], watch: [] });
   assert.ok(!html.includes('<script>alert')); assert.ok(html.includes('&lt;script&gt;')); assert.ok(html.includes('今日观察'));
+});
+
+test('Gmail SMTP 使用安全端口、连接校验和明确成功结果', async () => {
+  let verified = false; let closed = false; let transportOptions; let message;
+  const createTransport = (options) => {
+    transportOptions = options;
+    return {
+      verify: async () => { verified = true; },
+      sendMail: async (value) => { message = value; return { messageId: 'test-message', accepted: ['reader@example.com'], rejected: [] }; },
+      close: () => { closed = true; }
+    };
+  };
+  const config = { email: { user: 'sender@gmail.com', password: 'app-password', to: ['reader@example.com'], testMode: true } };
+  const result = await sendEmail({ config, subject: '【测试】全球日报', html: '<p>news</p>', text: 'news', createTransport });
+  assert.equal(transportOptions.host, 'smtp.gmail.com'); assert.equal(transportOptions.port, 465); assert.equal(transportOptions.secure, true);
+  assert.equal(verified, true); assert.equal(closed, true); assert.equal(message.subject, '【测试】全球日报'); assert.equal(result.messageId, 'test-message');
 });
 
 test('同一天发送锁阻止重复发送', () => {
