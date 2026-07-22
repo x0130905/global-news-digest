@@ -27,7 +27,8 @@ export function loadConfig({ argv = process.argv.slice(2) } = {}) {
     aiRequestDelayMs: integer('AI_REQUEST_DELAY_MS', 6500, 1000, 30000),
     email: {
       user: process.env.EMAIL_USER || '', password: process.env.EMAIL_APP_PASSWORD || '',
-      to: (process.env.EMAIL_TO || '').split(/[,;]/).map((x) => x.trim()).filter(Boolean)
+      to: (process.env.EMAIL_TO || '').split(/[,;]/).map((x) => x.trim()).filter(Boolean),
+      testMode: bool(process.env.EMAIL_TEST_MODE)
     },
     ai: { provider: process.env.AI_PROVIDER || 'auto', geminiKey: process.env.GEMINI_API_KEY || '', geminiModel: process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite', groqKey: process.env.GROQ_API_KEY || '' },
     sources: readJson('config/sources.json'), keywords: readJson('config/keywords.json'),

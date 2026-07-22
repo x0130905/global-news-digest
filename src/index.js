@@ -30,7 +30,8 @@ export function selectSections(articles, config) {
 export async function run({ config = loadConfig(), now = new Date(), fetchers = { rss: fetchAllRss, gdelt: fetchGdelt }, mailer = sendEmail } = {}) {
   fs.mkdirSync(config.outputDir, { recursive: true }); const date = reportDate(config.timezone, now);
   const topic = selectDailyTopic(config.topics, config.timezone, now, config.requestedTopic); config.currentTopic = topic;
-  if (!config.dryRun && isLocked(config, date)) { logger.info('今日邮件已成功发送，幂等锁阻止重复发送', { date }); return { skipped: true, reason: 'already-sent' }; }
+  const testEmail = !config.dryRun && Boolean(config.email.testMode);
+  if (!config.dryRun && !testEmail && isLocked(config, date)) { logger.info('今日邮件已成功发送，幂等锁阻止重复发送', { date }); return { skipped: true, reason: 'already-sent' }; }
   const history = loadHistory(config.historyFile);
   let raw = [...await fetchers.rss(config), ...await fetchers.gdelt(config)];
   const cutoff = now.getTime() - 24 * 3600_000; raw = raw.filter((a) => new Date(a.publishedAt).getTime() >= cutoff && new Date(a.publishedAt).getTime() <= now.getTime() + 10 * 60_000);
@@ -49,8 +50,11 @@ export async function run({ config = loadConfig(), now = new Date(), fetchers = 
   const html = renderHtml(report), text = renderText(report); const json = JSON.stringify(report, null, 2);
   fs.writeFileSync(path.join(config.outputDir, 'latest.html'), html); fs.writeFileSync(path.join(config.outputDir, 'latest.txt'), text); fs.writeFileSync(path.join(config.outputDir, 'latest.json'), json); fs.writeFileSync(path.join(config.outputDir, 'run.log'), JSON.stringify({ date, generatedAt: report.generatedAt, ...report.metadata }, null, 2));
   if (!config.dryRun) {
-    const d = new Date(`${date}T00:00:00Z`); const subject = `全球时政热点日报｜${d.getUTCFullYear()}年${String(d.getUTCMonth() + 1).padStart(2, '0')}月${String(d.getUTCDate()).padStart(2, '0')}日｜中国与美国重点`;
-    const info = await mailer({ config, subject, html, text }); markSent(config, date, info.messageId || 'accepted'); saveHistory(config.historyFile, date, allSelected, history);
+    const d = new Date(`${date}T00:00:00Z`); const baseSubject = `全球时政热点日报｜${d.getUTCFullYear()}年${String(d.getUTCMonth() + 1).padStart(2, '0')}月${String(d.getUTCDate()).padStart(2, '0')}日｜中国与美国重点`;
+    const subject = testEmail ? `【测试】${baseSubject}` : baseSubject;
+    const info = await mailer({ config, subject, html, text });
+    if (testEmail) logger.info('测试邮件已提交，不写入正式发送锁', { messageId: info.messageId || 'accepted' });
+    else { markSent(config, date, info.messageId || 'accepted'); saveHistory(config.historyFile, date, allSelected, history); }
   } else logger.info('DRY_RUN 已启用：已生成文件，未发送邮件', report.metadata);
   return { report, html, text };
 }

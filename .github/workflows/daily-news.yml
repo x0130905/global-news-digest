@@ -11,6 +11,11 @@ on:
         required: true
         default: true
         type: boolean
+      test_email:
+        description: "发送【测试】邮件；不占用当天正式发送锁"
+        required: true
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -35,11 +40,25 @@ jobs:
       MAX_CHINA_NEWS: ${{ vars.MAX_CHINA_NEWS || '5' }}
       MAX_US_NEWS: ${{ vars.MAX_US_NEWS || '5' }}
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+      EMAIL_TEST_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.test_email || 'false' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: 检查邮件 Secret 配置
+        if: env.DRY_RUN != 'true'
+        shell: bash
+        run: |
+          missing=()
+          [[ -z "$EMAIL_USER" ]] && missing+=(EMAIL_USER)
+          [[ -z "$EMAIL_APP_PASSWORD" ]] && missing+=(EMAIL_APP_PASSWORD)
+          [[ -z "$EMAIL_TO" ]] && missing+=(EMAIL_TO)
+          if (( ${#missing[@]} )); then
+            echo "::error::缺少 GitHub Actions Secrets: ${missing[*]}。请在 Settings → Secrets and variables → Actions 中添加。"
+            exit 1
+          fi
+          echo "邮件配置预检通过；敏感值不会写入日志。"
       - name: 启用 pnpm
         run: corepack enable && corepack prepare pnpm@11.9.0 --activate
       - name: 按锁文件安装依赖
@@ -60,7 +79,7 @@ jobs:
           if-no-files-found: warn
           retention-days: 14
       - name: 持久化最近 7 天历史与发送锁
-        if: success() && env.DRY_RUN != 'true'
+        if: success() && env.DRY_RUN != 'true' && env.EMAIL_TEST_MODE != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
