@@ -1,41 +1,44 @@
 {
-  "date": "2026-07-25",
-  "generatedAt": "2026-07-25T03:35:44.190Z",
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T03:54:12.186Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "usa",
-    "name": "美国政策与全球影响",
-    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
-    "query": "United States policy economy diplomacy security",
+    "slug": "economy-finance",
+    "name": "全球经济与金融",
+    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
+    "query": "global economy finance trade inflation interest rates",
     "keywords": [
-      "united states",
-      "u.s.",
-      "american",
-      "washington",
-      "white house",
-      "美国",
-      "华盛顿",
-      "白宫",
-      "美联储"
+      "economy",
+      "trade",
+      "tariff",
+      "inflation",
+      "market",
+      "bank",
+      "interest rate",
+      "经济",
+      "贸易",
+      "通胀",
+      "金融",
+      "利率"
     ],
-    "accent": "#3b82f6"
+    "accent": "#10b981"
   },
-  "overview": "今日专题“美国政策与全球影响”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“全球经济与金融”。共筛选 21 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "f50317ebd4df198e",
-      "title": "Trump’s address takes bitter turn after hailing ‘amazing job’ by reporters at gala",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
-      "publishedAt": "2026-07-25T02:16:07.000Z",
-      "summary": "President took aim again at ‘fake media’ despite praising journalists and attacked opponents in rambling speech Donald Trump, who has regularly attacked the press over its coverage of him and his presidency, praised journalists for doing an “amazing job” as he addressed the White House correspondents’ dinner. A day after the Trump administration abandoned, for now, an extraordinary bid to subpoena reporters over their coverage, the US president attended the rescheduled White House correspondents’ dinner – an annual celebration of press freedom – in Washington on Friday evening. Continue reading...",
+      "id": "9565de6a2ea16226",
+      "title": "Why new US tariffs threaten Trump government’s credibility in Asean",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3361861/why-new-us-tariffs-threaten-trump-governments-credibility-asean?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T03:30:09.000Z",
+      "summary": "A new wave of US tariffs that hit seven Southeast Asian countries is set to reinforce perceptions of Washington as an unreliable partner to the region, according to analysts. Citing what it said were forced labour practices uncovered in its latest investigations, the US on Thursday imposed levies ranging from 10 to 12.5 per cent on 60 economies – with the Philippines, Singapore, Thailand and Vietnam the hardest hit among Association of Southeast Asian Nations members. Malaysia, Indonesia and...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
-          "publishedAt": "2026-07-25T02:16:07.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3361861/why-new-us-tariffs-threaten-trump-governments-credibility-asean?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T03:30:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -44,403 +47,131 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "突发",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 70,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "tariff",
+        "经济"
+      ],
+      "fingerprint": "9bb65dbf3626385c8895a457",
+      "isContinuation": false,
+      "titleZh": "为何美国新关税威胁特朗普政府在东盟的信誉",
+      "summaryZh": "美国以所谓“强迫劳动”为由，对包括菲律宾、新加坡、泰国和越南在内的七个东南亚国家征收10%至12.5%的关税。分析人士认为，此举将损害美国作为东盟可靠合作伙伴的形象。",
+      "whyImportant": "美国贸易保护主义政策可能导致其在东南亚的战略影响力受损。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "03752f199b9443b6",
+      "title": "Treasure as trinkets: Zendaya’s earrings renew debate on ownership of ancient artefacts",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
+      "publishedAt": "2026-07-25T11:00:40.000Z",
+      "summary": "Jewellery made from BC Iran worn at Odyssey photocall throws spotlight on the trade of rare archeological finds The Odyssey has stormed cinemas, but while its take on the Homeric epic has created ripples among western classicists, it is an actor’s earrings that have made waves further afield. Zendaya, who portrays the goddess Athena in the movie, provoked outrage when she appeared at a London photocall wearing earrings that were allegedly made from Iranian artefacts dating back to the 1st millennium BC. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
+          "publishedAt": "2026-07-25T11:00:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "环境",
         "国际组织",
-        "专题·美国政策与全球影响"
+        "专题·全球经济与金融"
       ],
-      "score": 82,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "washington",
-        "white house",
-        "美国"
+        "trade",
+        "经济"
       ],
-      "fingerprint": "d195b8eb2be54125a704a9fc",
+      "fingerprint": "2b9cf18fd86747ad4bd5c94f",
       "isContinuation": false,
-      "titleZh": "特朗普在晚宴上称赞记者“工作出色”后，演讲转向尖刻",
-      "summaryZh": "特朗普出席了白宫记者协会晚宴，尽管此前曾多次攻击媒体，但他当晚称赞记者工作出色。然而，他在随后的演讲中再次抨击“假新闻”并攻击政治对手。",
-      "whyImportant": "特朗普对媒体态度的反复无常反映了其与新闻界持续紧张的关系。",
+      "titleZh": "珍宝变饰品：赞达亚佩戴的耳环引发关于古代文物所有权的争议",
+      "summaryZh": "演员赞达亚在电影宣传活动中佩戴了一对据称由公元前1世纪伊朗文物制成的耳环，引发了公众对古代文物贸易和所有权的广泛讨论。此举在文化遗产保护界引起了强烈反响。",
+      "whyImportant": "该事件引发了关于名人时尚选择与古代文物道德归属之间的舆论争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1206ed6269774f4b",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T02:23:09.000Z",
-      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-25T02:23:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 71,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "03ea18dc3331c0d8a89b319d",
-      "isContinuation": false,
-      "titleZh": "特朗普下令史密森尼学会发布关于“不准确”美国历史的警告",
-      "summaryZh": "特朗普政府指责史密森尼学会存在反美偏见。为此，政府下令该研究机构在其展览中发布关于历史叙述“不准确”的警告。",
-      "whyImportant": "此举引发了关于政府干预文化机构及历史解释权的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "042f14cc5c5f88b4",
-      "title": "‘The show must go on’: Trump returns to rescheduled White House press gala",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-      "publishedAt": "2026-07-25T02:59:04.000Z",
-      "summary": "US president makes jokes, mocks opponents at correspondents' dinner that was halted by a shooting in April.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-          "publishedAt": "2026-07-25T02:59:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "c1da6a90036222c2c1d0a7ab",
-      "isContinuation": false,
-      "titleZh": "“演出必须继续”：特朗普重返推迟的白宫记者晚宴",
-      "summaryZh": "美国总统特朗普出席了此前因四月份枪击事件而推迟的白宫记者协会晚宴。他在晚宴上发表了幽默演讲，并嘲讽了政治对手。",
-      "whyImportant": "总统出席记者晚宴被视为缓解行政部门与媒体紧张关系的一种尝试。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9bce0ab93b4ac349",
-      "title": "以 强迫劳动 为由 ， 行贸易保护之实 ， 美国新关税引多方强烈反弹",
-      "source": "baijiahao.baidu.com",
-      "url": "https://baijiahao.baidu.com/s?id=1871638719864689161",
-      "publishedAt": "2026-07-24T23:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "baijiahao.baidu.com",
-          "url": "https://baijiahao.baidu.com/s?id=1871638719864689161",
-          "publishedAt": "2026-07-24T23:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 63,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "7ddca581d06ab5ae7571f729",
-      "isContinuation": false,
-      "titleZh": "以强迫劳动为由，行贸易保护之实，美国新关税引多方强烈反弹",
-      "summaryZh": "美国以所谓“强迫劳动”为借口实施新关税，被外界普遍视为贸易保护主义行为。此举引发了国际社会及相关利益方的强烈反对与批评。",
-      "whyImportant": "美国利用人权议题作为贸易壁垒，加剧了国际贸易摩擦。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1316608aec53a8b7",
-      "title": "Can Southeast Asia survive more Iran war fuel shocks?",
+      "id": "75fab0211f73e659",
+      "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
       "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3361765/can-southeast-asia-survive-more-iran-war-fuel-shocks?utm_source=rss_feed",
-      "publishedAt": "2026-07-24T10:31:18.000Z",
-      "summary": "Southeast Asia’s governments have spent months trying to blunt the effects of war-driven energy shocks from the Middle East, but renewed fighting between the United States and Iran has exposed how limited those defences are, analysts have warned. The latest flare-up has revived fears of a second round of fuel disruption across the region, where many economies remain heavily dependent on imported oil and shipping routes linked to the Gulf. Southeast Asian leaders expressed “grave concern” over...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T05:30:07.000Z",
+      "summary": "For years, Syria was a wound the world watched fester: a country carved up by war, sanctioned into isolation and reduced to a byword for state collapse. Its economy needs US$216 billion to rebuild, according to World Bank estimates. This month, for the first time since the fall of the Assad regime in December 2024, it began to look like it might actually get there. On July 8, the government of Ahmed al-Sharaa – a former jihadi commander turned president – established a supreme constitutional...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3361765/can-southeast-asia-survive-more-iran-war-fuel-shocks?utm_source=rss_feed",
-          "publishedAt": "2026-07-24T10:31:18.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T05:30:07.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全",
-        "能源",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "d95e02bc7f805003ce69ba0c",
-      "isContinuation": false,
-      "titleZh": "东南亚能否承受更多伊朗战争带来的燃料冲击？",
-      "summaryZh": "美伊冲突引发的能源价格波动对东南亚经济造成冲击。由于该地区高度依赖进口石油及相关航运路线，分析人士警告其防御能力有限，面临燃料供应中断的风险。",
-      "whyImportant": "中东局势动荡对东南亚经济安全构成了直接威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "eb56d50574772d50",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "publishedAt": "2026-07-24T15:28:37.000Z",
-      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana’s coast has risen to 72, with more bodies recovered as a multinational team struggle to salvage the partially submerged vessel. Of the estimated 179 people aboard, 76 people were rescued. The government has estimated that 100 may have died in the accident, which would make it the worst marine tragedy on record for the South American nation. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-          "publishedAt": "2026-07-24T15:28:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "公共安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "8a2d3d4585f7ef70ef41d396",
-      "isContinuation": false,
-      "titleZh": "圭亚那当局确认沿海渡轮沉没事故造成72人死亡",
-      "summaryZh": "一艘载有约179人的政府渡轮在圭亚那海岸沉没，目前已确认72人遇难，76人获救。政府估计最终死亡人数可能达到100人，这将是该国历史上最严重的海洋灾难。",
-      "whyImportant": "这起重大海难对圭亚那造成了严重的人员伤亡和公共安全影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "731e305d6fa5cedc",
-      "title": "Saudi money , Chinese weapons , American patronage : Can Pakistan balance all three ?",
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/saudi-money-chinese-weapons-american-patronage-can-pakistan-balance-all-three/articleshow/132608633.cms",
-      "publishedAt": "2026-07-24T16:00:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "timesofindia.indiatimes.com",
-          "url": "https://timesofindia.indiatimes.com/world/pakistan/saudi-money-chinese-weapons-american-patronage-can-pakistan-balance-all-three/articleshow/132608633.cms",
-          "publishedAt": "2026-07-24T16:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "d80c3d4a863543acde8b7a48",
-      "isContinuation": false,
-      "titleZh": "沙特资金、中国武器、美国庇护：巴基斯坦能否三者平衡？",
-      "summaryZh": "巴基斯坦在复杂的国际关系中寻求平衡，试图同时处理与沙特、中国和美国的关系。这种多边外交策略面临巨大的地缘政治挑战。",
-      "whyImportant": "巴基斯坦的外交平衡术对南亚地区的地缘政治稳定具有重要意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "68ffc051df1ced2f",
-      "title": "Trump’s latest tariff tantrum unlikely to end well for the US",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3361593/trumps-latest-tariff-tantrum-unlikely-end-well-us?utm_source=rss_feed",
-      "publishedAt": "2026-07-24T09:05:54.000Z",
-      "summary": "After devoting the first half of 2026 to an ineffectual, expensive and inconclusive military adventure in Iran, it seems US President Donald Trump is about to turn afresh to the wars he loves best – the tariff wars he still believes can make America great again. He can’t quite walk away from the war in the Persian Gulf. Iran’s refusal to capitulate has left Trump with an awkward obligation to fight on, despite the widespread unpopularity of the conflict, even among his base, and the need to...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3361593/trumps-latest-tariff-tantrum-unlikely-end-well-us?utm_source=rss_feed",
-          "publishedAt": "2026-07-24T09:05:54.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
+        "全球焦点",
+        "外交",
         "经济",
+        "金融",
         "军事与安全",
-        "专题·美国政策与全球影响"
+        "国际组织",
+        "专题·全球经济与金融"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "美国"
+        "economy",
+        "bank",
+        "经济",
+        "金融"
       ],
-      "fingerprint": "588a0985fd633a4391b8512e",
+      "fingerprint": "2bf1d923b86787275590859d",
       "isContinuation": false,
-      "titleZh": "特朗普最新的关税闹剧不太可能给美国带来好结果",
-      "summaryZh": "在伊朗军事行动陷入僵局且国内支持率低迷的情况下，特朗普似乎正重拾关税战策略。分析认为，这种做法难以实现其“让美国再次伟大”的目标，反而可能带来负面影响。",
-      "whyImportant": "特朗普的贸易保护主义政策可能对美国经济和国际关系产生深远影响。",
+      "titleZh": "叙利亚2160亿美元的重建计划提供了一条霍尔木兹海峡之外的替代路径",
+      "summaryZh": "在经历多年战乱与制裁后，叙利亚政府正寻求2160亿美元的重建资金。随着新政府成立，该国开始探索经济复苏及地缘政治中的新角色。",
+      "whyImportant": "叙利亚的重建进程可能改变中东地区的地缘经济格局。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "d4cbbe882c278e21",
-      "title": "Trump’s speech devolves into list of gripes and nasty attacks on opponents – as it happened",
+      "id": "54d799fbd665165f",
+      "title": "Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
-      "publishedAt": "2026-07-25T03:01:03.000Z",
-      "summary": "This liveblog is now closed. Read the full story here. Sign up for the US Breaking News email Represenatives Ilhan Omar and Pramila Jayapal, will visit the Whipple Federal Building in Minneapolis today to conduct a congressional oversight visit. The Democratic lawmakers are visiting the site of sustained protests earlier this year against the immigration crackdown that swept the state of Minnesota, and resulted in the fatal shootings of two US citizens by federal immigration agents. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/26/labor-pressure-telehealth-access-euthanasia-assisted-dying-anthony-albanese",
+      "publishedAt": "2026-07-26T02:22:08.000Z",
+      "summary": "Campaigners say existing federal ban on phone or video calls for assisted dying consultations adversely affects people living in regional Australia Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Labor will come under pressure to allow Australians to access voluntary assisted dying through telehealth services, with the Greens and independent Kate Chaney to introduce legislation based on changes to Labor’s national platform. Last week’s national conference in Adelaide changed the ALP platform and committed Labor to overturn a Howard-era law banning people from having medical appointments regarding euthanasia via telehealth services. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
-          "publishedAt": "2026-07-25T03:01:03.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a566de96999ef3f619d9895e",
-      "isContinuation": false,
-      "titleZh": "特朗普演讲演变为对反对者的抱怨与恶毒攻击",
-      "summaryZh": "美国众议员伊尔汗·奥马尔和普拉米拉·贾亚帕尔将对明尼阿波利斯的惠普尔联邦大楼进行国会监督访问。此次访问旨在调查今年早些时候针对移民执法行动的抗议活动，该行动曾导致两名美国公民被联邦移民特工枪杀。",
-      "whyImportant": "此举凸显了美国国内关于移民政策与执法权力的持续政治分歧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0c38ee41f205eae8",
-      "title": "Firefighters battle fire after fertiliser explosion in England",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
-      "publishedAt": "2026-07-25T02:29:13.000Z",
-      "summary": "A fertiliser explosion at a farm in Essex triggered a major incident.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
-          "publishedAt": "2026-07-25T02:29:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7603d9648d8ea291cf16eed8",
-      "isContinuation": false,
-      "titleZh": "英国一农场发生化肥爆炸，消防员全力扑救",
-      "summaryZh": "英国埃塞克斯郡的一处农场发生化肥爆炸，引发了重大安全事件。目前消防部门正在现场进行处置。",
-      "whyImportant": "化肥爆炸引发的重大安全事故对当地公共安全构成威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "021589e228b8cb58",
-      "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
-      "publishedAt": "2026-07-24T20:27:16.000Z",
-      "summary": "Houthi-controlled Foreign Ministry warns that the attack will trigger further escalation in the Yemeni conflict.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
-          "publishedAt": "2026-07-24T20:27:16.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/jul/26/labor-pressure-telehealth-access-euthanasia-assisted-dying-anthony-albanese",
+          "publishedAt": "2026-07-26T02:22:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -452,74 +183,33 @@
         "突发",
         "军事与安全"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 66,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1dc49a98f356902245fb79de",
+      "fingerprint": "45d036a395bad2f7206fcc63",
       "isContinuation": false,
-      "titleZh": "也门胡塞武装称沙特袭击了其控制下的荷台达",
-      "summaryZh": "胡塞武装控制的外交部警告称，此次袭击将导致也门冲突进一步升级。该事件加剧了地区局势的紧张程度。",
-      "whyImportant": "也门冲突的升级可能进一步破坏中东地区的稳定。",
+      "titleZh": "阿尔巴尼斯与工党政策产生分歧，该政策现主张允许通过远程医疗进行安乐死咨询",
+      "summaryZh": "工党全国会议修改了党纲，承诺推翻霍华德时代禁止通过远程医疗进行安乐死咨询的法律。活动人士指出，现行禁令对偏远地区的澳大利亚人造成了不利影响，绿党和独立议员正推动相关立法。",
+      "whyImportant": "此举反映了澳大利亚在安乐死医疗服务获取公平性方面的政策转向与内部政治博弈。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "eb56d50574772d50",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+      "id": "372f89d0d73e8e2a",
+      "title": "Family of missing Rohingya footballer fear he is among 500 believed dead in Myanmar shipwrecks",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "publishedAt": "2026-07-24T15:28:37.000Z",
-      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana’s coast has risen to 72, with more bodies recovered as a multinational team struggle to salvage the partially submerged vessel. Of the estimated 179 people aboard, 76 people were rescued. The government has estimated that 100 may have died in the accident, which would make it the worst marine tragedy on record for the South American nation. Continue reading...",
+      "url": "https://www.theguardian.com/global-development/2026/jul/25/family-of-missing-rohingya-footballer-fear-he-is-among-500-believed-dead-in-myanmar-shipwrecks",
+      "publishedAt": "2026-07-25T09:00:38.000Z",
+      "summary": "‘I can’t tolerate this life,’ said the 24-year-old in his last voice message to his relatives. Attacked by the military, a rebel army and criminal gangs, Siraz Ullah risked all for a better future The fear was audible as he spoke, recording a message to his family, asking for their prayers. After pressing send, 24-year-old Siraz Ullah boarded a boat he hoped could deliver him from the violence and persecution surrounding him at home in Myanmar. Instead, Siraz is among 500 Rohingya refugees who have vanished at sea after setting sail for Malaysia in late June. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-          "publishedAt": "2026-07-24T15:28:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "公共安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "8a2d3d4585f7ef70ef41d396",
-      "isContinuation": false,
-      "titleZh": "圭亚那当局确认沿海渡轮沉没事故造成72人死亡",
-      "summaryZh": "一艘载有约179人的政府渡轮在圭亚那海岸沉没，目前已确认72人遇难，76人获救。政府估计最终死亡人数可能达到100人，这将是该国历史上最严重的海洋灾难。",
-      "whyImportant": "这起重大海难对圭亚那造成了严重的人员伤亡和公共安全影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "410686888741f98d",
-      "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "publishedAt": "2026-07-24T12:00:00.000Z",
-      "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-          "publishedAt": "2026-07-24T12:00:00.000Z"
+          "url": "https://www.theguardian.com/global-development/2026/jul/25/family-of-missing-rohingya-footballer-fear-he-is-among-500-believed-dead-in-myanmar-shipwrecks",
+          "publishedAt": "2026-07-25T09:00:38.000Z"
         }
       ],
       "sourceCount": 1,
@@ -532,33 +222,156 @@
         "军事与安全",
         "国际组织"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "c25127f2ef2e8daaaa4efbab",
+      "fingerprint": "e2de32cbb3e0d78e12850ed0",
       "isContinuation": false,
-      "titleZh": "中东局势：联合国警告胡塞武装红海袭击后可能引发更大规模冲突",
-      "summaryZh": "随着中东战事加剧，联合国周五警告称，美伊战争可能进一步升级。同时，围绕霍尔木兹海峡控制权的争夺也给全球航运带来了巨大风险。",
-      "whyImportant": "中东冲突的扩大化威胁到全球能源供应与航运安全。",
+      "titleZh": "失踪罗兴亚足球运动员的家人担心他已在缅甸海难中遇难，该事故恐致500人死亡",
+      "summaryZh": "24岁的罗兴亚难民西拉兹·乌拉在逃离缅甸暴力迫害的途中失踪，据信他与另外500名难民在前往马来西亚的途中于海上失踪。他在最后发给家人的语音信息中表达了对生存环境的绝望。",
+      "whyImportant": "该事件凸显了罗兴亚难民在逃离迫害过程中面临的极端生存风险与人道主义危机。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a58b8c7e4985b4b8",
-      "title": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
+      "id": "14f16a78afa3be8c",
+      "title": "French wildfires trigger mass evacuations around Bordeaux",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss",
+      "publishedAt": "2026-07-26T03:03:17.000Z",
+      "summary": "Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss",
+          "publishedAt": "2026-07-26T03:03:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "环境",
+        "公共安全"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "137a3ece5d5e10fce64edb71",
+      "isContinuation": false,
+      "titleZh": "法国野火引发波尔多周边地区大规模疏散",
+      "summaryZh": "法国西南部地区遭遇严重野火侵袭，火势迅速蔓延。目前，波尔多周边已有约20万人被迫撤离家园。",
+      "whyImportant": "大规模的野火灾害对当地居民安全及生态环境造成了严重威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "14350f23ec287913",
+      "title": "At least 35 killed after two buses collide in eastern Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+      "publishedAt": "2026-07-25T19:22:30.000Z",
+      "summary": "The crash on a route notorious for deadly accidents prompted a large-scale rescue operation.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+          "publishedAt": "2026-07-25T19:22:30.000Z"
+        },
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-07-25T14:50:00.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "公共安全"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7764654a36e8b96a6d428014",
+      "isContinuation": false,
+      "titleZh": "叙利亚东部两辆巴士相撞，造成至少35人死亡",
+      "summaryZh": "叙利亚一条以事故频发著称的公路上发生严重巴士相撞事故。当局已启动大规模救援行动以应对此次惨剧。",
+      "whyImportant": "此次重大交通事故再次暴露了当地交通基础设施的安全隐患。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "03752f199b9443b6",
+      "title": "Treasure as trinkets: Zendaya’s earrings renew debate on ownership of ancient artefacts",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
-      "publishedAt": "2026-07-24T21:50:56.000Z",
-      "summary": "President flew to Ankara onboard Qatari-gifted jet, without advanced defenses, and flew home on old Air Force One Donald Trump switched aircraft before departing Turkey earlier this month after US officials determined there was a credible threat from Iranian proxy forces targeting him and Air Force One, according to a new report from the New York Times. The threat surfaced while the US president was attending the Nato summit. He had arrived in Ankara onboard the new Qatari-donated Boeing 747-8, an aircraft that Trump acknowledged does not have the same advanced defensive systems as the older Air Force One. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
+      "publishedAt": "2026-07-25T11:00:40.000Z",
+      "summary": "Jewellery made from BC Iran worn at Odyssey photocall throws spotlight on the trade of rare archeological finds The Odyssey has stormed cinemas, but while its take on the Homeric epic has created ripples among western classicists, it is an actor’s earrings that have made waves further afield. Zendaya, who portrays the goddess Athena in the movie, provoked outrage when she appeared at a London photocall wearing earrings that were allegedly made from Iranian artefacts dating back to the 1st millennium BC. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
-          "publishedAt": "2026-07-24T21:50:56.000Z"
+          "url": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
+          "publishedAt": "2026-07-25T11:00:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "环境",
+        "国际组织",
+        "专题·全球经济与金融"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "2b9cf18fd86747ad4bd5c94f",
+      "isContinuation": false,
+      "titleZh": "珍宝变饰品：赞达亚佩戴的耳环引发关于古代文物所有权的争议",
+      "summaryZh": "演员赞达亚在电影宣传活动中佩戴了一对据称由公元前1世纪伊朗文物制成的耳环，引发了公众对古代文物贸易和所有权的广泛讨论。此举在文化遗产保护界引起了强烈反响。",
+      "whyImportant": "该事件引发了关于名人时尚选择与古代文物道德归属之间的舆论争议。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "75fab0211f73e659",
+      "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T05:30:07.000Z",
+      "summary": "For years, Syria was a wound the world watched fester: a country carved up by war, sanctioned into isolation and reduced to a byword for state collapse. Its economy needs US$216 billion to rebuild, according to World Bank estimates. This month, for the first time since the fall of the Assad regime in December 2024, it began to look like it might actually get there. On July 8, the government of Ahmed al-Sharaa – a former jihadi commander turned president – established a supreme constitutional...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T05:30:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -568,36 +381,154 @@
       "tags": [
         "全球焦点",
         "外交",
+        "经济",
+        "金融",
         "军事与安全",
-        "国际组织"
+        "国际组织",
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "23c7d508fa37beb3ece731f3",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "economy",
+        "bank",
+        "经济",
+        "金融"
+      ],
+      "fingerprint": "2bf1d923b86787275590859d",
       "isContinuation": false,
-      "titleZh": "报道称特朗普本月初在土耳其更换飞机，因受伊朗代理人势力威胁",
-      "summaryZh": "据《纽约时报》报道，美国官员评估认为伊朗代理人势力对特朗普构成可信威胁，导致其在土耳其更换了座机。特朗普此前乘坐的卡塔尔捐赠飞机缺乏与旧“空军一号”同等级别的防御系统。",
-      "whyImportant": "针对美国总统的直接安全威胁凸显了美伊对抗的严峻性。",
+      "titleZh": "叙利亚2160亿美元的重建计划提供了一条霍尔木兹海峡之外的替代路径",
+      "summaryZh": "在经历多年战乱与制裁后，叙利亚政府正寻求2160亿美元的重建资金。随着新政府成立，该国开始探索经济复苏及地缘政治中的新角色。",
+      "whyImportant": "叙利亚的重建进程可能改变中东地区的地缘经济格局。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "357122f0613c185e",
-      "title": "Is China building a new type of attack submarine? Satellite images hint at stealth gains",
+      "id": "8c510852865dfc54",
+      "title": "‘Defanging’ Aung San: Myanmar’s generals wage war on memory",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3361774/china-building-new-type-attack-submarine-satellite-images-hint-stealth-gains?utm_source=rss_feed",
-      "publishedAt": "2026-07-24T12:00:11.000Z",
-      "summary": "China may be developing a new class of nuclear-powered attack submarine with improved range and stealth, according to analysis based on recent satellite imagery. The images, captured at Shanghai’s Jiangnan Shipyard, show what analysts believe is a previously unidentified submarine featuring a dramatically reduced sail compared with existing Type 093 attack submarines – a design they say could improve performance. The submarine first came to public attention in early June when naval analyst H.I....",
+      "url": "https://www.scmp.com/week-asia/people/article/3361577/defanging-aung-san-myanmars-generals-wage-war-memory?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T02:00:07.000Z",
+      "summary": "Across Myanmar, the statues are vanishing one by one. Military-backed authorities blame “incorrect proportions and shapes”. Unofficially, analysts see a deliberate attempt to erase the presence of independence hero Aung San from public life – and with it, the legitimacy of the elected government the junta overthrew. Revered as the country’s founding father, Aung San founded its military, united its diverse ethnic groups and spearheaded the nationalist movement that ultimately wrested...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3361774/china-building-new-type-attack-submarine-satellite-images-hint-stealth-gains?utm_source=rss_feed",
-          "publishedAt": "2026-07-24T12:00:11.000Z"
+          "url": "https://www.scmp.com/week-asia/people/article/3361577/defanging-aung-san-myanmars-generals-wage-war-memory?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T02:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2ea78f4ddec40cc39d72bfb1",
+      "isContinuation": false,
+      "titleZh": "“去昂山化”：缅甸军方对历史记忆发动战争",
+      "summaryZh": "缅甸各地有关独立英雄昂山的雕像正逐渐消失，官方理由是比例不当，但分析人士认为这是军方试图抹除昂山在公众生活中的影响力。此举旨在削弱被推翻民选政府的合法性。",
+      "whyImportant": "通过重塑历史记忆，缅甸军方试图巩固其统治地位并消除前政权的政治遗产。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c7ff798b49d252cf",
+      "title": "布林肯 ： 若与中国一对一 ， 局面会十分艰难",
+      "source": "163.com",
+      "url": "https://www.163.com/news/article/L2ONHAJE0001899O.html",
+      "publishedAt": "2026-07-26T03:00:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "163.com",
+          "url": "https://www.163.com/news/article/L2ONHAJE0001899O.html",
+          "publishedAt": "2026-07-26T03:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "00a9a6a3b9022d07ba500e0a",
+      "isContinuation": false,
+      "titleZh": "布林肯：若与中国一对一，局面会十分艰难",
+      "summaryZh": "布林肯在相关表态中指出，在特定竞争环境下，若与中国进行直接的单边对抗，形势将面临巨大挑战。",
+      "whyImportant": "此言论反映了美国外交政策中对中美竞争复杂性的评估。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "445e8c42b6131149",
+      "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+      "publishedAt": "2026-07-26T00:49:12.000Z",
+      "summary": "Yemen's Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+          "publishedAt": "2026-07-26T00:49:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "31a51de9452d53620d29d449",
+      "isContinuation": false,
+      "titleZh": "也门胡塞武装袭击沙特红海沿岸石油设施",
+      "summaryZh": "也门胡塞武装宣称对沙特阿美公司位于红海沿岸的石油设施发动了袭击。目前尚无关于损失的详细报告。",
+      "whyImportant": "此类袭击加剧了中东地区的能源安全风险与地缘紧张局势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8b5b9c280ba18938",
+      "title": "T8 signal to be lowered to T3 at 12.40pm on Sunday as Typhoon Noul departs",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3361858/typhoon-noul-t8-signal-remain-force-until-least-noon?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T23:48:26.000Z",
+      "summary": "About 350 flights have been cancelled in Hong Kong on Sunday but most will resume in the afternoon, according to the Airport Authority, while the Observatory has said it will lower the No 8 storm signal to No 3 at 12.40pm as Typhoon Noul moves further away from the city. Apart from the 350 flights, more than 190 cross-border high-speed rail services have also been cancelled on Sunday. “Noul is moving steadily into inland Guangdong, starting to depart Hong Kong while weakening progressively....",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3361858/typhoon-noul-t8-signal-remain-force-until-least-noon?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T23:48:26.000Z"
         }
       ],
       "sourceCount": 1,
@@ -606,154 +537,37 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "突发",
-        "能源"
+        "环境"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f3af08976ab3a49d3439847e",
+      "fingerprint": "3b1141756fd28d10fda21304",
       "isContinuation": false,
-      "titleZh": "中国是否在建造新型攻击核潜艇？卫星图像暗示隐身性能提升",
-      "summaryZh": "分析人士通过上海江南造船厂的卫星图像发现，中国可能正在研发一种新型攻击核潜艇。该潜艇的指挥台围壳设计显著缩小，被认为旨在提升隐身性能和作战效能。",
-      "whyImportant": "中国海军装备的潜在技术进步引发了国际军事观察家的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0adeceaef5b81d6c",
-      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-      "publishedAt": "2026-07-24T17:58:22.000Z",
-      "summary": "No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and Kuwait The US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump threatened “major military punishment” for Tehran and its Houthi allies in Yemen for extending the war to a second shipping ⁠chokepoint at the entrance to the Red Sea. As Iran retaliated on Friday with missile and drone fire against US bases and allies across the region, the New York Times reported that Tehran had rejected a US ceasefire proposal delivered by the Iraq prime minister, Ali al-Zaidi. This despite the US secretary of state, Marco Rubio, claiming a day earlier that Iran was begging for a ceasefire. Iraq later disputed the report. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-          "publishedAt": "2026-07-24T17:58:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bdd49ccef1db72670ada30d0",
-      "isContinuation": false,
-      "titleZh": "美国扩大对伊朗打击，特朗普警告德黑兰及胡塞武装",
-      "summaryZh": "美国对伊朗境内目标发动打击，特朗普威胁将对伊朗及其胡塞武装盟友实施“重大军事惩罚”。尽管美国国务卿鲁比奥声称伊朗寻求停火，但伊朗随后对美军基地发动了报复性袭击。",
-      "whyImportant": "美伊冲突的持续升级加剧了地区战争风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "68ffc051df1ced2f",
-      "title": "Trump’s latest tariff tantrum unlikely to end well for the US",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3361593/trumps-latest-tariff-tantrum-unlikely-end-well-us?utm_source=rss_feed",
-      "publishedAt": "2026-07-24T09:05:54.000Z",
-      "summary": "After devoting the first half of 2026 to an ineffectual, expensive and inconclusive military adventure in Iran, it seems US President Donald Trump is about to turn afresh to the wars he loves best – the tariff wars he still believes can make America great again. He can’t quite walk away from the war in the Persian Gulf. Iran’s refusal to capitulate has left Trump with an awkward obligation to fight on, despite the widespread unpopularity of the conflict, even among his base, and the need to...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3361593/trumps-latest-tariff-tantrum-unlikely-end-well-us?utm_source=rss_feed",
-          "publishedAt": "2026-07-24T09:05:54.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "588a0985fd633a4391b8512e",
-      "isContinuation": false,
-      "titleZh": "特朗普最新的关税闹剧不太可能给美国带来好结果",
-      "summaryZh": "在伊朗军事行动陷入僵局且国内支持率低迷的情况下，特朗普似乎正重拾关税战策略。分析认为，这种做法难以实现其“让美国再次伟大”的目标，反而可能带来负面影响。",
-      "whyImportant": "特朗普的贸易保护主义政策可能对美国经济和国际关系产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f99c797d06cc9a78",
-      "title": "OPINION / Disarmament must not be forgotten as the world rearms | The Asahi Shimbun : Breaking News , Japan News and Analysis",
-      "source": "asahi.com",
-      "url": "https://www.asahi.com/ajw/articles/16705992",
-      "publishedAt": "2026-07-25T02:15:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "asahi.com",
-          "url": "https://www.asahi.com/ajw/articles/16705992",
-          "publishedAt": "2026-07-25T02:15:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cb219813611a5107a243e878",
-      "isContinuation": false,
-      "titleZh": "观点：世界重整军备之际，裁军不应被遗忘",
-      "summaryZh": "在全球军备竞赛加剧的背景下，该评论呼吁国际社会不应忽视裁军的重要性。维护和平与稳定需要各国共同努力。",
-      "whyImportant": "在全球地缘政治紧张的背景下，裁军议题对维护全球安全至关重要。",
+      "titleZh": "台风“努尔”逐渐远离，香港将于周日中午12时40分改发三号强风信号",
+      "summaryZh": "随着台风“努尔”向广东内陆移动并逐渐减弱，香港天文台宣布将下调风球信号。受台风影响，周日约350个航班及190多班跨境高铁服务被迫取消。",
+      "whyImportant": "台风过境对香港的交通运输及社会运行造成了显著干扰。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "ef35c09b450934b4",
-      "title": "Long before the Silk Road, silkworm cocoons already existed in Uzbekistan",
+      "id": "e52ca8a9a2e63aea",
+      "title": "Rare medical condition causes Chinese man’s scalp to thicken and fold, resembling human brain",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3361762/long-silk-road-silkworm-cocoons-already-existed-uzbekistan?utm_source=rss_feed",
-      "publishedAt": "2026-07-25T02:00:10.000Z",
-      "summary": "In 138BC, Chinese diplomat and explorer Zhang Qian was sent as an envoy to the western regions. The Han dynasty envoy failed to achieve his emperor’s goal of launching a pincer attack against the Xiongnu nomadic confederation, but he unexpectedly discovered a route. The land route started from Changan, present-day Xian, and passed through Gansu province and the Xinjiang Uygur autonomous region, reaching Central and West Asia, and connecting various countries along the Mediterranean. Among the...",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361865/rare-medical-condition-causes-chinese-mans-scalp-thicken-and-fold-resembling-human-brain?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T03:21:31.000Z",
+      "summary": "A man from central China had long been troubled by a thickening scalp that developed folds resembling the creases of a brain, but he eventually found a plastic surgeon who could address his condition. The 23-year-old man from Hunan province, surnamed Li, recently had his issue resolved at the Zhongnan Hospital of Wuhan University in Hubei. Li first noticed the hardening of his scalp several years ago. As the condition advanced, his scalp thickened and proliferated, creating large areas of uneven...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3361762/long-silk-road-silkworm-cocoons-already-existed-uzbekistan?utm_source=rss_feed",
-          "publishedAt": "2026-07-25T02:00:10.000Z"
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361865/rare-medical-condition-causes-chinese-mans-scalp-thicken-and-fold-resembling-human-brain?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T03:21:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -762,35 +576,35 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "突发"
+        "国际组织"
       ],
-      "score": 66,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8fe99df17eee4efa3e303b91",
+      "fingerprint": "c6e2d0e9ae09d6f349b2b9cb",
       "isContinuation": false,
-      "titleZh": "早在丝绸之路之前，乌兹别克斯坦就已存在蚕茧",
-      "summaryZh": "汉代外交官张骞出使西域虽未达成军事结盟目标，却意外开辟了连接东西方的丝绸之路。考古发现表明，乌兹别克斯坦在丝绸之路形成前便已存在蚕茧，证明了早期文明的交流。",
-      "whyImportant": "这一发现丰富了对古代丝绸之路历史渊源的认知。",
+      "titleZh": "罕见疾病导致中国男子头皮增厚折叠，形似人脑",
+      "summaryZh": "一名23岁的中国男子因患有罕见头皮疾病，导致头皮增厚并出现类似大脑褶皱的纹路。近日，他在武汉大学中南医院通过整形手术成功解决了这一困扰多年的问题。",
+      "whyImportant": "该病例展示了现代医学在处理罕见皮肤病变方面的临床进展。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "64feddf9df4b3d34",
-      "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
+      "id": "e677d768f2427f0e",
+      "title": "How Chinese scientists created an alloy that can survive 2,400 degrees Celsius",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
-      "publishedAt": "2026-07-25T02:00:15.000Z",
-      "summary": "On the surface, China’s cutting-edge tech sector – from the algorithmic breakthroughs of DeepSeek and Zhipu AI to the hardware of Unitree Robotics and ChangXin Memory Technologies (CXMT) – mirrors Silicon Valley’s venture capital-backed ecosystem. But a closer look at their financing histories reveals a common investor: the Chinese state. Beijing’s strong presence underscores a more profound structural shift in how China’s frontier technology is being funded. As Western venture capital and...",
+      "url": "https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T03:19:53.000Z",
+      "summary": "A team of Chinese scientists says it has developed an alloy that retains strength at ultra-high temperatures using tantalum – a very hard and flexible metal. For applications in aerospace, hypersonic vehicles and nuclear reactors, materials must endure both extreme heat and heavy loads. But most metals fail above 2,000 degrees Celsius (3,632 degrees Fahrenheit) – they either melt or soften to a putty-like consistency. New research is challenging that limit. According to a paper published last...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
-          "publishedAt": "2026-07-25T02:00:15.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T03:19:53.000Z"
         }
       ],
       "sourceCount": 1,
@@ -799,73 +613,36 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "科技"
+        "科技",
+        "能源"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ca3bd587c0ba83f874b5f47d",
+      "fingerprint": "b948dd11c0ba76fcb2927739",
       "isContinuation": false,
-      "titleZh": "具有中国特色的投资：北京的资金如何重塑科技企业",
-      "summaryZh": "中国前沿科技领域看似由风险投资驱动，但深入分析显示，国家资本在其中扮演了核心角色。这种融资模式反映了中国在支持关键技术发展方面的结构性转变。",
-      "whyImportant": "国家资本对科技行业的深度介入正在改变中国科技产业的竞争格局。",
+      "titleZh": "中国科学家如何创造出能在2400摄氏度下保持强度的合金",
+      "summaryZh": "中国研究团队利用钽金属开发出一种新型合金，能够在超高温环境下保持结构强度。这一突破性材料有望应用于航空航天、高超音速飞行器及核反应堆领域。",
+      "whyImportant": "该材料技术的进步将显著提升极端环境下工业与国防装备的性能。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3c1b4c7b63ca9075",
-      "title": "Chinese weight-loss trend of mixing tea with enemas sends many to hospital",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361803/chinese-weight-loss-trend-mixing-tea-enemas-sends-many-hospital?utm_source=rss_feed",
-      "publishedAt": "2026-07-25T01:00:20.000Z",
-      "summary": "An unconventional weight-loss remedy of drinking a mixture of an external-use constipation medication with tea has trended on Chinese social media, sparking doctors to warn the public not to try it after receiving some emergency cases. The extreme slimming method has captivated social media in recent weeks because of claims that it has the remarkable effect of helping people shed 4kg of weight within just two days, Shangyou News reported. In some viral videos, influencers squeeze a glycerin...",
-      "language": "",
-      "region": "china",
+      "id": "cb4d094857562b0d",
+      "title": "中国 东盟外长关于应对中东局势演变对本地区影响及加强区域能源合作的联合声明",
+      "source": "baijiahao.baidu.com",
+      "url": "https://baijiahao.baidu.com/s?id=1871556461973955077",
+      "publishedAt": "2026-07-26T03:30:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361803/chinese-weight-loss-trend-mixing-tea-enemas-sends-many-hospital?utm_source=rss_feed",
-          "publishedAt": "2026-07-25T01:00:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9f0c721612af44d273d9e2a1",
-      "isContinuation": false,
-      "titleZh": "中国减肥潮流：将茶与灌肠剂混合导致多人入院",
-      "summaryZh": "社交媒体上流传一种将外用便秘药物与茶混合的极端减肥法，声称两天可减重4公斤。医生警告该方法存在严重健康风险，目前已有数起紧急就医案例。",
-      "whyImportant": "社交媒体上的不科学减肥偏方对公众健康构成了直接威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f1b451235203da72",
-      "title": "Family office of Henderson Land boss to fast-track Central Asia green energy plans",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361801/family-office-henderson-land-boss-fast-track-central-asia-green-energy-plans?utm_source=rss_feed",
-      "publishedAt": "2026-07-25T01:00:15.000Z",
-      "summary": "Henderson Land Development co-chairman and managing director Peter Lee Ka-kit’s family office has fast-tracked its plans in Central Asia, where rich agricultural and natural resources could trigger more than US$1 billion in investments in green energy. Alan Chan Ying-lung, managing partner of family office Full Vision Capital, told the South China Morning Post that the firm was pressing ahead with investment projects such as sustainable aviation fuel (SAF) and smart energy storage and solutions...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361801/family-office-henderson-land-boss-fast-track-central-asia-green-energy-plans?utm_source=rss_feed",
-          "publishedAt": "2026-07-25T01:00:15.000Z"
+          "source": "baijiahao.baidu.com",
+          "url": "https://baijiahao.baidu.com/s?id=1871556461973955077",
+          "publishedAt": "2026-07-26T03:30:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -877,199 +654,114 @@
         "能源"
       ],
       "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "416b56e7b766c60d2dd52579",
+      "fingerprint": "0e10b6453127db3f725b9bf0",
       "isContinuation": false,
-      "titleZh": "恒基地产老板家族办公室加速中亚绿色能源计划",
-      "summaryZh": "恒基地产联席主席李家杰的家族办公室正加速在中亚的投资布局，计划投入超过10亿美元用于绿色能源项目。重点领域包括可持续航空燃料及智能储能解决方案。",
-      "whyImportant": "私人资本对中亚绿色能源的投资有助于推动区域能源转型。",
+      "titleZh": "中国-东盟外长关于应对中东局势演变对本地区影响及加强区域能源合作的联合声明",
+      "summaryZh": "中国与东盟外长发表联合声明，就中东局势对区域的影响交换意见，并强调加强区域能源合作的重要性。双方致力于共同维护地区稳定与能源安全。",
+      "whyImportant": "该声明体现了中国与东盟在应对外部地缘政治冲击方面的协调与合作意愿。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "731e305d6fa5cedc",
-      "title": "Saudi money , Chinese weapons , American patronage : Can Pakistan balance all three ?",
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/saudi-money-chinese-weapons-american-patronage-can-pakistan-balance-all-three/articleshow/132608633.cms",
-      "publishedAt": "2026-07-24T16:00:00.000Z",
+      "id": "eb75b949a90f4f17",
+      "title": "王赫 ： 从Kimi K3谈中美AI竞争之白热化",
+      "source": "aboluowang.com",
+      "url": "https://www.aboluowang.com/2026/0726/2412719.html",
+      "publishedAt": "2026-07-26T03:00:00.000Z",
       "summary": "",
-      "language": "English",
+      "language": "Chinese",
       "region": "",
       "crossSources": [
         {
-          "source": "timesofindia.indiatimes.com",
-          "url": "https://timesofindia.indiatimes.com/world/pakistan/saudi-money-chinese-weapons-american-patronage-can-pakistan-balance-all-three/articleshow/132608633.cms",
-          "publishedAt": "2026-07-24T16:00:00.000Z"
+          "source": "aboluowang.com",
+          "url": "https://www.aboluowang.com/2026/0726/2412719.html",
+          "publishedAt": "2026-07-26T03:00:00.000Z"
+        },
+        {
+          "source": "epochtimes.com",
+          "url": "https://www.epochtimes.com/gb/26/7/25/n14817344.htm",
+          "publishedAt": "2026-07-25T21:15:00.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "463328d7d6e344149fcde6c9",
+      "isContinuation": false,
+      "titleZh": "王赫：从Kimi K3谈中美AI竞争之白热化",
+      "summaryZh": "文章探讨了以Kimi K3为代表的AI技术发展，分析了中美两国在人工智能领域日益激烈的竞争态势。作者认为技术迭代速度已成为衡量国家竞争力的关键指标。",
+      "whyImportant": "人工智能领域的竞争已成为中美科技博弈的核心焦点。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4e28a1886106ae84",
+      "title": "What is a supernode, and why does it matter for the China-US tech rivalry?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T13:00:08.000Z",
+      "summary": "As the size of artificial intelligence models expands beyond 1 trillion parameters, a new concept is dominating the computing landscape: “supernode”. At this year’s World Artificial Intelligence Conference (WAIC), China’s top AI summit, domestic chipmakers from Huawei Technologies to Biren Technology showcased new hardware designed to knit hundreds or thousands of chips together to act as one giant supercomputer, which they called a supernode. The focus on supernodes at WAIC reflected a shift in...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T13:00:08.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "外交",
+        "军事与安全",
+        "科技"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "d80c3d4a863543acde8b7a48",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "010bf1164e7d5b9759bfa0c5",
       "isContinuation": false,
-      "titleZh": "沙特资金、中国武器、美国庇护：巴基斯坦能否三者平衡？",
-      "summaryZh": "巴基斯坦在复杂的国际关系中寻求平衡，试图同时处理与沙特、中国和美国的关系。这种多边外交策略面临巨大的地缘政治挑战。",
-      "whyImportant": "巴基斯坦的外交平衡术对南亚地区的地缘政治稳定具有重要意义。",
+      "titleZh": "什么是“超级节点”，它为何对中美科技竞争至关重要？",
+      "summaryZh": "随着AI模型参数规模突破万亿，中国芯片制造商正致力于开发“超级节点”技术，将成百上千个芯片连接成一个巨型超级计算机。这一概念已成为衡量AI算力竞争的新标准。",
+      "whyImportant": "算力基础设施的创新直接决定了AI大模型研发的上限与国家科技竞争力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "f50317ebd4df198e",
-      "title": "Trump’s address takes bitter turn after hailing ‘amazing job’ by reporters at gala",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
-      "publishedAt": "2026-07-25T02:16:07.000Z",
-      "summary": "President took aim again at ‘fake media’ despite praising journalists and attacked opponents in rambling speech Donald Trump, who has regularly attacked the press over its coverage of him and his presidency, praised journalists for doing an “amazing job” as he addressed the White House correspondents’ dinner. A day after the Trump administration abandoned, for now, an extraordinary bid to subpoena reporters over their coverage, the US president attended the rescheduled White House correspondents’ dinner – an annual celebration of press freedom – in Washington on Friday evening. Continue reading...",
+      "id": "9565de6a2ea16226",
+      "title": "Why new US tariffs threaten Trump government’s credibility in Asean",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3361861/why-new-us-tariffs-threaten-trump-governments-credibility-asean?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T03:30:09.000Z",
+      "summary": "A new wave of US tariffs that hit seven Southeast Asian countries is set to reinforce perceptions of Washington as an unreliable partner to the region, according to analysts. Citing what it said were forced labour practices uncovered in its latest investigations, the US on Thursday imposed levies ranging from 10 to 12.5 per cent on 60 economies – with the Philippines, Singapore, Thailand and Vietnam the hardest hit among Association of Southeast Asian Nations members. Malaysia, Indonesia and...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
-          "publishedAt": "2026-07-25T02:16:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "国际组织",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 82,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "d195b8eb2be54125a704a9fc",
-      "isContinuation": false,
-      "titleZh": "特朗普在晚宴上称赞记者“工作出色”后，演讲转向尖刻",
-      "summaryZh": "特朗普出席了白宫记者协会晚宴，尽管此前曾多次攻击媒体，但他当晚称赞记者工作出色。然而，他在随后的演讲中再次抨击“假新闻”并攻击政治对手。",
-      "whyImportant": "特朗普对媒体态度的反复无常反映了其与新闻界持续紧张的关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1206ed6269774f4b",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T02:23:09.000Z",
-      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-25T02:23:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 71,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "03ea18dc3331c0d8a89b319d",
-      "isContinuation": false,
-      "titleZh": "特朗普下令史密森尼学会发布关于“不准确”美国历史的警告",
-      "summaryZh": "特朗普政府指责史密森尼学会存在反美偏见。为此，政府下令该研究机构在其展览中发布关于历史叙述“不准确”的警告。",
-      "whyImportant": "此举引发了关于政府干预文化机构及历史解释权的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "042f14cc5c5f88b4",
-      "title": "‘The show must go on’: Trump returns to rescheduled White House press gala",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-      "publishedAt": "2026-07-25T02:59:04.000Z",
-      "summary": "US president makes jokes, mocks opponents at correspondents' dinner that was halted by a shooting in April.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-          "publishedAt": "2026-07-25T02:59:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "c1da6a90036222c2c1d0a7ab",
-      "isContinuation": false,
-      "titleZh": "“演出必须继续”：特朗普重返推迟的白宫记者晚宴",
-      "summaryZh": "美国总统特朗普出席了此前因四月份枪击事件而推迟的白宫记者协会晚宴。他在晚宴上发表了幽默演讲，并嘲讽了政治对手。",
-      "whyImportant": "总统出席记者晚宴被视为缓解行政部门与媒体紧张关系的一种尝试。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9bce0ab93b4ac349",
-      "title": "以 强迫劳动 为由 ， 行贸易保护之实 ， 美国新关税引多方强烈反弹",
-      "source": "baijiahao.baidu.com",
-      "url": "https://baijiahao.baidu.com/s?id=1871638719864689161",
-      "publishedAt": "2026-07-24T23:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "baijiahao.baidu.com",
-          "url": "https://baijiahao.baidu.com/s?id=1871638719864689161",
-          "publishedAt": "2026-07-24T23:45:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3361861/why-new-us-tariffs-threaten-trump-governments-credibility-asean?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T03:30:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1079,211 +771,237 @@
       "tags": [
         "美国重点",
         "经济",
-        "专题·美国政策与全球影响"
+        "专题·全球经济与金融"
       ],
-      "score": 63,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 70,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "美国"
+        "tariff",
+        "经济"
       ],
-      "fingerprint": "7ddca581d06ab5ae7571f729",
+      "fingerprint": "9bb65dbf3626385c8895a457",
       "isContinuation": false,
-      "titleZh": "以强迫劳动为由，行贸易保护之实，美国新关税引多方强烈反弹",
-      "summaryZh": "美国以所谓“强迫劳动”为借口实施新关税，被外界普遍视为贸易保护主义行为。此举引发了国际社会及相关利益方的强烈反对与批评。",
-      "whyImportant": "美国利用人权议题作为贸易壁垒，加剧了国际贸易摩擦。",
+      "titleZh": "为何美国新关税威胁特朗普政府在东盟的信誉",
+      "summaryZh": "美国以所谓“强迫劳动”为由，对包括菲律宾、新加坡、泰国和越南在内的七个东南亚国家征收10%至12.5%的关税。分析人士认为，此举将损害美国作为东盟可靠合作伙伴的形象。",
+      "whyImportant": "美国贸易保护主义政策可能导致其在东南亚的战略影响力受损。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1316608aec53a8b7",
-      "title": "Can Southeast Asia survive more Iran war fuel shocks?",
+      "id": "938665fb755a4011",
+      "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
       "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3361765/can-southeast-asia-survive-more-iran-war-fuel-shocks?utm_source=rss_feed",
-      "publishedAt": "2026-07-24T10:31:18.000Z",
-      "summary": "Southeast Asia’s governments have spent months trying to blunt the effects of war-driven energy shocks from the Middle East, but renewed fighting between the United States and Iran has exposed how limited those defences are, analysts have warned. The latest flare-up has revived fears of a second round of fuel disruption across the region, where many economies remain heavily dependent on imported oil and shipping routes linked to the Gulf. Southeast Asian leaders expressed “grave concern” over...",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T04:57:39.000Z",
+      "summary": "Japan has been establishing dialogue frameworks for artificial intelligence with like-minded countries and Global South partners to reduce reliance on top US and Chinese firms and promote domestic companies abroad. The outreach signals a growing recognition among those countries of the need for cooperation, rather than going it alone, to survive in the increasingly competitive field of AI. At home, Japan is seeking to foster its own domestic AI ecosystem. The move by the United States to...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3361765/can-southeast-asia-survive-more-iran-war-fuel-shocks?utm_source=rss_feed",
-          "publishedAt": "2026-07-24T10:31:18.000Z"
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T04:57:39.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": true,
       "isNoise": false,
       "tags": [
+        "中国重点",
         "美国重点",
-        "军事与安全",
-        "能源",
-        "专题·美国政策与全球影响"
+        "科技"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "d95e02bc7f805003ce69ba0c",
+      "score": 45,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e214b867c15f3ac3d7e6d7e1",
       "isContinuation": false,
-      "titleZh": "东南亚能否承受更多伊朗战争带来的燃料冲击？",
-      "summaryZh": "美伊冲突引发的能源价格波动对东南亚经济造成冲击。由于该地区高度依赖进口石油及相关航运路线，分析人士警告其防御能力有限，面临燃料供应中断的风险。",
-      "whyImportant": "中东局势动荡对东南亚经济安全构成了直接威胁。",
+      "titleZh": "日本拉拢印度、马来西亚，试图摆脱美中AI双头垄断",
+      "summaryZh": "日本正通过建立AI对话框架，加强与印度、马来西亚等全球南方国家的合作，以减少对美中科技巨头的依赖。此举旨在扶持日本本土AI生态系统并提升国际竞争力。",
+      "whyImportant": "日本的策略反映了中等强国在美中科技竞争夹缝中寻求自主权的努力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "41c9252ec01845c6",
+      "title": "同样是海上执法 ， 美国用炮弹 ， 中国用水炮 ， CNN却说中国 欺负人 ？ |领海|黄岩岛|中国海警",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L2MELVBU05315IF2.html",
+      "publishedAt": "2026-07-25T06:00:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "163.com",
+          "url": "https://www.163.com/dy/article/L2MELVBU05315IF2.html",
+          "publishedAt": "2026-07-25T06:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 43,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e29eeebcbeff3d5491b90bb9",
+      "isContinuation": false,
+      "titleZh": "同样是海上执法，美国用炮弹，中国用水炮，CNN却说中国欺负人？",
+      "summaryZh": "文章对比了中美在海上执法手段上的差异，并对西方媒体在报道中国海警执法时的双重标准提出了质疑。作者认为相关报道存在偏见。",
+      "whyImportant": "该评论反映了中国舆论对西方媒体在南海问题报道立场的不满。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "5f8d5b463c9f66b8",
-      "title": "Chinese FM attends meeting of foreign ministers of SCO member states",
-      "source": "centralasiatimes.com",
-      "url": "http://www.centralasiatimes.com/news/279208488/chinese-fm-attends-meeting-of-foreign-ministers-of-sco-member-states",
-      "publishedAt": "2026-07-25T01:00:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
+      "id": "281178c87b27373c",
+      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T23:30:07.000Z",
+      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "language": "",
+      "region": "international",
       "crossSources": [
         {
-          "source": "centralasiatimes.com",
-          "url": "http://www.centralasiatimes.com/news/279208488/chinese-fm-attends-meeting-of-foreign-ministers-of-sco-member-states",
-          "publishedAt": "2026-07-25T01:00:00.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-25T23:30:07.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "外交"
+        "全球焦点",
+        "国际组织"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "322ca1f68c581e66203b67ba",
+      "fingerprint": "d160986601fba27e5da5605f",
       "isContinuation": false,
-      "titleZh": "中国外交部长出席上合组织成员国外长会议",
-      "summaryZh": "中国外交部长参加了上海合作组织成员国外长会议。各方就地区安全、经济合作及共同关心的国际问题进行了深入交流。",
-      "whyImportant": "上合组织成员国间的协调对于维护区域稳定与合作具有重要意义。",
+      "titleZh": "披萨、意面、土豆、蛋白质——意大利儿童为何如此超重",
+      "summaryZh": "尽管地中海饮食常被视为健康饮食的典范，但世界卫生组织数据显示，意大利儿童的超重率在欧洲名列前茅。饮食习惯的改变被认为是导致这一现象的主要原因。",
+      "whyImportant": "这一现象揭示了传统饮食文化在现代生活方式冲击下面临的健康挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8ec9d7e5f90388d1",
-      "title": "美政客炒作中国造船优势 ： 单凭美国自己 ， 永远赶不上中国 - 华侨网",
-      "source": "chinesepress.com",
-      "url": "https://www.chinesepress.com/archives/185799",
-      "publishedAt": "2026-07-24T16:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "chinesepress.com",
-          "url": "https://www.chinesepress.com/archives/185799",
-          "publishedAt": "2026-07-24T16:15:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "c9ff71f035bbf8526c0f25b3",
-      "isContinuation": false,
-      "titleZh": "美政客炒作中国造船优势：单凭美国自己，永远赶不上中国",
-      "summaryZh": "美国政客近期频繁炒作中国造船业的领先地位。有观点认为，美国在造船产能和技术积累方面已难以追赶中国。",
-      "whyImportant": "造船业的竞争反映了中美在工业制造与战略投送能力上的差距。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0b2f28e0cfa684e3",
-      "title": "Why Trump's 'forced labor' tariffs leave the world puzzled",
+      "id": "b40b6d323c29c607",
+      "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
       "source": "DW",
-      "url": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-07-24T11:01:00.000Z",
-      "summary": "After the US Supreme Court struck down Donald Trump's emergency tariffs, the White House has turned to another trade law linked to alleged human rights abuses.",
+      "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-07-25T17:32:00.000Z",
+      "summary": "Documented cases of violence against LGBTQ+ people in Serbia have never been higher. The attacks are part of a larger shift in society targeting marginalized people.",
       "language": "en",
       "region": "europe",
       "crossSources": [
         {
           "source": "DW",
-          "url": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-07-24T11:01:00.000Z"
+          "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-07-25T17:32:00.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "经济",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "突发"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "4b26fe83c492f413881cab69",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "debfc41ed4c1c18e74286a14",
       "isContinuation": false,
-      "titleZh": "为什么特朗普的“强迫劳动”关税让世界感到困惑",
-      "summaryZh": "在美国最高法院推翻特朗普的紧急关税令后，白宫转向利用与所谓人权侵犯相关的贸易法。这一策略转变令国际社会感到困惑，并引发了法律与贸易合规性的质疑。",
-      "whyImportant": "美国贸易政策的法律依据模糊，增加了全球贸易环境的不确定性。",
+      "titleZh": "塞尔维亚LGBTQ+群体面临“暴力流行病”",
+      "summaryZh": "塞尔维亚针对LGBTQ+群体的暴力事件记录达到历史新高。这些攻击被视为社会对边缘群体排斥加剧的缩影。",
+      "whyImportant": "该问题凸显了塞尔维亚社会在人权保障与社会包容性方面面临的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bfe477148c65ac8b",
+      "title": "ドジャース 山本由伸 日米通算100勝に到達",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186441000.html",
+      "publishedAt": "2026-07-26T03:50:25.000Z",
+      "summary": "大リーグ、ドジャースの山本由伸投手がメッツ戦に先発登板し、6回を1失点に抑えて、今シーズン11勝目をあげました。大リーグ通算30勝目で、プロ野球のオリックス時代にあげた70勝と合わせて日米通算100勝に到達です。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186441000.html",
+          "publishedAt": "2026-07-26T03:50:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "097ee27984287ea7d81f216b",
+      "isContinuation": false,
+      "titleZh": "道奇队山本由伸达成日美职业生涯合计100胜",
+      "summaryZh": "效力于美国职棒大联盟道奇队的投手山本由伸在对阵大都会队的比赛中先发登板，取得本赛季第11胜。此役过后，他达成了日美职业生涯合计100胜的里程碑。",
+      "whyImportant": "这一成就标志着日本棒球运动员在国际顶级赛事中的持续影响力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 273,
-    "deduplicated": 220,
-    "selected": 23,
+    "fetched": 168,
+    "deduplicated": 146,
+    "selected": 21,
     "minimumRequired": 21,
-    "featured": 8,
+    "featured": 3,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "f50317ebd4df198e",
-      "title": "Trump’s address takes bitter turn after hailing ‘amazing job’ by reporters at gala",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
-      "publishedAt": "2026-07-25T02:16:07.000Z",
-      "summary": "President took aim again at ‘fake media’ despite praising journalists and attacked opponents in rambling speech Donald Trump, who has regularly attacked the press over its coverage of him and his presidency, praised journalists for doing an “amazing job” as he addressed the White House correspondents’ dinner. A day after the Trump administration abandoned, for now, an extraordinary bid to subpoena reporters over their coverage, the US president attended the rescheduled White House correspondents’ dinner – an annual celebration of press freedom – in Washington on Friday evening. Continue reading...",
+      "id": "9565de6a2ea16226",
+      "title": "Why new US tariffs threaten Trump government’s credibility in Asean",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3361861/why-new-us-tariffs-threaten-trump-governments-credibility-asean?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T03:30:09.000Z",
+      "summary": "A new wave of US tariffs that hit seven Southeast Asian countries is set to reinforce perceptions of Washington as an unreliable partner to the region, according to analysts. Citing what it said were forced labour practices uncovered in its latest investigations, the US on Thursday imposed levies ranging from 10 to 12.5 per cent on 60 economies – with the Philippines, Singapore, Thailand and Vietnam the hardest hit among Association of Southeast Asian Nations members. Malaysia, Indonesia and...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
-          "publishedAt": "2026-07-25T02:16:07.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3361861/why-new-us-tariffs-threaten-trump-governments-credibility-asean?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T03:30:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1292,478 +1010,82 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "突发",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 70,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "tariff",
+        "经济"
+      ],
+      "fingerprint": "9bb65dbf3626385c8895a457",
+      "isContinuation": false,
+      "titleZh": "为何美国新关税威胁特朗普政府在东盟的信誉",
+      "summaryZh": "美国以所谓“强迫劳动”为由，对包括菲律宾、新加坡、泰国和越南在内的七个东南亚国家征收10%至12.5%的关税。分析人士认为，此举将损害美国作为东盟可靠合作伙伴的形象。",
+      "whyImportant": "美国贸易保护主义政策可能导致其在东南亚的战略影响力受损。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "03752f199b9443b6",
+      "title": "Treasure as trinkets: Zendaya’s earrings renew debate on ownership of ancient artefacts",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
+      "publishedAt": "2026-07-25T11:00:40.000Z",
+      "summary": "Jewellery made from BC Iran worn at Odyssey photocall throws spotlight on the trade of rare archeological finds The Odyssey has stormed cinemas, but while its take on the Homeric epic has created ripples among western classicists, it is an actor’s earrings that have made waves further afield. Zendaya, who portrays the goddess Athena in the movie, provoked outrage when she appeared at a London photocall wearing earrings that were allegedly made from Iranian artefacts dating back to the 1st millennium BC. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
+          "publishedAt": "2026-07-25T11:00:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "环境",
         "国际组织",
-        "专题·美国政策与全球影响"
+        "专题·全球经济与金融"
       ],
-      "score": 82,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "washington",
-        "white house",
-        "美国"
+        "trade",
+        "经济"
       ],
-      "fingerprint": "d195b8eb2be54125a704a9fc",
+      "fingerprint": "2b9cf18fd86747ad4bd5c94f",
       "isContinuation": false,
-      "titleZh": "特朗普在晚宴上称赞记者“工作出色”后，演讲转向尖刻",
-      "summaryZh": "特朗普出席了白宫记者协会晚宴，尽管此前曾多次攻击媒体，但他当晚称赞记者工作出色。然而，他在随后的演讲中再次抨击“假新闻”并攻击政治对手。",
-      "whyImportant": "特朗普对媒体态度的反复无常反映了其与新闻界持续紧张的关系。",
+      "titleZh": "珍宝变饰品：赞达亚佩戴的耳环引发关于古代文物所有权的争议",
+      "summaryZh": "演员赞达亚在电影宣传活动中佩戴了一对据称由公元前1世纪伊朗文物制成的耳环，引发了公众对古代文物贸易和所有权的广泛讨论。此举在文化遗产保护界引起了强烈反响。",
+      "whyImportant": "该事件引发了关于名人时尚选择与古代文物道德归属之间的舆论争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1206ed6269774f4b",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T02:23:09.000Z",
-      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-25T02:23:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 71,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "03ea18dc3331c0d8a89b319d",
-      "isContinuation": false,
-      "titleZh": "特朗普下令史密森尼学会发布关于“不准确”美国历史的警告",
-      "summaryZh": "特朗普政府指责史密森尼学会存在反美偏见。为此，政府下令该研究机构在其展览中发布关于历史叙述“不准确”的警告。",
-      "whyImportant": "此举引发了关于政府干预文化机构及历史解释权的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "042f14cc5c5f88b4",
-      "title": "‘The show must go on’: Trump returns to rescheduled White House press gala",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-      "publishedAt": "2026-07-25T02:59:04.000Z",
-      "summary": "US president makes jokes, mocks opponents at correspondents' dinner that was halted by a shooting in April.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-          "publishedAt": "2026-07-25T02:59:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "c1da6a90036222c2c1d0a7ab",
-      "isContinuation": false,
-      "titleZh": "“演出必须继续”：特朗普重返推迟的白宫记者晚宴",
-      "summaryZh": "美国总统特朗普出席了此前因四月份枪击事件而推迟的白宫记者协会晚宴。他在晚宴上发表了幽默演讲，并嘲讽了政治对手。",
-      "whyImportant": "总统出席记者晚宴被视为缓解行政部门与媒体紧张关系的一种尝试。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9bce0ab93b4ac349",
-      "title": "以 强迫劳动 为由 ， 行贸易保护之实 ， 美国新关税引多方强烈反弹",
-      "source": "baijiahao.baidu.com",
-      "url": "https://baijiahao.baidu.com/s?id=1871638719864689161",
-      "publishedAt": "2026-07-24T23:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "baijiahao.baidu.com",
-          "url": "https://baijiahao.baidu.com/s?id=1871638719864689161",
-          "publishedAt": "2026-07-24T23:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 63,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "7ddca581d06ab5ae7571f729",
-      "isContinuation": false,
-      "titleZh": "以强迫劳动为由，行贸易保护之实，美国新关税引多方强烈反弹",
-      "summaryZh": "美国以所谓“强迫劳动”为借口实施新关税，被外界普遍视为贸易保护主义行为。此举引发了国际社会及相关利益方的强烈反对与批评。",
-      "whyImportant": "美国利用人权议题作为贸易壁垒，加剧了国际贸易摩擦。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1316608aec53a8b7",
-      "title": "Can Southeast Asia survive more Iran war fuel shocks?",
+      "id": "75fab0211f73e659",
+      "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
       "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3361765/can-southeast-asia-survive-more-iran-war-fuel-shocks?utm_source=rss_feed",
-      "publishedAt": "2026-07-24T10:31:18.000Z",
-      "summary": "Southeast Asia’s governments have spent months trying to blunt the effects of war-driven energy shocks from the Middle East, but renewed fighting between the United States and Iran has exposed how limited those defences are, analysts have warned. The latest flare-up has revived fears of a second round of fuel disruption across the region, where many economies remain heavily dependent on imported oil and shipping routes linked to the Gulf. Southeast Asian leaders expressed “grave concern” over...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T05:30:07.000Z",
+      "summary": "For years, Syria was a wound the world watched fester: a country carved up by war, sanctioned into isolation and reduced to a byword for state collapse. Its economy needs US$216 billion to rebuild, according to World Bank estimates. This month, for the first time since the fall of the Assad regime in December 2024, it began to look like it might actually get there. On July 8, the government of Ahmed al-Sharaa – a former jihadi commander turned president – established a supreme constitutional...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3361765/can-southeast-asia-survive-more-iran-war-fuel-shocks?utm_source=rss_feed",
-          "publishedAt": "2026-07-24T10:31:18.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "能源",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "d95e02bc7f805003ce69ba0c",
-      "isContinuation": false,
-      "titleZh": "东南亚能否承受更多伊朗战争带来的燃料冲击？",
-      "summaryZh": "美伊冲突引发的能源价格波动对东南亚经济造成冲击。由于该地区高度依赖进口石油及相关航运路线，分析人士警告其防御能力有限，面临燃料供应中断的风险。",
-      "whyImportant": "中东局势动荡对东南亚经济安全构成了直接威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "eb56d50574772d50",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "publishedAt": "2026-07-24T15:28:37.000Z",
-      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana’s coast has risen to 72, with more bodies recovered as a multinational team struggle to salvage the partially submerged vessel. Of the estimated 179 people aboard, 76 people were rescued. The government has estimated that 100 may have died in the accident, which would make it the worst marine tragedy on record for the South American nation. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-          "publishedAt": "2026-07-24T15:28:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "公共安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "8a2d3d4585f7ef70ef41d396",
-      "isContinuation": false,
-      "titleZh": "圭亚那当局确认沿海渡轮沉没事故造成72人死亡",
-      "summaryZh": "一艘载有约179人的政府渡轮在圭亚那海岸沉没，目前已确认72人遇难，76人获救。政府估计最终死亡人数可能达到100人，这将是该国历史上最严重的海洋灾难。",
-      "whyImportant": "这起重大海难对圭亚那造成了严重的人员伤亡和公共安全影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "731e305d6fa5cedc",
-      "title": "Saudi money , Chinese weapons , American patronage : Can Pakistan balance all three ?",
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/saudi-money-chinese-weapons-american-patronage-can-pakistan-balance-all-three/articleshow/132608633.cms",
-      "publishedAt": "2026-07-24T16:00:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "timesofindia.indiatimes.com",
-          "url": "https://timesofindia.indiatimes.com/world/pakistan/saudi-money-chinese-weapons-american-patronage-can-pakistan-balance-all-three/articleshow/132608633.cms",
-          "publishedAt": "2026-07-24T16:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "d80c3d4a863543acde8b7a48",
-      "isContinuation": false,
-      "titleZh": "沙特资金、中国武器、美国庇护：巴基斯坦能否三者平衡？",
-      "summaryZh": "巴基斯坦在复杂的国际关系中寻求平衡，试图同时处理与沙特、中国和美国的关系。这种多边外交策略面临巨大的地缘政治挑战。",
-      "whyImportant": "巴基斯坦的外交平衡术对南亚地区的地缘政治稳定具有重要意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "68ffc051df1ced2f",
-      "title": "Trump’s latest tariff tantrum unlikely to end well for the US",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3361593/trumps-latest-tariff-tantrum-unlikely-end-well-us?utm_source=rss_feed",
-      "publishedAt": "2026-07-24T09:05:54.000Z",
-      "summary": "After devoting the first half of 2026 to an ineffectual, expensive and inconclusive military adventure in Iran, it seems US President Donald Trump is about to turn afresh to the wars he loves best – the tariff wars he still believes can make America great again. He can’t quite walk away from the war in the Persian Gulf. Iran’s refusal to capitulate has left Trump with an awkward obligation to fight on, despite the widespread unpopularity of the conflict, even among his base, and the need to...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3361593/trumps-latest-tariff-tantrum-unlikely-end-well-us?utm_source=rss_feed",
-          "publishedAt": "2026-07-24T09:05:54.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "588a0985fd633a4391b8512e",
-      "isContinuation": false,
-      "titleZh": "特朗普最新的关税闹剧不太可能给美国带来好结果",
-      "summaryZh": "在伊朗军事行动陷入僵局且国内支持率低迷的情况下，特朗普似乎正重拾关税战策略。分析认为，这种做法难以实现其“让美国再次伟大”的目标，反而可能带来负面影响。",
-      "whyImportant": "特朗普的贸易保护主义政策可能对美国经济和国际关系产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d4cbbe882c278e21",
-      "title": "Trump’s speech devolves into list of gripes and nasty attacks on opponents – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
-      "publishedAt": "2026-07-25T03:01:03.000Z",
-      "summary": "This liveblog is now closed. Read the full story here. Sign up for the US Breaking News email Represenatives Ilhan Omar and Pramila Jayapal, will visit the Whipple Federal Building in Minneapolis today to conduct a congressional oversight visit. The Democratic lawmakers are visiting the site of sustained protests earlier this year against the immigration crackdown that swept the state of Minnesota, and resulted in the fatal shootings of two US citizens by federal immigration agents. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
-          "publishedAt": "2026-07-25T03:01:03.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a566de96999ef3f619d9895e",
-      "isContinuation": false,
-      "titleZh": "特朗普演讲演变为对反对者的抱怨与恶毒攻击",
-      "summaryZh": "美国众议员伊尔汗·奥马尔和普拉米拉·贾亚帕尔将对明尼阿波利斯的惠普尔联邦大楼进行国会监督访问。此次访问旨在调查今年早些时候针对移民执法行动的抗议活动，该行动曾导致两名美国公民被联邦移民特工枪杀。",
-      "whyImportant": "此举凸显了美国国内关于移民政策与执法权力的持续政治分歧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0c38ee41f205eae8",
-      "title": "Firefighters battle fire after fertiliser explosion in England",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
-      "publishedAt": "2026-07-25T02:29:13.000Z",
-      "summary": "A fertiliser explosion at a farm in Essex triggered a major incident.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
-          "publishedAt": "2026-07-25T02:29:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7603d9648d8ea291cf16eed8",
-      "isContinuation": false,
-      "titleZh": "英国一农场发生化肥爆炸，消防员全力扑救",
-      "summaryZh": "英国埃塞克斯郡的一处农场发生化肥爆炸，引发了重大安全事件。目前消防部门正在现场进行处置。",
-      "whyImportant": "化肥爆炸引发的重大安全事故对当地公共安全构成威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "021589e228b8cb58",
-      "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
-      "publishedAt": "2026-07-24T20:27:16.000Z",
-      "summary": "Houthi-controlled Foreign Ministry warns that the attack will trigger further escalation in the Yemeni conflict.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
-          "publishedAt": "2026-07-24T20:27:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1dc49a98f356902245fb79de",
-      "isContinuation": false,
-      "titleZh": "也门胡塞武装称沙特袭击了其控制下的荷台达",
-      "summaryZh": "胡塞武装控制的外交部警告称，此次袭击将导致也门冲突进一步升级。该事件加剧了地区局势的紧张程度。",
-      "whyImportant": "也门冲突的升级可能进一步破坏中东地区的稳定。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "410686888741f98d",
-      "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "publishedAt": "2026-07-24T12:00:00.000Z",
-      "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-          "publishedAt": "2026-07-24T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c25127f2ef2e8daaaa4efbab",
-      "isContinuation": false,
-      "titleZh": "中东局势：联合国警告胡塞武装红海袭击后可能引发更大规模冲突",
-      "summaryZh": "随着中东战事加剧，联合国周五警告称，美伊战争可能进一步升级。同时，围绕霍尔木兹海峡控制权的争夺也给全球航运带来了巨大风险。",
-      "whyImportant": "中东冲突的扩大化威胁到全球能源供应与航运安全。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a58b8c7e4985b4b8",
-      "title": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
-      "publishedAt": "2026-07-24T21:50:56.000Z",
-      "summary": "President flew to Ankara onboard Qatari-gifted jet, without advanced defenses, and flew home on old Air Force One Donald Trump switched aircraft before departing Turkey earlier this month after US officials determined there was a credible threat from Iranian proxy forces targeting him and Air Force One, according to a new report from the New York Times. The threat surfaced while the US president was attending the Nato summit. He had arrived in Ankara onboard the new Qatari-donated Boeing 747-8, an aircraft that Trump acknowledged does not have the same advanced defensive systems as the older Air Force One. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
-          "publishedAt": "2026-07-24T21:50:56.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T05:30:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1773,74 +1095,44 @@
       "tags": [
         "全球焦点",
         "外交",
+        "经济",
+        "金融",
         "军事与安全",
-        "国际组织"
+        "国际组织",
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "23c7d508fa37beb3ece731f3",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "economy",
+        "bank",
+        "经济",
+        "金融"
+      ],
+      "fingerprint": "2bf1d923b86787275590859d",
       "isContinuation": false,
-      "titleZh": "报道称特朗普本月初在土耳其更换飞机，因受伊朗代理人势力威胁",
-      "summaryZh": "据《纽约时报》报道，美国官员评估认为伊朗代理人势力对特朗普构成可信威胁，导致其在土耳其更换了座机。特朗普此前乘坐的卡塔尔捐赠飞机缺乏与旧“空军一号”同等级别的防御系统。",
-      "whyImportant": "针对美国总统的直接安全威胁凸显了美伊对抗的严峻性。",
+      "titleZh": "叙利亚2160亿美元的重建计划提供了一条霍尔木兹海峡之外的替代路径",
+      "summaryZh": "在经历多年战乱与制裁后，叙利亚政府正寻求2160亿美元的重建资金。随着新政府成立，该国开始探索经济复苏及地缘政治中的新角色。",
+      "whyImportant": "叙利亚的重建进程可能改变中东地区的地缘经济格局。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "357122f0613c185e",
-      "title": "Is China building a new type of attack submarine? Satellite images hint at stealth gains",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3361774/china-building-new-type-attack-submarine-satellite-images-hint-stealth-gains?utm_source=rss_feed",
-      "publishedAt": "2026-07-24T12:00:11.000Z",
-      "summary": "China may be developing a new class of nuclear-powered attack submarine with improved range and stealth, according to analysis based on recent satellite imagery. The images, captured at Shanghai’s Jiangnan Shipyard, show what analysts believe is a previously unidentified submarine featuring a dramatically reduced sail compared with existing Type 093 attack submarines – a design they say could improve performance. The submarine first came to public attention in early June when naval analyst H.I....",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3361774/china-building-new-type-attack-submarine-satellite-images-hint-stealth-gains?utm_source=rss_feed",
-          "publishedAt": "2026-07-24T12:00:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "能源"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f3af08976ab3a49d3439847e",
-      "isContinuation": false,
-      "titleZh": "中国是否在建造新型攻击核潜艇？卫星图像暗示隐身性能提升",
-      "summaryZh": "分析人士通过上海江南造船厂的卫星图像发现，中国可能正在研发一种新型攻击核潜艇。该潜艇的指挥台围壳设计显著缩小，被认为旨在提升隐身性能和作战效能。",
-      "whyImportant": "中国海军装备的潜在技术进步引发了国际军事观察家的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0adeceaef5b81d6c",
-      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+      "id": "54d799fbd665165f",
+      "title": "Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-      "publishedAt": "2026-07-24T17:58:22.000Z",
-      "summary": "No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and Kuwait The US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump threatened “major military punishment” for Tehran and its Houthi allies in Yemen for extending the war to a second shipping ⁠chokepoint at the entrance to the Red Sea. As Iran retaliated on Friday with missile and drone fire against US bases and allies across the region, the New York Times reported that Tehran had rejected a US ceasefire proposal delivered by the Iraq prime minister, Ali al-Zaidi. This despite the US secretary of state, Marco Rubio, claiming a day earlier that Iran was begging for a ceasefire. Iraq later disputed the report. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/26/labor-pressure-telehealth-access-euthanasia-assisted-dying-anthony-albanese",
+      "publishedAt": "2026-07-26T02:22:08.000Z",
+      "summary": "Campaigners say existing federal ban on phone or video calls for assisted dying consultations adversely affects people living in regional Australia Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Labor will come under pressure to allow Australians to access voluntary assisted dying through telehealth services, with the Greens and independent Kate Chaney to introduce legislation based on changes to Labor’s national platform. Last week’s national conference in Adelaide changed the ALP platform and committed Labor to overturn a Howard-era law banning people from having medical appointments regarding euthanasia via telehealth services. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-          "publishedAt": "2026-07-24T17:58:22.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/jul/26/labor-pressure-telehealth-access-euthanasia-assisted-dying-anthony-albanese",
+          "publishedAt": "2026-07-26T02:22:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1852,33 +1144,33 @@
         "突发",
         "军事与安全"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 66,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "bdd49ccef1db72670ada30d0",
+      "fingerprint": "45d036a395bad2f7206fcc63",
       "isContinuation": false,
-      "titleZh": "美国扩大对伊朗打击，特朗普警告德黑兰及胡塞武装",
-      "summaryZh": "美国对伊朗境内目标发动打击，特朗普威胁将对伊朗及其胡塞武装盟友实施“重大军事惩罚”。尽管美国国务卿鲁比奥声称伊朗寻求停火，但伊朗随后对美军基地发动了报复性袭击。",
-      "whyImportant": "美伊冲突的持续升级加剧了地区战争风险。",
+      "titleZh": "阿尔巴尼斯与工党政策产生分歧，该政策现主张允许通过远程医疗进行安乐死咨询",
+      "summaryZh": "工党全国会议修改了党纲，承诺推翻霍华德时代禁止通过远程医疗进行安乐死咨询的法律。活动人士指出，现行禁令对偏远地区的澳大利亚人造成了不利影响，绿党和独立议员正推动相关立法。",
+      "whyImportant": "此举反映了澳大利亚在安乐死医疗服务获取公平性方面的政策转向与内部政治博弈。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "f99c797d06cc9a78",
-      "title": "OPINION / Disarmament must not be forgotten as the world rearms | The Asahi Shimbun : Breaking News , Japan News and Analysis",
-      "source": "asahi.com",
-      "url": "https://www.asahi.com/ajw/articles/16705992",
-      "publishedAt": "2026-07-25T02:15:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
+      "id": "372f89d0d73e8e2a",
+      "title": "Family of missing Rohingya footballer fear he is among 500 believed dead in Myanmar shipwrecks",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/global-development/2026/jul/25/family-of-missing-rohingya-footballer-fear-he-is-among-500-believed-dead-in-myanmar-shipwrecks",
+      "publishedAt": "2026-07-25T09:00:38.000Z",
+      "summary": "‘I can’t tolerate this life,’ said the 24-year-old in his last voice message to his relatives. Attacked by the military, a rebel army and criminal gangs, Siraz Ullah risked all for a better future The fear was audible as he spoke, recording a message to his family, asking for their prayers. After pressing send, 24-year-old Siraz Ullah boarded a boat he hoped could deliver him from the violence and persecution surrounding him at home in Myanmar. Instead, Siraz is among 500 Rohingya refugees who have vanished at sea after setting sail for Malaysia in late June. Continue reading...",
+      "language": "",
+      "region": "international",
       "crossSources": [
         {
-          "source": "asahi.com",
-          "url": "https://www.asahi.com/ajw/articles/16705992",
-          "publishedAt": "2026-07-25T02:15:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/global-development/2026/jul/25/family-of-missing-rohingya-footballer-fear-he-is-among-500-believed-dead-in-myanmar-shipwrecks",
+          "publishedAt": "2026-07-25T09:00:38.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1887,147 +1179,339 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cb219813611a5107a243e878",
-      "isContinuation": false,
-      "titleZh": "观点：世界重整军备之际，裁军不应被遗忘",
-      "summaryZh": "在全球军备竞赛加剧的背景下，该评论呼吁国际社会不应忽视裁军的重要性。维护和平与稳定需要各国共同努力。",
-      "whyImportant": "在全球地缘政治紧张的背景下，裁军议题对维护全球安全至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ef35c09b450934b4",
-      "title": "Long before the Silk Road, silkworm cocoons already existed in Uzbekistan",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3361762/long-silk-road-silkworm-cocoons-already-existed-uzbekistan?utm_source=rss_feed",
-      "publishedAt": "2026-07-25T02:00:10.000Z",
-      "summary": "In 138BC, Chinese diplomat and explorer Zhang Qian was sent as an envoy to the western regions. The Han dynasty envoy failed to achieve his emperor’s goal of launching a pincer attack against the Xiongnu nomadic confederation, but he unexpectedly discovered a route. The land route started from Changan, present-day Xian, and passed through Gansu province and the Xinjiang Uygur autonomous region, reaching Central and West Asia, and connecting various countries along the Mediterranean. Among the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3361762/long-silk-road-silkworm-cocoons-already-existed-uzbekistan?utm_source=rss_feed",
-          "publishedAt": "2026-07-25T02:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发"
-      ],
-      "score": 66,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8fe99df17eee4efa3e303b91",
-      "isContinuation": false,
-      "titleZh": "早在丝绸之路之前，乌兹别克斯坦就已存在蚕茧",
-      "summaryZh": "汉代外交官张骞出使西域虽未达成军事结盟目标，却意外开辟了连接东西方的丝绸之路。考古发现表明，乌兹别克斯坦在丝绸之路形成前便已存在蚕茧，证明了早期文明的交流。",
-      "whyImportant": "这一发现丰富了对古代丝绸之路历史渊源的认知。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "64feddf9df4b3d34",
-      "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
-      "publishedAt": "2026-07-25T02:00:15.000Z",
-      "summary": "On the surface, China’s cutting-edge tech sector – from the algorithmic breakthroughs of DeepSeek and Zhipu AI to the hardware of Unitree Robotics and ChangXin Memory Technologies (CXMT) – mirrors Silicon Valley’s venture capital-backed ecosystem. But a closer look at their financing histories reveals a common investor: the Chinese state. Beijing’s strong presence underscores a more profound structural shift in how China’s frontier technology is being funded. As Western venture capital and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
-          "publishedAt": "2026-07-25T02:00:15.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
+        "突发",
         "军事与安全",
-        "科技"
+        "国际组织"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ca3bd587c0ba83f874b5f47d",
+      "fingerprint": "e2de32cbb3e0d78e12850ed0",
       "isContinuation": false,
-      "titleZh": "具有中国特色的投资：北京的资金如何重塑科技企业",
-      "summaryZh": "中国前沿科技领域看似由风险投资驱动，但深入分析显示，国家资本在其中扮演了核心角色。这种融资模式反映了中国在支持关键技术发展方面的结构性转变。",
-      "whyImportant": "国家资本对科技行业的深度介入正在改变中国科技产业的竞争格局。",
+      "titleZh": "失踪罗兴亚足球运动员的家人担心他已在缅甸海难中遇难，该事故恐致500人死亡",
+      "summaryZh": "24岁的罗兴亚难民西拉兹·乌拉在逃离缅甸暴力迫害的途中失踪，据信他与另外500名难民在前往马来西亚的途中于海上失踪。他在最后发给家人的语音信息中表达了对生存环境的绝望。",
+      "whyImportant": "该事件凸显了罗兴亚难民在逃离迫害过程中面临的极端生存风险与人道主义危机。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3c1b4c7b63ca9075",
-      "title": "Chinese weight-loss trend of mixing tea with enemas sends many to hospital",
+      "id": "14f16a78afa3be8c",
+      "title": "French wildfires trigger mass evacuations around Bordeaux",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss",
+      "publishedAt": "2026-07-26T03:03:17.000Z",
+      "summary": "Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss",
+          "publishedAt": "2026-07-26T03:03:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "环境",
+        "公共安全"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "137a3ece5d5e10fce64edb71",
+      "isContinuation": false,
+      "titleZh": "法国野火引发波尔多周边地区大规模疏散",
+      "summaryZh": "法国西南部地区遭遇严重野火侵袭，火势迅速蔓延。目前，波尔多周边已有约20万人被迫撤离家园。",
+      "whyImportant": "大规模的野火灾害对当地居民安全及生态环境造成了严重威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "14350f23ec287913",
+      "title": "At least 35 killed after two buses collide in eastern Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+      "publishedAt": "2026-07-25T19:22:30.000Z",
+      "summary": "The crash on a route notorious for deadly accidents prompted a large-scale rescue operation.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+          "publishedAt": "2026-07-25T19:22:30.000Z"
+        },
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-07-25T14:50:00.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "公共安全"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7764654a36e8b96a6d428014",
+      "isContinuation": false,
+      "titleZh": "叙利亚东部两辆巴士相撞，造成至少35人死亡",
+      "summaryZh": "叙利亚一条以事故频发著称的公路上发生严重巴士相撞事故。当局已启动大规模救援行动以应对此次惨剧。",
+      "whyImportant": "此次重大交通事故再次暴露了当地交通基础设施的安全隐患。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8c510852865dfc54",
+      "title": "‘Defanging’ Aung San: Myanmar’s generals wage war on memory",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361803/chinese-weight-loss-trend-mixing-tea-enemas-sends-many-hospital?utm_source=rss_feed",
-      "publishedAt": "2026-07-25T01:00:20.000Z",
-      "summary": "An unconventional weight-loss remedy of drinking a mixture of an external-use constipation medication with tea has trended on Chinese social media, sparking doctors to warn the public not to try it after receiving some emergency cases. The extreme slimming method has captivated social media in recent weeks because of claims that it has the remarkable effect of helping people shed 4kg of weight within just two days, Shangyou News reported. In some viral videos, influencers squeeze a glycerin...",
+      "url": "https://www.scmp.com/week-asia/people/article/3361577/defanging-aung-san-myanmars-generals-wage-war-memory?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T02:00:07.000Z",
+      "summary": "Across Myanmar, the statues are vanishing one by one. Military-backed authorities blame “incorrect proportions and shapes”. Unofficially, analysts see a deliberate attempt to erase the presence of independence hero Aung San from public life – and with it, the legitimacy of the elected government the junta overthrew. Revered as the country’s founding father, Aung San founded its military, united its diverse ethnic groups and spearheaded the nationalist movement that ultimately wrested...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361803/chinese-weight-loss-trend-mixing-tea-enemas-sends-many-hospital?utm_source=rss_feed",
-          "publishedAt": "2026-07-25T01:00:20.000Z"
+          "url": "https://www.scmp.com/week-asia/people/article/3361577/defanging-aung-san-myanmars-generals-wage-war-memory?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T02:00:07.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
+        "全球焦点",
         "军事与安全"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9f0c721612af44d273d9e2a1",
+      "fingerprint": "2ea78f4ddec40cc39d72bfb1",
       "isContinuation": false,
-      "titleZh": "中国减肥潮流：将茶与灌肠剂混合导致多人入院",
-      "summaryZh": "社交媒体上流传一种将外用便秘药物与茶混合的极端减肥法，声称两天可减重4公斤。医生警告该方法存在严重健康风险，目前已有数起紧急就医案例。",
-      "whyImportant": "社交媒体上的不科学减肥偏方对公众健康构成了直接威胁。",
+      "titleZh": "“去昂山化”：缅甸军方对历史记忆发动战争",
+      "summaryZh": "缅甸各地有关独立英雄昂山的雕像正逐渐消失，官方理由是比例不当，但分析人士认为这是军方试图抹除昂山在公众生活中的影响力。此举旨在削弱被推翻民选政府的合法性。",
+      "whyImportant": "通过重塑历史记忆，缅甸军方试图巩固其统治地位并消除前政权的政治遗产。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "f1b451235203da72",
-      "title": "Family office of Henderson Land boss to fast-track Central Asia green energy plans",
+      "id": "c7ff798b49d252cf",
+      "title": "布林肯 ： 若与中国一对一 ， 局面会十分艰难",
+      "source": "163.com",
+      "url": "https://www.163.com/news/article/L2ONHAJE0001899O.html",
+      "publishedAt": "2026-07-26T03:00:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "163.com",
+          "url": "https://www.163.com/news/article/L2ONHAJE0001899O.html",
+          "publishedAt": "2026-07-26T03:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "00a9a6a3b9022d07ba500e0a",
+      "isContinuation": false,
+      "titleZh": "布林肯：若与中国一对一，局面会十分艰难",
+      "summaryZh": "布林肯在相关表态中指出，在特定竞争环境下，若与中国进行直接的单边对抗，形势将面临巨大挑战。",
+      "whyImportant": "此言论反映了美国外交政策中对中美竞争复杂性的评估。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "445e8c42b6131149",
+      "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+      "publishedAt": "2026-07-26T00:49:12.000Z",
+      "summary": "Yemen's Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+          "publishedAt": "2026-07-26T00:49:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "31a51de9452d53620d29d449",
+      "isContinuation": false,
+      "titleZh": "也门胡塞武装袭击沙特红海沿岸石油设施",
+      "summaryZh": "也门胡塞武装宣称对沙特阿美公司位于红海沿岸的石油设施发动了袭击。目前尚无关于损失的详细报告。",
+      "whyImportant": "此类袭击加剧了中东地区的能源安全风险与地缘紧张局势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8b5b9c280ba18938",
+      "title": "T8 signal to be lowered to T3 at 12.40pm on Sunday as Typhoon Noul departs",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361801/family-office-henderson-land-boss-fast-track-central-asia-green-energy-plans?utm_source=rss_feed",
-      "publishedAt": "2026-07-25T01:00:15.000Z",
-      "summary": "Henderson Land Development co-chairman and managing director Peter Lee Ka-kit’s family office has fast-tracked its plans in Central Asia, where rich agricultural and natural resources could trigger more than US$1 billion in investments in green energy. Alan Chan Ying-lung, managing partner of family office Full Vision Capital, told the South China Morning Post that the firm was pressing ahead with investment projects such as sustainable aviation fuel (SAF) and smart energy storage and solutions...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3361858/typhoon-noul-t8-signal-remain-force-until-least-noon?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T23:48:26.000Z",
+      "summary": "About 350 flights have been cancelled in Hong Kong on Sunday but most will resume in the afternoon, according to the Airport Authority, while the Observatory has said it will lower the No 8 storm signal to No 3 at 12.40pm as Typhoon Noul moves further away from the city. Apart from the 350 flights, more than 190 cross-border high-speed rail services have also been cancelled on Sunday. “Noul is moving steadily into inland Guangdong, starting to depart Hong Kong while weakening progressively....",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361801/family-office-henderson-land-boss-fast-track-central-asia-green-energy-plans?utm_source=rss_feed",
-          "publishedAt": "2026-07-25T01:00:15.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3361858/typhoon-noul-t8-signal-remain-force-until-least-noon?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T23:48:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "环境"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3b1141756fd28d10fda21304",
+      "isContinuation": false,
+      "titleZh": "台风“努尔”逐渐远离，香港将于周日中午12时40分改发三号强风信号",
+      "summaryZh": "随着台风“努尔”向广东内陆移动并逐渐减弱，香港天文台宣布将下调风球信号。受台风影响，周日约350个航班及190多班跨境高铁服务被迫取消。",
+      "whyImportant": "台风过境对香港的交通运输及社会运行造成了显著干扰。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e52ca8a9a2e63aea",
+      "title": "Rare medical condition causes Chinese man’s scalp to thicken and fold, resembling human brain",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361865/rare-medical-condition-causes-chinese-mans-scalp-thicken-and-fold-resembling-human-brain?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T03:21:31.000Z",
+      "summary": "A man from central China had long been troubled by a thickening scalp that developed folds resembling the creases of a brain, but he eventually found a plastic surgeon who could address his condition. The 23-year-old man from Hunan province, surnamed Li, recently had his issue resolved at the Zhongnan Hospital of Wuhan University in Hubei. Li first noticed the hardening of his scalp several years ago. As the condition advanced, his scalp thickened and proliferated, creating large areas of uneven...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361865/rare-medical-condition-causes-chinese-mans-scalp-thicken-and-fold-resembling-human-brain?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T03:21:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c6e2d0e9ae09d6f349b2b9cb",
+      "isContinuation": false,
+      "titleZh": "罕见疾病导致中国男子头皮增厚折叠，形似人脑",
+      "summaryZh": "一名23岁的中国男子因患有罕见头皮疾病，导致头皮增厚并出现类似大脑褶皱的纹路。近日，他在武汉大学中南医院通过整形手术成功解决了这一困扰多年的问题。",
+      "whyImportant": "该病例展示了现代医学在处理罕见皮肤病变方面的临床进展。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e677d768f2427f0e",
+      "title": "How Chinese scientists created an alloy that can survive 2,400 degrees Celsius",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed",
+      "publishedAt": "2026-07-26T03:19:53.000Z",
+      "summary": "A team of Chinese scientists says it has developed an alloy that retains strength at ultra-high temperatures using tantalum – a very hard and flexible metal. For applications in aerospace, hypersonic vehicles and nuclear reactors, materials must endure both extreme heat and heavy loads. But most metals fail above 2,000 degrees Celsius (3,632 degrees Fahrenheit) – they either melt or soften to a putty-like consistency. New research is challenging that limit. According to a paper published last...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed",
+          "publishedAt": "2026-07-26T03:19:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "能源"
+      ],
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b948dd11c0ba76fcb2927739",
+      "isContinuation": false,
+      "titleZh": "中国科学家如何创造出能在2400摄氏度下保持强度的合金",
+      "summaryZh": "中国研究团队利用钽金属开发出一种新型合金，能够在超高温环境下保持结构强度。这一突破性材料有望应用于航空航天、高超音速飞行器及核反应堆领域。",
+      "whyImportant": "该材料技术的进步将显著提升极端环境下工业与国防装备的性能。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cb4d094857562b0d",
+      "title": "中国 东盟外长关于应对中东局势演变对本地区影响及加强区域能源合作的联合声明",
+      "source": "baijiahao.baidu.com",
+      "url": "https://baijiahao.baidu.com/s?id=1871556461973955077",
+      "publishedAt": "2026-07-26T03:30:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "baijiahao.baidu.com",
+          "url": "https://baijiahao.baidu.com/s?id=1871556461973955077",
+          "publishedAt": "2026-07-26T03:30:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2039,32 +1523,73 @@
         "能源"
       ],
       "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "416b56e7b766c60d2dd52579",
+      "fingerprint": "0e10b6453127db3f725b9bf0",
       "isContinuation": false,
-      "titleZh": "恒基地产老板家族办公室加速中亚绿色能源计划",
-      "summaryZh": "恒基地产联席主席李家杰的家族办公室正加速在中亚的投资布局，计划投入超过10亿美元用于绿色能源项目。重点领域包括可持续航空燃料及智能储能解决方案。",
-      "whyImportant": "私人资本对中亚绿色能源的投资有助于推动区域能源转型。",
+      "titleZh": "中国-东盟外长关于应对中东局势演变对本地区影响及加强区域能源合作的联合声明",
+      "summaryZh": "中国与东盟外长发表联合声明，就中东局势对区域的影响交换意见，并强调加强区域能源合作的重要性。双方致力于共同维护地区稳定与能源安全。",
+      "whyImportant": "该声明体现了中国与东盟在应对外部地缘政治冲击方面的协调与合作意愿。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5f8d5b463c9f66b8",
-      "title": "Chinese FM attends meeting of foreign ministers of SCO member states",
-      "source": "centralasiatimes.com",
-      "url": "http://www.centralasiatimes.com/news/279208488/chinese-fm-attends-meeting-of-foreign-ministers-of-sco-member-states",
-      "publishedAt": "2026-07-25T01:00:00.000Z",
+      "id": "eb75b949a90f4f17",
+      "title": "王赫 ： 从Kimi K3谈中美AI竞争之白热化",
+      "source": "aboluowang.com",
+      "url": "https://www.aboluowang.com/2026/0726/2412719.html",
+      "publishedAt": "2026-07-26T03:00:00.000Z",
       "summary": "",
-      "language": "English",
+      "language": "Chinese",
       "region": "",
       "crossSources": [
         {
-          "source": "centralasiatimes.com",
-          "url": "http://www.centralasiatimes.com/news/279208488/chinese-fm-attends-meeting-of-foreign-ministers-of-sco-member-states",
-          "publishedAt": "2026-07-25T01:00:00.000Z"
+          "source": "aboluowang.com",
+          "url": "https://www.aboluowang.com/2026/0726/2412719.html",
+          "publishedAt": "2026-07-26T03:00:00.000Z"
+        },
+        {
+          "source": "epochtimes.com",
+          "url": "https://www.epochtimes.com/gb/26/7/25/n14817344.htm",
+          "publishedAt": "2026-07-25T21:15:00.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "463328d7d6e344149fcde6c9",
+      "isContinuation": false,
+      "titleZh": "王赫：从Kimi K3谈中美AI竞争之白热化",
+      "summaryZh": "文章探讨了以Kimi K3为代表的AI技术发展，分析了中美两国在人工智能领域日益激烈的竞争态势。作者认为技术迭代速度已成为衡量国家竞争力的关键指标。",
+      "whyImportant": "人工智能领域的竞争已成为中美科技博弈的核心焦点。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4e28a1886106ae84",
+      "title": "What is a supernode, and why does it matter for the China-US tech rivalry?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T13:00:08.000Z",
+      "summary": "As the size of artificial intelligence models expands beyond 1 trillion parameters, a new concept is dominating the computing landscape: “supernode”. At this year’s World Artificial Intelligence Conference (WAIC), China’s top AI summit, domestic chipmakers from Huawei Technologies to Biren Technology showcased new hardware designed to knit hundreds or thousands of chips together to act as one giant supercomputer, which they called a supernode. The focus on supernodes at WAIC reflected a shift in...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T13:00:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2073,35 +1598,37 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "外交"
+        "外交",
+        "军事与安全",
+        "科技"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "322ca1f68c581e66203b67ba",
+      "fingerprint": "010bf1164e7d5b9759bfa0c5",
       "isContinuation": false,
-      "titleZh": "中国外交部长出席上合组织成员国外长会议",
-      "summaryZh": "中国外交部长参加了上海合作组织成员国外长会议。各方就地区安全、经济合作及共同关心的国际问题进行了深入交流。",
-      "whyImportant": "上合组织成员国间的协调对于维护区域稳定与合作具有重要意义。",
+      "titleZh": "什么是“超级节点”，它为何对中美科技竞争至关重要？",
+      "summaryZh": "随着AI模型参数规模突破万亿，中国芯片制造商正致力于开发“超级节点”技术，将成百上千个芯片连接成一个巨型超级计算机。这一概念已成为衡量AI算力竞争的新标准。",
+      "whyImportant": "算力基础设施的创新直接决定了AI大模型研发的上限与国家科技竞争力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8ec9d7e5f90388d1",
-      "title": "美政客炒作中国造船优势 ： 单凭美国自己 ， 永远赶不上中国 - 华侨网",
-      "source": "chinesepress.com",
-      "url": "https://www.chinesepress.com/archives/185799",
-      "publishedAt": "2026-07-24T16:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "938665fb755a4011",
+      "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
+      "publishedAt": "2026-07-25T04:57:39.000Z",
+      "summary": "Japan has been establishing dialogue frameworks for artificial intelligence with like-minded countries and Global South partners to reduce reliance on top US and Chinese firms and promote domestic companies abroad. The outreach signals a growing recognition among those countries of the need for cooperation, rather than going it alone, to survive in the increasingly competitive field of AI. At home, Japan is seeking to foster its own domestic AI ecosystem. The move by the United States to...",
+      "language": "",
+      "region": "china",
       "crossSources": [
         {
-          "source": "chinesepress.com",
-          "url": "https://www.chinesepress.com/archives/185799",
-          "publishedAt": "2026-07-24T16:15:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
+          "publishedAt": "2026-07-25T04:57:39.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2111,61 +1638,165 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "专题·美国政策与全球影响"
+        "科技"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "c9ff71f035bbf8526c0f25b3",
+      "score": 45,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e214b867c15f3ac3d7e6d7e1",
       "isContinuation": false,
-      "titleZh": "美政客炒作中国造船优势：单凭美国自己，永远赶不上中国",
-      "summaryZh": "美国政客近期频繁炒作中国造船业的领先地位。有观点认为，美国在造船产能和技术积累方面已难以追赶中国。",
-      "whyImportant": "造船业的竞争反映了中美在工业制造与战略投送能力上的差距。",
+      "titleZh": "日本拉拢印度、马来西亚，试图摆脱美中AI双头垄断",
+      "summaryZh": "日本正通过建立AI对话框架，加强与印度、马来西亚等全球南方国家的合作，以减少对美中科技巨头的依赖。此举旨在扶持日本本土AI生态系统并提升国际竞争力。",
+      "whyImportant": "日本的策略反映了中等强国在美中科技竞争夹缝中寻求自主权的努力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0b2f28e0cfa684e3",
-      "title": "Why Trump's 'forced labor' tariffs leave the world puzzled",
+      "id": "41c9252ec01845c6",
+      "title": "同样是海上执法 ， 美国用炮弹 ， 中国用水炮 ， CNN却说中国 欺负人 ？ |领海|黄岩岛|中国海警",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L2MELVBU05315IF2.html",
+      "publishedAt": "2026-07-25T06:00:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "163.com",
+          "url": "https://www.163.com/dy/article/L2MELVBU05315IF2.html",
+          "publishedAt": "2026-07-25T06:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 43,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e29eeebcbeff3d5491b90bb9",
+      "isContinuation": false,
+      "titleZh": "同样是海上执法，美国用炮弹，中国用水炮，CNN却说中国欺负人？",
+      "summaryZh": "文章对比了中美在海上执法手段上的差异，并对西方媒体在报道中国海警执法时的双重标准提出了质疑。作者认为相关报道存在偏见。",
+      "whyImportant": "该评论反映了中国舆论对西方媒体在南海问题报道立场的不满。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "281178c87b27373c",
+      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T23:30:07.000Z",
+      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-25T23:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "国际组织"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d160986601fba27e5da5605f",
+      "isContinuation": false,
+      "titleZh": "披萨、意面、土豆、蛋白质——意大利儿童为何如此超重",
+      "summaryZh": "尽管地中海饮食常被视为健康饮食的典范，但世界卫生组织数据显示，意大利儿童的超重率在欧洲名列前茅。饮食习惯的改变被认为是导致这一现象的主要原因。",
+      "whyImportant": "这一现象揭示了传统饮食文化在现代生活方式冲击下面临的健康挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b40b6d323c29c607",
+      "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
       "source": "DW",
-      "url": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-07-24T11:01:00.000Z",
-      "summary": "After the US Supreme Court struck down Donald Trump's emergency tariffs, the White House has turned to another trade law linked to alleged human rights abuses.",
+      "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-07-25T17:32:00.000Z",
+      "summary": "Documented cases of violence against LGBTQ+ people in Serbia have never been higher. The attacks are part of a larger shift in society targeting marginalized people.",
       "language": "en",
       "region": "europe",
       "crossSources": [
         {
           "source": "DW",
-          "url": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-07-24T11:01:00.000Z"
+          "url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-07-25T17:32:00.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "经济",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "突发"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "4b26fe83c492f413881cab69",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "debfc41ed4c1c18e74286a14",
       "isContinuation": false,
-      "titleZh": "为什么特朗普的“强迫劳动”关税让世界感到困惑",
-      "summaryZh": "在美国最高法院推翻特朗普的紧急关税令后，白宫转向利用与所谓人权侵犯相关的贸易法。这一策略转变令国际社会感到困惑，并引发了法律与贸易合规性的质疑。",
-      "whyImportant": "美国贸易政策的法律依据模糊，增加了全球贸易环境的不确定性。",
+      "titleZh": "塞尔维亚LGBTQ+群体面临“暴力流行病”",
+      "summaryZh": "塞尔维亚针对LGBTQ+群体的暴力事件记录达到历史新高。这些攻击被视为社会对边缘群体排斥加剧的缩影。",
+      "whyImportant": "该问题凸显了塞尔维亚社会在人权保障与社会包容性方面面临的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bfe477148c65ac8b",
+      "title": "ドジャース 山本由伸 日米通算100勝に到達",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186441000.html",
+      "publishedAt": "2026-07-26T03:50:25.000Z",
+      "summary": "大リーグ、ドジャースの山本由伸投手がメッツ戦に先発登板し、6回を1失点に抑えて、今シーズン11勝目をあげました。大リーグ通算30勝目で、プロ野球のオリックス時代にあげた70勝と合わせて日米通算100勝に到達です。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186441000.html",
+          "publishedAt": "2026-07-26T03:50:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "097ee27984287ea7d81f216b",
+      "isContinuation": false,
+      "titleZh": "道奇队山本由伸达成日美职业生涯合计100胜",
+      "summaryZh": "效力于美国职棒大联盟道奇队的投手山本由伸在对阵大都会队的比赛中先发登板，取得本赛季第11胜。此役过后，他达成了日美职业生涯合计100胜的里程碑。",
+      "whyImportant": "这一成就标志着日本棒球运动员在国际顶级赛事中的持续影响力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
