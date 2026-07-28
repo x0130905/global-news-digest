@@ -1,172 +1,87 @@
 {
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-27T04:02:07.926Z",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T03:33:50.159Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "security",
-    "name": "军事、安全与突发事件",
-    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
-    "query": "military security conflict breaking crisis",
+    "slug": "technology-energy",
+    "name": "科技、能源与产业",
+    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
+    "query": "technology artificial intelligence semiconductor energy industry",
     "keywords": [
-      "military",
-      "war",
-      "missile",
-      "security",
-      "attack",
-      "ceasefire",
-      "军事",
-      "战争",
-      "导弹",
-      "袭击",
-      "停火",
-      "突发"
+      "technology",
+      "artificial intelligence",
+      "semiconductor",
+      "space",
+      "energy",
+      "科技",
+      "人工智能",
+      "芯片",
+      "太空",
+      "能源"
     ],
-    "accent": "#f97316"
+    "accent": "#06b6d4"
   },
-  "overview": "今日专题“军事、安全与突发事件”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "10d80221c4c2d5dc",
-      "title": "Australia news live: seven new suspected bird flu cases in SA as conservation charity warns ‘this is evidence of spread’",
+      "id": "e37c2e6afc7ce9be",
+      "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – as it happened",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-      "publishedAt": "2026-07-27T03:39:34.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast What you need to know about today’s AusAlert test It’s also well worth watching this video of Guardian Australia’s community affairs reporter Adeshola Ore’s interview with Barnaby Joyce about Armidale’s refugee resettlement program and One Nation’s policy positions on immigration. One Nation’s policy is that immigrants who do not speak English should “under no circumstances … be able to settle in Australia”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+      "publishedAt": "2026-07-28T02:00:18.000Z",
+      "summary": "This blog has now closed. Sign up for the Breaking News US email Donald Trump said ⁠today that ⁠he had paused US strikes on Iran to give diplomacy another chance, but he ​was ‌ready ‌for “strong military ‌action” if diplomacy fails. Washington was in “very deep ⁠talks with Iran”, the president told Axios, but, he added: “If they don’t work out, we will be go back to very strong military action.” I am going to talk to Bibi about the fact that if I weren’t president, Iran would have had nuclear weapons by now and Israel would have been destroyed. Without me, there would be no Israel. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-          "publishedAt": "2026-07-27T03:39:34.000Z"
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+          "publishedAt": "2026-07-28T02:00:18.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
+        "美国重点",
         "突发",
+        "外交",
         "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "能源",
+        "专题·科技、能源与产业",
+        "持续关注"
       ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 86,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
+        "能源"
       ],
-      "fingerprint": "d979663c58e42d7f23e12a75",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：南澳大利亚州出现七例疑似禽流感病例，慈善机构警告“这是疫情蔓延的证据”",
-      "summaryZh": "南澳大利亚州报告了七例新的疑似禽流感病例，环保慈善机构认为这表明病毒正在传播。此外，报道还提及了关于难民安置政策及移民问题的相关讨论。",
-      "whyImportant": "禽流感病例的增加引发了对公共卫生安全和病毒扩散风险的担忧。",
+      "fingerprint": "240b7d632b6db654fbec5772",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "特朗普在美伊紧张局势升级之际支持皮特·赫格塞斯——事件回顾",
+      "summaryZh": "特朗普表示已暂停对伊朗的军事打击以给予外交机会，但强调若外交失败将采取强硬军事行动。同时，他重申了对以色列的支持。",
+      "whyImportant": "美国在外交与军事手段之间的摇摆，对中东地区的局势稳定具有决定性影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e8605cf1affcf0c9",
-      "title": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
-      "publishedAt": "2026-07-27T03:34:06.000Z",
-      "summary": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
-          "publishedAt": "2026-07-27T03:34:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "金融",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 79,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "314809ffecbca008025931e9",
-      "isContinuation": false,
-      "titleZh": "俄罗斯与乌克兰互相攻击，切尔尼戈夫十人死亡，包括一名儿童",
-      "summaryZh": "基辅方面称俄罗斯的袭击造成包括一名儿童在内的六人死亡，而莫斯科则表示乌克兰的袭击导致四人丧生。双方在冲突中互有伤亡，局势持续紧张。",
-      "whyImportant": "俄乌冲突的持续升级导致平民伤亡增加，加剧了地区的人道主义危机。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "72de969f2335dde3",
-      "title": "‘A new trajectory’: EVs now almost quarter of Australia’s new car sales as fuel crisis bites",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/jul/27/australia-ev-car-sales-electric-vehicles-fuel-crisis-plug-in-hybrids",
-      "publishedAt": "2026-07-27T03:37:41.000Z",
-      "summary": "More electric vehicles sold in first half of 2026 than whole of last year, new data shows Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australians bought more electric vehicles in the first six months of 2026 than the whole of the previous year, new data shows, as the ongoing crisis in the Middle East causes uncertainty about petrol prices. There were 103,855 battery electric vehicles (EVs) sold nationally between January and June, compared with 103,269 in 2025, according to data from VFacts and the Electric Vehicle Council. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/jul/27/australia-ev-car-sales-electric-vehicles-fuel-crisis-plug-in-hybrids",
-          "publishedAt": "2026-07-27T03:37:41.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "6843ff29edd40e0f39ee1626",
-      "isContinuation": false,
-      "titleZh": "“新轨迹”：受燃油危机影响，电动汽车销量占澳大利亚新车销量的近四分之一",
-      "summaryZh": "最新数据显示，2026年上半年澳大利亚电动汽车销量已超过2025年全年总量。受中东局势导致的油价波动影响，消费者对电动汽车的需求显著增长。",
-      "whyImportant": "能源价格的不确定性正在加速澳大利亚汽车市场的能源转型。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7dabc79b7d079d9b",
-      "title": "Food security: can drones and BeiDou put an end to ‘paper farming’ in China?",
+      "id": "1dfb8f5157c0f2c4",
+      "title": "Drivers struggle through floods in Hong Kong’s New Territories amid heavy rain",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3361924/food-security-can-drones-and-beidou-put-end-paper-farming-china?utm_source=rss_feed",
-      "publishedAt": "2026-07-27T04:00:06.000Z",
-      "summary": "China’s agriculture sector needs more advanced technology and innovation to boost yields and improve food security – not more farmland and crops, according to a rural policy expert. The remarks came after a state media investigation alleged that officials in central China had inflated the size of mandatory rice crops to hit their targets. CCTV programme Focus Report aired its investigation on July 14, claiming officials in Jianghua Yao – a county in Yongzhou, Hunan province – had misreported the...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362054/amber-rainstorm-warning-issued-hong-kong-tuesday-morning?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T00:55:10.000Z",
+      "summary": "Heavy rain has led to flooding in some parts of Hong Kong’s New Territories, with some drivers struggling to navigate waterlogged roads in Tai Po even as the Observatory cancelled the amber rainstorm warning on Tuesday morning. The amber warning, earlier issued at 7.15am, meant that more than 30mm of rain had fallen in an hour, or was expected to fall generally over Hong Kong within that period and was likely to continue. The weather forecaster also warned of flooding in some low-lying and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3361924/food-security-can-drones-and-beidou-put-end-paper-farming-china?utm_source=rss_feed",
-          "publishedAt": "2026-07-27T04:00:06.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362054/amber-rainstorm-warning-issued-hong-kong-tuesday-morning?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T00:55:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -177,161 +92,121 @@
         "中国重点",
         "军事与安全",
         "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "f197df14aa869bb674551993",
-      "isContinuation": false,
-      "titleZh": "粮食安全：无人机和北斗系统能否终结中国的“纸面农业”？",
-      "summaryZh": "专家指出，中国农业需要通过技术创新而非单纯扩大耕地来提升产量。此前有报道称，湖南省部分官员虚报水稻种植面积以完成指标，引发了对农业数据真实性的关注。",
-      "whyImportant": "农业数据的准确性对于保障国家粮食安全和制定有效的农村政策至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f322993ef7caaee7",
-      "title": "Jacinta Allan leadership challenge: Ben Carroll confirms he will stand against Victorian premier",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-      "publishedAt": "2026-07-27T02:36:49.000Z",
-      "summary": "Deputy premier says he told leader of his intention on Monday after Allan refused request to stand down Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Victoria’s deputy premier, Ben Carroll, has confirmed he will nominate for the leadership of the Labor party, after a group of MPs told Jacinta Allan she no longer had the support of caucus. The cross-factional group of ministers and MPs met the premier before Monday’s scheduled cabinet meeting, to tell her she had lost the majority of support and urged her to stand down, just four months before the state election. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-          "publishedAt": "2026-07-27T02:36:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "e0888c12758b5f092f673bb7",
-      "isContinuation": false,
-      "titleZh": "杰辛塔·艾伦领导权挑战：本·卡罗尔确认将竞选维多利亚州州长",
-      "summaryZh": "维多利亚州副州长本·卡罗尔确认将挑战现任州长杰辛塔·艾伦的领导地位。此前，多名工党议员表示艾伦已失去党内多数支持，并敦促其在州选举前辞职。",
-      "whyImportant": "维多利亚州工党内部的领导权危机可能对即将到来的州选举产生重大影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1e7924d797b20cd6",
-      "title": "RAF Chinook crash victims’ families ask Andy Burnham for review of disaster",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
-      "publishedAt": "2026-07-26T23:01:24.000Z",
-      "summary": "PM urged to end ‘cover-up culture’ and order independent review taking in evidence that has emerged on 1994 crash The families of those killed in an RAF Chinook crash in 1994 have urged Andy Burnham to end Britain’s “cover-up culture” and order an independent review into the disaster. Twenty-nine serving military personnel died when the Chinook HC2 helicopter crashed on the Mull of Kintyre in south-west Scotland during a flight from Northern Ireland. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
-          "publishedAt": "2026-07-26T23:01:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "公共安全",
-        "专题·军事、安全与突发事件"
+        "环境",
+        "专题·科技、能源与产业"
       ],
       "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "military",
-        "军事"
+        "科技"
       ],
-      "fingerprint": "55f6282ef21f7b6b5b4895a6",
+      "fingerprint": "291d350bf438e8dc1ce4b6c7",
       "isContinuation": false,
-      "titleZh": "英国皇家空军支奴干直升机坠毁事故遇难者家属要求安迪·伯纳姆审查灾难",
-      "summaryZh": "1994年支奴干直升机坠毁事故的遇难者家属敦促安迪·伯纳姆结束英国的“掩盖文化”，并对该灾难进行独立审查。他们希望基于新出现的证据重新评估这起导致29人死亡的事故。",
-      "whyImportant": "家属对历史事故的追责反映了公众对政府透明度和问责机制的持续关注。",
+      "titleZh": "香港新界暴雨引发洪水，司机艰难通行",
+      "summaryZh": "香港新界地区因强降雨出现洪水，导致部分道路积水，司机通行困难。天文台此前曾发出黄色暴雨警告，并提醒低洼地区注意防范。",
+      "whyImportant": "极端天气对香港的交通和城市基础设施造成了直接影响，考验着城市的防灾应对能力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9289efc8a1b9b40d",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T20:34:23.000Z",
-      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-26T20:34:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a24a5206f250f963176cd803",
-      "isContinuation": false,
-      "titleZh": "关于柏林骄傲游行撞人袭击事件的已知信息",
-      "summaryZh": "德国总理弗里德里希·默茨谴责这起发生在蒂尔加滕公园附近的驾车撞人袭击事件为“令人发指”的行径。目前当局正在调查该事件的背景。",
-      "whyImportant": "针对LGBTQ+群体的暴力袭击事件引发了德国社会对安全和仇恨犯罪的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a028dd42522febc2",
-      "title": "America’s North Korea strategy needs a dose of reality",
+      "id": "717ed4d001391a42",
+      "title": "CATL-backed smart driving tech firm to kick off Hong Kong IPO this week: sources",
       "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3361385/americas-north-korea-strategy-needs-dose-reality?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T12:30:05.000Z",
-      "summary": "Each year on July 27, North Korea commemorates “Victory Day”, marking what it presents as its triumph in the Korean war. While few outside the country accept that characterisation, the date underscores a reality: the war never formally ended. The 1953 agreement was an armistice that left the peninsula in a state of suspended conflict. Responsibility for the resulting instability is widely distributed. North Korea’s missile tests, expanding nuclear arsenal and escalatory rhetoric have undermined...",
+      "url": "https://www.scmp.com/business/companies/article/3362061/catl-backed-smart-driving-tech-firm-kick-hong-kong-ipo-week-sources?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T02:46:43.000Z",
+      "summary": "NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology Ltd (CATL), recently passed its listing hearing, signalling it could kick off its book building anytime. Debuts are scheduled for August 7, the sources said, requesting not to be identified as the information is...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3361385/americas-north-korea-strategy-needs-dose-reality?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T12:30:05.000Z"
+          "url": "https://www.scmp.com/business/companies/article/3362061/catl-backed-smart-driving-tech-firm-kick-hong-kong-ipo-week-sources?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T02:46:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "ce86b28ea6285e296b9d7251",
+      "isContinuation": false,
+      "titleZh": "宁德时代支持的智能驾驶技术公司将于本周启动香港IPO",
+      "summaryZh": "获得宁德时代支持的智能驾驶技术公司NASN Intelligent Tech计划最早于本周启动在港上市程序。该公司已通过上市聆讯，预计将于8月7日正式挂牌。",
+      "whyImportant": "科技企业在港上市的动态反映了资本市场对中国智能驾驶领域的持续关注与投资信心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "16eed3ec96647931",
+      "title": "Police say there were at least 3 shooters at Seattle food festival, 1 among the dead",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362051/police-say-there-were-least-3-shooters-seattle-food-festival-1-among-dead?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T22:53:36.000Z",
+      "summary": "Police now say there were at least three suspects involved in a shoot-out at a crowded food festival near Seattle’s Space Needle over the weekend. One of them was among those killed in the violence. In a document filed in juvenile court in Seattle, where a 15-year-old arrested in the case did not appear for a scheduled initial appearance on Monday, police said they believe there were at least three shooters, rather than two: the 15-year-old; an acquaintance who died at the scene; and “at least...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362051/police-say-there-were-least-3-shooters-seattle-food-festival-1-among-dead?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T22:53:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "2bb56c5f84803d708a6bec09",
+      "isContinuation": false,
+      "titleZh": "警方称西雅图美食节至少有3名枪手，其中1人死亡",
+      "summaryZh": "警方调查显示，西雅图美食节枪击案涉及至少三名嫌疑人，其中包括一名已在现场死亡的同伙。目前一名15岁嫌疑人已被捕。",
+      "whyImportant": "该起公共场所枪击事件再次引发了美国社会对于青少年暴力和公共安全管控的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ef872fdffb1a3157",
+      "title": "UK’s Burnham meets Zelensky, pledges ‘Stone Cloak’ tech for Ukraine’s drones",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3362038/uks-new-pm-burnham-welcomes-zelensky-first-foreign-visitor?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T15:51:04.000Z",
+      "summary": "British Prime Minister Andy Burnham held his first meeting with Ukrainian President Volodymyr Zelensky at a UK naval base on Monday, pledging new “Stone Cloak” jamming technology to help safeguard Ukraine’s drones on the battlefield. The meeting on the dockside and on board an aircraft carrier in the southern city of Portsmouth was Burnham’s first bilateral with a foreign leader and comes ahead of a visit by Zelensky to Washington on Tuesday aimed at ending the four-year war with Russia. “We are...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3362038/uks-new-pm-burnham-welcomes-zelensky-first-foreign-visitor?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T15:51:04.000Z"
         }
       ],
       "sourceCount": 1,
@@ -341,86 +216,124 @@
       "tags": [
         "美国重点",
         "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "missile",
-        "军事"
+        "technology",
+        "科技"
       ],
-      "fingerprint": "51e2d1c385a1a92824937517",
+      "fingerprint": "a4966dc7a5c48a118bfdb39c",
       "isContinuation": false,
-      "titleZh": "美国的对朝战略需要回归现实",
-      "summaryZh": "朝鲜半岛在1953年停战后始终处于悬而未决的冲突状态。文章指出，朝鲜的导弹试验和核武库扩张加剧了地区不稳定，美国的战略需要更务实的应对方案。",
-      "whyImportant": "朝鲜半岛局势的长期僵局对东北亚的安全架构构成了持续挑战。",
+      "titleZh": "英国首相伯纳姆会见泽连斯基，承诺为乌克兰无人机提供“石斗篷”技术",
+      "summaryZh": "英国首相伯纳姆与乌克兰总统泽连斯基举行会晤，承诺提供“石斗篷”干扰技术以保护乌军无人机。这是伯纳姆上任后的首次双边会晤。",
+      "whyImportant": "英国对乌克兰军事技术的支持，显示了其在俄乌冲突中持续发挥关键作用的立场。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7cd283616125c787",
+      "title": "China’s localised data centre push drives AI ambitions amid overbuilding concerns",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3361988/chinas-localised-data-centre-push-drives-ai-ambitions-amid-overbuilding-concerns?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T14:00:10.000Z",
+      "summary": "Despite their strikingly different approaches to developing and deploying artificial intelligence, one aspect is common across China and the United States: data and computing centres are proliferating in both countries, especially in remote locations. While the US is seeing residents and localities fight back against plans for data centres in their backyards, regional officials in China are embracing them. In fact, in China there is a nationwide scramble for such facilities – considered the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3361988/chinas-localised-data-centre-push-drives-ai-ambitions-amid-overbuilding-concerns?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T14:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "artificial intelligence",
+        "科技"
+      ],
+      "fingerprint": "78ae2400cb1beb167b744f33",
+      "isContinuation": false,
+      "titleZh": "中国推动本地化数据中心建设，在过度建设担忧中追求人工智能雄心",
+      "summaryZh": "尽管面临过度建设的担忧，中国各地政府仍积极推动数据中心建设以支持人工智能发展。与美国部分地区居民抵制数据中心不同，中国地方官员将其视为经济增长点。",
+      "whyImportant": "数据中心建设的差异化路径反映了中美两国在人工智能基础设施布局上的不同策略。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a592706dd32e47a1",
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "publishedAt": "2026-07-27T18:49:20.000Z",
+      "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested […]",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+          "publishedAt": "2026-07-27T18:49:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "f5afe4c17dbb496f9636fa8f",
+      "isContinuation": false,
+      "titleZh": "NASA宇航员克里斯·威廉姆斯将讨论空间站任务",
+      "summaryZh": "NASA宇航员克里斯·威廉姆斯将于8月4日举行新闻发布会，回顾其在国际空间站执行的八个月任务。该活动将通过NASA平台进行直播。",
+      "whyImportant": "宇航员的任务回顾有助于公众了解空间科学研究的最新进展与成果。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "10d80221c4c2d5dc",
-      "title": "Australia news live: seven new suspected bird flu cases in SA as conservation charity warns ‘this is evidence of spread’",
+      "id": "c3d069df2d5fa7ff",
+      "title": "Australia news live: Ben Carroll promises new direction for Victoria ahead of ‘high stakes’ election; Moira Deeming quits Liberal party",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-      "publishedAt": "2026-07-27T03:39:34.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast What you need to know about today’s AusAlert test It’s also well worth watching this video of Guardian Australia’s community affairs reporter Adeshola Ore’s interview with Barnaby Joyce about Armidale’s refugee resettlement program and One Nation’s policy positions on immigration. One Nation’s policy is that immigrants who do not speak English should “under no circumstances … be able to settle in Australia”. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
+      "publishedAt": "2026-07-28T03:28:05.000Z",
+      "summary": "Follow updates live Jacinta Allan resigns as Victorian premier before leadership challenge by Ben Carroll Who is Ben Carroll? Get our breaking news email, free app or daily news podcast ACTU president says now is the ‘right time’ to leave Michele O’Neil, the president of the Australian Council of Trade Unions, said it’s the “right time” to leave after she announced her departure alongside ACTU secretary Sally McManus. We thought about this and we just think that it’s time for renewal. The union movement is in good shape. We’ve seen changes in workers’ rights that have made a big difference in workers’ lives. We’ve seen the union movement starting to grow for the first time in decades. And next year will be the 100th anniversary of the ACTU. So we think it’s time for a new leadership team to come in. We have a debt heading towards $200bn in this state. We have teachers out striking in the streets because the state government and Ben Carroll can’t secure a pay deal. We have holes in the roads. You need a majority government to fix those problems, and you need someone with a plan. Now he might performatively call a royal commission tokenistically, now that he’s become leader, but that",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-          "publishedAt": "2026-07-27T03:39:34.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "d979663c58e42d7f23e12a75",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：南澳大利亚州出现七例疑似禽流感病例，慈善机构警告“这是疫情蔓延的证据”",
-      "summaryZh": "南澳大利亚州报告了七例新的疑似禽流感病例，环保慈善机构认为这表明病毒正在传播。此外，报道还提及了关于难民安置政策及移民问题的相关讨论。",
-      "whyImportant": "禽流感病例的增加引发了对公共卫生安全和病毒扩散风险的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e8605cf1affcf0c9",
-      "title": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
-      "publishedAt": "2026-07-27T03:34:06.000Z",
-      "summary": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
-          "publishedAt": "2026-07-27T03:34:06.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
+          "publishedAt": "2026-07-28T03:28:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -431,39 +344,36 @@
         "全球焦点",
         "突发",
         "经济",
-        "金融",
-        "专题·军事、安全与突发事件"
+        "军事与安全",
+        "国际组织"
       ],
-      "score": 79,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "314809ffecbca008025931e9",
+      "score": 75,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2668bf6425773dfa25e78ef6",
       "isContinuation": false,
-      "titleZh": "俄罗斯与乌克兰互相攻击，切尔尼戈夫十人死亡，包括一名儿童",
-      "summaryZh": "基辅方面称俄罗斯的袭击造成包括一名儿童在内的六人死亡，而莫斯科则表示乌克兰的袭击导致四人丧生。双方在冲突中互有伤亡，局势持续紧张。",
-      "whyImportant": "俄乌冲突的持续升级导致平民伤亡增加，加剧了地区的人道主义危机。",
+      "titleZh": "澳大利亚新闻直播：本·卡罗尔在“高风险”选举前承诺维多利亚州新方向；莫伊拉·迪明退出自由党",
+      "summaryZh": "维多利亚州州长杰辛塔·艾伦在面临本·卡罗尔的领导权挑战前辞职。澳大利亚工会理事会主席米歇尔·奥尼尔宣布离职，称现在是领导层更新的合适时机。",
+      "whyImportant": "维多利亚州政坛的领导层更迭及工会高层的变动，正值该州面临严峻的财政和民生挑战，引发了对未来政策走向的广泛关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "72de969f2335dde3",
-      "title": "‘A new trajectory’: EVs now almost quarter of Australia’s new car sales as fuel crisis bites",
+      "id": "a78d148d0af53228",
+      "title": "Who is Ben Carroll, the man who has become Victoria’s new premier?",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/jul/27/australia-ev-car-sales-electric-vehicles-fuel-crisis-plug-in-hybrids",
-      "publishedAt": "2026-07-27T03:37:41.000Z",
-      "summary": "More electric vehicles sold in first half of 2026 than whole of last year, new data shows Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australians bought more electric vehicles in the first six months of 2026 than the whole of the previous year, new data shows, as the ongoing crisis in the Middle East causes uncertainty about petrol prices. There were 103,855 battery electric vehicles (EVs) sold nationally between January and June, compared with 103,269 in 2025, according to data from VFacts and the Electric Vehicle Council. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/who-is-ben-carroll-mp-victoria-deputy-premier-faction-jacinta-allan",
+      "publishedAt": "2026-07-28T03:20:36.000Z",
+      "summary": "Carroll, who was elected to parliament in 2012 and says he has always been ambitious, has been sworn in as premier after Jacinta Allan resigned LIVE: Jacinta Allan resigns as premier of Victoria Get our breaking news email, free app or daily news podcast In 2023, when then-public transport minister Ben Carroll failed in his surprising bid to secure the leadership of the Victorian Labor party, he told a press conference: “I was always very keen to rise.” The premier Daniel Andrews had resigned, believing he had locked in his succession plan: his loyal deputy Jacinta Allan as premier, and treasurer Tim Pallas as deputy. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/jul/27/australia-ev-car-sales-electric-vehicles-fuel-crisis-plug-in-hybrids",
-          "publishedAt": "2026-07-27T03:37:41.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/jul/27/who-is-ben-carroll-mp-victoria-deputy-premier-faction-jacinta-allan",
+          "publishedAt": "2026-07-28T03:20:36.000Z"
         }
       ],
       "sourceCount": 1,
@@ -473,78 +383,35 @@
       "tags": [
         "全球焦点",
         "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "6843ff29edd40e0f39ee1626",
-      "isContinuation": false,
-      "titleZh": "“新轨迹”：受燃油危机影响，电动汽车销量占澳大利亚新车销量的近四分之一",
-      "summaryZh": "最新数据显示，2026年上半年澳大利亚电动汽车销量已超过2025年全年总量。受中东局势导致的油价波动影响，消费者对电动汽车的需求显著增长。",
-      "whyImportant": "能源价格的不确定性正在加速澳大利亚汽车市场的能源转型。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f322993ef7caaee7",
-      "title": "Jacinta Allan leadership challenge: Ben Carroll confirms he will stand against Victorian premier",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-      "publishedAt": "2026-07-27T02:36:49.000Z",
-      "summary": "Deputy premier says he told leader of his intention on Monday after Allan refused request to stand down Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Victoria’s deputy premier, Ben Carroll, has confirmed he will nominate for the leadership of the Labor party, after a group of MPs told Jacinta Allan she no longer had the support of caucus. The cross-factional group of ministers and MPs met the premier before Monday’s scheduled cabinet meeting, to tell her she had lost the majority of support and urged her to stand down, just four months before the state election. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-          "publishedAt": "2026-07-27T02:36:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
       "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "e0888c12758b5f092f673bb7",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "19bda9c3e6feeaf41bd2af61",
       "isContinuation": false,
-      "titleZh": "杰辛塔·艾伦领导权挑战：本·卡罗尔确认将竞选维多利亚州州长",
-      "summaryZh": "维多利亚州副州长本·卡罗尔确认将挑战现任州长杰辛塔·艾伦的领导地位。此前，多名工党议员表示艾伦已失去党内多数支持，并敦促其在州选举前辞职。",
-      "whyImportant": "维多利亚州工党内部的领导权危机可能对即将到来的州选举产生重大影响。",
+      "titleZh": "谁是本·卡罗尔，这位成为维多利亚州新州长的人？",
+      "summaryZh": "本·卡罗尔于2012年当选议员，在杰辛塔·艾伦辞职后宣誓就任州长。他曾于2023年竞选工党领导权失败，此次接任标志着他政治抱负的实现。",
+      "whyImportant": "作为维多利亚州的新任领导人，卡罗尔的背景和执政风格将直接影响该州在选举前的政治稳定与政策制定。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1e7924d797b20cd6",
-      "title": "RAF Chinook crash victims’ families ask Andy Burnham for review of disaster",
+      "id": "6179c1518e530006",
+      "title": "Ben Carroll becomes new premier of Victoria after Jacinta Allan resigns",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
-      "publishedAt": "2026-07-26T23:01:24.000Z",
-      "summary": "PM urged to end ‘cover-up culture’ and order independent review taking in evidence that has emerged on 1994 crash The families of those killed in an RAF Chinook crash in 1994 have urged Andy Burnham to end Britain’s “cover-up culture” and order an independent review into the disaster. Twenty-nine serving military personnel died when the Chinook HC2 helicopter crashed on the Mull of Kintyre in south-west Scotland during a flight from Northern Ireland. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+      "publishedAt": "2026-07-28T02:37:49.000Z",
+      "summary": "Allan stepped down from top job before expected spill, saying her deputy has her ‘unqualified support’ Live updates: Jacinta Allan quits as premier of Victoria Who is Ben Carroll? Get our breaking news email, free app or daily news podcast Ben Carroll has been sworn in as the premier of Victoria, after Jacinta Allan resigned and a surprise rival for the Labor leadership emerged after a tumultuous 48 hours for Labor just four months out from the state election. Speaking outside a party room meeting on Tuesday, Labor MP Juliana Addison announced that Carroll had been “unanimously endorsed by the state parliamentary Labor party as our next premier of Victoria”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
-          "publishedAt": "2026-07-26T23:01:24.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+          "publishedAt": "2026-07-28T02:37:49.000Z"
         }
       ],
       "sourceCount": 1,
@@ -553,205 +420,159 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "公共安全",
-        "专题·军事、安全与突发事件"
+        "突发",
+        "国际组织"
       ],
       "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "军事"
-      ],
-      "fingerprint": "55f6282ef21f7b6b5b4895a6",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "04d9a741235a2489ab9e4fdf",
       "isContinuation": false,
-      "titleZh": "英国皇家空军支奴干直升机坠毁事故遇难者家属要求安迪·伯纳姆审查灾难",
-      "summaryZh": "1994年支奴干直升机坠毁事故的遇难者家属敦促安迪·伯纳姆结束英国的“掩盖文化”，并对该灾难进行独立审查。他们希望基于新出现的证据重新评估这起导致29人死亡的事故。",
-      "whyImportant": "家属对历史事故的追责反映了公众对政府透明度和问责机制的持续关注。",
+      "titleZh": "杰辛塔·艾伦辞职后，本·卡罗尔成为维多利亚州新州长",
+      "summaryZh": "在州选举前四个月的动荡期内，杰辛塔·艾伦辞去州长职务，本·卡罗尔获得工党议会党团的一致支持。这一变动发生在工党内部激烈的领导权竞争之后。",
+      "whyImportant": "维多利亚州政府领导层的突然更迭，增加了该州在即将到来的选举中的政治不确定性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9289efc8a1b9b40d",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T20:34:23.000Z",
-      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+      "id": "8fe27e28c107b278",
+      "title": "Well-connected Melbourne man found guilty of raping former staffer",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/well-connected-melbourne-man-guilty-ntwnfb",
+      "publishedAt": "2026-07-28T01:58:48.000Z",
+      "summary": "Jury finds that the man, who cannot be named, assaulted the woman at his home in March 2023 Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A well-connected Melbourne man has been found guilty of raping a former employee. The man, who cannot be named, faced two counts of rape and one count of sexual assault in the county court of Victoria, and pleaded not guilty. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/28/well-connected-melbourne-man-guilty-ntwnfb",
+          "publishedAt": "2026-07-28T01:58:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7116312386529415b65de285",
+      "isContinuation": false,
+      "titleZh": "墨尔本一名人脉广泛的男子被判强奸前员工罪名成立",
+      "summaryZh": "一名无法公开姓名的墨尔本男子因在2023年3月强奸其前员工，被维多利亚州法院裁定罪名成立。该男子此前面临两项强奸罪和一项性侵犯罪指控。",
+      "whyImportant": "此案因被告的社会背景及案件性质引发了公众对司法公正和职场性暴力问题的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed0ebded0ae81d53",
+      "title": "Trump says Iran talks taking place during pause in US military strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "publishedAt": "2026-07-28T02:47:55.000Z",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+          "publishedAt": "2026-07-28T02:47:55.000Z"
+        },
+        {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-26T20:34:23.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-27T21:10:56.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "军事与安全"
       ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a24a5206f250f963176cd803",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2b84308ee7569604f94046bd",
       "isContinuation": false,
-      "titleZh": "关于柏林骄傲游行撞人袭击事件的已知信息",
-      "summaryZh": "德国总理弗里德里希·默茨谴责这起发生在蒂尔加滕公园附近的驾车撞人袭击事件为“令人发指”的行径。目前当局正在调查该事件的背景。",
-      "whyImportant": "针对LGBTQ+群体的暴力袭击事件引发了德国社会对安全和仇恨犯罪的广泛关注。",
+      "titleZh": "特朗普称在美国军事打击暂停期间正在与伊朗进行谈判",
+      "summaryZh": "美国总统表示，在暂停军事打击期间，美伊双方存在通过外交途径解决问题的可能性。伊朗方面则否认了双方正在进行直接对话的说法。",
+      "whyImportant": "美伊之间紧张局势的任何外交进展都对中东地区的和平与全球安全具有重大影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "075aa3a97631b0e5",
-      "title": "Why Mali’s northern conflict has entered a dangerous new phase",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
-      "publishedAt": "2026-07-27T02:49:45.000Z",
-      "summary": "A separatist–al-Qaeda alliance has shifted the balance of power in northern Mali and complicated efforts to end the war.",
+      "id": "9656ffac25623855",
+      "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+      "publishedAt": "2026-07-28T02:37:27.000Z",
+      "summary": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say Firefighters in France and Spain are racing to bring huge wildfires under control before another heatwave this week that will complicate efforts to tame the flames. Spain’s interior minister, Fernando Grande-Marlaska, said Monday and Tuesday were “absolutely crucial days” before temperatures rise again from Wednesday, prompting prime minister, Pedro Sánchez, to warn: “We face difficult hours, complex hours” ahead. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
-          "publishedAt": "2026-07-27T02:49:45.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+          "publishedAt": "2026-07-28T02:37:27.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3362048/france-and-spain-race-curb-wildfires-new-heatwave-arrives?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T21:09:34.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "环境"
       ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "a9f626921fee08b44fcb3a92",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "228e040071289c87a77935ab",
       "isContinuation": false,
-      "titleZh": "为什么马里北部冲突进入了危险的新阶段",
-      "summaryZh": "分裂主义者与基地组织的结盟改变了马里北部的权力平衡，使得结束战争的努力变得更加复杂。该地区的安全局势正面临严峻挑战。",
-      "whyImportant": "武装组织的结盟加剧了萨赫勒地区的动荡，对国际反恐和维和努力构成威胁。",
+      "titleZh": "法国和西班牙竞相在新的热浪来临前控制大规模野火",
+      "summaryZh": "法国和西班牙的消防员正争分夺秒地扑灭大规模野火，以应对本周即将到来的新一轮热浪。官员们警告称，未来几天对于控制火势至关重要。",
+      "whyImportant": "极端高温天气加剧了欧洲的野火危机，对当地生态环境和公共安全构成了严重威胁。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1bc2136c53a20259",
-      "title": "Christopher Street Day attack in Berlin: What we know so far",
-      "source": "DW",
-      "url": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-07-26T19:51:00.000Z",
-      "summary": "On Saturday, a vehicle drove into a crowd near Berlin Pride celebrations in what is being regarded as an attack on the LGBTQ+ community. The main suspect has since been confronted and shot dead.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-07-26T19:51:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "85405eb4ab75304752eb9e8a",
-      "isContinuation": false,
-      "titleZh": "柏林克里斯托弗街日袭击事件：已知信息汇总",
-      "summaryZh": "周六，一辆汽车冲入柏林骄傲游行附近的人群，被视为针对LGBTQ+群体的袭击。主要嫌疑人随后被警方击毙。",
-      "whyImportant": "该袭击事件对柏林的安全环境及少数群体权益保障提出了严峻挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d5dd9fb323bca8b8",
-      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-      "publishedAt": "2026-07-26T19:31:58.000Z",
-      "summary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-          "publishedAt": "2026-07-26T19:31:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "210dbad435e783f8199f4afd",
-      "isContinuation": false,
-      "titleZh": "随着美国战争范围扩大至霍尔木兹海峡之外，伊朗经济前景如何？",
-      "summaryZh": "尽管调解努力仍在继续，但由于国际航道中断的风险增加，伊朗经济面临巨大的不确定性。局势的升级对全球能源供应和伊朗国内经济造成了压力。",
-      "whyImportant": "地缘政治冲突的扩大化直接威胁到全球关键航道的安全与经济稳定。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5be793cc475b2744",
-      "title": "Netanyahu claims New York mayor ‘fomenting hate’ ahead of expected UN trip",
+      "id": "16eed3ec96647931",
+      "title": "Police say there were at least 3 shooters at Seattle food festival, 1 among the dead",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3361918/netanyahu-accuses-mamdani-fomenting-hate-calls-icc-war-crimes-charges-bogus?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T18:44:22.000Z",
-      "summary": "Israel’s Benjamin Netanyahu said on Sunday that New York Mayor Zohran Mamdani is “fomenting hate” by calling the prime minister a war criminal who should be arrested over the war in Gaza if he visits the city for the United Nations General Assembly. Netanyahu said he intends to be in New York in September to address the annual UN gathering of world leaders, despite the mayor’s suggestion that he is not welcome. Mamdani said last week that while New York City does not have legal authority to...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362051/police-say-there-were-least-3-shooters-seattle-food-festival-1-among-dead?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T22:53:36.000Z",
+      "summary": "Police now say there were at least three suspects involved in a shoot-out at a crowded food festival near Seattle’s Space Needle over the weekend. One of them was among those killed in the violence. In a document filed in juvenile court in Seattle, where a 15-year-old arrested in the case did not appear for a scheduled initial appearance on Monday, police said they believe there were at least three shooters, rather than two: the 15-year-old; an acquaintance who died at the scene; and “at least...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361918/netanyahu-accuses-mamdani-fomenting-hate-calls-icc-war-crimes-charges-bogus?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T18:44:22.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362051/police-say-there-were-least-3-shooters-seattle-food-festival-1-among-dead?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T22:53:36.000Z"
         }
       ],
       "sourceCount": 1,
@@ -760,42 +581,155 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
+        "科技",
         "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "space",
+        "科技"
       ],
-      "fingerprint": "4cf27fe88e1804270ec31bbc",
+      "fingerprint": "2bb56c5f84803d708a6bec09",
       "isContinuation": false,
-      "titleZh": "内塔尼亚胡称纽约市长在联合国之行前“煽动仇恨”",
-      "summaryZh": "以色列总理内塔尼亚胡指责纽约市长佐兰·马姆达尼称其为“战犯”并呼吁将其逮捕的行为是在“煽动仇恨”。内塔尼亚胡计划于九月前往纽约参加联合国大会，尽管面临当地官员的抵制。",
-      "whyImportant": "以色列领导人与美国地方官员之间的公开冲突凸显了加沙战争引发的国际政治分歧。",
+      "titleZh": "警方称西雅图美食节至少有3名枪手，其中1人死亡",
+      "summaryZh": "警方调查显示，西雅图美食节枪击案涉及至少三名嫌疑人，其中包括一名已在现场死亡的同伙。目前一名15岁嫌疑人已被捕。",
+      "whyImportant": "该起公共场所枪击事件再次引发了美国社会对于青少年暴力和公共安全管控的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d740ab3ba3f20b96",
+      "title": "Food court stalls caught off guard by rules over plastic serving containers",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362044/food-court-stalls-caught-guard-rules-over-plastic-serving-containers?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T00:30:08.000Z",
+      "summary": "Hong Kong environmental authorities have warned that restaurant operators must not use disposable tableware coated in plastic for dine-in service, after some owners told the South China Morning Post they were caught off guard by inspectors. The Environmental Protection Department on Monday clarified that paper products with an inner plastic lining could only be used for takeaway orders after a food stall owner at Dragon Centre in Sham Shui Po said he was “shocked” by a warning he...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362044/food-court-stalls-caught-guard-rules-over-plastic-serving-containers?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T00:30:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "环境"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3884138e64e5056d3a7cf53b",
+      "isContinuation": false,
+      "titleZh": "美食广场摊位因塑料餐具规定措手不及",
+      "summaryZh": "香港环保署明确规定，堂食不得使用塑料涂层的一次性餐具，仅限外卖使用。部分餐饮业者表示对此规定感到意外，并对执法力度表示担忧。",
+      "whyImportant": "香港推行环保餐具政策的过程中，餐饮业者面临合规压力与经营成本的挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2240948effbb027a",
+      "title": "Singapore-based investors now the top non-local buyers of Hong Kong office assets",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/article/3362016/singapore-based-investors-now-top-non-local-buyers-hong-kong-office-assets?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T00:00:15.000Z",
+      "summary": "Singapore-based investors have become the largest group of non-local buyers of commercial properties in Hong Kong, drawn by the sizeable correction in the prices of distressed assets amid a slump in the city’s office segment, according to Colliers. The demand from Singapore was likely to remain steady in the coming months, given that the prices of office assets have declined by as much as 50 per cent, according to Thomas Chak, head of capital markets and investment services at the property...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/article/3362016/singapore-based-investors-now-top-non-local-buyers-hong-kong-office-assets?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T00:00:15.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "327f1b6aa3dbcb4ebf3e7cb8",
+      "isContinuation": false,
+      "titleZh": "新加坡投资者成为香港办公楼资产最大的非本地买家",
+      "summaryZh": "受香港办公楼市场价格大幅回调影响，新加坡投资者已成为该领域最大的非本地买家。分析认为，随着资产价格下跌，这种投资需求在未来几个月内将保持稳定。",
+      "whyImportant": "外资对香港商业地产的兴趣反映了市场对该地区资产价值重估的预期及资本流向的变化。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "341194e967ffce9a",
+      "title": "Armed police officers to be deployed for UK’s biggest Pride festival",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3362045/armed-police-officers-be-deployed-uks-biggest-pride-festival?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T19:44:20.000Z",
+      "summary": "Armed officers will be deployed for the UK’s largest Pride festival, police said following the attack on Berlin’s Pride event. Defence Secretary Wes Streeting condemned the “absolutely horrific” van and stabbing attack in the German capital that left one person dead and injured at least 29 others. The suspect – named as Abdul B and said to have links to Islamic State – was shot dead by police on Sunday after being on the run for nearly 24 hours. He was suspected of slamming a van into people...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3362045/armed-police-officers-be-deployed-uks-biggest-pride-festival?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T19:44:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1eef760594ae04c2c4dbad39",
+      "isContinuation": false,
+      "titleZh": "武装警察将被部署到英国最大的骄傲节活动中",
+      "summaryZh": "在柏林骄傲节发生致命袭击事件后，英国警方宣布将为国内最大的骄傲节部署武装警察。英国国防大臣对柏林的袭击事件表示强烈谴责。",
+      "whyImportant": "针对大型公共活动的安保升级，反映了欧洲当前面临的恐怖主义威胁及对社会安全的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "7dabc79b7d079d9b",
-      "title": "Food security: can drones and BeiDou put an end to ‘paper farming’ in China?",
+      "id": "2c75130ada43f36f",
+      "title": "In 1976, earthquake in China’s Tangshan kills over 240,000 people – SCMP archive",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3361924/food-security-can-drones-and-beidou-put-end-paper-farming-china?utm_source=rss_feed",
-      "publishedAt": "2026-07-27T04:00:06.000Z",
-      "summary": "China’s agriculture sector needs more advanced technology and innovation to boost yields and improve food security – not more farmland and crops, according to a rural policy expert. The remarks came after a state media investigation alleged that officials in central China had inflated the size of mandatory rice crops to hit their targets. CCTV programme Focus Report aired its investigation on July 14, claiming officials in Jianghua Yao – a county in Yongzhou, Hunan province – had misreported the...",
+      "url": "https://www.scmp.com/news/china/article/3362056/1976-earthquake-chinas-tangshan-kills-over-240000-people-scmp-archive?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T03:30:09.000Z",
+      "summary": "This article was first published on July 29, 1976. Quake rocks Northern China by Staff Reporters Heavy casualties and severe damage to industrial plants and property were feared when the strongest earthquake for 12 years struck the industrial belt of northern Hopei Province early yesterday (July 28, 1976) morning. The tremor was followed by a series of aftershocks and 16 hours after the first quake, an aftershock of almost the same intensity struck the same area, causing further damage and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3361924/food-security-can-drones-and-beidou-put-end-paper-farming-china?utm_source=rss_feed",
-          "publishedAt": "2026-07-27T04:00:06.000Z"
+          "url": "https://www.scmp.com/news/china/article/3362056/1976-earthquake-chinas-tangshan-kills-over-240000-people-scmp-archive?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T03:30:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -804,122 +738,36 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "科技",
-        "专题·军事、安全与突发事件"
+        "突发",
+        "公共安全"
       ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "f197df14aa869bb674551993",
-      "isContinuation": false,
-      "titleZh": "粮食安全：无人机和北斗系统能否终结中国的“纸面农业”？",
-      "summaryZh": "专家指出，中国农业需要通过技术创新而非单纯扩大耕地来提升产量。此前有报道称，湖南省部分官员虚报水稻种植面积以完成指标，引发了对农业数据真实性的关注。",
-      "whyImportant": "农业数据的准确性对于保障国家粮食安全和制定有效的农村政策至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "afb14ff9fdbbac6a",
-      "title": "China has put a Polish university on its European dual-use exports blacklist. Why?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T14:00:14.000Z",
-      "summary": "In an unprecedented move, China has placed a Polish university alongside defence contractors on an export control list targeting entities linked to the European security sector. Wroclaw University of Science and Technology (PWr) was among 14 European Union entities added to a dual-use export control list by the Chinese commerce ministry on Friday. The ministry said the additions, effective immediately, were in response to EU sanctions imposed on Thursday against 14 mainland Chinese and Hong Kong...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T14:00:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "军事与安全",
-        "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "1b28ceccc94b45d186a2e5a0",
-      "isContinuation": false,
-      "titleZh": "中国将一所波兰大学列入欧洲军民两用出口黑名单，原因何在？",
-      "summaryZh": "中国商务部将波兰弗罗茨瓦夫科技大学等14家欧盟实体列入出口管制清单，此举被视为对欧盟制裁中国企业的反制。这是中国首次将特定欧洲大学列入此类名单。",
-      "whyImportant": "此举标志着中欧在科技出口管制领域的摩擦升级，影响了学术与科研合作环境。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9ac4a41146fdc5c3",
-      "title": "Nobel laureate Simon Johnson on the AI race and China’s ‘over-automation’ problem",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3361690/nobel-laureate-simon-johnson-ai-race-and-chinas-over-automation-problem?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T22:00:13.000Z",
-      "summary": "Simon Johnson is a professor of entrepreneurship at the Massachusetts Institute of Technology (MIT). A former chief economist of the International Monetary Fund (IMF), he won a joint Nobel Prize for economics in 2024 for his research into how institutions shape national prosperity. On June 8, the British government announced Johnson as chair of its new AI Economics Institute. In this interview, conducted on the sidelines of the UBS Asian Investment Conference in Hong Kong, Johnson discussed the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3361690/nobel-laureate-simon-johnson-ai-race-and-chinas-over-automation-problem?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T22:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "国际组织"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 72,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "cbf86ebd8f5443c8443b22bc",
+      "fingerprint": "dfeb7b519d5b4ac156804203",
       "isContinuation": false,
-      "titleZh": "诺贝尔奖得主西蒙·约翰逊谈人工智能竞赛与中国的“过度自动化”问题",
-      "summaryZh": "麻省理工学院教授西蒙·约翰逊在讨论中分析了全球人工智能竞赛的态势，并提出了对中国“过度自动化”问题的见解。他强调了制度在塑造国家繁荣中的核心作用。",
-      "whyImportant": "专家对人工智能和自动化发展的见解为理解全球科技竞争提供了重要视角。",
+      "titleZh": "1976年，中国唐山地震造成超过24万人死亡——南华早报档案",
+      "summaryZh": "1976年7月28日，中国河北省唐山地区发生强烈地震，造成重大人员伤亡和工业设施损毁。随后的余震进一步加剧了灾区的破坏程度。",
+      "whyImportant": "回顾历史灾难有助于铭记防灾减灾的重要性，并展示了中国在应对重大自然灾害方面的历史进程。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cd04a2a1f2443189",
-      "title": "Lower profit margins set to foil Chinese carmakers’ price war plans despite falling sales",
+      "id": "1dfb8f5157c0f2c4",
+      "title": "Drivers struggle through floods in Hong Kong’s New Territories amid heavy rain",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3361876/lower-profit-margins-set-foil-chinese-carmakers-price-war-plans-despite-falling-sales?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T08:00:09.000Z",
-      "summary": "Narrowing profit margins due to higher raw material costs have dealt yet another major blow to China’s carmakers as they face shrinking market demand amid a rollback of purchase subsidies and tax incentives. The dire scenario could also dash Chinese consumers’ hopes for steep discounts, despite carmakers’ efforts to reduce their inventories, according to dealers and analysts. “The crux point is that most carmakers are facing squeezed margins and are unable to offer further price cuts to attract...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362054/amber-rainstorm-warning-issued-hong-kong-tuesday-morning?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T00:55:10.000Z",
+      "summary": "Heavy rain has led to flooding in some parts of Hong Kong’s New Territories, with some drivers struggling to navigate waterlogged roads in Tai Po even as the Observatory cancelled the amber rainstorm warning on Tuesday morning. The amber warning, earlier issued at 7.15am, meant that more than 30mm of rain had fallen in an hour, or was expected to fall generally over Hong Kong within that period and was likely to continue. The weather forecaster also warned of flooding in some low-lying and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3361876/lower-profit-margins-set-foil-chinese-carmakers-price-war-plans-despite-falling-sales?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T08:00:09.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362054/amber-rainstorm-warning-issued-hong-kong-tuesday-morning?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T00:55:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -928,81 +776,158 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
         "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "环境",
+        "专题·科技、能源与产业"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "1f03148ad2170cac44cc2da9",
-      "isContinuation": false,
-      "titleZh": "尽管销量下滑，利润率下降仍将阻碍中国车企的价格战计划",
-      "summaryZh": "由于原材料成本上升，中国车企的利润空间受到挤压，难以进一步通过降价来刺激需求。分析人士认为，消费者期待的深度折扣可能难以实现。",
-      "whyImportant": "利润率压力限制了中国汽车市场的价格竞争空间，可能导致行业整合加速。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b5cd4c1f2825b708",
-      "title": "CXMT shares rise 472% as DRAM maker becomes largest China-listed firm by total market cap",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3361926/chinas-cxmt-shares-rise-472-star-market-debut-valuing-dram-maker-us489-billion?utm_source=rss_feed",
-      "publishedAt": "2026-07-27T01:46:37.000Z",
-      "summary": "Shares of ChangXin Memory Technologies (CXMT), China’s leading maker of dynamic random-access memory (DRAM) chips, rose 472 per cent on their Shanghai trading debut, giving the company a market capitalisation of 3.31 trillion yuan (US$489 billion). The Hefei-based company opened at 49.50 yuan on the Star Market on Monday morning, compared with its initial public offering (IPO) price of 8.66 yuan. CXMT has become the most valuable company listed on the mainland Chinese market. The size of the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3361926/chinas-cxmt-shares-rise-472-star-market-debut-valuing-dram-maker-us489-billion?utm_source=rss_feed",
-          "publishedAt": "2026-07-27T01:46:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
         "科技"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "fingerprint": "291d350bf438e8dc1ce4b6c7",
+      "isContinuation": false,
+      "titleZh": "香港新界暴雨引发洪水，司机艰难通行",
+      "summaryZh": "香港新界地区因强降雨出现洪水，导致部分道路积水，司机通行困难。天文台此前曾发出黄色暴雨警告，并提醒低洼地区注意防范。",
+      "whyImportant": "极端天气对香港的交通和城市基础设施造成了直接影响，考验着城市的防灾应对能力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "717ed4d001391a42",
+      "title": "CATL-backed smart driving tech firm to kick off Hong Kong IPO this week: sources",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/companies/article/3362061/catl-backed-smart-driving-tech-firm-kick-hong-kong-ipo-week-sources?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T02:46:43.000Z",
+      "summary": "NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology Ltd (CATL), recently passed its listing hearing, signalling it could kick off its book building anytime. Debuts are scheduled for August 7, the sources said, requesting not to be identified as the information is...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/companies/article/3362061/catl-backed-smart-driving-tech-firm-kick-hong-kong-ipo-week-sources?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T02:46:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "ce86b28ea6285e296b9d7251",
+      "isContinuation": false,
+      "titleZh": "宁德时代支持的智能驾驶技术公司将于本周启动香港IPO",
+      "summaryZh": "获得宁德时代支持的智能驾驶技术公司NASN Intelligent Tech计划最早于本周启动在港上市程序。该公司已通过上市聆讯，预计将于8月7日正式挂牌。",
+      "whyImportant": "科技企业在港上市的动态反映了资本市场对中国智能驾驶领域的持续关注与投资信心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c54df4fcf5a5c816",
+      "title": "China turns to public for help in deadly dam collapse probe after Typhoon Maysak",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3362062/china-turns-public-help-deadly-dam-collapse-probe-after-typhoon-maysak?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T03:02:39.000Z",
+      "summary": "The Chinese government has appealed to the public for clues as part of its investigation into a reservoir dam that collapsed in southern China earlier this month, causing heavy casualties. State media reported on Monday that the public was invited to submit information related to the collapse of the Liulan Reservoir in Hengzhou, Guangxi Zhuang autonomous region on July 6 via a dedicated telephone hotline. People also have until August 15 to post submissions to an investigation and assessment...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3362062/china-turns-public-help-deadly-dam-collapse-probe-after-typhoon-maysak?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T03:02:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "公共安全"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "48b5fd8a1ef79f2740e65ac5",
+      "fingerprint": "4713bb054326dad27ab761fc",
       "isContinuation": false,
-      "titleZh": "中芯集成（CXMT）股价上涨472%，成为中国市值最大的上市公司",
-      "summaryZh": "DRAM芯片制造商中芯集成在上海证券交易所上市首日股价飙升472%，市值达到3.31万亿元人民币。该公司现已成为中国内地市值最高的上市公司。",
-      "whyImportant": "半导体巨头的上市及其高估值反映了资本市场对中国芯片产业自主可控的高度期待。",
+      "titleZh": "台风“美莎克”后，中国就致命大坝坍塌事故向公众寻求调查线索",
+      "summaryZh": "中国政府就7月6日广西柳兰水库大坝坍塌事故向公众征集线索。当局设立了专门热线，并呼吁知情者在8月15日前提交相关信息。",
+      "whyImportant": "通过公众参与调查大坝事故，体现了政府对基础设施安全和事故问责的重视。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ded2c836290aa18d",
+      "title": "Brazil turns to China trade deal after Trump’s tariffs, as years of resistance end",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3362042/brazil-turns-china-trade-deal-after-trumps-tariffs-years-resistance-end?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T18:46:32.000Z",
+      "summary": "Chinese President Xi Jinping and Brazilian President Luiz Inacio Lula da Silva agreed on Sunday night to accelerate negotiations for a trade agreement between China and Mercosur, a striking reversal for Brasilia, which for years led resistance to such a deal in the South American bloc. The two leaders spoke by telephone for more than an hour, according to a statement from the Brazilian presidency, and “coincided on the importance of speeding up the talks for a Mercosur-China agreement that...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3362042/brazil-turns-china-trade-deal-after-trumps-tariffs-years-resistance-end?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T18:46:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "经济"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c180d237e6a6d5f8795a01f6",
+      "isContinuation": false,
+      "titleZh": "在特朗普关税政策下，巴西结束多年抵制，转向与中国达成贸易协议",
+      "summaryZh": "巴西总统卢拉与中国国家主席习近平通话，同意加快南方共同市场与中国之间的贸易协议谈判。这一决定标志着巴西在贸易政策上的重大转变。",
+      "whyImportant": "巴西与中国加强贸易合作的意向，显示了全球贸易格局在关税压力下的重组与调整。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "a028dd42522febc2",
-      "title": "America’s North Korea strategy needs a dose of reality",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3361385/americas-north-korea-strategy-needs-dose-reality?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T12:30:05.000Z",
-      "summary": "Each year on July 27, North Korea commemorates “Victory Day”, marking what it presents as its triumph in the Korean war. While few outside the country accept that characterisation, the date underscores a reality: the war never formally ended. The 1953 agreement was an armistice that left the peninsula in a state of suspended conflict. Responsibility for the resulting instability is widely distributed. North Korea’s missile tests, expanding nuclear arsenal and escalatory rhetoric have undermined...",
+      "id": "e37c2e6afc7ce9be",
+      "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+      "publishedAt": "2026-07-28T02:00:18.000Z",
+      "summary": "This blog has now closed. Sign up for the Breaking News US email Donald Trump said ⁠today that ⁠he had paused US strikes on Iran to give diplomacy another chance, but he ​was ‌ready ‌for “strong military ‌action” if diplomacy fails. Washington was in “very deep ⁠talks with Iran”, the president told Axios, but, he added: “If they don’t work out, we will be go back to very strong military action.” I am going to talk to Bibi about the fact that if I weren’t president, Iran would have had nuclear weapons by now and Israel would have been destroyed. Without me, there would be no Israel. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3361385/americas-north-korea-strategy-needs-dose-reality?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T12:30:05.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+          "publishedAt": "2026-07-28T02:00:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1011,41 +936,43 @@
       "isNoise": false,
       "tags": [
         "美国重点",
+        "突发",
+        "外交",
         "军事与安全",
         "能源",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业",
+        "持续关注"
       ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 86,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "missile",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "51e2d1c385a1a92824937517",
-      "isContinuation": false,
-      "titleZh": "美国的对朝战略需要回归现实",
-      "summaryZh": "朝鲜半岛在1953年停战后始终处于悬而未决的冲突状态。文章指出，朝鲜的导弹试验和核武库扩张加剧了地区不稳定，美国的战略需要更务实的应对方案。",
-      "whyImportant": "朝鲜半岛局势的长期僵局对东北亚的安全架构构成了持续挑战。",
+      "fingerprint": "240b7d632b6db654fbec5772",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "特朗普在美伊紧张局势升级之际支持皮特·赫格塞斯——事件回顾",
+      "summaryZh": "特朗普表示已暂停对伊朗的军事打击以给予外交机会，但强调若外交失败将采取强硬军事行动。同时，他重申了对以色列的支持。",
+      "whyImportant": "美国在外交与军事手段之间的摇摆，对中东地区的局势稳定具有决定性影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ab37d8a3d8038340",
-      "title": "Pentagon moves 4 killed US troops out of official Iran war death toll",
+      "id": "5f1caf50bd596e42",
+      "title": "US walks out on France at UN over human rights criticism",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3361920/pentagons-iran-war-death-toll-no-longer-lists-4-troops-killed-during-renewed-fighting?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T20:39:27.000Z",
-      "summary": "The four American troops killed during renewed fighting between the US and Iran in recent weeks are no longer listed as part of the Iran war death toll in the Pentagon’s official casualty count but have been placed in a new, separate category. It is raising questions about properly counting the impact to US service members as the Trump administration has escalated strikes on Iran in a bid to reopen the Strait of Hormuz, while providing little indication of how it intends to wind down a conflict...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362059/us-walks-out-france-un-over-human-rights-criticism?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T02:38:02.000Z",
+      "summary": "US diplomats walked out as their French counterparts were speaking at the United Nations on Monday after America’s close European ally criticised the Trump administration’s human rights record. The surprise move during a UN Security Council meeting on Ukraine followed US opposition to giving UN human rights chief Volker Turk another four-year term. The reappointment on Friday got overwhelming support, including from France. The US walkout reflects not only the more strained relations between...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361920/pentagons-iran-war-death-toll-no-longer-lists-4-troops-killed-during-renewed-fighting?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T20:39:27.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362059/us-walks-out-france-un-over-human-rights-criticism?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T02:38:02.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1055,116 +982,119 @@
       "tags": [
         "美国重点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "96df753a26cffe68fbbc3f10",
+      "score": 67,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0a3e93d4862407cf98017a51",
       "isContinuation": false,
-      "titleZh": "五角大楼将4名阵亡美军士兵从官方伊朗战争死亡人数中移除",
-      "summaryZh": "五角大楼将近期在美伊冲突中阵亡的四名士兵从官方战争死亡名单中移除，并归入新的类别。此举引发了外界对美军在伊朗相关冲突中伤亡统计透明度的质疑。",
-      "whyImportant": "伤亡统计方式的变更可能掩盖了美伊冲突的实际烈度，引发了政治争议。",
+      "titleZh": "美国在联合国就人权批评问题上对法国采取离场抗议",
+      "summaryZh": "在联合国安理会会议上，美国外交官因不满法国对其人权记录的批评而选择离场。此举反映了美法两国在人权议题及联合国人事任命上的分歧。",
+      "whyImportant": "美法外交摩擦凸显了西方盟友在国际多边机构中日益加剧的政策分歧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "28166422f1382980",
-      "title": "Former President Hernandez returns to Honduras after Trump pardon",
+      "id": "ef872fdffb1a3157",
+      "title": "UK’s Burnham meets Zelensky, pledges ‘Stone Cloak’ tech for Ukraine’s drones",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3362038/uks-new-pm-burnham-welcomes-zelensky-first-foreign-visitor?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T15:51:04.000Z",
+      "summary": "British Prime Minister Andy Burnham held his first meeting with Ukrainian President Volodymyr Zelensky at a UK naval base on Monday, pledging new “Stone Cloak” jamming technology to help safeguard Ukraine’s drones on the battlefield. The meeting on the dockside and on board an aircraft carrier in the southern city of Portsmouth was Burnham’s first bilateral with a foreign leader and comes ahead of a visit by Zelensky to Washington on Tuesday aimed at ending the four-year war with Russia. “We are...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3362038/uks-new-pm-burnham-welcomes-zelensky-first-foreign-visitor?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T15:51:04.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "a4966dc7a5c48a118bfdb39c",
+      "isContinuation": false,
+      "titleZh": "英国首相伯纳姆会见泽连斯基，承诺为乌克兰无人机提供“石斗篷”技术",
+      "summaryZh": "英国首相伯纳姆与乌克兰总统泽连斯基举行会晤，承诺提供“石斗篷”干扰技术以保护乌军无人机。这是伯纳姆上任后的首次双边会晤。",
+      "whyImportant": "英国对乌克兰军事技术的支持，显示了其在俄乌冲突中持续发挥关键作用的立场。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7cd283616125c787",
+      "title": "China’s localised data centre push drives AI ambitions amid overbuilding concerns",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3361988/chinas-localised-data-centre-push-drives-ai-ambitions-amid-overbuilding-concerns?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T14:00:10.000Z",
+      "summary": "Despite their strikingly different approaches to developing and deploying artificial intelligence, one aspect is common across China and the United States: data and computing centres are proliferating in both countries, especially in remote locations. While the US is seeing residents and localities fight back against plans for data centres in their backyards, regional officials in China are embracing them. In fact, in China there is a nationwide scramble for such facilities – considered the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3361988/chinas-localised-data-centre-push-drives-ai-ambitions-amid-overbuilding-concerns?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T14:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "artificial intelligence",
+        "科技"
+      ],
+      "fingerprint": "78ae2400cb1beb167b744f33",
+      "isContinuation": false,
+      "titleZh": "中国推动本地化数据中心建设，在过度建设担忧中追求人工智能雄心",
+      "summaryZh": "尽管面临过度建设的担忧，中国各地政府仍积极推动数据中心建设以支持人工智能发展。与美国部分地区居民抵制数据中心不同，中国地方官员将其视为经济增长点。",
+      "whyImportant": "数据中心建设的差异化路径反映了中美两国在人工智能基础设施布局上的不同策略。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e3b44dfacb93fec0",
+      "title": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
-      "publishedAt": "2026-07-26T20:35:38.000Z",
-      "summary": "Honduran ex-president Juan Orlando Hernandez – who was serving a 45-year prison sentence in the United States for drug trafficking until President Donald Trump pardoned him last year – returned to his home country on Sunday. After touching down in a private plane near the capital, Tegucigalpa, he travelled to a rally in the town of Comayagua. Speaking at a farm in front of hundreds of supporters, Hernandez thanked Trump for the pardon. “The most well-informed president in the world said: ‘I...",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "summary": "Iran says US 'struggling' to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
-          "publishedAt": "2026-07-26T20:35:38.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3361915/former-honduras-president-hernandez-returns-home-after-trump-pardon?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T16:31:37.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "73e77b45aea034ccb4676a8a",
-      "isContinuation": false,
-      "titleZh": "前总统埃尔南德斯在特朗普赦免后返回洪都拉斯",
-      "summaryZh": "因毒品走私罪在美国服刑的洪都拉斯前总统胡安·奥兰多·埃尔南德斯，在获得特朗普总统赦免后返回国内。他公开感谢了特朗普的赦免决定。",
-      "whyImportant": "这一赦免决定在洪都拉斯及国际社会引发了关于司法公正和政治干预的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd16d725f4514aa0",
-      "title": "‘Not standard’ for Taylor Farms to ask White House to delay cyclospora recall, ex-FDA head says",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall",
-      "publishedAt": "2026-07-26T20:01:42.000Z",
-      "summary": "Scott Gottlieb responds to report that company contacted the White House seeking to delay a recall announcement Former Food and Drug Administration commissioner Dr Scott Gottlieb said on Sunday that it was “not standard operating procedure” for Taylor Farms to ask the White House to intervene as the company prepared to announce a recall tied to a massive cyclospora outbreak. Appearing on CBS’s Face the Nation, Gottlieb was asked about a report from the Wall Street Journal that Taylor Farms contacted the White House seeking to delay a recall announcement while federal investigators were preparing to publicly link the company to the multi-state outbreak. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall",
-          "publishedAt": "2026-07-26T20:01:42.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 51,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f510c96fbae53a034cd0a97d",
-      "isContinuation": false,
-      "titleZh": "前FDA局长称泰勒农场要求白宫推迟环孢子虫病召回“不符合标准”",
-      "summaryZh": "针对泰勒农场在环孢子虫病爆发期间试图通过白宫推迟召回公告的报道，前FDA局长斯科特·戈特利布表示此举不符合标准操作程序。该事件引发了对企业干预监管流程的担忧。",
-      "whyImportant": "企业试图绕过监管机构的行为损害了公共卫生召回机制的公信力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "46b52f34105da78a",
-      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-      "publishedAt": "2026-07-26T05:00:03.000Z",
-      "summary": "Exclusive: CSI Aviation and GlobalX accused of violating civil rights as part of Trump immigration crackdown Venezuelan men sent last year to a notorious Salvadorian terrorism prison by the Trump administration are suing the US aviation companies that transported them there. A lawsuit filed this week in federal court in Washington DC accuses the companies CSI Aviation and GlobalX of violating the Venezuelans’ civil rights, false imprisonment, intentional infliction of emotional distress, negligence and other violations, for their role in flying the three planes that took the men to El Salvador. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-          "publishedAt": "2026-07-26T05:00:03.000Z"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
+          "publishedAt": "2026-07-28T00:00:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1173,467 +1103,165 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "国际组织"
+        "军事与安全"
       ],
-      "score": 44,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f6ef97f3ba04533f318333b4",
+      "fingerprint": "fdc4ab0a43e72086d9114401",
       "isContinuation": false,
-      "titleZh": "委内瑞拉男子起诉将他们送往萨尔瓦多臭名昭著监狱的航空公司",
-      "summaryZh": "多名委内瑞拉男子对CSI Aviation和GlobalX航空公司提起诉讼，指控其在特朗普政府的移民打击行动中参与非法运输。原告称这些公司侵犯了他们的民权并导致了非法监禁。",
-      "whyImportant": "该诉讼凸显了私人企业在政府移民政策执行中可能面临的法律责任风险。",
+      "titleZh": "伊朗战争直播：特朗普称“友好”谈判正在进行；内塔尼亚胡抵达美国",
+      "summaryZh": "伊朗指责美国在结束战争方面进展缓慢，与此同时，内塔尼亚胡抵达华盛顿与特朗普进行会谈。双方正就当前局势进行外交接触。",
+      "whyImportant": "美伊及美以之间的密集外交活动，是决定中东冲突走向的关键因素。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "8053554040eae409",
-      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
-      "publishedAt": "2026-07-26T18:17:22.000Z",
-      "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
+      "id": "a592706dd32e47a1",
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "publishedAt": "2026-07-27T18:49:20.000Z",
+      "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested […]",
       "language": "",
-      "region": "middle-east",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
-          "publishedAt": "2026-07-26T18:17:22.000Z"
+          "source": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+          "publishedAt": "2026-07-27T18:49:20.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "军事与安全",
+        "美国重点",
         "科技",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "space",
+        "科技"
       ],
-      "fingerprint": "3b1913235c97214dc5ca4b82",
+      "fingerprint": "f5afe4c17dbb496f9636fa8f",
       "isContinuation": false,
-      "titleZh": "罗马尼亚召见俄罗斯大使，并击落第三架入侵无人机",
-      "summaryZh": "罗马尼亚领空再次遭到入侵，这是近期发生的第三起类似事件。此类违规行为加剧了北约成员国对俄乌战争外溢风险的担忧。",
-      "whyImportant": "北约领空频繁受侵扰增加了地区冲突升级为北约与俄罗斯直接对抗的风险。",
+      "titleZh": "NASA宇航员克里斯·威廉姆斯将讨论空间站任务",
+      "summaryZh": "NASA宇航员克里斯·威廉姆斯将于8月4日举行新闻发布会，回顾其在国际空间站执行的八个月任务。该活动将通过NASA平台进行直播。",
+      "whyImportant": "宇航员的任务回顾有助于公众了解空间科学研究的最新进展与成果。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6afd7e66d65f2159",
-      "title": "Suspect in Berlin Pride attack shot dead by police after day-long manhunt",
+      "id": "6bb551ef63d2560b",
+      "title": "US-Canada bridge opens in Detroit even as trade disputes test the neighbours’ ties",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3361917/chief-suspect-berlin-pride-attack-shot-dead-police-say?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T18:15:41.000Z",
-      "summary": "The suspect in the deadly Berlin Pride attack that left one person dead and 29 injured was shot and killed by police during a confrontation on Sunday in a suburb of the city, authorities said. Abdul Ballout, a 21-year-old German citizen with Lebanese roots, was killed following a search that lasted nearly 24 hours after the attack in downtown Berlin. Prosecutors said he had previously sought to join the militant Islamic State group. Ballout was suspected of driving a van into a crowd near...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362041/us-canada-bridge-opens-detroit-even-trade-disputes-test-neighbours-ties?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T18:34:43.000Z",
+      "summary": "A major new bridge linking Canada and the United States at Detroit, Michigan opened on Monday to lorries, cars and other vehicles, the climax of a years-long project that lately had been bruised a bit by international politics. Descendants of Gordie Howe, the hockey legend whose name is on the bridge, were among the first to cross over the Detroit River, which separates Detroit from Windsor, Ontario. The span, which was built by Canada at a cost of C$6.4 billion (US$4.5 billion), now becomes a...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3361917/chief-suspect-berlin-pride-attack-shot-dead-police-say?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T18:15:41.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362041/us-canada-bridge-opens-detroit-even-trade-disputes-test-neighbours-ties?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T18:34:43.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "美国重点",
+        "经济",
+        "国际组织"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "c41bc7ea79bd40d92f9dee9a",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c34a41e8a7712a7d000702e3",
       "isContinuation": false,
-      "titleZh": "柏林骄傲游行袭击案嫌疑人在长达一天的搜捕后被警方击毙",
-      "summaryZh": "柏林骄傲游行袭击案的嫌疑人阿卜杜勒·巴鲁特在周日的警方行动中被击毙。该袭击造成一人死亡、29人受伤，嫌疑人此前曾有加入极端组织的意图。",
-      "whyImportant": "嫌疑人的击毙结束了搜捕行动，但该事件对德国社会安全和反恐政策提出了反思。",
+      "titleZh": "美加底特律大桥开通，贸易争端考验邻国关系",
+      "summaryZh": "连接美国底特律和加拿大温莎的戈迪·豪大桥于周一正式通车。尽管该项目耗资巨大，但近期两国间的贸易争端为双边关系蒙上了阴影。",
+      "whyImportant": "新大桥的开通虽促进了物流，但美加之间持续的贸易摩擦仍是影响两国经济合作的主要障碍。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c71c4356a86cec9a",
-      "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
-      "publishedAt": "2026-07-26T17:53:50.000Z",
-      "summary": "Abdul Ballout, 21, reportedly shot in operation at allotment in Spandau district after fatal attack in Tiergarten park A man suspected of driving a van into a crowd near Berlin’s Pride festival then going on a knife rampage in an Islamist terror attack has been shot dead by police, German officials have said. Police confirmed on Sunday evening that the chief suspect had been shot dead, reportedly during an operation at an allotment garden complex ⁠in the capital’s Spandau district. Continue reading...",
+      "id": "e8639e36af927d65",
+      "title": "Presidential Message on National Korean War Veterans Armistice Day",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-national-korean-war-veterans-armistice-day-3cd7/",
+      "publishedAt": "2026-07-27T22:51:46.000Z",
+      "summary": "Today, our Nation marks the 82nd anniversary of the American liberation of Guam—the day the United States shattered a brutal occupation and carried freedom back to an island that had endured more than 2 years of suffering As our Nation observes National Korean War Veterans Armistice Day, we honor the extraordinary courage and devotion of […] The post Presidential Message on National Korean War Veterans Armistice Day appeared first on The White House.",
       "language": "",
-      "region": "international",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
-          "publishedAt": "2026-07-26T17:53:50.000Z"
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-national-korean-war-veterans-armistice-day-3cd7/",
+          "publishedAt": "2026-07-27T22:51:46.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "美国重点",
+        "军事与安全"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "c36f34ffc5f18bf66073d6cc",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3cdcb3c8916114862c7d3881",
       "isContinuation": false,
-      "titleZh": "官员称警方击毙了柏林骄傲游行驾车撞人及持刀袭击嫌疑人",
-      "summaryZh": "德国官员证实，涉嫌在柏林骄傲游行期间发动驾车撞人及持刀袭击的21岁嫌疑人阿卜杜勒·巴鲁特已被警方击毙。该袭击被定性为伊斯兰恐怖袭击。",
-      "whyImportant": "这起恐怖袭击事件再次引发了德国关于公共安全和极端主义防范的讨论。",
+      "titleZh": "总统关于朝鲜战争停战纪念日的致辞",
+      "summaryZh": "美国总统在纪念朝鲜战争停战纪念日之际，向参战老兵的勇气与奉献表示敬意。同时，致辞还提到了美国解放关岛82周年的纪念活动。",
+      "whyImportant": "总统的纪念致辞旨在强化国家历史记忆，并向退伍军人表达政府的认可与尊重。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 125,
-    "deduplicated": 122,
+    "fetched": 157,
+    "deduplicated": 151,
     "selected": 23,
     "minimumRequired": 21,
-    "featured": 8,
+    "featured": 7,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "10d80221c4c2d5dc",
-      "title": "Australia news live: seven new suspected bird flu cases in SA as conservation charity warns ‘this is evidence of spread’",
+      "id": "e37c2e6afc7ce9be",
+      "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – as it happened",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-      "publishedAt": "2026-07-27T03:39:34.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast What you need to know about today’s AusAlert test It’s also well worth watching this video of Guardian Australia’s community affairs reporter Adeshola Ore’s interview with Barnaby Joyce about Armidale’s refugee resettlement program and One Nation’s policy positions on immigration. One Nation’s policy is that immigrants who do not speak English should “under no circumstances … be able to settle in Australia”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+      "publishedAt": "2026-07-28T02:00:18.000Z",
+      "summary": "This blog has now closed. Sign up for the Breaking News US email Donald Trump said ⁠today that ⁠he had paused US strikes on Iran to give diplomacy another chance, but he ​was ‌ready ‌for “strong military ‌action” if diplomacy fails. Washington was in “very deep ⁠talks with Iran”, the president told Axios, but, he added: “If they don’t work out, we will be go back to very strong military action.” I am going to talk to Bibi about the fact that if I weren’t president, Iran would have had nuclear weapons by now and Israel would have been destroyed. Without me, there would be no Israel. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-          "publishedAt": "2026-07-27T03:39:34.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "d979663c58e42d7f23e12a75",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：南澳大利亚州出现七例疑似禽流感病例，慈善机构警告“这是疫情蔓延的证据”",
-      "summaryZh": "南澳大利亚州报告了七例新的疑似禽流感病例，环保慈善机构认为这表明病毒正在传播。此外，报道还提及了关于难民安置政策及移民问题的相关讨论。",
-      "whyImportant": "禽流感病例的增加引发了对公共卫生安全和病毒扩散风险的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e8605cf1affcf0c9",
-      "title": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
-      "publishedAt": "2026-07-27T03:34:06.000Z",
-      "summary": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
-          "publishedAt": "2026-07-27T03:34:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "金融",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 79,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "314809ffecbca008025931e9",
-      "isContinuation": false,
-      "titleZh": "俄罗斯与乌克兰互相攻击，切尔尼戈夫十人死亡，包括一名儿童",
-      "summaryZh": "基辅方面称俄罗斯的袭击造成包括一名儿童在内的六人死亡，而莫斯科则表示乌克兰的袭击导致四人丧生。双方在冲突中互有伤亡，局势持续紧张。",
-      "whyImportant": "俄乌冲突的持续升级导致平民伤亡增加，加剧了地区的人道主义危机。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "72de969f2335dde3",
-      "title": "‘A new trajectory’: EVs now almost quarter of Australia’s new car sales as fuel crisis bites",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/jul/27/australia-ev-car-sales-electric-vehicles-fuel-crisis-plug-in-hybrids",
-      "publishedAt": "2026-07-27T03:37:41.000Z",
-      "summary": "More electric vehicles sold in first half of 2026 than whole of last year, new data shows Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australians bought more electric vehicles in the first six months of 2026 than the whole of the previous year, new data shows, as the ongoing crisis in the Middle East causes uncertainty about petrol prices. There were 103,855 battery electric vehicles (EVs) sold nationally between January and June, compared with 103,269 in 2025, according to data from VFacts and the Electric Vehicle Council. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/jul/27/australia-ev-car-sales-electric-vehicles-fuel-crisis-plug-in-hybrids",
-          "publishedAt": "2026-07-27T03:37:41.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "6843ff29edd40e0f39ee1626",
-      "isContinuation": false,
-      "titleZh": "“新轨迹”：受燃油危机影响，电动汽车销量占澳大利亚新车销量的近四分之一",
-      "summaryZh": "最新数据显示，2026年上半年澳大利亚电动汽车销量已超过2025年全年总量。受中东局势导致的油价波动影响，消费者对电动汽车的需求显著增长。",
-      "whyImportant": "能源价格的不确定性正在加速澳大利亚汽车市场的能源转型。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7dabc79b7d079d9b",
-      "title": "Food security: can drones and BeiDou put an end to ‘paper farming’ in China?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3361924/food-security-can-drones-and-beidou-put-end-paper-farming-china?utm_source=rss_feed",
-      "publishedAt": "2026-07-27T04:00:06.000Z",
-      "summary": "China’s agriculture sector needs more advanced technology and innovation to boost yields and improve food security – not more farmland and crops, according to a rural policy expert. The remarks came after a state media investigation alleged that officials in central China had inflated the size of mandatory rice crops to hit their targets. CCTV programme Focus Report aired its investigation on July 14, claiming officials in Jianghua Yao – a county in Yongzhou, Hunan province – had misreported the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3361924/food-security-can-drones-and-beidou-put-end-paper-farming-china?utm_source=rss_feed",
-          "publishedAt": "2026-07-27T04:00:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "f197df14aa869bb674551993",
-      "isContinuation": false,
-      "titleZh": "粮食安全：无人机和北斗系统能否终结中国的“纸面农业”？",
-      "summaryZh": "专家指出，中国农业需要通过技术创新而非单纯扩大耕地来提升产量。此前有报道称，湖南省部分官员虚报水稻种植面积以完成指标，引发了对农业数据真实性的关注。",
-      "whyImportant": "农业数据的准确性对于保障国家粮食安全和制定有效的农村政策至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f322993ef7caaee7",
-      "title": "Jacinta Allan leadership challenge: Ben Carroll confirms he will stand against Victorian premier",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-      "publishedAt": "2026-07-27T02:36:49.000Z",
-      "summary": "Deputy premier says he told leader of his intention on Monday after Allan refused request to stand down Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Victoria’s deputy premier, Ben Carroll, has confirmed he will nominate for the leadership of the Labor party, after a group of MPs told Jacinta Allan she no longer had the support of caucus. The cross-factional group of ministers and MPs met the premier before Monday’s scheduled cabinet meeting, to tell her she had lost the majority of support and urged her to stand down, just four months before the state election. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-          "publishedAt": "2026-07-27T02:36:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "e0888c12758b5f092f673bb7",
-      "isContinuation": false,
-      "titleZh": "杰辛塔·艾伦领导权挑战：本·卡罗尔确认将竞选维多利亚州州长",
-      "summaryZh": "维多利亚州副州长本·卡罗尔确认将挑战现任州长杰辛塔·艾伦的领导地位。此前，多名工党议员表示艾伦已失去党内多数支持，并敦促其在州选举前辞职。",
-      "whyImportant": "维多利亚州工党内部的领导权危机可能对即将到来的州选举产生重大影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1e7924d797b20cd6",
-      "title": "RAF Chinook crash victims’ families ask Andy Burnham for review of disaster",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
-      "publishedAt": "2026-07-26T23:01:24.000Z",
-      "summary": "PM urged to end ‘cover-up culture’ and order independent review taking in evidence that has emerged on 1994 crash The families of those killed in an RAF Chinook crash in 1994 have urged Andy Burnham to end Britain’s “cover-up culture” and order an independent review into the disaster. Twenty-nine serving military personnel died when the Chinook HC2 helicopter crashed on the Mull of Kintyre in south-west Scotland during a flight from Northern Ireland. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
-          "publishedAt": "2026-07-26T23:01:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "公共安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "军事"
-      ],
-      "fingerprint": "55f6282ef21f7b6b5b4895a6",
-      "isContinuation": false,
-      "titleZh": "英国皇家空军支奴干直升机坠毁事故遇难者家属要求安迪·伯纳姆审查灾难",
-      "summaryZh": "1994年支奴干直升机坠毁事故的遇难者家属敦促安迪·伯纳姆结束英国的“掩盖文化”，并对该灾难进行独立审查。他们希望基于新出现的证据重新评估这起导致29人死亡的事故。",
-      "whyImportant": "家属对历史事故的追责反映了公众对政府透明度和问责机制的持续关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9289efc8a1b9b40d",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T20:34:23.000Z",
-      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-26T20:34:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a24a5206f250f963176cd803",
-      "isContinuation": false,
-      "titleZh": "关于柏林骄傲游行撞人袭击事件的已知信息",
-      "summaryZh": "德国总理弗里德里希·默茨谴责这起发生在蒂尔加滕公园附近的驾车撞人袭击事件为“令人发指”的行径。目前当局正在调查该事件的背景。",
-      "whyImportant": "针对LGBTQ+群体的暴力袭击事件引发了德国社会对安全和仇恨犯罪的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a028dd42522febc2",
-      "title": "America’s North Korea strategy needs a dose of reality",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3361385/americas-north-korea-strategy-needs-dose-reality?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T12:30:05.000Z",
-      "summary": "Each year on July 27, North Korea commemorates “Victory Day”, marking what it presents as its triumph in the Korean war. While few outside the country accept that characterisation, the date underscores a reality: the war never formally ended. The 1953 agreement was an armistice that left the peninsula in a state of suspended conflict. Responsibility for the resulting instability is widely distributed. North Korea’s missile tests, expanding nuclear arsenal and escalatory rhetoric have undermined...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3361385/americas-north-korea-strategy-needs-dose-reality?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T12:30:05.000Z"
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+          "publishedAt": "2026-07-28T02:00:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1642,332 +1270,43 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "missile",
-        "军事"
-      ],
-      "fingerprint": "51e2d1c385a1a92824937517",
-      "isContinuation": false,
-      "titleZh": "美国的对朝战略需要回归现实",
-      "summaryZh": "朝鲜半岛在1953年停战后始终处于悬而未决的冲突状态。文章指出，朝鲜的导弹试验和核武库扩张加剧了地区不稳定，美国的战略需要更务实的应对方案。",
-      "whyImportant": "朝鲜半岛局势的长期僵局对东北亚的安全架构构成了持续挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "075aa3a97631b0e5",
-      "title": "Why Mali’s northern conflict has entered a dangerous new phase",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
-      "publishedAt": "2026-07-27T02:49:45.000Z",
-      "summary": "A separatist–al-Qaeda alliance has shifted the balance of power in northern Mali and complicated efforts to end the war.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
-          "publishedAt": "2026-07-27T02:49:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "a9f626921fee08b44fcb3a92",
-      "isContinuation": false,
-      "titleZh": "为什么马里北部冲突进入了危险的新阶段",
-      "summaryZh": "分裂主义者与基地组织的结盟改变了马里北部的权力平衡，使得结束战争的努力变得更加复杂。该地区的安全局势正面临严峻挑战。",
-      "whyImportant": "武装组织的结盟加剧了萨赫勒地区的动荡，对国际反恐和维和努力构成威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1bc2136c53a20259",
-      "title": "Christopher Street Day attack in Berlin: What we know so far",
-      "source": "DW",
-      "url": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-07-26T19:51:00.000Z",
-      "summary": "On Saturday, a vehicle drove into a crowd near Berlin Pride celebrations in what is being regarded as an attack on the LGBTQ+ community. The main suspect has since been confronted and shot dead.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-07-26T19:51:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
         "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "85405eb4ab75304752eb9e8a",
-      "isContinuation": false,
-      "titleZh": "柏林克里斯托弗街日袭击事件：已知信息汇总",
-      "summaryZh": "周六，一辆汽车冲入柏林骄傲游行附近的人群，被视为针对LGBTQ+群体的袭击。主要嫌疑人随后被警方击毙。",
-      "whyImportant": "该袭击事件对柏林的安全环境及少数群体权益保障提出了严峻挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d5dd9fb323bca8b8",
-      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-      "publishedAt": "2026-07-26T19:31:58.000Z",
-      "summary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-          "publishedAt": "2026-07-26T19:31:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "210dbad435e783f8199f4afd",
-      "isContinuation": false,
-      "titleZh": "随着美国战争范围扩大至霍尔木兹海峡之外，伊朗经济前景如何？",
-      "summaryZh": "尽管调解努力仍在继续，但由于国际航道中断的风险增加，伊朗经济面临巨大的不确定性。局势的升级对全球能源供应和伊朗国内经济造成了压力。",
-      "whyImportant": "地缘政治冲突的扩大化直接威胁到全球关键航道的安全与经济稳定。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5be793cc475b2744",
-      "title": "Netanyahu claims New York mayor ‘fomenting hate’ ahead of expected UN trip",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3361918/netanyahu-accuses-mamdani-fomenting-hate-calls-icc-war-crimes-charges-bogus?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T18:44:22.000Z",
-      "summary": "Israel’s Benjamin Netanyahu said on Sunday that New York Mayor Zohran Mamdani is “fomenting hate” by calling the prime minister a war criminal who should be arrested over the war in Gaza if he visits the city for the United Nations General Assembly. Netanyahu said he intends to be in New York in September to address the annual UN gathering of world leaders, despite the mayor’s suggestion that he is not welcome. Mamdani said last week that while New York City does not have legal authority to...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361918/netanyahu-accuses-mamdani-fomenting-hate-calls-icc-war-crimes-charges-bogus?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T18:44:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "4cf27fe88e1804270ec31bbc",
-      "isContinuation": false,
-      "titleZh": "内塔尼亚胡称纽约市长在联合国之行前“煽动仇恨”",
-      "summaryZh": "以色列总理内塔尼亚胡指责纽约市长佐兰·马姆达尼称其为“战犯”并呼吁将其逮捕的行为是在“煽动仇恨”。内塔尼亚胡计划于九月前往纽约参加联合国大会，尽管面临当地官员的抵制。",
-      "whyImportant": "以色列领导人与美国地方官员之间的公开冲突凸显了加沙战争引发的国际政治分歧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "afb14ff9fdbbac6a",
-      "title": "China has put a Polish university on its European dual-use exports blacklist. Why?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T14:00:14.000Z",
-      "summary": "In an unprecedented move, China has placed a Polish university alongside defence contractors on an export control list targeting entities linked to the European security sector. Wroclaw University of Science and Technology (PWr) was among 14 European Union entities added to a dual-use export control list by the Chinese commerce ministry on Friday. The ministry said the additions, effective immediately, were in response to EU sanctions imposed on Thursday against 14 mainland Chinese and Hong Kong...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T14:00:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
         "外交",
         "军事与安全",
-        "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "1b28ceccc94b45d186a2e5a0",
-      "isContinuation": false,
-      "titleZh": "中国将一所波兰大学列入欧洲军民两用出口黑名单，原因何在？",
-      "summaryZh": "中国商务部将波兰弗罗茨瓦夫科技大学等14家欧盟实体列入出口管制清单，此举被视为对欧盟制裁中国企业的反制。这是中国首次将特定欧洲大学列入此类名单。",
-      "whyImportant": "此举标志着中欧在科技出口管制领域的摩擦升级，影响了学术与科研合作环境。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9ac4a41146fdc5c3",
-      "title": "Nobel laureate Simon Johnson on the AI race and China’s ‘over-automation’ problem",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3361690/nobel-laureate-simon-johnson-ai-race-and-chinas-over-automation-problem?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T22:00:13.000Z",
-      "summary": "Simon Johnson is a professor of entrepreneurship at the Massachusetts Institute of Technology (MIT). A former chief economist of the International Monetary Fund (IMF), he won a joint Nobel Prize for economics in 2024 for his research into how institutions shape national prosperity. On June 8, the British government announced Johnson as chair of its new AI Economics Institute. In this interview, conducted on the sidelines of the UBS Asian Investment Conference in Hong Kong, Johnson discussed the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3361690/nobel-laureate-simon-johnson-ai-race-and-chinas-over-automation-problem?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T22:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "国际组织"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cbf86ebd8f5443c8443b22bc",
-      "isContinuation": false,
-      "titleZh": "诺贝尔奖得主西蒙·约翰逊谈人工智能竞赛与中国的“过度自动化”问题",
-      "summaryZh": "麻省理工学院教授西蒙·约翰逊在讨论中分析了全球人工智能竞赛的态势，并提出了对中国“过度自动化”问题的见解。他强调了制度在塑造国家繁荣中的核心作用。",
-      "whyImportant": "专家对人工智能和自动化发展的见解为理解全球科技竞争提供了重要视角。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cd04a2a1f2443189",
-      "title": "Lower profit margins set to foil Chinese carmakers’ price war plans despite falling sales",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3361876/lower-profit-margins-set-foil-chinese-carmakers-price-war-plans-despite-falling-sales?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T08:00:09.000Z",
-      "summary": "Narrowing profit margins due to higher raw material costs have dealt yet another major blow to China’s carmakers as they face shrinking market demand amid a rollback of purchase subsidies and tax incentives. The dire scenario could also dash Chinese consumers’ hopes for steep discounts, despite carmakers’ efforts to reduce their inventories, according to dealers and analysts. “The crux point is that most carmakers are facing squeezed margins and are unable to offer further price cuts to attract...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3361876/lower-profit-margins-set-foil-chinese-carmakers-price-war-plans-despite-falling-sales?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T08:00:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "军事与安全",
         "能源",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业",
+        "持续关注"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 86,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "1f03148ad2170cac44cc2da9",
-      "isContinuation": false,
-      "titleZh": "尽管销量下滑，利润率下降仍将阻碍中国车企的价格战计划",
-      "summaryZh": "由于原材料成本上升，中国车企的利润空间受到挤压，难以进一步通过降价来刺激需求。分析人士认为，消费者期待的深度折扣可能难以实现。",
-      "whyImportant": "利润率压力限制了中国汽车市场的价格竞争空间，可能导致行业整合加速。",
+      "fingerprint": "240b7d632b6db654fbec5772",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "特朗普在美伊紧张局势升级之际支持皮特·赫格塞斯——事件回顾",
+      "summaryZh": "特朗普表示已暂停对伊朗的军事打击以给予外交机会，但强调若外交失败将采取强硬军事行动。同时，他重申了对以色列的支持。",
+      "whyImportant": "美国在外交与军事手段之间的摇摆，对中东地区的局势稳定具有决定性影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b5cd4c1f2825b708",
-      "title": "CXMT shares rise 472% as DRAM maker becomes largest China-listed firm by total market cap",
+      "id": "1dfb8f5157c0f2c4",
+      "title": "Drivers struggle through floods in Hong Kong’s New Territories amid heavy rain",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3361926/chinas-cxmt-shares-rise-472-star-market-debut-valuing-dram-maker-us489-billion?utm_source=rss_feed",
-      "publishedAt": "2026-07-27T01:46:37.000Z",
-      "summary": "Shares of ChangXin Memory Technologies (CXMT), China’s leading maker of dynamic random-access memory (DRAM) chips, rose 472 per cent on their Shanghai trading debut, giving the company a market capitalisation of 3.31 trillion yuan (US$489 billion). The Hefei-based company opened at 49.50 yuan on the Star Market on Monday morning, compared with its initial public offering (IPO) price of 8.66 yuan. CXMT has become the most valuable company listed on the mainland Chinese market. The size of the...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362054/amber-rainstorm-warning-issued-hong-kong-tuesday-morning?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T00:55:10.000Z",
+      "summary": "Heavy rain has led to flooding in some parts of Hong Kong’s New Territories, with some drivers struggling to navigate waterlogged roads in Tai Po even as the Observatory cancelled the amber rainstorm warning on Tuesday morning. The amber warning, earlier issued at 7.15am, meant that more than 30mm of rain had fallen in an hour, or was expected to fall generally over Hong Kong within that period and was likely to continue. The weather forecaster also warned of flooding in some low-lying and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3361926/chinas-cxmt-shares-rise-472-star-market-debut-valuing-dram-maker-us489-billion?utm_source=rss_feed",
-          "publishedAt": "2026-07-27T01:46:37.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362054/amber-rainstorm-warning-issued-hong-kong-tuesday-morning?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T00:55:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1976,36 +1315,123 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
+        "军事与安全",
+        "科技",
+        "环境",
+        "专题·科技、能源与产业"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
         "科技"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "48b5fd8a1ef79f2740e65ac5",
+      "fingerprint": "291d350bf438e8dc1ce4b6c7",
       "isContinuation": false,
-      "titleZh": "中芯集成（CXMT）股价上涨472%，成为中国市值最大的上市公司",
-      "summaryZh": "DRAM芯片制造商中芯集成在上海证券交易所上市首日股价飙升472%，市值达到3.31万亿元人民币。该公司现已成为中国内地市值最高的上市公司。",
-      "whyImportant": "半导体巨头的上市及其高估值反映了资本市场对中国芯片产业自主可控的高度期待。",
+      "titleZh": "香港新界暴雨引发洪水，司机艰难通行",
+      "summaryZh": "香港新界地区因强降雨出现洪水，导致部分道路积水，司机通行困难。天文台此前曾发出黄色暴雨警告，并提醒低洼地区注意防范。",
+      "whyImportant": "极端天气对香港的交通和城市基础设施造成了直接影响，考验着城市的防灾应对能力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ab37d8a3d8038340",
-      "title": "Pentagon moves 4 killed US troops out of official Iran war death toll",
+      "id": "717ed4d001391a42",
+      "title": "CATL-backed smart driving tech firm to kick off Hong Kong IPO this week: sources",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3361920/pentagons-iran-war-death-toll-no-longer-lists-4-troops-killed-during-renewed-fighting?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T20:39:27.000Z",
-      "summary": "The four American troops killed during renewed fighting between the US and Iran in recent weeks are no longer listed as part of the Iran war death toll in the Pentagon’s official casualty count but have been placed in a new, separate category. It is raising questions about properly counting the impact to US service members as the Trump administration has escalated strikes on Iran in a bid to reopen the Strait of Hormuz, while providing little indication of how it intends to wind down a conflict...",
+      "url": "https://www.scmp.com/business/companies/article/3362061/catl-backed-smart-driving-tech-firm-kick-hong-kong-ipo-week-sources?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T02:46:43.000Z",
+      "summary": "NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology Ltd (CATL), recently passed its listing hearing, signalling it could kick off its book building anytime. Debuts are scheduled for August 7, the sources said, requesting not to be identified as the information is...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361920/pentagons-iran-war-death-toll-no-longer-lists-4-troops-killed-during-renewed-fighting?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T20:39:27.000Z"
+          "url": "https://www.scmp.com/business/companies/article/3362061/catl-backed-smart-driving-tech-firm-kick-hong-kong-ipo-week-sources?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T02:46:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "ce86b28ea6285e296b9d7251",
+      "isContinuation": false,
+      "titleZh": "宁德时代支持的智能驾驶技术公司将于本周启动香港IPO",
+      "summaryZh": "获得宁德时代支持的智能驾驶技术公司NASN Intelligent Tech计划最早于本周启动在港上市程序。该公司已通过上市聆讯，预计将于8月7日正式挂牌。",
+      "whyImportant": "科技企业在港上市的动态反映了资本市场对中国智能驾驶领域的持续关注与投资信心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "16eed3ec96647931",
+      "title": "Police say there were at least 3 shooters at Seattle food festival, 1 among the dead",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362051/police-say-there-were-least-3-shooters-seattle-food-festival-1-among-dead?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T22:53:36.000Z",
+      "summary": "Police now say there were at least three suspects involved in a shoot-out at a crowded food festival near Seattle’s Space Needle over the weekend. One of them was among those killed in the violence. In a document filed in juvenile court in Seattle, where a 15-year-old arrested in the case did not appear for a scheduled initial appearance on Monday, police said they believe there were at least three shooters, rather than two: the 15-year-old; an acquaintance who died at the scene; and “at least...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362051/police-say-there-were-least-3-shooters-seattle-food-festival-1-among-dead?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T22:53:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "2bb56c5f84803d708a6bec09",
+      "isContinuation": false,
+      "titleZh": "警方称西雅图美食节至少有3名枪手，其中1人死亡",
+      "summaryZh": "警方调查显示，西雅图美食节枪击案涉及至少三名嫌疑人，其中包括一名已在现场死亡的同伙。目前一名15岁嫌疑人已被捕。",
+      "whyImportant": "该起公共场所枪击事件再次引发了美国社会对于青少年暴力和公共安全管控的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ef872fdffb1a3157",
+      "title": "UK’s Burnham meets Zelensky, pledges ‘Stone Cloak’ tech for Ukraine’s drones",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3362038/uks-new-pm-burnham-welcomes-zelensky-first-foreign-visitor?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T15:51:04.000Z",
+      "summary": "British Prime Minister Andy Burnham held his first meeting with Ukrainian President Volodymyr Zelensky at a UK naval base on Monday, pledging new “Stone Cloak” jamming technology to help safeguard Ukraine’s drones on the battlefield. The meeting on the dockside and on board an aircraft carrier in the southern city of Portsmouth was Burnham’s first bilateral with a foreign leader and comes ahead of a visit by Zelensky to Washington on Tuesday aimed at ending the four-year war with Russia. “We are...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3362038/uks-new-pm-burnham-welcomes-zelensky-first-foreign-visitor?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T15:51:04.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2015,237 +1441,436 @@
       "tags": [
         "美国重点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "technology",
+        "科技"
       ],
-      "fingerprint": "96df753a26cffe68fbbc3f10",
+      "fingerprint": "a4966dc7a5c48a118bfdb39c",
       "isContinuation": false,
-      "titleZh": "五角大楼将4名阵亡美军士兵从官方伊朗战争死亡人数中移除",
-      "summaryZh": "五角大楼将近期在美伊冲突中阵亡的四名士兵从官方战争死亡名单中移除，并归入新的类别。此举引发了外界对美军在伊朗相关冲突中伤亡统计透明度的质疑。",
-      "whyImportant": "伤亡统计方式的变更可能掩盖了美伊冲突的实际烈度，引发了政治争议。",
+      "titleZh": "英国首相伯纳姆会见泽连斯基，承诺为乌克兰无人机提供“石斗篷”技术",
+      "summaryZh": "英国首相伯纳姆与乌克兰总统泽连斯基举行会晤，承诺提供“石斗篷”干扰技术以保护乌军无人机。这是伯纳姆上任后的首次双边会晤。",
+      "whyImportant": "英国对乌克兰军事技术的支持，显示了其在俄乌冲突中持续发挥关键作用的立场。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "28166422f1382980",
-      "title": "Former President Hernandez returns to Honduras after Trump pardon",
+      "id": "7cd283616125c787",
+      "title": "China’s localised data centre push drives AI ambitions amid overbuilding concerns",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3361988/chinas-localised-data-centre-push-drives-ai-ambitions-amid-overbuilding-concerns?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T14:00:10.000Z",
+      "summary": "Despite their strikingly different approaches to developing and deploying artificial intelligence, one aspect is common across China and the United States: data and computing centres are proliferating in both countries, especially in remote locations. While the US is seeing residents and localities fight back against plans for data centres in their backyards, regional officials in China are embracing them. In fact, in China there is a nationwide scramble for such facilities – considered the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3361988/chinas-localised-data-centre-push-drives-ai-ambitions-amid-overbuilding-concerns?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T14:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "artificial intelligence",
+        "科技"
+      ],
+      "fingerprint": "78ae2400cb1beb167b744f33",
+      "isContinuation": false,
+      "titleZh": "中国推动本地化数据中心建设，在过度建设担忧中追求人工智能雄心",
+      "summaryZh": "尽管面临过度建设的担忧，中国各地政府仍积极推动数据中心建设以支持人工智能发展。与美国部分地区居民抵制数据中心不同，中国地方官员将其视为经济增长点。",
+      "whyImportant": "数据中心建设的差异化路径反映了中美两国在人工智能基础设施布局上的不同策略。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a592706dd32e47a1",
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "publishedAt": "2026-07-27T18:49:20.000Z",
+      "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested […]",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+          "publishedAt": "2026-07-27T18:49:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "f5afe4c17dbb496f9636fa8f",
+      "isContinuation": false,
+      "titleZh": "NASA宇航员克里斯·威廉姆斯将讨论空间站任务",
+      "summaryZh": "NASA宇航员克里斯·威廉姆斯将于8月4日举行新闻发布会，回顾其在国际空间站执行的八个月任务。该活动将通过NASA平台进行直播。",
+      "whyImportant": "宇航员的任务回顾有助于公众了解空间科学研究的最新进展与成果。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c3d069df2d5fa7ff",
+      "title": "Australia news live: Ben Carroll promises new direction for Victoria ahead of ‘high stakes’ election; Moira Deeming quits Liberal party",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
+      "publishedAt": "2026-07-28T03:28:05.000Z",
+      "summary": "Follow updates live Jacinta Allan resigns as Victorian premier before leadership challenge by Ben Carroll Who is Ben Carroll? Get our breaking news email, free app or daily news podcast ACTU president says now is the ‘right time’ to leave Michele O’Neil, the president of the Australian Council of Trade Unions, said it’s the “right time” to leave after she announced her departure alongside ACTU secretary Sally McManus. We thought about this and we just think that it’s time for renewal. The union movement is in good shape. We’ve seen changes in workers’ rights that have made a big difference in workers’ lives. We’ve seen the union movement starting to grow for the first time in decades. And next year will be the 100th anniversary of the ACTU. So we think it’s time for a new leadership team to come in. We have a debt heading towards $200bn in this state. We have teachers out striking in the streets because the state government and Ben Carroll can’t secure a pay deal. We have holes in the roads. You need a majority government to fix those problems, and you need someone with a plan. Now he might performatively call a royal commission tokenistically, now that he’s become leader, but that",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
+          "publishedAt": "2026-07-28T03:28:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "经济",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 75,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2668bf6425773dfa25e78ef6",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻直播：本·卡罗尔在“高风险”选举前承诺维多利亚州新方向；莫伊拉·迪明退出自由党",
+      "summaryZh": "维多利亚州州长杰辛塔·艾伦在面临本·卡罗尔的领导权挑战前辞职。澳大利亚工会理事会主席米歇尔·奥尼尔宣布离职，称现在是领导层更新的合适时机。",
+      "whyImportant": "维多利亚州政坛的领导层更迭及工会高层的变动，正值该州面临严峻的财政和民生挑战，引发了对未来政策走向的广泛关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a78d148d0af53228",
+      "title": "Who is Ben Carroll, the man who has become Victoria’s new premier?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/who-is-ben-carroll-mp-victoria-deputy-premier-faction-jacinta-allan",
+      "publishedAt": "2026-07-28T03:20:36.000Z",
+      "summary": "Carroll, who was elected to parliament in 2012 and says he has always been ambitious, has been sworn in as premier after Jacinta Allan resigned LIVE: Jacinta Allan resigns as premier of Victoria Get our breaking news email, free app or daily news podcast In 2023, when then-public transport minister Ben Carroll failed in his surprising bid to secure the leadership of the Victorian Labor party, he told a press conference: “I was always very keen to rise.” The premier Daniel Andrews had resigned, believing he had locked in his succession plan: his loyal deputy Jacinta Allan as premier, and treasurer Tim Pallas as deputy. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/27/who-is-ben-carroll-mp-victoria-deputy-premier-faction-jacinta-allan",
+          "publishedAt": "2026-07-28T03:20:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 67,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "19bda9c3e6feeaf41bd2af61",
+      "isContinuation": false,
+      "titleZh": "谁是本·卡罗尔，这位成为维多利亚州新州长的人？",
+      "summaryZh": "本·卡罗尔于2012年当选议员，在杰辛塔·艾伦辞职后宣誓就任州长。他曾于2023年竞选工党领导权失败，此次接任标志着他政治抱负的实现。",
+      "whyImportant": "作为维多利亚州的新任领导人，卡罗尔的背景和执政风格将直接影响该州在选举前的政治稳定与政策制定。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6179c1518e530006",
+      "title": "Ben Carroll becomes new premier of Victoria after Jacinta Allan resigns",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+      "publishedAt": "2026-07-28T02:37:49.000Z",
+      "summary": "Allan stepped down from top job before expected spill, saying her deputy has her ‘unqualified support’ Live updates: Jacinta Allan quits as premier of Victoria Who is Ben Carroll? Get our breaking news email, free app or daily news podcast Ben Carroll has been sworn in as the premier of Victoria, after Jacinta Allan resigned and a surprise rival for the Labor leadership emerged after a tumultuous 48 hours for Labor just four months out from the state election. Speaking outside a party room meeting on Tuesday, Labor MP Juliana Addison announced that Carroll had been “unanimously endorsed by the state parliamentary Labor party as our next premier of Victoria”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+          "publishedAt": "2026-07-28T02:37:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "04d9a741235a2489ab9e4fdf",
+      "isContinuation": false,
+      "titleZh": "杰辛塔·艾伦辞职后，本·卡罗尔成为维多利亚州新州长",
+      "summaryZh": "在州选举前四个月的动荡期内，杰辛塔·艾伦辞去州长职务，本·卡罗尔获得工党议会党团的一致支持。这一变动发生在工党内部激烈的领导权竞争之后。",
+      "whyImportant": "维多利亚州政府领导层的突然更迭，增加了该州在即将到来的选举中的政治不确定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8fe27e28c107b278",
+      "title": "Well-connected Melbourne man found guilty of raping former staffer",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/well-connected-melbourne-man-guilty-ntwnfb",
+      "publishedAt": "2026-07-28T01:58:48.000Z",
+      "summary": "Jury finds that the man, who cannot be named, assaulted the woman at his home in March 2023 Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A well-connected Melbourne man has been found guilty of raping a former employee. The man, who cannot be named, faced two counts of rape and one count of sexual assault in the county court of Victoria, and pleaded not guilty. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/28/well-connected-melbourne-man-guilty-ntwnfb",
+          "publishedAt": "2026-07-28T01:58:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7116312386529415b65de285",
+      "isContinuation": false,
+      "titleZh": "墨尔本一名人脉广泛的男子被判强奸前员工罪名成立",
+      "summaryZh": "一名无法公开姓名的墨尔本男子因在2023年3月强奸其前员工，被维多利亚州法院裁定罪名成立。该男子此前面临两项强奸罪和一项性侵犯罪指控。",
+      "whyImportant": "此案因被告的社会背景及案件性质引发了公众对司法公正和职场性暴力问题的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed0ebded0ae81d53",
+      "title": "Trump says Iran talks taking place during pause in US military strikes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
-      "publishedAt": "2026-07-26T20:35:38.000Z",
-      "summary": "Honduran ex-president Juan Orlando Hernandez – who was serving a 45-year prison sentence in the United States for drug trafficking until President Donald Trump pardoned him last year – returned to his home country on Sunday. After touching down in a private plane near the capital, Tegucigalpa, he travelled to a rally in the town of Comayagua. Speaking at a farm in front of hundreds of supporters, Hernandez thanked Trump for the pardon. “The most well-informed president in the world said: ‘I...",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "publishedAt": "2026-07-28T02:47:55.000Z",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
-          "publishedAt": "2026-07-26T20:35:38.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+          "publishedAt": "2026-07-28T02:47:55.000Z"
         },
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3361915/former-honduras-president-hernandez-returns-home-after-trump-pardon?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T16:31:37.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-27T21:10:56.000Z"
         }
       ],
       "sourceCount": 2,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "国际组织"
+        "全球焦点",
+        "军事与安全"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "73e77b45aea034ccb4676a8a",
+      "fingerprint": "2b84308ee7569604f94046bd",
       "isContinuation": false,
-      "titleZh": "前总统埃尔南德斯在特朗普赦免后返回洪都拉斯",
-      "summaryZh": "因毒品走私罪在美国服刑的洪都拉斯前总统胡安·奥兰多·埃尔南德斯，在获得特朗普总统赦免后返回国内。他公开感谢了特朗普的赦免决定。",
-      "whyImportant": "这一赦免决定在洪都拉斯及国际社会引发了关于司法公正和政治干预的讨论。",
+      "titleZh": "特朗普称在美国军事打击暂停期间正在与伊朗进行谈判",
+      "summaryZh": "美国总统表示，在暂停军事打击期间，美伊双方存在通过外交途径解决问题的可能性。伊朗方面则否认了双方正在进行直接对话的说法。",
+      "whyImportant": "美伊之间紧张局势的任何外交进展都对中东地区的和平与全球安全具有重大影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "fd16d725f4514aa0",
-      "title": "‘Not standard’ for Taylor Farms to ask White House to delay cyclospora recall, ex-FDA head says",
+      "id": "9656ffac25623855",
+      "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall",
-      "publishedAt": "2026-07-26T20:01:42.000Z",
-      "summary": "Scott Gottlieb responds to report that company contacted the White House seeking to delay a recall announcement Former Food and Drug Administration commissioner Dr Scott Gottlieb said on Sunday that it was “not standard operating procedure” for Taylor Farms to ask the White House to intervene as the company prepared to announce a recall tied to a massive cyclospora outbreak. Appearing on CBS’s Face the Nation, Gottlieb was asked about a report from the Wall Street Journal that Taylor Farms contacted the White House seeking to delay a recall announcement while federal investigators were preparing to publicly link the company to the multi-state outbreak. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+      "publishedAt": "2026-07-28T02:37:27.000Z",
+      "summary": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say Firefighters in France and Spain are racing to bring huge wildfires under control before another heatwave this week that will complicate efforts to tame the flames. Spain’s interior minister, Fernando Grande-Marlaska, said Monday and Tuesday were “absolutely crucial days” before temperatures rise again from Wednesday, prompting prime minister, Pedro Sánchez, to warn: “We face difficult hours, complex hours” ahead. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall",
-          "publishedAt": "2026-07-26T20:01:42.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 51,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f510c96fbae53a034cd0a97d",
-      "isContinuation": false,
-      "titleZh": "前FDA局长称泰勒农场要求白宫推迟环孢子虫病召回“不符合标准”",
-      "summaryZh": "针对泰勒农场在环孢子虫病爆发期间试图通过白宫推迟召回公告的报道，前FDA局长斯科特·戈特利布表示此举不符合标准操作程序。该事件引发了对企业干预监管流程的担忧。",
-      "whyImportant": "企业试图绕过监管机构的行为损害了公共卫生召回机制的公信力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "46b52f34105da78a",
-      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-      "publishedAt": "2026-07-26T05:00:03.000Z",
-      "summary": "Exclusive: CSI Aviation and GlobalX accused of violating civil rights as part of Trump immigration crackdown Venezuelan men sent last year to a notorious Salvadorian terrorism prison by the Trump administration are suing the US aviation companies that transported them there. A lawsuit filed this week in federal court in Washington DC accuses the companies CSI Aviation and GlobalX of violating the Venezuelans’ civil rights, false imprisonment, intentional infliction of emotional distress, negligence and other violations, for their role in flying the three planes that took the men to El Salvador. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
+          "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+          "publishedAt": "2026-07-28T02:37:27.000Z"
+        },
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-          "publishedAt": "2026-07-26T05:00:03.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3362048/france-and-spain-race-curb-wildfires-new-heatwave-arrives?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T21:09:34.000Z"
         }
       ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 44,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f6ef97f3ba04533f318333b4",
-      "isContinuation": false,
-      "titleZh": "委内瑞拉男子起诉将他们送往萨尔瓦多臭名昭著监狱的航空公司",
-      "summaryZh": "多名委内瑞拉男子对CSI Aviation和GlobalX航空公司提起诉讼，指控其在特朗普政府的移民打击行动中参与非法运输。原告称这些公司侵犯了他们的民权并导致了非法监禁。",
-      "whyImportant": "该诉讼凸显了私人企业在政府移民政策执行中可能面临的法律责任风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8053554040eae409",
-      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
-      "publishedAt": "2026-07-26T18:17:22.000Z",
-      "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
-          "publishedAt": "2026-07-26T18:17:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
         "军事与安全",
-        "科技",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "环境"
       ],
       "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "3b1913235c97214dc5ca4b82",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "228e040071289c87a77935ab",
       "isContinuation": false,
-      "titleZh": "罗马尼亚召见俄罗斯大使，并击落第三架入侵无人机",
-      "summaryZh": "罗马尼亚领空再次遭到入侵，这是近期发生的第三起类似事件。此类违规行为加剧了北约成员国对俄乌战争外溢风险的担忧。",
-      "whyImportant": "北约领空频繁受侵扰增加了地区冲突升级为北约与俄罗斯直接对抗的风险。",
+      "titleZh": "法国和西班牙竞相在新的热浪来临前控制大规模野火",
+      "summaryZh": "法国和西班牙的消防员正争分夺秒地扑灭大规模野火，以应对本周即将到来的新一轮热浪。官员们警告称，未来几天对于控制火势至关重要。",
+      "whyImportant": "极端高温天气加剧了欧洲的野火危机，对当地生态环境和公共安全构成了严重威胁。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6afd7e66d65f2159",
-      "title": "Suspect in Berlin Pride attack shot dead by police after day-long manhunt",
+      "id": "d740ab3ba3f20b96",
+      "title": "Food court stalls caught off guard by rules over plastic serving containers",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3361917/chief-suspect-berlin-pride-attack-shot-dead-police-say?utm_source=rss_feed",
-      "publishedAt": "2026-07-26T18:15:41.000Z",
-      "summary": "The suspect in the deadly Berlin Pride attack that left one person dead and 29 injured was shot and killed by police during a confrontation on Sunday in a suburb of the city, authorities said. Abdul Ballout, a 21-year-old German citizen with Lebanese roots, was killed following a search that lasted nearly 24 hours after the attack in downtown Berlin. Prosecutors said he had previously sought to join the militant Islamic State group. Ballout was suspected of driving a van into a crowd near...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362044/food-court-stalls-caught-guard-rules-over-plastic-serving-containers?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T00:30:08.000Z",
+      "summary": "Hong Kong environmental authorities have warned that restaurant operators must not use disposable tableware coated in plastic for dine-in service, after some owners told the South China Morning Post they were caught off guard by inspectors. The Environmental Protection Department on Monday clarified that paper products with an inner plastic lining could only be used for takeaway orders after a food stall owner at Dragon Centre in Sham Shui Po said he was “shocked” by a warning he...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3361917/chief-suspect-berlin-pride-attack-shot-dead-police-say?utm_source=rss_feed",
-          "publishedAt": "2026-07-26T18:15:41.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362044/food-court-stalls-caught-guard-rules-over-plastic-serving-containers?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T00:30:08.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "军事与安全",
+        "环境"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "c41bc7ea79bd40d92f9dee9a",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3884138e64e5056d3a7cf53b",
       "isContinuation": false,
-      "titleZh": "柏林骄傲游行袭击案嫌疑人在长达一天的搜捕后被警方击毙",
-      "summaryZh": "柏林骄傲游行袭击案的嫌疑人阿卜杜勒·巴鲁特在周日的警方行动中被击毙。该袭击造成一人死亡、29人受伤，嫌疑人此前曾有加入极端组织的意图。",
-      "whyImportant": "嫌疑人的击毙结束了搜捕行动，但该事件对德国社会安全和反恐政策提出了反思。",
+      "titleZh": "美食广场摊位因塑料餐具规定措手不及",
+      "summaryZh": "香港环保署明确规定，堂食不得使用塑料涂层的一次性餐具，仅限外卖使用。部分餐饮业者表示对此规定感到意外，并对执法力度表示担忧。",
+      "whyImportant": "香港推行环保餐具政策的过程中，餐饮业者面临合规压力与经营成本的挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c71c4356a86cec9a",
-      "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
-      "publishedAt": "2026-07-26T17:53:50.000Z",
-      "summary": "Abdul Ballout, 21, reportedly shot in operation at allotment in Spandau district after fatal attack in Tiergarten park A man suspected of driving a van into a crowd near Berlin’s Pride festival then going on a knife rampage in an Islamist terror attack has been shot dead by police, German officials have said. Police confirmed on Sunday evening that the chief suspect had been shot dead, reportedly during an operation at an allotment garden complex ⁠in the capital’s Spandau district. Continue reading...",
+      "id": "2240948effbb027a",
+      "title": "Singapore-based investors now the top non-local buyers of Hong Kong office assets",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/article/3362016/singapore-based-investors-now-top-non-local-buyers-hong-kong-office-assets?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T00:00:15.000Z",
+      "summary": "Singapore-based investors have become the largest group of non-local buyers of commercial properties in Hong Kong, drawn by the sizeable correction in the prices of distressed assets amid a slump in the city’s office segment, according to Colliers. The demand from Singapore was likely to remain steady in the coming months, given that the prices of office assets have declined by as much as 50 per cent, according to Thomas Chak, head of capital markets and investment services at the property...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
-          "publishedAt": "2026-07-26T17:53:50.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/article/3362016/singapore-based-investors-now-top-non-local-buyers-hong-kong-office-assets?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T00:00:15.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "327f1b6aa3dbcb4ebf3e7cb8",
+      "isContinuation": false,
+      "titleZh": "新加坡投资者成为香港办公楼资产最大的非本地买家",
+      "summaryZh": "受香港办公楼市场价格大幅回调影响，新加坡投资者已成为该领域最大的非本地买家。分析认为，随着资产价格下跌，这种投资需求在未来几个月内将保持稳定。",
+      "whyImportant": "外资对香港商业地产的兴趣反映了市场对该地区资产价值重估的预期及资本流向的变化。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "341194e967ffce9a",
+      "title": "Armed police officers to be deployed for UK’s biggest Pride festival",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3362045/armed-police-officers-be-deployed-uks-biggest-pride-festival?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T19:44:20.000Z",
+      "summary": "Armed officers will be deployed for the UK’s largest Pride festival, police said following the attack on Berlin’s Pride event. Defence Secretary Wes Streeting condemned the “absolutely horrific” van and stabbing attack in the German capital that left one person dead and injured at least 29 others. The suspect – named as Abdul B and said to have links to Islamic State – was shot dead by police on Sunday after being on the run for nearly 24 hours. He was suspected of slamming a van into people...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3362045/armed-police-officers-be-deployed-uks-biggest-pride-festival?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T19:44:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2255,21 +1880,281 @@
       "tags": [
         "全球焦点",
         "突发",
-        "专题·军事、安全与突发事件"
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1eef760594ae04c2c4dbad39",
+      "isContinuation": false,
+      "titleZh": "武装警察将被部署到英国最大的骄傲节活动中",
+      "summaryZh": "在柏林骄傲节发生致命袭击事件后，英国警方宣布将为国内最大的骄傲节部署武装警察。英国国防大臣对柏林的袭击事件表示强烈谴责。",
+      "whyImportant": "针对大型公共活动的安保升级，反映了欧洲当前面临的恐怖主义威胁及对社会安全的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2c75130ada43f36f",
+      "title": "In 1976, earthquake in China’s Tangshan kills over 240,000 people – SCMP archive",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/article/3362056/1976-earthquake-chinas-tangshan-kills-over-240000-people-scmp-archive?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T03:30:09.000Z",
+      "summary": "This article was first published on July 29, 1976. Quake rocks Northern China by Staff Reporters Heavy casualties and severe damage to industrial plants and property were feared when the strongest earthquake for 12 years struck the industrial belt of northern Hopei Province early yesterday (July 28, 1976) morning. The tremor was followed by a series of aftershocks and 16 hours after the first quake, an aftershock of almost the same intensity struck the same area, causing further damage and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/article/3362056/1976-earthquake-chinas-tangshan-kills-over-240000-people-scmp-archive?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T03:30:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "公共安全"
+      ],
+      "score": 72,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "dfeb7b519d5b4ac156804203",
+      "isContinuation": false,
+      "titleZh": "1976年，中国唐山地震造成超过24万人死亡——南华早报档案",
+      "summaryZh": "1976年7月28日，中国河北省唐山地区发生强烈地震，造成重大人员伤亡和工业设施损毁。随后的余震进一步加剧了灾区的破坏程度。",
+      "whyImportant": "回顾历史灾难有助于铭记防灾减灾的重要性，并展示了中国在应对重大自然灾害方面的历史进程。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c54df4fcf5a5c816",
+      "title": "China turns to public for help in deadly dam collapse probe after Typhoon Maysak",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3362062/china-turns-public-help-deadly-dam-collapse-probe-after-typhoon-maysak?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T03:02:39.000Z",
+      "summary": "The Chinese government has appealed to the public for clues as part of its investigation into a reservoir dam that collapsed in southern China earlier this month, causing heavy casualties. State media reported on Monday that the public was invited to submit information related to the collapse of the Liulan Reservoir in Hengzhou, Guangxi Zhuang autonomous region on July 6 via a dedicated telephone hotline. People also have until August 15 to post submissions to an investigation and assessment...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3362062/china-turns-public-help-deadly-dam-collapse-probe-after-typhoon-maysak?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T03:02:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "公共安全"
       ],
       "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "c36f34ffc5f18bf66073d6cc",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "4713bb054326dad27ab761fc",
       "isContinuation": false,
-      "titleZh": "官员称警方击毙了柏林骄傲游行驾车撞人及持刀袭击嫌疑人",
-      "summaryZh": "德国官员证实，涉嫌在柏林骄傲游行期间发动驾车撞人及持刀袭击的21岁嫌疑人阿卜杜勒·巴鲁特已被警方击毙。该袭击被定性为伊斯兰恐怖袭击。",
-      "whyImportant": "这起恐怖袭击事件再次引发了德国关于公共安全和极端主义防范的讨论。",
+      "titleZh": "台风“美莎克”后，中国就致命大坝坍塌事故向公众寻求调查线索",
+      "summaryZh": "中国政府就7月6日广西柳兰水库大坝坍塌事故向公众征集线索。当局设立了专门热线，并呼吁知情者在8月15日前提交相关信息。",
+      "whyImportant": "通过公众参与调查大坝事故，体现了政府对基础设施安全和事故问责的重视。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ded2c836290aa18d",
+      "title": "Brazil turns to China trade deal after Trump’s tariffs, as years of resistance end",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3362042/brazil-turns-china-trade-deal-after-trumps-tariffs-years-resistance-end?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T18:46:32.000Z",
+      "summary": "Chinese President Xi Jinping and Brazilian President Luiz Inacio Lula da Silva agreed on Sunday night to accelerate negotiations for a trade agreement between China and Mercosur, a striking reversal for Brasilia, which for years led resistance to such a deal in the South American bloc. The two leaders spoke by telephone for more than an hour, according to a statement from the Brazilian presidency, and “coincided on the importance of speeding up the talks for a Mercosur-China agreement that...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3362042/brazil-turns-china-trade-deal-after-trumps-tariffs-years-resistance-end?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T18:46:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "经济"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c180d237e6a6d5f8795a01f6",
+      "isContinuation": false,
+      "titleZh": "在特朗普关税政策下，巴西结束多年抵制，转向与中国达成贸易协议",
+      "summaryZh": "巴西总统卢拉与中国国家主席习近平通话，同意加快南方共同市场与中国之间的贸易协议谈判。这一决定标志着巴西在贸易政策上的重大转变。",
+      "whyImportant": "巴西与中国加强贸易合作的意向，显示了全球贸易格局在关税压力下的重组与调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5f1caf50bd596e42",
+      "title": "US walks out on France at UN over human rights criticism",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362059/us-walks-out-france-un-over-human-rights-criticism?utm_source=rss_feed",
+      "publishedAt": "2026-07-28T02:38:02.000Z",
+      "summary": "US diplomats walked out as their French counterparts were speaking at the United Nations on Monday after America’s close European ally criticised the Trump administration’s human rights record. The surprise move during a UN Security Council meeting on Ukraine followed US opposition to giving UN human rights chief Volker Turk another four-year term. The reappointment on Friday got overwhelming support, including from France. The US walkout reflects not only the more strained relations between...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362059/us-walks-out-france-un-over-human-rights-criticism?utm_source=rss_feed",
+          "publishedAt": "2026-07-28T02:38:02.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 67,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0a3e93d4862407cf98017a51",
+      "isContinuation": false,
+      "titleZh": "美国在联合国就人权批评问题上对法国采取离场抗议",
+      "summaryZh": "在联合国安理会会议上，美国外交官因不满法国对其人权记录的批评而选择离场。此举反映了美法两国在人权议题及联合国人事任命上的分歧。",
+      "whyImportant": "美法外交摩擦凸显了西方盟友在国际多边机构中日益加剧的政策分歧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e3b44dfacb93fec0",
+      "title": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "summary": "Iran says US 'struggling' to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
+          "publishedAt": "2026-07-28T00:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "fdc4ab0a43e72086d9114401",
+      "isContinuation": false,
+      "titleZh": "伊朗战争直播：特朗普称“友好”谈判正在进行；内塔尼亚胡抵达美国",
+      "summaryZh": "伊朗指责美国在结束战争方面进展缓慢，与此同时，内塔尼亚胡抵达华盛顿与特朗普进行会谈。双方正就当前局势进行外交接触。",
+      "whyImportant": "美伊及美以之间的密集外交活动，是决定中东冲突走向的关键因素。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6bb551ef63d2560b",
+      "title": "US-Canada bridge opens in Detroit even as trade disputes test the neighbours’ ties",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362041/us-canada-bridge-opens-detroit-even-trade-disputes-test-neighbours-ties?utm_source=rss_feed",
+      "publishedAt": "2026-07-27T18:34:43.000Z",
+      "summary": "A major new bridge linking Canada and the United States at Detroit, Michigan opened on Monday to lorries, cars and other vehicles, the climax of a years-long project that lately had been bruised a bit by international politics. Descendants of Gordie Howe, the hockey legend whose name is on the bridge, were among the first to cross over the Detroit River, which separates Detroit from Windsor, Ontario. The span, which was built by Canada at a cost of C$6.4 billion (US$4.5 billion), now becomes a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362041/us-canada-bridge-opens-detroit-even-trade-disputes-test-neighbours-ties?utm_source=rss_feed",
+          "publishedAt": "2026-07-27T18:34:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c34a41e8a7712a7d000702e3",
+      "isContinuation": false,
+      "titleZh": "美加底特律大桥开通，贸易争端考验邻国关系",
+      "summaryZh": "连接美国底特律和加拿大温莎的戈迪·豪大桥于周一正式通车。尽管该项目耗资巨大，但近期两国间的贸易争端为双边关系蒙上了阴影。",
+      "whyImportant": "新大桥的开通虽促进了物流，但美加之间持续的贸易摩擦仍是影响两国经济合作的主要障碍。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e8639e36af927d65",
+      "title": "Presidential Message on National Korean War Veterans Armistice Day",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-national-korean-war-veterans-armistice-day-3cd7/",
+      "publishedAt": "2026-07-27T22:51:46.000Z",
+      "summary": "Today, our Nation marks the 82nd anniversary of the American liberation of Guam—the day the United States shattered a brutal occupation and carried freedom back to an island that had endured more than 2 years of suffering As our Nation observes National Korean War Veterans Armistice Day, we honor the extraordinary courage and devotion of […] The post Presidential Message on National Korean War Veterans Armistice Day appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-national-korean-war-veterans-armistice-day-3cd7/",
+          "publishedAt": "2026-07-27T22:51:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3cdcb3c8916114862c7d3881",
+      "isContinuation": false,
+      "titleZh": "总统关于朝鲜战争停战纪念日的致辞",
+      "summaryZh": "美国总统在纪念朝鲜战争停战纪念日之际，向参战老兵的勇气与奉献表示敬意。同时，致辞还提到了美国解放关岛82周年的纪念活动。",
+      "whyImportant": "总统的纪念致辞旨在强化国家历史记忆，并向退伍军人表达政府的认可与尊重。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
