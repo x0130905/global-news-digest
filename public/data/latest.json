@@ -1,209 +1,42 @@
 {
-  "date": "2026-08-03",
-  "generatedAt": "2026-08-03T03:52:59.746Z",
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T03:35:31.218Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "security",
-    "name": "军事、安全与突发事件",
-    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
-    "query": "military security conflict breaking crisis",
+    "slug": "technology-energy",
+    "name": "科技、能源与产业",
+    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
+    "query": "technology artificial intelligence semiconductor energy industry",
     "keywords": [
-      "military",
-      "war",
-      "missile",
-      "security",
-      "attack",
-      "ceasefire",
-      "军事",
-      "战争",
-      "导弹",
-      "袭击",
-      "停火",
-      "突发"
+      "technology",
+      "artificial intelligence",
+      "semiconductor",
+      "space",
+      "energy",
+      "科技",
+      "人工智能",
+      "芯片",
+      "太空",
+      "能源"
     ],
-    "accent": "#f97316"
+    "accent": "#06b6d4"
   },
-  "overview": "今日专题“军事、安全与突发事件”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "5ee9d1ae99cb8dd2",
-      "title": "Massive Attack speak about ‘surreal experience’ of being banned from Singapore over Palestinian flag",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/music/2026/aug/03/massive-attack-singapore-ban-palestine-flag",
-      "publishedAt": "2026-08-03T02:19:26.000Z",
-      "summary": "British band say they are ‘proud to have made this impromptu expression with our fans in Singapore’, where open display of all foreign flags is banned Massive Attack have called being banned from Singapore a “surreal experience” after displaying a Palestinian flag during their show. On Wednesday, the English trip-hop collective – whose current lineup includes Robert “3D” Del Naja and Grant “Daddy G” Marshall – played a show at the Star theatre. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/music/2026/aug/03/massive-attack-singapore-ban-palestine-flag",
-          "publishedAt": "2026-08-03T02:19:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 74,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "7e1af31cbc8e4f3b8476f6ef",
-      "isContinuation": false,
-      "titleZh": "Massive Attack乐队谈及因展示巴勒斯坦国旗被新加坡禁演的“超现实经历”",
-      "summaryZh": "英国乐队Massive Attack在新加坡演出时展示巴勒斯坦国旗，随后被当地禁止入境。该乐队表示，尽管新加坡禁止公开展示外国国旗，但他们对与粉丝进行的这次即兴表达感到自豪。",
-      "whyImportant": "此事件凸显了新加坡对公共场合展示外国政治符号的严格管控，以及国际艺人在表达政治立场时面临的法律风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8eb31159f06a749e",
-      "title": "熊本 地震活動続く 酷暑日予想 屋外での作業控え熱中症対策を",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
-      "publishedAt": "2026-08-03T03:50:01.000Z",
-      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけています。熊本県では、日中の最高気温がところによって40度と記録的な暑さになると予想されています。気象庁は、3日は自宅の片づけなど屋外での作業は控え、できるかぎりの熱中症対策をするよう呼びかけています。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
-          "publishedAt": "2026-08-03T03:50:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "506138fda4e97760d051b087",
-      "isContinuation": false,
-      "titleZh": "熊本县地震活动持续，预计将迎酷暑，呼吁民众防范中暑",
-      "summaryZh": "日本熊本县地震活动依然活跃，气象厅警告未来仍可能发生震度7级的地震。当地预计将出现40度的高温天气，气象厅呼吁民众减少户外作业并做好防暑措施。",
-      "whyImportant": "地震灾区面临极端高温的双重威胁，增加了灾后重建和民众生活的安全风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "acbc0e699627b25d",
-      "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+      "id": "d951b278b80f9252",
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks underway",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-      "publishedAt": "2026-08-03T03:17:33.000Z",
-      "summary": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+      "publishedAt": "2026-08-04T02:56:26.000Z",
+      "summary": "Benchmark S&P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-          "publishedAt": "2026-08-03T03:17:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "82f4d8c58fd7e20f46e79baa",
-      "isContinuation": false,
-      "titleZh": "特朗普暂停对伊朗的“大规模攻击”，称将开启新谈判",
-      "summaryZh": "美国总统特朗普在取消对伊朗的攻击计划后表示，双方将于周一以谈判形式开启新对话。此举标志着美伊紧张局势出现转折。",
-      "whyImportant": "美伊关系的缓和与否直接影响中东地区的军事安全与全球能源市场稳定。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c81a6af60f44ef95",
-      "title": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
-      "publishedAt": "2026-08-03T03:08:24.000Z",
-      "summary": "Former Liberal, ‘anti-woke’ film animator and councillor who says he used to work on Daniel Andrews’ security team among lineup for November’s state poll One Nation has named its first candidates for the upcoming Victorian state election, as the party leader, Pauline Hanson, has vowed to ban the ABC and the Guardian from attending her press conferences during the campaign. Guardian Australia understands reporters from the ABC and the Age were refused entry to Hanson’s press conference on Monday, where she announced seven of the eight candidates who will lead One Nation’s upper house tickets. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
-          "publishedAt": "2026-08-03T03:08:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "856f9a72cd8cbfcf2c72ba27",
-      "isContinuation": false,
-      "titleZh": "“单一民族党”公布维多利亚州选举候选人，韩森禁止澳广和卫报参加新闻发布会",
-      "summaryZh": "“单一民族党”公布了维多利亚州选举的首批候选人名单。党魁宝琳·韩森在竞选期间禁止澳大利亚广播公司（ABC）和《卫报》记者参加其新闻发布会。",
-      "whyImportant": "此举引发了关于媒体自由和政治透明度的争议，反映了该党与主流媒体之间日益紧张的关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "66ff52df141604f6",
-      "title": "In message from US jail, Maduro weighs in on Venezuela transition talks",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T20:40:52.000Z",
-      "summary": "Venezuela’s imprisoned former leader Nicolas Maduro on Sunday welcomed “any path to dialogue”, ahead of a US-backed meeting in the coming week between representatives of the Latin American country’s interim government and opposition leaders. The leftist Maduro and his wife Cilia Flores were captured in a US military raid in January and are being held in a New York detention centre awaiting trial on charges related to drug and firearms trafficking. They have pleaded not guilty. “We welcome any...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T20:40:52.000Z"
+          "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+          "publishedAt": "2026-08-04T02:56:26.000Z"
         }
       ],
       "sourceCount": 1,
@@ -212,166 +45,120 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "金融",
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "military",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "13f751a22f178de54a63c41f",
+      "fingerprint": "8803e42ce8997eff767ea707",
       "isContinuation": false,
-      "titleZh": "马杜罗从美国监狱发声，就委内瑞拉过渡谈判发表看法",
-      "summaryZh": "被关押在美国的委内瑞拉前领导人马杜罗表示欢迎任何形式的对话。他目前因涉嫌毒品和武器走私指控在纽约候审。",
-      "whyImportant": "马杜罗的表态为委内瑞拉国内的政治过渡进程增添了复杂性，并受到国际社会的密切关注。",
+      "titleZh": "美股接近历史高点，特朗普称伊朗谈判正在进行，油价下跌",
+      "summaryZh": "标普500指数接近历史峰值。与此同时，华盛顿与德黑兰就谈判状态各执一词，市场对地缘政治局势的反应导致油价下跌。",
+      "whyImportant": "美伊关系的波动直接影响全球能源市场及金融市场的稳定性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cde6fc9b26a2fb38",
-      "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-      "publishedAt": "2026-08-02T19:39:32.000Z",
-      "summary": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem's Old City.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-          "publishedAt": "2026-08-02T19:39:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "8e8a1892752ea3e8db0c5263",
-      "isContinuation": false,
-      "titleZh": "以色列人在耶路撒冷老城袭击亚美尼亚修道院",
-      "summaryZh": "有视频显示，六名以色列犹太人在耶路撒冷老城的圣詹姆斯修道院入口处向建筑吐口水。该事件引发了对宗教场所安全和种族歧视的关注。",
-      "whyImportant": "此类针对宗教场所的挑衅行为加剧了耶路撒冷本已脆弱的宗教与民族紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b2cbc25933a5149f",
-      "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-      "publishedAt": "2026-08-02T19:08:06.000Z",
-      "summary": "Tehran's announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-          "publishedAt": "2026-08-02T19:08:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a0cf255e488967741c230dad",
-      "isContinuation": false,
-      "titleZh": "伊朗称与阿曼就霍尔木兹海峡问题的谈判已进入最后阶段",
-      "summaryZh": "在特朗普宣布推迟对伊朗的新攻击以寻求快速协议后，德黑兰方面宣布与阿曼的谈判进展顺利。双方正致力于缓解海峡地区的紧张局势。",
-      "whyImportant": "霍尔木兹海峡是全球石油运输的关键通道，相关谈判的进展对全球能源供应安全至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7a60247489d5a21b",
-      "title": "Beijing warns Manila of ‘powerful’ South China Sea toolbox ready for ‘head-on blow’",
+      "id": "88c10a5a2280ef5c",
+      "title": "Can a tech titan ace a test to fix India’s crisis-hit education system?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3362700/beijing-warns-manila-powerful-south-china-sea-toolbox-ready-head-blow?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T10:00:08.000Z",
-      "summary": "Beijing had a “rich and powerful” toolkit to use against those who “make waves” in the South China Sea, China’s military mouthpiece warned on Sunday, following efforts by Manila to map out its claim to a disputed shoal. The PLA Daily warning came a day after the Chinese military mounted joint naval and air drills near Scarborough Shoal, a contested group of low-lying rocky islets known as Huangyan Island in China and Panatag Shoal in the Philippines. “We also issue a stern warning to forces...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3362859/can-tech-titan-ace-test-fix-indias-crisis-hit-education-system?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T03:00:10.000Z",
+      "summary": "India’s tech titan Nandan Nilekani faces an uphill battle overhauling the country’s education system amid exam scandals, student protests and rising youth unemployment. Nilekani, co-founder of technology behemoth Infosys, was appointed head of a national task force for exam reforms following widespread anger and controversies over alleged paper leaks involving the competitive exam for aspiring doctors, the National Eligibility Entrance Test. Analysts say the real test for a reformer best known...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3362700/beijing-warns-manila-powerful-south-china-sea-toolbox-ready-head-blow?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T10:00:08.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3362859/can-tech-titan-ace-test-fix-indias-crisis-hit-education-system?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T03:00:10.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "全球焦点",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "military",
-        "war",
-        "军事"
+        "technology",
+        "科技"
       ],
-      "fingerprint": "43f4b2aeda983244ada94d04",
+      "fingerprint": "ee9918eada57d50a4440cc99",
       "isContinuation": false,
-      "titleZh": "北京警告马尼拉：已准备好“强有力”的南海工具箱以应对“正面打击”",
-      "summaryZh": "中国军方媒体警告称，针对在南海“兴风作浪”的行为，中国拥有丰富且强有力的应对手段。此前，中国在黄岩岛附近举行了海空联合演习。",
-      "whyImportant": "中菲在南海的对峙升级，增加了区域军事冲突的风险，并考验着双边外交关系。",
+      "titleZh": "科技巨头能否通过考试改革来解决印度的教育危机？",
+      "summaryZh": "印度科技巨头南丹·尼勒卡尼被任命为考试改革特别工作组负责人，以应对考试丑闻和学生抗议。他面临着解决教育系统腐败和青年失业问题的艰巨挑战。",
+      "whyImportant": "印度教育系统的改革成败直接关系到该国未来的人才储备及社会稳定。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "5ee9d1ae99cb8dd2",
-      "title": "Massive Attack speak about ‘surreal experience’ of being banned from Singapore over Palestinian flag",
+      "id": "bb6b0d48a490169c",
+      "title": "Russia says Ukrainian drone attack kills 7 at Black Sea resort beach",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3362864/russia-says-ukrainian-drone-attack-kills-7-black-sea-resort-beach?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T03:15:36.000Z",
+      "summary": "Russia said on Monday that seven people, including three children, had been killed and 40 injured at its Black Sea holiday resort of Gelendzhik in what it said was a deliberate Ukrainian drone attack on civilians. There was no immediate comment from Ukraine, which like Russia, ‌says it does not deliberately target civilians in the full-scale war which Moscow launched in 2022. Social media videos, verified by Reuters, showed what appears to be a drone slamming into a busy beach area near the town...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3362864/russia-says-ukrainian-drone-attack-kills-7-black-sea-resort-beach?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T03:15:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "4bba7c5e3635f6770b02bff4",
+      "isContinuation": false,
+      "titleZh": "俄罗斯称乌克兰无人机袭击导致黑海度假海滩7人死亡",
+      "summaryZh": "俄罗斯方面称，乌克兰无人机对黑海度假胜地格连吉克发动了蓄意袭击，造成包括三名儿童在内的7人死亡，另有40人受伤。乌克兰方面对此暂无回应，且此前一直否认在战争中蓄意针对平民。",
+      "whyImportant": "此次事件若属实，将标志着俄乌冲突中针对平民目标的袭击进一步升级，可能引发更严重的报复行动。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "73e51061091b751a",
+      "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – as it happened",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/music/2026/aug/03/massive-attack-singapore-ban-palestine-flag",
-      "publishedAt": "2026-08-03T02:19:26.000Z",
-      "summary": "British band say they are ‘proud to have made this impromptu expression with our fans in Singapore’, where open display of all foreign flags is banned Massive Attack have called being banned from Singapore a “surreal experience” after displaying a Palestinian flag during their show. On Wednesday, the English trip-hop collective – whose current lineup includes Robert “3D” Del Naja and Grant “Daddy G” Marshall – played a show at the Star theatre. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
+      "publishedAt": "2026-08-04T01:59:51.000Z",
+      "summary": "This live blog is now closed. Sign up for the US Breaking News email On Tuesday, we’ll bring you the latest from Michigan where voters will head to the polls for competitive primaries in Senate and House races. The most closely watched competition is the Democratic primary for the US Senate, where congresswoman Haley Stevens is up against former public health official Abdul El-Sayed. They’re vying to ultimately win the seat of outgoing senator Gary Peters in November. The race has now turned into a proxy battle for the future of the Democratic party. Establishment-backed Stevens has received support from party leaders and her race has been buoyed by millions from the pro-Israel lobby. Meanwhile the insurgent El-Sayed has built a strong grassroots movement and is endorsed by progressives lawmakers in the Democratic caucus. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/music/2026/aug/03/massive-attack-singapore-ban-palestine-flag",
-          "publishedAt": "2026-08-03T02:19:26.000Z"
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
+          "publishedAt": "2026-08-04T01:59:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -382,38 +169,114 @@
         "全球焦点",
         "突发",
         "国际组织",
-        "专题·军事、安全与突发事件"
+        "持续关注"
       ],
-      "score": 74,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "7e1af31cbc8e4f3b8476f6ef",
-      "isContinuation": false,
-      "titleZh": "Massive Attack乐队谈及因展示巴勒斯坦国旗被新加坡禁演的“超现实经历”",
-      "summaryZh": "英国乐队Massive Attack在新加坡演出时展示巴勒斯坦国旗，随后被当地禁止入境。该乐队表示，尽管新加坡禁止公开展示外国国旗，但他们对与粉丝进行的这次即兴表达感到自豪。",
-      "whyImportant": "此事件凸显了新加坡对公共场合展示外国政治符号的严格管控，以及国际艺人在表达政治立场时面临的法律风险。",
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b5fa174b737242fd213747b5",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "特朗普拒绝在虐待指控中要求马克斯·米勒辞职",
+      "summaryZh": "美国密歇根州即将举行竞争激烈的初选，其中民主党参议院初选成为关注焦点。现任众议员海莉·史蒂文斯与前公共卫生官员阿卜杜勒·埃尔-赛义德展开角逐，该选战被视为民主党未来走向的代理人战争。",
+      "whyImportant": "密歇根州的初选结果将反映民主党内部建制派与进步派之间的力量对比，对后续选举格局具有重要影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8eb31159f06a749e",
-      "title": "熊本 地震活動続く 酷暑日予想 屋外での作業控え熱中症対策を",
+      "id": "e6341e93497b30a9",
+      "title": "Japan’s prime minister tours earthquake-hit sites as recovery efforts hampered by soaring temperatures",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/04/japan-earthquake-prime-minister-visit-recovery-heat-sanae-takaichi",
+      "publishedAt": "2026-08-04T00:59:38.000Z",
+      "summary": "Prime minister Sanae Takaichi visited Kumamoto prefecture almost a week after a magnitude 7.1 quake hit, killing 38 people Japan’s prime minister, Sanae Takaichi, has visited the south-western prefecture of Kumamoto, where recovery efforts are being hampered by heat and a lack of water supplies, almost a week after a magnitude 7.1 earthquake killed dozens and caused widespread damage. Thirty-eight people died during the quake, including one person who died of apparent heatstroke while taking shelter in a car in hot weather, officials said on Monday. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/04/japan-earthquake-prime-minister-visit-recovery-heat-sanae-takaichi",
+          "publishedAt": "2026-08-04T00:59:38.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "持续关注"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f313425349e5243649659cd3",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "日本首相视察地震灾区，高温天气阻碍救援工作",
+      "summaryZh": "日本首相高市早苗视察了熊本县地震灾区，该地区一周前遭遇7.1级地震，已造成38人死亡。目前灾区面临高温和供水不足的严峻挑战，救援工作进展缓慢。",
+      "whyImportant": "极端天气叠加地震灾害对日本政府的应急响应能力提出了严峻考验，并引发了对灾民安置条件的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cf1d480f2d64fd28",
+      "title": "Australia news live: St Kilda may lose hundreds of little penguins to bird flu; corruption inquiry told of $50,000 branch stacking scheme",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
+      "publishedAt": "2026-08-04T03:22:25.000Z",
+      "summary": "Follow today’s news live. Get our breaking news email, free app or daily news podcast Murray Watt, the federal environment minister, was asked earlier about former rugby league star Luke Bateman’s testimony before a parliamentary inquiry on gambling reform. Bateman alleged betting company promoters supplied him with cocaine and alcohol, also alleging he attended private Gold Coast events hosted by gambling firms where senior figures took illegal drugs with clients. We all feel for him and the circumstances that he went through. And for anyone to be offering illegal drugs as an inducement or for any other reason is obviously a crime. Should not be committed and people should pay a price if they’re engaging in that kind of criminal behavior. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
+          "publishedAt": "2026-08-04T03:22:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "环境"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "53186774187336b1ee71d906",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻：圣基尔达小企鹅恐因禽流感大量死亡；腐败调查揭露5万美元“堆票”计划",
+      "summaryZh": "澳大利亚联邦环境部长就前橄榄球明星卢克·贝特曼关于博彩公司提供非法药物的指控作出回应。此外，圣基尔达地区的小企鹅正面临禽流感的威胁。",
+      "whyImportant": "博彩行业的腐败指控和生态环境危机同时引发了澳大利亚公众对社会治理和环境保护的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5940a31482a9437a",
+      "title": "北陸と東北が梅雨明け 気象庁発表 熱中症対策の徹底を",
       "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
-      "publishedAt": "2026-08-03T03:50:01.000Z",
-      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけています。熊本県では、日中の最高気温がところによって40度と記録的な暑さになると予想されています。気象庁は、3日は自宅の片づけなど屋外での作業は控え、できるかぎりの熱中症対策をするよう呼びかけています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195591000.html",
+      "publishedAt": "2026-08-04T03:19:54.000Z",
+      "summary": "気象庁は、4日午前、北陸と東北南部、東北北部が「梅雨明けしたとみられる」と発表しました。すべての地域で梅雨明けしたことになりますが、福岡県では39度の危険な暑さが予想されているほか、熊本地震の被災地でも猛烈な暑さが予想されています。引き続き、熱中症への対策を徹底してください。",
       "language": "",
       "region": "asia",
       "crossSources": [
         {
           "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
-          "publishedAt": "2026-08-03T03:50:01.000Z"
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195591000.html",
+          "publishedAt": "2026-08-04T03:19:54.000Z"
         }
       ],
       "sourceCount": 1,
@@ -422,327 +285,35 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
         "突发"
-      ],
-      "fingerprint": "506138fda4e97760d051b087",
-      "isContinuation": false,
-      "titleZh": "熊本县地震活动持续，预计将迎酷暑，呼吁民众防范中暑",
-      "summaryZh": "日本熊本县地震活动依然活跃，气象厅警告未来仍可能发生震度7级的地震。当地预计将出现40度的高温天气，气象厅呼吁民众减少户外作业并做好防暑措施。",
-      "whyImportant": "地震灾区面临极端高温的双重威胁，增加了灾后重建和民众生活的安全风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "acbc0e699627b25d",
-      "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-      "publishedAt": "2026-08-03T03:17:33.000Z",
-      "summary": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-          "publishedAt": "2026-08-03T03:17:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "82f4d8c58fd7e20f46e79baa",
-      "isContinuation": false,
-      "titleZh": "特朗普暂停对伊朗的“大规模攻击”，称将开启新谈判",
-      "summaryZh": "美国总统特朗普在取消对伊朗的攻击计划后表示，双方将于周一以谈判形式开启新对话。此举标志着美伊紧张局势出现转折。",
-      "whyImportant": "美伊关系的缓和与否直接影响中东地区的军事安全与全球能源市场稳定。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c81a6af60f44ef95",
-      "title": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
-      "publishedAt": "2026-08-03T03:08:24.000Z",
-      "summary": "Former Liberal, ‘anti-woke’ film animator and councillor who says he used to work on Daniel Andrews’ security team among lineup for November’s state poll One Nation has named its first candidates for the upcoming Victorian state election, as the party leader, Pauline Hanson, has vowed to ban the ABC and the Guardian from attending her press conferences during the campaign. Guardian Australia understands reporters from the ABC and the Age were refused entry to Hanson’s press conference on Monday, where she announced seven of the eight candidates who will lead One Nation’s upper house tickets. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
-          "publishedAt": "2026-08-03T03:08:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "856f9a72cd8cbfcf2c72ba27",
-      "isContinuation": false,
-      "titleZh": "“单一民族党”公布维多利亚州选举候选人，韩森禁止澳广和卫报参加新闻发布会",
-      "summaryZh": "“单一民族党”公布了维多利亚州选举的首批候选人名单。党魁宝琳·韩森在竞选期间禁止澳大利亚广播公司（ABC）和《卫报》记者参加其新闻发布会。",
-      "whyImportant": "此举引发了关于媒体自由和政治透明度的争议，反映了该党与主流媒体之间日益紧张的关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cde6fc9b26a2fb38",
-      "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-      "publishedAt": "2026-08-02T19:39:32.000Z",
-      "summary": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem's Old City.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-          "publishedAt": "2026-08-02T19:39:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "8e8a1892752ea3e8db0c5263",
-      "isContinuation": false,
-      "titleZh": "以色列人在耶路撒冷老城袭击亚美尼亚修道院",
-      "summaryZh": "有视频显示，六名以色列犹太人在耶路撒冷老城的圣詹姆斯修道院入口处向建筑吐口水。该事件引发了对宗教场所安全和种族歧视的关注。",
-      "whyImportant": "此类针对宗教场所的挑衅行为加剧了耶路撒冷本已脆弱的宗教与民族紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b2cbc25933a5149f",
-      "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-      "publishedAt": "2026-08-02T19:08:06.000Z",
-      "summary": "Tehran's announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-          "publishedAt": "2026-08-02T19:08:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a0cf255e488967741c230dad",
-      "isContinuation": false,
-      "titleZh": "伊朗称与阿曼就霍尔木兹海峡问题的谈判已进入最后阶段",
-      "summaryZh": "在特朗普宣布推迟对伊朗的新攻击以寻求快速协议后，德黑兰方面宣布与阿曼的谈判进展顺利。双方正致力于缓解海峡地区的紧张局势。",
-      "whyImportant": "霍尔木兹海峡是全球石油运输的关键通道，相关谈判的进展对全球能源供应安全至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "81acd12d8446b16b",
-      "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-      "publishedAt": "2026-08-03T00:00:15.000Z",
-      "summary": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-          "publishedAt": "2026-08-03T00:00:15.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
       ],
       "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "615570587c2be82e5dc79fa4",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "749e55f36b4a1db86b4a1048",
       "isContinuation": false,
-      "titleZh": "伊朗战争直播：特朗普称谈判将重启；德黑兰敦促美国遵守谅解备忘录",
-      "summaryZh": "美国总统特朗普表示与伊朗的协议即将达成，谈判将于周一重启。伊朗方面则强调美国应履行此前签署的谅解备忘录。",
-      "whyImportant": "外交谈判的重启为缓解美伊军事冲突提供了窗口，但双方对协议的执行预期仍存在分歧。",
+      "titleZh": "气象厅宣布北陆和东北地区梅雨结束，呼吁严防中暑",
+      "summaryZh": "日本气象厅宣布北陆、东北南部及北部地区梅雨季节结束。随着全国进入盛夏，多地预计将出现极端高温，政府呼吁民众务必采取防暑措施。",
+      "whyImportant": "梅雨结束标志着日本进入高温高湿的夏季，防暑降温成为公共卫生领域的首要任务。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "11dc02ea30fd644e",
-      "title": "张优杰 ： 超越欧洲 北约将如何塑造亚洲安全秩序 | 八方论见 | 评论",
-      "source": "orientaldaily.com.my",
-      "url": "https://www.orientaldaily.com.my/news/lunjian/2026/08/03/837760",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "orientaldaily.com.my",
-          "url": "https://www.orientaldaily.com.my/news/lunjian/2026/08/03/837760",
-          "publishedAt": "2026-08-03T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "81aa324209b70a633c35e137",
-      "isContinuation": false,
-      "titleZh": "张优杰：超越欧洲，北约将如何塑造亚洲安全秩序",
-      "summaryZh": "本文探讨了北约在亚洲安全事务中日益增长的影响力。分析指出北约正试图通过调整战略来重塑亚洲的安全格局。",
-      "whyImportant": "北约向亚洲的战略重心转移正在改变区域地缘政治平衡，引发了关于亚洲安全架构演变的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5fea24831ff7e5cd",
-      "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
-      "publishedAt": "2026-08-02T23:54:50.000Z",
-      "summary": "Authorities issue alert saying indoor spaces without airconditioning are ‘dangerous’ as temperatures pass 40C for fifth straight day South Korea has registered its highest temperature since records began more than a century ago, as authorities warned people to “immediately” stop all outdoor activities in affected areas. The south-eastern city of Yangsan saw the temperature reach 42.5C on Sunday afternoon, the Korea Meteorological Administration (KMA) said, the highest temperature reported since modern weather observation began in 1904. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
-          "publishedAt": "2026-08-02T23:54:50.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "056f57267ac0e0b29ac00b60",
-      "isContinuation": false,
-      "titleZh": "“停止所有户外活动”：韩国记录下有史以来最高气温",
-      "summaryZh": "韩国气象部门报告称，东南部城市阳山气温达到42.5摄氏度，创下自1904年有记录以来的最高值。当局已发布紧急预警，要求民众停止户外活动。",
-      "whyImportant": "极端高温天气对公共卫生构成严重威胁，并对韩国的社会运作和能源供应提出了挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "92594528a9c6358b",
-      "title": "震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」",
+      "id": "d501cdf40da929d8",
+      "title": "熊本地震の復旧へ予備費支出を決定 プッシュ型の物資支援など",
       "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194551000.html",
-      "publishedAt": "2026-08-02T20:10:49.000Z",
-      "summary": "震度7を観測した熊本県氷川町で、地震直後、高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後、死亡したことが家族への取材でわかりました。地震により亡くなったとみられ2日夜の通夜で取材に応じた父親は「まだ信じられず、ことばにできない」と声を詰まらせながら話していました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195671000.html",
+      "publishedAt": "2026-08-04T03:15:14.000Z",
+      "summary": "政府は今回の熊本地震の復旧を迅速に進めるとして、今年度予算の予備費から242億円余りを支出することを決めました。",
       "language": "",
       "region": "asia",
       "crossSources": [
         {
           "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194551000.html",
-          "publishedAt": "2026-08-02T20:10:49.000Z"
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195671000.html",
+          "publishedAt": "2026-08-04T03:15:14.000Z"
         }
       ],
       "sourceCount": 1,
@@ -751,40 +322,222 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
         "突发"
       ],
-      "fingerprint": "f1dac11e42df266a33fc46b1",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c82a55c52816507032fbe18e",
       "isContinuation": false,
-      "titleZh": "震度7级的冰川町：高中生在家中死亡，父亲称“仍无法相信”",
-      "summaryZh": "在发生震度7级地震的熊本县冰川町，一名高中一年级女生被发现死于家中。其父亲在守灵仪式上表示对女儿的离世感到难以置信。",
-      "whyImportant": "地震造成的生命损失引发了社会对灾区青少年心理健康及家庭支持的关注。",
+      "titleZh": "政府决定从预备费中支出资金用于熊本震后恢复",
+      "summaryZh": "为加快熊本震后恢复工作，日本政府决定从本年度预算预备费中拨出约242亿日元。资金将用于包括“推式”物资援助在内的紧急救灾措施。",
+      "whyImportant": "政府迅速拨付专项资金体现了对灾后重建工作的重视，旨在缓解灾区物资匮乏的燃眉之急。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "247fb83d8f1cd038",
+      "title": "“今回の熊本地震 特に暑さ対策が重要” 現地に派遣のDMAT医師",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195561000.html",
+      "publishedAt": "2026-08-04T02:54:45.000Z",
+      "summary": "今回の熊本地震で、DMAT＝災害派遣医療チームとして今月2日まで熊本県に派遣された医師が、NHKの取材に応じました。被災地では断水が続き、連日、透析患者を別の病院に移送しているなどとしたうえで、10年前の熊本地震と比べて特に「暑さ」対策が重要だと訴えました。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195561000.html",
+          "publishedAt": "2026-08-04T02:54:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "06773c0121425f19205dcecf",
+      "isContinuation": false,
+      "titleZh": "DMAT医生：此次熊本震后防暑降温尤为重要",
+      "summaryZh": "一名曾被派往熊本的灾害派遣医疗团队（DMAT）医生指出，灾区断水情况持续，且需不断转移透析患者。他强调，与十年前的地震相比，此次灾区的高温天气使得防暑工作成为重中之重。",
+      "whyImportant": "医疗专家的建议揭示了灾后特殊环境下公共卫生管理的复杂性，对后续救灾策略具有指导意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0e113d51f3d3f656",
+      "title": "熊本地震1週間 38人死亡 災害関連死いかに防ぐかが喫緊の課題",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195471000.html",
+      "publishedAt": "2026-08-04T02:34:33.000Z",
+      "summary": "熊本県で最大震度7を観測した地震から4日で1週間です。これまでに災害関連死の疑いがある人などを含めて38人が死亡しました。被災地では連日、危険な暑さが続く中、車中泊を余儀なくされる人もいて、災害関連死をいかに防ぐかが喫緊の課題となっています。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195471000.html",
+          "publishedAt": "2026-08-04T02:34:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f8ca9a1333dbd95a1318f21b",
+      "isContinuation": false,
+      "titleZh": "熊本震后一周死亡人数达38人，如何预防灾害相关死亡成紧迫课题",
+      "summaryZh": "熊本县地震发生已满一周，包括疑似灾害相关死亡在内，遇难人数已达38人。在持续的高温天气下，许多灾民被迫在车内过夜，如何防止灾害相关死亡成为当前最紧迫的课题。",
+      "whyImportant": "灾害相关死亡的增加凸显了灾后安置环境对脆弱人群生命健康的直接威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "20358eec0109bcdd",
+      "title": "Sportsbet and Tabcorp deny allegations they sourced drugs and sex workers to encourage VIP clients to bet more",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
+      "publishedAt": "2026-08-04T02:55:00.000Z",
+      "summary": "Betting firms respond to claims made by anti-gambling campaigners Tim Costello and Luke Bateman at parliamentary inquiry Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Betting giants Sportsbet and Tabcorp say there is no evidence to substantiate allegations that account managers sourced drugs and sex workers to incentivise vulnerable people to bet more, calling for information about the claims to be provided to regulators. The anti-gambling campaigners Tim Costello and Luke Bateman used a parliamentary hearing into Labor’s legislation to curb gambling advertising to allege problem gamblers had been supplied with cocaine, alcohol and sex workers, alleging companies exercised no duty of care to their customers. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
+          "publishedAt": "2026-08-04T02:55:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "857ef49627dc5d957cf3fcd1",
+      "isContinuation": false,
+      "titleZh": "博彩公司否认提供毒品和性工作者以诱导VIP客户投注",
+      "summaryZh": "针对反博彩活动人士的指控，博彩巨头Sportsbet和Tabcorp否认其客户经理曾提供毒品和性工作者来诱导赌徒。公司呼吁将相关证据提交给监管机构进行调查。",
+      "whyImportant": "此争议引发了对博彩行业道德标准及监管力度的广泛质疑，可能推动相关法律法规的收紧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "32428bedf206db32",
+      "title": "Immigrant being held at Delaney Hall dies, marking 22nd death in ICE custody",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/ice-delaney-hall-custody-death",
+      "publishedAt": "2026-08-04T02:08:47.000Z",
+      "summary": "Edwin Lopez-Cornejo, 41, was arrested in New Jersey in June, and died after a ‘medical emergency’, agency said An immigrant being held at a New Jersey ICE detention center died on 1 August, the Department of Homeland Security (DHS) announced on Monday. Edwin Lopez-Cornejo, 41, is the 22nd person to die in ICE custody this year, according to agency data. Lopez-Cornejo, who is originally from El Salvador and first came to the US in 2006, was arrested by ICE agents in Plainfield, New Jersey, on 18 June and sent to Delaney Hall detention facility to await deportation. Less than two months later he suffered an unspecified “medical emergency”, and was later pronounced dead by University Hospital in Newark, New Jersey, ICE said. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/03/ice-delaney-hall-custody-death",
+          "publishedAt": "2026-08-04T02:08:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b41b7aae3ebb602e0c9e72b5",
+      "isContinuation": false,
+      "titleZh": "一名被拘留的移民在德莱尼大厅死亡，系今年ICE拘留期间第22起死亡事件",
+      "summaryZh": "美国国土安全部宣布，一名41岁的萨尔瓦多籍移民在被ICE拘留期间因“医疗紧急情况”死亡。这是今年以来在ICE拘留期间发生的第22起死亡事件。",
+      "whyImportant": "移民拘留中心的医疗保障和人权状况再次引发了美国国内关于移民政策的激烈辩论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "c95df34195c19ee6",
-      "title": "Potential US ban on Chinese AI models could cost American businesses US$12b a year: report",
+      "id": "a4f6eb095e95d80a",
+      "title": "防衛白書「新しい戦い方」に対応 防衛関係の産業基盤を強化",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195621000.html",
+      "publishedAt": "2026-08-04T03:14:40.000Z",
+      "summary": "ことしの防衛白書はAIやドローンを活用した「新しい戦い方」に対応するため、防衛関係の生産・技術基盤を強化する重要性を強調しています。また、中国については、軍事力の質と量を急速に強化しており、日本と国際社会の深刻な懸念事項だと指摘しています。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195621000.html",
+          "publishedAt": "2026-08-04T03:14:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "64e82a2ef3e6cff7bd113fb3",
+      "isContinuation": false,
+      "titleZh": "防卫白皮书：应对“新战法”，强化防卫产业基础",
+      "summaryZh": "日本今年的防卫白皮书强调，为应对人工智能和无人机带来的“新战法”，必须强化防卫生产和技术基础。白皮书同时指出，中国军力的快速增长是日本及国际社会的严重关切。",
+      "whyImportant": "日本防卫政策的调整反映了其对地区安全环境变化的担忧，并预示着未来防卫产业投入的增加。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "75db0eaec0691cd1",
+      "title": "Trump election claims debunked, US critical minerals fears: 7 US-China relations reads",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3362583/potential-us-ban-chinese-ai-models-could-cost-american-businesses-us12b-year-report?utm_source=rss_feed",
-      "publishedAt": "2026-08-03T03:00:07.000Z",
-      "summary": "A potential US ban on Chinese open-weight artificial intelligence (AI) models could cost American businesses up to US$12 billion per year, according to calculations by a US-based academic, as technology firms increasingly turn to cost-efficient Chinese solutions. While the exact economic toll of a ban remains difficult to quantify, usage data from New York-based OpenRouter – a large language model (LLM) aggregator – offers a glimpse into the potential fallout, said Daniel Yue, an assistant...",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3362449/trump-election-claims-debunked-us-critical-minerals-fears-7-us-china-relations-reads?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T14:00:10.000Z",
+      "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. Liberation Day 2.0? US slaps fresh wave of tariffs on China, 50-plus economies On June 24, the United States imposed a fresh wave of tariffs against 60 economies, including China, Japan, South Korea, India and European Union member states, hours before a temporary 10 per cent blanket levy...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3362583/potential-us-ban-chinese-ai-models-could-cost-american-businesses-us12b-year-report?utm_source=rss_feed",
-          "publishedAt": "2026-08-03T03:00:07.000Z"
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3362449/trump-election-claims-debunked-us-critical-minerals-fears-7-us-china-relations-reads?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T14:00:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -794,36 +547,72 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "经济",
-        "科技"
+        "经济"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "274d31ebefbf52b689702e41",
+      "fingerprint": "66ba221b8744a9c0689ef0d3",
       "isContinuation": false,
-      "titleZh": "报告称美国若禁止中国AI模型，每年可能导致美国企业损失120亿美元",
-      "summaryZh": "研究显示，美国若禁止使用中国开源人工智能模型，将使美国企业每年损失高达120亿美元。许多美国科技公司目前正依赖中国的高性价比AI解决方案。",
-      "whyImportant": "此研究揭示了全球AI技术供应链的深度融合，以及地缘政治限制可能给美国商业带来的经济代价。",
+      "titleZh": "特朗普选举主张被驳斥，美国对关键矿产的担忧：七篇关于美中关系的文章",
+      "summaryZh": "本文精选了近期关于美中关系的七篇重要报道，涵盖了美国对华关税政策及关键矿产供应链等议题。这些报道反映了当前美中在经贸与战略领域的复杂互动。",
+      "whyImportant": "梳理美中关系的关键议题有助于理解全球地缘政治与经济格局的演变趋势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7a60247489d5a21b",
-      "title": "Beijing warns Manila of ‘powerful’ South China Sea toolbox ready for ‘head-on blow’",
+      "id": "c0e6b93a33db6d3d",
+      "title": "Chinese executive filmed taking cash on Colombia metro, South America’s biggest project",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3362700/beijing-warns-manila-powerful-south-china-sea-toolbox-ready-head-blow?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T10:00:08.000Z",
-      "summary": "Beijing had a “rich and powerful” toolkit to use against those who “make waves” in the South China Sea, China’s military mouthpiece warned on Sunday, following efforts by Manila to map out its claim to a disputed shoal. The PLA Daily warning came a day after the Chinese military mounted joint naval and air drills near Scarborough Shoal, a contested group of low-lying rocky islets known as Huangyan Island in China and Panatag Shoal in the Philippines. “We also issue a stern warning to forces...",
+      "url": "https://www.scmp.com/news/china/article/3362846/chinese-executive-filmed-taking-cash-colombia-metro-south-americas-biggest-project?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T19:16:31.000Z",
+      "summary": "Colombian prosecutors are investigating allegations that executives of a Chinese state-owned contractor building the Bogota metro demanded cash from a local subcontractor in exchange for releasing payments owed for work on the project, according to an investigation published over the weekend by Semana, the country’s leading news magazine. The consortium building the line has denied any wrongdoing, saying the money seen changing hands was a retention payment agreed upon between the two firms in a...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3362700/beijing-warns-manila-powerful-south-china-sea-toolbox-ready-head-blow?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T10:00:08.000Z"
+          "url": "https://www.scmp.com/news/china/article/3362846/chinese-executive-filmed-taking-cash-colombia-metro-south-americas-biggest-project?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T19:16:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9eadbe65bb8b31e8dd75879f",
+      "isContinuation": false,
+      "titleZh": "中国高管在哥伦比亚地铁项目现场被拍到收取现金",
+      "summaryZh": "哥伦比亚检察官正在调查中国国有承包商高管涉嫌向当地分包商索贿的指控。涉事财团否认存在不当行为，称相关款项为双方约定的保留金。",
+      "whyImportant": "此事件可能影响中国企业在海外大型基础设施项目中的声誉及后续合作环境。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6d1ab9534cae266f",
+      "title": "500 Hong Kong students get taste of military life as PLA summer camp returns",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3362839/500-hong-kong-students-get-taste-military-life-pla-summer-camp-returns?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T15:06:01.000Z",
+      "summary": "About 500 Hong Kong students are getting a taste of army life, with the PLA garrison launching its annual summer camp to instil patriotism and discipline, and teach military skills, among young people. Among the new recruits is Lo Wan-lung, a Form One student at Salesian English School who is attending the two-week camp for the first time. Attracted by the chance of weapons-related training, the young military enthusiast said he was curious to experience holding weapons during mock shooting...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3362839/500-hong-kong-students-get-taste-military-life-pla-summer-camp-returns?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T15:06:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -833,77 +622,35 @@
       "tags": [
         "中国重点",
         "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "war",
-        "军事"
-      ],
-      "fingerprint": "43f4b2aeda983244ada94d04",
-      "isContinuation": false,
-      "titleZh": "北京警告马尼拉：已准备好“强有力”的南海工具箱以应对“正面打击”",
-      "summaryZh": "中国军方媒体警告称，针对在南海“兴风作浪”的行为，中国拥有丰富且强有力的应对手段。此前，中国在黄岩岛附近举行了海空联合演习。",
-      "whyImportant": "中菲在南海的对峙升级，增加了区域军事冲突的风险，并考验着双边外交关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9d216e3722aa380b",
-      "title": "Playing musical instrument helps medical students perform surgical tasks better: study",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362721/playing-musical-instrument-helps-medical-students-perform-surgical-tasks-better-study?utm_source=rss_feed",
-      "publishedAt": "2026-08-03T01:30:13.000Z",
-      "summary": "Playing a musical instrument helps medical students perform surgical tasks 10 per cent faster and more skilfully, according to a new study by the University of Hong Kong (HKU). The results showed that students with musical experience completed surgical tasks in an average time of 223.5 seconds, compared with 249.3 seconds for those without, making them nearly 26 seconds faster. The experience of Sien Gurr, a sixth-year medical student at HKU who started learning the violin at the age of four and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362721/playing-musical-instrument-helps-medical-students-perform-surgical-tasks-better-study?utm_source=rss_feed",
-          "publishedAt": "2026-08-03T01:30:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
         "国际组织"
       ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "3f42b342c8bac805db541f60",
+      "fingerprint": "399db913263b4b47b5deb18f",
       "isContinuation": false,
-      "titleZh": "研究：演奏乐器有助于医学生更好地完成外科手术任务",
-      "summaryZh": "香港大学的一项研究发现，有乐器演奏经验的医学生在完成外科手术任务时速度快了10%，且操作更熟练。音乐训练被认为有助于提升精细动作协调能力。",
-      "whyImportant": "该发现为医学教育提供了新的视角，表明跨学科技能训练对提升医疗专业水平具有积极意义。",
+      "titleZh": "解放军夏令营回归，500名香港学生体验军旅生活",
+      "summaryZh": "约500名香港学生参加了为期两周的解放军夏令营，旨在培养爱国情怀、纪律意识并学习军事技能。学生们对模拟射击等训练表现出浓厚兴趣。",
+      "whyImportant": "此类活动旨在加强香港青少年对国家及军队的认知，是香港国民教育的重要组成部分。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2f7e9d859ad18f65",
-      "title": "What is ‘bamboo-copter’, its links to China and Japan; how it inspired modern helicopters",
+      "id": "f2fa7bb6045e4ece",
+      "title": "KMT accuses Taiwan’s government of failing to uphold South China Sea claims",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362715/what-bamboo-copter-its-links-china-and-japan-how-it-inspired-modern-helicopters?utm_source=rss_feed",
-      "publishedAt": "2026-08-03T01:00:14.000Z",
-      "summary": "The bamboo-copter is one of the most famous gadgets from the pocket of Doraemon, an iconic robot cat from a Japanese cartoon series who employs futuristic devices to assist a clumsy boy, notably enabling the protagonists to fly. In fact, this gadget is inspired by a Chinese invention that dates back over a thousand years. The bamboo-copter was one of the earliest gadgets presented to the boy Nobita Nobi by the robotic cat character from the 22nd century. It made its first appearance in the manga...",
+      "url": "https://www.scmp.com/news/china/politics/article/3362823/kmt-accuses-taiwans-government-failing-uphold-south-china-sea-claims?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T02:00:12.000Z",
+      "summary": "Opposition parties in Taiwan have accused the government of failing to defend the island’s long-standing claims in the South China Sea, following its muted response to Philippine attempts to delimit a disputed shoal. “The government speaks loudly when confronting mainland China, but falls silent when Japan or the Philippines challenges Taiwan’s claims,” Kuomintang culture and communications committee director Chen I-hsin said on Sunday. Chen was referring to the Philippines’ move to assert...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362715/what-bamboo-copter-its-links-china-and-japan-how-it-inspired-modern-helicopters?utm_source=rss_feed",
-          "publishedAt": "2026-08-03T01:00:14.000Z"
+          "url": "https://www.scmp.com/news/china/politics/article/3362823/kmt-accuses-taiwans-government-failing-uphold-south-china-sea-claims?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T02:00:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -911,121 +658,115 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "国际组织"
+        "中国重点"
       ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "2a9f7b3fa779714c81c0b9a4",
+      "fingerprint": "c0664f0bb0c73d517bec22bd",
       "isContinuation": false,
-      "titleZh": "什么是“竹蜻蜓”，它与中日的关系，以及如何启发了现代直升机",
-      "summaryZh": "“竹蜻蜓”是日本动漫《哆啦A梦》中的经典道具，其灵感源自中国千年前的发明。这种简单的飞行装置对现代直升机的设计理念产生了深远影响。",
-      "whyImportant": "该文探讨了传统发明如何跨越文化与时代，成为现代科技与流行文化的灵感来源。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "022132ba4ce9614d",
-      "title": "7 face arrest after Inner Mongolia fatal blast report exposes string of failings",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/article/3362707/7-face-arrest-after-inner-mongolia-fatal-blast-report-exposes-string-failings?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T10:57:59.000Z",
-      "summary": "A series of failures, including poor maintenance, design and oversight, have been blamed for a deadly explosion at an industrial plant in Baotou in China’s Inner Mongolia region earlier this year. In an official report released on Sunday, the Inner Mongolian emergency management department said the blast at the Baotou Steel Group’s plant that killed 10 people and injured 84 was the result of a leak caused by corrosion on the inner wall of a steam storage pressure vessel. Debris from the blast...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/article/3362707/7-face-arrest-after-inner-mongolia-fatal-blast-report-exposes-string-failings?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T10:57:59.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "ad3f64efe75a631588fb3729",
-      "isContinuation": false,
-      "titleZh": "内蒙古致命爆炸事故调查报告揭露一系列管理疏漏，7人面临逮捕",
-      "summaryZh": "官方调查显示，内蒙古包头钢铁集团工厂发生的爆炸事故是由压力容器内壁腐蚀导致泄漏引发的。事故造成10人死亡、84人受伤，调查指出设计与维护存在严重缺陷。",
-      "whyImportant": "此事故暴露了工业生产中的安全管理漏洞，促使监管部门加强对高危工业设施的检查力度。",
+      "titleZh": "国民党指责台湾当局未能捍卫南海主权主张",
+      "summaryZh": "台湾反对党指责民进党当局在南海问题上立场软弱，未能有效应对菲律宾对争议岛礁的划界企图。国民党批评当局在面对大陆时态度强硬，但在面对日菲挑战时却保持沉默。",
+      "whyImportant": "南海主权争议的复杂性持续影响台湾内部政治，并考验其在区域地缘政治中的外交策略。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "ae634bb0aa083115",
-      "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+      "id": "d951b278b80f9252",
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks underway",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-      "publishedAt": "2026-08-03T03:26:08.000Z",
-      "summary": "Wildfires in and around Spokane have stretched ability of federal and local agencies to fight blazes Wildfires in eastern Washington state forced the evacuation of 60,000 people in the Spokane area while destroying at least 600 homes, businesses and other structures, authorities said on Sunday. The fires in and around Spokane, the state’s second largest city, burned about 8.2 sq miles (about 21 sq km), but they were among dozens across the western US that stretched the ability of federal, state and local agencies to fight them. A total of about 390 sq miles have burned across the state, and some of the fires, including those in the Spokane area, have not been contained. Continue reading...",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+      "publishedAt": "2026-08-04T02:56:26.000Z",
+      "summary": "Benchmark S&P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-          "publishedAt": "2026-08-03T03:26:08.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires",
-          "publishedAt": "2026-08-02T23:33:08.000Z"
+          "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+          "publishedAt": "2026-08-04T02:56:26.000Z"
         }
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "isChina": false,
       "isUsa": true,
       "isNoise": false,
       "tags": [
         "美国重点",
-        "环境",
-        "公共安全"
+        "金融",
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "8803e42ce8997eff767ea707",
+      "isContinuation": false,
+      "titleZh": "美股接近历史高点，特朗普称伊朗谈判正在进行，油价下跌",
+      "summaryZh": "标普500指数接近历史峰值。与此同时，华盛顿与德黑兰就谈判状态各执一词，市场对地缘政治局势的反应导致油价下跌。",
+      "whyImportant": "美伊关系的波动直接影响全球能源市场及金融市场的稳定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "528d071ee3846448",
+      "title": "Does the US blockade on Cuba make America safer?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+      "publishedAt": "2026-08-04T01:58:17.000Z",
+      "summary": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+          "publishedAt": "2026-08-04T01:58:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "69828210ef6f7d3a486c9bd0",
+      "fingerprint": "dd88e0d87bd977ff7ea33f03",
       "isContinuation": false,
-      "titleZh": "华盛顿州斯波坎市发生火灾，烧毁600座建筑，6万人被迫撤离",
-      "summaryZh": "美国华盛顿州斯波坎市周边的野火导致6万人撤离，至少600座房屋和商业建筑被毁。火灾蔓延速度极快，当地消防资源已处于超负荷状态。",
-      "whyImportant": "大规模野火频发凸显了气候变化背景下美国西部地区面临的严峻自然灾害挑战。",
+      "titleZh": "美国对古巴的封锁是否让美国更安全？",
+      "summaryZh": "特朗普升级了对哈瓦那的限制措施，警告称古巴仍是美国的“国家安全威胁”。这一政策引发了关于封锁措施有效性及必要性的讨论。",
+      "whyImportant": "美国对古巴的强硬政策反映了其在西半球的地缘战略考量，但其长期效果仍存争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "66ff52df141604f6",
-      "title": "In message from US jail, Maduro weighs in on Venezuela transition talks",
+      "id": "3d77f5b2e63d1445",
+      "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T20:40:52.000Z",
-      "summary": "Venezuela’s imprisoned former leader Nicolas Maduro on Sunday welcomed “any path to dialogue”, ahead of a US-backed meeting in the coming week between representatives of the Latin American country’s interim government and opposition leaders. The leftist Maduro and his wife Cilia Flores were captured in a US military raid in January and are being held in a New York detention centre awaiting trial on charges related to drug and firearms trafficking. They have pleaded not guilty. “We welcome any...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T23:21:50.000Z",
+      "summary": "The US State Department has notified Congress that it plans to close five foreign missions in a rare downsizing of America’s global diplomatic footprint, according to people familiar with the notice. In the notice sent to some congressional committees late last week, the State Department said it ‌planned to close its posts in St George’s, Grenada; Nagoya, Japan; Medan, Indonesia; Douala, Cameroon; and Winnipeg, Canada. The people familiar with the notice spoke on condition of anonymity because...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T20:40:52.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T23:21:50.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1034,80 +775,35 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "外交"
       ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "军事"
-      ],
-      "fingerprint": "13f751a22f178de54a63c41f",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c52781a1d69c3595cba9e95c",
       "isContinuation": false,
-      "titleZh": "马杜罗从美国监狱发声，就委内瑞拉过渡谈判发表看法",
-      "summaryZh": "被关押在美国的委内瑞拉前领导人马杜罗表示欢迎任何形式的对话。他目前因涉嫌毒品和武器走私指控在纽约候审。",
-      "whyImportant": "马杜罗的表态为委内瑞拉国内的政治过渡进程增添了复杂性，并受到国际社会的密切关注。",
+      "titleZh": "消息人士称美国国务院将关闭驻加拿大、日本和印度尼西亚的领事馆",
+      "summaryZh": "据知情人士透露，美国国务院已通知国会计划关闭五个海外外交机构，包括驻日本名古屋和加拿大温尼伯的领事馆。这是美国罕见的一次全球外交足迹缩减。",
+      "whyImportant": "外交机构的裁撤可能削减美国在相关地区的影响力，并引发外界对其全球战略收缩的猜测。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3f548e47687e7037",
-      "title": "At 80, Brazil’s Lula launches campaign for fourth term to face Bolsonaro’s son",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/americas/article/3362729/brazils-president-lula-80-says-great-shape-he-launches-bid-fourth-term?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T18:27:23.000Z",
-      "summary": "Brazilian President Luiz Inacio Lula da Silva, 80, said on Sunday he was “in great shape” as he launched his candidacy for October elections, with pressure from US President Donald Trump’s administration looming over the campaign. A titan of the Latin American left, Lula is seeking a fourth and final term in office in a campaign casting him as a safe pair of hands in turbulent times and a bulwark against the global rise of the far-right. While no one mentioned Trump by name at the Workers’ Party...",
+      "id": "a1ad9723fefa77e2",
+      "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+      "publishedAt": "2026-08-03T22:35:47.000Z",
+      "summary": "Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3362729/brazils-president-lula-80-says-great-shape-he-launches-bid-fourth-term?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T18:27:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "7ba690b932bfe567f50bc1b4",
-      "isContinuation": false,
-      "titleZh": "80岁的巴西总统卢拉启动第四任期竞选，将面对博索纳罗之子的挑战",
-      "summaryZh": "80岁的巴西总统卢拉宣布竞选连任，旨在寻求第四个任期。他将自己定位为动荡时期的稳定力量，并以此对抗全球极右翼势力的崛起。",
-      "whyImportant": "巴西大选的结果将决定该国未来的政治走向，并对拉美地区的左翼运动产生重大影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0adcc97c2dd2b169",
-      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
-      "publishedAt": "2026-08-02T20:37:11.000Z",
-      "summary": "Health secretary, longtime vaccination skeptic, spent years boosting misinformation about vaccines including MMR Robert F Kennedy Jr, the US health secretary, on Sunday told American parents that they should get their children vaccinated against measles, as the surge in infections has reached numbers not seen in the past 35 years. Kennedy, a leading vaccination skeptic who has spent years amplifying misinformation about vaccines, including the shot that protects against measles, mumps and rubella (MMR), made his call in the course of a contentious interview with CNN’s State of the Union on Sunday morning. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
-          "publishedAt": "2026-08-02T20:37:11.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+          "publishedAt": "2026-08-03T22:35:47.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1118,72 +814,72 @@
         "美国重点",
         "国际组织"
       ],
-      "score": 57,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b4b3a5c5d50a92f723d8799b",
+      "fingerprint": "d72503ba2839ed2e2961db5d",
       "isContinuation": false,
-      "titleZh": "小罗伯特·肯尼迪呼吁美国家庭为儿童接种麻疹疫苗以应对疫情",
-      "summaryZh": "美国卫生部长小罗伯特·肯尼迪在接受采访时呼吁家长为孩子接种麻疹疫苗。作为长期以来的疫苗怀疑论者，他的这一立场转变引发了广泛关注。",
-      "whyImportant": "美国麻疹疫情的激增促使政府高层调整疫苗政策立场，这对公共卫生防疫具有重要意义。",
+      "titleZh": "从特朗普到埃尔-赛义德：密歇根州的美国阿拉伯人将巴勒斯坦问题置于政治中心",
+      "summaryZh": "密歇根州的阿拉伯裔美国选民表示，由于不满现任政府的立场，他们将不会支持亲以色列的候选人。巴勒斯坦问题已成为该群体参与政治决策的核心考量。",
+      "whyImportant": "阿拉伯裔选民的政治动向可能对美国关键摇摆州的选举结果产生重要影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5d937953f6e4b3a9",
-      "title": "中国不可能超越美国 习近平最上头的事黄了",
-      "source": "renminbao.com",
-      "url": "https://www.renminbao.com/rmb/articles/2026/8/3/96116.html",
-      "publishedAt": "2026-08-02T20:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "7346e69be3644029",
+      "title": "Trump claims ‘last chance’ for Iran to strike deal in latest warning",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3362850/trump-claims-last-chance-iran-strike-deal-latest-warning?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T21:23:20.000Z",
+      "summary": "US President Donald Trump on Monday said Iran was facing its “last chance” to reach an agreement with Washington to reopen the Strait of Hormuz and end the five-month-long war. “This is a last chance for them to sign a good document,” Trump said at the Oval Office in the White House. “I want to give them every last chance before decapitation.” He also claimed that negotiations with Tehran are “going on right now” despite Tehran’s insistence that no direct talks were under way. “We are talking,...",
+      "language": "",
+      "region": "china",
       "crossSources": [
         {
-          "source": "renminbao.com",
-          "url": "https://www.renminbao.com/rmb/articles/2026/8/3/96116.html",
-          "publishedAt": "2026-08-02T20:15:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3362850/trump-claims-last-chance-iran-strike-deal-latest-warning?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T21:23:20.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "美国重点"
+        "美国重点",
+        "军事与安全"
       ],
-      "score": 55,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8a3e5e72af0d5f4713887217",
+      "fingerprint": "15447f3970f6cac2acd4cec0",
       "isContinuation": false,
-      "titleZh": "中国不可能超越美国，习近平最上头的事黄了",
-      "summaryZh": "文章评论称中国在某些战略目标上未能实现预期，并认为中国在综合国力上难以超越美国。文中对当前政策走向持批评态度。",
-      "whyImportant": "此类评论反映了外界对中国发展战略及中美竞争前景的负面评估。",
+      "titleZh": "特朗普称伊朗面临达成协议的“最后机会”，发出最新警告",
+      "summaryZh": "特朗普总统表示，伊朗正面临与华盛顿达成协议的“最后机会”，以重新开放霍尔木兹海峡并结束战争。尽管德黑兰否认，特朗普仍声称双方正在进行谈判。",
+      "whyImportant": "特朗普的强硬言论加剧了美伊之间的紧张局势，增加了地区冲突升级的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "be5a0f9275822b4b",
-      "title": "Russian and Ukrainian strikes kill 14 on both sides",
+      "id": "b524bb6217283425",
+      "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-      "publishedAt": "2026-08-02T18:37:23.000Z",
-      "summary": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages",
+      "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+      "publishedAt": "2026-08-04T01:43:51.000Z",
+      "summary": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-          "publishedAt": "2026-08-02T18:37:23.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+          "publishedAt": "2026-08-04T01:43:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1192,84 +888,35 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "9e2f3eb4357e1348066caea8",
-      "isContinuation": false,
-      "titleZh": "俄乌双方袭击造成14人死亡",
-      "summaryZh": "乌克兰袭击了俄罗斯的石油枢纽和高层建筑，泽连斯基警告称“爱国者”拦截导弹严重短缺。双方冲突持续导致平民伤亡。",
-      "whyImportant": "俄乌冲突的持续升级和防空武器的短缺，加剧了战区的人道主义危机。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "61aa9e1adc68804c",
-      "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
-      "source": "DW",
-      "url": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-02T09:24:00.000Z",
-      "summary": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-02T09:24:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "attack",
-        "军事",
         "突发"
       ],
-      "fingerprint": "22777c7a3e3ee858733ecbfe",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5637521aed2bd6002fe333ab",
       "isContinuation": false,
-      "titleZh": "波兰：总理图斯克抵制反乌克兰暴力行为",
-      "summaryZh": "波兰国内反乌克兰情绪高涨，针对乌克兰难民的袭击事件频发。总理图斯克公开谴责暴力，并警告俄罗斯带来的安全威胁。",
-      "whyImportant": "波兰国内的社会矛盾反映了欧洲在接纳难民与应对战争影响方面所面临的压力。",
+      "titleZh": "和平委员会称在哈马斯解除武装前，以色列不会从加沙撤军",
+      "summaryZh": "内塔尼亚胡与委员会主任姆拉德诺夫举行会谈，讨论加沙解除武装路线图。双方在以色列近期袭击事件引发的紧张局势下寻求共识。",
+      "whyImportant": "加沙地区的解除武装进程是实现长期和平的关键，但目前各方立场仍存在巨大分歧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "90f682db87f398c0",
-      "title": "Healey’s profiteering warning on food and fuel risks row with retailers",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/aug/02/john-healey-profiteering-warning-retailers-backlash",
-      "publishedAt": "2026-08-02T23:01:18.000Z",
-      "summary": "Chancellor says the government wants to prevent shoppers being ‘taken for a ride’ at the pump or till The chancellor, John Healey, has said the government is standing by to prevent the public from “being taken for a ride at the pump or the till” as the Iran war continues to hit prices. While he said there had been “no significant evidence of so-called price gouging” during the crisis, he used a weekend column to tell the big retailers that ministers were “watching closely” for any signs of profiteering. Continue reading...",
+      "id": "88c10a5a2280ef5c",
+      "title": "Can a tech titan ace a test to fix India’s crisis-hit education system?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3362859/can-tech-titan-ace-test-fix-indias-crisis-hit-education-system?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T03:00:10.000Z",
+      "summary": "India’s tech titan Nandan Nilekani faces an uphill battle overhauling the country’s education system amid exam scandals, student protests and rising youth unemployment. Nilekani, co-founder of technology behemoth Infosys, was appointed head of a national task force for exam reforms following widespread anger and controversies over alleged paper leaks involving the competitive exam for aspiring doctors, the National Eligibility Entrance Test. Analysts say the real test for a reformer best known...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/aug/02/john-healey-profiteering-warning-retailers-backlash",
-          "publishedAt": "2026-08-02T23:01:18.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3362859/can-tech-titan-ace-test-fix-indias-crisis-hit-education-system?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T03:00:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1278,216 +925,89 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "technology",
+        "科技"
       ],
-      "fingerprint": "9efcf8613a96372718d199df",
+      "fingerprint": "ee9918eada57d50a4440cc99",
       "isContinuation": false,
-      "titleZh": "希利警告零售商不得牟取暴利，食品和燃料价格引发争议",
-      "summaryZh": "英国财政大臣希利表示，政府将密切关注零售商是否存在哄抬物价的行为。尽管目前尚无大规模牟取暴利的证据，但政府强调将保护消费者利益。",
-      "whyImportant": "在战争导致的通胀压力下，政府对物价的干预反映了对民生稳定的高度重视。",
+      "titleZh": "科技巨头能否通过考试改革来解决印度的教育危机？",
+      "summaryZh": "印度科技巨头南丹·尼勒卡尼被任命为考试改革特别工作组负责人，以应对考试丑闻和学生抗议。他面临着解决教育系统腐败和青年失业问题的艰巨挑战。",
+      "whyImportant": "印度教育系统的改革成败直接关系到该国未来的人才储备及社会稳定。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0949fe8a2bcea035",
+      "title": "South Korea tightens grip on high-risk ETFs as investor losses mount",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3362836/south-korea-tightens-grip-high-risk-etfs-investor-losses-mount?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T00:00:18.000Z",
+      "summary": "South Korea’s financial authorities are weighing tighter curbs on high-risk leveraged exchange-traded funds (ETFs) as part of broader efforts to stabilise the country’s notoriously volatile stock market, which has left many investors with heavy losses and mounting debt. The proposals could include giving regulators the power to reduce the leverage ratio of single-stock ETFs and raising the minimum investment requirement to discourage inexperienced retail investors from taking excessive risks,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3362836/south-korea-tightens-grip-high-risk-etfs-investor-losses-mount?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T00:00:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0d0f17339938719754fc557b",
+      "isContinuation": false,
+      "titleZh": "韩国收紧对高风险ETF的监管，投资者损失不断增加",
+      "summaryZh": "韩国金融当局正考虑对高风险杠杆ETF实施更严格的限制，以稳定波动剧烈的股市。拟议措施包括降低杠杆率及提高投资门槛，旨在保护缺乏经验的散户投资者。",
+      "whyImportant": "加强金融监管反映了韩国政府在防范系统性金融风险与保护投资者利益之间的平衡努力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 205,
-    "deduplicated": 177,
+    "fetched": 149,
+    "deduplicated": 148,
     "selected": 23,
     "minimumRequired": 21,
-    "featured": 8,
+    "featured": 2,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "5ee9d1ae99cb8dd2",
-      "title": "Massive Attack speak about ‘surreal experience’ of being banned from Singapore over Palestinian flag",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/music/2026/aug/03/massive-attack-singapore-ban-palestine-flag",
-      "publishedAt": "2026-08-03T02:19:26.000Z",
-      "summary": "British band say they are ‘proud to have made this impromptu expression with our fans in Singapore’, where open display of all foreign flags is banned Massive Attack have called being banned from Singapore a “surreal experience” after displaying a Palestinian flag during their show. On Wednesday, the English trip-hop collective – whose current lineup includes Robert “3D” Del Naja and Grant “Daddy G” Marshall – played a show at the Star theatre. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/music/2026/aug/03/massive-attack-singapore-ban-palestine-flag",
-          "publishedAt": "2026-08-03T02:19:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 74,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "7e1af31cbc8e4f3b8476f6ef",
-      "isContinuation": false,
-      "titleZh": "Massive Attack乐队谈及因展示巴勒斯坦国旗被新加坡禁演的“超现实经历”",
-      "summaryZh": "英国乐队Massive Attack在新加坡演出时展示巴勒斯坦国旗，随后被当地禁止入境。该乐队表示，尽管新加坡禁止公开展示外国国旗，但他们对与粉丝进行的这次即兴表达感到自豪。",
-      "whyImportant": "此事件凸显了新加坡对公共场合展示外国政治符号的严格管控，以及国际艺人在表达政治立场时面临的法律风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8eb31159f06a749e",
-      "title": "熊本 地震活動続く 酷暑日予想 屋外での作業控え熱中症対策を",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
-      "publishedAt": "2026-08-03T03:50:01.000Z",
-      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけています。熊本県では、日中の最高気温がところによって40度と記録的な暑さになると予想されています。気象庁は、3日は自宅の片づけなど屋外での作業は控え、できるかぎりの熱中症対策をするよう呼びかけています。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
-          "publishedAt": "2026-08-03T03:50:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "506138fda4e97760d051b087",
-      "isContinuation": false,
-      "titleZh": "熊本县地震活动持续，预计将迎酷暑，呼吁民众防范中暑",
-      "summaryZh": "日本熊本县地震活动依然活跃，气象厅警告未来仍可能发生震度7级的地震。当地预计将出现40度的高温天气，气象厅呼吁民众减少户外作业并做好防暑措施。",
-      "whyImportant": "地震灾区面临极端高温的双重威胁，增加了灾后重建和民众生活的安全风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "acbc0e699627b25d",
-      "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+      "id": "d951b278b80f9252",
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks underway",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-      "publishedAt": "2026-08-03T03:17:33.000Z",
-      "summary": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+      "publishedAt": "2026-08-04T02:56:26.000Z",
+      "summary": "Benchmark S&P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-          "publishedAt": "2026-08-03T03:17:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "82f4d8c58fd7e20f46e79baa",
-      "isContinuation": false,
-      "titleZh": "特朗普暂停对伊朗的“大规模攻击”，称将开启新谈判",
-      "summaryZh": "美国总统特朗普在取消对伊朗的攻击计划后表示，双方将于周一以谈判形式开启新对话。此举标志着美伊紧张局势出现转折。",
-      "whyImportant": "美伊关系的缓和与否直接影响中东地区的军事安全与全球能源市场稳定。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c81a6af60f44ef95",
-      "title": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
-      "publishedAt": "2026-08-03T03:08:24.000Z",
-      "summary": "Former Liberal, ‘anti-woke’ film animator and councillor who says he used to work on Daniel Andrews’ security team among lineup for November’s state poll One Nation has named its first candidates for the upcoming Victorian state election, as the party leader, Pauline Hanson, has vowed to ban the ABC and the Guardian from attending her press conferences during the campaign. Guardian Australia understands reporters from the ABC and the Age were refused entry to Hanson’s press conference on Monday, where she announced seven of the eight candidates who will lead One Nation’s upper house tickets. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
-          "publishedAt": "2026-08-03T03:08:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "856f9a72cd8cbfcf2c72ba27",
-      "isContinuation": false,
-      "titleZh": "“单一民族党”公布维多利亚州选举候选人，韩森禁止澳广和卫报参加新闻发布会",
-      "summaryZh": "“单一民族党”公布了维多利亚州选举的首批候选人名单。党魁宝琳·韩森在竞选期间禁止澳大利亚广播公司（ABC）和《卫报》记者参加其新闻发布会。",
-      "whyImportant": "此举引发了关于媒体自由和政治透明度的争议，反映了该党与主流媒体之间日益紧张的关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "66ff52df141604f6",
-      "title": "In message from US jail, Maduro weighs in on Venezuela transition talks",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T20:40:52.000Z",
-      "summary": "Venezuela’s imprisoned former leader Nicolas Maduro on Sunday welcomed “any path to dialogue”, ahead of a US-backed meeting in the coming week between representatives of the Latin American country’s interim government and opposition leaders. The leftist Maduro and his wife Cilia Flores were captured in a US military raid in January and are being held in a New York detention centre awaiting trial on charges related to drug and firearms trafficking. They have pleaded not guilty. “We welcome any...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T20:40:52.000Z"
+          "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+          "publishedAt": "2026-08-04T02:56:26.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1496,164 +1016,39 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "金融",
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "military",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "13f751a22f178de54a63c41f",
+      "fingerprint": "8803e42ce8997eff767ea707",
       "isContinuation": false,
-      "titleZh": "马杜罗从美国监狱发声，就委内瑞拉过渡谈判发表看法",
-      "summaryZh": "被关押在美国的委内瑞拉前领导人马杜罗表示欢迎任何形式的对话。他目前因涉嫌毒品和武器走私指控在纽约候审。",
-      "whyImportant": "马杜罗的表态为委内瑞拉国内的政治过渡进程增添了复杂性，并受到国际社会的密切关注。",
+      "titleZh": "美股接近历史高点，特朗普称伊朗谈判正在进行，油价下跌",
+      "summaryZh": "标普500指数接近历史峰值。与此同时，华盛顿与德黑兰就谈判状态各执一词，市场对地缘政治局势的反应导致油价下跌。",
+      "whyImportant": "美伊关系的波动直接影响全球能源市场及金融市场的稳定性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cde6fc9b26a2fb38",
-      "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-      "publishedAt": "2026-08-02T19:39:32.000Z",
-      "summary": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem's Old City.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-          "publishedAt": "2026-08-02T19:39:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "8e8a1892752ea3e8db0c5263",
-      "isContinuation": false,
-      "titleZh": "以色列人在耶路撒冷老城袭击亚美尼亚修道院",
-      "summaryZh": "有视频显示，六名以色列犹太人在耶路撒冷老城的圣詹姆斯修道院入口处向建筑吐口水。该事件引发了对宗教场所安全和种族歧视的关注。",
-      "whyImportant": "此类针对宗教场所的挑衅行为加剧了耶路撒冷本已脆弱的宗教与民族紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b2cbc25933a5149f",
-      "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-      "publishedAt": "2026-08-02T19:08:06.000Z",
-      "summary": "Tehran's announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-          "publishedAt": "2026-08-02T19:08:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a0cf255e488967741c230dad",
-      "isContinuation": false,
-      "titleZh": "伊朗称与阿曼就霍尔木兹海峡问题的谈判已进入最后阶段",
-      "summaryZh": "在特朗普宣布推迟对伊朗的新攻击以寻求快速协议后，德黑兰方面宣布与阿曼的谈判进展顺利。双方正致力于缓解海峡地区的紧张局势。",
-      "whyImportant": "霍尔木兹海峡是全球石油运输的关键通道，相关谈判的进展对全球能源供应安全至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7a60247489d5a21b",
-      "title": "Beijing warns Manila of ‘powerful’ South China Sea toolbox ready for ‘head-on blow’",
+      "id": "88c10a5a2280ef5c",
+      "title": "Can a tech titan ace a test to fix India’s crisis-hit education system?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3362700/beijing-warns-manila-powerful-south-china-sea-toolbox-ready-head-blow?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T10:00:08.000Z",
-      "summary": "Beijing had a “rich and powerful” toolkit to use against those who “make waves” in the South China Sea, China’s military mouthpiece warned on Sunday, following efforts by Manila to map out its claim to a disputed shoal. The PLA Daily warning came a day after the Chinese military mounted joint naval and air drills near Scarborough Shoal, a contested group of low-lying rocky islets known as Huangyan Island in China and Panatag Shoal in the Philippines. “We also issue a stern warning to forces...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3362859/can-tech-titan-ace-test-fix-indias-crisis-hit-education-system?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T03:00:10.000Z",
+      "summary": "India’s tech titan Nandan Nilekani faces an uphill battle overhauling the country’s education system amid exam scandals, student protests and rising youth unemployment. Nilekani, co-founder of technology behemoth Infosys, was appointed head of a national task force for exam reforms following widespread anger and controversies over alleged paper leaks involving the competitive exam for aspiring doctors, the National Eligibility Entrance Test. Analysts say the real test for a reformer best known...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3362700/beijing-warns-manila-powerful-south-china-sea-toolbox-ready-head-blow?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T10:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "war",
-        "军事"
-      ],
-      "fingerprint": "43f4b2aeda983244ada94d04",
-      "isContinuation": false,
-      "titleZh": "北京警告马尼拉：已准备好“强有力”的南海工具箱以应对“正面打击”",
-      "summaryZh": "中国军方媒体警告称，针对在南海“兴风作浪”的行为，中国拥有丰富且强有力的应对手段。此前，中国在黄岩岛附近举行了海空联合演习。",
-      "whyImportant": "中菲在南海的对峙升级，增加了区域军事冲突的风险，并考验着双边外交关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "81acd12d8446b16b",
-      "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-      "publishedAt": "2026-08-03T00:00:15.000Z",
-      "summary": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-          "publishedAt": "2026-08-03T00:00:15.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3362859/can-tech-titan-ace-test-fix-indias-crisis-hit-education-system?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T03:00:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1662,436 +1057,492 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "615570587c2be82e5dc79fa4",
-      "isContinuation": false,
-      "titleZh": "伊朗战争直播：特朗普称谈判将重启；德黑兰敦促美国遵守谅解备忘录",
-      "summaryZh": "美国总统特朗普表示与伊朗的协议即将达成，谈判将于周一重启。伊朗方面则强调美国应履行此前签署的谅解备忘录。",
-      "whyImportant": "外交谈判的重启为缓解美伊军事冲突提供了窗口，但双方对协议的执行预期仍存在分歧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "11dc02ea30fd644e",
-      "title": "张优杰 ： 超越欧洲 北约将如何塑造亚洲安全秩序 | 八方论见 | 评论",
-      "source": "orientaldaily.com.my",
-      "url": "https://www.orientaldaily.com.my/news/lunjian/2026/08/03/837760",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "orientaldaily.com.my",
-          "url": "https://www.orientaldaily.com.my/news/lunjian/2026/08/03/837760",
-          "publishedAt": "2026-08-03T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "81aa324209b70a633c35e137",
-      "isContinuation": false,
-      "titleZh": "张优杰：超越欧洲，北约将如何塑造亚洲安全秩序",
-      "summaryZh": "本文探讨了北约在亚洲安全事务中日益增长的影响力。分析指出北约正试图通过调整战略来重塑亚洲的安全格局。",
-      "whyImportant": "北约向亚洲的战略重心转移正在改变区域地缘政治平衡，引发了关于亚洲安全架构演变的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5fea24831ff7e5cd",
-      "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
-      "publishedAt": "2026-08-02T23:54:50.000Z",
-      "summary": "Authorities issue alert saying indoor spaces without airconditioning are ‘dangerous’ as temperatures pass 40C for fifth straight day South Korea has registered its highest temperature since records began more than a century ago, as authorities warned people to “immediately” stop all outdoor activities in affected areas. The south-eastern city of Yangsan saw the temperature reach 42.5C on Sunday afternoon, the Korea Meteorological Administration (KMA) said, the highest temperature reported since modern weather observation began in 1904. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
-          "publishedAt": "2026-08-02T23:54:50.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
         "科技",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "056f57267ac0e0b29ac00b60",
-      "isContinuation": false,
-      "titleZh": "“停止所有户外活动”：韩国记录下有史以来最高气温",
-      "summaryZh": "韩国气象部门报告称，东南部城市阳山气温达到42.5摄氏度，创下自1904年有记录以来的最高值。当局已发布紧急预警，要求民众停止户外活动。",
-      "whyImportant": "极端高温天气对公共卫生构成严重威胁，并对韩国的社会运作和能源供应提出了挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "92594528a9c6358b",
-      "title": "震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194551000.html",
-      "publishedAt": "2026-08-02T20:10:49.000Z",
-      "summary": "震度7を観測した熊本県氷川町で、地震直後、高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後、死亡したことが家族への取材でわかりました。地震により亡くなったとみられ2日夜の通夜で取材に応じた父親は「まだ信じられず、ことばにできない」と声を詰まらせながら話していました。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194551000.html",
-          "publishedAt": "2026-08-02T20:10:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "f1dac11e42df266a33fc46b1",
-      "isContinuation": false,
-      "titleZh": "震度7级的冰川町：高中生在家中死亡，父亲称“仍无法相信”",
-      "summaryZh": "在发生震度7级地震的熊本县冰川町，一名高中一年级女生被发现死于家中。其父亲在守灵仪式上表示对女儿的离世感到难以置信。",
-      "whyImportant": "地震造成的生命损失引发了社会对灾区青少年心理健康及家庭支持的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c95df34195c19ee6",
-      "title": "Potential US ban on Chinese AI models could cost American businesses US$12b a year: report",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3362583/potential-us-ban-chinese-ai-models-could-cost-american-businesses-us12b-year-report?utm_source=rss_feed",
-      "publishedAt": "2026-08-03T03:00:07.000Z",
-      "summary": "A potential US ban on Chinese open-weight artificial intelligence (AI) models could cost American businesses up to US$12 billion per year, according to calculations by a US-based academic, as technology firms increasingly turn to cost-efficient Chinese solutions. While the exact economic toll of a ban remains difficult to quantify, usage data from New York-based OpenRouter – a large language model (LLM) aggregator – offers a glimpse into the potential fallout, said Daniel Yue, an assistant...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3362583/potential-us-ban-chinese-ai-models-could-cost-american-businesses-us12b-year-report?utm_source=rss_feed",
-          "publishedAt": "2026-08-03T03:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "经济",
+        "technology",
         "科技"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "274d31ebefbf52b689702e41",
+      "fingerprint": "ee9918eada57d50a4440cc99",
       "isContinuation": false,
-      "titleZh": "报告称美国若禁止中国AI模型，每年可能导致美国企业损失120亿美元",
-      "summaryZh": "研究显示，美国若禁止使用中国开源人工智能模型，将使美国企业每年损失高达120亿美元。许多美国科技公司目前正依赖中国的高性价比AI解决方案。",
-      "whyImportant": "此研究揭示了全球AI技术供应链的深度融合，以及地缘政治限制可能给美国商业带来的经济代价。",
+      "titleZh": "科技巨头能否通过考试改革来解决印度的教育危机？",
+      "summaryZh": "印度科技巨头南丹·尼勒卡尼被任命为考试改革特别工作组负责人，以应对考试丑闻和学生抗议。他面临着解决教育系统腐败和青年失业问题的艰巨挑战。",
+      "whyImportant": "印度教育系统的改革成败直接关系到该国未来的人才储备及社会稳定。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9d216e3722aa380b",
-      "title": "Playing musical instrument helps medical students perform surgical tasks better: study",
+      "id": "bb6b0d48a490169c",
+      "title": "Russia says Ukrainian drone attack kills 7 at Black Sea resort beach",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362721/playing-musical-instrument-helps-medical-students-perform-surgical-tasks-better-study?utm_source=rss_feed",
-      "publishedAt": "2026-08-03T01:30:13.000Z",
-      "summary": "Playing a musical instrument helps medical students perform surgical tasks 10 per cent faster and more skilfully, according to a new study by the University of Hong Kong (HKU). The results showed that students with musical experience completed surgical tasks in an average time of 223.5 seconds, compared with 249.3 seconds for those without, making them nearly 26 seconds faster. The experience of Sien Gurr, a sixth-year medical student at HKU who started learning the violin at the age of four and...",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3362864/russia-says-ukrainian-drone-attack-kills-7-black-sea-resort-beach?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T03:15:36.000Z",
+      "summary": "Russia said on Monday that seven people, including three children, had been killed and 40 injured at its Black Sea holiday resort of Gelendzhik in what it said was a deliberate Ukrainian drone attack on civilians. There was no immediate comment from Ukraine, which like Russia, ‌says it does not deliberately target civilians in the full-scale war which Moscow launched in 2022. Social media videos, verified by Reuters, showed what appears to be a drone slamming into a busy beach area near the town...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362721/playing-musical-instrument-helps-medical-students-perform-surgical-tasks-better-study?utm_source=rss_feed",
-          "publishedAt": "2026-08-03T01:30:13.000Z"
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3362864/russia-says-ukrainian-drone-attack-kills-7-black-sea-resort-beach?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T03:15:36.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3f42b342c8bac805db541f60",
-      "isContinuation": false,
-      "titleZh": "研究：演奏乐器有助于医学生更好地完成外科手术任务",
-      "summaryZh": "香港大学的一项研究发现，有乐器演奏经验的医学生在完成外科手术任务时速度快了10%，且操作更熟练。音乐训练被认为有助于提升精细动作协调能力。",
-      "whyImportant": "该发现为医学教育提供了新的视角，表明跨学科技能训练对提升医疗专业水平具有积极意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2f7e9d859ad18f65",
-      "title": "What is ‘bamboo-copter’, its links to China and Japan; how it inspired modern helicopters",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362715/what-bamboo-copter-its-links-china-and-japan-how-it-inspired-modern-helicopters?utm_source=rss_feed",
-      "publishedAt": "2026-08-03T01:00:14.000Z",
-      "summary": "The bamboo-copter is one of the most famous gadgets from the pocket of Doraemon, an iconic robot cat from a Japanese cartoon series who employs futuristic devices to assist a clumsy boy, notably enabling the protagonists to fly. In fact, this gadget is inspired by a Chinese invention that dates back over a thousand years. The bamboo-copter was one of the earliest gadgets presented to the boy Nobita Nobi by the robotic cat character from the 22nd century. It made its first appearance in the manga...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362715/what-bamboo-copter-its-links-china-and-japan-how-it-inspired-modern-helicopters?utm_source=rss_feed",
-          "publishedAt": "2026-08-03T01:00:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2a9f7b3fa779714c81c0b9a4",
-      "isContinuation": false,
-      "titleZh": "什么是“竹蜻蜓”，它与中日的关系，以及如何启发了现代直升机",
-      "summaryZh": "“竹蜻蜓”是日本动漫《哆啦A梦》中的经典道具，其灵感源自中国千年前的发明。这种简单的飞行装置对现代直升机的设计理念产生了深远影响。",
-      "whyImportant": "该文探讨了传统发明如何跨越文化与时代，成为现代科技与流行文化的灵感来源。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "022132ba4ce9614d",
-      "title": "7 face arrest after Inner Mongolia fatal blast report exposes string of failings",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/article/3362707/7-face-arrest-after-inner-mongolia-fatal-blast-report-exposes-string-failings?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T10:57:59.000Z",
-      "summary": "A series of failures, including poor maintenance, design and oversight, have been blamed for a deadly explosion at an industrial plant in Baotou in China’s Inner Mongolia region earlier this year. In an official report released on Sunday, the Inner Mongolian emergency management department said the blast at the Baotou Steel Group’s plant that killed 10 people and injured 84 was the result of a leak caused by corrosion on the inner wall of a steam storage pressure vessel. Debris from the blast...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/article/3362707/7-face-arrest-after-inner-mongolia-fatal-blast-report-exposes-string-failings?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T10:57:59.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
+        "全球焦点",
         "突发",
-        "专题·军事、安全与突发事件"
+        "军事与安全"
       ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "ad3f64efe75a631588fb3729",
-      "isContinuation": false,
-      "titleZh": "内蒙古致命爆炸事故调查报告揭露一系列管理疏漏，7人面临逮捕",
-      "summaryZh": "官方调查显示，内蒙古包头钢铁集团工厂发生的爆炸事故是由压力容器内壁腐蚀导致泄漏引发的。事故造成10人死亡、84人受伤，调查指出设计与维护存在严重缺陷。",
-      "whyImportant": "此事故暴露了工业生产中的安全管理漏洞，促使监管部门加强对高危工业设施的检查力度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ae634bb0aa083115",
-      "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-      "publishedAt": "2026-08-03T03:26:08.000Z",
-      "summary": "Wildfires in and around Spokane have stretched ability of federal and local agencies to fight blazes Wildfires in eastern Washington state forced the evacuation of 60,000 people in the Spokane area while destroying at least 600 homes, businesses and other structures, authorities said on Sunday. The fires in and around Spokane, the state’s second largest city, burned about 8.2 sq miles (about 21 sq km), but they were among dozens across the western US that stretched the ability of federal, state and local agencies to fight them. A total of about 390 sq miles have burned across the state, and some of the fires, including those in the Spokane area, have not been contained. Continue reading...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-          "publishedAt": "2026-08-03T03:26:08.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires",
-          "publishedAt": "2026-08-02T23:33:08.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "环境",
-        "公共安全"
-      ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "69828210ef6f7d3a486c9bd0",
+      "fingerprint": "4bba7c5e3635f6770b02bff4",
       "isContinuation": false,
-      "titleZh": "华盛顿州斯波坎市发生火灾，烧毁600座建筑，6万人被迫撤离",
-      "summaryZh": "美国华盛顿州斯波坎市周边的野火导致6万人撤离，至少600座房屋和商业建筑被毁。火灾蔓延速度极快，当地消防资源已处于超负荷状态。",
-      "whyImportant": "大规模野火频发凸显了气候变化背景下美国西部地区面临的严峻自然灾害挑战。",
+      "titleZh": "俄罗斯称乌克兰无人机袭击导致黑海度假海滩7人死亡",
+      "summaryZh": "俄罗斯方面称，乌克兰无人机对黑海度假胜地格连吉克发动了蓄意袭击，造成包括三名儿童在内的7人死亡，另有40人受伤。乌克兰方面对此暂无回应，且此前一直否认在战争中蓄意针对平民。",
+      "whyImportant": "此次事件若属实，将标志着俄乌冲突中针对平民目标的袭击进一步升级，可能引发更严重的报复行动。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3f548e47687e7037",
-      "title": "At 80, Brazil’s Lula launches campaign for fourth term to face Bolsonaro’s son",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/americas/article/3362729/brazils-president-lula-80-says-great-shape-he-launches-bid-fourth-term?utm_source=rss_feed",
-      "publishedAt": "2026-08-02T18:27:23.000Z",
-      "summary": "Brazilian President Luiz Inacio Lula da Silva, 80, said on Sunday he was “in great shape” as he launched his candidacy for October elections, with pressure from US President Donald Trump’s administration looming over the campaign. A titan of the Latin American left, Lula is seeking a fourth and final term in office in a campaign casting him as a safe pair of hands in turbulent times and a bulwark against the global rise of the far-right. While no one mentioned Trump by name at the Workers’ Party...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3362729/brazils-president-lula-80-says-great-shape-he-launches-bid-fourth-term?utm_source=rss_feed",
-          "publishedAt": "2026-08-02T18:27:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "7ba690b932bfe567f50bc1b4",
-      "isContinuation": false,
-      "titleZh": "80岁的巴西总统卢拉启动第四任期竞选，将面对博索纳罗之子的挑战",
-      "summaryZh": "80岁的巴西总统卢拉宣布竞选连任，旨在寻求第四个任期。他将自己定位为动荡时期的稳定力量，并以此对抗全球极右翼势力的崛起。",
-      "whyImportant": "巴西大选的结果将决定该国未来的政治走向，并对拉美地区的左翼运动产生重大影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0adcc97c2dd2b169",
-      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak",
+      "id": "73e51061091b751a",
+      "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – as it happened",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
-      "publishedAt": "2026-08-02T20:37:11.000Z",
-      "summary": "Health secretary, longtime vaccination skeptic, spent years boosting misinformation about vaccines including MMR Robert F Kennedy Jr, the US health secretary, on Sunday told American parents that they should get their children vaccinated against measles, as the surge in infections has reached numbers not seen in the past 35 years. Kennedy, a leading vaccination skeptic who has spent years amplifying misinformation about vaccines, including the shot that protects against measles, mumps and rubella (MMR), made his call in the course of a contentious interview with CNN’s State of the Union on Sunday morning. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
+      "publishedAt": "2026-08-04T01:59:51.000Z",
+      "summary": "This live blog is now closed. Sign up for the US Breaking News email On Tuesday, we’ll bring you the latest from Michigan where voters will head to the polls for competitive primaries in Senate and House races. The most closely watched competition is the Democratic primary for the US Senate, where congresswoman Haley Stevens is up against former public health official Abdul El-Sayed. They’re vying to ultimately win the seat of outgoing senator Gary Peters in November. The race has now turned into a proxy battle for the future of the Democratic party. Establishment-backed Stevens has received support from party leaders and her race has been buoyed by millions from the pro-Israel lobby. Meanwhile the insurgent El-Sayed has built a strong grassroots movement and is endorsed by progressives lawmakers in the Democratic caucus. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
-          "publishedAt": "2026-08-02T20:37:11.000Z"
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
+          "publishedAt": "2026-08-04T01:59:51.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "国际组织"
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "持续关注"
       ],
-      "score": 57,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b4b3a5c5d50a92f723d8799b",
-      "isContinuation": false,
-      "titleZh": "小罗伯特·肯尼迪呼吁美国家庭为儿童接种麻疹疫苗以应对疫情",
-      "summaryZh": "美国卫生部长小罗伯特·肯尼迪在接受采访时呼吁家长为孩子接种麻疹疫苗。作为长期以来的疫苗怀疑论者，他的这一立场转变引发了广泛关注。",
-      "whyImportant": "美国麻疹疫情的激增促使政府高层调整疫苗政策立场，这对公共卫生防疫具有重要意义。",
+      "fingerprint": "b5fa174b737242fd213747b5",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "特朗普拒绝在虐待指控中要求马克斯·米勒辞职",
+      "summaryZh": "美国密歇根州即将举行竞争激烈的初选，其中民主党参议院初选成为关注焦点。现任众议员海莉·史蒂文斯与前公共卫生官员阿卜杜勒·埃尔-赛义德展开角逐，该选战被视为民主党未来走向的代理人战争。",
+      "whyImportant": "密歇根州的初选结果将反映民主党内部建制派与进步派之间的力量对比，对后续选举格局具有重要影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5d937953f6e4b3a9",
-      "title": "中国不可能超越美国 习近平最上头的事黄了",
-      "source": "renminbao.com",
-      "url": "https://www.renminbao.com/rmb/articles/2026/8/3/96116.html",
-      "publishedAt": "2026-08-02T20:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "e6341e93497b30a9",
+      "title": "Japan’s prime minister tours earthquake-hit sites as recovery efforts hampered by soaring temperatures",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/04/japan-earthquake-prime-minister-visit-recovery-heat-sanae-takaichi",
+      "publishedAt": "2026-08-04T00:59:38.000Z",
+      "summary": "Prime minister Sanae Takaichi visited Kumamoto prefecture almost a week after a magnitude 7.1 quake hit, killing 38 people Japan’s prime minister, Sanae Takaichi, has visited the south-western prefecture of Kumamoto, where recovery efforts are being hampered by heat and a lack of water supplies, almost a week after a magnitude 7.1 earthquake killed dozens and caused widespread damage. Thirty-eight people died during the quake, including one person who died of apparent heatstroke while taking shelter in a car in hot weather, officials said on Monday. Continue reading...",
+      "language": "",
+      "region": "international",
       "crossSources": [
         {
-          "source": "renminbao.com",
-          "url": "https://www.renminbao.com/rmb/articles/2026/8/3/96116.html",
-          "publishedAt": "2026-08-02T20:15:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/04/japan-earthquake-prime-minister-visit-recovery-heat-sanae-takaichi",
+          "publishedAt": "2026-08-04T00:59:38.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "持续关注"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f313425349e5243649659cd3",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "日本首相视察地震灾区，高温天气阻碍救援工作",
+      "summaryZh": "日本首相高市早苗视察了熊本县地震灾区，该地区一周前遭遇7.1级地震，已造成38人死亡。目前灾区面临高温和供水不足的严峻挑战，救援工作进展缓慢。",
+      "whyImportant": "极端天气叠加地震灾害对日本政府的应急响应能力提出了严峻考验，并引发了对灾民安置条件的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cf1d480f2d64fd28",
+      "title": "Australia news live: St Kilda may lose hundreds of little penguins to bird flu; corruption inquiry told of $50,000 branch stacking scheme",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
+      "publishedAt": "2026-08-04T03:22:25.000Z",
+      "summary": "Follow today’s news live. Get our breaking news email, free app or daily news podcast Murray Watt, the federal environment minister, was asked earlier about former rugby league star Luke Bateman’s testimony before a parliamentary inquiry on gambling reform. Bateman alleged betting company promoters supplied him with cocaine and alcohol, also alleging he attended private Gold Coast events hosted by gambling firms where senior figures took illegal drugs with clients. We all feel for him and the circumstances that he went through. And for anyone to be offering illegal drugs as an inducement or for any other reason is obviously a crime. Should not be committed and people should pay a price if they’re engaging in that kind of criminal behavior. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
+          "publishedAt": "2026-08-04T03:22:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "环境"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "53186774187336b1ee71d906",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻：圣基尔达小企鹅恐因禽流感大量死亡；腐败调查揭露5万美元“堆票”计划",
+      "summaryZh": "澳大利亚联邦环境部长就前橄榄球明星卢克·贝特曼关于博彩公司提供非法药物的指控作出回应。此外，圣基尔达地区的小企鹅正面临禽流感的威胁。",
+      "whyImportant": "博彩行业的腐败指控和生态环境危机同时引发了澳大利亚公众对社会治理和环境保护的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5940a31482a9437a",
+      "title": "北陸と東北が梅雨明け 気象庁発表 熱中症対策の徹底を",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195591000.html",
+      "publishedAt": "2026-08-04T03:19:54.000Z",
+      "summary": "気象庁は、4日午前、北陸と東北南部、東北北部が「梅雨明けしたとみられる」と発表しました。すべての地域で梅雨明けしたことになりますが、福岡県では39度の危険な暑さが予想されているほか、熊本地震の被災地でも猛烈な暑さが予想されています。引き続き、熱中症への対策を徹底してください。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195591000.html",
+          "publishedAt": "2026-08-04T03:19:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "749e55f36b4a1db86b4a1048",
+      "isContinuation": false,
+      "titleZh": "气象厅宣布北陆和东北地区梅雨结束，呼吁严防中暑",
+      "summaryZh": "日本气象厅宣布北陆、东北南部及北部地区梅雨季节结束。随着全国进入盛夏，多地预计将出现极端高温，政府呼吁民众务必采取防暑措施。",
+      "whyImportant": "梅雨结束标志着日本进入高温高湿的夏季，防暑降温成为公共卫生领域的首要任务。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d501cdf40da929d8",
+      "title": "熊本地震の復旧へ予備費支出を決定 プッシュ型の物資支援など",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195671000.html",
+      "publishedAt": "2026-08-04T03:15:14.000Z",
+      "summary": "政府は今回の熊本地震の復旧を迅速に進めるとして、今年度予算の予備費から242億円余りを支出することを決めました。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195671000.html",
+          "publishedAt": "2026-08-04T03:15:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c82a55c52816507032fbe18e",
+      "isContinuation": false,
+      "titleZh": "政府决定从预备费中支出资金用于熊本震后恢复",
+      "summaryZh": "为加快熊本震后恢复工作，日本政府决定从本年度预算预备费中拨出约242亿日元。资金将用于包括“推式”物资援助在内的紧急救灾措施。",
+      "whyImportant": "政府迅速拨付专项资金体现了对灾后重建工作的重视，旨在缓解灾区物资匮乏的燃眉之急。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "247fb83d8f1cd038",
+      "title": "“今回の熊本地震 特に暑さ対策が重要” 現地に派遣のDMAT医師",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195561000.html",
+      "publishedAt": "2026-08-04T02:54:45.000Z",
+      "summary": "今回の熊本地震で、DMAT＝災害派遣医療チームとして今月2日まで熊本県に派遣された医師が、NHKの取材に応じました。被災地では断水が続き、連日、透析患者を別の病院に移送しているなどとしたうえで、10年前の熊本地震と比べて特に「暑さ」対策が重要だと訴えました。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195561000.html",
+          "publishedAt": "2026-08-04T02:54:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "06773c0121425f19205dcecf",
+      "isContinuation": false,
+      "titleZh": "DMAT医生：此次熊本震后防暑降温尤为重要",
+      "summaryZh": "一名曾被派往熊本的灾害派遣医疗团队（DMAT）医生指出，灾区断水情况持续，且需不断转移透析患者。他强调，与十年前的地震相比，此次灾区的高温天气使得防暑工作成为重中之重。",
+      "whyImportant": "医疗专家的建议揭示了灾后特殊环境下公共卫生管理的复杂性，对后续救灾策略具有指导意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0e113d51f3d3f656",
+      "title": "熊本地震1週間 38人死亡 災害関連死いかに防ぐかが喫緊の課題",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195471000.html",
+      "publishedAt": "2026-08-04T02:34:33.000Z",
+      "summary": "熊本県で最大震度7を観測した地震から4日で1週間です。これまでに災害関連死の疑いがある人などを含めて38人が死亡しました。被災地では連日、危険な暑さが続く中、車中泊を余儀なくされる人もいて、災害関連死をいかに防ぐかが喫緊の課題となっています。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195471000.html",
+          "publishedAt": "2026-08-04T02:34:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f8ca9a1333dbd95a1318f21b",
+      "isContinuation": false,
+      "titleZh": "熊本震后一周死亡人数达38人，如何预防灾害相关死亡成紧迫课题",
+      "summaryZh": "熊本县地震发生已满一周，包括疑似灾害相关死亡在内，遇难人数已达38人。在持续的高温天气下，许多灾民被迫在车内过夜，如何防止灾害相关死亡成为当前最紧迫的课题。",
+      "whyImportant": "灾害相关死亡的增加凸显了灾后安置环境对脆弱人群生命健康的直接威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "20358eec0109bcdd",
+      "title": "Sportsbet and Tabcorp deny allegations they sourced drugs and sex workers to encourage VIP clients to bet more",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
+      "publishedAt": "2026-08-04T02:55:00.000Z",
+      "summary": "Betting firms respond to claims made by anti-gambling campaigners Tim Costello and Luke Bateman at parliamentary inquiry Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Betting giants Sportsbet and Tabcorp say there is no evidence to substantiate allegations that account managers sourced drugs and sex workers to incentivise vulnerable people to bet more, calling for information about the claims to be provided to regulators. The anti-gambling campaigners Tim Costello and Luke Bateman used a parliamentary hearing into Labor’s legislation to curb gambling advertising to allege problem gamblers had been supplied with cocaine, alcohol and sex workers, alleging companies exercised no duty of care to their customers. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
+          "publishedAt": "2026-08-04T02:55:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "857ef49627dc5d957cf3fcd1",
+      "isContinuation": false,
+      "titleZh": "博彩公司否认提供毒品和性工作者以诱导VIP客户投注",
+      "summaryZh": "针对反博彩活动人士的指控，博彩巨头Sportsbet和Tabcorp否认其客户经理曾提供毒品和性工作者来诱导赌徒。公司呼吁将相关证据提交给监管机构进行调查。",
+      "whyImportant": "此争议引发了对博彩行业道德标准及监管力度的广泛质疑，可能推动相关法律法规的收紧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "32428bedf206db32",
+      "title": "Immigrant being held at Delaney Hall dies, marking 22nd death in ICE custody",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/ice-delaney-hall-custody-death",
+      "publishedAt": "2026-08-04T02:08:47.000Z",
+      "summary": "Edwin Lopez-Cornejo, 41, was arrested in New Jersey in June, and died after a ‘medical emergency’, agency said An immigrant being held at a New Jersey ICE detention center died on 1 August, the Department of Homeland Security (DHS) announced on Monday. Edwin Lopez-Cornejo, 41, is the 22nd person to die in ICE custody this year, according to agency data. Lopez-Cornejo, who is originally from El Salvador and first came to the US in 2006, was arrested by ICE agents in Plainfield, New Jersey, on 18 June and sent to Delaney Hall detention facility to await deportation. Less than two months later he suffered an unspecified “medical emergency”, and was later pronounced dead by University Hospital in Newark, New Jersey, ICE said. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/03/ice-delaney-hall-custody-death",
+          "publishedAt": "2026-08-04T02:08:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b41b7aae3ebb602e0c9e72b5",
+      "isContinuation": false,
+      "titleZh": "一名被拘留的移民在德莱尼大厅死亡，系今年ICE拘留期间第22起死亡事件",
+      "summaryZh": "美国国土安全部宣布，一名41岁的萨尔瓦多籍移民在被ICE拘留期间因“医疗紧急情况”死亡。这是今年以来在ICE拘留期间发生的第22起死亡事件。",
+      "whyImportant": "移民拘留中心的医疗保障和人权状况再次引发了美国国内关于移民政策的激烈辩论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a4f6eb095e95d80a",
+      "title": "防衛白書「新しい戦い方」に対応 防衛関係の産業基盤を強化",
+      "source": "NHK World",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195621000.html",
+      "publishedAt": "2026-08-04T03:14:40.000Z",
+      "summary": "ことしの防衛白書はAIやドローンを活用した「新しい戦い方」に対応するため、防衛関係の生産・技術基盤を強化する重要性を強調しています。また、中国については、軍事力の質と量を急速に強化しており、日本と国際社会の深刻な懸念事項だと指摘しています。",
+      "language": "",
+      "region": "asia",
+      "crossSources": [
+        {
+          "source": "NHK World",
+          "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195621000.html",
+          "publishedAt": "2026-08-04T03:14:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "64e82a2ef3e6cff7bd113fb3",
+      "isContinuation": false,
+      "titleZh": "防卫白皮书：应对“新战法”，强化防卫产业基础",
+      "summaryZh": "日本今年的防卫白皮书强调，为应对人工智能和无人机带来的“新战法”，必须强化防卫生产和技术基础。白皮书同时指出，中国军力的快速增长是日本及国际社会的严重关切。",
+      "whyImportant": "日本防卫政策的调整反映了其对地区安全环境变化的担忧，并预示着未来防卫产业投入的增加。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "75db0eaec0691cd1",
+      "title": "Trump election claims debunked, US critical minerals fears: 7 US-China relations reads",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3362449/trump-election-claims-debunked-us-critical-minerals-fears-7-us-china-relations-reads?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T14:00:10.000Z",
+      "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. Liberation Day 2.0? US slaps fresh wave of tariffs on China, 50-plus economies On June 24, the United States imposed a fresh wave of tariffs against 60 economies, including China, Japan, South Korea, India and European Union member states, hours before a temporary 10 per cent blanket levy...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3362449/trump-election-claims-debunked-us-critical-minerals-fears-7-us-china-relations-reads?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T14:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "经济"
+      ],
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "66ba221b8744a9c0689ef0d3",
+      "isContinuation": false,
+      "titleZh": "特朗普选举主张被驳斥，美国对关键矿产的担忧：七篇关于美中关系的文章",
+      "summaryZh": "本文精选了近期关于美中关系的七篇重要报道，涵盖了美国对华关税政策及关键矿产供应链等议题。这些报道反映了当前美中在经贸与战略领域的复杂互动。",
+      "whyImportant": "梳理美中关系的关键议题有助于理解全球地缘政治与经济格局的演变趋势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c0e6b93a33db6d3d",
+      "title": "Chinese executive filmed taking cash on Colombia metro, South America’s biggest project",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/article/3362846/chinese-executive-filmed-taking-cash-colombia-metro-south-americas-biggest-project?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T19:16:31.000Z",
+      "summary": "Colombian prosecutors are investigating allegations that executives of a Chinese state-owned contractor building the Bogota metro demanded cash from a local subcontractor in exchange for releasing payments owed for work on the project, according to an investigation published over the weekend by Semana, the country’s leading news magazine. The consortium building the line has denied any wrongdoing, saying the money seen changing hands was a retention payment agreed upon between the two firms in a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/article/3362846/chinese-executive-filmed-taking-cash-colombia-metro-south-americas-biggest-project?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T19:16:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2102,75 +1553,255 @@
         "中国重点",
         "美国重点"
       ],
-      "score": 55,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8a3e5e72af0d5f4713887217",
+      "fingerprint": "9eadbe65bb8b31e8dd75879f",
       "isContinuation": false,
-      "titleZh": "中国不可能超越美国，习近平最上头的事黄了",
-      "summaryZh": "文章评论称中国在某些战略目标上未能实现预期，并认为中国在综合国力上难以超越美国。文中对当前政策走向持批评态度。",
-      "whyImportant": "此类评论反映了外界对中国发展战略及中美竞争前景的负面评估。",
+      "titleZh": "中国高管在哥伦比亚地铁项目现场被拍到收取现金",
+      "summaryZh": "哥伦比亚检察官正在调查中国国有承包商高管涉嫌向当地分包商索贿的指控。涉事财团否认存在不当行为，称相关款项为双方约定的保留金。",
+      "whyImportant": "此事件可能影响中国企业在海外大型基础设施项目中的声誉及后续合作环境。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "be5a0f9275822b4b",
-      "title": "Russian and Ukrainian strikes kill 14 on both sides",
+      "id": "6d1ab9534cae266f",
+      "title": "500 Hong Kong students get taste of military life as PLA summer camp returns",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3362839/500-hong-kong-students-get-taste-military-life-pla-summer-camp-returns?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T15:06:01.000Z",
+      "summary": "About 500 Hong Kong students are getting a taste of army life, with the PLA garrison launching its annual summer camp to instil patriotism and discipline, and teach military skills, among young people. Among the new recruits is Lo Wan-lung, a Form One student at Salesian English School who is attending the two-week camp for the first time. Attracted by the chance of weapons-related training, the young military enthusiast said he was curious to experience holding weapons during mock shooting...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3362839/500-hong-kong-students-get-taste-military-life-pla-summer-camp-returns?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T15:06:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "399db913263b4b47b5deb18f",
+      "isContinuation": false,
+      "titleZh": "解放军夏令营回归，500名香港学生体验军旅生活",
+      "summaryZh": "约500名香港学生参加了为期两周的解放军夏令营，旨在培养爱国情怀、纪律意识并学习军事技能。学生们对模拟射击等训练表现出浓厚兴趣。",
+      "whyImportant": "此类活动旨在加强香港青少年对国家及军队的认知，是香港国民教育的重要组成部分。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f2fa7bb6045e4ece",
+      "title": "KMT accuses Taiwan’s government of failing to uphold South China Sea claims",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3362823/kmt-accuses-taiwans-government-failing-uphold-south-china-sea-claims?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T02:00:12.000Z",
+      "summary": "Opposition parties in Taiwan have accused the government of failing to defend the island’s long-standing claims in the South China Sea, following its muted response to Philippine attempts to delimit a disputed shoal. “The government speaks loudly when confronting mainland China, but falls silent when Japan or the Philippines challenges Taiwan’s claims,” Kuomintang culture and communications committee director Chen I-hsin said on Sunday. Chen was referring to the Philippines’ move to assert...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3362823/kmt-accuses-taiwans-government-failing-uphold-south-china-sea-claims?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T02:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c0664f0bb0c73d517bec22bd",
+      "isContinuation": false,
+      "titleZh": "国民党指责台湾当局未能捍卫南海主权主张",
+      "summaryZh": "台湾反对党指责民进党当局在南海问题上立场软弱，未能有效应对菲律宾对争议岛礁的划界企图。国民党批评当局在面对大陆时态度强硬，但在面对日菲挑战时却保持沉默。",
+      "whyImportant": "南海主权争议的复杂性持续影响台湾内部政治，并考验其在区域地缘政治中的外交策略。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "528d071ee3846448",
+      "title": "Does the US blockade on Cuba make America safer?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-      "publishedAt": "2026-08-02T18:37:23.000Z",
-      "summary": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+      "publishedAt": "2026-08-04T01:58:17.000Z",
+      "summary": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-          "publishedAt": "2026-08-02T18:37:23.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+          "publishedAt": "2026-08-04T01:58:17.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
+        "美国重点",
+        "军事与安全"
       ],
       "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "9e2f3eb4357e1348066caea8",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "dd88e0d87bd977ff7ea33f03",
       "isContinuation": false,
-      "titleZh": "俄乌双方袭击造成14人死亡",
-      "summaryZh": "乌克兰袭击了俄罗斯的石油枢纽和高层建筑，泽连斯基警告称“爱国者”拦截导弹严重短缺。双方冲突持续导致平民伤亡。",
-      "whyImportant": "俄乌冲突的持续升级和防空武器的短缺，加剧了战区的人道主义危机。",
+      "titleZh": "美国对古巴的封锁是否让美国更安全？",
+      "summaryZh": "特朗普升级了对哈瓦那的限制措施，警告称古巴仍是美国的“国家安全威胁”。这一政策引发了关于封锁措施有效性及必要性的讨论。",
+      "whyImportant": "美国对古巴的强硬政策反映了其在西半球的地缘战略考量，但其长期效果仍存争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "61aa9e1adc68804c",
-      "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
-      "source": "DW",
-      "url": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-02T09:24:00.000Z",
-      "summary": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.",
-      "language": "en",
-      "region": "europe",
+      "id": "3d77f5b2e63d1445",
+      "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T23:21:50.000Z",
+      "summary": "The US State Department has notified Congress that it plans to close five foreign missions in a rare downsizing of America’s global diplomatic footprint, according to people familiar with the notice. In the notice sent to some congressional committees late last week, the State Department said it ‌planned to close its posts in St George’s, Grenada; Nagoya, Japan; Medan, Indonesia; Douala, Cameroon; and Winnipeg, Canada. The people familiar with the notice spoke on condition of anonymity because...",
+      "language": "",
+      "region": "china",
       "crossSources": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-02T09:24:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T23:21:50.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "外交"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c52781a1d69c3595cba9e95c",
+      "isContinuation": false,
+      "titleZh": "消息人士称美国国务院将关闭驻加拿大、日本和印度尼西亚的领事馆",
+      "summaryZh": "据知情人士透露，美国国务院已通知国会计划关闭五个海外外交机构，包括驻日本名古屋和加拿大温尼伯的领事馆。这是美国罕见的一次全球外交足迹缩减。",
+      "whyImportant": "外交机构的裁撤可能削减美国在相关地区的影响力，并引发外界对其全球战略收缩的猜测。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a1ad9723fefa77e2",
+      "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+      "publishedAt": "2026-08-03T22:35:47.000Z",
+      "summary": "Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+          "publishedAt": "2026-08-03T22:35:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d72503ba2839ed2e2961db5d",
+      "isContinuation": false,
+      "titleZh": "从特朗普到埃尔-赛义德：密歇根州的美国阿拉伯人将巴勒斯坦问题置于政治中心",
+      "summaryZh": "密歇根州的阿拉伯裔美国选民表示，由于不满现任政府的立场，他们将不会支持亲以色列的候选人。巴勒斯坦问题已成为该群体参与政治决策的核心考量。",
+      "whyImportant": "阿拉伯裔选民的政治动向可能对美国关键摇摆州的选举结果产生重要影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7346e69be3644029",
+      "title": "Trump claims ‘last chance’ for Iran to strike deal in latest warning",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3362850/trump-claims-last-chance-iran-strike-deal-latest-warning?utm_source=rss_feed",
+      "publishedAt": "2026-08-03T21:23:20.000Z",
+      "summary": "US President Donald Trump on Monday said Iran was facing its “last chance” to reach an agreement with Washington to reopen the Strait of Hormuz and end the five-month-long war. “This is a last chance for them to sign a good document,” Trump said at the Oval Office in the White House. “I want to give them every last chance before decapitation.” He also claimed that negotiations with Tehran are “going on right now” despite Tehran’s insistence that no direct talks were under way. “We are talking,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3362850/trump-claims-last-chance-iran-strike-deal-latest-warning?utm_source=rss_feed",
+          "publishedAt": "2026-08-03T21:23:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "15447f3970f6cac2acd4cec0",
+      "isContinuation": false,
+      "titleZh": "特朗普称伊朗面临达成协议的“最后机会”，发出最新警告",
+      "summaryZh": "特朗普总统表示，伊朗正面临与华盛顿达成协议的“最后机会”，以重新开放霍尔木兹海峡并结束战争。尽管德黑兰否认，特朗普仍声称双方正在进行谈判。",
+      "whyImportant": "特朗普的强硬言论加剧了美伊之间的紧张局势，增加了地区冲突升级的风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b524bb6217283425",
+      "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+      "publishedAt": "2026-08-04T01:43:51.000Z",
+      "summary": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+          "publishedAt": "2026-08-04T01:43:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2179,42 +1810,35 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "attack",
-        "军事",
         "突发"
       ],
-      "fingerprint": "22777c7a3e3ee858733ecbfe",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5637521aed2bd6002fe333ab",
       "isContinuation": false,
-      "titleZh": "波兰：总理图斯克抵制反乌克兰暴力行为",
-      "summaryZh": "波兰国内反乌克兰情绪高涨，针对乌克兰难民的袭击事件频发。总理图斯克公开谴责暴力，并警告俄罗斯带来的安全威胁。",
-      "whyImportant": "波兰国内的社会矛盾反映了欧洲在接纳难民与应对战争影响方面所面临的压力。",
+      "titleZh": "和平委员会称在哈马斯解除武装前，以色列不会从加沙撤军",
+      "summaryZh": "内塔尼亚胡与委员会主任姆拉德诺夫举行会谈，讨论加沙解除武装路线图。双方在以色列近期袭击事件引发的紧张局势下寻求共识。",
+      "whyImportant": "加沙地区的解除武装进程是实现长期和平的关键，但目前各方立场仍存在巨大分歧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "90f682db87f398c0",
-      "title": "Healey’s profiteering warning on food and fuel risks row with retailers",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/aug/02/john-healey-profiteering-warning-retailers-backlash",
-      "publishedAt": "2026-08-02T23:01:18.000Z",
-      "summary": "Chancellor says the government wants to prevent shoppers being ‘taken for a ride’ at the pump or till The chancellor, John Healey, has said the government is standing by to prevent the public from “being taken for a ride at the pump or the till” as the Iran war continues to hit prices. While he said there had been “no significant evidence of so-called price gouging” during the crisis, he used a weekend column to tell the big retailers that ministers were “watching closely” for any signs of profiteering. Continue reading...",
+      "id": "0949fe8a2bcea035",
+      "title": "South Korea tightens grip on high-risk ETFs as investor losses mount",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3362836/south-korea-tightens-grip-high-risk-etfs-investor-losses-mount?utm_source=rss_feed",
+      "publishedAt": "2026-08-04T00:00:18.000Z",
+      "summary": "South Korea’s financial authorities are weighing tighter curbs on high-risk leveraged exchange-traded funds (ETFs) as part of broader efforts to stabilise the country’s notoriously volatile stock market, which has left many investors with heavy losses and mounting debt. The proposals could include giving regulators the power to reduce the leverage ratio of single-stock ETFs and raising the minimum investment requirement to discourage inexperienced retail investors from taking excessive risks,...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/aug/02/john-healey-profiteering-warning-retailers-backlash",
-          "publishedAt": "2026-08-02T23:01:18.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3362836/south-korea-tightens-grip-high-risk-etfs-investor-losses-mount?utm_source=rss_feed",
+          "publishedAt": "2026-08-04T00:00:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2223,22 +1847,19 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "金融"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "9efcf8613a96372718d199df",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0d0f17339938719754fc557b",
       "isContinuation": false,
-      "titleZh": "希利警告零售商不得牟取暴利，食品和燃料价格引发争议",
-      "summaryZh": "英国财政大臣希利表示，政府将密切关注零售商是否存在哄抬物价的行为。尽管目前尚无大规模牟取暴利的证据，但政府强调将保护消费者利益。",
-      "whyImportant": "在战争导致的通胀压力下，政府对物价的干预反映了对民生稳定的高度重视。",
+      "titleZh": "韩国收紧对高风险ETF的监管，投资者损失不断增加",
+      "summaryZh": "韩国金融当局正考虑对高风险杠杆ETF实施更严格的限制，以稳定波动剧烈的股市。拟议措施包括降低杠杆率及提高投资门槛，旨在保护缺乏经验的散户投资者。",
+      "whyImportant": "加强金融监管反映了韩国政府在防范系统性金融风险与保护投资者利益之间的平衡努力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
