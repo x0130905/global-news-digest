@@ -1,288 +1,385 @@
 {
-  "date": "2026-08-08",
-  "generatedAt": "2026-08-08T02:20:30.438Z",
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T02:27:37.127Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "usa",
-    "name": "美国政策与全球影响",
-    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
-    "query": "United States policy economy diplomacy security",
+    "slug": "economy-finance",
+    "name": "全球经济与金融",
+    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
+    "query": "global economy finance trade inflation interest rates",
     "keywords": [
-      "united states",
-      "u.s.",
-      "american",
-      "washington",
-      "white house",
-      "美国",
-      "华盛顿",
-      "白宫",
-      "美联储"
+      "economy",
+      "trade",
+      "tariff",
+      "inflation",
+      "market",
+      "bank",
+      "interest rate",
+      "经济",
+      "贸易",
+      "通胀",
+      "金融",
+      "利率"
     ],
-    "accent": "#3b82f6"
+    "accent": "#10b981"
   },
-  "overview": "今日专题“美国政策与全球影响”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“全球经济与金融”。共筛选 21 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "5e4b5b475a1558d9",
-      "title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-      "publishedAt": "2026-08-08T02:01:31.000Z",
-      "summary": "This live blog is now closed. Appeals court halts construction of Trump’s $400m White House ballroom Sign up for the Breaking News US email Following Lisa Murkowski’s announcement that she plans to vote “no” on Todd Blanche’s nomination to lead the Department of Justice, the acting attorney general can’t afford another defection in order to secure the permanent position. So far the only other holdout is Senator Bill Cassidy – a GOP lawmaker from Louisiana. Cassidy, a former physician, said this week he’s concerned about Blanche’s ability to lead the justice department independently, considering he once served as Donald Trump’s personal lawyer. Continue reading...",
+      "id": "1c8b7bd5c949eab5",
+      "title": "Israeli settler attacks rise as West Bank residents lose land",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+      "publishedAt": "2026-08-09T01:43:04.000Z",
+      "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-          "publishedAt": "2026-08-08T02:01:31.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+          "publishedAt": "2026-08-09T01:43:04.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
+        "全球焦点",
         "突发",
-        "军事与安全",
-        "国际组织",
-        "专题·美国政策与全球影响",
-        "持续关注"
+        "金融",
+        "专题·全球经济与金融"
       ],
-      "score": 86,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 74,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "white house",
-        "美国"
+        "bank",
+        "金融"
       ],
-      "fingerprint": "6cc72604d63445cce3d08a23",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "特朗普抨击上诉法院叫停白宫宴会厅建设，称其威胁国家安全",
-      "summaryZh": "上诉法院叫停了特朗普耗资4亿美元的白宫宴会厅项目，特朗普对此表示强烈不满。同时，共和党参议员对司法部提名人选的反对，使特朗普政府面临人事任命困境。",
-      "whyImportant": "该事件凸显了特朗普在行政权力和人事任命上面临的法律与政治双重阻力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e7d6d18f41213358",
-      "title": "ICYMI: Statement from President Donald J. Trump",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
-      "publishedAt": "2026-08-07T18:04:10.000Z",
-      "summary": "Click here to read the post on Truth Social. The post ICYMI: Statement from President Donald J. Trump appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
-          "publishedAt": "2026-08-07T18:04:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "75d7befb173bb9d18785f521",
+      "fingerprint": "104e785da36cd74da8babc2d",
       "isContinuation": false,
-      "titleZh": "回顾：唐纳德·特朗普总统声明",
-      "summaryZh": "白宫发布了唐纳德·特朗普总统在Truth Social平台上的声明。",
-      "whyImportant": "这是特朗普通过社交媒体直接传达政策立场的重要渠道。",
+      "titleZh": "约旦河西岸定居者袭击事件增加，居民土地流失",
+      "summaryZh": "伯利恒附近的巴勒斯坦人表示，随着约旦河西岸暴力事件升级，他们正面临定居者日益频繁的袭击。当地居民的土地安全正受到严重威胁。",
+      "whyImportant": "该地区持续的暴力冲突加剧了巴勒斯坦居民的生存危机与领土流失。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2e71c5733dd0cb3b",
-      "title": "US court blocks Trump’s US$400 million White House ballroom project",
+      "id": "fa901b1d1b1ac641",
+      "title": "Hong Kong’s 5-year plan needs ambition to match Beijing’s expectations",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3363361/us-court-blocks-trumps-us400-million-white-house-ballroom-project?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T15:46:28.000Z",
-      "summary": "A US federal appeal court ordered Donald Trump’s administration on Friday to stop construction on a US$400 million ballroom on the site of the White House’s demolished East Wing, dealing the Republican leader a major setback in a case testing his presidential authority. “Each president is a temporary tenant, not the owner, of the White House” and cannot fundamentally reshape it without congressional approval, the Washington-based US Court of Appeals for the District of Columbia Circuit said in a...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363144/hong-kongs-5-year-plan-needs-ambition-match-beijings-expectations?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T01:30:05.000Z",
+      "summary": "Hong Kong’s first five-year plan will be judged not by how many initiatives it assembles. Instead, it will be judged by whether it explains where the city intends to be by 2030 and how it will get there. The consultation document covers the expected ground. It includes the Northern Metropolis; Hong Kong’s roles as an international financial, trade, maritime and aviation centre; integration with the Greater Bay Area and supporting the Belt and Road Initiative; and social priorities such as...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363361/us-court-blocks-trumps-us400-million-white-house-ballroom-project?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T15:46:28.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363144/hong-kongs-5-year-plan-needs-ambition-match-beijings-expectations?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T01:30:05.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "中国重点",
+        "经济",
+        "专题·全球经济与金融"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 70,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "washington",
-        "white house",
-        "美国"
+        "trade",
+        "经济"
       ],
-      "fingerprint": "f6ecd26013da145223d0443e",
+      "fingerprint": "5953f69dafcb3a07bacbb44b",
       "isContinuation": false,
-      "titleZh": "美国法院叫停特朗普4亿美元白宫宴会厅项目",
-      "summaryZh": "美国联邦上诉法院裁定，特朗普政府必须停止在白宫东翼旧址建设4亿美元宴会厅的工程。法院指出，总统并非白宫所有者，未经国会批准不得擅自改建。",
-      "whyImportant": "此裁决是对特朗普行政权力边界的一次重要司法限制。",
+      "titleZh": "香港的五年计划需要雄心以匹配北京的期望",
+      "summaryZh": "香港的首个五年计划不仅应包含具体倡议，更需明确2030年的城市愿景及实现路径。该计划涵盖了北部都会区、国际中心地位及融入大湾区等核心议题。",
+      "whyImportant": "该计划的执行效果将直接影响香港在国家战略中的定位与未来发展方向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "375cfe4ac23a4df5",
-      "title": "Nominations Sent to the Senate",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
-      "publishedAt": "2026-08-07T15:09:20.000Z",
-      "summary": "NOMINATIONS SENT TO THE SENATE: Leslie Becera, of Virginia, to be an Assistant Secretary of Transportation. Justin Bytheway, of Utah, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Tonga. Marc Dillard, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador […] The post Nominations Sent to the Senate appeared first on The White House.",
+      "id": "ed389a9aa787eedd",
+      "title": "Climate crisis leaves Malaysia with hot-headed youth",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3363303/climate-crisis-leaves-malaysia-hot-headed-youth?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T02:00:09.000Z",
+      "summary": "Young Malaysians are reporting worsening illnesses, heat-related health problems and disruptions to basic services as climate change intensifies, raising questions over whether the country’s adaptation policies can protect future generations. Unicef Malaysia’s National Youth Climate Change Survey 2025, released in July, found that climate change was no longer only an environmental challenge but an immediate public health and economic issue. The survey gathered responses from 1,420 young people...",
       "language": "",
-      "region": "usa",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
-          "publishedAt": "2026-08-07T15:09:20.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3363303/climate-crisis-leaves-malaysia-hot-headed-youth?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T02:00:09.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "经济",
+        "环境",
+        "专题·全球经济与金融"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "united states",
-        "white house",
-        "美国"
+        "经济"
       ],
-      "fingerprint": "994f89d91cad3bdbc1e84294",
+      "fingerprint": "2c8b520466a64cbd256ae4df",
       "isContinuation": false,
-      "titleZh": "白宫向参议院提交提名名单",
-      "summaryZh": "白宫正式向参议院提交了多项提名，包括交通部助理部长及驻汤加大使等职位。",
-      "whyImportant": "这是政府进行人事布局和外交任命的常规程序。",
+      "titleZh": "气候危机导致马来西亚年轻人情绪焦躁",
+      "summaryZh": "气候变化已成为马来西亚年轻人面临的紧迫公共卫生与经济问题，导致热相关疾病增加及服务中断。调查显示，现有的适应政策可能不足以保护下一代。",
+      "whyImportant": "气候变化对公共卫生和经济的深远影响正促使社会重新审视国家的环境适应策略。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0d8e9229ad4d9a48",
-      "title": "Haitians face arrest and deportation after US removes TPS protections",
+      "id": "d12b18a3f096ffa6",
+      "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+      "publishedAt": "2026-08-08T17:05:17.000Z",
+      "summary": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+          "publishedAt": "2026-08-08T17:05:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "8934ec12b734fa1257850caf",
+      "isContinuation": false,
+      "titleZh": "塞尔维亚与乌克兰承诺加强经济联系，考虑签署自由贸易协定",
+      "summaryZh": "塞尔维亚表示将为乌克兰城市的重建提供援助，并致力于深化两国间的经济合作。双方正探讨通过自由贸易协定进一步加强双边关系。",
+      "whyImportant": "塞尔维亚在俄乌冲突背景下加强与乌克兰的经济往来，显示了其外交政策的调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2b59527c60bba07b",
+      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-      "publishedAt": "2026-08-07T11:00:16.000Z",
-      "summary": "DHS secretary Markwayne Mullin says ‘We’re going after them right now’ despite threat of violence in home country Hundreds of thousands of Haitians are faced with the prospect of imminent risk of arrest and deportation – to a home country racked with crime, violence and political unrest – after the Trump administration officially stripped them of humanitarian protections that had allowed them to live and work legally in the United States for years. US district judge Ana Reyes confirmed on Wednesday that her order blocking the Department of Homeland Security (DHS) from ending temporary protected status (TPS) for Haiti was no longer in effect. This followed the controversial supreme court ruling in June that upended judicial review of the program and opened the door for immigration enforcement to track down and detain Haitians en masse. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+      "publishedAt": "2026-08-08T10:55:15.000Z",
+      "summary": "Unexploded ordnance and a military motorcycle also recovered following record heat and drought conditions Record-low water levels in the Danube have exposed remnants of Europe’s Nazi past, with dozens of second world war ships emerging from the riverbed during an intense drought. In the middle of the river on the Serbian and Romanian border, a broken-up hull was visible on a sandbank that is normally underwater. Other vessels were partly submerged, some still believed to be laden with weapons. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-          "publishedAt": "2026-08-07T11:00:16.000Z"
+          "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+          "publishedAt": "2026-08-08T10:55:15.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
+        "全球焦点",
+        "金融",
         "军事与安全",
-        "专题·美国政策与全球影响"
+        "专题·全球经济与金融"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "united states",
-        "美国"
+        "bank",
+        "金融"
       ],
-      "fingerprint": "667b65b941144d9eeb6857a9",
+      "fingerprint": "2b0075de3a8662b98eb0ec2e",
       "isContinuation": false,
-      "titleZh": "美国取消TPS保护，海地人面临逮捕与驱逐",
-      "summaryZh": "特朗普政府正式取消了对海地人的临时保护身份（TPS），尽管海地国内仍存在暴力和动荡。国土安全部部长表示将立即启动驱逐程序。",
-      "whyImportant": "此举标志着美国移民政策的进一步收紧，引发了人道主义担忧。",
+      "titleZh": "欧洲多瑙河干涸，纳粹沉船重见天日",
+      "summaryZh": "受极端高温和干旱影响，多瑙河水位降至历史低点，导致数十艘二战时期的纳粹沉船露出水面。部分船只残骸中据信仍载有未爆炸的弹药。",
+      "whyImportant": "气候变化导致的极端天气不仅影响生态，还意外揭开了历史遗留的安全隐患。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8fb74a13c2c608ec",
+      "title": "Behind the AI stock market bubble lies a weak yen",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3363176/behind-ai-stock-market-bubble-lies-weak-yen?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T08:30:06.000Z",
+      "summary": "The world might be dividing into rival camps and competing trade blocs, but international capital flows remain footloose and fancy free. In so doing, they pose a threat to what remains of stability in the real economy. A good example of this growing potential for international contagion is the influence of the weak yen on global stock prices. The Japanese currency is expected to remain weak for the foreseeable future – despite recent official intervention in foreign exchange markets by Japan and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3363176/behind-ai-stock-market-bubble-lies-weak-yen?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T08:30:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "科技",
+        "专题·全球经济与金融"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "economy",
+        "trade",
+        "market",
+        "经济"
+      ],
+      "fingerprint": "68200fc591675991d8c7b2bd",
+      "isContinuation": false,
+      "titleZh": "人工智能股市泡沫背后是疲软的日元",
+      "summaryZh": "日元的持续疲软正对全球股市产生溢出效应，成为国际资本流动不稳定的因素之一。尽管日本政府进行了干预，但日元汇率预计仍将维持低位。",
+      "whyImportant": "日元汇率的波动正成为全球金融市场潜在的风险传导渠道。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "451aec7fddcdf842",
+      "title": "‘Hopeless’: Palestinian Christians leave West Bank as hardships mount",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363378/hopeless-palestinian-christians-leave-west-bank-hardships-mount?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T03:48:52.000Z",
+      "summary": "Palestinian Christians call themselves “living stones” and say they have lived continuously in the Holy Land for the last 2,000 years. Maybe not for much longer, believes Reverend Mitri Raheb. “If the current conditions continue, there will not be a single Palestinian Christian left by 2050,” said Raheb, founder and president of Dar al-Kalima University in Bethlehem, the biblical birthplace of Jesus Christ. Faced with growing uncertainty over economic and security conditions, hundreds of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363378/hopeless-palestinian-christians-leave-west-bank-hardships-mount?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T03:48:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "军事与安全",
+        "专题·全球经济与金融"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "经济",
+        "金融"
+      ],
+      "fingerprint": "a6d2394efd333d2142a4cbae",
+      "isContinuation": false,
+      "titleZh": "“毫无希望”：随着困境加剧，巴勒斯坦基督徒离开西岸",
+      "summaryZh": "由于经济和安全状况不断恶化，巴勒斯坦基督徒群体正面临生存危机。有学者警告，若现状持续，到2050年该地区可能不再有巴勒斯坦基督徒居住。",
+      "whyImportant": "长期冲突导致的社会环境恶化正加速当地少数群体的流失。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "29c5698f63b55707",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "publishedAt": "2026-08-08T04:08:18.000Z",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌president, the US state department announced, soon after Abelardo De La ‌Espriella was sworn in and used his inaugural speech to pledge a vigorous fight against drug trafficking, as well as austerity measures to restore confidence in the economy. De La Espriella, 48, won June’s runoff election with ⁠promises to crack down on armed groups, shrink ⁠the state by as much as 40% and ​revive the oil and gas sector. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+          "publishedAt": "2026-08-08T04:08:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "能源",
+        "专题·全球经济与金融"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "economy",
+        "经济"
+      ],
+      "fingerprint": "adadd53adc4d097e1d985926",
+      "isContinuation": false,
+      "titleZh": "美国承诺向哥伦比亚提供10亿美元安全援助，新任右翼总统誓言打击毒品",
+      "summaryZh": "哥伦比亚新任右翼总统阿韦拉多·德拉埃斯皮内拉宣誓就职，承诺打击毒品犯罪并实施经济紧缩。美国政府随即宣布提供10亿美元安全援助以支持其政策。",
+      "whyImportant": "美国对哥伦比亚新政府的资金支持标志着两国在打击毒品和地区安全合作上的进一步结盟。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "a30b1276e5ae16ab",
-      "title": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199981000.html",
-      "publishedAt": "2026-08-08T01:49:16.000Z",
-      "summary": "熊本県は、8日午前7時半の時点で、県内では地震の直接の被害で亡くなった「直接死」かどうか調査している人が1人増えて2人になり、災害関連死の疑いがある1人を含めて39人が死亡したと発表しました。また、県内で開設されている避難所は124か所あり、6591人が避難しているということです。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199981000.html",
-          "publishedAt": "2026-08-08T01:49:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b7bb7fd11b9364033784511e",
-      "isContinuation": false,
-      "titleZh": "熊本地震死亡人数增至39人，含1例灾害相关死亡疑案",
-      "summaryZh": "熊本县政府宣布，截至8日上午，地震直接死亡人数调查增加至2人，加上1例疑似灾害相关死亡，总死亡人数达39人。目前县内设有124处避难所，共有6591名民众避难。",
-      "whyImportant": "此次更新反映了熊本地震灾后伤亡统计的持续修正及当地避难安置的现状。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f45b2f55402fcdcf",
-      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+      "id": "1c8b7bd5c949eab5",
+      "title": "Israeli settler attacks rise as West Bank residents lose land",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-      "publishedAt": "2026-08-07T18:54:55.000Z",
-      "summary": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+      "publishedAt": "2026-08-09T01:43:04.000Z",
+      "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-          "publishedAt": "2026-08-07T18:54:55.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+          "publishedAt": "2026-08-09T01:43:04.000Z"
         }
       ],
       "sourceCount": 1,
@@ -292,35 +389,78 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "金融",
+        "专题·全球经济与金融"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "df9a9cd2aa2f678e720aa16c",
+      "score": 74,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "金融"
+      ],
+      "fingerprint": "104e785da36cd74da8babc2d",
       "isContinuation": false,
-      "titleZh": "乌克兰袭击俄电商巨头物流中心，造成人员伤亡",
-      "summaryZh": "乌克兰持续对俄罗斯电商巨头Wildberries的仓库和物流枢纽发动袭击，称其为俄方战争提供支持。袭击导致了人员伤亡。",
-      "whyImportant": "乌克兰将打击目标扩大至俄罗斯物流基础设施，显示了双方冲突的持续升级。",
+      "titleZh": "约旦河西岸定居者袭击事件增加，居民土地流失",
+      "summaryZh": "伯利恒附近的巴勒斯坦人表示，随着约旦河西岸暴力事件升级，他们正面临定居者日益频繁的袭击。当地居民的土地安全正受到严重威胁。",
+      "whyImportant": "该地区持续的暴力冲突加剧了巴勒斯坦居民的生存危机与领土流失。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6e3358b5c5edd980",
-      "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
-      "publishedAt": "2026-08-07T23:40:16.000Z",
-      "summary": "US president has clashed with Federal Reserve members over his bid to rapidly slash interest rates despite inflation.",
+      "id": "b7585e8a068fd15e",
+      "title": "Australia news live: Tim Wilson says Labor’s NDIS reforms make disability clients ‘feel like they’re being targeted, not the fraudsters’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
+      "publishedAt": "2026-08-09T01:58:24.000Z",
+      "summary": "Meanwhile, expert says bird flu detected on Murray-Darling basin ‘should be ringing alarm bells’. Follow updates Get our breaking news email, free app or daily news podcast Coalition demands NDIS changes focus on fraud, corruption Liberal frontbencher Tim Wilson also called on the government to focus more on fraud and corruption issues in the NDIS, as the Coalition and Labor negotiate on changes to the disability scheme. We have people who are awarding either packages to people when they shouldn’t be used, we’re having people taking advantage of the system and we know this is being exposed. And so as a consequence we’ve seen this massive growth continue to go on and we need to make sure that that’s the focus, not the targeting of the clients. You know, if you go out to voters in Australia, there are a lot of people who are on disability support packages who are very nervous about their future and it’s because of how this government has looked at reforms and they feel like they’re being targeted, not the fraudsters. We’re not wowsers, we do believe in protecting children, particularly from harm. Under the government’s proposed bill, it doesn’t limit the capacity to advertise to chil",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
-          "publishedAt": "2026-08-07T23:40:16.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
+          "publishedAt": "2026-08-09T01:58:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 71,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e6b7d9a857338d86b074f2df",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻直播：蒂姆·威尔逊称工党的残障保险计划改革让残障人士感到被针对",
+      "summaryZh": "自由党议员蒂姆·威尔逊批评政府的残障保险计划（NDIS）改革重点偏差，认为应打击欺诈而非针对残障客户。此外，专家警告墨累-达令盆地发现的禽流感疫情需引起高度警惕。",
+      "whyImportant": "政府在残障福利改革中的政策导向引发了公众对弱势群体权益保障的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed389a9aa787eedd",
+      "title": "Climate crisis leaves Malaysia with hot-headed youth",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3363303/climate-crisis-leaves-malaysia-hot-headed-youth?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T02:00:09.000Z",
+      "summary": "Young Malaysians are reporting worsening illnesses, heat-related health problems and disruptions to basic services as climate change intensifies, raising questions over whether the country’s adaptation policies can protect future generations. Unicef Malaysia’s National Youth Climate Change Survey 2025, released in July, found that climate change was no longer only an environmental challenge but an immediate public health and economic issue. The survey gathered responses from 1,420 young people...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3363303/climate-crisis-leaves-malaysia-hot-headed-youth?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T02:00:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -330,35 +470,38 @@
       "tags": [
         "全球焦点",
         "经济",
-        "金融"
+        "环境",
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "23990b26b0504a9edcd9b3b3",
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "2c8b520466a64cbd256ae4df",
       "isContinuation": false,
-      "titleZh": "特朗普再次尝试解雇美联储理事丽莎·库克",
-      "summaryZh": "美国总统特朗普因在通胀背景下要求快速降息，与美联储成员产生分歧。他目前正重新推动解雇美联储理事丽莎·库克的计划。",
-      "whyImportant": "此举引发了外界对美联储独立性及美国货币政策未来走向的担忧。",
+      "titleZh": "气候危机导致马来西亚年轻人情绪焦躁",
+      "summaryZh": "气候变化已成为马来西亚年轻人面临的紧迫公共卫生与经济问题，导致热相关疾病增加及服务中断。调查显示，现有的适应政策可能不足以保护下一代。",
+      "whyImportant": "气候变化对公共卫生和经济的深远影响正促使社会重新审视国家的环境适应策略。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7925e51a933bdd10",
-      "title": "Prosecutor fired over blogposts critical of Trump sues US justice department",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/prosecutor-fired-trump-blog-lawsuit",
-      "publishedAt": "2026-08-07T21:24:58.000Z",
-      "summary": "Will Rosenzweig’s defunct blog was publicized online by conservative pundit who tagged senior DoJ officials A federal prosecutor fired last year over critical comments he had written as a private citizen about Donald Trump sued the justice department on Friday, saying his termination violated his first amendment rights. Will Rosenzweig was two weeks away from trying a multimillion-dollar Medicare fraud case when a blog he had written years earlier covering a broad range of topics was publicized online by a conservative political commentator who also included a screenshot of Rosenzweig’s LinkedIn account and tagged senior justice department officials for their awareness. Continue reading...",
+      "id": "355b14afb0d62c2e",
+      "title": "Iran thinks it has Trump cornered – but what are the risks?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363415/iran-thinks-it-has-trump-cornered-what-are-risks?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T21:03:08.000Z",
+      "summary": "The Strait of Hormuz is, by some accounts, named for a Zoroastrian deity destined to emerge victorious after a 9,000-year stand-off with an adversary. Iran’s leaders feel their own victory is at hand and will not require the same epic patience. They are betting that military pressure will ultimately force the US to accept their control over the crucial waterway for global energy – and that time is on their side. They know about the diminishing stockpiles of key US weapons such as advanced...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/prosecutor-fired-trump-blog-lawsuit",
-          "publishedAt": "2026-08-07T21:24:58.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363415/iran-thinks-it-has-trump-cornered-what-are-risks?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T21:03:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -368,35 +511,35 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
+        "能源"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "3f76f78d3004e13bf8ef266d",
+      "fingerprint": "6c15b430a493a0ca064347dc",
       "isContinuation": false,
-      "titleZh": "因发布批评特朗普博文被解雇，检察官起诉美国司法部",
-      "summaryZh": "检察官威尔·罗森茨威格因过去作为普通公民发表批评特朗普的博文被解雇，他对此提起诉讼，称其言论自由权受到侵犯。该博文此前被保守派评论员曝光并举报至司法部高层。",
-      "whyImportant": "该案件凸显了公职人员言论自由与政治立场在当前美国司法环境下的冲突。",
+      "titleZh": "伊朗认为已将特朗普逼入绝境，但风险何在？",
+      "summaryZh": "伊朗领导层认为通过军事压力可以迫使美国接受其对霍尔木兹海峡的控制。他们押注美国武器库存减少，并认为时间站在自己这一边。",
+      "whyImportant": "伊朗在关键能源通道上的强硬立场增加了地区冲突升级的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "325bb65aff837fb5",
-      "title": "South Koreans beat the heat with ‘silent disco’ pool party",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-      "publishedAt": "2026-08-07T21:12:45.000Z",
-      "summary": "South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.",
+      "id": "fa813a46071be3f0",
+      "title": "Ukraine denies targeting Bulgaria, as drone explodes near pipeline",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3363414/ukraine-denies-targeting-bulgaria-drone-explodes-near-pipeline?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T17:41:36.000Z",
+      "summary": "Ukraine on Saturday denied targeting Bulgaria after a drone exploded close to the strategic Trans-Balkan gas pipeline linking Turkey to Ukraine near the Romanian border. Bulgaria’s defence ministry said the drone was of a type “widely used by the Ukrainian military”, and the foreign minister summoned the Ukrainian ambassador for a meeting on Monday in response, her office said. Kyiv said it was “in close contact with the Bulgarian side to clarify the circumstances” of the incident, the latest...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-          "publishedAt": "2026-08-07T21:12:45.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3363414/ukraine-denies-targeting-bulgaria-drone-explodes-near-pipeline?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T17:41:36.000Z"
         }
       ],
       "sourceCount": 1,
@@ -405,35 +548,37 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "外交",
+        "军事与安全",
+        "能源"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "bcd56d2f83ea1707e1b2d7b6",
+      "fingerprint": "487edf1579bba2edaf55d523",
       "isContinuation": false,
-      "titleZh": "韩国民众以“静音迪斯科”泳池派对对抗高温",
-      "summaryZh": "在创纪录的热浪袭击下，韩国首尔民众通过举办“静音迪斯科”泳池派对来消暑降温。",
-      "whyImportant": "反映了极端天气对民众生活方式的影响及应对措施。",
+      "titleZh": "乌克兰否认针对保加利亚，此前一架无人机在管道附近爆炸",
+      "summaryZh": "一架疑似乌克兰军方使用的无人机在保加利亚境内的跨巴尔干天然气管道附近爆炸。乌克兰已否认蓄意攻击，并正与保加利亚方面沟通以澄清事实。",
+      "whyImportant": "此次事件引发了保加利亚的外交关切，凸显了周边国家在俄乌冲突外溢影响下的脆弱性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ffed7c8520548762",
-      "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+      "id": "d12b18a3f096ffa6",
+      "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-      "publishedAt": "2026-08-07T21:02:31.000Z",
-      "summary": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+      "publishedAt": "2026-08-08T17:05:17.000Z",
+      "summary": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-          "publishedAt": "2026-08-07T21:02:31.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+          "publishedAt": "2026-08-08T17:05:17.000Z"
         }
       ],
       "sourceCount": 1,
@@ -442,35 +587,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "经济",
+        "专题·全球经济与金融"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "587a0ee720ee97b980ceb81f",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "8934ec12b734fa1257850caf",
       "isContinuation": false,
-      "titleZh": "黎巴嫩称与以色列的边界及囚犯谈判取得“积极进展”",
-      "summaryZh": "在第七轮谈判后，黎巴嫩方面对边界和囚犯问题表示乐观。与此同时，黎巴嫩南部仍有新的以色列袭击报告。",
-      "whyImportant": "尽管局势依然紧张，但双方在外交层面的接触显示出寻求缓解冲突的意愿。",
+      "titleZh": "塞尔维亚与乌克兰承诺加强经济联系，考虑签署自由贸易协定",
+      "summaryZh": "塞尔维亚表示将为乌克兰城市的重建提供援助，并致力于深化两国间的经济合作。双方正探讨通过自由贸易协定进一步加强双边关系。",
+      "whyImportant": "塞尔维亚在俄乌冲突背景下加强与乌克兰的经济往来，显示了其外交政策的调整。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "28d32a4b2ee0b130",
-      "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
-      "publishedAt": "2026-08-07T08:38:56.000Z",
-      "summary": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Get our breaking news email, free app or daily news podcast Alan Jones’s defence barrister has told a Sydney court one of the broadcaster’s alleged victims invented details of alleged indecent assaults at a Fitzroy Falls farm to “humiliate” and “smear” the former media titan. Complainant J told the court during evidence-in-chief earlier this week that during one alleged incident in the property’s bedroom, Jones’s penis was not fully erect and “not very big”. Continue reading...",
+      "id": "5de4e2e936a64212",
+      "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T14:56:28.000Z",
+      "summary": "The United Arab Emirates on Saturday said Iran had targeted a tanker belonging to the state-owned Abu Dhabi National Oil Company (ADNOC) while it was transiting the Strait of Hormuz. Iran has imposed an effective blockade of the strait and wants to charge users for passage, which the US fiercely opposes, and is in talks with nearby Oman over arrangements for the strait’s future management. The UAE foreign ministry in a statement condemned what it called a “hostile Iranian attack that targeted a...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
-          "publishedAt": "2026-08-07T08:38:56.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T14:56:28.000Z"
         }
       ],
       "sourceCount": 1,
@@ -480,73 +629,35 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0f0d6d71a301a09e7968967c",
-      "isContinuation": false,
-      "titleZh": "艾伦·琼斯案：辩方称原告通过披露私密细节意在羞辱被告",
-      "summaryZh": "广播员艾伦·琼斯面临22项猥亵指控，他对此表示不认罪。辩方律师指责原告在法庭上描述的细节是为了羞辱和抹黑被告。",
-      "whyImportant": "该案件因涉及知名公众人物及敏感指控，在澳大利亚社会引发广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "85e128cb4caa4091",
-      "title": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199861000.html",
-      "publishedAt": "2026-08-08T01:19:45.000Z",
-      "summary": "アメリカの有力紙は、ロシアが数年以内にNATO＝北大西洋条約機構の加盟国に限定的な地上侵攻を仕掛ける可能性があると、アメリカの情報機関が分析していると伝えました。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199861000.html",
-          "publishedAt": "2026-08-08T01:19:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
+        "能源"
       ],
       "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "c12615244b48624357dffe6b",
+      "fingerprint": "99285b69686760f8a8012fd7",
       "isContinuation": false,
-      "titleZh": "美情报机构分析称俄罗斯可能对北约发动有限入侵",
-      "summaryZh": "据美国媒体报道，美国情报机构分析认为，俄罗斯可能在未来几年内对北约成员国发动有限的地面入侵。",
-      "whyImportant": "此分析加剧了北约成员国对地区安全局势的担忧。",
+      "titleZh": "阿联酋称伊朗袭击其油轮，德黑兰称与阿曼即将达成海峡协议",
+      "summaryZh": "阿联酋指责伊朗在霍尔木兹海峡袭击了一艘阿布扎比国家石油公司的油轮。与此同时，伊朗正寻求与阿曼就海峡的管理安排达成协议。",
+      "whyImportant": "伊朗对关键海上贸易路线的封锁行为加剧了与周边国家及美国的紧张关系。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a0be7a32a93979d2",
-      "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
-      "publishedAt": "2026-08-08T01:29:14.000Z",
-      "summary": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
+      "id": "2b59527c60bba07b",
+      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+      "publishedAt": "2026-08-08T10:55:15.000Z",
+      "summary": "Unexploded ordnance and a military motorcycle also recovered following record heat and drought conditions Record-low water levels in the Danube have exposed remnants of Europe’s Nazi past, with dozens of second world war ships emerging from the riverbed during an intense drought. In the middle of the river on the Serbian and Romanian border, a broken-up hull was visible on a sandbank that is normally underwater. Other vessels were partly submerged, some still believed to be laden with weapons. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
-          "publishedAt": "2026-08-08T01:29:14.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+          "publishedAt": "2026-08-08T10:55:15.000Z"
         }
       ],
       "sourceCount": 1,
@@ -555,35 +666,40 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全"
+        "金融",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "17316f35b197407b467ce051",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "金融"
+      ],
+      "fingerprint": "2b0075de3a8662b98eb0ec2e",
       "isContinuation": false,
-      "titleZh": "麦加防务协议对美国在中东的角色意味着什么？",
-      "summaryZh": "分析人士指出，中东地区伙伴正在寻求补充安全保障的替代方案，而非完全放弃美国的支持。该协议反映了地区国家在安全战略上的多元化尝试。",
-      "whyImportant": "这标志着中东地区安全架构正在发生微妙的调整，可能影响美国在该地区的影响力。",
+      "titleZh": "欧洲多瑙河干涸，纳粹沉船重见天日",
+      "summaryZh": "受极端高温和干旱影响，多瑙河水位降至历史低点，导致数十艘二战时期的纳粹沉船露出水面。部分船只残骸中据信仍载有未爆炸的弹药。",
+      "whyImportant": "气候变化导致的极端天气不仅影响生态，还意外揭开了历史遗留的安全隐患。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7da183aa96af8ae4",
-      "title": "Trump shifts blame to Republicans for waning support from public",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-      "publishedAt": "2026-08-08T01:28:39.000Z",
-      "summary": "Republican senators are using the summer recess to avoid politically difficult votes.",
+      "id": "8fb74a13c2c608ec",
+      "title": "Behind the AI stock market bubble lies a weak yen",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3363176/behind-ai-stock-market-bubble-lies-weak-yen?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T08:30:06.000Z",
+      "summary": "The world might be dividing into rival camps and competing trade blocs, but international capital flows remain footloose and fancy free. In so doing, they pose a threat to what remains of stability in the real economy. A good example of this growing potential for international contagion is the influence of the weak yen on global stock prices. The Japanese currency is expected to remain weak for the foreseeable future – despite recent official intervention in foreign exchange markets by Japan and...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-          "publishedAt": "2026-08-08T01:28:39.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3363176/behind-ai-stock-market-bubble-lies-weak-yen?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T08:30:06.000Z"
         }
       ],
       "sourceCount": 1,
@@ -592,37 +708,89 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "经济",
+        "金融",
+        "科技",
+        "专题·全球经济与金融"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "economy",
+        "trade",
+        "market",
+        "经济"
+      ],
+      "fingerprint": "68200fc591675991d8c7b2bd",
+      "isContinuation": false,
+      "titleZh": "人工智能股市泡沫背后是疲软的日元",
+      "summaryZh": "日元的持续疲软正对全球股市产生溢出效应，成为国际资本流动不稳定的因素之一。尽管日本政府进行了干预，但日元汇率预计仍将维持低位。",
+      "whyImportant": "日元汇率的波动正成为全球金融市场潜在的风险传导渠道。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "451aec7fddcdf842",
+      "title": "‘Hopeless’: Palestinian Christians leave West Bank as hardships mount",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363378/hopeless-palestinian-christians-leave-west-bank-hardships-mount?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T03:48:52.000Z",
+      "summary": "Palestinian Christians call themselves “living stones” and say they have lived continuously in the Holy Land for the last 2,000 years. Maybe not for much longer, believes Reverend Mitri Raheb. “If the current conditions continue, there will not be a single Palestinian Christian left by 2050,” said Raheb, founder and president of Dar al-Kalima University in Bethlehem, the biblical birthplace of Jesus Christ. Faced with growing uncertainty over economic and security conditions, hundreds of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363378/hopeless-palestinian-christians-leave-west-bank-hardships-mount?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T03:48:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
       "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d2a1c921f90cf6f0f5221e45",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "经济",
+        "金融"
+      ],
+      "fingerprint": "a6d2394efd333d2142a4cbae",
       "isContinuation": false,
-      "titleZh": "特朗普将公众支持率下降归咎于共和党人",
-      "summaryZh": "特朗普指责共和党人导致其公众支持率下滑。目前共和党参议员正利用夏季休会期，以避免参与政治敏感的投票。",
-      "whyImportant": "显示了特朗普与共和党内部在政治策略上的分歧。",
+      "titleZh": "“毫无希望”：随着困境加剧，巴勒斯坦基督徒离开西岸",
+      "summaryZh": "由于经济和安全状况不断恶化，巴勒斯坦基督徒群体正面临生存危机。有学者警告，若现状持续，到2050年该地区可能不再有巴勒斯坦基督徒居住。",
+      "whyImportant": "长期冲突导致的社会环境恶化正加速当地少数群体的流失。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "d38dfb6faa49f07a",
-      "title": "China faces new AI bottleneck as it runs out of Chinese-language training data",
+      "id": "fa901b1d1b1ac641",
+      "title": "Hong Kong’s 5-year plan needs ambition to match Beijing’s expectations",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
-      "publishedAt": "2026-08-08T02:00:23.000Z",
-      "summary": "China’s high-stakes race to build next-generation artificial intelligence models is entering a critical new phase, where a less visible yet far more existential threat is coming into view: a severe shortage of high-quality training data. While the US chokehold on advanced computing chips has dominated headlines, Chinese AI experts increasingly warn that running out of quality data could prove to be the next major bottleneck to the nation’s tech ambitions – and one that hardware workarounds...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363144/hong-kongs-5-year-plan-needs-ambition-match-beijings-expectations?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T01:30:05.000Z",
+      "summary": "Hong Kong’s first five-year plan will be judged not by how many initiatives it assembles. Instead, it will be judged by whether it explains where the city intends to be by 2030 and how it will get there. The consultation document covers the expected ground. It includes the Northern Metropolis; Hong Kong’s roles as an international financial, trade, maritime and aviation centre; integration with the Greater Bay Area and supporting the Belt and Road Initiative; and social priorities such as...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
-          "publishedAt": "2026-08-08T02:00:23.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363144/hong-kongs-5-year-plan-needs-ambition-match-beijings-expectations?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T01:30:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -631,36 +799,39 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "科技"
+        "经济",
+        "专题·全球经济与金融"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2aa7ac068ab8d734c8e2b6d9",
+      "score": 70,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "5953f69dafcb3a07bacbb44b",
       "isContinuation": false,
-      "titleZh": "中国AI面临新瓶颈：中文训练数据告急",
-      "summaryZh": "中国在人工智能领域的竞争正进入关键阶段，但高质量中文训练数据的严重短缺成为主要瓶颈。专家警告，这可能比芯片限制对技术发展产生更深远的影响。",
-      "whyImportant": "数据资源短缺已成为制约中国AI产业发展的核心挑战。",
+      "titleZh": "香港的五年计划需要雄心以匹配北京的期望",
+      "summaryZh": "香港的首个五年计划不仅应包含具体倡议，更需明确2030年的城市愿景及实现路径。该计划涵盖了北部都会区、国际中心地位及融入大湾区等核心议题。",
+      "whyImportant": "该计划的执行效果将直接影响香港在国家战略中的定位与未来发展方向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a3b2028e1a291053",
-      "title": "HKU virologist spared conviction for assaulting man and damaging his phone",
+      "id": "5f62d50494144a12",
+      "title": "Chinese man’s 3,000km search for pen pal from 24 years ago sparks deep nostalgia",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363334/hku-virologist-spared-conviction-assaulting-man-and-damaging-his-phone?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T10:42:05.000Z",
-      "summary": "A University of Hong Kong (HKU) virologist has been spared a criminal conviction for assaulting a man and damaging his mobile phone at a railway station last year. Eastern Court on Friday placed Vijaykrishna Dhanasekaran on a two-year bind-over order and instructed him to pay HK$800 (US$102) in damages, after he admitted attacking a stranger at Hong Kong MTR station on August 17, 2025. The 48-year-old associate professor, who heads the university’s pathogen evolution lab, could be fined HK$2,000...",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363418/chinese-mans-3000km-search-pen-pal-24-years-ago-sparks-deep-nostalgia?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T01:25:47.000Z",
+      "summary": "A man from southern China travelled 3,000 kilometres to search for his pen pal from 24 years ago, stirring nostalgia among many for their own youth pen pals. Li Zhicong, around 40, hails from the Guangxi Zhuang autonomous region and has been working in Shenzhen, Guangdong province, for over a decade. Recently, he journeyed 3,000 km to Inner Mongolia in northern China to find his pen pal “Ice Rain,” who wrote him a letter 24 years ago. In 2002, when he was a third-year junior secondary school...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363334/hku-virologist-spared-conviction-assaulting-man-and-damaging-his-phone?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T10:42:05.000Z"
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363418/chinese-mans-3000km-search-pen-pal-24-years-ago-sparks-deep-nostalgia?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T01:25:47.000Z"
         }
       ],
       "sourceCount": 1,
@@ -669,36 +840,35 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "突发",
         "国际组织"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f5cd7cc54e3cd99472b18f19",
+      "fingerprint": "cbdf49e7958654efa54f717f",
       "isContinuation": false,
-      "titleZh": "港大病毒学家袭击他人及损坏手机案获免除定罪",
-      "summaryZh": "香港大学病毒学家Vijaykrishna Dhanasekaran因去年在地铁站袭击他人并损坏手机，被法院判处两年守行为，并需支付赔偿金。他此前已承认相关指控。",
-      "whyImportant": "该判决引发了关于学术界人士行为准则及法律处理的讨论。",
+      "titleZh": "中国男子跨越3000公里寻找24年前笔友，引发深切怀旧",
+      "summaryZh": "一名中国男子近日跨越3000公里前往内蒙古，寻找24年前的笔友。这一举动在社交媒体上引发了公众对书信时代青春记忆的广泛共鸣。",
+      "whyImportant": "该事件反映了数字化时代人们对传统人际交往方式及青春往事的怀念。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6f92e45749e367b5",
-      "title": "CUHK chief calls for more funds for campuses in Northern Metropolis university town",
+      "id": "6e5deba6af304a21",
+      "title": "Is China’s party newspaper carrying more stories highlighting women’s role as mothers?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3363363/cuhk-chief-calls-more-funds-campuses-northern-metropolis-university-town?utm_source=rss_feed",
-      "publishedAt": "2026-08-08T01:00:16.000Z",
-      "summary": "The leader of the Chinese University of Hong Kong (CUHK) has called for greater financial support to develop a proposed 300-hectare (741 acres) university town near the border with mainland China, including funding for local institutions to build campuses, arguing that expansion will help navigate future challenges. In a wide-ranging interview with the South China Morning Post, CUHK president Dennis Lo Yuk-ming said Hong Kong universities needed to expand their presence in the Northern...",
+      "url": "https://www.scmp.com/news/china/politics/article/3363407/chinas-party-newspaper-carrying-more-stories-highlighting-womens-role-mothers?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T02:00:11.000Z",
+      "summary": "“Women hold up half the sky.” This iconic quote attributed to Mao Zedong has been central to Beijing’s messaging about gender equality for decades. It was not just a slogan. After the founding of the People’s Republic in 1949, the Communist Party passed a Marriage Law that banned arranged marriages, abolished foot-binding and encouraged women to enter education and the workplace. But the party’s stance on where women belong has shifted over the decades, according to a new study. To gauge the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3363363/cuhk-chief-calls-more-funds-campuses-northern-metropolis-university-town?utm_source=rss_feed",
-          "publishedAt": "2026-08-08T01:00:16.000Z"
+          "url": "https://www.scmp.com/news/china/politics/article/3363407/chinas-party-newspaper-carrying-more-stories-highlighting-womens-role-mothers?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T02:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -708,33 +878,33 @@
       "tags": [
         "中国重点"
       ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "df2617a776446ab7ef253404",
+      "fingerprint": "93c4966740d26e047df78a7b",
       "isContinuation": false,
-      "titleZh": "中大校长呼吁为北部都会区大学城提供更多资金",
-      "summaryZh": "香港中文大学校长卢煜明呼吁政府加大财政支持，以开发靠近内地边境的300公顷大学城。他认为扩大校园规模有助于应对未来的挑战。",
-      "whyImportant": "此举旨在推动香港高等教育与北部都会区发展的深度融合。",
+      "titleZh": "中国党报是否刊登了更多强调女性母亲角色的报道？",
+      "summaryZh": "一项研究指出，尽管“妇女能顶半边天”的口号长期存在，但官方媒体对女性社会角色的叙事重心正随时代发生微妙变化。研究通过分析党报内容探讨了女性在家庭与职场定位上的政策导向。",
+      "whyImportant": "媒体叙事的变化反映了社会对女性角色认知的政策引导与演变。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "f95863bf7deee6de",
-      "title": "Endanger Hong Kong’s national security and I’ll take you down, Chris Tang warns",
+      "id": "28477f5038800212",
+      "title": "Man falls to death after cleaver attack on neighbour in lift over noise dispute",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3363300/endanger-hong-kongs-national-security-and-ill-take-you-down-chris-tang-warns?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T08:59:53.000Z",
-      "summary": "Hong Kong’s security chief has warned he will take down anyone who endangers national security, while also slamming an embattled press group for lacking credibility ahead of an already delayed leadership election. Secretary for Security Chris Tang Ping-keung said on Friday that the Hong Kong Journalists Association (HKJA) was “not a statutory organisation” and that candidates for its executive committee reportedly included no representatives from mainstream local media outlets, undermining its...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363379/man-found-knife-wounds-lift-another-falls-death-same-hong-kong-block?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T04:58:53.000Z",
+      "summary": "Hong Kong police are investigating an attempted murder and suicide case after a man allegedly attacked his upstairs neighbour with a cleaver in a lift before falling to his death at a public housing block in Wong Tai Sin. Police said they received a report from a security guard at 7.19am on Saturday that a man was attacking another man inside a lift in Chiu Sin House at Upper Wong Tai Sin Estate. “When police and paramedics arrived, they found an injured man inside the lift with knife wounds and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3363300/endanger-hong-kongs-national-security-and-ill-take-you-down-chris-tang-warns?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T08:59:53.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363379/man-found-knife-wounds-lift-another-falls-death-same-hong-kong-block?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T04:58:53.000Z"
         }
       ],
       "sourceCount": 1,
@@ -743,75 +913,75 @@
       "isNoise": false,
       "tags": [
         "中国重点",
+        "突发",
         "军事与安全",
-        "国际组织"
+        "科技"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6256824e92b182c50278aec1",
+      "isContinuation": false,
+      "titleZh": "香港男子因噪音纠纷在电梯内持刀袭击邻居后坠楼身亡",
+      "summaryZh": "香港黄大仙发生一起严重的邻里纠纷案件，一名男子在电梯内持刀袭击邻居后坠楼身亡。警方已将此案列为企图谋杀及自杀案进行调查。",
+      "whyImportant": "该恶性事件引发了公众对高密度居住环境下邻里矛盾处理机制的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "203e8b100251d7e3",
+      "title": "第十七章 威权统治下的近代中国 （ 全文 ） - 蒋闻铭发表于 几曾回首 - 论坛",
+      "source": "bbs.wenxuecity.com",
+      "url": "https://bbs.wenxuecity.com/memory/1918187.html",
+      "publishedAt": "2026-08-09T00:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "bbs.wenxuecity.com",
+          "url": "https://bbs.wenxuecity.com/memory/1918187.html",
+          "publishedAt": "2026-08-09T00:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
       ],
       "score": 54,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "701bc78a91df5bd0ac117e7e",
+      "fingerprint": "b8b1d95ac94ea37f1ba1eab6",
       "isContinuation": false,
-      "titleZh": "邓炳强警告：危害国家安全者必将受到打击",
-      "summaryZh": "香港保安局局长邓炳强警告称，将打击任何危害国家安全的人。同时，他批评香港记者协会缺乏公信力，并指出其执委会候选人缺乏主流媒体代表。",
-      "whyImportant": "反映了香港政府对国家安全及相关社会组织监管的强硬立场。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "90fe03443576aa7d",
-      "title": "Typhoon Dolphin: Hongkongers stuck in Okinawa prepare for low supplies, power cuts",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3363357/typhoon-dolphin-hongkongers-stuck-okinawa-prepare-low-supplies-power-cuts?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T14:59:14.000Z",
-      "summary": "Hong Kong holidaymakers in Okinawa on Friday contended with depleted supermarket shelves, potential power cuts and violent weather as Typhoon Dolphin shut the Japanese island’s main airport and disrupted every direct flight home. Social media images shared by Hong Kong-linked travel accounts showed empty bread shelves and torrential rain sweeping parts of the popular destination, although travellers said conditions varied significantly across the island. Hong Kong travel account Papa Traveller...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3363357/typhoon-dolphin-hongkongers-stuck-okinawa-prepare-low-supplies-power-cuts?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T14:59:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融"
-      ],
-      "score": 53,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a069eda6f16cd80ef76d93c2",
-      "isContinuation": false,
-      "titleZh": "台风“海豚”袭冲绳，滞留港人面临物资短缺与停电风险",
-      "summaryZh": "受台风“海豚”影响，冲绳机场关闭，所有直飞航班中断。滞留当地的香港游客面临超市货架空空如也及潜在的停电风险。",
-      "whyImportant": "台风对当地旅游业及滞留游客的安全保障造成了严重影响。",
+      "titleZh": "第十七章 威权统治下的近代中国 （ 全文 ） - 蒋闻铭发表于 几曾回首 - 论坛",
+      "summaryZh": "本文探讨了近代中国在威权统治下的历史演变。作者对相关历史时期的政治结构进行了分析。",
+      "whyImportant": "该文为理解近代中国政治体制的演变提供了学术探讨视角。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "5e4b5b475a1558d9",
-      "title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-      "publishedAt": "2026-08-08T02:01:31.000Z",
-      "summary": "This live blog is now closed. Appeals court halts construction of Trump’s $400m White House ballroom Sign up for the Breaking News US email Following Lisa Murkowski’s announcement that she plans to vote “no” on Todd Blanche’s nomination to lead the Department of Justice, the acting attorney general can’t afford another defection in order to secure the permanent position. So far the only other holdout is Senator Bill Cassidy – a GOP lawmaker from Louisiana. Cassidy, a former physician, said this week he’s concerned about Blanche’s ability to lead the justice department independently, considering he once served as Donald Trump’s personal lawyer. Continue reading...",
-      "language": "",
-      "region": "international",
+      "id": "461e55553fec5439",
+      "title": "一个小众阴谋论 ， 为什么能一路杀进华盛顿",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L3RII2H205119734.html",
+      "publishedAt": "2026-08-08T15:30:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-          "publishedAt": "2026-08-08T02:01:31.000Z"
+          "source": "163.com",
+          "url": "https://www.163.com/dy/article/L3RII2H205119734.html",
+          "publishedAt": "2026-08-08T15:30:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -819,44 +989,35 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "突发",
-        "军事与安全",
-        "国际组织",
-        "专题·美国政策与全球影响",
-        "持续关注"
+        "美国重点"
       ],
-      "score": 86,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "6cc72604d63445cce3d08a23",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "特朗普抨击上诉法院叫停白宫宴会厅建设，称其威胁国家安全",
-      "summaryZh": "上诉法院叫停了特朗普耗资4亿美元的白宫宴会厅项目，特朗普对此表示强烈不满。同时，共和党参议员对司法部提名人选的反对，使特朗普政府面临人事任命困境。",
-      "whyImportant": "该事件凸显了特朗普在行政权力和人事任命上面临的法律与政治双重阻力。",
+      "score": 46,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "842c6bd991b73d8390f76f74",
+      "isContinuation": false,
+      "titleZh": "一个小众阴谋论，为什么能一路杀进华盛顿",
+      "summaryZh": "文章分析了某种边缘阴谋论如何通过社交媒体和政治运作进入美国主流政治圈。探讨了虚假信息对政治决策的影响。",
+      "whyImportant": "阴谋论对政治生态的渗透揭示了当前信息传播环境下的社会极化风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e7d6d18f41213358",
-      "title": "ICYMI: Statement from President Donald J. Trump",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
-      "publishedAt": "2026-08-07T18:04:10.000Z",
-      "summary": "Click here to read the post on Truth Social. The post ICYMI: Statement from President Donald J. Trump appeared first on The White House.",
-      "language": "",
-      "region": "usa",
+      "id": "1d3fe3ee46b10285",
+      "title": "How Zelensky White House strategy fell short in winning Trump support",
+      "source": "weeklyblitz.net",
+      "url": "https://weeklyblitz.net/2026/08/08/how-zelenskys-white-house-strategy-fell-short-in-winning-trumps-support/",
+      "publishedAt": "2026-08-08T10:30:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
       "crossSources": [
         {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
-          "publishedAt": "2026-08-07T18:04:10.000Z"
+          "source": "weeklyblitz.net",
+          "url": "https://weeklyblitz.net/2026/08/08/how-zelenskys-white-house-strategy-fell-short-in-winning-trumps-support/",
+          "publishedAt": "2026-08-08T10:30:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -864,39 +1025,35 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "美国重点"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "75d7befb173bb9d18785f521",
+      "score": 42,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "30512477542efdfd594d036c",
       "isContinuation": false,
-      "titleZh": "回顾：唐纳德·特朗普总统声明",
-      "summaryZh": "白宫发布了唐纳德·特朗普总统在Truth Social平台上的声明。",
-      "whyImportant": "这是特朗普通过社交媒体直接传达政策立场的重要渠道。",
+      "titleZh": "泽连斯基的白宫策略为何未能赢得特朗普的支持",
+      "summaryZh": "文章分析了乌克兰总统泽连斯基在与特朗普政府交往中的策略失误。探讨了双方在外交目标与沟通方式上的分歧。",
+      "whyImportant": "乌克兰外交策略的局限性影响了其在关键国际关系中的支持力度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2e71c5733dd0cb3b",
-      "title": "US court blocks Trump’s US$400 million White House ballroom project",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3363361/us-court-blocks-trumps-us400-million-white-house-ballroom-project?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T15:46:28.000Z",
-      "summary": "A US federal appeal court ordered Donald Trump’s administration on Friday to stop construction on a US$400 million ballroom on the site of the White House’s demolished East Wing, dealing the Republican leader a major setback in a case testing his presidential authority. “Each president is a temporary tenant, not the owner, of the White House” and cannot fundamentally reshape it without congressional approval, the Washington-based US Court of Appeals for the District of Columbia Circuit said in a...",
-      "language": "",
-      "region": "china",
+      "id": "2ed5566c5b739f4b",
+      "title": "施工中的白宫宴会厅又被 叫停 特朗普怒了 ！ |刘清扬|总统任期|唐纳 · 川普",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L3QD3R7I0514EGPO.html",
+      "publishedAt": "2026-08-08T05:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363361/us-court-blocks-trumps-us400-million-white-house-ballroom-project?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T15:46:28.000Z"
+          "source": "163.com",
+          "url": "https://www.163.com/dy/article/L3QD3R7I0514EGPO.html",
+          "publishedAt": "2026-08-08T05:45:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -904,124 +1061,37 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "美国重点"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "f6ecd26013da145223d0443e",
+      "score": 38,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "01028d0d3e207f94e4a38011",
       "isContinuation": false,
-      "titleZh": "美国法院叫停特朗普4亿美元白宫宴会厅项目",
-      "summaryZh": "美国联邦上诉法院裁定，特朗普政府必须停止在白宫东翼旧址建设4亿美元宴会厅的工程。法院指出，总统并非白宫所有者，未经国会批准不得擅自改建。",
-      "whyImportant": "此裁决是对特朗普行政权力边界的一次重要司法限制。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "375cfe4ac23a4df5",
-      "title": "Nominations Sent to the Senate",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
-      "publishedAt": "2026-08-07T15:09:20.000Z",
-      "summary": "NOMINATIONS SENT TO THE SENATE: Leslie Becera, of Virginia, to be an Assistant Secretary of Transportation. Justin Bytheway, of Utah, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Tonga. Marc Dillard, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador […] The post Nominations Sent to the Senate appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
-          "publishedAt": "2026-08-07T15:09:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "994f89d91cad3bdbc1e84294",
-      "isContinuation": false,
-      "titleZh": "白宫向参议院提交提名名单",
-      "summaryZh": "白宫正式向参议院提交了多项提名，包括交通部助理部长及驻汤加大使等职位。",
-      "whyImportant": "这是政府进行人事布局和外交任命的常规程序。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0d8e9229ad4d9a48",
-      "title": "Haitians face arrest and deportation after US removes TPS protections",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-      "publishedAt": "2026-08-07T11:00:16.000Z",
-      "summary": "DHS secretary Markwayne Mullin says ‘We’re going after them right now’ despite threat of violence in home country Hundreds of thousands of Haitians are faced with the prospect of imminent risk of arrest and deportation – to a home country racked with crime, violence and political unrest – after the Trump administration officially stripped them of humanitarian protections that had allowed them to live and work legally in the United States for years. US district judge Ana Reyes confirmed on Wednesday that her order blocking the Department of Homeland Security (DHS) from ending temporary protected status (TPS) for Haiti was no longer in effect. This followed the controversial supreme court ruling in June that upended judicial review of the program and opened the door for immigration enforcement to track down and detain Haitians en masse. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-          "publishedAt": "2026-08-07T11:00:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "667b65b941144d9eeb6857a9",
-      "isContinuation": false,
-      "titleZh": "美国取消TPS保护，海地人面临逮捕与驱逐",
-      "summaryZh": "特朗普政府正式取消了对海地人的临时保护身份（TPS），尽管海地国内仍存在暴力和动荡。国土安全部部长表示将立即启动驱逐程序。",
-      "whyImportant": "此举标志着美国移民政策的进一步收紧，引发了人道主义担忧。",
+      "titleZh": "施工中的白宫宴会厅又被叫停，特朗普怒了！",
+      "summaryZh": "特朗普对白宫宴会厅翻新工程再次被叫停表示不满。该事件反映了总统任期内行政管理与工程进度之间的矛盾。",
+      "whyImportant": "白宫内部设施的修缮问题成为总统行政风格与管理效率的侧面反映。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "52f2fe4a101de6fd",
-      "title": "Ceuta: Spain sets up border controls on travelers from Italy",
-      "source": "DW",
-      "url": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-08T01:24:00.000Z",
-      "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.",
-      "language": "en",
-      "region": "europe",
+      "id": "1528b23e3ad7dd14",
+      "title": "Turkiye says Mecca defence pact not aimed at Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+      "publishedAt": "2026-08-08T23:59:15.000Z",
+      "summary": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
+      "language": "",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-08T01:24:00.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+          "publishedAt": "2026-08-08T23:59:15.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1031,328 +1101,34 @@
       "tags": [
         "全球焦点",
         "军事与安全"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ba2f89c0534e8881c2e9f84d",
-      "isContinuation": false,
-      "titleZh": "休达边境争端：西班牙对来自意大利的旅客实施边境管制",
-      "summaryZh": "由于意大利未停止相关管制措施，西班牙宣布对来自意大利的旅客实施入境检查。尽管两国并无陆地边界，但此次争端源于休达边境事件。",
-      "whyImportant": "反映了欧盟成员国之间在边境管理和移民问题上的摩擦。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ad0e6212c606d734",
-      "title": "トランプ大統領 FRBクック理事に“解任検討”を再び通知 報道",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199921000.html",
-      "publishedAt": "2026-08-08T00:14:33.000Z",
-      "summary": "アメリカのトランプ大統領は、金融政策を決める会合を開くFRB＝連邦準備制度理事会のクック理事に対し、解任を検討していることを再び通知したと欧米メディアが伝えました。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199921000.html",
-          "publishedAt": "2026-08-08T00:14:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "金融"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0b978e0580834cc5ea92bc02",
-      "isContinuation": false,
-      "titleZh": "报道称特朗普再次通知美联储理事库克考虑将其解雇",
-      "summaryZh": "据欧美媒体报道，美国总统特朗普再次向美联储理事库克发出通知，称正在考虑将其解雇。",
-      "whyImportant": "此举进一步加剧了市场对美联储政策独立性受政治干预的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "00882188076e7042",
-      "title": "Remains of 56 people found decomposing at Chicago funeral home",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
-      "publishedAt": "2026-08-08T00:31:06.000Z",
-      "summary": "Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains The remains of 56 people were found improperly stored and decomposing on Thursday at a Chicago funeral home run by a couple who previously operated a crematory that was similarly shut down because of mishandled remains, authorities said. Illinois state officials, meanwhile, suspended the license of one of the funeral home’s directors, alleging bodies were being kept in an unrefrigerated area in “deplorable conditions”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
-          "publishedAt": "2026-08-08T00:31:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
       ],
       "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5454817f51418d2bd2538aa5",
+      "fingerprint": "68211bab7703cea3fd6bb3fd",
       "isContinuation": false,
-      "titleZh": "芝加哥一家殡仪馆发现56具遗体，存放条件恶劣",
-      "summaryZh": "芝加哥一家由一对夫妇经营的殡仪馆被发现违规存放56具遗体，且处于腐烂状态。当局已吊销其中一名负责人的执照，并对其“恶劣条件”展开调查。",
-      "whyImportant": "该事件因涉及遗体处理不当及公共卫生安全，引发了社会公愤。",
+      "titleZh": "土耳其称麦加防务协议并非针对伊朗",
+      "summaryZh": "土耳其澄清，其与沙特阿拉伯及巴基斯坦签署的麦加防务协议不具备针对伊朗的意图。此举旨在缓解地区紧张局势。",
+      "whyImportant": "土耳其的外交表态有助于平息地区盟友对防务协议可能引发冲突的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
-    }
-  ],
-  "more": [],
-  "metadata": {
-    "fetched": 146,
-    "deduplicated": 144,
-    "selected": 23,
-    "minimumRequired": 21,
-    "featured": 5,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
+    },
     {
-      "id": "5e4b5b475a1558d9",
-      "title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – as it happened",
+      "id": "3069611d7ebc9eff",
+      "title": "Utah wildfire blocks rescuers from reaching firefighting helicopter crash site",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-      "publishedAt": "2026-08-08T02:01:31.000Z",
-      "summary": "This live blog is now closed. Appeals court halts construction of Trump’s $400m White House ballroom Sign up for the Breaking News US email Following Lisa Murkowski’s announcement that she plans to vote “no” on Todd Blanche’s nomination to lead the Department of Justice, the acting attorney general can’t afford another defection in order to secure the permanent position. So far the only other holdout is Senator Bill Cassidy – a GOP lawmaker from Louisiana. Cassidy, a former physician, said this week he’s concerned about Blanche’s ability to lead the justice department independently, considering he once served as Donald Trump’s personal lawyer. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
+      "publishedAt": "2026-08-08T23:43:37.000Z",
+      "summary": "Fate of two passengers onboard helicopter that went down Friday morning remains unknown after more than 24 hours The fate of two passengers onboard a firefighting helicopter that crashed Friday morning in Utah remains unknown after more than 24 hours, as one of the country’s largest wildfires continues to grow, preventing authorities from safely reaching the accident site. The Sikorsky S-64 helicopter, contracted by the US Forest Service, was responding on Friday to the Widemouth 2 fire, a blaze sparked in late July by lightning, when it crashed in a remote area of central Utah. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-          "publishedAt": "2026-08-08T02:01:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "军事与安全",
-        "国际组织",
-        "专题·美国政策与全球影响",
-        "持续关注"
-      ],
-      "score": 86,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "6cc72604d63445cce3d08a23",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "特朗普抨击上诉法院叫停白宫宴会厅建设，称其威胁国家安全",
-      "summaryZh": "上诉法院叫停了特朗普耗资4亿美元的白宫宴会厅项目，特朗普对此表示强烈不满。同时，共和党参议员对司法部提名人选的反对，使特朗普政府面临人事任命困境。",
-      "whyImportant": "该事件凸显了特朗普在行政权力和人事任命上面临的法律与政治双重阻力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e7d6d18f41213358",
-      "title": "ICYMI: Statement from President Donald J. Trump",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
-      "publishedAt": "2026-08-07T18:04:10.000Z",
-      "summary": "Click here to read the post on Truth Social. The post ICYMI: Statement from President Donald J. Trump appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
-          "publishedAt": "2026-08-07T18:04:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "75d7befb173bb9d18785f521",
-      "isContinuation": false,
-      "titleZh": "回顾：唐纳德·特朗普总统声明",
-      "summaryZh": "白宫发布了唐纳德·特朗普总统在Truth Social平台上的声明。",
-      "whyImportant": "这是特朗普通过社交媒体直接传达政策立场的重要渠道。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2e71c5733dd0cb3b",
-      "title": "US court blocks Trump’s US$400 million White House ballroom project",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3363361/us-court-blocks-trumps-us400-million-white-house-ballroom-project?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T15:46:28.000Z",
-      "summary": "A US federal appeal court ordered Donald Trump’s administration on Friday to stop construction on a US$400 million ballroom on the site of the White House’s demolished East Wing, dealing the Republican leader a major setback in a case testing his presidential authority. “Each president is a temporary tenant, not the owner, of the White House” and cannot fundamentally reshape it without congressional approval, the Washington-based US Court of Appeals for the District of Columbia Circuit said in a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363361/us-court-blocks-trumps-us400-million-white-house-ballroom-project?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T15:46:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "f6ecd26013da145223d0443e",
-      "isContinuation": false,
-      "titleZh": "美国法院叫停特朗普4亿美元白宫宴会厅项目",
-      "summaryZh": "美国联邦上诉法院裁定，特朗普政府必须停止在白宫东翼旧址建设4亿美元宴会厅的工程。法院指出，总统并非白宫所有者，未经国会批准不得擅自改建。",
-      "whyImportant": "此裁决是对特朗普行政权力边界的一次重要司法限制。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "375cfe4ac23a4df5",
-      "title": "Nominations Sent to the Senate",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
-      "publishedAt": "2026-08-07T15:09:20.000Z",
-      "summary": "NOMINATIONS SENT TO THE SENATE: Leslie Becera, of Virginia, to be an Assistant Secretary of Transportation. Justin Bytheway, of Utah, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Tonga. Marc Dillard, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador […] The post Nominations Sent to the Senate appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
-          "publishedAt": "2026-08-07T15:09:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "994f89d91cad3bdbc1e84294",
-      "isContinuation": false,
-      "titleZh": "白宫向参议院提交提名名单",
-      "summaryZh": "白宫正式向参议院提交了多项提名，包括交通部助理部长及驻汤加大使等职位。",
-      "whyImportant": "这是政府进行人事布局和外交任命的常规程序。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0d8e9229ad4d9a48",
-      "title": "Haitians face arrest and deportation after US removes TPS protections",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-      "publishedAt": "2026-08-07T11:00:16.000Z",
-      "summary": "DHS secretary Markwayne Mullin says ‘We’re going after them right now’ despite threat of violence in home country Hundreds of thousands of Haitians are faced with the prospect of imminent risk of arrest and deportation – to a home country racked with crime, violence and political unrest – after the Trump administration officially stripped them of humanitarian protections that had allowed them to live and work legally in the United States for years. US district judge Ana Reyes confirmed on Wednesday that her order blocking the Department of Homeland Security (DHS) from ending temporary protected status (TPS) for Haiti was no longer in effect. This followed the controversial supreme court ruling in June that upended judicial review of the program and opened the door for immigration enforcement to track down and detain Haitians en masse. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-          "publishedAt": "2026-08-07T11:00:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "667b65b941144d9eeb6857a9",
-      "isContinuation": false,
-      "titleZh": "美国取消TPS保护，海地人面临逮捕与驱逐",
-      "summaryZh": "特朗普政府正式取消了对海地人的临时保护身份（TPS），尽管海地国内仍存在暴力和动荡。国土安全部部长表示将立即启动驱逐程序。",
-      "whyImportant": "此举标志着美国移民政策的进一步收紧，引发了人道主义担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a30b1276e5ae16ab",
-      "title": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199981000.html",
-      "publishedAt": "2026-08-08T01:49:16.000Z",
-      "summary": "熊本県は、8日午前7時半の時点で、県内では地震の直接の被害で亡くなった「直接死」かどうか調査している人が1人増えて2人になり、災害関連死の疑いがある1人を含めて39人が死亡したと発表しました。また、県内で開設されている避難所は124か所あり、6591人が避難しているということです。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199981000.html",
-          "publishedAt": "2026-08-08T01:49:16.000Z"
+          "url": "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
+          "publishedAt": "2026-08-08T23:43:37.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1361,73 +1137,36 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "环境",
+        "公共安全"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b7bb7fd11b9364033784511e",
+      "fingerprint": "93b571f19c66eef47124eebc",
       "isContinuation": false,
-      "titleZh": "熊本地震死亡人数增至39人，含1例灾害相关死亡疑案",
-      "summaryZh": "熊本县政府宣布，截至8日上午，地震直接死亡人数调查增加至2人，加上1例疑似灾害相关死亡，总死亡人数达39人。目前县内设有124处避难所，共有6591名民众避难。",
-      "whyImportant": "此次更新反映了熊本地震灾后伤亡统计的持续修正及当地避难安置的现状。",
+      "titleZh": "犹他州野火阻碍救援人员抵达直升机坠毁现场",
+      "summaryZh": "一架参与灭火的直升机在犹他州坠毁，机上两名乘客下落不明。由于当地野火持续蔓延，救援人员目前无法安全进入坠机现场。",
+      "whyImportant": "极端野火环境不仅造成生态破坏，还严重阻碍了紧急救援行动的开展。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "f45b2f55402fcdcf",
-      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-      "publishedAt": "2026-08-07T18:54:55.000Z",
-      "summary": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.",
+      "id": "29c5698f63b55707",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "publishedAt": "2026-08-08T04:08:18.000Z",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌president, the US state department announced, soon after Abelardo De La ‌Espriella was sworn in and used his inaugural speech to pledge a vigorous fight against drug trafficking, as well as austerity measures to restore confidence in the economy. De La Espriella, 48, won June’s runoff election with ⁠promises to crack down on armed groups, shrink ⁠the state by as much as 40% and ​revive the oil and gas sector. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-          "publishedAt": "2026-08-07T18:54:55.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "df9a9cd2aa2f678e720aa16c",
-      "isContinuation": false,
-      "titleZh": "乌克兰袭击俄电商巨头物流中心，造成人员伤亡",
-      "summaryZh": "乌克兰持续对俄罗斯电商巨头Wildberries的仓库和物流枢纽发动袭击，称其为俄方战争提供支持。袭击导致了人员伤亡。",
-      "whyImportant": "乌克兰将打击目标扩大至俄罗斯物流基础设施，显示了双方冲突的持续升级。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6e3358b5c5edd980",
-      "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
-      "publishedAt": "2026-08-07T23:40:16.000Z",
-      "summary": "US president has clashed with Federal Reserve members over his bid to rapidly slash interest rates despite inflation.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
-          "publishedAt": "2026-08-07T23:40:16.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+          "publishedAt": "2026-08-08T04:08:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1437,297 +1176,94 @@
       "tags": [
         "全球焦点",
         "经济",
+        "军事与安全",
+        "能源",
+        "专题·全球经济与金融"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "economy",
+        "经济"
+      ],
+      "fingerprint": "adadd53adc4d097e1d985926",
+      "isContinuation": false,
+      "titleZh": "美国承诺向哥伦比亚提供10亿美元安全援助，新任右翼总统誓言打击毒品",
+      "summaryZh": "哥伦比亚新任右翼总统阿韦拉多·德拉埃斯皮内拉宣誓就职，承诺打击毒品犯罪并实施经济紧缩。美国政府随即宣布提供10亿美元安全援助以支持其政策。",
+      "whyImportant": "美国对哥伦比亚新政府的资金支持标志着两国在打击毒品和地区安全合作上的进一步结盟。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "more": [],
+  "metadata": {
+    "fetched": 165,
+    "deduplicated": 148,
+    "selected": 21,
+    "minimumRequired": 21,
+    "featured": 8,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
+    {
+      "id": "1c8b7bd5c949eab5",
+      "title": "Israeli settler attacks rise as West Bank residents lose land",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+      "publishedAt": "2026-08-09T01:43:04.000Z",
+      "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+          "publishedAt": "2026-08-09T01:43:04.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 74,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
         "金融"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "23990b26b0504a9edcd9b3b3",
+      "fingerprint": "104e785da36cd74da8babc2d",
       "isContinuation": false,
-      "titleZh": "特朗普再次尝试解雇美联储理事丽莎·库克",
-      "summaryZh": "美国总统特朗普因在通胀背景下要求快速降息，与美联储成员产生分歧。他目前正重新推动解雇美联储理事丽莎·库克的计划。",
-      "whyImportant": "此举引发了外界对美联储独立性及美国货币政策未来走向的担忧。",
+      "titleZh": "约旦河西岸定居者袭击事件增加，居民土地流失",
+      "summaryZh": "伯利恒附近的巴勒斯坦人表示，随着约旦河西岸暴力事件升级，他们正面临定居者日益频繁的袭击。当地居民的土地安全正受到严重威胁。",
+      "whyImportant": "该地区持续的暴力冲突加剧了巴勒斯坦居民的生存危机与领土流失。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7925e51a933bdd10",
-      "title": "Prosecutor fired over blogposts critical of Trump sues US justice department",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/prosecutor-fired-trump-blog-lawsuit",
-      "publishedAt": "2026-08-07T21:24:58.000Z",
-      "summary": "Will Rosenzweig’s defunct blog was publicized online by conservative pundit who tagged senior DoJ officials A federal prosecutor fired last year over critical comments he had written as a private citizen about Donald Trump sued the justice department on Friday, saying his termination violated his first amendment rights. Will Rosenzweig was two weeks away from trying a multimillion-dollar Medicare fraud case when a blog he had written years earlier covering a broad range of topics was publicized online by a conservative political commentator who also included a screenshot of Rosenzweig’s LinkedIn account and tagged senior justice department officials for their awareness. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/prosecutor-fired-trump-blog-lawsuit",
-          "publishedAt": "2026-08-07T21:24:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3f76f78d3004e13bf8ef266d",
-      "isContinuation": false,
-      "titleZh": "因发布批评特朗普博文被解雇，检察官起诉美国司法部",
-      "summaryZh": "检察官威尔·罗森茨威格因过去作为普通公民发表批评特朗普的博文被解雇，他对此提起诉讼，称其言论自由权受到侵犯。该博文此前被保守派评论员曝光并举报至司法部高层。",
-      "whyImportant": "该案件凸显了公职人员言论自由与政治立场在当前美国司法环境下的冲突。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "325bb65aff837fb5",
-      "title": "South Koreans beat the heat with ‘silent disco’ pool party",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-      "publishedAt": "2026-08-07T21:12:45.000Z",
-      "summary": "South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-          "publishedAt": "2026-08-07T21:12:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bcd56d2f83ea1707e1b2d7b6",
-      "isContinuation": false,
-      "titleZh": "韩国民众以“静音迪斯科”泳池派对对抗高温",
-      "summaryZh": "在创纪录的热浪袭击下，韩国首尔民众通过举办“静音迪斯科”泳池派对来消暑降温。",
-      "whyImportant": "反映了极端天气对民众生活方式的影响及应对措施。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ffed7c8520548762",
-      "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-      "publishedAt": "2026-08-07T21:02:31.000Z",
-      "summary": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-          "publishedAt": "2026-08-07T21:02:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "587a0ee720ee97b980ceb81f",
-      "isContinuation": false,
-      "titleZh": "黎巴嫩称与以色列的边界及囚犯谈判取得“积极进展”",
-      "summaryZh": "在第七轮谈判后，黎巴嫩方面对边界和囚犯问题表示乐观。与此同时，黎巴嫩南部仍有新的以色列袭击报告。",
-      "whyImportant": "尽管局势依然紧张，但双方在外交层面的接触显示出寻求缓解冲突的意愿。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "28d32a4b2ee0b130",
-      "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
-      "publishedAt": "2026-08-07T08:38:56.000Z",
-      "summary": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Get our breaking news email, free app or daily news podcast Alan Jones’s defence barrister has told a Sydney court one of the broadcaster’s alleged victims invented details of alleged indecent assaults at a Fitzroy Falls farm to “humiliate” and “smear” the former media titan. Complainant J told the court during evidence-in-chief earlier this week that during one alleged incident in the property’s bedroom, Jones’s penis was not fully erect and “not very big”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
-          "publishedAt": "2026-08-07T08:38:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0f0d6d71a301a09e7968967c",
-      "isContinuation": false,
-      "titleZh": "艾伦·琼斯案：辩方称原告通过披露私密细节意在羞辱被告",
-      "summaryZh": "广播员艾伦·琼斯面临22项猥亵指控，他对此表示不认罪。辩方律师指责原告在法庭上描述的细节是为了羞辱和抹黑被告。",
-      "whyImportant": "该案件因涉及知名公众人物及敏感指控，在澳大利亚社会引发广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "85e128cb4caa4091",
-      "title": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199861000.html",
-      "publishedAt": "2026-08-08T01:19:45.000Z",
-      "summary": "アメリカの有力紙は、ロシアが数年以内にNATO＝北大西洋条約機構の加盟国に限定的な地上侵攻を仕掛ける可能性があると、アメリカの情報機関が分析していると伝えました。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199861000.html",
-          "publishedAt": "2026-08-08T01:19:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c12615244b48624357dffe6b",
-      "isContinuation": false,
-      "titleZh": "美情报机构分析称俄罗斯可能对北约发动有限入侵",
-      "summaryZh": "据美国媒体报道，美国情报机构分析认为，俄罗斯可能在未来几年内对北约成员国发动有限的地面入侵。",
-      "whyImportant": "此分析加剧了北约成员国对地区安全局势的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a0be7a32a93979d2",
-      "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
-      "publishedAt": "2026-08-08T01:29:14.000Z",
-      "summary": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
-          "publishedAt": "2026-08-08T01:29:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "17316f35b197407b467ce051",
-      "isContinuation": false,
-      "titleZh": "麦加防务协议对美国在中东的角色意味着什么？",
-      "summaryZh": "分析人士指出，中东地区伙伴正在寻求补充安全保障的替代方案，而非完全放弃美国的支持。该协议反映了地区国家在安全战略上的多元化尝试。",
-      "whyImportant": "这标志着中东地区安全架构正在发生微妙的调整，可能影响美国在该地区的影响力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7da183aa96af8ae4",
-      "title": "Trump shifts blame to Republicans for waning support from public",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-      "publishedAt": "2026-08-08T01:28:39.000Z",
-      "summary": "Republican senators are using the summer recess to avoid politically difficult votes.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-          "publishedAt": "2026-08-08T01:28:39.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d2a1c921f90cf6f0f5221e45",
-      "isContinuation": false,
-      "titleZh": "特朗普将公众支持率下降归咎于共和党人",
-      "summaryZh": "特朗普指责共和党人导致其公众支持率下滑。目前共和党参议员正利用夏季休会期，以避免参与政治敏感的投票。",
-      "whyImportant": "显示了特朗普与共和党内部在政治策略上的分歧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d38dfb6faa49f07a",
-      "title": "China faces new AI bottleneck as it runs out of Chinese-language training data",
+      "id": "fa901b1d1b1ac641",
+      "title": "Hong Kong’s 5-year plan needs ambition to match Beijing’s expectations",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
-      "publishedAt": "2026-08-08T02:00:23.000Z",
-      "summary": "China’s high-stakes race to build next-generation artificial intelligence models is entering a critical new phase, where a less visible yet far more existential threat is coming into view: a severe shortage of high-quality training data. While the US chokehold on advanced computing chips has dominated headlines, Chinese AI experts increasingly warn that running out of quality data could prove to be the next major bottleneck to the nation’s tech ambitions – and one that hardware workarounds...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363144/hong-kongs-5-year-plan-needs-ambition-match-beijings-expectations?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T01:30:05.000Z",
+      "summary": "Hong Kong’s first five-year plan will be judged not by how many initiatives it assembles. Instead, it will be judged by whether it explains where the city intends to be by 2030 and how it will get there. The consultation document covers the expected ground. It includes the Northern Metropolis; Hong Kong’s roles as an international financial, trade, maritime and aviation centre; integration with the Greater Bay Area and supporting the Belt and Road Initiative; and social priorities such as...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
-          "publishedAt": "2026-08-08T02:00:23.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363144/hong-kongs-5-year-plan-needs-ambition-match-beijings-expectations?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T01:30:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1736,36 +1272,449 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "科技"
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 70,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "5953f69dafcb3a07bacbb44b",
+      "isContinuation": false,
+      "titleZh": "香港的五年计划需要雄心以匹配北京的期望",
+      "summaryZh": "香港的首个五年计划不仅应包含具体倡议，更需明确2030年的城市愿景及实现路径。该计划涵盖了北部都会区、国际中心地位及融入大湾区等核心议题。",
+      "whyImportant": "该计划的执行效果将直接影响香港在国家战略中的定位与未来发展方向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed389a9aa787eedd",
+      "title": "Climate crisis leaves Malaysia with hot-headed youth",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3363303/climate-crisis-leaves-malaysia-hot-headed-youth?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T02:00:09.000Z",
+      "summary": "Young Malaysians are reporting worsening illnesses, heat-related health problems and disruptions to basic services as climate change intensifies, raising questions over whether the country’s adaptation policies can protect future generations. Unicef Malaysia’s National Youth Climate Change Survey 2025, released in July, found that climate change was no longer only an environmental challenge but an immediate public health and economic issue. The survey gathered responses from 1,420 young people...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3363303/climate-crisis-leaves-malaysia-hot-headed-youth?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T02:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "环境",
+        "专题·全球经济与金融"
       ],
       "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2aa7ac068ab8d734c8e2b6d9",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "2c8b520466a64cbd256ae4df",
       "isContinuation": false,
-      "titleZh": "中国AI面临新瓶颈：中文训练数据告急",
-      "summaryZh": "中国在人工智能领域的竞争正进入关键阶段，但高质量中文训练数据的严重短缺成为主要瓶颈。专家警告，这可能比芯片限制对技术发展产生更深远的影响。",
-      "whyImportant": "数据资源短缺已成为制约中国AI产业发展的核心挑战。",
+      "titleZh": "气候危机导致马来西亚年轻人情绪焦躁",
+      "summaryZh": "气候变化已成为马来西亚年轻人面临的紧迫公共卫生与经济问题，导致热相关疾病增加及服务中断。调查显示，现有的适应政策可能不足以保护下一代。",
+      "whyImportant": "气候变化对公共卫生和经济的深远影响正促使社会重新审视国家的环境适应策略。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a3b2028e1a291053",
-      "title": "HKU virologist spared conviction for assaulting man and damaging his phone",
+      "id": "d12b18a3f096ffa6",
+      "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+      "publishedAt": "2026-08-08T17:05:17.000Z",
+      "summary": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+          "publishedAt": "2026-08-08T17:05:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "8934ec12b734fa1257850caf",
+      "isContinuation": false,
+      "titleZh": "塞尔维亚与乌克兰承诺加强经济联系，考虑签署自由贸易协定",
+      "summaryZh": "塞尔维亚表示将为乌克兰城市的重建提供援助，并致力于深化两国间的经济合作。双方正探讨通过自由贸易协定进一步加强双边关系。",
+      "whyImportant": "塞尔维亚在俄乌冲突背景下加强与乌克兰的经济往来，显示了其外交政策的调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2b59527c60bba07b",
+      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+      "publishedAt": "2026-08-08T10:55:15.000Z",
+      "summary": "Unexploded ordnance and a military motorcycle also recovered following record heat and drought conditions Record-low water levels in the Danube have exposed remnants of Europe’s Nazi past, with dozens of second world war ships emerging from the riverbed during an intense drought. In the middle of the river on the Serbian and Romanian border, a broken-up hull was visible on a sandbank that is normally underwater. Other vessels were partly submerged, some still believed to be laden with weapons. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+          "publishedAt": "2026-08-08T10:55:15.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "金融",
+        "军事与安全",
+        "专题·全球经济与金融"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "金融"
+      ],
+      "fingerprint": "2b0075de3a8662b98eb0ec2e",
+      "isContinuation": false,
+      "titleZh": "欧洲多瑙河干涸，纳粹沉船重见天日",
+      "summaryZh": "受极端高温和干旱影响，多瑙河水位降至历史低点，导致数十艘二战时期的纳粹沉船露出水面。部分船只残骸中据信仍载有未爆炸的弹药。",
+      "whyImportant": "气候变化导致的极端天气不仅影响生态，还意外揭开了历史遗留的安全隐患。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8fb74a13c2c608ec",
+      "title": "Behind the AI stock market bubble lies a weak yen",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363334/hku-virologist-spared-conviction-assaulting-man-and-damaging-his-phone?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T10:42:05.000Z",
-      "summary": "A University of Hong Kong (HKU) virologist has been spared a criminal conviction for assaulting a man and damaging his mobile phone at a railway station last year. Eastern Court on Friday placed Vijaykrishna Dhanasekaran on a two-year bind-over order and instructed him to pay HK$800 (US$102) in damages, after he admitted attacking a stranger at Hong Kong MTR station on August 17, 2025. The 48-year-old associate professor, who heads the university’s pathogen evolution lab, could be fined HK$2,000...",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3363176/behind-ai-stock-market-bubble-lies-weak-yen?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T08:30:06.000Z",
+      "summary": "The world might be dividing into rival camps and competing trade blocs, but international capital flows remain footloose and fancy free. In so doing, they pose a threat to what remains of stability in the real economy. A good example of this growing potential for international contagion is the influence of the weak yen on global stock prices. The Japanese currency is expected to remain weak for the foreseeable future – despite recent official intervention in foreign exchange markets by Japan and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363334/hku-virologist-spared-conviction-assaulting-man-and-damaging-his-phone?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T10:42:05.000Z"
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3363176/behind-ai-stock-market-bubble-lies-weak-yen?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T08:30:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "科技",
+        "专题·全球经济与金融"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "economy",
+        "trade",
+        "market",
+        "经济"
+      ],
+      "fingerprint": "68200fc591675991d8c7b2bd",
+      "isContinuation": false,
+      "titleZh": "人工智能股市泡沫背后是疲软的日元",
+      "summaryZh": "日元的持续疲软正对全球股市产生溢出效应，成为国际资本流动不稳定的因素之一。尽管日本政府进行了干预，但日元汇率预计仍将维持低位。",
+      "whyImportant": "日元汇率的波动正成为全球金融市场潜在的风险传导渠道。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "451aec7fddcdf842",
+      "title": "‘Hopeless’: Palestinian Christians leave West Bank as hardships mount",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363378/hopeless-palestinian-christians-leave-west-bank-hardships-mount?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T03:48:52.000Z",
+      "summary": "Palestinian Christians call themselves “living stones” and say they have lived continuously in the Holy Land for the last 2,000 years. Maybe not for much longer, believes Reverend Mitri Raheb. “If the current conditions continue, there will not be a single Palestinian Christian left by 2050,” said Raheb, founder and president of Dar al-Kalima University in Bethlehem, the biblical birthplace of Jesus Christ. Faced with growing uncertainty over economic and security conditions, hundreds of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363378/hopeless-palestinian-christians-leave-west-bank-hardships-mount?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T03:48:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "军事与安全",
+        "专题·全球经济与金融"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "经济",
+        "金融"
+      ],
+      "fingerprint": "a6d2394efd333d2142a4cbae",
+      "isContinuation": false,
+      "titleZh": "“毫无希望”：随着困境加剧，巴勒斯坦基督徒离开西岸",
+      "summaryZh": "由于经济和安全状况不断恶化，巴勒斯坦基督徒群体正面临生存危机。有学者警告，若现状持续，到2050年该地区可能不再有巴勒斯坦基督徒居住。",
+      "whyImportant": "长期冲突导致的社会环境恶化正加速当地少数群体的流失。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "29c5698f63b55707",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "publishedAt": "2026-08-08T04:08:18.000Z",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌president, the US state department announced, soon after Abelardo De La ‌Espriella was sworn in and used his inaugural speech to pledge a vigorous fight against drug trafficking, as well as austerity measures to restore confidence in the economy. De La Espriella, 48, won June’s runoff election with ⁠promises to crack down on armed groups, shrink ⁠the state by as much as 40% and ​revive the oil and gas sector. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+          "publishedAt": "2026-08-08T04:08:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "能源",
+        "专题·全球经济与金融"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "economy",
+        "经济"
+      ],
+      "fingerprint": "adadd53adc4d097e1d985926",
+      "isContinuation": false,
+      "titleZh": "美国承诺向哥伦比亚提供10亿美元安全援助，新任右翼总统誓言打击毒品",
+      "summaryZh": "哥伦比亚新任右翼总统阿韦拉多·德拉埃斯皮内拉宣誓就职，承诺打击毒品犯罪并实施经济紧缩。美国政府随即宣布提供10亿美元安全援助以支持其政策。",
+      "whyImportant": "美国对哥伦比亚新政府的资金支持标志着两国在打击毒品和地区安全合作上的进一步结盟。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b7585e8a068fd15e",
+      "title": "Australia news live: Tim Wilson says Labor’s NDIS reforms make disability clients ‘feel like they’re being targeted, not the fraudsters’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
+      "publishedAt": "2026-08-09T01:58:24.000Z",
+      "summary": "Meanwhile, expert says bird flu detected on Murray-Darling basin ‘should be ringing alarm bells’. Follow updates Get our breaking news email, free app or daily news podcast Coalition demands NDIS changes focus on fraud, corruption Liberal frontbencher Tim Wilson also called on the government to focus more on fraud and corruption issues in the NDIS, as the Coalition and Labor negotiate on changes to the disability scheme. We have people who are awarding either packages to people when they shouldn’t be used, we’re having people taking advantage of the system and we know this is being exposed. And so as a consequence we’ve seen this massive growth continue to go on and we need to make sure that that’s the focus, not the targeting of the clients. You know, if you go out to voters in Australia, there are a lot of people who are on disability support packages who are very nervous about their future and it’s because of how this government has looked at reforms and they feel like they’re being targeted, not the fraudsters. We’re not wowsers, we do believe in protecting children, particularly from harm. Under the government’s proposed bill, it doesn’t limit the capacity to advertise to chil",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
+          "publishedAt": "2026-08-09T01:58:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 71,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e6b7d9a857338d86b074f2df",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻直播：蒂姆·威尔逊称工党的残障保险计划改革让残障人士感到被针对",
+      "summaryZh": "自由党议员蒂姆·威尔逊批评政府的残障保险计划（NDIS）改革重点偏差，认为应打击欺诈而非针对残障客户。此外，专家警告墨累-达令盆地发现的禽流感疫情需引起高度警惕。",
+      "whyImportant": "政府在残障福利改革中的政策导向引发了公众对弱势群体权益保障的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "355b14afb0d62c2e",
+      "title": "Iran thinks it has Trump cornered – but what are the risks?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363415/iran-thinks-it-has-trump-cornered-what-are-risks?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T21:03:08.000Z",
+      "summary": "The Strait of Hormuz is, by some accounts, named for a Zoroastrian deity destined to emerge victorious after a 9,000-year stand-off with an adversary. Iran’s leaders feel their own victory is at hand and will not require the same epic patience. They are betting that military pressure will ultimately force the US to accept their control over the crucial waterway for global energy – and that time is on their side. They know about the diminishing stockpiles of key US weapons such as advanced...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363415/iran-thinks-it-has-trump-cornered-what-are-risks?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T21:03:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6c15b430a493a0ca064347dc",
+      "isContinuation": false,
+      "titleZh": "伊朗认为已将特朗普逼入绝境，但风险何在？",
+      "summaryZh": "伊朗领导层认为通过军事压力可以迫使美国接受其对霍尔木兹海峡的控制。他们押注美国武器库存减少，并认为时间站在自己这一边。",
+      "whyImportant": "伊朗在关键能源通道上的强硬立场增加了地区冲突升级的风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fa813a46071be3f0",
+      "title": "Ukraine denies targeting Bulgaria, as drone explodes near pipeline",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3363414/ukraine-denies-targeting-bulgaria-drone-explodes-near-pipeline?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T17:41:36.000Z",
+      "summary": "Ukraine on Saturday denied targeting Bulgaria after a drone exploded close to the strategic Trans-Balkan gas pipeline linking Turkey to Ukraine near the Romanian border. Bulgaria’s defence ministry said the drone was of a type “widely used by the Ukrainian military”, and the foreign minister summoned the Ukrainian ambassador for a meeting on Monday in response, her office said. Kyiv said it was “in close contact with the Bulgarian side to clarify the circumstances” of the incident, the latest...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3363414/ukraine-denies-targeting-bulgaria-drone-explodes-near-pipeline?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T17:41:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "487edf1579bba2edaf55d523",
+      "isContinuation": false,
+      "titleZh": "乌克兰否认针对保加利亚，此前一架无人机在管道附近爆炸",
+      "summaryZh": "一架疑似乌克兰军方使用的无人机在保加利亚境内的跨巴尔干天然气管道附近爆炸。乌克兰已否认蓄意攻击，并正与保加利亚方面沟通以澄清事实。",
+      "whyImportant": "此次事件引发了保加利亚的外交关切，凸显了周边国家在俄乌冲突外溢影响下的脆弱性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5de4e2e936a64212",
+      "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T14:56:28.000Z",
+      "summary": "The United Arab Emirates on Saturday said Iran had targeted a tanker belonging to the state-owned Abu Dhabi National Oil Company (ADNOC) while it was transiting the Strait of Hormuz. Iran has imposed an effective blockade of the strait and wants to charge users for passage, which the US fiercely opposes, and is in talks with nearby Oman over arrangements for the strait’s future management. The UAE foreign ministry in a statement condemned what it called a “hostile Iranian attack that targeted a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T14:56:28.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "能源"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "99285b69686760f8a8012fd7",
+      "isContinuation": false,
+      "titleZh": "阿联酋称伊朗袭击其油轮，德黑兰称与阿曼即将达成海峡协议",
+      "summaryZh": "阿联酋指责伊朗在霍尔木兹海峡袭击了一艘阿布扎比国家石油公司的油轮。与此同时，伊朗正寻求与阿曼就海峡的管理安排达成协议。",
+      "whyImportant": "伊朗对关键海上贸易路线的封锁行为加剧了与周边国家及美国的紧张关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5f62d50494144a12",
+      "title": "Chinese man’s 3,000km search for pen pal from 24 years ago sparks deep nostalgia",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363418/chinese-mans-3000km-search-pen-pal-24-years-ago-sparks-deep-nostalgia?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T01:25:47.000Z",
+      "summary": "A man from southern China travelled 3,000 kilometres to search for his pen pal from 24 years ago, stirring nostalgia among many for their own youth pen pals. Li Zhicong, around 40, hails from the Guangxi Zhuang autonomous region and has been working in Shenzhen, Guangdong province, for over a decade. Recently, he journeyed 3,000 km to Inner Mongolia in northern China to find his pen pal “Ice Rain,” who wrote him a letter 24 years ago. In 2002, when he was a third-year junior secondary school...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363418/chinese-mans-3000km-search-pen-pal-24-years-ago-sparks-deep-nostalgia?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T01:25:47.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1774,36 +1723,35 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "突发",
         "国际组织"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f5cd7cc54e3cd99472b18f19",
+      "fingerprint": "cbdf49e7958654efa54f717f",
       "isContinuation": false,
-      "titleZh": "港大病毒学家袭击他人及损坏手机案获免除定罪",
-      "summaryZh": "香港大学病毒学家Vijaykrishna Dhanasekaran因去年在地铁站袭击他人并损坏手机，被法院判处两年守行为，并需支付赔偿金。他此前已承认相关指控。",
-      "whyImportant": "该判决引发了关于学术界人士行为准则及法律处理的讨论。",
+      "titleZh": "中国男子跨越3000公里寻找24年前笔友，引发深切怀旧",
+      "summaryZh": "一名中国男子近日跨越3000公里前往内蒙古，寻找24年前的笔友。这一举动在社交媒体上引发了公众对书信时代青春记忆的广泛共鸣。",
+      "whyImportant": "该事件反映了数字化时代人们对传统人际交往方式及青春往事的怀念。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6f92e45749e367b5",
-      "title": "CUHK chief calls for more funds for campuses in Northern Metropolis university town",
+      "id": "6e5deba6af304a21",
+      "title": "Is China’s party newspaper carrying more stories highlighting women’s role as mothers?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3363363/cuhk-chief-calls-more-funds-campuses-northern-metropolis-university-town?utm_source=rss_feed",
-      "publishedAt": "2026-08-08T01:00:16.000Z",
-      "summary": "The leader of the Chinese University of Hong Kong (CUHK) has called for greater financial support to develop a proposed 300-hectare (741 acres) university town near the border with mainland China, including funding for local institutions to build campuses, arguing that expansion will help navigate future challenges. In a wide-ranging interview with the South China Morning Post, CUHK president Dennis Lo Yuk-ming said Hong Kong universities needed to expand their presence in the Northern...",
+      "url": "https://www.scmp.com/news/china/politics/article/3363407/chinas-party-newspaper-carrying-more-stories-highlighting-womens-role-mothers?utm_source=rss_feed",
+      "publishedAt": "2026-08-09T02:00:11.000Z",
+      "summary": "“Women hold up half the sky.” This iconic quote attributed to Mao Zedong has been central to Beijing’s messaging about gender equality for decades. It was not just a slogan. After the founding of the People’s Republic in 1949, the Communist Party passed a Marriage Law that banned arranged marriages, abolished foot-binding and encouraged women to enter education and the workplace. But the party’s stance on where women belong has shifted over the decades, according to a new study. To gauge the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3363363/cuhk-chief-calls-more-funds-campuses-northern-metropolis-university-town?utm_source=rss_feed",
-          "publishedAt": "2026-08-08T01:00:16.000Z"
+          "url": "https://www.scmp.com/news/china/politics/article/3363407/chinas-party-newspaper-carrying-more-stories-highlighting-womens-role-mothers?utm_source=rss_feed",
+          "publishedAt": "2026-08-09T02:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1813,33 +1761,33 @@
       "tags": [
         "中国重点"
       ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "df2617a776446ab7ef253404",
+      "fingerprint": "93c4966740d26e047df78a7b",
       "isContinuation": false,
-      "titleZh": "中大校长呼吁为北部都会区大学城提供更多资金",
-      "summaryZh": "香港中文大学校长卢煜明呼吁政府加大财政支持，以开发靠近内地边境的300公顷大学城。他认为扩大校园规模有助于应对未来的挑战。",
-      "whyImportant": "此举旨在推动香港高等教育与北部都会区发展的深度融合。",
+      "titleZh": "中国党报是否刊登了更多强调女性母亲角色的报道？",
+      "summaryZh": "一项研究指出，尽管“妇女能顶半边天”的口号长期存在，但官方媒体对女性社会角色的叙事重心正随时代发生微妙变化。研究通过分析党报内容探讨了女性在家庭与职场定位上的政策导向。",
+      "whyImportant": "媒体叙事的变化反映了社会对女性角色认知的政策引导与演变。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "f95863bf7deee6de",
-      "title": "Endanger Hong Kong’s national security and I’ll take you down, Chris Tang warns",
+      "id": "28477f5038800212",
+      "title": "Man falls to death after cleaver attack on neighbour in lift over noise dispute",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3363300/endanger-hong-kongs-national-security-and-ill-take-you-down-chris-tang-warns?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T08:59:53.000Z",
-      "summary": "Hong Kong’s security chief has warned he will take down anyone who endangers national security, while also slamming an embattled press group for lacking credibility ahead of an already delayed leadership election. Secretary for Security Chris Tang Ping-keung said on Friday that the Hong Kong Journalists Association (HKJA) was “not a statutory organisation” and that candidates for its executive committee reportedly included no representatives from mainstream local media outlets, undermining its...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363379/man-found-knife-wounds-lift-another-falls-death-same-hong-kong-block?utm_source=rss_feed",
+      "publishedAt": "2026-08-08T04:58:53.000Z",
+      "summary": "Hong Kong police are investigating an attempted murder and suicide case after a man allegedly attacked his upstairs neighbour with a cleaver in a lift before falling to his death at a public housing block in Wong Tai Sin. Police said they received a report from a security guard at 7.19am on Saturday that a man was attacking another man inside a lift in Chiu Sin House at Upper Wong Tai Sin Estate. “When police and paramedics arrived, they found an injured man inside the lift with knife wounds and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3363300/endanger-hong-kongs-national-security-and-ill-take-you-down-chris-tang-warns?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T08:59:53.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363379/man-found-knife-wounds-lift-another-falls-death-same-hong-kong-block?utm_source=rss_feed",
+          "publishedAt": "2026-08-08T04:58:53.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1848,73 +1796,181 @@
       "isNoise": false,
       "tags": [
         "中国重点",
+        "突发",
         "军事与安全",
-        "国际组织"
+        "科技"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6256824e92b182c50278aec1",
+      "isContinuation": false,
+      "titleZh": "香港男子因噪音纠纷在电梯内持刀袭击邻居后坠楼身亡",
+      "summaryZh": "香港黄大仙发生一起严重的邻里纠纷案件，一名男子在电梯内持刀袭击邻居后坠楼身亡。警方已将此案列为企图谋杀及自杀案进行调查。",
+      "whyImportant": "该恶性事件引发了公众对高密度居住环境下邻里矛盾处理机制的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "203e8b100251d7e3",
+      "title": "第十七章 威权统治下的近代中国 （ 全文 ） - 蒋闻铭发表于 几曾回首 - 论坛",
+      "source": "bbs.wenxuecity.com",
+      "url": "https://bbs.wenxuecity.com/memory/1918187.html",
+      "publishedAt": "2026-08-09T00:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "bbs.wenxuecity.com",
+          "url": "https://bbs.wenxuecity.com/memory/1918187.html",
+          "publishedAt": "2026-08-09T00:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
       ],
       "score": 54,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "701bc78a91df5bd0ac117e7e",
+      "fingerprint": "b8b1d95ac94ea37f1ba1eab6",
       "isContinuation": false,
-      "titleZh": "邓炳强警告：危害国家安全者必将受到打击",
-      "summaryZh": "香港保安局局长邓炳强警告称，将打击任何危害国家安全的人。同时，他批评香港记者协会缺乏公信力，并指出其执委会候选人缺乏主流媒体代表。",
-      "whyImportant": "反映了香港政府对国家安全及相关社会组织监管的强硬立场。",
+      "titleZh": "第十七章 威权统治下的近代中国 （ 全文 ） - 蒋闻铭发表于 几曾回首 - 论坛",
+      "summaryZh": "本文探讨了近代中国在威权统治下的历史演变。作者对相关历史时期的政治结构进行了分析。",
+      "whyImportant": "该文为理解近代中国政治体制的演变提供了学术探讨视角。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "90fe03443576aa7d",
-      "title": "Typhoon Dolphin: Hongkongers stuck in Okinawa prepare for low supplies, power cuts",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3363357/typhoon-dolphin-hongkongers-stuck-okinawa-prepare-low-supplies-power-cuts?utm_source=rss_feed",
-      "publishedAt": "2026-08-07T14:59:14.000Z",
-      "summary": "Hong Kong holidaymakers in Okinawa on Friday contended with depleted supermarket shelves, potential power cuts and violent weather as Typhoon Dolphin shut the Japanese island’s main airport and disrupted every direct flight home. Social media images shared by Hong Kong-linked travel accounts showed empty bread shelves and torrential rain sweeping parts of the popular destination, although travellers said conditions varied significantly across the island. Hong Kong travel account Papa Traveller...",
-      "language": "",
-      "region": "china",
+      "id": "461e55553fec5439",
+      "title": "一个小众阴谋论 ， 为什么能一路杀进华盛顿",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L3RII2H205119734.html",
+      "publishedAt": "2026-08-08T15:30:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3363357/typhoon-dolphin-hongkongers-stuck-okinawa-prepare-low-supplies-power-cuts?utm_source=rss_feed",
-          "publishedAt": "2026-08-07T14:59:14.000Z"
+          "source": "163.com",
+          "url": "https://www.163.com/dy/article/L3RII2H205119734.html",
+          "publishedAt": "2026-08-08T15:30:00.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
+      "isChina": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "金融"
+        "美国重点"
       ],
-      "score": 53,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 46,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a069eda6f16cd80ef76d93c2",
+      "fingerprint": "842c6bd991b73d8390f76f74",
       "isContinuation": false,
-      "titleZh": "台风“海豚”袭冲绳，滞留港人面临物资短缺与停电风险",
-      "summaryZh": "受台风“海豚”影响，冲绳机场关闭，所有直飞航班中断。滞留当地的香港游客面临超市货架空空如也及潜在的停电风险。",
-      "whyImportant": "台风对当地旅游业及滞留游客的安全保障造成了严重影响。",
+      "titleZh": "一个小众阴谋论，为什么能一路杀进华盛顿",
+      "summaryZh": "文章分析了某种边缘阴谋论如何通过社交媒体和政治运作进入美国主流政治圈。探讨了虚假信息对政治决策的影响。",
+      "whyImportant": "阴谋论对政治生态的渗透揭示了当前信息传播环境下的社会极化风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "52f2fe4a101de6fd",
-      "title": "Ceuta: Spain sets up border controls on travelers from Italy",
-      "source": "DW",
-      "url": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-08T01:24:00.000Z",
-      "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.",
-      "language": "en",
-      "region": "europe",
+      "id": "1d3fe3ee46b10285",
+      "title": "How Zelensky White House strategy fell short in winning Trump support",
+      "source": "weeklyblitz.net",
+      "url": "https://weeklyblitz.net/2026/08/08/how-zelenskys-white-house-strategy-fell-short-in-winning-trumps-support/",
+      "publishedAt": "2026-08-08T10:30:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
       "crossSources": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-08T01:24:00.000Z"
+          "source": "weeklyblitz.net",
+          "url": "https://weeklyblitz.net/2026/08/08/how-zelenskys-white-house-strategy-fell-short-in-winning-trumps-support/",
+          "publishedAt": "2026-08-08T10:30:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 42,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "30512477542efdfd594d036c",
+      "isContinuation": false,
+      "titleZh": "泽连斯基的白宫策略为何未能赢得特朗普的支持",
+      "summaryZh": "文章分析了乌克兰总统泽连斯基在与特朗普政府交往中的策略失误。探讨了双方在外交目标与沟通方式上的分歧。",
+      "whyImportant": "乌克兰外交策略的局限性影响了其在关键国际关系中的支持力度。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2ed5566c5b739f4b",
+      "title": "施工中的白宫宴会厅又被 叫停 特朗普怒了 ！ |刘清扬|总统任期|唐纳 · 川普",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/L3QD3R7I0514EGPO.html",
+      "publishedAt": "2026-08-08T05:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "163.com",
+          "url": "https://www.163.com/dy/article/L3QD3R7I0514EGPO.html",
+          "publishedAt": "2026-08-08T05:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 38,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "01028d0d3e207f94e4a38011",
+      "isContinuation": false,
+      "titleZh": "施工中的白宫宴会厅又被叫停，特朗普怒了！",
+      "summaryZh": "特朗普对白宫宴会厅翻新工程再次被叫停表示不满。该事件反映了总统任期内行政管理与工程进度之间的矛盾。",
+      "whyImportant": "白宫内部设施的修缮问题成为总统行政风格与管理效率的侧面反映。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1528b23e3ad7dd14",
+      "title": "Turkiye says Mecca defence pact not aimed at Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+      "publishedAt": "2026-08-08T23:59:15.000Z",
+      "summary": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+          "publishedAt": "2026-08-08T23:59:15.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1925,70 +1981,33 @@
         "全球焦点",
         "军事与安全"
       ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ba2f89c0534e8881c2e9f84d",
+      "fingerprint": "68211bab7703cea3fd6bb3fd",
       "isContinuation": false,
-      "titleZh": "休达边境争端：西班牙对来自意大利的旅客实施边境管制",
-      "summaryZh": "由于意大利未停止相关管制措施，西班牙宣布对来自意大利的旅客实施入境检查。尽管两国并无陆地边界，但此次争端源于休达边境事件。",
-      "whyImportant": "反映了欧盟成员国之间在边境管理和移民问题上的摩擦。",
+      "titleZh": "土耳其称麦加防务协议并非针对伊朗",
+      "summaryZh": "土耳其澄清，其与沙特阿拉伯及巴基斯坦签署的麦加防务协议不具备针对伊朗的意图。此举旨在缓解地区紧张局势。",
+      "whyImportant": "土耳其的外交表态有助于平息地区盟友对防务协议可能引发冲突的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ad0e6212c606d734",
-      "title": "トランプ大統領 FRBクック理事に“解任検討”を再び通知 報道",
-      "source": "NHK World",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199921000.html",
-      "publishedAt": "2026-08-08T00:14:33.000Z",
-      "summary": "アメリカのトランプ大統領は、金融政策を決める会合を開くFRB＝連邦準備制度理事会のクック理事に対し、解任を検討していることを再び通知したと欧米メディアが伝えました。",
-      "language": "",
-      "region": "asia",
-      "crossSources": [
-        {
-          "source": "NHK World",
-          "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199921000.html",
-          "publishedAt": "2026-08-08T00:14:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "金融"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0b978e0580834cc5ea92bc02",
-      "isContinuation": false,
-      "titleZh": "报道称特朗普再次通知美联储理事库克考虑将其解雇",
-      "summaryZh": "据欧美媒体报道，美国总统特朗普再次向美联储理事库克发出通知，称正在考虑将其解雇。",
-      "whyImportant": "此举进一步加剧了市场对美联储政策独立性受政治干预的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "00882188076e7042",
-      "title": "Remains of 56 people found decomposing at Chicago funeral home",
+      "id": "3069611d7ebc9eff",
+      "title": "Utah wildfire blocks rescuers from reaching firefighting helicopter crash site",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
-      "publishedAt": "2026-08-08T00:31:06.000Z",
-      "summary": "Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains The remains of 56 people were found improperly stored and decomposing on Thursday at a Chicago funeral home run by a couple who previously operated a crematory that was similarly shut down because of mishandled remains, authorities said. Illinois state officials, meanwhile, suspended the license of one of the funeral home’s directors, alleging bodies were being kept in an unrefrigerated area in “deplorable conditions”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
+      "publishedAt": "2026-08-08T23:43:37.000Z",
+      "summary": "Fate of two passengers onboard helicopter that went down Friday morning remains unknown after more than 24 hours The fate of two passengers onboard a firefighting helicopter that crashed Friday morning in Utah remains unknown after more than 24 hours, as one of the country’s largest wildfires continues to grow, preventing authorities from safely reaching the accident site. The Sikorsky S-64 helicopter, contracted by the US Forest Service, was responding on Friday to the Widemouth 2 fire, a blaze sparked in late July by lightning, when it crashed in a remote area of central Utah. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
-          "publishedAt": "2026-08-08T00:31:06.000Z"
+          "url": "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
+          "publishedAt": "2026-08-08T23:43:37.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1997,18 +2016,19 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "环境",
+        "公共安全"
       ],
       "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5454817f51418d2bd2538aa5",
+      "fingerprint": "93b571f19c66eef47124eebc",
       "isContinuation": false,
-      "titleZh": "芝加哥一家殡仪馆发现56具遗体，存放条件恶劣",
-      "summaryZh": "芝加哥一家由一对夫妇经营的殡仪馆被发现违规存放56具遗体，且处于腐烂状态。当局已吊销其中一名负责人的执照，并对其“恶劣条件”展开调查。",
-      "whyImportant": "该事件因涉及遗体处理不当及公共卫生安全，引发了社会公愤。",
+      "titleZh": "犹他州野火阻碍救援人员抵达直升机坠毁现场",
+      "summaryZh": "一架参与灭火的直升机在犹他州坠毁，机上两名乘客下落不明。由于当地野火持续蔓延，救援人员目前无法安全进入坠机现场。",
+      "whyImportant": "极端野火环境不仅造成生态破坏，还严重阻碍了紧急救援行动的开展。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
