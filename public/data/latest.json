@@ -1,167 +1,44 @@
 {
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-11T02:26:32.977Z",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T02:43:07.227Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "technology-energy",
-    "name": "科技、能源与产业",
-    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
-    "query": "technology artificial intelligence semiconductor energy industry",
+    "slug": "climate-safety",
+    "name": "气候、环境与公共安全",
+    "description": "追踪极端天气、灾害、公共卫生与环境政策",
+    "query": "climate environment disaster public safety health emergency",
     "keywords": [
-      "technology",
-      "artificial intelligence",
-      "semiconductor",
-      "space",
-      "energy",
-      "科技",
-      "人工智能",
-      "芯片",
-      "太空",
-      "能源"
+      "climate",
+      "environment",
+      "wildfire",
+      "flood",
+      "disaster",
+      "health emergency",
+      "气候",
+      "环境",
+      "山火",
+      "洪水",
+      "灾害",
+      "公共安全"
     ],
-    "accent": "#06b6d4"
+    "accent": "#84cc16"
   },
-  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“气候、环境与公共安全”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "86651fe42edc9c87",
-      "title": "Hong Kong index compiler proposes adding 20 more stocks to main technology tracker",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
-      "publishedAt": "2026-08-11T02:09:55.000Z",
-      "summary": "Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a selection criterion to strengthen market representation, according to a consultation paper released on Monday. Hong Kong’s major stock index compiler proposed increasing the number of HSTECH constituents from 30 to 50, using a dual-selection framework. The top 40 stocks will be selected by market capitalisation, while the remaining 10 will be picked based on revenue...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
-          "publishedAt": "2026-08-11T02:09:55.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 70,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "488c79445de9700b3ca04f47",
-      "isContinuation": false,
-      "titleZh": "香港指数公司提议将20只股票纳入科技指数",
-      "summaryZh": "恒生指数公司计划将恒生科技指数的成份股从30只增加至50只。同时引入“销售增长”作为选股标准，以增强市场代表性。",
-      "whyImportant": "此举旨在优化指数结构，更好地反映香港科技板块的市场表现。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2f153f00ddda48bd",
-      "title": "Can the SCO become a more influential force globally?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3363317/can-sco-become-more-influential-force-globally?utm_source=rss_feed",
-      "publishedAt": "2026-08-11T01:30:07.000Z",
-      "summary": "Despite representing nearly half the world’s population, accounting for about a quarter of the world’s gross domestic product and covering more than 60 per cent of the Eurasian land mass, the role of the Shanghai Cooperation Organisation in the international arena remains relatively limited. While the SCO has long been a priority in China’s neighbourhood diplomacy, the grouping also serves as a platform through which all member states pursue their own foreign policy goals. What would it take for...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3363317/can-sco-become-more-influential-force-globally?utm_source=rss_feed",
-          "publishedAt": "2026-08-11T01:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 68,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "decc9be26b1e8f9c22358cb2",
-      "isContinuation": false,
-      "titleZh": "上海合作组织能否在全球范围内发挥更大影响力？",
-      "summaryZh": "尽管上合组织覆盖了全球大部分人口和经济总量，但其在国际舞台上的影响力仍相对有限。成员国如何在组织框架内协调外交目标是其未来发展的关键。",
-      "whyImportant": "探讨上合组织在全球治理中的角色对于理解区域合作的未来走向至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "892c161c4a4607aa",
-      "title": "A rare rocket failure led to knock-on effects on China’s space launches. What happened?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3363574/chinas-long-march-7a-rocket-explodes-after-launch-satellite-lost?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T16:09:01.000Z",
-      "summary": "China has suffered a rare failure of one of its newer-generation Long March rockets, losing a communications satellite after the launcher exploded shortly after take-off on Monday night. Around 8pm Beijing time, the unmanned 60-metre (197-foot) Long March 7A blasted off from the Wenchang Space Launch Site on the southern island of Hainan, piercing the night sky as it carried the ChinaSat-4B satellite towards high Earth orbit. But less than 90 seconds into the flight, the rocket erupted into a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3363574/chinas-long-march-7a-rocket-explodes-after-launch-satellite-lost?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T16:09:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "space",
-        "科技"
-      ],
-      "fingerprint": "028d2306e5b231942a02a833",
-      "isContinuation": false,
-      "titleZh": "中国火箭发射罕见失败，对航天计划产生连锁反应",
-      "summaryZh": "中国长征七号甲运载火箭在海南文昌发射后不久发生爆炸，导致中星4B卫星损失。这是中国新一代火箭罕见的发射失败案例。",
-      "whyImportant": "此次发射失败对中国航天任务的后续安排及技术评估产生了直接影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ad170e7436251e8a",
-      "title": "Jackie, a beloved bald eagle and livestream star, dies of mysterious illness",
+      "id": "e2f25190364fdf8c",
+      "title": "Famed tourist destinations evacuated as wildfire threatens California’s Big Sur",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
-      "publishedAt": "2026-08-10T23:05:25.000Z",
-      "summary": "Thousands mourn the death of the eagle at California’s Big Bear Lake, whose life was closely followed via livestream Jackie – the beloved bald eagle at California’s Big Bear Lake whose livestream was followed by millions of viewers as she birthed and raised chicks – died on Monday due to a mysterious illness. She was 14. Jackie had been receiving treatment at the Ojai Raptor Center since mid-July when she was found weak and unable to fly after a scuffle with two younger eagles. Experts at the center had discovered that she was suffering from severe anemia, and suspected she had been sick for weeks before the fight grounded her. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+      "publishedAt": "2026-08-12T01:27:29.000Z",
+      "summary": "Nearly 500 personnel battle Timber fire in Los Padres national forest as blaze grows to 3,000 acres Evacuations have been ordered for areas along California’s famous Big Sur coast as a wildfire burns in the nearby steep, rugged mountains. The Timber fire in Monterey county started on Sunday and grew to nearly 3,000 acres by Tuesday evening, according to Cal Fire, the state’s fire agency. Nearly 500 fire personnel had been assigned to the fire in the Los Padres national forest. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
-          "publishedAt": "2026-08-10T23:05:25.000Z"
+          "url": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+          "publishedAt": "2026-08-12T01:27:29.000Z"
         }
       ],
       "sourceCount": 1,
@@ -170,82 +47,43 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "科技",
-        "国际组织",
-        "专题·科技、能源与产业"
+        "环境",
+        "公共安全",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 66,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": true,
       "topicKeywords": [
-        "科技"
+        "wildfire",
+        "环境",
+        "公共安全"
       ],
-      "fingerprint": "98d7ebccfd900ace65b13a2d",
+      "fingerprint": "bf08d8c9f3a2109ae38f4554",
       "isContinuation": false,
-      "titleZh": "备受喜爱的秃鹰“杰基”因神秘疾病去世",
-      "summaryZh": "加州大熊湖的秃鹰“杰基”因神秘疾病去世，享年14岁。它曾因直播育雏过程而受到数百万网友的关注。",
-      "whyImportant": "作为网络直播明星，它的离世引发了公众和动物保护界的广泛哀悼。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "99f37637eed056e0",
-      "title": "Trump’s media company, which also owns Truth Social, reports $238m loss",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss",
-      "publishedAt": "2026-08-11T00:54:00.000Z",
-      "summary": "Company also announced a paid service for early access to president’s posts on policies to the social media site Donald Trump’s media company – which owns the Truth Social platform favored by the US president – posted a $238m loss in the second quarter. Trump Media & Technology on Monday reported that losses in the three months through June came as the company branched into new ventures including crypto. The company’s new chief executive, Kevin McGurn, announced at a conference call about the earnings that after a yearlong effort to expand into online betting and crypto, the company would be refocusing on social media. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss",
-          "publishedAt": "2026-08-11T00:54:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "d7104709ec6251bc604380e8",
-      "isContinuation": false,
-      "titleZh": "特朗普旗下媒体公司报告亏损2.38亿美元",
-      "summaryZh": "特朗普媒体与技术集团在第二季度亏损2.38亿美元，公司宣布将重新聚焦社交媒体业务。此前该公司曾尝试进军加密货币和在线博彩领域。",
-      "whyImportant": "财务亏损反映了该公司在多元化经营战略上的挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     }
   ],
   "global": [
     {
-      "id": "4f07762c2d95d7f3",
-      "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
+      "id": "ce4e0731d8041f3c",
+      "title": "Bondi shooting hero Ahmed al-Ahmed cleared of assault charges",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "publishedAt": "2026-08-11T02:05:57.000Z",
-      "summary": "Search teams and civilians sift though debris after at least 1,500 buildings damaged and dozens collapse in country’s most powerful quake this century Scores dead in Colombia after powerful earthquake strikes west of country – full report People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities in Bogota and Medellin to send disaster teams ‌to support rescue efforts. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
+      "publishedAt": "2026-08-12T02:05:37.000Z",
+      "summary": "Al-Ahmed, who maintains his innocence, was accused of putting his father in a headlock in March Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The man who disarmed one of the gunmen allegedly responsible for the Bondi beach terror attack has had an assault case against him tossed out. Ahmed al-Ahmed, 44, had been accused of putting his father in a headlock on 9 March and intimidation over an alleged incident in June. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-          "publishedAt": "2026-08-11T02:05:57.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
+          "publishedAt": "2026-08-12T02:05:37.000Z"
         }
       ],
       "sourceCount": 1,
@@ -255,73 +93,153 @@
       "tags": [
         "全球焦点",
         "突发",
-        "公共安全"
-      ],
-      "score": 67,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "976ca05dd8e2042221981322",
-      "isContinuation": false,
-      "titleZh": "哥伦比亚地震实时更新：强震已致超110人死亡，救援人员正争分夺秒搜救被困者",
-      "summaryZh": "哥伦比亚发生本世纪以来最强地震，造成至少1500座建筑物受损，数十座倒塌。目前救援人员和民众正在废墟中搜寻幸存者，卡利市市长已请求波哥大和麦德林派遣救援队支援。",
-      "whyImportant": "此次强震造成重大人员伤亡和基础设施破坏，引发了全国范围的紧急救援行动。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6e0bcaf0a58d5c0b",
-      "title": "Soldiers take cover as Colombia quake flattens military barracks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
-      "publishedAt": "2026-08-11T01:06:36.000Z",
-      "summary": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
-          "publishedAt": "2026-08-11T01:06:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
+        "国际组织"
       ],
       "score": 66,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5b1e1dde490281a9a77c2be9",
+      "fingerprint": "54ab91b85e94e263d431de26",
       "isContinuation": false,
-      "titleZh": "哥伦比亚地震导致军事营房夷为平地，士兵紧急撤离",
-      "summaryZh": "一段视频显示，在卡利市的一处军事基地，士兵们在7.4级地震发生时从建筑物中仓皇逃离。地震导致该基地建筑被夷为平地。",
-      "whyImportant": "地震对军事设施造成了直接破坏，凸显了此次灾害的严重程度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "4152215b50c3a67e",
-      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "id": "e2f25190364fdf8c",
+      "title": "Famed tourist destinations evacuated as wildfire threatens California’s Big Sur",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+      "publishedAt": "2026-08-12T01:27:29.000Z",
+      "summary": "Nearly 500 personnel battle Timber fire in Los Padres national forest as blaze grows to 3,000 acres Evacuations have been ordered for areas along California’s famous Big Sur coast as a wildfire burns in the nearby steep, rugged mountains. The Timber fire in Monterey county started on Sunday and grew to nearly 3,000 acres by Tuesday evening, according to Cal Fire, the state’s fire agency. Nearly 500 fire personnel had been assigned to the fire in the Los Padres national forest. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+          "publishedAt": "2026-08-12T01:27:29.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "环境",
+        "公共安全",
+        "专题·气候、环境与公共安全"
+      ],
+      "score": 66,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "wildfire",
+        "环境",
+        "公共安全"
+      ],
+      "fingerprint": "bf08d8c9f3a2109ae38f4554",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "fee71e112751f8cf",
+      "title": "Darline Graham to face Ralph Norman in South Carolina Republican primary runoff",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
+      "publishedAt": "2026-08-12T01:24:37.000Z",
+      "summary": "Norman beat out Russell Fry, a congressman, and Mark Sanford, a former governor, to advance is closely contested race US politics live – latest updates Sign up for the Breaking News US newsletter email Senator Darline Graham, appointed to complete the Senate term of her late brother, Lindsey Graham of South Carolina will face congressman Ralph Norman in a runoff election for the Republican nomination. Graham held a narrow lead in the polls going into the abbreviated special primary on Tuesday, which predicted a close contest for second place. Norman, Russell Fry, a congressman, and Mark Sanford, a former governor, had polled within a point of each other in the most recent survey from the Trafalgar Group. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
+          "publishedAt": "2026-08-12T01:24:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 66,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c48247490d0ddb6470344397",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "b6ca34f0d7b82c41",
+      "title": "Australia politics live: teals don ‘Sportsdebt’ t-shirts as Wilkie accuses Labor of being ‘improperly influenced’ by gambling lobby",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+      "publishedAt": "2026-08-12T02:27:13.000Z",
+      "summary": "The independent MP made the allegations in a letter to the National Anti-Corruption Commission. Follow today’s news live Get our breaking news email, free app or daily news podcast Education minister says funding agreement with Victoria ‘very close’ The education minister, Jason Clare, says a funding deal with Victoria to get public schools funded to Gonski levels over the next decade is “very close”. We’re very close, mate. I know [Victorian premier] Ben Carroll gets this, and I’m optimistic that we’ll get this across the line. He understands how important it is that teachers are paid well, that they do the best or do the most important job in the country, but how important it is that we fix the funding of our schools – we’ve struck agreements now, 10-year agreements, with every state and territory across the country except Victoria. We’re very close to landing that deal. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+          "publishedAt": "2026-08-12T02:27:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1097fbabfbb0456a53cea5a7",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "918822e7081f5e7e",
+      "title": "Trump says he switched planes after Nato summit because of possible threat",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T01:59:40.000Z",
-      "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T02:05:30.000Z",
+      "summary": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-11T01:59:40.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-12T02:05:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -330,74 +248,36 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "外交",
+        "国际组织"
       ],
       "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4991797d08413dce3a5596a0",
+      "fingerprint": "b4090ca48571c2db7e3f8369",
       "isContinuation": false,
-      "titleZh": "哥伦比亚近年来最大地震已致至少132人死亡",
-      "summaryZh": "此次7.4级地震震中位于太平洋沿岸的乔科省，震感波及数百公里外的多个城市。目前确认的死亡人数已升至132人。",
-      "whyImportant": "这是哥伦比亚近年来遭遇的最严重地震，造成了巨大的人员伤亡。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "336e4198cebbf90d",
-      "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – as it happened",
+      "id": "97a5919a066aaaf2",
+      "title": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-      "publishedAt": "2026-08-11T02:00:22.000Z",
-      "summary": "This live blog is now closed. Sign up for the Breaking News US email Wisconsin is not the only state with high stakes primary races on 11 August. We’ll also be bringing you the latest on a number of pivotal contests. In Minnesota, the closely watched and crowded Democratic primary for US Senate seems to be a competition between lieutenant governor Peggy Flanagan and congresswoman Angie Craig. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
+      "publishedAt": "2026-08-12T01:20:22.000Z",
+      "summary": "Prime minister Anutin Charnvirakul calls for tighter gun controls and ‘decisive penalties’ after nine dead in school shooting Thailand has suspended firearms licences after last week’s deadly school shooting, as the bodies of the teenage attacker and the grandparents he killed were cremated. The prime minister, Anutin Charnvirakul, said he had ordered the interior ministry and police to stop issuing licenses to possess, purchase and carry firearms, and called for “tighter controls and decisive penalties”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-          "publishedAt": "2026-08-11T02:00:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "持续关注"
-      ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ea44681558170a4f3b908f2c",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "医生和议员谴责特朗普关于儿童疫苗的行政令",
-      "summaryZh": "特朗普签署行政令要求对儿童疫苗接种计划进行重大改革，引发医学界和政界强烈批评。同时，美国多地正在进行关键的初选投票。",
-      "whyImportant": "该行政令引发了关于公共卫生政策和总统行政权力的激烈争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ea6e06161b3bc3df",
-      "title": "Victoria to ban suppression orders for rapists following Ralph Carr, Tom Silvagni convictions under new pledge",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-to-ban-suppression-orders-for-rapists-ntwnfb",
-      "publishedAt": "2026-08-11T01:51:46.000Z",
-      "summary": "Premier Ben Carroll promises if re-elected to ‘close every loophole’ used by high-profile accused and convicted criminals to hide their identities in the courts Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The use of suppression orders by convicted rapists will be banned in Victoria, premier Ben Carroll has announced, with his government committed to “closing every loophole” accused people currently “abuse and exploit” to hide their identities in the state’s courts. Carroll and the state’s attorney general, Sonya Kilkenny, made the commitment to amend the state’s Open Courts Act to limit the use of suppression orders if re-elected in November. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-to-ban-suppression-orders-for-rapists-ntwnfb",
-          "publishedAt": "2026-08-11T01:51:46.000Z"
+          "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
+          "publishedAt": "2026-08-12T01:20:22.000Z"
         }
       ],
       "sourceCount": 1,
@@ -409,32 +289,69 @@
         "突发"
       ],
       "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1d3479bef401664875cef8d8",
+      "fingerprint": "17fee471fce7c0f8916b01bd",
       "isContinuation": false,
-      "titleZh": "维多利亚州承诺禁止强奸犯利用禁言令隐瞒身份",
-      "summaryZh": "维多利亚州州长本·卡罗尔承诺，若成功连任，将修改法律以堵住漏洞，禁止强奸犯利用法院禁言令隐瞒身份。此举旨在回应近期多起高调案件引发的公众不满。",
-      "whyImportant": "此举旨在提高司法透明度，防止罪犯利用法律漏洞逃避公众监督。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "816e48902267fdd8",
-      "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+      "id": "2bd46e28f17b0e09",
+      "title": "A ‘body’ found in a suitcase was actually a sex doll. How did NSW police get it so wrong?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/female-body-suitcase-sex-doll-nsw-police-explained",
+      "publishedAt": "2026-08-12T01:03:13.000Z",
+      "summary": "Officers – correctly – may not have fully unzipped the bag containing the lifelike doll to avoid destroying evidence, one expert says Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Revelations that a “body” found inside a suitcase was actually a sex doll may have been embarrassing for police, but experts say officers followed the correct procedure. New South Wales police on Sunday were called to Oallen, a town near Goulburn, after two members of the public found a suitcase containing what they believed to be human remains, dumped on the side of the road. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/12/female-body-suitcase-sex-doll-nsw-police-explained",
+          "publishedAt": "2026-08-12T01:03:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2f4e59b1b2947ed841d54ffc",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "4364fca72c1eb875",
+      "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "summary": "US President Donald Trump said he will seek compensation from Iran for casualties in the war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+      "publishedAt": "2026-08-11T23:57:55.000Z",
+      "summary": "Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-          "publishedAt": "2026-08-11T00:00:00.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+          "publishedAt": "2026-08-11T23:57:55.000Z"
         }
       ],
       "sourceCount": 1,
@@ -443,77 +360,113 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "公共安全"
+        "突发"
       ],
       "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4f62ad91667093a4079efb89",
+      "fingerprint": "63f7d91a10ea1024738e1517",
       "isContinuation": false,
-      "titleZh": "伊朗战争实时动态：特朗普声称霍尔木兹海峡已开放，并寻求伊朗赔偿",
-      "summaryZh": "美国总统特朗普表示，将就战争中的人员伤亡向伊朗寻求赔偿。同时，他声称霍尔木兹海峡目前处于开放状态。",
-      "whyImportant": "此表态反映了美伊冲突后的外交博弈及对地区局势的后续影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "ad170e7436251e8a",
-      "title": "Jackie, a beloved bald eagle and livestream star, dies of mysterious illness",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
-      "publishedAt": "2026-08-10T23:05:25.000Z",
-      "summary": "Thousands mourn the death of the eagle at California’s Big Bear Lake, whose life was closely followed via livestream Jackie – the beloved bald eagle at California’s Big Bear Lake whose livestream was followed by millions of viewers as she birthed and raised chicks – died on Monday due to a mysterious illness. She was 14. Jackie had been receiving treatment at the Ojai Raptor Center since mid-July when she was found weak and unable to fly after a scuffle with two younger eagles. Experts at the center had discovered that she was suffering from severe anemia, and suspected she had been sick for weeks before the fight grounded her. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
-          "publishedAt": "2026-08-10T23:05:25.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "科技",
-        "国际组织",
-        "专题·科技、能源与产业"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "98d7ebccfd900ace65b13a2d",
-      "isContinuation": false,
-      "titleZh": "备受喜爱的秃鹰“杰基”因神秘疾病去世",
-      "summaryZh": "加州大熊湖的秃鹰“杰基”因神秘疾病去世，享年14岁。它曾因直播育雏过程而受到数百万网友的关注。",
-      "whyImportant": "作为网络直播明星，它的离世引发了公众和动物保护界的广泛哀悼。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8b16c7e885c3bd79",
-      "title": "Hong Kong’s commercial property investment growth beats peer Asia-Pacific markets",
+      "id": "764d34c1aa9bece3",
+      "title": "Vietnam’s To Lam eyes trade, defence boost during trip to Australia, New Zealand",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/article/3363562/hong-kongs-commercial-property-investment-growth-beats-peer-asia-pacific-markets?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T23:00:06.000Z",
-      "summary": "Hong Kong’s commercial property investment more than doubled to US$3.1 billion in the second quarter, making it the fastest growing investment market in Asia-Pacific thanks to a strong increase in retail and office deals and a low base effect, according to JLL. The 129 per cent growth from a year earlier beat other top-performing markets including Singapore with 108 per cent growth and Australia with an 82 per cent increase, data tracked by the property consultancy showed. “Hong Kong’s robust...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3363664/vietnams-lam-eyes-trade-defence-boost-during-trip-australia-new-zealand?utm_source=rss_feed",
+      "publishedAt": "2026-08-12T00:00:15.000Z",
+      "summary": "A visit by Vietnam’s top leader To Lam to Australia and New Zealand this week is expected to lead to stronger maritime security cooperation, especially in intelligence-sharing and joint patrols. The Vietnamese president is seeking to bolster partnerships and strengthen cooperation in science and technology, according to a government statement. During Lam’s six-day trip, which ends on Friday, he is expected to sign 12 to 16 agreements with Canberra – covering education, digital transformation,...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/article/3363562/hong-kongs-commercial-property-investment-growth-beats-peer-asia-pacific-markets?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T23:00:06.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3363664/vietnams-lam-eyes-trade-defence-boost-during-trip-australia-new-zealand?utm_source=rss_feed",
+          "publishedAt": "2026-08-12T00:00:15.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2928e2916f1d39446f4d28b8",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "7e682dacc2ede12a",
+      "title": "Colombia scrambles to find survivors after deadly earthquake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
+      "publishedAt": "2026-08-11T23:39:05.000Z",
+      "summary": "At least 254 deaths have been reported so far, as rescue workers continue to sift through collapsed buildings.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
+          "publishedAt": "2026-08-11T23:39:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b1b1ebf6310d1602fcf60d72",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "china": [
+    {
+      "id": "0f43ff3e8c831777",
+      "title": "Why does SK Hynix want to sell its chip facility in southwest China?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china?utm_source=rss_feed",
+      "publishedAt": "2026-08-12T02:00:29.000Z",
+      "summary": "South Korean chipmaker SK Hynix’s potential deal to offload a packaging plant in southwest China is part of a strategic pivot towards higher-margin artificial intelligence (AI) memory products, according to analysts. But a sale might not be straightforward, as the memory chip giant would need to navigate valuation hurdles and a volatile chip cycle, they cautioned. SK Hynix said on Monday it was “looking into various solutions to enhance the competitiveness of its packaging business”, after...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china?utm_source=rss_feed",
+          "publishedAt": "2026-08-12T02:00:29.000Z"
         }
       ],
       "sourceCount": 1,
@@ -522,115 +475,108 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融"
+        "军事与安全",
+        "科技"
       ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1df77cb90057ee1350e471d5",
+      "fingerprint": "78a9d4e8f64c65aa33326b9f",
       "isContinuation": false,
-      "titleZh": "香港商业地产投资增长领跑亚太市场",
-      "summaryZh": "得益于零售和办公楼交易的强劲增长，香港第二季度商业地产投资额翻倍至31亿美元。这一增速超过了新加坡和澳大利亚等市场。",
-      "whyImportant": "数据表明香港商业地产市场在低基数效应下展现出强劲的复苏势头。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "99f37637eed056e0",
-      "title": "Trump’s media company, which also owns Truth Social, reports $238m loss",
+      "id": "fc19637f7f8d82b2",
+      "title": "Passenger jet billed as China’s answer to Boeing and Airbus prepares to make first international flight",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss",
-      "publishedAt": "2026-08-11T00:54:00.000Z",
-      "summary": "Company also announced a paid service for early access to president’s posts on policies to the social media site Donald Trump’s media company – which owns the Truth Social platform favored by the US president – posted a $238m loss in the second quarter. Trump Media & Technology on Monday reported that losses in the three months through June came as the company branched into new ventures including crypto. The company’s new chief executive, Kevin McGurn, announced at a conference call about the earnings that after a yearlong effort to expand into online betting and crypto, the company would be refocusing on social media. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight",
+      "publishedAt": "2026-08-12T02:02:04.000Z",
+      "summary": "The Comac C919 will fly from Beijing to Ulaanbaatar in Mongolia, although experts say it could take generations for it to challenge the west’s dominance of the industry China hopes to break into the world of commercial aviation with the first international flight of a Chinese-made passenger jet scheduled for Wednesday. The Comac C919 will take off from Beijing capital international airport at 3pm, landing in Ulaanbaatar, the capital of Mongolia, just over two hours later. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss",
-          "publishedAt": "2026-08-11T00:54:00.000Z"
+          "url": "https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight",
+          "publishedAt": "2026-08-12T02:02:04.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "科技",
-        "专题·科技、能源与产业"
+        "中国重点"
       ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "d7104709ec6251bc604380e8",
-      "isContinuation": false,
-      "titleZh": "特朗普旗下媒体公司报告亏损2.38亿美元",
-      "summaryZh": "特朗普媒体与技术集团在第二季度亏损2.38亿美元，公司宣布将重新聚焦社交媒体业务。此前该公司曾尝试进军加密货币和在线博彩领域。",
-      "whyImportant": "财务亏损反映了该公司在多元化经营战略上的挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9c5f97e73084ab96",
-      "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
-      "publishedAt": "2026-08-10T22:46:32.000Z",
-      "summary": "Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
-          "publishedAt": "2026-08-10T22:46:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5db9749cc617e7799c10fee1",
+      "fingerprint": "9d5bc728e38a125ab16e5ea4",
       "isContinuation": false,
-      "titleZh": "哥伦比亚强震袭击机场，现场惊恐万分",
-      "summaryZh": "一段来自哥伦比亚佩雷拉机场的视频显示，7.4级地震发生时，机场航站楼出现剧烈晃动。现场人员在惊恐中避险。",
-      "whyImportant": "机场等关键基础设施受地震影响，进一步凸显了灾情的广泛性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "china": [
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
     {
-      "id": "8e46b0d4f86357f8",
-      "title": "Why submarine attacks may prove to be the Achilles’ heel for China’s new carrier fleet",
+      "id": "e24e3ed7c5fe3ec2",
+      "title": "China childhood staple ‘White Rabbit’ candy gains global praise for classic wrapper design",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3363536/why-submarine-attacks-may-prove-be-achilles-heel-chinas-new-carrier-fleet?utm_source=rss_feed",
-      "publishedAt": "2026-08-11T02:00:16.000Z",
-      "summary": "China’s rapidly expanding aircraft carrier fleet may be vulnerable to attack from submarines – an area where its defensive capacity lags behind that of the United States – according to a new report. This gap is drawing increasing attention as Beijing builds more sophisticated carriers and sends them deeper into the western Pacific, where the People’s Liberation Army Navy (PLAN)’s knowledge of the undersea environment continues to lag behind that of the US Navy. A recent report from the...",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363714/china-childhood-staple-white-rabbit-candy-gains-global-praise-classic-wrapper-design?utm_source=rss_feed",
+      "publishedAt": "2026-08-12T01:41:48.000Z",
+      "summary": "The time-honoured Chinese creamy candy brand White Rabbit recently went viral for its iconic wrapper design, but the brand, having pursued an active rebranding strategy and collaborations, offers much more than its traditional legacy. A netizen on X, under the handle @weeabob, shared a post featuring the candy’s classic blue, red, and white wrapper, praising it as an “absolute masterstroke of graphic design.” This post garnered 260,000 likes and 600 comments, with many users reminiscing about...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3363536/why-submarine-attacks-may-prove-be-achilles-heel-chinas-new-carrier-fleet?utm_source=rss_feed",
-          "publishedAt": "2026-08-11T02:00:16.000Z"
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363714/china-childhood-staple-white-rabbit-candy-gains-global-praise-classic-wrapper-design?utm_source=rss_feed",
+          "publishedAt": "2026-08-12T01:41:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "142cf31589d04da6fdacfe4b",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "e1338cb1222f6a40",
+      "title": "A strong China is the best hope for the ‘long peace’ to endure",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3363507/strong-china-best-hope-long-peace-endure?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T12:30:05.000Z",
+      "summary": "The “long peace” is a term coined by Yale professor and Cold War historian John Lewis Gaddis in his 1987 book The Long Peace: Inquiries into the History of the Cold War. It refers to the fact that, from the end of World War II in 1945 into the 1980s, more than 40 years passed without a third world war between the United States and Soviet Union. For centuries before 1945, great powers fought destructive general wars such as the Napoleonic Wars, World War I and World War II roughly once every...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3363507/strong-china-best-hope-long-peace-endure?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T12:30:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -640,247 +586,73 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "突发",
-        "军事与安全",
-        "环境"
+        "军事与安全"
       ],
-      "score": 78,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "2a9123225063f79263e7b387",
+      "fingerprint": "12a2508c4b5d375362e3f566",
       "isContinuation": false,
-      "titleZh": "报告称潜艇攻击可能成为中国新航母编队的“阿喀琉斯之踵”",
-      "summaryZh": "一份新报告指出，中国快速扩张的航母编队在应对潜艇攻击方面存在防御短板。随着中国航母深入西太平洋，其水下防御能力与美国相比仍有差距。",
-      "whyImportant": "该分析揭示了中国海军在现代化建设过程中面临的战略防御挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "2d9c5055b203bc04",
-      "title": "大道行天下丨一诺千金 笃行致远 中国元首外交的世界情怀与大国气派",
-      "source": "baijiahao.baidu.com",
-      "url": "https://baijiahao.baidu.com/s?id=1873053762048559154",
-      "publishedAt": "2026-08-11T01:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "d7246cc9e69f0ba1",
+      "title": "Hong Kong is no longer a Western playground – and it’s not looking back",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363522/hong-kong-no-longer-western-playground-and-its-not-looking-back?utm_source=rss_feed",
+      "publishedAt": "2026-08-12T01:30:05.000Z",
+      "summary": "When it comes to bad prognostication, no one can beat Fortune, which came up with the mother of all “Hong Kong is doomed” narratives. In June 1995, the magazine ran its infamous “The Death of Hong Kong” cover story, predicting its demise following the 1997 handover to China. Stephen Roach, veteran China watcher and former chairman of Morgan Stanley Asia, seems determined to follow in its footsteps. In 2024, Roach caused a stir by proclaiming “Hong Kong is over” in the Financial Times. He was...",
+      "language": "",
+      "region": "china",
       "crossSources": [
         {
-          "source": "baijiahao.baidu.com",
-          "url": "https://baijiahao.baidu.com/s?id=1873053762048559154",
-          "publishedAt": "2026-08-11T01:45:00.000Z"
-        },
-        {
-          "source": "legaldaily.com.cn",
-          "url": "http://www.legaldaily.com.cn/index_article/content/2026-08/10/content_9438405.html",
-          "publishedAt": "2026-08-10T07:15:00.000Z"
-        },
-        {
-          "source": "banyuetan.org",
-          "url": "http://www.banyuetan.org/dyp/detail/20260810/1000200033135231786326276472175895_1.html",
-          "publishedAt": "2026-08-10T05:30:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363522/hong-kong-no-longer-western-playground-and-its-not-looking-back?utm_source=rss_feed",
+          "publishedAt": "2026-08-12T01:30:05.000Z"
         }
       ],
-      "sourceCount": 3,
+      "sourceCount": 1,
       "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "外交"
+        "中国重点"
       ],
-      "score": 71,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 56,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a72c27c4089649daf9e99e39",
+      "fingerprint": "4214c9fbf5a3c0d6dfdff19e",
       "isContinuation": false,
-      "titleZh": "大道行天下丨一诺千金 笃行致远 中国元首外交的世界情怀与大国气派",
-      "summaryZh": "文章阐述了中国元首外交在国际舞台上的理念与实践。强调中国在国际事务中秉持承诺，展现大国担当。",
-      "whyImportant": "该文体现了中国外交政策的核心价值观及其在国际关系中的定位。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "86651fe42edc9c87",
-      "title": "Hong Kong index compiler proposes adding 20 more stocks to main technology tracker",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
-      "publishedAt": "2026-08-11T02:09:55.000Z",
-      "summary": "Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a selection criterion to strengthen market representation, according to a consultation paper released on Monday. Hong Kong’s major stock index compiler proposed increasing the number of HSTECH constituents from 30 to 50, using a dual-selection framework. The top 40 stocks will be selected by market capitalisation, while the remaining 10 will be picked based on revenue...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
-          "publishedAt": "2026-08-11T02:09:55.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 70,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "488c79445de9700b3ca04f47",
-      "isContinuation": false,
-      "titleZh": "香港指数公司提议将20只股票纳入科技指数",
-      "summaryZh": "恒生指数公司计划将恒生科技指数的成份股从30只增加至50只。同时引入“销售增长”作为选股标准，以增强市场代表性。",
-      "whyImportant": "此举旨在优化指数结构，更好地反映香港科技板块的市场表现。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2f153f00ddda48bd",
-      "title": "Can the SCO become a more influential force globally?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3363317/can-sco-become-more-influential-force-globally?utm_source=rss_feed",
-      "publishedAt": "2026-08-11T01:30:07.000Z",
-      "summary": "Despite representing nearly half the world’s population, accounting for about a quarter of the world’s gross domestic product and covering more than 60 per cent of the Eurasian land mass, the role of the Shanghai Cooperation Organisation in the international arena remains relatively limited. While the SCO has long been a priority in China’s neighbourhood diplomacy, the grouping also serves as a platform through which all member states pursue their own foreign policy goals. What would it take for...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3363317/can-sco-become-more-influential-force-globally?utm_source=rss_feed",
-          "publishedAt": "2026-08-11T01:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 68,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "decc9be26b1e8f9c22358cb2",
-      "isContinuation": false,
-      "titleZh": "上海合作组织能否在全球范围内发挥更大影响力？",
-      "summaryZh": "尽管上合组织覆盖了全球大部分人口和经济总量，但其在国际舞台上的影响力仍相对有限。成员国如何在组织框架内协调外交目标是其未来发展的关键。",
-      "whyImportant": "探讨上合组织在全球治理中的角色对于理解区域合作的未来走向至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "892c161c4a4607aa",
-      "title": "A rare rocket failure led to knock-on effects on China’s space launches. What happened?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3363574/chinas-long-march-7a-rocket-explodes-after-launch-satellite-lost?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T16:09:01.000Z",
-      "summary": "China has suffered a rare failure of one of its newer-generation Long March rockets, losing a communications satellite after the launcher exploded shortly after take-off on Monday night. Around 8pm Beijing time, the unmanned 60-metre (197-foot) Long March 7A blasted off from the Wenchang Space Launch Site on the southern island of Hainan, piercing the night sky as it carried the ChinaSat-4B satellite towards high Earth orbit. But less than 90 seconds into the flight, the rocket erupted into a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3363574/chinas-long-march-7a-rocket-explodes-after-launch-satellite-lost?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T16:09:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "space",
-        "科技"
-      ],
-      "fingerprint": "028d2306e5b231942a02a833",
-      "isContinuation": false,
-      "titleZh": "中国火箭发射罕见失败，对航天计划产生连锁反应",
-      "summaryZh": "中国长征七号甲运载火箭在海南文昌发射后不久发生爆炸，导致中星4B卫星损失。这是中国新一代火箭罕见的发射失败案例。",
-      "whyImportant": "此次发射失败对中国航天任务的后续安排及技术评估产生了直接影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     }
   ],
   "usa": [
     {
-      "id": "7c1d08a3a9fa6b27",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T02:10:44.000Z",
-      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-11T02:10:44.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "148a68be6ecf6002794853fd",
-      "isContinuation": false,
-      "titleZh": "特朗普签署行政令限制儿童疫苗接种并拆分麻腮风疫苗",
-      "summaryZh": "特朗普签署行政令建议对麻腮风（MMR）疫苗进行拆分接种。美国儿科学会对此表示强烈反对，称该建议具有“危险性”。",
-      "whyImportant": "该政策引发了医学界对疫苗接种安全性和科学性的严重担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9d5289904f2d7f3b",
-      "title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots",
+      "id": "d52b88ac38d21c98",
+      "title": "David Crowley and Democratic socialist Francesca Hong in tight race in Wisconsin governor primary - live",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
-      "publishedAt": "2026-08-10T22:28:20.000Z",
-      "summary": "President and RFK Jr, the health secretary, repeatedly referred to autism during signing, though studies show no link between it and vaccines Donald Trump has signed an executive order with plans for sweeping changes to the childhood vaccination schedule that attempts to override the authority of the US Centers for Disease Control and Prevention (CDC). It is an attempt to undergird the changes made earlier this year to CDC vaccination recommendations, which were halted by a federal judge. The CDC is the federal agency tasked with recommending vaccines, not the White House. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
+      "publishedAt": "2026-08-12T02:29:01.000Z",
+      "summary": "Results also coming in from Minnesota, South Carolina, Vermont, Alabama and Connecticut Sign up to the US Breaking News email Pete Hegseth’s appointments to a key Pentagon advisory body include two men with ties to the venture capital fund where Donald Trump Jr is a partner, which has lucrative investments in military and space technology. Defense Policy Board appointee Marc Andreessen’s firm, Andreessen Horowitz, one of Silicon Valley’s largest venture capital firms and known by the name “a16z”, co-invests alongside the Trump partnership 1789 Capital in three defense contractors. Fellow DPB appointee Blake Masters also sits on the boards of three ventures tied to 1789 Capital. South Carolina – 7pm ET Vermont – 7pm ET Alabama – 7pm local/8pm ET Connecticut – 8pm ET Minnesota – 8pm local/9pm ET Wisconsin – 8pm local/9pm ET Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
-          "publishedAt": "2026-08-10T22:28:20.000Z"
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
+          "publishedAt": "2026-08-12T02:29:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -888,71 +660,38 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "突发",
+        "军事与安全",
+        "科技"
       ],
-      "score": 55,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 73,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "35e511a1832e00fce4606b36",
+      "fingerprint": "ed95ad504830c7e03841cf35",
       "isContinuation": false,
-      "titleZh": "特朗普签署行政令试图绕过CDC疫苗接种计划并拆分麻腮风疫苗",
-      "summaryZh": "特朗普签署行政令，试图绕过美国疾控中心（CDC）的权威，对儿童疫苗接种计划进行重大调整。总统及卫生部长在签署过程中多次提及疫苗与自闭症的关联，尽管科学研究已否定此说法。",
-      "whyImportant": "此举挑战了联邦卫生机构的专业权威，并引发了关于公共卫生政策科学性的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "a5611938c9a06d60",
-      "title": "Presidential Message on National Shooting Sports Month",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/",
-      "publishedAt": "2026-08-10T21:06:36.000Z",
-      "summary": "This National Shooting Sports Month, we celebrate America’s proud tradition of recreational shooting and hunting and the glorious exercise of our Second Amendment rights. For generations, this time-honored way of life has instilled discipline, promoted rugged individualism that drove American civilization west, and connected millions of Americans to the great outdoors. The right to keep […] The post Presidential Message on National Shooting Sports Month appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/",
-          "publishedAt": "2026-08-10T21:06:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 54,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0ad0992ea010865f051f3771",
-      "isContinuation": false,
-      "titleZh": "总统关于全国射击运动月的致辞",
-      "summaryZh": "白宫发布致辞庆祝全国射击运动月，强调美国对休闲射击和狩猎传统的重视。文中重申了对宪法第二修正案权利的维护。",
-      "whyImportant": "该致辞重申了美国政府在枪支文化和宪法权利方面的立场。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7efcde4083903cb5",
-      "title": "Todd Blanche is sworn in as attorney general after bruising confirmation fight",
+      "id": "af163bdbf89f74bc",
+      "title": "Japan slams North Korea’s ballistic missile firing ahead of US-Seoul drills",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3363582/todd-blanche-sworn-attorney-general-after-bruising-confirmation-fight?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T21:18:42.000Z",
-      "summary": "US President Donald Trump’s former personal lawyer, Todd Blanche, was sworn in on Monday as attorney general after a bruising confirmation fight that exposed bipartisan concerns about the Justice Department’s direction under the Republican president. Another former Trump lawyer – Emil Bove, now a federal appeal court judge – administered the oath of office to Blanche at the White House following early Saturday’s Senate confirmation vote by the narrowest of margins. Soon after, the newly sworn-in...",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3363710/north-korea-launches-suspected-ballistic-missile-japan-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T22:53:53.000Z",
+      "summary": "North Korea fired a ballistic missile off its east coast towards Japan early on Wednesday, Seoul’s military said, days before the planned start of massive US-South Korea joint drills. The 11-day exercises due to begin on Monday are a regular fixture of the summer calendar, designed to steel the United States and South Korea for defence against the nuclear-armed North. Pyongyang calls them rehearsals for an invasion and has staged missile launches before and after them in the past. “Our military...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363582/todd-blanche-sworn-attorney-general-after-bruising-confirmation-fight?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T21:18:42.000Z"
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3363710/north-korea-launches-suspected-ballistic-missile-japan-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T22:53:53.000Z"
         }
       ],
       "sourceCount": 1,
@@ -960,73 +699,149 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "军事与安全",
+        "能源"
       ],
-      "score": 53,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 64,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "66c29ff0128f3da3040e7d54",
+      "fingerprint": "3aae1903e3ac9635858df6ce",
       "isContinuation": false,
-      "titleZh": "托德·布兰奇在激烈的确认程序后宣誓就任司法部长",
-      "summaryZh": "特朗普的前私人律师托德·布兰奇在参议院以微弱优势通过确认后，正式宣誓就任司法部长。此次任命过程暴露了党派间对司法部未来方向的严重分歧。",
-      "whyImportant": "司法部长的任命对美国司法系统的独立性和政策导向具有深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "87e3189b6f75a1d3",
-      "title": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "publishedAt": "2026-08-10T19:44:46.000Z",
-      "summary": "DELIVERING GOLD STANDARD CHILDHOOD VACCINE RECOMMENDATIONS: Today, President Donald J. Trump signed an Executive Order to recognize Gold Standard Childhood Vaccine Recommendations that maximize parental choices over vaccinations for their children and align three categories of childhood immunizations with scientific evidence and best practices from peer, developed countries. ENSURING AMERICANS ARE RECEIVING THE BEST MEDICAL ADVICE […] The post Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
-          "publishedAt": "2026-08-10T19:44:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 53,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "19893c168520bd657f7eb9ad",
-      "isContinuation": false,
-      "titleZh": "事实核查：特朗普总统为美国人提供“黄金标准”儿童疫苗建议",
-      "summaryZh": "白宫发布事实清单，称特朗普签署行政令旨在提供“黄金标准”的儿童疫苗建议。该政策强调增加家长的选择权，并声称其符合发达国家的最佳实践。",
-      "whyImportant": "政府试图通过此举重塑疫苗接种政策，但其科学依据受到外界质疑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "watch": [
-    {
-      "id": "acb8cf2aff4582b1",
-      "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+      "id": "dd3d6df9f0dde5ec",
+      "title": "Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
-      "publishedAt": "2026-08-10T22:35:48.000Z",
-      "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
+      "publishedAt": "2026-08-11T20:11:53.000Z",
+      "summary": "Donald Trump labels US Democratic nominees 'jihadists' in inflammatory remarks made in the Oval Office.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
-          "publishedAt": "2026-08-10T22:35:48.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
+          "publishedAt": "2026-08-11T20:11:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c699eb1a4d8be3f6c39c035c",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "49aef93764f62d3c",
+      "title": "On the ground in Cali, Colombia’s worst-hit city after the quake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss",
+      "publishedAt": "2026-08-12T01:40:33.000Z",
+      "summary": "Reporting from the rubble of an apartment building, Al Jazeera’s Latin America Editor Lucia Newman describes the scene.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss",
+          "publishedAt": "2026-08-12T01:40:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e2dde01cb44eabd12ea4cb45",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "f9460d487f1a3acf",
+      "title": "US military says it has fired on ship in Gulf of Oman to enforce blockade of Iranian ports",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363706/us-military-says-it-has-fired-ship-gulf-oman-enforce-blockade-iranian-ports?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T20:16:16.000Z",
+      "summary": "A US helicopter on Tuesday fired missiles into the engine room of a Panama-flagged cargo ship that attempted to break the American blockade of Iran’s ports, the United States military said. The US Navy MH-60 helicopter fired on and disabled the M/V Vela Nova “after the ship’s civilian crew ignored repeated warnings from American forces”, US Central Command (CENTCOM) said on social media, adding that the vessel “is no longer transiting to Iran in violation of the US blockade”. It was initially...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363706/us-military-says-it-has-fired-ship-gulf-oman-enforce-blockade-iranian-ports?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T20:16:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "71ee1596971043efcdd2da43",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "watch": [
+    {
+      "id": "aa81afd7d2aded83",
+      "title": "UNESCO: 2.4 million girls barred from school in Afghanistan",
+      "source": "DW",
+      "url": "https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-11T22:49:00.000Z",
+      "summary": "Five years after the Taliban returned to power, millions of Afghan girls remain excluded from secondary education. UNESCO warns of lasting social and economic consequences.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-11T22:49:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1035,255 +850,130 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "经济",
+        "军事与安全"
       ],
       "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "97542c9e3d94db30ea19d1ae",
+      "fingerprint": "b9b81873124b88813bf9075b",
       "isContinuation": false,
-      "titleZh": "半岛电视台记者现场报道哥伦比亚地震死亡人数上升",
-      "summaryZh": "随着救援队在哥伦比亚西部地震灾区搜寻倒塌建筑，确认的死亡人数持续上升。现场救援工作正在紧张进行中。",
-      "whyImportant": "持续更新的伤亡数据反映了此次地震灾情的严重程度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "74229b68b44e709c",
-      "title": "Chinese national pleads guilty to trying to export US military equipment to China",
+      "id": "427cd01bc9b5a366",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T14:50:10.000Z",
+      "summary": "A Syrian court sentenced ousted leader ⁠Bashar al-Assad ⁠to death on Tuesday ⁠after a trial in absentia, convicting him of crimes including killings, torture, and arbitrary arrest during the country’s nearly 14-year war. It was the first conviction against ‌Assad, who was ousted in a rebel offensive in December 2024 that ended decades of his family’s iron-fisted rule over Syria and the brutal war that killed hundreds of thousands of Syrians. Assad fled the capital Damascus as rebel fighters...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-11T14:50:10.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363672/syrian-court-sentences-ousted-leader-bashar-al-assad-death-absentia?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T09:59:58.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "eab71756d6c9cfbd1281ebac",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a94769430a62229c",
+      "title": "‘Islamic Nato’? Why Pakistan’s new defence pact has India on edge",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3363584/chinese-national-pleads-guilty-trying-export-us-military-equipment-china?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T21:54:42.000Z",
-      "summary": "A Chinese citizen faces up to 20 years in US federal prison after pleading guilty on Monday to attempting to purchase US-made military equipment to export to China, in violation of US arms export controls, according to the US Department of Justice (DOJ). Chen Dingwei, 29, was charged with attempting to purchase military-grade satellite modems and radios manufactured for the US military by US companies, which are barred from being exported to China under the US Arms Export Control Act. US...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3363675/islamic-nato-why-pakistans-new-defence-pact-has-india-edge?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T10:40:46.000Z",
+      "summary": "A new defence pact between Pakistan, Saudi Arabia and Turkey has raised questions in New Delhi over whether Islamabad could use the agreement to build wider security ties with Muslim-majority countries in India’s neighbourhood, analysts have said. The Mecca Joint Defence Agreement, signed on Friday, states that an armed attack on any one of the three countries would be treated as an attack on all of them. The tripartite agreement followed a bilateral one between Saudi Arabia and Pakistan signed...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363584/chinese-national-pleads-guilty-trying-export-us-military-equipment-china?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T21:54:42.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3363675/islamic-nato-why-pakistans-new-defence-pact-has-india-edge?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T10:40:46.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "军事与安全"
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织"
       ],
       "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7586f1dca662248c6b705f6e",
+      "fingerprint": "00e60ce3acc771fd4d433017",
       "isContinuation": false,
-      "titleZh": "一名中国公民承认试图向中国出口美国军事装备",
-      "summaryZh": "一名29岁的中国公民承认试图购买受管制的美国军事级卫星调制解调器和无线电设备并出口至中国。他将面临最高20年的联邦监禁。",
-      "whyImportant": "此案凸显了美国在军事技术出口管制方面的严格执法。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "edf78a3b077cdfe7",
-      "title": "Iran - US conflict creates new strategic challenges for China : Report",
-      "source": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1798755.html",
-      "publishedAt": "2026-08-10T16:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "prokerala.com",
-          "url": "https://www.prokerala.com/news/articles/a1798755.html",
-          "publishedAt": "2026-08-10T16:45:00.000Z"
-        },
-        {
-          "source": "newkerala.com",
-          "url": "https://www.newkerala.com/news/a/iran-us-conflict-creates-new-strategic-challenges-china-report-487.htm",
-          "publishedAt": "2026-08-10T16:45:00.000Z"
-        },
-        {
-          "source": "ianslive.in",
-          "url": "https://ianslive.in/iran-us-conflict-creates-new-strategic-challenges-for-china-report--20260810204659",
-          "publishedAt": "2026-08-10T16:30:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "45bbdd1ff02b82a9f70be335",
-      "isContinuation": false,
-      "titleZh": "报告：伊朗与美国的冲突为中国带来新的战略挑战",
-      "summaryZh": "报告分析称，美伊冲突的升级对中国的地缘政治和战略利益产生了复杂影响。中国需要在维护地区稳定与自身利益之间寻求平衡。",
-      "whyImportant": "该报告探讨了国际冲突如何影响中国的外部战略环境。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 241,
-    "deduplicated": 215,
+    "fetched": 151,
+    "deduplicated": 146,
     "selected": 23,
     "minimumRequired": 21,
-    "featured": 5,
+    "featured": 1,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "86651fe42edc9c87",
-      "title": "Hong Kong index compiler proposes adding 20 more stocks to main technology tracker",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
-      "publishedAt": "2026-08-11T02:09:55.000Z",
-      "summary": "Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a selection criterion to strengthen market representation, according to a consultation paper released on Monday. Hong Kong’s major stock index compiler proposed increasing the number of HSTECH constituents from 30 to 50, using a dual-selection framework. The top 40 stocks will be selected by market capitalisation, while the remaining 10 will be picked based on revenue...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
-          "publishedAt": "2026-08-11T02:09:55.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 70,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "488c79445de9700b3ca04f47",
-      "isContinuation": false,
-      "titleZh": "香港指数公司提议将20只股票纳入科技指数",
-      "summaryZh": "恒生指数公司计划将恒生科技指数的成份股从30只增加至50只。同时引入“销售增长”作为选股标准，以增强市场代表性。",
-      "whyImportant": "此举旨在优化指数结构，更好地反映香港科技板块的市场表现。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2f153f00ddda48bd",
-      "title": "Can the SCO become a more influential force globally?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3363317/can-sco-become-more-influential-force-globally?utm_source=rss_feed",
-      "publishedAt": "2026-08-11T01:30:07.000Z",
-      "summary": "Despite representing nearly half the world’s population, accounting for about a quarter of the world’s gross domestic product and covering more than 60 per cent of the Eurasian land mass, the role of the Shanghai Cooperation Organisation in the international arena remains relatively limited. While the SCO has long been a priority in China’s neighbourhood diplomacy, the grouping also serves as a platform through which all member states pursue their own foreign policy goals. What would it take for...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3363317/can-sco-become-more-influential-force-globally?utm_source=rss_feed",
-          "publishedAt": "2026-08-11T01:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 68,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "decc9be26b1e8f9c22358cb2",
-      "isContinuation": false,
-      "titleZh": "上海合作组织能否在全球范围内发挥更大影响力？",
-      "summaryZh": "尽管上合组织覆盖了全球大部分人口和经济总量，但其在国际舞台上的影响力仍相对有限。成员国如何在组织框架内协调外交目标是其未来发展的关键。",
-      "whyImportant": "探讨上合组织在全球治理中的角色对于理解区域合作的未来走向至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "892c161c4a4607aa",
-      "title": "A rare rocket failure led to knock-on effects on China’s space launches. What happened?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3363574/chinas-long-march-7a-rocket-explodes-after-launch-satellite-lost?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T16:09:01.000Z",
-      "summary": "China has suffered a rare failure of one of its newer-generation Long March rockets, losing a communications satellite after the launcher exploded shortly after take-off on Monday night. Around 8pm Beijing time, the unmanned 60-metre (197-foot) Long March 7A blasted off from the Wenchang Space Launch Site on the southern island of Hainan, piercing the night sky as it carried the ChinaSat-4B satellite towards high Earth orbit. But less than 90 seconds into the flight, the rocket erupted into a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3363574/chinas-long-march-7a-rocket-explodes-after-launch-satellite-lost?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T16:09:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "space",
-        "科技"
-      ],
-      "fingerprint": "028d2306e5b231942a02a833",
-      "isContinuation": false,
-      "titleZh": "中国火箭发射罕见失败，对航天计划产生连锁反应",
-      "summaryZh": "中国长征七号甲运载火箭在海南文昌发射后不久发生爆炸，导致中星4B卫星损失。这是中国新一代火箭罕见的发射失败案例。",
-      "whyImportant": "此次发射失败对中国航天任务的后续安排及技术评估产生了直接影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ad170e7436251e8a",
-      "title": "Jackie, a beloved bald eagle and livestream star, dies of mysterious illness",
+      "id": "e2f25190364fdf8c",
+      "title": "Famed tourist destinations evacuated as wildfire threatens California’s Big Sur",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
-      "publishedAt": "2026-08-10T23:05:25.000Z",
-      "summary": "Thousands mourn the death of the eagle at California’s Big Bear Lake, whose life was closely followed via livestream Jackie – the beloved bald eagle at California’s Big Bear Lake whose livestream was followed by millions of viewers as she birthed and raised chicks – died on Monday due to a mysterious illness. She was 14. Jackie had been receiving treatment at the Ojai Raptor Center since mid-July when she was found weak and unable to fly after a scuffle with two younger eagles. Experts at the center had discovered that she was suffering from severe anemia, and suspected she had been sick for weeks before the fight grounded her. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+      "publishedAt": "2026-08-12T01:27:29.000Z",
+      "summary": "Nearly 500 personnel battle Timber fire in Los Padres national forest as blaze grows to 3,000 acres Evacuations have been ordered for areas along California’s famous Big Sur coast as a wildfire burns in the nearby steep, rugged mountains. The Timber fire in Monterey county started on Sunday and grew to nearly 3,000 acres by Tuesday evening, according to Cal Fire, the state’s fire agency. Nearly 500 fire personnel had been assigned to the fire in the Los Padres national forest. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
-          "publishedAt": "2026-08-10T23:05:25.000Z"
+          "url": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+          "publishedAt": "2026-08-12T01:27:29.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1292,156 +982,154 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "科技",
-        "国际组织",
-        "专题·科技、能源与产业"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "98d7ebccfd900ace65b13a2d",
-      "isContinuation": false,
-      "titleZh": "备受喜爱的秃鹰“杰基”因神秘疾病去世",
-      "summaryZh": "加州大熊湖的秃鹰“杰基”因神秘疾病去世，享年14岁。它曾因直播育雏过程而受到数百万网友的关注。",
-      "whyImportant": "作为网络直播明星，它的离世引发了公众和动物保护界的广泛哀悼。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "99f37637eed056e0",
-      "title": "Trump’s media company, which also owns Truth Social, reports $238m loss",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss",
-      "publishedAt": "2026-08-11T00:54:00.000Z",
-      "summary": "Company also announced a paid service for early access to president’s posts on policies to the social media site Donald Trump’s media company – which owns the Truth Social platform favored by the US president – posted a $238m loss in the second quarter. Trump Media & Technology on Monday reported that losses in the three months through June came as the company branched into new ventures including crypto. The company’s new chief executive, Kevin McGurn, announced at a conference call about the earnings that after a yearlong effort to expand into online betting and crypto, the company would be refocusing on social media. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss",
-          "publishedAt": "2026-08-11T00:54:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "d7104709ec6251bc604380e8",
-      "isContinuation": false,
-      "titleZh": "特朗普旗下媒体公司报告亏损2.38亿美元",
-      "summaryZh": "特朗普媒体与技术集团在第二季度亏损2.38亿美元，公司宣布将重新聚焦社交媒体业务。此前该公司曾尝试进军加密货币和在线博彩领域。",
-      "whyImportant": "财务亏损反映了该公司在多元化经营战略上的挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4f07762c2d95d7f3",
-      "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "publishedAt": "2026-08-11T02:05:57.000Z",
-      "summary": "Search teams and civilians sift though debris after at least 1,500 buildings damaged and dozens collapse in country’s most powerful quake this century Scores dead in Colombia after powerful earthquake strikes west of country – full report People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities in Bogota and Medellin to send disaster teams ‌to support rescue efforts. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-          "publishedAt": "2026-08-11T02:05:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "公共安全"
-      ],
-      "score": 67,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "976ca05dd8e2042221981322",
-      "isContinuation": false,
-      "titleZh": "哥伦比亚地震实时更新：强震已致超110人死亡，救援人员正争分夺秒搜救被困者",
-      "summaryZh": "哥伦比亚发生本世纪以来最强地震，造成至少1500座建筑物受损，数十座倒塌。目前救援人员和民众正在废墟中搜寻幸存者，卡利市市长已请求波哥大和麦德林派遣救援队支援。",
-      "whyImportant": "此次强震造成重大人员伤亡和基础设施破坏，引发了全国范围的紧急救援行动。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6e0bcaf0a58d5c0b",
-      "title": "Soldiers take cover as Colombia quake flattens military barracks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
-      "publishedAt": "2026-08-11T01:06:36.000Z",
-      "summary": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
-          "publishedAt": "2026-08-11T01:06:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
+        "环境",
+        "公共安全",
+        "专题·气候、环境与公共安全"
       ],
       "score": 66,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5b1e1dde490281a9a77c2be9",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "wildfire",
+        "环境",
+        "公共安全"
+      ],
+      "fingerprint": "bf08d8c9f3a2109ae38f4554",
       "isContinuation": false,
-      "titleZh": "哥伦比亚地震导致军事营房夷为平地，士兵紧急撤离",
-      "summaryZh": "一段视频显示，在卡利市的一处军事基地，士兵们在7.4级地震发生时从建筑物中仓皇逃离。地震导致该基地建筑被夷为平地。",
-      "whyImportant": "地震对军事设施造成了直接破坏，凸显了此次灾害的严重程度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "4152215b50c3a67e",
-      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "id": "ce4e0731d8041f3c",
+      "title": "Bondi shooting hero Ahmed al-Ahmed cleared of assault charges",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
+      "publishedAt": "2026-08-12T02:05:37.000Z",
+      "summary": "Al-Ahmed, who maintains his innocence, was accused of putting his father in a headlock in March Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The man who disarmed one of the gunmen allegedly responsible for the Bondi beach terror attack has had an assault case against him tossed out. Ahmed al-Ahmed, 44, had been accused of putting his father in a headlock on 9 March and intimidation over an alleged incident in June. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
+          "publishedAt": "2026-08-12T02:05:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 66,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "54ab91b85e94e263d431de26",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "fee71e112751f8cf",
+      "title": "Darline Graham to face Ralph Norman in South Carolina Republican primary runoff",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
+      "publishedAt": "2026-08-12T01:24:37.000Z",
+      "summary": "Norman beat out Russell Fry, a congressman, and Mark Sanford, a former governor, to advance is closely contested race US politics live – latest updates Sign up for the Breaking News US newsletter email Senator Darline Graham, appointed to complete the Senate term of her late brother, Lindsey Graham of South Carolina will face congressman Ralph Norman in a runoff election for the Republican nomination. Graham held a narrow lead in the polls going into the abbreviated special primary on Tuesday, which predicted a close contest for second place. Norman, Russell Fry, a congressman, and Mark Sanford, a former governor, had polled within a point of each other in the most recent survey from the Trafalgar Group. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
+          "publishedAt": "2026-08-12T01:24:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 66,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c48247490d0ddb6470344397",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "b6ca34f0d7b82c41",
+      "title": "Australia politics live: teals don ‘Sportsdebt’ t-shirts as Wilkie accuses Labor of being ‘improperly influenced’ by gambling lobby",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+      "publishedAt": "2026-08-12T02:27:13.000Z",
+      "summary": "The independent MP made the allegations in a letter to the National Anti-Corruption Commission. Follow today’s news live Get our breaking news email, free app or daily news podcast Education minister says funding agreement with Victoria ‘very close’ The education minister, Jason Clare, says a funding deal with Victoria to get public schools funded to Gonski levels over the next decade is “very close”. We’re very close, mate. I know [Victorian premier] Ben Carroll gets this, and I’m optimistic that we’ll get this across the line. He understands how important it is that teachers are paid well, that they do the best or do the most important job in the country, but how important it is that we fix the funding of our schools – we’ve struck agreements now, 10-year agreements, with every state and territory across the country except Victoria. We’re very close to landing that deal. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+          "publishedAt": "2026-08-12T02:27:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1097fbabfbb0456a53cea5a7",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "918822e7081f5e7e",
+      "title": "Trump says he switched planes after Nato summit because of possible threat",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T01:59:40.000Z",
-      "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T02:05:30.000Z",
+      "summary": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-11T01:59:40.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-12T02:05:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1450,74 +1138,36 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "外交",
+        "国际组织"
       ],
       "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4991797d08413dce3a5596a0",
+      "fingerprint": "b4090ca48571c2db7e3f8369",
       "isContinuation": false,
-      "titleZh": "哥伦比亚近年来最大地震已致至少132人死亡",
-      "summaryZh": "此次7.4级地震震中位于太平洋沿岸的乔科省，震感波及数百公里外的多个城市。目前确认的死亡人数已升至132人。",
-      "whyImportant": "这是哥伦比亚近年来遭遇的最严重地震，造成了巨大的人员伤亡。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "336e4198cebbf90d",
-      "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – as it happened",
+      "id": "97a5919a066aaaf2",
+      "title": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-      "publishedAt": "2026-08-11T02:00:22.000Z",
-      "summary": "This live blog is now closed. Sign up for the Breaking News US email Wisconsin is not the only state with high stakes primary races on 11 August. We’ll also be bringing you the latest on a number of pivotal contests. In Minnesota, the closely watched and crowded Democratic primary for US Senate seems to be a competition between lieutenant governor Peggy Flanagan and congresswoman Angie Craig. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
+      "publishedAt": "2026-08-12T01:20:22.000Z",
+      "summary": "Prime minister Anutin Charnvirakul calls for tighter gun controls and ‘decisive penalties’ after nine dead in school shooting Thailand has suspended firearms licences after last week’s deadly school shooting, as the bodies of the teenage attacker and the grandparents he killed were cremated. The prime minister, Anutin Charnvirakul, said he had ordered the interior ministry and police to stop issuing licenses to possess, purchase and carry firearms, and called for “tighter controls and decisive penalties”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-          "publishedAt": "2026-08-11T02:00:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "持续关注"
-      ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ea44681558170a4f3b908f2c",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "医生和议员谴责特朗普关于儿童疫苗的行政令",
-      "summaryZh": "特朗普签署行政令要求对儿童疫苗接种计划进行重大改革，引发医学界和政界强烈批评。同时，美国多地正在进行关键的初选投票。",
-      "whyImportant": "该行政令引发了关于公共卫生政策和总统行政权力的激烈争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ea6e06161b3bc3df",
-      "title": "Victoria to ban suppression orders for rapists following Ralph Carr, Tom Silvagni convictions under new pledge",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-to-ban-suppression-orders-for-rapists-ntwnfb",
-      "publishedAt": "2026-08-11T01:51:46.000Z",
-      "summary": "Premier Ben Carroll promises if re-elected to ‘close every loophole’ used by high-profile accused and convicted criminals to hide their identities in the courts Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The use of suppression orders by convicted rapists will be banned in Victoria, premier Ben Carroll has announced, with his government committed to “closing every loophole” accused people currently “abuse and exploit” to hide their identities in the state’s courts. Carroll and the state’s attorney general, Sonya Kilkenny, made the commitment to amend the state’s Open Courts Act to limit the use of suppression orders if re-elected in November. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-to-ban-suppression-orders-for-rapists-ntwnfb",
-          "publishedAt": "2026-08-11T01:51:46.000Z"
+          "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
+          "publishedAt": "2026-08-12T01:20:22.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1529,32 +1179,69 @@
         "突发"
       ],
       "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1d3479bef401664875cef8d8",
+      "fingerprint": "17fee471fce7c0f8916b01bd",
       "isContinuation": false,
-      "titleZh": "维多利亚州承诺禁止强奸犯利用禁言令隐瞒身份",
-      "summaryZh": "维多利亚州州长本·卡罗尔承诺，若成功连任，将修改法律以堵住漏洞，禁止强奸犯利用法院禁言令隐瞒身份。此举旨在回应近期多起高调案件引发的公众不满。",
-      "whyImportant": "此举旨在提高司法透明度，防止罪犯利用法律漏洞逃避公众监督。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "816e48902267fdd8",
-      "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+      "id": "2bd46e28f17b0e09",
+      "title": "A ‘body’ found in a suitcase was actually a sex doll. How did NSW police get it so wrong?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/female-body-suitcase-sex-doll-nsw-police-explained",
+      "publishedAt": "2026-08-12T01:03:13.000Z",
+      "summary": "Officers – correctly – may not have fully unzipped the bag containing the lifelike doll to avoid destroying evidence, one expert says Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Revelations that a “body” found inside a suitcase was actually a sex doll may have been embarrassing for police, but experts say officers followed the correct procedure. New South Wales police on Sunday were called to Oallen, a town near Goulburn, after two members of the public found a suitcase containing what they believed to be human remains, dumped on the side of the road. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/12/female-body-suitcase-sex-doll-nsw-police-explained",
+          "publishedAt": "2026-08-12T01:03:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2f4e59b1b2947ed841d54ffc",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "4364fca72c1eb875",
+      "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "summary": "US President Donald Trump said he will seek compensation from Iran for casualties in the war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+      "publishedAt": "2026-08-11T23:57:55.000Z",
+      "summary": "Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-          "publishedAt": "2026-08-11T00:00:00.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+          "publishedAt": "2026-08-11T23:57:55.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1563,73 +1250,74 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "公共安全"
+        "突发"
       ],
       "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4f62ad91667093a4079efb89",
+      "fingerprint": "63f7d91a10ea1024738e1517",
       "isContinuation": false,
-      "titleZh": "伊朗战争实时动态：特朗普声称霍尔木兹海峡已开放，并寻求伊朗赔偿",
-      "summaryZh": "美国总统特朗普表示，将就战争中的人员伤亡向伊朗寻求赔偿。同时，他声称霍尔木兹海峡目前处于开放状态。",
-      "whyImportant": "此表态反映了美伊冲突后的外交博弈及对地区局势的后续影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "8b16c7e885c3bd79",
-      "title": "Hong Kong’s commercial property investment growth beats peer Asia-Pacific markets",
+      "id": "764d34c1aa9bece3",
+      "title": "Vietnam’s To Lam eyes trade, defence boost during trip to Australia, New Zealand",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/article/3363562/hong-kongs-commercial-property-investment-growth-beats-peer-asia-pacific-markets?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T23:00:06.000Z",
-      "summary": "Hong Kong’s commercial property investment more than doubled to US$3.1 billion in the second quarter, making it the fastest growing investment market in Asia-Pacific thanks to a strong increase in retail and office deals and a low base effect, according to JLL. The 129 per cent growth from a year earlier beat other top-performing markets including Singapore with 108 per cent growth and Australia with an 82 per cent increase, data tracked by the property consultancy showed. “Hong Kong’s robust...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3363664/vietnams-lam-eyes-trade-defence-boost-during-trip-australia-new-zealand?utm_source=rss_feed",
+      "publishedAt": "2026-08-12T00:00:15.000Z",
+      "summary": "A visit by Vietnam’s top leader To Lam to Australia and New Zealand this week is expected to lead to stronger maritime security cooperation, especially in intelligence-sharing and joint patrols. The Vietnamese president is seeking to bolster partnerships and strengthen cooperation in science and technology, according to a government statement. During Lam’s six-day trip, which ends on Friday, he is expected to sign 12 to 16 agreements with Canberra – covering education, digital transformation,...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/article/3363562/hong-kongs-commercial-property-investment-growth-beats-peer-asia-pacific-markets?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T23:00:06.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3363664/vietnams-lam-eyes-trade-defence-boost-during-trip-australia-new-zealand?utm_source=rss_feed",
+          "publishedAt": "2026-08-12T00:00:15.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "金融"
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "科技"
       ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1df77cb90057ee1350e471d5",
+      "fingerprint": "2928e2916f1d39446f4d28b8",
       "isContinuation": false,
-      "titleZh": "香港商业地产投资增长领跑亚太市场",
-      "summaryZh": "得益于零售和办公楼交易的强劲增长，香港第二季度商业地产投资额翻倍至31亿美元。这一增速超过了新加坡和澳大利亚等市场。",
-      "whyImportant": "数据表明香港商业地产市场在低基数效应下展现出强劲的复苏势头。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "9c5f97e73084ab96",
-      "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
+      "id": "7e682dacc2ede12a",
+      "title": "Colombia scrambles to find survivors after deadly earthquake",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
-      "publishedAt": "2026-08-10T22:46:32.000Z",
-      "summary": "Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
+      "publishedAt": "2026-08-11T23:39:05.000Z",
+      "summary": "At least 254 deaths have been reported so far, as rescue workers continue to sift through collapsed buildings.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
-          "publishedAt": "2026-08-10T22:46:32.000Z"
+          "url": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
+          "publishedAt": "2026-08-11T23:39:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1641,32 +1329,142 @@
         "突发"
       ],
       "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5db9749cc617e7799c10fee1",
+      "fingerprint": "b1b1ebf6310d1602fcf60d72",
       "isContinuation": false,
-      "titleZh": "哥伦比亚强震袭击机场，现场惊恐万分",
-      "summaryZh": "一段来自哥伦比亚佩雷拉机场的视频显示，7.4级地震发生时，机场航站楼出现剧烈晃动。现场人员在惊恐中避险。",
-      "whyImportant": "机场等关键基础设施受地震影响，进一步凸显了灾情的广泛性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "8e46b0d4f86357f8",
-      "title": "Why submarine attacks may prove to be the Achilles’ heel for China’s new carrier fleet",
+      "id": "0f43ff3e8c831777",
+      "title": "Why does SK Hynix want to sell its chip facility in southwest China?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3363536/why-submarine-attacks-may-prove-be-achilles-heel-chinas-new-carrier-fleet?utm_source=rss_feed",
-      "publishedAt": "2026-08-11T02:00:16.000Z",
-      "summary": "China’s rapidly expanding aircraft carrier fleet may be vulnerable to attack from submarines – an area where its defensive capacity lags behind that of the United States – according to a new report. This gap is drawing increasing attention as Beijing builds more sophisticated carriers and sends them deeper into the western Pacific, where the People’s Liberation Army Navy (PLAN)’s knowledge of the undersea environment continues to lag behind that of the US Navy. A recent report from the...",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china?utm_source=rss_feed",
+      "publishedAt": "2026-08-12T02:00:29.000Z",
+      "summary": "South Korean chipmaker SK Hynix’s potential deal to offload a packaging plant in southwest China is part of a strategic pivot towards higher-margin artificial intelligence (AI) memory products, according to analysts. But a sale might not be straightforward, as the memory chip giant would need to navigate valuation hurdles and a volatile chip cycle, they cautioned. SK Hynix said on Monday it was “looking into various solutions to enhance the competitiveness of its packaging business”, after...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3363536/why-submarine-attacks-may-prove-be-achilles-heel-chinas-new-carrier-fleet?utm_source=rss_feed",
-          "publishedAt": "2026-08-11T02:00:16.000Z"
+          "url": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china?utm_source=rss_feed",
+          "publishedAt": "2026-08-12T02:00:29.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "78a9d4e8f64c65aa33326b9f",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "fc19637f7f8d82b2",
+      "title": "Passenger jet billed as China’s answer to Boeing and Airbus prepares to make first international flight",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight",
+      "publishedAt": "2026-08-12T02:02:04.000Z",
+      "summary": "The Comac C919 will fly from Beijing to Ulaanbaatar in Mongolia, although experts say it could take generations for it to challenge the west’s dominance of the industry China hopes to break into the world of commercial aviation with the first international flight of a Chinese-made passenger jet scheduled for Wednesday. The Comac C919 will take off from Beijing capital international airport at 3pm, landing in Ulaanbaatar, the capital of Mongolia, just over two hours later. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight",
+          "publishedAt": "2026-08-12T02:02:04.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9d5bc728e38a125ab16e5ea4",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "e24e3ed7c5fe3ec2",
+      "title": "China childhood staple ‘White Rabbit’ candy gains global praise for classic wrapper design",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363714/china-childhood-staple-white-rabbit-candy-gains-global-praise-classic-wrapper-design?utm_source=rss_feed",
+      "publishedAt": "2026-08-12T01:41:48.000Z",
+      "summary": "The time-honoured Chinese creamy candy brand White Rabbit recently went viral for its iconic wrapper design, but the brand, having pursued an active rebranding strategy and collaborations, offers much more than its traditional legacy. A netizen on X, under the handle @weeabob, shared a post featuring the candy’s classic blue, red, and white wrapper, praising it as an “absolute masterstroke of graphic design.” This post garnered 260,000 likes and 600 comments, with many users reminiscing about...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363714/china-childhood-staple-white-rabbit-candy-gains-global-praise-classic-wrapper-design?utm_source=rss_feed",
+          "publishedAt": "2026-08-12T01:41:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "142cf31589d04da6fdacfe4b",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "e1338cb1222f6a40",
+      "title": "A strong China is the best hope for the ‘long peace’ to endure",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3363507/strong-china-best-hope-long-peace-endure?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T12:30:05.000Z",
+      "summary": "The “long peace” is a term coined by Yale professor and Cold War historian John Lewis Gaddis in his 1987 book The Long Peace: Inquiries into the History of the Cold War. It refers to the fact that, from the end of World War II in 1945 into the 1980s, more than 40 years passed without a third world war between the United States and Soviet Union. For centuries before 1945, great powers fought destructive general wars such as the Napoleonic Wars, World War I and World War II roughly once every...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3363507/strong-china-best-hope-long-peace-endure?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T12:30:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1676,228 +1474,71 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "突发",
-        "军事与安全",
-        "环境"
+        "军事与安全"
       ],
-      "score": 78,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "2a9123225063f79263e7b387",
+      "fingerprint": "12a2508c4b5d375362e3f566",
       "isContinuation": false,
-      "titleZh": "报告称潜艇攻击可能成为中国新航母编队的“阿喀琉斯之踵”",
-      "summaryZh": "一份新报告指出，中国快速扩张的航母编队在应对潜艇攻击方面存在防御短板。随着中国航母深入西太平洋，其水下防御能力与美国相比仍有差距。",
-      "whyImportant": "该分析揭示了中国海军在现代化建设过程中面临的战略防御挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "2d9c5055b203bc04",
-      "title": "大道行天下丨一诺千金 笃行致远 中国元首外交的世界情怀与大国气派",
-      "source": "baijiahao.baidu.com",
-      "url": "https://baijiahao.baidu.com/s?id=1873053762048559154",
-      "publishedAt": "2026-08-11T01:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "baijiahao.baidu.com",
-          "url": "https://baijiahao.baidu.com/s?id=1873053762048559154",
-          "publishedAt": "2026-08-11T01:45:00.000Z"
-        },
-        {
-          "source": "legaldaily.com.cn",
-          "url": "http://www.legaldaily.com.cn/index_article/content/2026-08/10/content_9438405.html",
-          "publishedAt": "2026-08-10T07:15:00.000Z"
-        },
-        {
-          "source": "banyuetan.org",
-          "url": "http://www.banyuetan.org/dyp/detail/20260810/1000200033135231786326276472175895_1.html",
-          "publishedAt": "2026-08-10T05:30:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交"
-      ],
-      "score": 71,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a72c27c4089649daf9e99e39",
-      "isContinuation": false,
-      "titleZh": "大道行天下丨一诺千金 笃行致远 中国元首外交的世界情怀与大国气派",
-      "summaryZh": "文章阐述了中国元首外交在国际舞台上的理念与实践。强调中国在国际事务中秉持承诺，展现大国担当。",
-      "whyImportant": "该文体现了中国外交政策的核心价值观及其在国际关系中的定位。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7c1d08a3a9fa6b27",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T02:10:44.000Z",
-      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-11T02:10:44.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "148a68be6ecf6002794853fd",
-      "isContinuation": false,
-      "titleZh": "特朗普签署行政令限制儿童疫苗接种并拆分麻腮风疫苗",
-      "summaryZh": "特朗普签署行政令建议对麻腮风（MMR）疫苗进行拆分接种。美国儿科学会对此表示强烈反对，称该建议具有“危险性”。",
-      "whyImportant": "该政策引发了医学界对疫苗接种安全性和科学性的严重担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9d5289904f2d7f3b",
-      "title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
-      "publishedAt": "2026-08-10T22:28:20.000Z",
-      "summary": "President and RFK Jr, the health secretary, repeatedly referred to autism during signing, though studies show no link between it and vaccines Donald Trump has signed an executive order with plans for sweeping changes to the childhood vaccination schedule that attempts to override the authority of the US Centers for Disease Control and Prevention (CDC). It is an attempt to undergird the changes made earlier this year to CDC vaccination recommendations, which were halted by a federal judge. The CDC is the federal agency tasked with recommending vaccines, not the White House. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
-          "publishedAt": "2026-08-10T22:28:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 55,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "35e511a1832e00fce4606b36",
-      "isContinuation": false,
-      "titleZh": "特朗普签署行政令试图绕过CDC疫苗接种计划并拆分麻腮风疫苗",
-      "summaryZh": "特朗普签署行政令，试图绕过美国疾控中心（CDC）的权威，对儿童疫苗接种计划进行重大调整。总统及卫生部长在签署过程中多次提及疫苗与自闭症的关联，尽管科学研究已否定此说法。",
-      "whyImportant": "此举挑战了联邦卫生机构的专业权威，并引发了关于公共卫生政策科学性的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a5611938c9a06d60",
-      "title": "Presidential Message on National Shooting Sports Month",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/",
-      "publishedAt": "2026-08-10T21:06:36.000Z",
-      "summary": "This National Shooting Sports Month, we celebrate America’s proud tradition of recreational shooting and hunting and the glorious exercise of our Second Amendment rights. For generations, this time-honored way of life has instilled discipline, promoted rugged individualism that drove American civilization west, and connected millions of Americans to the great outdoors. The right to keep […] The post Presidential Message on National Shooting Sports Month appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/",
-          "publishedAt": "2026-08-10T21:06:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 54,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0ad0992ea010865f051f3771",
-      "isContinuation": false,
-      "titleZh": "总统关于全国射击运动月的致辞",
-      "summaryZh": "白宫发布致辞庆祝全国射击运动月，强调美国对休闲射击和狩猎传统的重视。文中重申了对宪法第二修正案权利的维护。",
-      "whyImportant": "该致辞重申了美国政府在枪支文化和宪法权利方面的立场。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7efcde4083903cb5",
-      "title": "Todd Blanche is sworn in as attorney general after bruising confirmation fight",
+      "id": "d7246cc9e69f0ba1",
+      "title": "Hong Kong is no longer a Western playground – and it’s not looking back",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3363582/todd-blanche-sworn-attorney-general-after-bruising-confirmation-fight?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T21:18:42.000Z",
-      "summary": "US President Donald Trump’s former personal lawyer, Todd Blanche, was sworn in on Monday as attorney general after a bruising confirmation fight that exposed bipartisan concerns about the Justice Department’s direction under the Republican president. Another former Trump lawyer – Emil Bove, now a federal appeal court judge – administered the oath of office to Blanche at the White House following early Saturday’s Senate confirmation vote by the narrowest of margins. Soon after, the newly sworn-in...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363522/hong-kong-no-longer-western-playground-and-its-not-looking-back?utm_source=rss_feed",
+      "publishedAt": "2026-08-12T01:30:05.000Z",
+      "summary": "When it comes to bad prognostication, no one can beat Fortune, which came up with the mother of all “Hong Kong is doomed” narratives. In June 1995, the magazine ran its infamous “The Death of Hong Kong” cover story, predicting its demise following the 1997 handover to China. Stephen Roach, veteran China watcher and former chairman of Morgan Stanley Asia, seems determined to follow in its footsteps. In 2024, Roach caused a stir by proclaiming “Hong Kong is over” in the Financial Times. He was...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363582/todd-blanche-sworn-attorney-general-after-bruising-confirmation-fight?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T21:18:42.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363522/hong-kong-no-longer-western-playground-and-its-not-looking-back?utm_source=rss_feed",
+          "publishedAt": "2026-08-12T01:30:05.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "中国重点"
       ],
-      "score": 53,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 56,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "66c29ff0128f3da3040e7d54",
+      "fingerprint": "4214c9fbf5a3c0d6dfdff19e",
       "isContinuation": false,
-      "titleZh": "托德·布兰奇在激烈的确认程序后宣誓就任司法部长",
-      "summaryZh": "特朗普的前私人律师托德·布兰奇在参议院以微弱优势通过确认后，正式宣誓就任司法部长。此次任命过程暴露了党派间对司法部未来方向的严重分歧。",
-      "whyImportant": "司法部长的任命对美国司法系统的独立性和政策导向具有深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "87e3189b6f75a1d3",
-      "title": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "publishedAt": "2026-08-10T19:44:46.000Z",
-      "summary": "DELIVERING GOLD STANDARD CHILDHOOD VACCINE RECOMMENDATIONS: Today, President Donald J. Trump signed an Executive Order to recognize Gold Standard Childhood Vaccine Recommendations that maximize parental choices over vaccinations for their children and align three categories of childhood immunizations with scientific evidence and best practices from peer, developed countries. ENSURING AMERICANS ARE RECEIVING THE BEST MEDICAL ADVICE […] The post Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans appeared first on The White House.",
+      "id": "d52b88ac38d21c98",
+      "title": "David Crowley and Democratic socialist Francesca Hong in tight race in Wisconsin governor primary - live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
+      "publishedAt": "2026-08-12T02:29:01.000Z",
+      "summary": "Results also coming in from Minnesota, South Carolina, Vermont, Alabama and Connecticut Sign up to the US Breaking News email Pete Hegseth’s appointments to a key Pentagon advisory body include two men with ties to the venture capital fund where Donald Trump Jr is a partner, which has lucrative investments in military and space technology. Defense Policy Board appointee Marc Andreessen’s firm, Andreessen Horowitz, one of Silicon Valley’s largest venture capital firms and known by the name “a16z”, co-invests alongside the Trump partnership 1789 Capital in three defense contractors. Fellow DPB appointee Blake Masters also sits on the boards of three ventures tied to 1789 Capital. South Carolina – 7pm ET Vermont – 7pm ET Alabama – 7pm local/8pm ET Connecticut – 8pm ET Minnesota – 8pm local/9pm ET Wisconsin – 8pm local/9pm ET Continue reading...",
       "language": "",
-      "region": "usa",
+      "region": "international",
       "crossSources": [
         {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
-          "publishedAt": "2026-08-10T19:44:46.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
+          "publishedAt": "2026-08-12T02:29:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1905,35 +1546,186 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "突发",
+        "军事与安全",
+        "科技"
       ],
-      "score": 53,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 73,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "19893c168520bd657f7eb9ad",
+      "fingerprint": "ed95ad504830c7e03841cf35",
       "isContinuation": false,
-      "titleZh": "事实核查：特朗普总统为美国人提供“黄金标准”儿童疫苗建议",
-      "summaryZh": "白宫发布事实清单，称特朗普签署行政令旨在提供“黄金标准”的儿童疫苗建议。该政策强调增加家长的选择权，并声称其符合发达国家的最佳实践。",
-      "whyImportant": "政府试图通过此举重塑疫苗接种政策，但其科学依据受到外界质疑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "acb8cf2aff4582b1",
-      "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+      "id": "af163bdbf89f74bc",
+      "title": "Japan slams North Korea’s ballistic missile firing ahead of US-Seoul drills",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3363710/north-korea-launches-suspected-ballistic-missile-japan-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T22:53:53.000Z",
+      "summary": "North Korea fired a ballistic missile off its east coast towards Japan early on Wednesday, Seoul’s military said, days before the planned start of massive US-South Korea joint drills. The 11-day exercises due to begin on Monday are a regular fixture of the summer calendar, designed to steel the United States and South Korea for defence against the nuclear-armed North. Pyongyang calls them rehearsals for an invasion and has staged missile launches before and after them in the past. “Our military...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3363710/north-korea-launches-suspected-ballistic-missile-japan-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T22:53:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 64,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3aae1903e3ac9635858df6ce",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "dd3d6df9f0dde5ec",
+      "title": "Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
-      "publishedAt": "2026-08-10T22:35:48.000Z",
-      "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
+      "publishedAt": "2026-08-11T20:11:53.000Z",
+      "summary": "Donald Trump labels US Democratic nominees 'jihadists' in inflammatory remarks made in the Oval Office.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
-          "publishedAt": "2026-08-10T22:35:48.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
+          "publishedAt": "2026-08-11T20:11:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c699eb1a4d8be3f6c39c035c",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "49aef93764f62d3c",
+      "title": "On the ground in Cali, Colombia’s worst-hit city after the quake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss",
+      "publishedAt": "2026-08-12T01:40:33.000Z",
+      "summary": "Reporting from the rubble of an apartment building, Al Jazeera’s Latin America Editor Lucia Newman describes the scene.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss",
+          "publishedAt": "2026-08-12T01:40:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e2dde01cb44eabd12ea4cb45",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "f9460d487f1a3acf",
+      "title": "US military says it has fired on ship in Gulf of Oman to enforce blockade of Iranian ports",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3363706/us-military-says-it-has-fired-ship-gulf-oman-enforce-blockade-iranian-ports?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T20:16:16.000Z",
+      "summary": "A US helicopter on Tuesday fired missiles into the engine room of a Panama-flagged cargo ship that attempted to break the American blockade of Iran’s ports, the United States military said. The US Navy MH-60 helicopter fired on and disabled the M/V Vela Nova “after the ship’s civilian crew ignored repeated warnings from American forces”, US Central Command (CENTCOM) said on social media, adding that the vessel “is no longer transiting to Iran in violation of the US blockade”. It was initially...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363706/us-military-says-it-has-fired-ship-gulf-oman-enforce-blockade-iranian-ports?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T20:16:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 57,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "71ee1596971043efcdd2da43",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "aa81afd7d2aded83",
+      "title": "UNESCO: 2.4 million girls barred from school in Afghanistan",
+      "source": "DW",
+      "url": "https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-11T22:49:00.000Z",
+      "summary": "Five years after the Taliban returned to power, millions of Afghan girls remain excluded from secondary education. UNESCO warns of lasting social and economic consequences.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-11T22:49:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1942,103 +1734,103 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "经济",
+        "军事与安全"
       ],
       "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "97542c9e3d94db30ea19d1ae",
+      "fingerprint": "b9b81873124b88813bf9075b",
       "isContinuation": false,
-      "titleZh": "半岛电视台记者现场报道哥伦比亚地震死亡人数上升",
-      "summaryZh": "随着救援队在哥伦比亚西部地震灾区搜寻倒塌建筑，确认的死亡人数持续上升。现场救援工作正在紧张进行中。",
-      "whyImportant": "持续更新的伤亡数据反映了此次地震灾情的严重程度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "74229b68b44e709c",
-      "title": "Chinese national pleads guilty to trying to export US military equipment to China",
+      "id": "427cd01bc9b5a366",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T14:50:10.000Z",
+      "summary": "A Syrian court sentenced ousted leader ⁠Bashar al-Assad ⁠to death on Tuesday ⁠after a trial in absentia, convicting him of crimes including killings, torture, and arbitrary arrest during the country’s nearly 14-year war. It was the first conviction against ‌Assad, who was ousted in a rebel offensive in December 2024 that ended decades of his family’s iron-fisted rule over Syria and the brutal war that killed hundreds of thousands of Syrians. Assad fled the capital Damascus as rebel fighters...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-11T14:50:10.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363672/syrian-court-sentences-ousted-leader-bashar-al-assad-death-absentia?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T09:59:58.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "eab71756d6c9cfbd1281ebac",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a94769430a62229c",
+      "title": "‘Islamic Nato’? Why Pakistan’s new defence pact has India on edge",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3363584/chinese-national-pleads-guilty-trying-export-us-military-equipment-china?utm_source=rss_feed",
-      "publishedAt": "2026-08-10T21:54:42.000Z",
-      "summary": "A Chinese citizen faces up to 20 years in US federal prison after pleading guilty on Monday to attempting to purchase US-made military equipment to export to China, in violation of US arms export controls, according to the US Department of Justice (DOJ). Chen Dingwei, 29, was charged with attempting to purchase military-grade satellite modems and radios manufactured for the US military by US companies, which are barred from being exported to China under the US Arms Export Control Act. US...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3363675/islamic-nato-why-pakistans-new-defence-pact-has-india-edge?utm_source=rss_feed",
+      "publishedAt": "2026-08-11T10:40:46.000Z",
+      "summary": "A new defence pact between Pakistan, Saudi Arabia and Turkey has raised questions in New Delhi over whether Islamabad could use the agreement to build wider security ties with Muslim-majority countries in India’s neighbourhood, analysts have said. The Mecca Joint Defence Agreement, signed on Friday, states that an armed attack on any one of the three countries would be treated as an attack on all of them. The tripartite agreement followed a bilateral one between Saudi Arabia and Pakistan signed...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363584/chinese-national-pleads-guilty-trying-export-us-military-equipment-china?utm_source=rss_feed",
-          "publishedAt": "2026-08-10T21:54:42.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3363675/islamic-nato-why-pakistans-new-defence-pact-has-india-edge?utm_source=rss_feed",
+          "publishedAt": "2026-08-11T10:40:46.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "军事与安全"
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织"
       ],
       "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7586f1dca662248c6b705f6e",
+      "fingerprint": "00e60ce3acc771fd4d433017",
       "isContinuation": false,
-      "titleZh": "一名中国公民承认试图向中国出口美国军事装备",
-      "summaryZh": "一名29岁的中国公民承认试图购买受管制的美国军事级卫星调制解调器和无线电设备并出口至中国。他将面临最高20年的联邦监禁。",
-      "whyImportant": "此案凸显了美国在军事技术出口管制方面的严格执法。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "edf78a3b077cdfe7",
-      "title": "Iran - US conflict creates new strategic challenges for China : Report",
-      "source": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1798755.html",
-      "publishedAt": "2026-08-10T16:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "prokerala.com",
-          "url": "https://www.prokerala.com/news/articles/a1798755.html",
-          "publishedAt": "2026-08-10T16:45:00.000Z"
-        },
-        {
-          "source": "newkerala.com",
-          "url": "https://www.newkerala.com/news/a/iran-us-conflict-creates-new-strategic-challenges-china-report-487.htm",
-          "publishedAt": "2026-08-10T16:45:00.000Z"
-        },
-        {
-          "source": "ianslive.in",
-          "url": "https://ianslive.in/iran-us-conflict-creates-new-strategic-challenges-for-china-report--20260810204659",
-          "publishedAt": "2026-08-10T16:30:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "45bbdd1ff02b82a9f70be335",
-      "isContinuation": false,
-      "titleZh": "报告：伊朗与美国的冲突为中国带来新的战略挑战",
-      "summaryZh": "报告分析称，美伊冲突的升级对中国的地缘政治和战略利益产生了复杂影响。中国需要在维护地区稳定与自身利益之间寻求平衡。",
-      "whyImportant": "该报告探讨了国际冲突如何影响中国的外部战略环境。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     }
   ]
 }
