@@ -1,123 +1,40 @@
 {
-  "date": "2026-08-13",
-  "generatedAt": "2026-08-13T02:45:50.142Z",
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T02:44:38.613Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "global-governance",
-    "name": "全球治理与外交",
-    "description": "追踪国际组织、峰会、制裁、谈判与地缘关系变化",
-    "query": "diplomacy international relations summit sanctions United Nations",
+    "slug": "china",
+    "name": "中国与世界",
+    "description": "关注中国经济、外交、安全、产业链与海外利益",
+    "query": "China economy diplomacy security trade",
     "keywords": [
-      "diplomacy",
-      "summit",
-      "sanction",
-      "treaty",
-      "united nations",
-      "外交",
-      "峰会",
-      "制裁",
-      "条约",
-      "联合国"
+      "china",
+      "chinese",
+      "beijing",
+      "中国",
+      "北京",
+      "中美",
+      "人民币",
+      "产业链"
     ],
-    "accent": "#8b5cf6"
+    "accent": "#ef4444"
   },
-  "overview": "今日专题“全球治理与外交”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“中国与世界”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "65e2c412d5cd2d26",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T22:56:44.000Z",
-      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-12T22:56:44.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "fe2f1dad437a210a3e11d992",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "7b8f865636c1d135",
-      "title": "Ex-Myanmar ambassador to UK on trial for trespassing in diplomatic residence",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-      "publishedAt": "2026-08-12T18:01:51.000Z",
-      "summary": "Kyaw Zwar Minn was ousted for declaring loyalty to Aung San Suu Kyi after 2021 coup but refused to leave his home Myanmar’s ousted ambassador to the UK has gone on trial on trespassing charges for refusing to leave a diplomatic residence after being unceremoniously locked out of the embassy in 2021. Shortly after Myanmar’s military seized power in 2021, triggering mass protests that spiralled into a civil war, Kyaw Zwar Minn was locked out of the embassy for declaring his loyalty to the deposed civilian leader Aung San Suu Kyi. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-          "publishedAt": "2026-08-12T18:01:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全",
-        "专题·全球治理与外交"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "b98c74a1ffdee21c5b0edaa7",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "72445a3a072c6dfe",
-      "title": "China approves Japanese envoy in Chongqing, ending 8-month vacancy",
+      "id": "b5bd5164c1ae3c64",
+      "title": "Chinese husband splits expenses, installs cameras to monitor wife during 40-year marriage",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3363802/china-approves-japanese-envoy-chongqing-ending-8-month-vacancy?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T11:18:13.000Z",
-      "summary": "China has approved a new Japanese acting consul general in Chongqing, ending an eight-month vacancy at the mission following a bilateral freeze. Shigehiro Nishiumi, who previously served as Japan’s deputy consul general in Hong Kong, assumed the post at the diplomatic mission in the southwestern municipality of Chongqing on August 4, Japanese news agency Kyodo reported, citing an unnamed government source. The Chongqing post had remained unoccupied since December 5, when former head of mission...",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363973/chinese-husband-splits-expenses-installs-cameras-monitor-wife-during-40-year-marriage?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:17:48.000Z",
+      "summary": "A husband in southeastern China has insisted on going Dutch with his wife for 40 years and even installed home surveillance cameras to monitor her; despite this, the wife wants to give their marriage another try. The couple from Fujian province sought assistance from a local mediation TV show as their conflicts escalated. The husband, identified by the surname Li, complained that his wife, surnamed Chen, had vandalised their home, writing curse words on the walls and even damaging the door with...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363802/china-approves-japanese-envoy-chongqing-ending-8-month-vacancy?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T11:18:13.000Z"
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363973/chinese-husband-splits-expenses-installs-cameras-monitor-wife-during-40-year-marriage?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:17:48.000Z"
         }
       ],
       "sourceCount": 1,
@@ -126,18 +43,303 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "外交",
-        "国际组织",
-        "专题·全球治理与外交"
+        "专题·中国与世界"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": true,
       "topicKeywords": [
-        "外交"
+        "china",
+        "chinese",
+        "中国"
       ],
-      "fingerprint": "59766e0c64b5d56f295eeb13",
+      "fingerprint": "0990aa0037daf277d82f1545",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a7cdb51ebcae374a",
+      "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:00:12.000Z",
+      "summary": "When Beijing-based neurosurgeon Jin Shanmu pulled up a chair at his computer, he was not looking to make mathematical history. He was simply trying to crack a problem related to brain ultrasounds. Instead, the self-taught maths enthusiast, with help from OpenAI’s latest flagship artificial intelligence (AI) model, solved a two-decade-old mathematical puzzle that had frustrated experts around the world since 2004. Jin, a postdoctoral researcher and resident at the Peking Union Medical College...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·中国与世界"
+      ],
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "539ec9a531fec57838d6aedd",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "81014276c9729d93",
+      "title": "Relief after 9 blistering days as Hong Kong issues amber rainstorm warning",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363967/relief-after-9-blistering-days-hong-kong-issues-amber-rainstorm-warning?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T01:22:26.000Z",
+      "summary": "Temperatures have dropped in Hong Kong after a streak of nine very hot days, with the city’s weather forecaster issuing an amber rainstorm warning on Friday morning. The Observatory recorded temperatures between 23 and 29 degrees Celsius (73 and 84 Fahrenheit) in various districts across the city as of 8.45am, significantly lower than the 33 degrees or higher over the past nine days. The forecaster issued an amber rainstorm warning at 8.40am, the lowest tier in the city’s rainstorm warning...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363967/relief-after-9-blistering-days-hong-kong-issues-amber-rainstorm-warning?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T01:22:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "环境",
+        "专题·中国与世界"
+      ],
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "de0bdf148ee084e9cee3ca83",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "934016ade49da642",
+      "title": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "source": "world.qianlong.com",
+      "url": "https://world.qianlong.com/2026/0814/8712052.shtml",
+      "publishedAt": "2026-08-14T01:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "world.qianlong.com",
+          "url": "https://world.qianlong.com/2026/0814/8712052.shtml",
+          "publishedAt": "2026-08-14T01:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·中国与世界"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "ea5b784a78f3bb1fae006416",
+      "isContinuation": false,
+      "titleZh": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "summaryZh": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "f40da8b0ebf09850",
+      "title": "Hong Kong insurers to weather Beijing’s tax shift with 8-10% premium growth: S&P",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/banking-finance/article/3363969/hong-kong-insurers-weather-beijings-tax-shift-8-10-premium-growth-sp?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:00:17.000Z",
+      "summary": "Hong Kong’s life insurers could still see annual premium growth of 8 to 10 per cent over the next two years, despite a recent regulatory shift stemming from Beijing’s overseas taxation rules, according to credit-rating agency S&P Global Ratings. Resilient demand for overseas diversification should prevent a lasting downturn, the agency said, in the latest vote of confidence in the city’s thriving insurance and wealth management industries. “We expect a temporary slowdown in sales to mainland...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3363969/hong-kong-insurers-weather-beijings-tax-shift-8-10-premium-growth-sp?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "696ad4da7bf89240f973cbd2",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "e47913ab20a7b0cd",
+      "title": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "source": "zaobao.com.sg",
+      "url": "https://www.zaobao.com.sg/news/china/story20260814-9516990",
+      "publishedAt": "2026-08-14T01:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "zaobao.com.sg",
+          "url": "https://www.zaobao.com.sg/news/china/story20260814-9516990",
+          "publishedAt": "2026-08-14T01:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "专题·中国与世界"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "8344882bea0380b5fc619beb",
+      "isContinuation": false,
+      "titleZh": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "summaryZh": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "eba31979be75251e",
+      "title": "Chinese carmakers could capture 15% to 30% of European market by 2035: Citi analysts",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-evs/article/3363903/chinese-carmakers-could-capture-15-30-european-market-2035-citi-analysts?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T09:00:10.000Z",
+      "summary": "Chinese carmakers could capture between 15 and 30 per cent of the European automotive market by 2035, up from roughly 10 per cent this year, analysts at Citi said, with the outcome resting on how far Brussels goes in tightening tariffs and made-in-EU rules. Current European Union rules would allow Chinese carmakers to reach 30 per cent by 2035 – Citi’s base scenario – while extending existing tariffs on Chinese electric vehicles to plug-in hybrids would cap the market share at 25 per cent, Citi...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/china-evs/article/3363903/chinese-carmakers-could-capture-15-30-european-market-2035-citi-analysts?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T09:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "金融",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "8e7579b5a8d00dbae12543d3",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "1a0ac9c08ba904c5",
+      "title": "UK rules out deporting ex-Hong Kong opposition leader after entry hiccup",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T16:04:46.000Z",
+      "summary": "Former Hong Kong opposition leader Wu Chi-wai, who has been granted permission to enter the United Kingdom, will not be deported despite earlier complications in his attempt to settle in the country, the British immigration minister has confirmed. In a written reply on Thursday to former Hong Kong governor Chris Patten, UK Minister for Migration and Citizenship Jo White stressed that overseas convictions should not lead to the automatic refusal of settlement applications under the British...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T16:04:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织",
+        "专题·中国与世界"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "ef3601c791226c55c3a75567",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -148,19 +350,19 @@
   ],
   "global": [
     {
-      "id": "6b2bd9e14e215685",
-      "title": "Telstra CEO gets $700,000 pay rise to $6.8m despite Australia-wide outage",
+      "id": "d06b1516ea75cf54",
+      "title": "Alleged victim of Alan Jones made broadcaster soft-boiled eggs with soldiers and ironed his underpants, court told",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady",
-      "publishedAt": "2026-08-13T02:16:47.000Z",
-      "summary": "Telco board cuts senior executive bonuses by total $1.3m after tech fail that affected millions Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Telstra has paid its chief executive, Vicki Brady, $6.8m for the year ending in June, after docking 20% of her bonus in response to the network’s nationwide outage in July. The company reported financial results on Thursday. Its board met on Monday and decided to cut Brady’s bonus by $607,000 – but she still took home a $700,000 pay rise as she was awarded a total of $6.1m the year before. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb",
+      "publishedAt": "2026-08-14T01:54:13.000Z",
+      "summary": "Former 2UE and 2GB radio broadcaster is facing 22 indecent assault and sexual touching charges. Jones, 85, has pleaded not guilty Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A driver for Alan Jones aspired to be a producer but was required to make the 2GB host’s breakfast of soft-boiled eggs with bread soldiers, clean his bathroom at the radio station and iron underpants, a Sydney court has heard. Complainant C told Jones’s indecent assault trial on Friday he was “star-struck” when the broadcaster offered to pay him $40,000 a year to be his driver in the mid-2000s. It was his dream job, C said in Downing Centre local court. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady",
-          "publishedAt": "2026-08-13T02:16:47.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb",
+          "publishedAt": "2026-08-14T01:54:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -170,52 +372,14 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "能源"
       ],
       "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "511e1af12c98f998693a33b8",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "70ddf64fd7226ce6",
-      "title": "Reformers were ‘spectacularly unsuccessful’ in taking over NSW Liberals, Catholic schools boss says",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
-      "publishedAt": "2026-08-13T02:08:57.000Z",
-      "summary": "Catholic Schools NSW chief executive Dallas McInerney tells Icac corruption inquiry that Christain factional group driven by ‘a calling … a duty’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A factional ally of the federal opposition leader, Angus Taylor, has told a corruption inquiry a group of Christian Liberal power brokers who allegedly solicited illegal political donations were “spectacularly unsuccessful in their ambitions”. The Catholic Schools NSW chief executive, Dallas McInerney, told the NSW Independent Commission Against Corruption on Thursday that the Reformers’ model was never correct. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
-          "publishedAt": "2026-08-13T02:08:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "825117c276cc9c9d478e78ac",
+      "fingerprint": "e0f02a6680af9c6e2a24ae90",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -224,19 +388,139 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "b13c8f9e732f9b5a",
-      "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "summary": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
-      "language": "",
-      "region": "international",
+      "id": "934016ade49da642",
+      "title": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "source": "world.qianlong.com",
+      "url": "https://world.qianlong.com/2026/0814/8712052.shtml",
+      "publishedAt": "2026-08-14T01:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
       "crossSources": [
         {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
-          "publishedAt": "2026-08-12T12:00:00.000Z"
+          "source": "world.qianlong.com",
+          "url": "https://world.qianlong.com/2026/0814/8712052.shtml",
+          "publishedAt": "2026-08-14T01:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·中国与世界"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "ea5b784a78f3bb1fae006416",
+      "isContinuation": false,
+      "titleZh": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "summaryZh": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "eba31979be75251e",
+      "title": "Chinese carmakers could capture 15% to 30% of European market by 2035: Citi analysts",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-evs/article/3363903/chinese-carmakers-could-capture-15-30-european-market-2035-citi-analysts?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T09:00:10.000Z",
+      "summary": "Chinese carmakers could capture between 15 and 30 per cent of the European automotive market by 2035, up from roughly 10 per cent this year, analysts at Citi said, with the outcome resting on how far Brussels goes in tightening tariffs and made-in-EU rules. Current European Union rules would allow Chinese carmakers to reach 30 per cent by 2035 – Citi’s base scenario – while extending existing tariffs on Chinese electric vehicles to plug-in hybrids would cap the market share at 25 per cent, Citi...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/china-evs/article/3363903/chinese-carmakers-could-capture-15-30-european-market-2035-citi-analysts?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T09:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "金融",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "8e7579b5a8d00dbae12543d3",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "5991551679c76cdd",
+      "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+      "publishedAt": "2026-08-14T00:02:22.000Z",
+      "summary": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+          "publishedAt": "2026-08-14T00:02:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "公共安全"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8e5df865e1da804bc126cba2",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d70cd9e4a6ea1d80",
+      "title": "When the earth moves: six major earthquakes of 2026",
+      "source": "DW",
+      "url": "https://www.dw.com/en/when-the-earth-moves-six-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-13T17:17:00.000Z",
+      "summary": "Colombia, Venezuela, Mindanao: Thousands have died in powerful earthquakes this year. Six such events show that the magnitude of the quake is not the only factor determining the scale of the disaster.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/when-the-earth-moves-six-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-13T17:17:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -246,15 +530,96 @@
       "tags": [
         "全球焦点",
         "突发",
-        "经济",
-        "军事与安全"
+        "公共安全"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7d493e324c8967b0b51907b6",
+      "fingerprint": "6860120ec0c64dcb8012a571",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "1a0ac9c08ba904c5",
+      "title": "UK rules out deporting ex-Hong Kong opposition leader after entry hiccup",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T16:04:46.000Z",
+      "summary": "Former Hong Kong opposition leader Wu Chi-wai, who has been granted permission to enter the United Kingdom, will not be deported despite earlier complications in his attempt to settle in the country, the British immigration minister has confirmed. In a written reply on Thursday to former Hong Kong governor Chris Patten, UK Minister for Migration and Citizenship Jo White stressed that overseas convictions should not lead to the automatic refusal of settlement applications under the British...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T16:04:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织",
+        "专题·中国与世界"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "ef3601c791226c55c3a75567",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "59cf96d80af37bb1",
+      "title": "Chinese missile AI tracks F-22, F-35-like heat signatures with over 90% accuracy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3363843/chinese-missile-ai-tracks-f-22-f-35-heat-signatures-over-90-accuracy?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T14:00:07.000Z",
+      "summary": "The F-35 and F-22 may be among the world’s most advanced stealth fighters, but they cannot hide one thing: heat. When heat-seeking missiles lock onto aircraft, fighters release flares to confuse infrared sensors and break missile tracking. But the infrared signals produced by fighters, including heat from engine exhaust and air friction over the fuselage, are different from those generated by flares. These heat signatures could provide valuable infrared information for target detection and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3363843/chinese-missile-ai-tracks-f-22-f-35-heat-signatures-over-90-accuracy?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T14:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "科技",
+        "专题·中国与世界"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "aaf98898a4c7f91ad36f5014",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -263,19 +628,98 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "9a6cc2ec10449ead",
-      "title": "Australia politics live: Angus Taylor rebukes Andrew Bragg for expressing ‘personal views’ on migration numbers; Chris Minns steps in to deflect melon-gate question to PM",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-      "publishedAt": "2026-08-13T02:10:44.000Z",
-      "summary": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email, free app or daily news podcast Legislation forcing tech companies to pay for Australian journalism to be introduced The government will today introduce its legislation forcing tech companies to pay for journalism in Australia after making a series of 11th-hour changes and reaching an agreement with the Coalition. That obligation to enter into at least eight deals is if they want to fully acquit. So it still will be open to tech companies to only partially offset their obligation. But if they want to fully offset their obligation, there have to be at least eight deals. In addition to that obligation, there’s a 200% offset for small and medium players. So that’s also a very strong incentive for them to enter into agreements with regional media, with CALD media and LGBTQI and other smaller players. Andrew was sharing his personal views in his speech, the National Press Club. We are going through our policy development process. We’re doing it carefully. We’re doing it deliberately. Continue reading...",
+      "id": "f2767cf86f5bca52",
+      "title": "Hong Kong woman acquitted of protest-related charges after return from Australia",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363917/hong-kong-woman-acquitted-protest-related-charges-after-return-australia?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T09:25:44.000Z",
+      "summary": "A Hong Kong woman who returned from Australia has been acquitted of two charges linked to the 2019 anti-government protests, after a magistrate found insufficient evidence that she was involved in the unrest. Eastern Court ruled on Thursday that prosecutors had failed to prove beyond a reasonable doubt that casino cashier Ami Chan Hui-ching, 21, carried two laser pointers and three bottles of spray paint for illegal purposes on September 8, 2019. Magistrate Edward Wong Ching-yu pointed out that...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-          "publishedAt": "2026-08-13T02:10:44.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363917/hong-kong-woman-acquitted-protest-related-charges-after-return-australia?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T09:25:44.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "国际组织",
+        "专题·中国与世界"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "950d6c418ab6a87874e3a9fa",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "1026a9c91055c9d1",
+      "title": "Trump orders US aircraft carriers to go back to steam catapults",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3363965/trump-orders-us-aircraft-carriers-go-back-steam-catapults?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T23:40:13.000Z",
+      "summary": "President Donald Trump ordered the US Navy to return to using steam catapults to launch planes off of aircraft carriers, acting on a long-time complaint despite opposition from many naval officers. In a presidential memorandum, Trump ordered US Defence Secretary Pete Hegseth to come up with a plan within 60 days on what would be needed to use hydraulic catapults in the next Gerald Ford-class nuclear-powered aircraft carrier. The planned USS Doris Miller will be the fourth ship in the six-vessel...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363965/trump-orders-us-aircraft-carriers-go-back-steam-catapults?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T23:40:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "83dad23bb185ce2a45813d27",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "ee08bc4dc8532ae8",
+      "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+      "publishedAt": "2026-08-13T23:09:15.000Z",
+      "summary": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+          "publishedAt": "2026-08-13T23:09:15.000Z"
         }
       ],
       "sourceCount": 1,
@@ -286,247 +730,12 @@
         "全球焦点",
         "突发"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a65e986f8f5d5d0ff2c12ac0",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "65e2c412d5cd2d26",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T22:56:44.000Z",
-      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-12T22:56:44.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "fe2f1dad437a210a3e11d992",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "7b8f865636c1d135",
-      "title": "Ex-Myanmar ambassador to UK on trial for trespassing in diplomatic residence",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-      "publishedAt": "2026-08-12T18:01:51.000Z",
-      "summary": "Kyaw Zwar Minn was ousted for declaring loyalty to Aung San Suu Kyi after 2021 coup but refused to leave his home Myanmar’s ousted ambassador to the UK has gone on trial on trespassing charges for refusing to leave a diplomatic residence after being unceremoniously locked out of the embassy in 2021. Shortly after Myanmar’s military seized power in 2021, triggering mass protests that spiralled into a civil war, Kyaw Zwar Minn was locked out of the embassy for declaring his loyalty to the deposed civilian leader Aung San Suu Kyi. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-          "publishedAt": "2026-08-12T18:01:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全",
-        "专题·全球治理与外交"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "b98c74a1ffdee21c5b0edaa7",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "72445a3a072c6dfe",
-      "title": "China approves Japanese envoy in Chongqing, ending 8-month vacancy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3363802/china-approves-japanese-envoy-chongqing-ending-8-month-vacancy?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T11:18:13.000Z",
-      "summary": "China has approved a new Japanese acting consul general in Chongqing, ending an eight-month vacancy at the mission following a bilateral freeze. Shigehiro Nishiumi, who previously served as Japan’s deputy consul general in Hong Kong, assumed the post at the diplomatic mission in the southwestern municipality of Chongqing on August 4, Japanese news agency Kyodo reported, citing an unnamed government source. The Chongqing post had remained unoccupied since December 5, when former head of mission...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363802/china-approves-japanese-envoy-chongqing-ending-8-month-vacancy?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T11:18:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "国际组织",
-        "专题·全球治理与外交"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "59766e0c64b5d56f295eeb13",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "17bb54ba12ffc0df",
-      "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
-      "publishedAt": "2026-08-12T23:22:48.000Z",
-      "summary": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race A luxury Lake Como-inspired estate in the San Francisco Bay Area has sold to a buyer “in the AI world” for a record $70m, in the latest sign of a new tech wealth boom that’s pushing home prices to extraordinary heights in the region The property south of San Francisco not only becomes the most expensive sale in its affluent town of Hillsborough, doubling a previous record, but is also the most expensive sale in northern California this year, according to listing agent Jennifer Gilson of Golden Gate Sotheby’s International Realty. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
-          "publishedAt": "2026-08-12T23:22:48.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "科技"
-      ],
       "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9e20c5e983104b2e8c08a842",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "5b006953865bd410",
-      "title": "1 killed in Israel’s first Gaza strike in over a week",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3363827/1-killed-israels-first-gaza-strike-over-week?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T17:42:46.000Z",
-      "summary": "Israel on Wednesday carried out its first air strike in more than a week in Gaza, both sides said, breaking a relative lull as the US pressed a peace plan. The Israeli military said it targeted a Hamas commander, charging that he had been planning attacks against Israeli forces operating in the war-battered territory. “The terrorist was struck in an aerial strike in order to remove the threat to IDF troops,” a military statement said, adding that it tried to mitigate civilian harm. Gaza’s civil...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3363827/1-killed-israels-first-gaza-strike-over-week?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T17:42:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a3866fa6ebd262a8ea4c7b09",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "4abd3982ef9b24dc",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T01:31:21.000Z",
-      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-13T01:31:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ed5f3c7b888c936141733397",
+      "fingerprint": "0c5723525451d0414d629483",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -537,19 +746,19 @@
   ],
   "china": [
     {
-      "id": "070cb888fb55930c",
-      "title": "Stop mourning Hong Kong. It’s evolving, not dying",
+      "id": "b5bd5164c1ae3c64",
+      "title": "Chinese husband splits expenses, installs cameras to monitor wife during 40-year marriage",
       "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363645/stop-mourning-hong-kong-its-evolving-not-dying?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T01:30:07.000Z",
-      "summary": "Hong Kong has changed since the turmoil of 2019-20. Few people would dispute this. The more important question is what kind of city it is becoming. It is evolving into a more nationally integrated yet still distinctive city. The emerging model seeks to combine market dynamism and international connectivity with clearer alignment to national development. This is not decline. It is a search for a viable identity and role. Critics such as Stephen Roach have argued that the Hong Kong of old is...",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363973/chinese-husband-splits-expenses-installs-cameras-monitor-wife-during-40-year-marriage?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:17:48.000Z",
+      "summary": "A husband in southeastern China has insisted on going Dutch with his wife for 40 years and even installed home surveillance cameras to monitor her; despite this, the wife wants to give their marriage another try. The couple from Fujian province sought assistance from a local mediation TV show as their conflicts escalated. The husband, identified by the surname Li, complained that his wife, surnamed Chen, had vandalised their home, writing curse words on the walls and even damaging the door with...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363645/stop-mourning-hong-kong-its-evolving-not-dying?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T01:30:07.000Z"
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363973/chinese-husband-splits-expenses-installs-cameras-monitor-wife-during-40-year-marriage?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:17:48.000Z"
         }
       ],
       "sourceCount": 1,
@@ -558,52 +767,18 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "能源"
+        "专题·中国与世界"
       ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d4f7af6120c00a773902962b",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "5792967e5b5a05b2",
-      "title": "Chinese dad sparks controversy after digging grave to help sick daughter cope with death",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363840/chinese-dad-sparks-controversy-after-digging-grave-help-sick-daughter-cope-death?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T02:28:35.000Z",
-      "summary": "A father in southwestern China, who once dug a grave for his two-year-old ailing daughter, has transformed it into a flower garden after she made a remarkable recovery. Zhang Xinlei, from Neijiang in Sichuan province, was born with severe thalassaemia, a blood disorder that requires lifelong transfusions and poses risks of developmental delays and heart complications. The illness left the little girl largely isolated, often playing alone with her puppy or in a neighbour’s sand pile, as reported...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363840/chinese-dad-sparks-controversy-after-digging-grave-help-sick-daughter-cope-death?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T02:28:35.000Z"
-        }
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
       ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "51d57dcbde8fe4f2dc908bf5",
+      "fingerprint": "0990aa0037daf277d82f1545",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -612,19 +787,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "81105cae1ec92e03",
-      "title": "Nearly 200-country study shows China’s Belt and Road Initiative cuts debt and corruption",
+      "id": "a7cdb51ebcae374a",
+      "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3363782/nearly-200-country-study-shows-chinas-belt-and-road-initiative-cuts-debt-and-corruption?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T02:00:10.000Z",
-      "summary": "A study analysing data from hundreds of countries and regions suggests China’s Belt and Road Initiative is linked to better governance and economic development, according to researchers from Nanjing University. They found the trade and investment scheme – which spans Africa, Asia, Europe and beyond – was also associated with improved corruption control and that it reduced debt risks. The team – from the university’s Centre for Asia-Pacific Development Studies and led by Mao Weizhun – said their...",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:00:12.000Z",
+      "summary": "When Beijing-based neurosurgeon Jin Shanmu pulled up a chair at his computer, he was not looking to make mathematical history. He was simply trying to crack a problem related to brain ultrasounds. Instead, the self-taught maths enthusiast, with help from OpenAI’s latest flagship artificial intelligence (AI) model, solved a two-decade-old mathematical puzzle that had frustrated experts around the world since 2004. Jin, a postdoctoral researcher and resident at the Peking Union Medical College...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3363782/nearly-200-country-study-shows-chinas-belt-and-road-initiative-cuts-debt-and-corruption?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T02:00:10.000Z"
+          "url": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:00:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -633,35 +808,40 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "经济"
+        "科技",
+        "专题·中国与世界"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5ba02cea1e3a1aaaa7a9e9de",
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "539ec9a531fec57838d6aedd",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "843a187ea9cbd5db",
-      "title": "What comes next for Hong Kong as a global financial hub?",
+      "id": "81014276c9729d93",
+      "title": "Relief after 9 blistering days as Hong Kong issues amber rainstorm warning",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363826/what-comes-next-hong-kong-global-financial-hub?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T00:30:11.000Z",
-      "summary": "What will a stronger international financial centre look like for Hong Kong? Doubling down on yuan internationalisation is a key focus, experts say in this second of our five-part series on the city’s first five-year blueprint. Read part one here. With a symbolic press of a button, top officials and securities regulators from Hong Kong and mainland China earlier this month marked a historic moment for the city’s financial markets. The August 3 launch of the first offshore Chinese government...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363967/relief-after-9-blistering-days-hong-kong-issues-amber-rainstorm-warning?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T01:22:26.000Z",
+      "summary": "Temperatures have dropped in Hong Kong after a streak of nine very hot days, with the city’s weather forecaster issuing an amber rainstorm warning on Friday morning. The Observatory recorded temperatures between 23 and 29 degrees Celsius (73 and 84 Fahrenheit) in various districts across the city as of 8.45am, significantly lower than the 33 degrees or higher over the past nine days. The forecaster issued an amber rainstorm warning at 8.40am, the lowest tier in the city’s rainstorm warning...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363826/what-comes-next-hong-kong-global-financial-hub?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T00:30:11.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363967/relief-after-9-blistering-days-hong-kong-issues-amber-rainstorm-warning?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T01:22:26.000Z"
         }
       ],
       "sourceCount": 1,
@@ -670,35 +850,39 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融"
+        "军事与安全",
+        "环境",
+        "专题·中国与世界"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a33ce3ed5c245ae020487ae9",
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "de0bdf148ee084e9cee3ca83",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "230462a6f8dc566b",
-      "title": "Fubon Bank’s Hong Kong subsidiary opens first mainland China branch in Shenzhen",
+      "id": "f40da8b0ebf09850",
+      "title": "Hong Kong insurers to weather Beijing’s tax shift with 8-10% premium growth: S&P",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3363788/fubon-banks-hong-kong-subsidiary-opens-first-mainland-china-branch-shenzhen?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T00:30:06.000Z",
-      "summary": "Fubon Bank (Hong Kong) has opened its first branch outside its home market, moving into mainland China to tap surging cross-border business opportunities as competition among foreign lenders in the Greater Bay Area intensifies. The branch, located in Shenzhen’s Qianhai financial zone, would initially focus on corporate banking, offering tailored cross-border financing to technology firms and enterprises seeking international expansion, the lender said in an announcement on Tuesday. The move...",
+      "url": "https://www.scmp.com/business/banking-finance/article/3363969/hong-kong-insurers-weather-beijings-tax-shift-8-10-premium-growth-sp?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:00:17.000Z",
+      "summary": "Hong Kong’s life insurers could still see annual premium growth of 8 to 10 per cent over the next two years, despite a recent regulatory shift stemming from Beijing’s overseas taxation rules, according to credit-rating agency S&P Global Ratings. Resilient demand for overseas diversification should prevent a lasting downturn, the agency said, in the latest vote of confidence in the city’s thriving insurance and wealth management industries. “We expect a temporary slowdown in sales to mainland...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3363788/fubon-banks-hong-kong-subsidiary-opens-first-mainland-china-branch-shenzhen?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T00:30:06.000Z"
+          "url": "https://www.scmp.com/business/banking-finance/article/3363969/hong-kong-insurers-weather-beijings-tax-shift-8-10-premium-growth-sp?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:00:17.000Z"
         }
       ],
       "sourceCount": 1,
@@ -707,38 +891,80 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "科技"
+        "专题·中国与世界"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "64a1ddfaa9837579cca5f2ca",
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "696ad4da7bf89240f973cbd2",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
+    },
+    {
+      "id": "e47913ab20a7b0cd",
+      "title": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "source": "zaobao.com.sg",
+      "url": "https://www.zaobao.com.sg/news/china/story20260814-9516990",
+      "publishedAt": "2026-08-14T01:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "zaobao.com.sg",
+          "url": "https://www.zaobao.com.sg/news/china/story20260814-9516990",
+          "publishedAt": "2026-08-14T01:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "专题·中国与世界"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "8344882bea0380b5fc619beb",
+      "isContinuation": false,
+      "titleZh": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "summaryZh": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
     }
   ],
   "usa": [
     {
-      "id": "6e6c739d412ad6c6",
-      "title": "Trump’s press secretary Karoline Leavitt leaving role, president says – as it happened",
+      "id": "405388ae86e110df",
+      "title": "Australia news live: Jacinta Allan to quit politics; Sydney airport near-miss distance was ‘substantial’ 1.3km, Airservices says",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-      "publishedAt": "2026-08-13T02:11:27.000Z",
-      "summary": "This live blog is now closed. Karoline Leavitt will step down as White House press secretary Sign up for the Breaking News US email Core inflation, which measures price changes without volatile goods like food and gas, rose by 0.2% in July, after not really changing in June compared to the month prior. While the latest data shows there has been a 2.9% drop in gas prices from June to July, there has been a 25% hike compared to this time last year. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "publishedAt": "2026-08-14T02:34:32.000Z",
+      "summary": "Follow today’s news live Get our breaking news email, free app or daily news podcast Albanese says gambling inducements are ‘over the top’ Albanese said gambling inducements are “over the top and need to be wound back”. Look, we’re working constructively across the parliament to put in place these reforms. They are important. The problem is addiction and when someone has an addiction, if there are inducements that are encouraging that addiction, that’s a bad thing. There’s nothing wrong with people having a punt on a Saturday … the problem is if it’s an addiction. We agreed it was a project that is and will continue to deliver benefits for the United States, for Australia, and for the United Kingdom. I always put forward Australia’s national interest during these discussions. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-          "publishedAt": "2026-08-13T02:11:27.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+          "publishedAt": "2026-08-14T02:34:32.000Z"
         }
       ],
       "sourceCount": 1,
@@ -748,38 +974,72 @@
       "tags": [
         "美国重点",
         "突发",
-        "经济",
-        "能源",
-        "持续关注"
+        "军事与安全"
       ],
-      "score": 77,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 73,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "6d83c1b534305ccadcd6837e",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
+      "fingerprint": "ebf4cd0b3ec816507dd62243",
+      "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "d4c0cc23dbb827ca",
-      "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
-      "publishedAt": "2026-08-12T21:52:18.000Z",
-      "summary": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
+      "id": "f72be3ba82c4c9a2",
+      "title": "Trump orders Pentagon to scrap modern jet launching tech on new US aircraft carrier and revert to steam catapults – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+      "publishedAt": "2026-08-14T01:59:31.000Z",
+      "summary": "This live blog is now closed. Sign up for the Breaking News US email Donald Trump’s executive order on vaccines does not change the US recommendations for the shots – but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them. The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent – changes that were later halted by a federal judge. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
-          "publishedAt": "2026-08-12T21:52:18.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+          "publishedAt": "2026-08-14T01:59:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发"
+      ],
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "209fb2f4517846ad64d1e6dc",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a6d89840e3897332",
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+      "publishedAt": "2026-08-13T21:21:57.000Z",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of unmanned aircraft systems (UAS), as well as their parts and components (together, UAS components), on the national security of […] The post Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+          "publishedAt": "2026-08-13T21:21:57.000Z"
         }
       ],
       "sourceCount": 1,
@@ -791,11 +1051,11 @@
         "军事与安全"
       ],
       "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "945d3ec9eb18a9a5fd283524",
+      "fingerprint": "92b37a2a0a5fd0598bc3b856",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -804,36 +1064,35 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "e294458523cef3c6",
-      "title": "Could the rise of left-wing Democrats reshape America’s policy on China?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3363736/could-rise-left-wing-democrats-reshape-americas-policy-china?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T12:00:12.000Z",
-      "summary": "The Democratic Party’s ascendant left wing is likely to push American foreign policy further “inward” and away from big-power rivalry, according to a Chinese political scientist. Meng Weizhan, an assistant research professor at Fudan University’s Institute for Advanced Study in Social Sciences in Shanghai, also said it was time for Beijing to move away from the notion that all American political factions took a hard line on China. The remarks come as progressive Democrats are riding a wave of...",
+      "id": "dcd375cc58940190",
+      "title": "Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+      "publishedAt": "2026-08-13T21:21:46.000Z",
+      "summary": "MEMORANDUM FOR THE SECRETARY OF WAR THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS SUBJECT: Rebuilding the United States Navy and America’s Shipbuilding Industrial Base By the authority vested in me as President by the Constitution and the laws of the United States of […] The post Rebuilding the United States Navy and America’s Shipbuilding Industrial Base appeared first on The White House.",
       "language": "",
-      "region": "china",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363736/could-rise-left-wing-democrats-reshape-americas-policy-china?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T12:00:12.000Z"
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+          "publishedAt": "2026-08-13T21:21:46.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
         "美国重点",
         "军事与安全"
       ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a5c54475dbf2e0d1cad5c1c1",
+      "fingerprint": "39c0528552e88c1b8200896a",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -842,19 +1101,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "7e35580d3de7976d",
-      "title": "WHO chief warns Trump’s vaccine policy overhaul is against ‘decades of evidence’",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/science-technology/article/3363810/who-chief-warns-trumps-vaccine-policy-overhaul-against-decades-evidence?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T12:10:01.000Z",
-      "summary": "The World Health Organization warned on Wednesday that President Donald Trump’s bid to overhaul child vaccination in the United States went against “decades of evidence”. Trump signed an order on Monday pushing for a rethink of school vaccine mandates and repeating calls for the measles, mumps, and rubella (MMR) vaccine to be separated into three separate shots. His Health Secretary Robert F. Kennedy Jnr founded an anti-vaccine group and has long promoted a disproved link between the MMR shot...",
+      "id": "e7df75bc03eb8e8c",
+      "title": "NASA’s 737 Reveals New Paint",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+      "publishedAt": "2026-08-13T19:41:23.000Z",
+      "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June. The aircraft will perform lunar-gravity parabolic flights to validate […]",
       "language": "",
-      "region": "china",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/science-technology/article/3363810/who-chief-warns-trumps-vaccine-policy-overhaul-against-decades-evidence?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T12:10:01.000Z"
+          "source": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+          "publishedAt": "2026-08-13T19:41:23.000Z"
         }
       ],
       "sourceCount": 1,
@@ -863,128 +1122,54 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "军事与安全",
-        "国际组织"
+        "军事与安全"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "e2b70c4b75b8a2e5573bbac3",
+      "fingerprint": "4bab56db48e12ab1dc255658",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
       "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "475d90ffc163b37f",
-      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-      "publishedAt": "2026-08-12T21:53:17.000Z",
-      "summary": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-          "publishedAt": "2026-08-12T21:53:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 54,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4d0cf64e62d5f1119f770c97",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     }
   ],
   "watch": [
     {
-      "id": "c641128077c76334",
-      "title": "Surrogate mother who fled to Texas gives birth to baby with severe heart defect",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth",
-      "publishedAt": "2026-08-13T02:12:10.000Z",
-      "summary": "McKenna West initially agreed to an abortion after diagnosis, but then fled to state where abortion is illegal and broke contact with biological parents, attorney alleges A surrogate mother who traveled to Texas, where abortion is illegal, claiming she was pressured to end the pregnancy after the discovery of a severe heart defect, gave birth on Wednesday to a baby boy. The child’s biological parents, Nausheen Gilkar and Omar Ahmed of California, confirmed the birth through their lawyer, while denying they forced McKenna West, who is from Alaska, to undergo an abortion, the Texas Tribune reported. Continue reading...",
-      "language": "",
-      "region": "international",
+      "id": "d0a40dee3a62c1bb",
+      "title": "Israeli military moves as settlers besiege 3 West Bank homes",
+      "source": "DW",
+      "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-13T15:19:00.000Z",
+      "summary": "Israel's military has moved to try to stop a group of settlers from besieging three homes in the occupied West Bank. One was owned by a Palestinian American, prompting an unusually sharp rebuke from the US ambassador.",
+      "language": "en",
+      "region": "europe",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth",
-          "publishedAt": "2026-08-13T02:12:10.000Z"
+          "source": "DW",
+          "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-13T15:19:00.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "国际组织"
+        "美国重点",
+        "金融",
+        "军事与安全"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0581d5d37c115dbb231981e8",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "125b78da02485bfa",
-      "title": "Why India is eyeing France’s next-generation combat aircraft tech amid jet shortage",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3363820/why-india-eyeing-frances-next-generation-combat-aircraft-tech-amid-jet-shortage?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T02:00:12.000Z",
-      "summary": "India is looking to join France’s sixth-generation fighter programme in a long-term bid to secure a role in the next era of air warfare, from advanced aircraft technology to the industrial work of designing and building future combat systems. But analysts said the move, while potentially a major step in India’s defence partnership with France, would do little to ease the country’s immediate shortage of combat jets. The defence ministry told Indian lawmakers last week that it had “initiated...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3363820/why-india-eyeing-frances-next-generation-combat-aircraft-tech-amid-jet-shortage?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T02:00:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "科技"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a76fac5d3f6b4fc479250698",
+      "fingerprint": "0f2db97af49b1858273a94a9",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -993,36 +1178,79 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "5f8944e243f95a78",
-      "title": "‘A magical eeriness’: Cornwall comes together for communal moment during solar eclipse",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/science/2026/aug/12/a-magical-eeriness-cornwall-comes-together-for-communal-moment-during-solar-eclipse",
-      "publishedAt": "2026-08-12T19:55:59.000Z",
-      "summary": "People came from far and wide to witness phenomenon that has thrilled humans for thousands of years At 6pm the beach and village began to empty, and those in the know headed up the hill towards the old granite coastguard station on the headland. “This is the best spot,” said Sennen Cove resident Lisa Redfern, who had built a pinhole camera for the eclipse out of an old Ryvita Thins box. Continue reading...",
+      "id": "a4abccb7d7f0c18b",
+      "title": "Why is Hong Kong’s heat-stress warning system for outdoor workers in the hot seat?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363953/why-hong-kongs-heat-stress-warning-system-outdoor-workers-hot-seat?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T14:39:41.000Z",
+      "summary": "Hong Kong residents have borne the brunt of extreme weather this summer, with July rainfall exceeding the monthly norm by 23 per cent, followed by hot spells in August linked to Tropical Cyclone Dolphin’s influence. As of Thursday, the maximum temperature recorded at the Hong Kong Observatory reached 33 degrees Celsius (91 Fahrenheit) or above for nine consecutive days, marking the longest streak of very hot days for the month of August. A green group warned in July that scorching days and hot...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/science/2026/aug/12/a-magical-eeriness-cornwall-comes-together-for-communal-moment-during-solar-eclipse",
-          "publishedAt": "2026-08-12T19:55:59.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363953/why-hong-kongs-heat-stress-warning-system-outdoor-workers-hot-seat?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T14:39:41.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
+        "中国重点",
         "军事与安全",
-        "国际组织"
+        "专题·中国与世界"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8270a507b402556b41002717",
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "2f972284b492ec2185b46a53",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "3a5a6d402a95db8f",
+      "title": "Satellite images show 50 per cent boost to China’s Type 054B missile capacity",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3363894/satellite-images-show-50-cent-boost-chinas-type-054b-missile-capacity?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T13:00:08.000Z",
+      "summary": "China appears to be adding capacity to the vertical launch system (VLS) of its most advanced guided-missile frigate Type 054B under construction in Shanghai, satellite images show, allowing it to have a larger missile reserve and stronger anti-air defence capabilities. According to satellite images taken by US intelligence company Vantor on June 28, the VLS at the bow of a Type 054B vessel had a different shape compared to the first two Type 054B vessels that have already entered service. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3363894/satellite-images-show-50-cent-boost-chinas-type-054b-missile-capacity?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T13:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·中国与世界"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "9506907e3b1138524862dcc3",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1033,110 +1261,29 @@
   ],
   "more": [],
   "metadata": {
-    "fetched": 158,
-    "deduplicated": 155,
+    "fetched": 206,
+    "deduplicated": 201,
     "selected": 23,
     "minimumRequired": 21,
-    "featured": 3,
+    "featured": 8,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "65e2c412d5cd2d26",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T22:56:44.000Z",
-      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-12T22:56:44.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "fe2f1dad437a210a3e11d992",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "7b8f865636c1d135",
-      "title": "Ex-Myanmar ambassador to UK on trial for trespassing in diplomatic residence",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-      "publishedAt": "2026-08-12T18:01:51.000Z",
-      "summary": "Kyaw Zwar Minn was ousted for declaring loyalty to Aung San Suu Kyi after 2021 coup but refused to leave his home Myanmar’s ousted ambassador to the UK has gone on trial on trespassing charges for refusing to leave a diplomatic residence after being unceremoniously locked out of the embassy in 2021. Shortly after Myanmar’s military seized power in 2021, triggering mass protests that spiralled into a civil war, Kyaw Zwar Minn was locked out of the embassy for declaring his loyalty to the deposed civilian leader Aung San Suu Kyi. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-          "publishedAt": "2026-08-12T18:01:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全",
-        "专题·全球治理与外交"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "b98c74a1ffdee21c5b0edaa7",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "72445a3a072c6dfe",
-      "title": "China approves Japanese envoy in Chongqing, ending 8-month vacancy",
+      "id": "b5bd5164c1ae3c64",
+      "title": "Chinese husband splits expenses, installs cameras to monitor wife during 40-year marriage",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3363802/china-approves-japanese-envoy-chongqing-ending-8-month-vacancy?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T11:18:13.000Z",
-      "summary": "China has approved a new Japanese acting consul general in Chongqing, ending an eight-month vacancy at the mission following a bilateral freeze. Shigehiro Nishiumi, who previously served as Japan’s deputy consul general in Hong Kong, assumed the post at the diplomatic mission in the southwestern municipality of Chongqing on August 4, Japanese news agency Kyodo reported, citing an unnamed government source. The Chongqing post had remained unoccupied since December 5, when former head of mission...",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363973/chinese-husband-splits-expenses-installs-cameras-monitor-wife-during-40-year-marriage?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:17:48.000Z",
+      "summary": "A husband in southeastern China has insisted on going Dutch with his wife for 40 years and even installed home surveillance cameras to monitor her; despite this, the wife wants to give their marriage another try. The couple from Fujian province sought assistance from a local mediation TV show as their conflicts escalated. The husband, identified by the surname Li, complained that his wife, surnamed Chen, had vandalised their home, writing curse words on the walls and even damaging the door with...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363802/china-approves-japanese-envoy-chongqing-ending-8-month-vacancy?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T11:18:13.000Z"
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363973/chinese-husband-splits-expenses-installs-cameras-monitor-wife-during-40-year-marriage?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:17:48.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1145,18 +1292,18 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "外交",
-        "国际组织",
-        "专题·全球治理与外交"
+        "专题·中国与世界"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": true,
       "topicKeywords": [
-        "外交"
+        "china",
+        "chinese",
+        "中国"
       ],
-      "fingerprint": "59766e0c64b5d56f295eeb13",
+      "fingerprint": "0990aa0037daf277d82f1545",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1165,36 +1312,81 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "6b2bd9e14e215685",
-      "title": "Telstra CEO gets $700,000 pay rise to $6.8m despite Australia-wide outage",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady",
-      "publishedAt": "2026-08-13T02:16:47.000Z",
-      "summary": "Telco board cuts senior executive bonuses by total $1.3m after tech fail that affected millions Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Telstra has paid its chief executive, Vicki Brady, $6.8m for the year ending in June, after docking 20% of her bonus in response to the network’s nationwide outage in July. The company reported financial results on Thursday. Its board met on Monday and decided to cut Brady’s bonus by $607,000 – but she still took home a $700,000 pay rise as she was awarded a total of $6.1m the year before. Continue reading...",
+      "id": "a7cdb51ebcae374a",
+      "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:00:12.000Z",
+      "summary": "When Beijing-based neurosurgeon Jin Shanmu pulled up a chair at his computer, he was not looking to make mathematical history. He was simply trying to crack a problem related to brain ultrasounds. Instead, the self-taught maths enthusiast, with help from OpenAI’s latest flagship artificial intelligence (AI) model, solved a two-decade-old mathematical puzzle that had frustrated experts around the world since 2004. Jin, a postdoctoral researcher and resident at the Peking Union Medical College...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady",
-          "publishedAt": "2026-08-13T02:16:47.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:00:12.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
+        "中国重点",
+        "科技",
+        "专题·中国与世界"
       ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "511e1af12c98f998693a33b8",
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "539ec9a531fec57838d6aedd",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "81014276c9729d93",
+      "title": "Relief after 9 blistering days as Hong Kong issues amber rainstorm warning",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363967/relief-after-9-blistering-days-hong-kong-issues-amber-rainstorm-warning?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T01:22:26.000Z",
+      "summary": "Temperatures have dropped in Hong Kong after a streak of nine very hot days, with the city’s weather forecaster issuing an amber rainstorm warning on Friday morning. The Observatory recorded temperatures between 23 and 29 degrees Celsius (73 and 84 Fahrenheit) in various districts across the city as of 8.45am, significantly lower than the 33 degrees or higher over the past nine days. The forecaster issued an amber rainstorm warning at 8.40am, the lowest tier in the city’s rainstorm warning...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363967/relief-after-9-blistering-days-hong-kong-issues-amber-rainstorm-warning?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T01:22:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "环境",
+        "专题·中国与世界"
+      ],
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "de0bdf148ee084e9cee3ca83",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1203,19 +1395,221 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "70ddf64fd7226ce6",
-      "title": "Reformers were ‘spectacularly unsuccessful’ in taking over NSW Liberals, Catholic schools boss says",
+      "id": "934016ade49da642",
+      "title": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "source": "world.qianlong.com",
+      "url": "https://world.qianlong.com/2026/0814/8712052.shtml",
+      "publishedAt": "2026-08-14T01:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "world.qianlong.com",
+          "url": "https://world.qianlong.com/2026/0814/8712052.shtml",
+          "publishedAt": "2026-08-14T01:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·中国与世界"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "ea5b784a78f3bb1fae006416",
+      "isContinuation": false,
+      "titleZh": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "summaryZh": "必须站出来 ， 阻止高市政府把日本再次拖向战争 - 千龙网 · 中国首都网",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "f40da8b0ebf09850",
+      "title": "Hong Kong insurers to weather Beijing’s tax shift with 8-10% premium growth: S&P",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/banking-finance/article/3363969/hong-kong-insurers-weather-beijings-tax-shift-8-10-premium-growth-sp?utm_source=rss_feed",
+      "publishedAt": "2026-08-14T02:00:17.000Z",
+      "summary": "Hong Kong’s life insurers could still see annual premium growth of 8 to 10 per cent over the next two years, despite a recent regulatory shift stemming from Beijing’s overseas taxation rules, according to credit-rating agency S&P Global Ratings. Resilient demand for overseas diversification should prevent a lasting downturn, the agency said, in the latest vote of confidence in the city’s thriving insurance and wealth management industries. “We expect a temporary slowdown in sales to mainland...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3363969/hong-kong-insurers-weather-beijings-tax-shift-8-10-premium-growth-sp?utm_source=rss_feed",
+          "publishedAt": "2026-08-14T02:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "696ad4da7bf89240f973cbd2",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "e47913ab20a7b0cd",
+      "title": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "source": "zaobao.com.sg",
+      "url": "https://www.zaobao.com.sg/news/china/story20260814-9516990",
+      "publishedAt": "2026-08-14T01:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "zaobao.com.sg",
+          "url": "https://www.zaobao.com.sg/news/china/story20260814-9516990",
+          "publishedAt": "2026-08-14T01:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "专题·中国与世界"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "8344882bea0380b5fc619beb",
+      "isContinuation": false,
+      "titleZh": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "summaryZh": "经济放缓影响消费信心 中国人下半年出境游料低于预期",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "eba31979be75251e",
+      "title": "Chinese carmakers could capture 15% to 30% of European market by 2035: Citi analysts",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-evs/article/3363903/chinese-carmakers-could-capture-15-30-european-market-2035-citi-analysts?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T09:00:10.000Z",
+      "summary": "Chinese carmakers could capture between 15 and 30 per cent of the European automotive market by 2035, up from roughly 10 per cent this year, analysts at Citi said, with the outcome resting on how far Brussels goes in tightening tariffs and made-in-EU rules. Current European Union rules would allow Chinese carmakers to reach 30 per cent by 2035 – Citi’s base scenario – while extending existing tariffs on Chinese electric vehicles to plug-in hybrids would cap the market share at 25 per cent, Citi...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/china-evs/article/3363903/chinese-carmakers-could-capture-15-30-european-market-2035-citi-analysts?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T09:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "金融",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "8e7579b5a8d00dbae12543d3",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "1a0ac9c08ba904c5",
+      "title": "UK rules out deporting ex-Hong Kong opposition leader after entry hiccup",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T16:04:46.000Z",
+      "summary": "Former Hong Kong opposition leader Wu Chi-wai, who has been granted permission to enter the United Kingdom, will not be deported despite earlier complications in his attempt to settle in the country, the British immigration minister has confirmed. In a written reply on Thursday to former Hong Kong governor Chris Patten, UK Minister for Migration and Citizenship Jo White stressed that overseas convictions should not lead to the automatic refusal of settlement applications under the British...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T16:04:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织",
+        "专题·中国与世界"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "ef3601c791226c55c3a75567",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d06b1516ea75cf54",
+      "title": "Alleged victim of Alan Jones made broadcaster soft-boiled eggs with soldiers and ironed his underpants, court told",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
-      "publishedAt": "2026-08-13T02:08:57.000Z",
-      "summary": "Catholic Schools NSW chief executive Dallas McInerney tells Icac corruption inquiry that Christain factional group driven by ‘a calling … a duty’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A factional ally of the federal opposition leader, Angus Taylor, has told a corruption inquiry a group of Christian Liberal power brokers who allegedly solicited illegal political donations were “spectacularly unsuccessful in their ambitions”. The Catholic Schools NSW chief executive, Dallas McInerney, told the NSW Independent Commission Against Corruption on Thursday that the Reformers’ model was never correct. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb",
+      "publishedAt": "2026-08-14T01:54:13.000Z",
+      "summary": "Former 2UE and 2GB radio broadcaster is facing 22 indecent assault and sexual touching charges. Jones, 85, has pleaded not guilty Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A driver for Alan Jones aspired to be a producer but was required to make the 2GB host’s breakfast of soft-boiled eggs with bread soldiers, clean his bathroom at the radio station and iron underpants, a Sydney court has heard. Complainant C told Jones’s indecent assault trial on Friday he was “star-struck” when the broadcaster offered to pay him $40,000 a year to be his driver in the mid-2000s. It was his dream job, C said in Downing Centre local court. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
-          "publishedAt": "2026-08-13T02:08:57.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb",
+          "publishedAt": "2026-08-14T01:54:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1225,14 +1619,14 @@
       "tags": [
         "全球焦点",
         "突发",
-        "国际组织"
+        "能源"
       ],
       "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "825117c276cc9c9d478e78ac",
+      "fingerprint": "e0f02a6680af9c6e2a24ae90",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1241,19 +1635,57 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "b13c8f9e732f9b5a",
-      "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "summary": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
+      "id": "5991551679c76cdd",
+      "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+      "publishedAt": "2026-08-14T00:02:22.000Z",
+      "summary": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
-          "publishedAt": "2026-08-12T12:00:00.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+          "publishedAt": "2026-08-14T00:02:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "公共安全"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8e5df865e1da804bc126cba2",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d70cd9e4a6ea1d80",
+      "title": "When the earth moves: six major earthquakes of 2026",
+      "source": "DW",
+      "url": "https://www.dw.com/en/when-the-earth-moves-six-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-13T17:17:00.000Z",
+      "summary": "Colombia, Venezuela, Mindanao: Thousands have died in powerful earthquakes this year. Six such events show that the magnitude of the quake is not the only factor determining the scale of the disaster.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/when-the-earth-moves-six-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-13T17:17:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1263,15 +1695,56 @@
       "tags": [
         "全球焦点",
         "突发",
-        "经济",
-        "军事与安全"
+        "公共安全"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7d493e324c8967b0b51907b6",
+      "fingerprint": "6860120ec0c64dcb8012a571",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "59cf96d80af37bb1",
+      "title": "Chinese missile AI tracks F-22, F-35-like heat signatures with over 90% accuracy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3363843/chinese-missile-ai-tracks-f-22-f-35-heat-signatures-over-90-accuracy?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T14:00:07.000Z",
+      "summary": "The F-35 and F-22 may be among the world’s most advanced stealth fighters, but they cannot hide one thing: heat. When heat-seeking missiles lock onto aircraft, fighters release flares to confuse infrared sensors and break missile tracking. But the infrared signals produced by fighters, including heat from engine exhaust and air friction over the fuselage, are different from those generated by flares. These heat signatures could provide valuable infrared information for target detection and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3363843/chinese-missile-ai-tracks-f-22-f-35-heat-signatures-over-90-accuracy?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T14:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "科技",
+        "专题·中国与世界"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "aaf98898a4c7f91ad36f5014",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1280,19 +1753,98 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "9a6cc2ec10449ead",
-      "title": "Australia politics live: Angus Taylor rebukes Andrew Bragg for expressing ‘personal views’ on migration numbers; Chris Minns steps in to deflect melon-gate question to PM",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-      "publishedAt": "2026-08-13T02:10:44.000Z",
-      "summary": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email, free app or daily news podcast Legislation forcing tech companies to pay for Australian journalism to be introduced The government will today introduce its legislation forcing tech companies to pay for journalism in Australia after making a series of 11th-hour changes and reaching an agreement with the Coalition. That obligation to enter into at least eight deals is if they want to fully acquit. So it still will be open to tech companies to only partially offset their obligation. But if they want to fully offset their obligation, there have to be at least eight deals. In addition to that obligation, there’s a 200% offset for small and medium players. So that’s also a very strong incentive for them to enter into agreements with regional media, with CALD media and LGBTQI and other smaller players. Andrew was sharing his personal views in his speech, the National Press Club. We are going through our policy development process. We’re doing it carefully. We’re doing it deliberately. Continue reading...",
+      "id": "f2767cf86f5bca52",
+      "title": "Hong Kong woman acquitted of protest-related charges after return from Australia",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363917/hong-kong-woman-acquitted-protest-related-charges-after-return-australia?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T09:25:44.000Z",
+      "summary": "A Hong Kong woman who returned from Australia has been acquitted of two charges linked to the 2019 anti-government protests, after a magistrate found insufficient evidence that she was involved in the unrest. Eastern Court ruled on Thursday that prosecutors had failed to prove beyond a reasonable doubt that casino cashier Ami Chan Hui-ching, 21, carried two laser pointers and three bottles of spray paint for illegal purposes on September 8, 2019. Magistrate Edward Wong Ching-yu pointed out that...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-          "publishedAt": "2026-08-13T02:10:44.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363917/hong-kong-woman-acquitted-protest-related-charges-after-return-australia?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T09:25:44.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "国际组织",
+        "专题·中国与世界"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "950d6c418ab6a87874e3a9fa",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "1026a9c91055c9d1",
+      "title": "Trump orders US aircraft carriers to go back to steam catapults",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3363965/trump-orders-us-aircraft-carriers-go-back-steam-catapults?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T23:40:13.000Z",
+      "summary": "President Donald Trump ordered the US Navy to return to using steam catapults to launch planes off of aircraft carriers, acting on a long-time complaint despite opposition from many naval officers. In a presidential memorandum, Trump ordered US Defence Secretary Pete Hegseth to come up with a plan within 60 days on what would be needed to use hydraulic catapults in the next Gerald Ford-class nuclear-powered aircraft carrier. The planned USS Doris Miller will be the fourth ship in the six-vessel...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363965/trump-orders-us-aircraft-carriers-go-back-steam-catapults?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T23:40:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "83dad23bb185ce2a45813d27",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "ee08bc4dc8532ae8",
+      "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+      "publishedAt": "2026-08-13T23:09:15.000Z",
+      "summary": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+          "publishedAt": "2026-08-13T23:09:15.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1303,12 +1855,12 @@
         "全球焦点",
         "突发"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a65e986f8f5d5d0ff2c12ac0",
+      "fingerprint": "0c5723525451d0414d629483",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1317,74 +1869,36 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "17bb54ba12ffc0df",
-      "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
+      "id": "405388ae86e110df",
+      "title": "Australia news live: Jacinta Allan to quit politics; Sydney airport near-miss distance was ‘substantial’ 1.3km, Airservices says",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
-      "publishedAt": "2026-08-12T23:22:48.000Z",
-      "summary": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race A luxury Lake Como-inspired estate in the San Francisco Bay Area has sold to a buyer “in the AI world” for a record $70m, in the latest sign of a new tech wealth boom that’s pushing home prices to extraordinary heights in the region The property south of San Francisco not only becomes the most expensive sale in its affluent town of Hillsborough, doubling a previous record, but is also the most expensive sale in northern California this year, according to listing agent Jennifer Gilson of Golden Gate Sotheby’s International Realty. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "publishedAt": "2026-08-14T02:34:32.000Z",
+      "summary": "Follow today’s news live Get our breaking news email, free app or daily news podcast Albanese says gambling inducements are ‘over the top’ Albanese said gambling inducements are “over the top and need to be wound back”. Look, we’re working constructively across the parliament to put in place these reforms. They are important. The problem is addiction and when someone has an addiction, if there are inducements that are encouraging that addiction, that’s a bad thing. There’s nothing wrong with people having a punt on a Saturday … the problem is if it’s an addiction. We agreed it was a project that is and will continue to deliver benefits for the United States, for Australia, and for the United Kingdom. I always put forward Australia’s national interest during these discussions. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
-          "publishedAt": "2026-08-12T23:22:48.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+          "publishedAt": "2026-08-14T02:34:32.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "科技"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9e20c5e983104b2e8c08a842",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "5b006953865bd410",
-      "title": "1 killed in Israel’s first Gaza strike in over a week",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3363827/1-killed-israels-first-gaza-strike-over-week?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T17:42:46.000Z",
-      "summary": "Israel on Wednesday carried out its first air strike in more than a week in Gaza, both sides said, breaking a relative lull as the US pressed a peace plan. The Israeli military said it targeted a Hamas commander, charging that he had been planning attacks against Israeli forces operating in the war-battered territory. “The terrorist was struck in an aerial strike in order to remove the threat to IDF troops,” a military statement said, adding that it tried to mitigate civilian harm. Gaza’s civil...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3363827/1-killed-israels-first-gaza-strike-over-week?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T17:42:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
+        "美国重点",
         "突发",
         "军事与安全"
       ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 73,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a3866fa6ebd262a8ea4c7b09",
+      "fingerprint": "ebf4cd0b3ec816507dd62243",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1393,243 +1907,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "4abd3982ef9b24dc",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T01:31:21.000Z",
-      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-13T01:31:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ed5f3c7b888c936141733397",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "070cb888fb55930c",
-      "title": "Stop mourning Hong Kong. It’s evolving, not dying",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363645/stop-mourning-hong-kong-its-evolving-not-dying?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T01:30:07.000Z",
-      "summary": "Hong Kong has changed since the turmoil of 2019-20. Few people would dispute this. The more important question is what kind of city it is becoming. It is evolving into a more nationally integrated yet still distinctive city. The emerging model seeks to combine market dynamism and international connectivity with clearer alignment to national development. This is not decline. It is a search for a viable identity and role. Critics such as Stephen Roach have argued that the Hong Kong of old is...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363645/stop-mourning-hong-kong-its-evolving-not-dying?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T01:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "能源"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d4f7af6120c00a773902962b",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "5792967e5b5a05b2",
-      "title": "Chinese dad sparks controversy after digging grave to help sick daughter cope with death",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363840/chinese-dad-sparks-controversy-after-digging-grave-help-sick-daughter-cope-death?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T02:28:35.000Z",
-      "summary": "A father in southwestern China, who once dug a grave for his two-year-old ailing daughter, has transformed it into a flower garden after she made a remarkable recovery. Zhang Xinlei, from Neijiang in Sichuan province, was born with severe thalassaemia, a blood disorder that requires lifelong transfusions and poses risks of developmental delays and heart complications. The illness left the little girl largely isolated, often playing alone with her puppy or in a neighbour’s sand pile, as reported...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363840/chinese-dad-sparks-controversy-after-digging-grave-help-sick-daughter-cope-death?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T02:28:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "51d57dcbde8fe4f2dc908bf5",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "81105cae1ec92e03",
-      "title": "Nearly 200-country study shows China’s Belt and Road Initiative cuts debt and corruption",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3363782/nearly-200-country-study-shows-chinas-belt-and-road-initiative-cuts-debt-and-corruption?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T02:00:10.000Z",
-      "summary": "A study analysing data from hundreds of countries and regions suggests China’s Belt and Road Initiative is linked to better governance and economic development, according to researchers from Nanjing University. They found the trade and investment scheme – which spans Africa, Asia, Europe and beyond – was also associated with improved corruption control and that it reduced debt risks. The team – from the university’s Centre for Asia-Pacific Development Studies and led by Mao Weizhun – said their...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3363782/nearly-200-country-study-shows-chinas-belt-and-road-initiative-cuts-debt-and-corruption?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T02:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济"
-      ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5ba02cea1e3a1aaaa7a9e9de",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "843a187ea9cbd5db",
-      "title": "What comes next for Hong Kong as a global financial hub?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363826/what-comes-next-hong-kong-global-financial-hub?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T00:30:11.000Z",
-      "summary": "What will a stronger international financial centre look like for Hong Kong? Doubling down on yuan internationalisation is a key focus, experts say in this second of our five-part series on the city’s first five-year blueprint. Read part one here. With a symbolic press of a button, top officials and securities regulators from Hong Kong and mainland China earlier this month marked a historic moment for the city’s financial markets. The August 3 launch of the first offshore Chinese government...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363826/what-comes-next-hong-kong-global-financial-hub?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T00:30:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a33ce3ed5c245ae020487ae9",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "230462a6f8dc566b",
-      "title": "Fubon Bank’s Hong Kong subsidiary opens first mainland China branch in Shenzhen",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3363788/fubon-banks-hong-kong-subsidiary-opens-first-mainland-china-branch-shenzhen?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T00:30:06.000Z",
-      "summary": "Fubon Bank (Hong Kong) has opened its first branch outside its home market, moving into mainland China to tap surging cross-border business opportunities as competition among foreign lenders in the Greater Bay Area intensifies. The branch, located in Shenzhen’s Qianhai financial zone, would initially focus on corporate banking, offering tailored cross-border financing to technology firms and enterprises seeking international expansion, the lender said in an announcement on Tuesday. The move...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3363788/fubon-banks-hong-kong-subsidiary-opens-first-mainland-china-branch-shenzhen?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T00:30:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "科技"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "64a1ddfaa9837579cca5f2ca",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "6e6c739d412ad6c6",
-      "title": "Trump’s press secretary Karoline Leavitt leaving role, president says – as it happened",
+      "id": "f72be3ba82c4c9a2",
+      "title": "Trump orders Pentagon to scrap modern jet launching tech on new US aircraft carrier and revert to steam catapults – as it happened",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-      "publishedAt": "2026-08-13T02:11:27.000Z",
-      "summary": "This live blog is now closed. Karoline Leavitt will step down as White House press secretary Sign up for the Breaking News US email Core inflation, which measures price changes without volatile goods like food and gas, rose by 0.2% in July, after not really changing in June compared to the month prior. While the latest data shows there has been a 2.9% drop in gas prices from June to July, there has been a 25% hike compared to this time last year. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+      "publishedAt": "2026-08-14T01:59:31.000Z",
+      "summary": "This live blog is now closed. Sign up for the Breaking News US email Donald Trump’s executive order on vaccines does not change the US recommendations for the shots – but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them. The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent – changes that were later halted by a federal judge. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-          "publishedAt": "2026-08-13T02:11:27.000Z"
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+          "publishedAt": "2026-08-14T01:59:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1638,167 +1928,14 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "突发",
-        "经济",
-        "能源",
-        "持续关注"
+        "突发"
       ],
-      "score": 77,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 67,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "6d83c1b534305ccadcd6837e",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "d4c0cc23dbb827ca",
-      "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
-      "publishedAt": "2026-08-12T21:52:18.000Z",
-      "summary": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
-          "publishedAt": "2026-08-12T21:52:18.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "945d3ec9eb18a9a5fd283524",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "e294458523cef3c6",
-      "title": "Could the rise of left-wing Democrats reshape America’s policy on China?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3363736/could-rise-left-wing-democrats-reshape-americas-policy-china?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T12:00:12.000Z",
-      "summary": "The Democratic Party’s ascendant left wing is likely to push American foreign policy further “inward” and away from big-power rivalry, according to a Chinese political scientist. Meng Weizhan, an assistant research professor at Fudan University’s Institute for Advanced Study in Social Sciences in Shanghai, also said it was time for Beijing to move away from the notion that all American political factions took a hard line on China. The remarks come as progressive Democrats are riding a wave of...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363736/could-rise-left-wing-democrats-reshape-americas-policy-china?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T12:00:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a5c54475dbf2e0d1cad5c1c1",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "7e35580d3de7976d",
-      "title": "WHO chief warns Trump’s vaccine policy overhaul is against ‘decades of evidence’",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/science-technology/article/3363810/who-chief-warns-trumps-vaccine-policy-overhaul-against-decades-evidence?utm_source=rss_feed",
-      "publishedAt": "2026-08-12T12:10:01.000Z",
-      "summary": "The World Health Organization warned on Wednesday that President Donald Trump’s bid to overhaul child vaccination in the United States went against “decades of evidence”. Trump signed an order on Monday pushing for a rethink of school vaccine mandates and repeating calls for the measles, mumps, and rubella (MMR) vaccine to be separated into three separate shots. His Health Secretary Robert F. Kennedy Jnr founded an anti-vaccine group and has long promoted a disproved link between the MMR shot...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/science-technology/article/3363810/who-chief-warns-trumps-vaccine-policy-overhaul-against-decades-evidence?utm_source=rss_feed",
-          "publishedAt": "2026-08-12T12:10:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e2b70c4b75b8a2e5573bbac3",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "475d90ffc163b37f",
-      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-      "publishedAt": "2026-08-12T21:53:17.000Z",
-      "summary": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-          "publishedAt": "2026-08-12T21:53:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 54,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4d0cf64e62d5f1119f770c97",
+      "fingerprint": "209fb2f4517846ad64d1e6dc",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1807,73 +1944,35 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "c641128077c76334",
-      "title": "Surrogate mother who fled to Texas gives birth to baby with severe heart defect",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth",
-      "publishedAt": "2026-08-13T02:12:10.000Z",
-      "summary": "McKenna West initially agreed to an abortion after diagnosis, but then fled to state where abortion is illegal and broke contact with biological parents, attorney alleges A surrogate mother who traveled to Texas, where abortion is illegal, claiming she was pressured to end the pregnancy after the discovery of a severe heart defect, gave birth on Wednesday to a baby boy. The child’s biological parents, Nausheen Gilkar and Omar Ahmed of California, confirmed the birth through their lawyer, while denying they forced McKenna West, who is from Alaska, to undergo an abortion, the Texas Tribune reported. Continue reading...",
+      "id": "a6d89840e3897332",
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+      "publishedAt": "2026-08-13T21:21:57.000Z",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of unmanned aircraft systems (UAS), as well as their parts and components (together, UAS components), on the national security of […] The post Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States appeared first on The White House.",
       "language": "",
-      "region": "international",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth",
-          "publishedAt": "2026-08-13T02:12:10.000Z"
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+          "publishedAt": "2026-08-13T21:21:57.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "国际组织"
+        "美国重点",
+        "军事与安全"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0581d5d37c115dbb231981e8",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "125b78da02485bfa",
-      "title": "Why India is eyeing France’s next-generation combat aircraft tech amid jet shortage",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3363820/why-india-eyeing-frances-next-generation-combat-aircraft-tech-amid-jet-shortage?utm_source=rss_feed",
-      "publishedAt": "2026-08-13T02:00:12.000Z",
-      "summary": "India is looking to join France’s sixth-generation fighter programme in a long-term bid to secure a role in the next era of air warfare, from advanced aircraft technology to the industrial work of designing and building future combat systems. But analysts said the move, while potentially a major step in India’s defence partnership with France, would do little to ease the country’s immediate shortage of combat jets. The defence ministry told Indian lawmakers last week that it had “initiated...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3363820/why-india-eyeing-frances-next-generation-combat-aircraft-tech-amid-jet-shortage?utm_source=rss_feed",
-          "publishedAt": "2026-08-13T02:00:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "科技"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a76fac5d3f6b4fc479250698",
+      "fingerprint": "92b37a2a0a5fd0598bc3b856",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1882,36 +1981,191 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "5f8944e243f95a78",
-      "title": "‘A magical eeriness’: Cornwall comes together for communal moment during solar eclipse",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/science/2026/aug/12/a-magical-eeriness-cornwall-comes-together-for-communal-moment-during-solar-eclipse",
-      "publishedAt": "2026-08-12T19:55:59.000Z",
-      "summary": "People came from far and wide to witness phenomenon that has thrilled humans for thousands of years At 6pm the beach and village began to empty, and those in the know headed up the hill towards the old granite coastguard station on the headland. “This is the best spot,” said Sennen Cove resident Lisa Redfern, who had built a pinhole camera for the eclipse out of an old Ryvita Thins box. Continue reading...",
+      "id": "dcd375cc58940190",
+      "title": "Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+      "publishedAt": "2026-08-13T21:21:46.000Z",
+      "summary": "MEMORANDUM FOR THE SECRETARY OF WAR THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS SUBJECT: Rebuilding the United States Navy and America’s Shipbuilding Industrial Base By the authority vested in me as President by the Constitution and the laws of the United States of […] The post Rebuilding the United States Navy and America’s Shipbuilding Industrial Base appeared first on The White House.",
       "language": "",
-      "region": "international",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/science/2026/aug/12/a-magical-eeriness-cornwall-comes-together-for-communal-moment-during-solar-eclipse",
-          "publishedAt": "2026-08-12T19:55:59.000Z"
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+          "publishedAt": "2026-08-13T21:21:46.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "39c0528552e88c1b8200896a",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "e7df75bc03eb8e8c",
+      "title": "NASA’s 737 Reveals New Paint",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+      "publishedAt": "2026-08-13T19:41:23.000Z",
+      "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June. The aircraft will perform lunar-gravity parabolic flights to validate […]",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+          "publishedAt": "2026-08-13T19:41:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "4bab56db48e12ab1dc255658",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d0a40dee3a62c1bb",
+      "title": "Israeli military moves as settlers besiege 3 West Bank homes",
+      "source": "DW",
+      "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-13T15:19:00.000Z",
+      "summary": "Israel's military has moved to try to stop a group of settlers from besieging three homes in the occupied West Bank. One was owned by a Palestinian American, prompting an unusually sharp rebuke from the US ambassador.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-13T15:19:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "金融",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0f2db97af49b1858273a94a9",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a4abccb7d7f0c18b",
+      "title": "Why is Hong Kong’s heat-stress warning system for outdoor workers in the hot seat?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363953/why-hong-kongs-heat-stress-warning-system-outdoor-workers-hot-seat?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T14:39:41.000Z",
+      "summary": "Hong Kong residents have borne the brunt of extreme weather this summer, with July rainfall exceeding the monthly norm by 23 per cent, followed by hot spells in August linked to Tropical Cyclone Dolphin’s influence. As of Thursday, the maximum temperature recorded at the Hong Kong Observatory reached 33 degrees Celsius (91 Fahrenheit) or above for nine consecutive days, marking the longest streak of very hot days for the month of August. A green group warned in July that scorching days and hot...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363953/why-hong-kongs-heat-stress-warning-system-outdoor-workers-hot-seat?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T14:39:41.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
+        "中国重点",
         "军事与安全",
-        "国际组织"
+        "专题·中国与世界"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8270a507b402556b41002717",
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "2f972284b492ec2185b46a53",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "3a5a6d402a95db8f",
+      "title": "Satellite images show 50 per cent boost to China’s Type 054B missile capacity",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3363894/satellite-images-show-50-cent-boost-chinas-type-054b-missile-capacity?utm_source=rss_feed",
+      "publishedAt": "2026-08-13T13:00:08.000Z",
+      "summary": "China appears to be adding capacity to the vertical launch system (VLS) of its most advanced guided-missile frigate Type 054B under construction in Shanghai, satellite images show, allowing it to have a larger missile reserve and stronger anti-air defence capabilities. According to satellite images taken by US intelligence company Vantor on June 28, the VLS at the bow of a Type 054B vessel had a different shape compared to the first two Type 054B vessels that have already entered service. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3363894/satellite-images-show-50-cent-boost-chinas-type-054b-missile-capacity?utm_source=rss_feed",
+          "publishedAt": "2026-08-13T13:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·中国与世界"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "9506907e3b1138524862dcc3",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
