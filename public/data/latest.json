@@ -1,212 +1,44 @@
 {
-  "date": "2026-08-16",
-  "generatedAt": "2026-08-16T01:56:14.957Z",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T01:54:07.606Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "economy-finance",
-    "name": "全球经济与金融",
-    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
-    "query": "global economy finance trade inflation interest rates",
+    "slug": "security",
+    "name": "军事、安全与突发事件",
+    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
+    "query": "military security conflict breaking crisis",
     "keywords": [
-      "economy",
-      "trade",
-      "tariff",
-      "inflation",
-      "market",
-      "bank",
-      "interest rate",
-      "经济",
-      "贸易",
-      "通胀",
-      "金融",
-      "利率"
+      "military",
+      "war",
+      "missile",
+      "security",
+      "attack",
+      "ceasefire",
+      "军事",
+      "战争",
+      "导弹",
+      "袭击",
+      "停火",
+      "突发"
     ],
-    "accent": "#10b981"
+    "accent": "#f97316"
   },
-  "overview": "今日专题“全球经济与金融”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“军事、安全与突发事件”。共筛选 21 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "5185b2e5930b4cb7",
-      "title": "Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
-      "publishedAt": "2026-08-16T01:00:11.000Z",
-      "summary": "Sales of luxury homes in mainland China’s top cities are picking up as high-net-worth individuals, benefiting from the country’s tech boom, splash out billions of yuan to improve their housing. The buying binge has sparked expectations of a broad market recovery after a six-year property slump across the country, according to brokers. But analysts said such homes represented just a small portion of the mainland’s property industry, with increasing sales and higher prices not enough to turn the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
-          "publishedAt": "2026-08-16T01:00:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "专题·全球经济与金融"
-      ],
-      "score": 70,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "market",
-        "金融"
-      ],
-      "fingerprint": "0f55e95e42f28a22e4599f8a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "2126051bf7ad3864",
-      "title": "US readies Iran penalties as Trump downplays midterms impact",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364150/us-readies-iran-penalties-trump-downplays-midterms-impact?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T10:59:08.000Z",
-      "summary": "The US is readying unprecedented economic measures against Iran, as President Donald Trump seeks to intensify efforts to force Tehran to capitulate after almost six months of war. The president said in a brief interview with Fox News that the US was planning to hit Iran’s economy hard, and that he did not care if the conflict were to end before the November US midterm elections, which would hinge on voter perceptions of the economy. Trump has struggled to find an off-ramp to the war, which has...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364150/us-readies-iran-penalties-trump-downplays-midterms-impact?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T10:59:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·全球经济与金融"
-      ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "economy",
-        "经济"
-      ],
-      "fingerprint": "fcb93e12aad5e8c90e29bd27",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "517d15913199042e",
-      "title": "Malaysia’s Anwar vows to boost anti-corruption drive after state poll defeats",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364140/malaysias-anwar-vows-boost-anti-corruption-drive-after-state-poll-defeats?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T07:47:07.000Z",
-      "summary": "Malaysian Prime Minister Anwar Ibrahim said he would speed up the pace of reforms and strengthen an anti-corruption drive as he sought to rebuild public support after a string of electoral defeats and party departures. Anwar acknowledged shortcomings by his administration that had led to frustration among Malaysians. While the economy grew 6 per cent last quarter and unemployment was low, Anwar said he “won’t deny” that Malaysians faced higher living costs. “The economic numbers are not winning...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364140/malaysias-anwar-vows-boost-anti-corruption-drive-after-state-poll-defeats?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T07:47:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·全球经济与金融"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "economy",
-        "经济"
-      ],
-      "fingerprint": "3d6d64597295ea3a808057fe",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "cfb16a79e25f834d",
-      "title": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "source": "stock.jrj.com.cn",
-      "url": "https://stock.jrj.com.cn/2026/08/15134658127064.shtml",
-      "publishedAt": "2026-08-15T06:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "stock.jrj.com.cn",
-          "url": "https://stock.jrj.com.cn/2026/08/15134658127064.shtml",
-          "publishedAt": "2026-08-15T06:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济",
-        "专题·全球经济与金融"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济",
-        "通胀"
-      ],
-      "fingerprint": "beb88c3f823773b5e1c00063",
-      "isContinuation": false,
-      "titleZh": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "summaryZh": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    }
-  ],
-  "global": [
-    {
-      "id": "941d65cb38ccff45",
-      "title": "News live: PM warns Australia has more guns than at time of Port Arthur massacre; Erin Patterson’s appeal to start this week",
+      "id": "074b9edfa1ee0ee2",
+      "title": "Australia politics live: Hume denies Chalmers’ claim Coalition would ‘end super as we know it’; Victorian teachers accept pay offer",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
-      "publishedAt": "2026-08-16T01:02:09.000Z",
-      "summary": "Anthony Albanese invites all states to join gun buyback scheme launched in federal funding deal with NSW. Follow live updates Get our breaking news email, free app or daily news podcast Anthony Albanese has just been speaking alongside the New South Wales premier, Chris Minns, about the state’s gun buyback scheme agreed in response to the Bondi terror attack. The prime minister said: Australians are quite rightly proud of our gun laws but the fact is there are more guns in Australia today than there were at the time of dealing with the Port Arthur gun buyback that occurred under the Howard government. These arrangements are available to every state and territory, and this reform comes on top of previous reforms that have been undertaken by my government in partnership with states and territories in particular the first ever development of a national firearms register. In some ways, I feel that you should give them their money now, and let them help them with the cost of living. It is their money; they’ve they’ve sacrificed it in lieu of pay. So, in a lot of cases, people want it. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "publishedAt": "2026-08-17T01:20:13.000Z",
+      "summary": "Vote to accept state government’s latest pay offer ends year-long negotiations. Follow today’s news live Get our breaking news email, free app or daily news podcast Hume says housing the ‘best indicator of economic security’ in retirement over super The deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on Sunday for super rules to be “lightened up a bit” and allow workers to their money in times of crisis. It’s something that we will obviously consider as part of our normal processes, that’s not a policy that’s come to our shadow cabinet yet, but of course, it’s something that we would consider. I do think that superannuation is highly valued by Australians, it’s not something that you need in your working life, it’s something you need in your retired life. If you put the Productivity Commission report into any pub across Australia, people read it from cover to cover, [they] all say the system currently is unfair. We’re paying more for it than we were told it would cost. We’re using scarce income tax dollars to prop up a state that doesn’t need it. T",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
-          "publishedAt": "2026-08-16T01:02:09.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+          "publishedAt": "2026-08-17T01:20:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -216,14 +48,20 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 66,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ce7ae197338acdd69550ea8b",
+      "score": 81,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "a42c22e1c6f824a97710741f",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -232,40 +70,45 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "2126051bf7ad3864",
-      "title": "US readies Iran penalties as Trump downplays midterms impact",
+      "id": "aebdc74e68f30d38",
+      "title": "USS Lincoln leaders making mental health ‘a priority’ during long deployment: US commander",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364150/us-readies-iran-penalties-trump-downplays-midterms-impact?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T10:59:08.000Z",
-      "summary": "The US is readying unprecedented economic measures against Iran, as President Donald Trump seeks to intensify efforts to force Tehran to capitulate after almost six months of war. The president said in a brief interview with Fox News that the US was planning to hit Iran’s economy hard, and that he did not care if the conflict were to end before the November US midterm elections, which would hinge on voter perceptions of the economy. Trump has struggled to find an off-ramp to the war, which has...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364224/uss-lincoln-leaders-making-mental-health-priority-during-long-deployment-us-commander?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:00:29.000Z",
+      "summary": "A top US military commander said mental health was a valid concern after meeting crew deployed on the USS Abraham Lincoln, where conditions aboard the aircraft carrier have led to complaints during its long deployment in the Iran war. Admiral Brad Cooper’s visit to the carrier in the Arabian Sea followed outrage among family members about reports of food shortages, water contamination, mouldy showers and long shifts in wartime aboard the vessel, which has been deployed without a port call for...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364150/us-readies-iran-penalties-trump-downplays-midterms-impact?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T10:59:08.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364224/uss-lincoln-leaders-making-mental-health-priority-during-long-deployment-us-commander?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:00:29.000Z"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-16T21:04:27.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "经济",
         "军事与安全",
-        "专题·全球经济与金融"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "economy",
-        "经济"
+        "military",
+        "war",
+        "军事"
       ],
-      "fingerprint": "fcb93e12aad5e8c90e29bd27",
+      "fingerprint": "5abe28be63fd6349b759ab2a",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -274,19 +117,60 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "4e5488cf69f459ab",
-      "title": "Army drops roses on Syrian crowds in a far cry from war",
+      "id": "d08e4584836e60dc",
+      "title": "How has John Lee’s promise of a ‘new chapter’ for Hong Kong held up?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364074/how-has-john-lees-promise-new-chapter-hong-kong-held?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:30:06.000Z",
+      "summary": "It made perfect sense for Hong Kong Chief Executive John Lee Ka-chiu to hold public consultations on both the city’s first five-year plan and the last policy address of his current term at the same time. Many have been putting forward views that warrant serious consideration. It is clear that Lee needs to be bolder when it comes to the “new chapter” he promised in 2022 when he was elected. The Northern Metropolis is only one part of the city’s transformation; his coming policy address must lay...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364074/how-has-john-lees-promise-new-chapter-hong-kong-held?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:30:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "191cb67c7342ff931d0d5ec5",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "0b4ef475217f3658",
+      "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-      "publishedAt": "2026-08-16T00:50:12.000Z",
-      "summary": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+      "publishedAt": "2026-08-17T01:28:13.000Z",
+      "summary": "UN Special Rapporteur Albanese warns that Israel is 'using settlers to advance ethnic cleansing' in the West Bank.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-          "publishedAt": "2026-08-16T00:50:12.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+          "publishedAt": "2026-08-17T01:28:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -295,14 +179,19 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全"
+        "金融",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a2d0a7ea6099344fb840c524",
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "67737cc6263903bc50c1fcf5",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -311,19 +200,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "540f1b918a28f098",
-      "title": "Iran urges Qatar to release pilots shot down in Middle East war",
+      "id": "26ac7b88e221fb2b",
+      "title": "Magnitude 5.9 aftershock strikes Indonesia’s Flores as quake death toll rises to 53",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364164/iran-urges-qatar-release-pilots-shot-down-middle-east-war?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T18:44:35.000Z",
-      "summary": "Iranian authorities revealed on Saturday that three of Tehran’s pilots who went down early in the Middle East war were still being held in Qatar, calling on the Gulf state to release them. Iran had previously reported one pilot killed and others missing after a sortie to Qatar in March, but news of their alleged capture was not publicised at the time. “Three Iranian pilots were captured alive by Qatari forces after their Su-24 fighter jets crashed during the war,” said General Mohammad...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364225/magnitude-59-aftershock-strikes-indonesias-flores-quake-death-toll-rises-53?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:29:01.000Z",
+      "summary": "⁠An ⁠earthquake of magnitude ‌5.9 struck Indonesia’s Flores region ⁠on Monday, the ‌German Research ‌Centre for Geosciences ⁠said, ⁠hitting ‌at a ‌depth ‌of ‌10km (six miles). The aftershock comes two days after a magnitude 7.7 quake shook six regencies on Flores, a predominantly Catholic island in the Muslim-majority country. Rescue teams in eastern Indonesia recovered six more bodies on Sunday, raising the death toll to 53, authorities said, as many of the thousands of displaced people spent...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364164/iran-urges-qatar-release-pilots-shot-down-middle-east-war?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T18:44:35.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364225/magnitude-59-aftershock-strikes-indonesias-flores-quake-death-toll-rises-53?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:29:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -332,90 +221,17 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "国际组织"
+        "突发",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "19e24d7977db4282a626026d",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "e5ae694f21ff6ecd",
-      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "publishedAt": "2026-08-15T18:08:21.000Z",
-      "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta, causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to ⁠reach European soil. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-          "publishedAt": "2026-08-15T18:08:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "能源"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "efba939379a1791571c78029",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "b7a12ddf7f72656b",
-      "title": "Israeli air strikes on Lebanon kill 11 people in another test to truce",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364163/israeli-air-strikes-lebanon-kill-11-people-another-test-truce?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T18:15:51.000Z",
-      "summary": "Israeli air strikes on southern Lebanon killed at least 11 people on Saturday, in the deadliest attacks since a truce between Israel and Hezbollah went into effect on June 20. Lebanon’s health ministry and state news agency said an air strike that targeted a home on the edge of Ansar village killed seven people, including three children, and wounded two. The second, on the village of Deir al-Zahrani, killed four and wounded 17. Israel and the Lebanese government announced a “framework agreement”...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364163/israeli-air-strikes-lebanon-kill-11-people-another-test-truce?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T18:15:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
         "突发"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "314149b2e43162daf37798d3",
+      "fingerprint": "595fd096b49a36e8677f8133",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -424,19 +240,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "517d15913199042e",
-      "title": "Malaysia’s Anwar vows to boost anti-corruption drive after state poll defeats",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364140/malaysias-anwar-vows-boost-anti-corruption-drive-after-state-poll-defeats?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T07:47:07.000Z",
-      "summary": "Malaysian Prime Minister Anwar Ibrahim said he would speed up the pace of reforms and strengthen an anti-corruption drive as he sought to rebuild public support after a string of electoral defeats and party departures. Anwar acknowledged shortcomings by his administration that had led to frustration among Malaysians. While the economy grew 6 per cent last quarter and unemployment was low, Anwar said he “won’t deny” that Malaysians faced higher living costs. “The economic numbers are not winning...",
+      "id": "c5e1e17987eab0d2",
+      "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "publishedAt": "2026-08-17T00:19:53.000Z",
+      "summary": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364140/malaysias-anwar-vows-boost-anti-corruption-drive-after-state-poll-defeats?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T07:47:07.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+          "publishedAt": "2026-08-17T00:19:53.000Z"
         }
       ],
       "sourceCount": 1,
@@ -445,19 +261,19 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "经济",
         "军事与安全",
-        "专题·全球经济与金融"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "economy",
-        "经济"
+        "military",
+        "war",
+        "军事"
       ],
-      "fingerprint": "3d6d64597295ea3a808057fe",
+      "fingerprint": "cc6b9d86b5d17424080c59b6",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -466,19 +282,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "ad598e03ec24f8d7",
-      "title": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
-      "publishedAt": "2026-08-15T04:58:20.000Z",
-      "summary": "Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in April Warning: This story contains references to Indigenous Australians who have died Get our breaking news email, free app or daily news podcast A sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Springs community and surrounds. Wearing pink and some dressed in T-shirts bearing the face of the five-year-old girl, the crowd gathered under grey skies in the red centre capital on Saturday. Continue reading...",
+      "id": "0029529c74e3d50e",
+      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+      "publishedAt": "2026-08-16T20:55:19.000Z",
+      "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
-          "publishedAt": "2026-08-15T04:58:20.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+          "publishedAt": "2026-08-16T20:55:19.000Z"
         }
       ],
       "sourceCount": 1,
@@ -488,73 +304,38 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f1f0071985c04d94325cb023",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "9168dd7fd283132f17f97024",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "5c9408dbb7929b1c",
-      "title": "Israel Justified Its Wars by Calling Enemies Crazy . Now , the Warning Signs All Apply to Israel .",
-      "source": "theintercept.com",
-      "url": "https://theintercept.com/2026/08/13/israel-palestine-benjamin-netanyahu-likud-crazy/",
-      "publishedAt": "2026-08-16T01:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "theintercept.com",
-          "url": "https://theintercept.com/2026/08/13/israel-palestine-benjamin-netanyahu-likud-crazy/",
-          "publishedAt": "2026-08-16T01:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b405ac76157cf5ad81688a29",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "ca01092fef56edf4",
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T21:03:57.000Z",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "id": "3e3db4d86128979c",
+      "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+      "publishedAt": "2026-08-16T23:58:34.000Z",
+      "summary": "Far-right National Security Minister Ben-Gvir sits on Israel's security cabinet, which helps shape war and policy.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-15T21:03:57.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+          "publishedAt": "2026-08-16T23:58:34.000Z"
         }
       ],
       "sourceCount": 1,
@@ -563,14 +344,19 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1d61439b12bb1407b9cdde7f",
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "80e4703e316f9148e7e96df0",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -579,21 +365,525 @@
       "translationStatus": "unavailable"
     }
   ],
-  "china": [
+  "global": [
     {
-      "id": "5185b2e5930b4cb7",
-      "title": "Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts",
+      "id": "074b9edfa1ee0ee2",
+      "title": "Australia politics live: Hume denies Chalmers’ claim Coalition would ‘end super as we know it’; Victorian teachers accept pay offer",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "publishedAt": "2026-08-17T01:20:13.000Z",
+      "summary": "Vote to accept state government’s latest pay offer ends year-long negotiations. Follow today’s news live Get our breaking news email, free app or daily news podcast Hume says housing the ‘best indicator of economic security’ in retirement over super The deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on Sunday for super rules to be “lightened up a bit” and allow workers to their money in times of crisis. It’s something that we will obviously consider as part of our normal processes, that’s not a policy that’s come to our shadow cabinet yet, but of course, it’s something that we would consider. I do think that superannuation is highly valued by Australians, it’s not something that you need in your working life, it’s something you need in your retired life. If you put the Productivity Commission report into any pub across Australia, people read it from cover to cover, [they] all say the system currently is unfair. We’re paying more for it than we were told it would cost. We’re using scarce income tax dollars to prop up a state that doesn’t need it. T",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+          "publishedAt": "2026-08-17T01:20:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 81,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "a42c22e1c6f824a97710741f",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "aebdc74e68f30d38",
+      "title": "USS Lincoln leaders making mental health ‘a priority’ during long deployment: US commander",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
-      "publishedAt": "2026-08-16T01:00:11.000Z",
-      "summary": "Sales of luxury homes in mainland China’s top cities are picking up as high-net-worth individuals, benefiting from the country’s tech boom, splash out billions of yuan to improve their housing. The buying binge has sparked expectations of a broad market recovery after a six-year property slump across the country, according to brokers. But analysts said such homes represented just a small portion of the mainland’s property industry, with increasing sales and higher prices not enough to turn the...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364224/uss-lincoln-leaders-making-mental-health-priority-during-long-deployment-us-commander?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:00:29.000Z",
+      "summary": "A top US military commander said mental health was a valid concern after meeting crew deployed on the USS Abraham Lincoln, where conditions aboard the aircraft carrier have led to complaints during its long deployment in the Iran war. Admiral Brad Cooper’s visit to the carrier in the Arabian Sea followed outrage among family members about reports of food shortages, water contamination, mouldy showers and long shifts in wartime aboard the vessel, which has been deployed without a port call for...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
-          "publishedAt": "2026-08-16T01:00:11.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364224/uss-lincoln-leaders-making-mental-health-priority-during-long-deployment-us-commander?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:00:29.000Z"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-16T21:04:27.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "war",
+        "军事"
+      ],
+      "fingerprint": "5abe28be63fd6349b759ab2a",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "0b4ef475217f3658",
+      "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+      "publishedAt": "2026-08-17T01:28:13.000Z",
+      "summary": "UN Special Rapporteur Albanese warns that Israel is 'using settlers to advance ethnic cleansing' in the West Bank.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+          "publishedAt": "2026-08-17T01:28:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "金融",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "67737cc6263903bc50c1fcf5",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "26ac7b88e221fb2b",
+      "title": "Magnitude 5.9 aftershock strikes Indonesia’s Flores as quake death toll rises to 53",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364225/magnitude-59-aftershock-strikes-indonesias-flores-quake-death-toll-rises-53?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:29:01.000Z",
+      "summary": "⁠An ⁠earthquake of magnitude ‌5.9 struck Indonesia’s Flores region ⁠on Monday, the ‌German Research ‌Centre for Geosciences ⁠said, ⁠hitting ‌at a ‌depth ‌of ‌10km (six miles). The aftershock comes two days after a magnitude 7.7 quake shook six regencies on Flores, a predominantly Catholic island in the Muslim-majority country. Rescue teams in eastern Indonesia recovered six more bodies on Sunday, raising the death toll to 53, authorities said, as many of the thousands of displaced people spent...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364225/magnitude-59-aftershock-strikes-indonesias-flores-quake-death-toll-rises-53?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:29:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "595fd096b49a36e8677f8133",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "c5e1e17987eab0d2",
+      "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "publishedAt": "2026-08-17T00:19:53.000Z",
+      "summary": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+          "publishedAt": "2026-08-17T00:19:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "war",
+        "军事"
+      ],
+      "fingerprint": "cc6b9d86b5d17424080c59b6",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "0029529c74e3d50e",
+      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+      "publishedAt": "2026-08-16T20:55:19.000Z",
+      "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+          "publishedAt": "2026-08-16T20:55:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "9168dd7fd283132f17f97024",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "3e3db4d86128979c",
+      "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+      "publishedAt": "2026-08-16T23:58:34.000Z",
+      "summary": "Far-right National Security Minister Ben-Gvir sits on Israel's security cabinet, which helps shape war and policy.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+          "publishedAt": "2026-08-16T23:58:34.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "80e4703e316f9148e7e96df0",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "f6406ece2f06ea6c",
+      "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+      "publishedAt": "2026-08-16T19:29:31.000Z",
+      "summary": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+          "publishedAt": "2026-08-16T19:29:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "07e49432e29222e286f3c0c7",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "9834a23f9ba76f2f",
+      "title": "At least six people dead from days of storms and record flooding in Indiana",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
+      "publishedAt": "2026-08-16T19:27:22.000Z",
+      "summary": "Four-year-old boy, two men and three women among those who died since storms began on 11 August, officials say Days of storms and flooding in Indiana left at least six people dead as flood waters peaked in Indianapolis’s White River – and rains were expected to ease in the state capital region and other parts of the state on Sunday. A four-year-old boy, two men and three women were among those who had died since the storms began on 11 August, state homeland security department spokesperson Liz Woods said. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
+          "publishedAt": "2026-08-16T19:27:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "88e15afbb146c20d8c3a465b",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "20cfa26d02e62aaf",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T19:03:04.000Z",
+      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-16T19:03:04.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "1b1db0523acedc08cb34aa9f",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "china": [
+    {
+      "id": "d08e4584836e60dc",
+      "title": "How has John Lee’s promise of a ‘new chapter’ for Hong Kong held up?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364074/how-has-john-lees-promise-new-chapter-hong-kong-held?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:30:06.000Z",
+      "summary": "It made perfect sense for Hong Kong Chief Executive John Lee Ka-chiu to hold public consultations on both the city’s first five-year plan and the last policy address of his current term at the same time. Many have been putting forward views that warrant serious consideration. It is clear that Lee needs to be bolder when it comes to the “new chapter” he promised in 2022 when he was elected. The Northern Metropolis is only one part of the city’s transformation; his coming policy address must lay...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364074/how-has-john-lees-promise-new-chapter-hong-kong-held?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:30:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "191cb67c7342ff931d0d5ec5",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "32599ec3ac1b2a40",
+      "title": "China dark tourism on the rise as adventurers brave simulated disasters at experience centres",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/environment/article/3364197/china-dark-tourism-rise-adventurers-brave-simulated-disasters-experience-centres?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:00:17.000Z",
+      "summary": "As dark tourism gains traction, some Chinese youth are embracing a related form of experiential travel, paying to confront simulated typhoons, floods, and other disasters while acquiring survival skills. Also referred to as grief tourism, dark tourism involves visiting sites linked to death, catastrophe, and human suffering. Its origins trace back centuries, including connections to 17th century Britain, where public executions often attracted large crowds. This phenomenon has surged across Asia...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/environment/article/3364197/china-dark-tourism-rise-adventurers-brave-simulated-disasters-experience-centres?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "环境",
+        "公共安全"
+      ],
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2f9ab26444f4fb9398cd0232",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "b876a93c562d4f08",
+      "title": "Hong Kong firm bets on Chinese open-weight models to rival CoreWeave",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:00:13.000Z",
+      "summary": "The rise of Chinese open-weight models has shaken up the global artificial intelligence (AI) market in recent months. With China’s systems offering high performance at a lower cost, businesses around the world are looking at shifting away from Silicon Valley’s leading providers. Now, a new Hong Kong-based company aims to turn that trend into a billion-dollar business. The “neo-cloud” provider Antimatter is helping firms switch from the dominant US models – and the cloud systems that serve them –...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:00:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -603,17 +893,14 @@
       "tags": [
         "中国重点",
         "金融",
-        "专题·全球经济与金融"
+        "科技"
       ],
-      "score": 70,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "market",
-        "金融"
-      ],
-      "fingerprint": "0f55e95e42f28a22e4599f8a",
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9f68bce4ba9c936efe4e76cb",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -622,19 +909,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "6d7601b82c1f8d8e",
-      "title": "Hong Kong’s growing wealth inequality: will it be an M- or olive-shaped society?",
+      "id": "30ddde046b8c2014",
+      "title": "US-China tech war is coming for AI’s plumbing",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3364159/hong-kongs-growing-wealth-inequality-will-it-be-m-or-olive-shaped-society?utm_source=rss_feed",
-      "publishedAt": "2026-08-16T01:00:17.000Z",
-      "summary": "An ageing society and a widening income gap threaten Hong Kong’s social fabric. In the last of a five-part series on the city’s five-year plan, we look at what can be done to address these key issues. Read part one here, part two here, part three here and part four here. At 71, Man Chi-ying is the sole carer for her husband, Fung Yu-hoi, a Parkinson’s disease patient. Fung, who is also 71, has stiff limbs and, on some days, needs his wife’s help getting dressed. She has to hold his hand to keep...",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3363884/us-china-tech-war-coming-ais-plumbing?utm_source=rss_feed",
+      "publishedAt": "2026-08-16T12:30:07.000Z",
+      "summary": "The US Federal Communications Commission (FCC) is reportedly considering a ban on Chinese optical transceivers, signalling that the US-China tech war is expanding beyond the focus on semiconductor chips to shadow even the smallest link in the chain of essential artificial intelligence (AI) hardware. Optical transceivers are small devices that use fibre optic technology to send and receive data as light. The key application of these optical modules is the quick transmission of large amounts of...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3364159/hong-kongs-growing-wealth-inequality-will-it-be-m-or-olive-shaped-society?utm_source=rss_feed",
-          "publishedAt": "2026-08-16T01:00:17.000Z"
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3363884/us-china-tech-war-coming-ais-plumbing?utm_source=rss_feed",
+          "publishedAt": "2026-08-16T12:30:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -643,108 +930,40 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "国际组织"
+        "军事与安全",
+        "科技",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 62,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "97c28f79aa3f045d463a54ba",
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "d0ed21c729602b6b834a213d",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "e90dd55f5275f662",
-      "title": "美国年轻人更习惯于一个重新崛起的中国 _ 凤凰网",
-      "source": "news.ifeng.com",
-      "url": "https://news.ifeng.com/c/8vd4dxNIksx",
-      "publishedAt": "2026-08-16T01:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "news.ifeng.com",
-          "url": "https://news.ifeng.com/c/8vd4dxNIksx",
-          "publishedAt": "2026-08-16T01:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点"
-      ],
-      "score": 61,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "28151d4a866ddb444fbdc69d",
-      "isContinuation": false,
-      "titleZh": "美国年轻人更习惯于一个重新崛起的中国 _ 凤凰网",
-      "summaryZh": "美国年轻人更习惯于一个重新崛起的中国 _ 凤凰网",
-      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "d8bbd62d89b4010a",
-      "title": "在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩 纪念江泽民同志诞辰100周年 新京报",
-      "source": "bjnews.com.cn",
-      "url": "https://www.bjnews.com.cn/detail/1786836775129012.html",
-      "publishedAt": "2026-08-16T01:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "bjnews.com.cn",
-          "url": "https://www.bjnews.com.cn/detail/1786836775129012.html",
-          "publishedAt": "2026-08-16T01:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9214068144278581717428b3",
-      "isContinuation": false,
-      "titleZh": "在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩 纪念江泽民同志诞辰100周年 新京报",
-      "summaryZh": "在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩 纪念江泽民同志诞辰100周年 新京报",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "2074fd195209ec00",
-      "title": "China’s 1MW perovskite solar farm beats silicon system in industrial-scale test",
+      "id": "d8c1184eee136fa4",
+      "title": "500 PLA summer camp cadets battle heat as they step out of their comfort zone",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3364155/chinas-1mw-perovskite-solar-farm-beats-silicon-system-industrial-scale-test?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T22:00:10.000Z",
-      "summary": "A China-led team has cleared the last major hurdle in the race to commercialise the most promising alternative to conventional silicon solar technology, paving the way for the next generation of low-cost, high-efficiency panels to be made on an industrial scale. Researchers from China and Canada, led by Nanjing University, have developed a super-stable coating for perovskite – an ultra-thin, lightweight material that can be printed onto large surfaces – suitable for patching the tiny defects...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3364196/500-pla-summer-camp-cadets-battle-heat-they-step-out-their-comfort-zone?utm_source=rss_feed",
+      "publishedAt": "2026-08-16T11:34:20.000Z",
+      "summary": "Wilson Hui Chau-yuen, a 22-year-old final-year student at Hong Kong Metropolitan University, recalls that the scorching heat was the biggest enemy during an annual two-week summer camp organised by the People’s Liberation Army (PLA) garrison. “Even on the city’s hottest day, our training continued without pause including martial arts, bayonet practice and marching drills,” Hui said on Sunday, adding that he hoped to join Hong Kong’s disciplined services in the future. The Hong Kong Observatory...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3364155/chinas-1mw-perovskite-solar-farm-beats-silicon-system-industrial-scale-test?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T22:00:10.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3364196/500-pla-summer-camp-cadets-battle-heat-they-step-out-their-comfort-zone?utm_source=rss_feed",
+          "publishedAt": "2026-08-16T11:34:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -753,37 +972,40 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "669a5c82aa738c066c3cfc23",
+      "score": 57,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "军事"
+      ],
+      "fingerprint": "a480ddde344c9c78791955f3",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     }
   ],
   "usa": [
     {
-      "id": "14d9d986490e2bc6",
-      "title": "美国年轻人更习惯中国崛起 - 华侨网",
+      "id": "89def8045f4a722a",
+      "title": "美国年轻人更习惯于一个重新崛起的中国 - 华侨网",
       "source": "chinesepress.com",
-      "url": "https://www.chinesepress.com/2026/195265.html",
-      "publishedAt": "2026-08-15T16:00:00.000Z",
+      "url": "https://www.chinesepress.com/2026/195611.html",
+      "publishedAt": "2026-08-16T16:00:00.000Z",
       "summary": "",
       "language": "Chinese",
       "region": "",
       "crossSources": [
         {
           "source": "chinesepress.com",
-          "url": "https://www.chinesepress.com/2026/195265.html",
-          "publishedAt": "2026-08-15T16:00:00.000Z"
+          "url": "https://www.chinesepress.com/2026/195611.html",
+          "publishedAt": "2026-08-16T16:00:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -795,166 +1017,14 @@
         "美国重点"
       ],
       "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9ab7409cea9c7e973b6e381b",
+      "fingerprint": "fe2a544cffe4fa45b026d90b",
       "isContinuation": false,
-      "titleZh": "美国年轻人更习惯中国崛起 - 华侨网",
-      "summaryZh": "美国年轻人更习惯中国崛起 - 华侨网",
-      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "7d832791ed56127c",
-      "title": "Zhu Rongji’s death a reminder of what US-China relations have lost",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3364032/zhu-rongjis-death-reminder-what-us-china-relations-have-lost?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T12:30:06.000Z",
-      "summary": "With the death of former Chinese premier Zhu Rongji, both China and the wider world have lost a great leader. Zhu took personal risks for better US-China ties. He believed that productive Sino-American relations were good for China and for the world. He was a global leader before China had achieved its current great power status. In mid-1990, when I was president of the National Committee on United States-China Relations, our organisation invited Zhu, then Shanghai mayor, to the United States....",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3364032/zhu-rongjis-death-reminder-what-us-china-relations-have-lost?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T12:30:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "科技"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e52a0ed71b57747faf796a0e",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "cfb16a79e25f834d",
-      "title": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "source": "stock.jrj.com.cn",
-      "url": "https://stock.jrj.com.cn/2026/08/15134658127064.shtml",
-      "publishedAt": "2026-08-15T06:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "stock.jrj.com.cn",
-          "url": "https://stock.jrj.com.cn/2026/08/15134658127064.shtml",
-          "publishedAt": "2026-08-15T06:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济",
-        "专题·全球经济与金融"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济",
-        "通胀"
-      ],
-      "fingerprint": "beb88c3f823773b5e1c00063",
-      "isContinuation": false,
-      "titleZh": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "summaryZh": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "36f91698b7f75572",
-      "title": "马科斯 ： 台海若有事 ， 不允许美国从菲律宾领土发动攻击 - 华侨网",
-      "source": "chinesepress.com",
-      "url": "https://www.chinesepress.com/2026/195248.html",
-      "publishedAt": "2026-08-15T16:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "chinesepress.com",
-          "url": "https://www.chinesepress.com/2026/195248.html",
-          "publishedAt": "2026-08-15T16:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 47,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "be0af2d7e6f66e8bbf786655",
-      "isContinuation": false,
-      "titleZh": "马科斯 ： 台海若有事 ， 不允许美国从菲律宾领土发动攻击 - 华侨网",
-      "summaryZh": "马科斯 ： 台海若有事 ， 不允许美国从菲律宾领土发动攻击 - 华侨网",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "b033beab57535d4b",
-      "title": "美国年轻人更习惯中国崛起 _ 凤凰网",
-      "source": "news.ifeng.com",
-      "url": "https://news.ifeng.com/c/8vbn3IdIqL6",
-      "publishedAt": "2026-08-15T07:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "news.ifeng.com",
-          "url": "https://news.ifeng.com/c/8vbn3IdIqL6",
-          "publishedAt": "2026-08-15T07:15:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点"
-      ],
-      "score": 46,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4f199cb81aaa469d237f2faf",
-      "isContinuation": false,
-      "titleZh": "美国年轻人更习惯中国崛起 _ 凤凰网",
-      "summaryZh": "美国年轻人更习惯中国崛起 _ 凤凰网",
+      "titleZh": "美国年轻人更习惯于一个重新崛起的中国 - 华侨网",
+      "summaryZh": "美国年轻人更习惯于一个重新崛起的中国 - 华侨网",
       "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
       "summaryMode": "rule",
       "translationStatus": "original-chinese"
@@ -962,19 +1032,19 @@
   ],
   "watch": [
     {
-      "id": "24de7e2006a1d815",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T20:58:31.000Z",
-      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "id": "feecbf4e94766c1f",
+      "title": "The PM called Sally McManus a giant of the labour movement. Now she just wants to go birding",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
+      "publishedAt": "2026-08-16T15:00:28.000Z",
+      "summary": "After securing wage rises for low-paid workers, weathering death threats and working with three PMs – the ACTU secretary is ready for a break Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Sally McManus started her job as the country’s most powerful trade union leader amid howls of criticism. Shouted down for suggesting union members were right to break “unjust” industrial laws in a live TV interview, McManus quickly adjusted to the high-decibel work of being secretary of the Australian Council of Trade Unions. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-15T20:58:31.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
+          "publishedAt": "2026-08-16T15:00:28.000Z"
         }
       ],
       "sourceCount": 1,
@@ -983,14 +1053,144 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全"
+        "突发",
+        "经济",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "67740e4301e707995b8b1f50",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "afff6d025d452d6dd3a17c44",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a2c255216d6af0f8",
+      "title": "Australian foreign minister defends multiculturalism, attacks far-right",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3364204/australian-foreign-minister-defends-multiculturalism-attacks-far-right?utm_source=rss_feed",
+      "publishedAt": "2026-08-16T12:53:59.000Z",
+      "summary": "Australia’s foreign minister attacked the policies of the far-right One Nation party, arguing that its call for a monoculture would damage social cohesion at home and relations with friends and allies abroad. “The call for a monoculture is a call for Australia to curtail our choices and cut off our connections,” Foreign Minister Penny Wong said in a speech on Friday in Sydney. “At a time where external and internal forces are seeking to divide us, turning Australians against each other makes us...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/australasia/article/3364204/australian-foreign-minister-defends-multiculturalism-attacks-far-right?utm_source=rss_feed",
+          "publishedAt": "2026-08-16T12:53:59.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "外交",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "439dffaa8b78c68eedb5e3b0",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "8889f37e92f730b3",
+      "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+      "publishedAt": "2026-08-17T00:11:18.000Z",
+      "summary": "US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+          "publishedAt": "2026-08-17T00:11:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "军事"
+      ],
+      "fingerprint": "2888ca0c395fa2a2780c0f33",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "more": [
+    {
+      "id": "41ad035fedbc7145",
+      "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+      "publishedAt": "2026-08-17T00:00:35.000Z",
+      "summary": "Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+          "publishedAt": "2026-08-17T00:00:35.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "39b0bab148777d46142fcc9b",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -999,19 +1199,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "6f3014430eabbd46",
-      "title": "Lebanon says 11 killed in Israeli airstrikes",
+      "id": "4a509a7f2dcf9e43",
+      "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
       "source": "DW",
-      "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-15T15:35:00.000Z",
-      "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure.",
+      "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-16T17:31:00.000Z",
+      "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
       "language": "en",
       "region": "europe",
       "crossSources": [
         {
           "source": "DW",
-          "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-15T15:35:00.000Z"
+          "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-16T17:31:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1020,51 +1220,18 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "ceasefire",
         "突发"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3d38c386e605532a10f6bf9e",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "415eeab89b1cf3ed",
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "publishedAt": "2026-08-15T15:34:38.000Z",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-          "publishedAt": "2026-08-15T15:34:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "04e3750154547d78d2d410ae",
+      "fingerprint": "29334c41940b4d94bc8f51cb",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1073,31 +1240,532 @@
       "translationStatus": "unavailable"
     }
   ],
-  "more": [],
   "metadata": {
-    "fetched": 166,
-    "deduplicated": 155,
-    "selected": 23,
+    "fetched": 143,
+    "deduplicated": 135,
+    "selected": 21,
     "minimumRequired": 21,
-    "featured": 4,
+    "featured": 8,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "5185b2e5930b4cb7",
-      "title": "Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts",
+      "id": "074b9edfa1ee0ee2",
+      "title": "Australia politics live: Hume denies Chalmers’ claim Coalition would ‘end super as we know it’; Victorian teachers accept pay offer",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "publishedAt": "2026-08-17T01:20:13.000Z",
+      "summary": "Vote to accept state government’s latest pay offer ends year-long negotiations. Follow today’s news live Get our breaking news email, free app or daily news podcast Hume says housing the ‘best indicator of economic security’ in retirement over super The deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on Sunday for super rules to be “lightened up a bit” and allow workers to their money in times of crisis. It’s something that we will obviously consider as part of our normal processes, that’s not a policy that’s come to our shadow cabinet yet, but of course, it’s something that we would consider. I do think that superannuation is highly valued by Australians, it’s not something that you need in your working life, it’s something you need in your retired life. If you put the Productivity Commission report into any pub across Australia, people read it from cover to cover, [they] all say the system currently is unfair. We’re paying more for it than we were told it would cost. We’re using scarce income tax dollars to prop up a state that doesn’t need it. T",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+          "publishedAt": "2026-08-17T01:20:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 81,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "a42c22e1c6f824a97710741f",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "aebdc74e68f30d38",
+      "title": "USS Lincoln leaders making mental health ‘a priority’ during long deployment: US commander",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
-      "publishedAt": "2026-08-16T01:00:11.000Z",
-      "summary": "Sales of luxury homes in mainland China’s top cities are picking up as high-net-worth individuals, benefiting from the country’s tech boom, splash out billions of yuan to improve their housing. The buying binge has sparked expectations of a broad market recovery after a six-year property slump across the country, according to brokers. But analysts said such homes represented just a small portion of the mainland’s property industry, with increasing sales and higher prices not enough to turn the...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364224/uss-lincoln-leaders-making-mental-health-priority-during-long-deployment-us-commander?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:00:29.000Z",
+      "summary": "A top US military commander said mental health was a valid concern after meeting crew deployed on the USS Abraham Lincoln, where conditions aboard the aircraft carrier have led to complaints during its long deployment in the Iran war. Admiral Brad Cooper’s visit to the carrier in the Arabian Sea followed outrage among family members about reports of food shortages, water contamination, mouldy showers and long shifts in wartime aboard the vessel, which has been deployed without a port call for...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
-          "publishedAt": "2026-08-16T01:00:11.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364224/uss-lincoln-leaders-making-mental-health-priority-during-long-deployment-us-commander?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:00:29.000Z"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-16T21:04:27.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "war",
+        "军事"
+      ],
+      "fingerprint": "5abe28be63fd6349b759ab2a",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d08e4584836e60dc",
+      "title": "How has John Lee’s promise of a ‘new chapter’ for Hong Kong held up?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364074/how-has-john-lees-promise-new-chapter-hong-kong-held?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:30:06.000Z",
+      "summary": "It made perfect sense for Hong Kong Chief Executive John Lee Ka-chiu to hold public consultations on both the city’s first five-year plan and the last policy address of his current term at the same time. Many have been putting forward views that warrant serious consideration. It is clear that Lee needs to be bolder when it comes to the “new chapter” he promised in 2022 when he was elected. The Northern Metropolis is only one part of the city’s transformation; his coming policy address must lay...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364074/how-has-john-lees-promise-new-chapter-hong-kong-held?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:30:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "191cb67c7342ff931d0d5ec5",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "0b4ef475217f3658",
+      "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+      "publishedAt": "2026-08-17T01:28:13.000Z",
+      "summary": "UN Special Rapporteur Albanese warns that Israel is 'using settlers to advance ethnic cleansing' in the West Bank.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+          "publishedAt": "2026-08-17T01:28:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "金融",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "67737cc6263903bc50c1fcf5",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "26ac7b88e221fb2b",
+      "title": "Magnitude 5.9 aftershock strikes Indonesia’s Flores as quake death toll rises to 53",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364225/magnitude-59-aftershock-strikes-indonesias-flores-quake-death-toll-rises-53?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:29:01.000Z",
+      "summary": "⁠An ⁠earthquake of magnitude ‌5.9 struck Indonesia’s Flores region ⁠on Monday, the ‌German Research ‌Centre for Geosciences ⁠said, ⁠hitting ‌at a ‌depth ‌of ‌10km (six miles). The aftershock comes two days after a magnitude 7.7 quake shook six regencies on Flores, a predominantly Catholic island in the Muslim-majority country. Rescue teams in eastern Indonesia recovered six more bodies on Sunday, raising the death toll to 53, authorities said, as many of the thousands of displaced people spent...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364225/magnitude-59-aftershock-strikes-indonesias-flores-quake-death-toll-rises-53?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:29:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "595fd096b49a36e8677f8133",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "c5e1e17987eab0d2",
+      "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "publishedAt": "2026-08-17T00:19:53.000Z",
+      "summary": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+          "publishedAt": "2026-08-17T00:19:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "war",
+        "军事"
+      ],
+      "fingerprint": "cc6b9d86b5d17424080c59b6",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "0029529c74e3d50e",
+      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+      "publishedAt": "2026-08-16T20:55:19.000Z",
+      "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+          "publishedAt": "2026-08-16T20:55:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "9168dd7fd283132f17f97024",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "3e3db4d86128979c",
+      "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+      "publishedAt": "2026-08-16T23:58:34.000Z",
+      "summary": "Far-right National Security Minister Ben-Gvir sits on Israel's security cabinet, which helps shape war and policy.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+          "publishedAt": "2026-08-16T23:58:34.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "80e4703e316f9148e7e96df0",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "f6406ece2f06ea6c",
+      "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+      "publishedAt": "2026-08-16T19:29:31.000Z",
+      "summary": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+          "publishedAt": "2026-08-16T19:29:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "07e49432e29222e286f3c0c7",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "9834a23f9ba76f2f",
+      "title": "At least six people dead from days of storms and record flooding in Indiana",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
+      "publishedAt": "2026-08-16T19:27:22.000Z",
+      "summary": "Four-year-old boy, two men and three women among those who died since storms began on 11 August, officials say Days of storms and flooding in Indiana left at least six people dead as flood waters peaked in Indianapolis’s White River – and rains were expected to ease in the state capital region and other parts of the state on Sunday. A four-year-old boy, two men and three women were among those who had died since the storms began on 11 August, state homeland security department spokesperson Liz Woods said. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
+          "publishedAt": "2026-08-16T19:27:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "88e15afbb146c20d8c3a465b",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "20cfa26d02e62aaf",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T19:03:04.000Z",
+      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-16T19:03:04.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "1b1db0523acedc08cb34aa9f",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "32599ec3ac1b2a40",
+      "title": "China dark tourism on the rise as adventurers brave simulated disasters at experience centres",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/environment/article/3364197/china-dark-tourism-rise-adventurers-brave-simulated-disasters-experience-centres?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:00:17.000Z",
+      "summary": "As dark tourism gains traction, some Chinese youth are embracing a related form of experiential travel, paying to confront simulated typhoons, floods, and other disasters while acquiring survival skills. Also referred to as grief tourism, dark tourism involves visiting sites linked to death, catastrophe, and human suffering. Its origins trace back centuries, including connections to 17th century Britain, where public executions often attracted large crowds. This phenomenon has surged across Asia...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/environment/article/3364197/china-dark-tourism-rise-adventurers-brave-simulated-disasters-experience-centres?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "环境",
+        "公共安全"
+      ],
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2f9ab26444f4fb9398cd0232",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "b876a93c562d4f08",
+      "title": "Hong Kong firm bets on Chinese open-weight models to rival CoreWeave",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+      "publishedAt": "2026-08-17T01:00:13.000Z",
+      "summary": "The rise of Chinese open-weight models has shaken up the global artificial intelligence (AI) market in recent months. With China’s systems offering high performance at a lower cost, businesses around the world are looking at shifting away from Silicon Valley’s leading providers. Now, a new Hong Kong-based company aims to turn that trend into a billion-dollar business. The “neo-cloud” provider Antimatter is helping firms switch from the dominant US models – and the cloud systems that serve them –...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+          "publishedAt": "2026-08-17T01:00:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1107,17 +1775,14 @@
       "tags": [
         "中国重点",
         "金融",
-        "专题·全球经济与金融"
+        "科技"
       ],
-      "score": 70,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "market",
-        "金融"
-      ],
-      "fingerprint": "0f55e95e42f28a22e4599f8a",
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9f68bce4ba9c936efe4e76cb",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1126,40 +1791,80 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "2126051bf7ad3864",
-      "title": "US readies Iran penalties as Trump downplays midterms impact",
+      "id": "30ddde046b8c2014",
+      "title": "US-China tech war is coming for AI’s plumbing",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364150/us-readies-iran-penalties-trump-downplays-midterms-impact?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T10:59:08.000Z",
-      "summary": "The US is readying unprecedented economic measures against Iran, as President Donald Trump seeks to intensify efforts to force Tehran to capitulate after almost six months of war. The president said in a brief interview with Fox News that the US was planning to hit Iran’s economy hard, and that he did not care if the conflict were to end before the November US midterm elections, which would hinge on voter perceptions of the economy. Trump has struggled to find an off-ramp to the war, which has...",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3363884/us-china-tech-war-coming-ais-plumbing?utm_source=rss_feed",
+      "publishedAt": "2026-08-16T12:30:07.000Z",
+      "summary": "The US Federal Communications Commission (FCC) is reportedly considering a ban on Chinese optical transceivers, signalling that the US-China tech war is expanding beyond the focus on semiconductor chips to shadow even the smallest link in the chain of essential artificial intelligence (AI) hardware. Optical transceivers are small devices that use fibre optic technology to send and receive data as light. The key application of these optical modules is the quick transmission of large amounts of...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364150/us-readies-iran-penalties-trump-downplays-midterms-impact?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T10:59:08.000Z"
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3363884/us-china-tech-war-coming-ais-plumbing?utm_source=rss_feed",
+          "publishedAt": "2026-08-16T12:30:07.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "经济",
+        "中国重点",
         "军事与安全",
-        "专题·全球经济与金融"
+        "科技",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "d0ed21c729602b6b834a213d",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d8c1184eee136fa4",
+      "title": "500 PLA summer camp cadets battle heat as they step out of their comfort zone",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3364196/500-pla-summer-camp-cadets-battle-heat-they-step-out-their-comfort-zone?utm_source=rss_feed",
+      "publishedAt": "2026-08-16T11:34:20.000Z",
+      "summary": "Wilson Hui Chau-yuen, a 22-year-old final-year student at Hong Kong Metropolitan University, recalls that the scorching heat was the biggest enemy during an annual two-week summer camp organised by the People’s Liberation Army (PLA) garrison. “Even on the city’s hottest day, our training continued without pause including martial arts, bayonet practice and marching drills,” Hui said on Sunday, adding that he hoped to join Hong Kong’s disciplined services in the future. The Hong Kong Observatory...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3364196/500-pla-summer-camp-cadets-battle-heat-they-step-out-their-comfort-zone?utm_source=rss_feed",
+          "publishedAt": "2026-08-16T11:34:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
       "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "economy",
-        "经济"
+        "军事"
       ],
-      "fingerprint": "fcb93e12aad5e8c90e29bd27",
+      "fingerprint": "a480ddde344c9c78791955f3",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1168,102 +1873,56 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "517d15913199042e",
-      "title": "Malaysia’s Anwar vows to boost anti-corruption drive after state poll defeats",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364140/malaysias-anwar-vows-boost-anti-corruption-drive-after-state-poll-defeats?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T07:47:07.000Z",
-      "summary": "Malaysian Prime Minister Anwar Ibrahim said he would speed up the pace of reforms and strengthen an anti-corruption drive as he sought to rebuild public support after a string of electoral defeats and party departures. Anwar acknowledged shortcomings by his administration that had led to frustration among Malaysians. While the economy grew 6 per cent last quarter and unemployment was low, Anwar said he “won’t deny” that Malaysians faced higher living costs. “The economic numbers are not winning...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364140/malaysias-anwar-vows-boost-anti-corruption-drive-after-state-poll-defeats?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T07:47:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·全球经济与金融"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "economy",
-        "经济"
-      ],
-      "fingerprint": "3d6d64597295ea3a808057fe",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "cfb16a79e25f834d",
-      "title": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "source": "stock.jrj.com.cn",
-      "url": "https://stock.jrj.com.cn/2026/08/15134658127064.shtml",
-      "publishedAt": "2026-08-15T06:30:00.000Z",
+      "id": "89def8045f4a722a",
+      "title": "美国年轻人更习惯于一个重新崛起的中国 - 华侨网",
+      "source": "chinesepress.com",
+      "url": "https://www.chinesepress.com/2026/195611.html",
+      "publishedAt": "2026-08-16T16:00:00.000Z",
       "summary": "",
       "language": "Chinese",
       "region": "",
       "crossSources": [
         {
-          "source": "stock.jrj.com.cn",
-          "url": "https://stock.jrj.com.cn/2026/08/15134658127064.shtml",
-          "publishedAt": "2026-08-15T06:30:00.000Z"
+          "source": "chinesepress.com",
+          "url": "https://www.chinesepress.com/2026/195611.html",
+          "publishedAt": "2026-08-16T16:00:00.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "经济",
-        "专题·全球经济与金融"
+        "中国重点",
+        "美国重点"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济",
-        "通胀"
-      ],
-      "fingerprint": "beb88c3f823773b5e1c00063",
+      "score": 53,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "fe2a544cffe4fa45b026d90b",
       "isContinuation": false,
-      "titleZh": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "summaryZh": "一周热榜精选 ： 美联储加息预期骤降 ， 通胀降温为何救不了长债 ？",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "titleZh": "美国年轻人更习惯于一个重新崛起的中国 - 华侨网",
+      "summaryZh": "美国年轻人更习惯于一个重新崛起的中国 - 华侨网",
+      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
       "summaryMode": "rule",
       "translationStatus": "original-chinese"
     },
     {
-      "id": "941d65cb38ccff45",
-      "title": "News live: PM warns Australia has more guns than at time of Port Arthur massacre; Erin Patterson’s appeal to start this week",
+      "id": "feecbf4e94766c1f",
+      "title": "The PM called Sally McManus a giant of the labour movement. Now she just wants to go birding",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
-      "publishedAt": "2026-08-16T01:02:09.000Z",
-      "summary": "Anthony Albanese invites all states to join gun buyback scheme launched in federal funding deal with NSW. Follow live updates Get our breaking news email, free app or daily news podcast Anthony Albanese has just been speaking alongside the New South Wales premier, Chris Minns, about the state’s gun buyback scheme agreed in response to the Bondi terror attack. The prime minister said: Australians are quite rightly proud of our gun laws but the fact is there are more guns in Australia today than there were at the time of dealing with the Port Arthur gun buyback that occurred under the Howard government. These arrangements are available to every state and territory, and this reform comes on top of previous reforms that have been undertaken by my government in partnership with states and territories in particular the first ever development of a national firearms register. In some ways, I feel that you should give them their money now, and let them help them with the cost of living. It is their money; they’ve they’ve sacrificed it in lieu of pay. So, in a lot of cases, people want it. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
+      "publishedAt": "2026-08-16T15:00:28.000Z",
+      "summary": "After securing wage rises for low-paid workers, weathering death threats and working with three PMs – the ACTU secretary is ready for a break Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Sally McManus started her job as the country’s most powerful trade union leader amid howls of criticism. Shouted down for suggesting union members were right to break “unjust” industrial laws in a live TV interview, McManus quickly adjusted to the high-decibel work of being secretary of the Australian Council of Trade Unions. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
-          "publishedAt": "2026-08-16T01:02:09.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
+          "publishedAt": "2026-08-16T15:00:28.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1273,72 +1932,80 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "经济",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 66,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ce7ae197338acdd69550ea8b",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "afff6d025d452d6dd3a17c44",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "4e5488cf69f459ab",
-      "title": "Army drops roses on Syrian crowds in a far cry from war",
+      "id": "a2c255216d6af0f8",
+      "title": "Australian foreign minister defends multiculturalism, attacks far-right",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3364204/australian-foreign-minister-defends-multiculturalism-attacks-far-right?utm_source=rss_feed",
+      "publishedAt": "2026-08-16T12:53:59.000Z",
+      "summary": "Australia’s foreign minister attacked the policies of the far-right One Nation party, arguing that its call for a monoculture would damage social cohesion at home and relations with friends and allies abroad. “The call for a monoculture is a call for Australia to curtail our choices and cut off our connections,” Foreign Minister Penny Wong said in a speech on Friday in Sydney. “At a time where external and internal forces are seeking to divide us, turning Australians against each other makes us...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/australasia/article/3364204/australian-foreign-minister-defends-multiculturalism-attacks-far-right?utm_source=rss_feed",
+          "publishedAt": "2026-08-16T12:53:59.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "外交",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "439dffaa8b78c68eedb5e3b0",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "8889f37e92f730b3",
+      "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-      "publishedAt": "2026-08-16T00:50:12.000Z",
-      "summary": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+      "publishedAt": "2026-08-17T00:11:18.000Z",
+      "summary": "US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-          "publishedAt": "2026-08-16T00:50:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a2d0a7ea6099344fb840c524",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "540f1b918a28f098",
-      "title": "Iran urges Qatar to release pilots shot down in Middle East war",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364164/iran-urges-qatar-release-pilots-shot-down-middle-east-war?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T18:44:35.000Z",
-      "summary": "Iranian authorities revealed on Saturday that three of Tehran’s pilots who went down early in the Middle East war were still being held in Qatar, calling on the Gulf state to release them. Iran had previously reported one pilot killed and others missing after a sortie to Qatar in March, but news of their alleged capture was not publicised at the time. “Three Iranian pilots were captured alive by Qatari forces after their Su-24 fighter jets crashed during the war,” said General Mohammad...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364164/iran-urges-qatar-release-pilots-shot-down-middle-east-war?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T18:44:35.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+          "publishedAt": "2026-08-17T00:11:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1348,14 +2015,17 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "19e24d7977db4282a626026d",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "军事"
+      ],
+      "fingerprint": "2888ca0c395fa2a2780c0f33",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1364,19 +2034,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "e5ae694f21ff6ecd",
-      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "publishedAt": "2026-08-15T18:08:21.000Z",
-      "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta, causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to ⁠reach European soil. Continue reading...",
+      "id": "41ad035fedbc7145",
+      "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+      "publishedAt": "2026-08-17T00:00:35.000Z",
+      "summary": "Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-          "publishedAt": "2026-08-15T18:08:21.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+          "publishedAt": "2026-08-17T00:00:35.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1386,14 +2056,17 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "能源"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "efba939379a1791571c78029",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "39b0bab148777d46142fcc9b",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1402,56 +2075,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "b7a12ddf7f72656b",
-      "title": "Israeli air strikes on Lebanon kill 11 people in another test to truce",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364163/israeli-air-strikes-lebanon-kill-11-people-another-test-truce?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T18:15:51.000Z",
-      "summary": "Israeli air strikes on southern Lebanon killed at least 11 people on Saturday, in the deadliest attacks since a truce between Israel and Hezbollah went into effect on June 20. Lebanon’s health ministry and state news agency said an air strike that targeted a home on the edge of Ansar village killed seven people, including three children, and wounded two. The second, on the village of Deir al-Zahrani, killed four and wounded 17. Israel and the Lebanese government announced a “framework agreement”...",
-      "language": "",
-      "region": "china",
+      "id": "4a509a7f2dcf9e43",
+      "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+      "source": "DW",
+      "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-16T17:31:00.000Z",
+      "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
+      "language": "en",
+      "region": "europe",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364163/israeli-air-strikes-lebanon-kill-11-people-another-test-truce?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T18:15:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "314149b2e43162daf37798d3",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "ad598e03ec24f8d7",
-      "title": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
-      "publishedAt": "2026-08-15T04:58:20.000Z",
-      "summary": "Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in April Warning: This story contains references to Indigenous Australians who have died Get our breaking news email, free app or daily news podcast A sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Springs community and surrounds. Wearing pink and some dressed in T-shirts bearing the face of the five-year-old girl, the crowd gathered under grey skies in the red centre capital on Saturday. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
-          "publishedAt": "2026-08-15T04:58:20.000Z"
+          "source": "DW",
+          "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-16T17:31:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1461,495 +2097,17 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f1f0071985c04d94325cb023",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "5c9408dbb7929b1c",
-      "title": "Israel Justified Its Wars by Calling Enemies Crazy . Now , the Warning Signs All Apply to Israel .",
-      "source": "theintercept.com",
-      "url": "https://theintercept.com/2026/08/13/israel-palestine-benjamin-netanyahu-likud-crazy/",
-      "publishedAt": "2026-08-16T01:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "theintercept.com",
-          "url": "https://theintercept.com/2026/08/13/israel-palestine-benjamin-netanyahu-likud-crazy/",
-          "publishedAt": "2026-08-16T01:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b405ac76157cf5ad81688a29",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "ca01092fef56edf4",
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T21:03:57.000Z",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-15T21:03:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1d61439b12bb1407b9cdde7f",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "6d7601b82c1f8d8e",
-      "title": "Hong Kong’s growing wealth inequality: will it be an M- or olive-shaped society?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3364159/hong-kongs-growing-wealth-inequality-will-it-be-m-or-olive-shaped-society?utm_source=rss_feed",
-      "publishedAt": "2026-08-16T01:00:17.000Z",
-      "summary": "An ageing society and a widening income gap threaten Hong Kong’s social fabric. In the last of a five-part series on the city’s five-year plan, we look at what can be done to address these key issues. Read part one here, part two here, part three here and part four here. At 71, Man Chi-ying is the sole carer for her husband, Fung Yu-hoi, a Parkinson’s disease patient. Fung, who is also 71, has stiff limbs and, on some days, needs his wife’s help getting dressed. She has to hold his hand to keep...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3364159/hong-kongs-growing-wealth-inequality-will-it-be-m-or-olive-shaped-society?utm_source=rss_feed",
-          "publishedAt": "2026-08-16T01:00:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "97c28f79aa3f045d463a54ba",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "e90dd55f5275f662",
-      "title": "美国年轻人更习惯于一个重新崛起的中国 _ 凤凰网",
-      "source": "news.ifeng.com",
-      "url": "https://news.ifeng.com/c/8vd4dxNIksx",
-      "publishedAt": "2026-08-16T01:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "news.ifeng.com",
-          "url": "https://news.ifeng.com/c/8vd4dxNIksx",
-          "publishedAt": "2026-08-16T01:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点"
-      ],
-      "score": 61,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "28151d4a866ddb444fbdc69d",
-      "isContinuation": false,
-      "titleZh": "美国年轻人更习惯于一个重新崛起的中国 _ 凤凰网",
-      "summaryZh": "美国年轻人更习惯于一个重新崛起的中国 _ 凤凰网",
-      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "d8bbd62d89b4010a",
-      "title": "在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩 纪念江泽民同志诞辰100周年 新京报",
-      "source": "bjnews.com.cn",
-      "url": "https://www.bjnews.com.cn/detail/1786836775129012.html",
-      "publishedAt": "2026-08-16T01:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "bjnews.com.cn",
-          "url": "https://www.bjnews.com.cn/detail/1786836775129012.html",
-          "publishedAt": "2026-08-16T01:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9214068144278581717428b3",
-      "isContinuation": false,
-      "titleZh": "在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩 纪念江泽民同志诞辰100周年 新京报",
-      "summaryZh": "在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩 纪念江泽民同志诞辰100周年 新京报",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "2074fd195209ec00",
-      "title": "China’s 1MW perovskite solar farm beats silicon system in industrial-scale test",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3364155/chinas-1mw-perovskite-solar-farm-beats-silicon-system-industrial-scale-test?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T22:00:10.000Z",
-      "summary": "A China-led team has cleared the last major hurdle in the race to commercialise the most promising alternative to conventional silicon solar technology, paving the way for the next generation of low-cost, high-efficiency panels to be made on an industrial scale. Researchers from China and Canada, led by Nanjing University, have developed a super-stable coating for perovskite – an ultra-thin, lightweight material that can be printed onto large surfaces – suitable for patching the tiny defects...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3364155/chinas-1mw-perovskite-solar-farm-beats-silicon-system-industrial-scale-test?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T22:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "669a5c82aa738c066c3cfc23",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "14d9d986490e2bc6",
-      "title": "美国年轻人更习惯中国崛起 - 华侨网",
-      "source": "chinesepress.com",
-      "url": "https://www.chinesepress.com/2026/195265.html",
-      "publishedAt": "2026-08-15T16:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "chinesepress.com",
-          "url": "https://www.chinesepress.com/2026/195265.html",
-          "publishedAt": "2026-08-15T16:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9ab7409cea9c7e973b6e381b",
-      "isContinuation": false,
-      "titleZh": "美国年轻人更习惯中国崛起 - 华侨网",
-      "summaryZh": "美国年轻人更习惯中国崛起 - 华侨网",
-      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "7d832791ed56127c",
-      "title": "Zhu Rongji’s death a reminder of what US-China relations have lost",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3364032/zhu-rongjis-death-reminder-what-us-china-relations-have-lost?utm_source=rss_feed",
-      "publishedAt": "2026-08-15T12:30:06.000Z",
-      "summary": "With the death of former Chinese premier Zhu Rongji, both China and the wider world have lost a great leader. Zhu took personal risks for better US-China ties. He believed that productive Sino-American relations were good for China and for the world. He was a global leader before China had achieved its current great power status. In mid-1990, when I was president of the National Committee on United States-China Relations, our organisation invited Zhu, then Shanghai mayor, to the United States....",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3364032/zhu-rongjis-death-reminder-what-us-china-relations-have-lost?utm_source=rss_feed",
-          "publishedAt": "2026-08-15T12:30:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "科技"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e52a0ed71b57747faf796a0e",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "36f91698b7f75572",
-      "title": "马科斯 ： 台海若有事 ， 不允许美国从菲律宾领土发动攻击 - 华侨网",
-      "source": "chinesepress.com",
-      "url": "https://www.chinesepress.com/2026/195248.html",
-      "publishedAt": "2026-08-15T16:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "chinesepress.com",
-          "url": "https://www.chinesepress.com/2026/195248.html",
-          "publishedAt": "2026-08-15T16:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 47,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "be0af2d7e6f66e8bbf786655",
-      "isContinuation": false,
-      "titleZh": "马科斯 ： 台海若有事 ， 不允许美国从菲律宾领土发动攻击 - 华侨网",
-      "summaryZh": "马科斯 ： 台海若有事 ， 不允许美国从菲律宾领土发动攻击 - 华侨网",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "b033beab57535d4b",
-      "title": "美国年轻人更习惯中国崛起 _ 凤凰网",
-      "source": "news.ifeng.com",
-      "url": "https://news.ifeng.com/c/8vbn3IdIqL6",
-      "publishedAt": "2026-08-15T07:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "news.ifeng.com",
-          "url": "https://news.ifeng.com/c/8vbn3IdIqL6",
-          "publishedAt": "2026-08-15T07:15:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点"
-      ],
-      "score": 46,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4f199cb81aaa469d237f2faf",
-      "isContinuation": false,
-      "titleZh": "美国年轻人更习惯中国崛起 _ 凤凰网",
-      "summaryZh": "美国年轻人更习惯中国崛起 _ 凤凰网",
-      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "24de7e2006a1d815",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T20:58:31.000Z",
-      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-15T20:58:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "67740e4301e707995b8b1f50",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "6f3014430eabbd46",
-      "title": "Lebanon says 11 killed in Israeli airstrikes",
-      "source": "DW",
-      "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-15T15:35:00.000Z",
-      "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-15T15:35:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "ceasefire",
         "突发"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3d38c386e605532a10f6bf9e",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "415eeab89b1cf3ed",
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "publishedAt": "2026-08-15T15:34:38.000Z",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-          "publishedAt": "2026-08-15T15:34:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "04e3750154547d78d2d410ae",
+      "fingerprint": "29334c41940b4d94bc8f51cb",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
