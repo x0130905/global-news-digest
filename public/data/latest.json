@@ -1,82 +1,44 @@
 {
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T01:49:32.422Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T01:51:55.612Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "technology-energy",
-    "name": "科技、能源与产业",
-    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
-    "query": "technology artificial intelligence semiconductor energy industry",
+    "slug": "climate-safety",
+    "name": "气候、环境与公共安全",
+    "description": "追踪极端天气、灾害、公共卫生与环境政策",
+    "query": "climate environment disaster public safety health emergency",
     "keywords": [
-      "technology",
-      "artificial intelligence",
-      "semiconductor",
-      "space",
-      "energy",
-      "科技",
-      "人工智能",
-      "芯片",
-      "太空",
-      "能源"
+      "climate",
+      "environment",
+      "wildfire",
+      "flood",
+      "disaster",
+      "health emergency",
+      "气候",
+      "环境",
+      "山火",
+      "洪水",
+      "灾害",
+      "公共安全"
     ],
-    "accent": "#06b6d4"
+    "accent": "#84cc16"
   },
-  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“气候、环境与公共安全”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "3ec0039d2f4247af",
-      "title": "Chinese workers turn bosses into virtual pets for stress relief amid rising quirky trend",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3364350/chinese-workers-turn-bosses-virtual-pets-stress-relief-amid-rising-quirky-trend?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T01:00:32.000Z",
-      "summary": "AI desktop pets are gaining popularity in China, offering young workers an outlet for workplace frustration and providing bereaved owners with a digital means to preserve memories of their deceased pets. Virtual pets first emerged on messaging platforms in the early 2000s, roaming across screens and interacting with users as they browsed the web, chatted, or watched videos. Advancements in AI are evolving virtual pets from simple digital novelties into more responsive forms of emotional...",
+      "id": "cf782e9b25bbfe2a",
+      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3364350/chinese-workers-turn-bosses-virtual-pets-stress-relief-amid-rising-quirky-trend?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T01:00:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 63,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "96822dfae10c325c4aba0665",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "3d59dd4b8d151f84",
-      "title": "Will Russia’s plan for overland oil route be ‘game changer’ for India’s energy security?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3364323/will-russias-plan-overland-oil-route-be-game-changer-indias-energy-security?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T12:11:31.000Z",
-      "summary": "Russia is looking into a solution for a problem that has become hard for India to ignore: how to keep oil and other strategic goods moving when sanctions, war and maritime chokepoints threaten the world’s busiest energy routes. Moscow’s proposal for a direct rail link to India through Central and South Asia remains exploratory, but analysts say it points to a wider scramble by major powers to build trade corridors beyond the reach of the Strait of Hormuz, the Bosphorus and Western pressure. The...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3364323/will-russias-plan-overland-oil-route-be-game-changer-indias-energy-security?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T12:11:31.000Z"
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+          "publishedAt": "2026-08-18T12:00:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -85,21 +47,20 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "外交",
-        "经济",
         "军事与安全",
         "能源",
-        "专题·科技、能源与产业"
+        "环境",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": true,
       "topicKeywords": [
-        "energy",
-        "能源"
+        "environment",
+        "环境"
       ],
-      "fingerprint": "af6b3933aa49cc3f2101873f",
+      "fingerprint": "f249319ef2c6edee5997c70e",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -108,19 +69,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "5a29121eb092d8f3",
-      "title": "Taiwan teams up with US start-up on underwater drones to boost island’s defences",
+      "id": "7e762c11b438b083",
+      "title": "Chinese doctors get double-thigh amputee to walk again in world first",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3364328/taiwan-teams-us-start-underwater-drones-boost-islands-defences?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T13:04:02.000Z",
-      "summary": "Taiwan has signed a deal with US defence start-up Vatn Systems to develop autonomous underwater vehicles and strengthen its asymmetric warfare capabilities amid growing military pressure from Beijing. Executed through the National Chung-Shan Institute of Science and Technology (NCSIST) – Taiwan’s government-funded top weapons developer – the agreement marks the latest in a series of moves to expand the island’s unmanned underwater capabilities. Under the memorandum of understanding signed last...",
+      "url": "https://www.scmp.com/news/china/science/article/3364442/chinese-doctors-get-double-thigh-amputee-walk-again-world-first?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T13:00:11.000Z",
+      "summary": "Chinese surgeons have enabled a man to walk again after an accident severed both his legs at the thigh, marking a rare success for advanced reconstructive procedures. After nearly 20 months of intensive post-operative recovery, the patient is reportedly able to walk indoors with a frame and manage most daily tasks unassisted. Crucially, sensation has returned to his lower legs down to his ankles. The double-thigh replantation, performed at an orthopaedic hospital in eastern China, is a global...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3364328/taiwan-teams-us-start-underwater-drones-boost-islands-defences?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T13:04:02.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3364442/chinese-doctors-get-double-thigh-amputee-walk-again-world-first?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T13:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -129,125 +90,40 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "440d813a11d2b0241b6c5a71",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "1ed8342e5c1bbbd3",
-      "title": "Alibaba sells gaming arm Lingxi Games as tech giant sharpens focus on AI and e-commerce",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T10:00:11.000Z",
-      "summary": "Alibaba Group Holding has agreed to sell its wholly owned gaming business Lingxi Games to Trustar Capital as the Chinese technology giant pivots away from noncore sectors to prioritise e-commerce and artificial intelligence, according to an internal letter issued on Monday. “As part of Alibaba’s broader strategy to sharpen its focus, the group has decided to entrust Lingxi to Trustar Capital,” stated the letter seen by the South China Morning Post and signed by Lingxi CEO Zhou Bingshu. The...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T10:00:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "国际组织",
-        "专题·科技、能源与产业"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "artificial intelligence",
-        "科技"
-      ],
-      "fingerprint": "a3ecc35e76c4128e78045760",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "778c09ba0ca2066e",
-      "title": "Wall Street indexes slip as oil prices rise , retail results awaited",
-      "source": "straitstimes.com",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-indexes-slip-as-oil-prices-rise-retail-results-awaited",
-      "publishedAt": "2026-08-17T22:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "straitstimes.com",
-          "url": "https://www.straitstimes.com/business/companies-markets/wall-street-indexes-slip-as-oil-prices-rise-retail-results-awaited",
-          "publishedAt": "2026-08-17T22:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源",
-        "专题·科技、能源与产业"
+        "公共安全",
+        "专题·气候、环境与公共安全"
       ],
       "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": true,
       "topicKeywords": [
-        "能源"
+        "公共安全"
       ],
-      "fingerprint": "7bedfb88d401b5a40b67de13",
+      "fingerprint": "909054c474841640bf23377f",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     }
   ],
   "global": [
     {
-      "id": "4d3c4e97e696ad94",
-      "title": "Australia politics live: Labor and Coalition finalise deals on gambling reform and closing ‘widow tax’ negative gearing loophole",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "publishedAt": "2026-08-18T01:39:31.000Z",
-      "summary": "Government MPs agree to more than a dozen amendments made with the Coalition. Follow today’s news live Get our breaking news email, free app or daily news podcast Chalmers calls gambling amendments ‘very substantial changes’ Treasurer Jim Chalmers says the opt-out register on gambling advertising will be revenue neutral, because the gambling industry will have to cover the costs. These changes that we’re proposing are very substantial changes. And they will make it much easier for people to opt out of this advertising. At the same time, as we make it easier for the regulator to enforce the rules around inducements. I understand people’s concern about inducements. And the minister and the government does as well. I think primarily there’s an important role for the regulator to crack down on and enforce these inducements. There’s absolutely no doubt that the implementation of the reforms has made everything worse for older Australians … the government’s got a lot to do to fix the implementation of these once-in-a-generation reforms that should have and could have and still can be what they were intended to be, but they just aren’t being rolled out like that. If the automation that we",
+      "id": "e714b273259783ad",
+      "title": "US, South Korea slash joint military drills by half as Trump eyes Kim summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3364494/us-south-korea-slash-joint-military-drills-half-trump-eyes-kim-summit?utm_source=rss_feed",
+      "publishedAt": "2026-08-19T01:03:39.000Z",
+      "summary": "Scheduled joint US and South Korean military drills are expected to be cut by about half, according to South Korean media on Wednesday, following ‌President Donald Trump’s order to substantially reduce US participation in the annual exercises. The Ulchi Freedom Shield exercise, which began on Monday, had been due to run into next week. The allies were set to complete the first, defensive phase of the exercise this week and cancel or defer a second phase involving counter-attack operations,...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-          "publishedAt": "2026-08-18T01:39:31.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3364494/us-south-korea-slash-joint-military-drills-half-trump-eyes-kim-summit?utm_source=rss_feed",
+          "publishedAt": "2026-08-19T01:03:39.000Z"
         }
       ],
       "sourceCount": 1,
@@ -256,14 +132,106 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "突发",
+        "外交",
+        "军事与安全"
       ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 71,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b379eafcde795bd621a35c25",
+      "fingerprint": "672ee9e9f47d5136db1e7046",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "37a5b8fbe11d21d7",
+      "title": "‘Prepare early’: bushfire authorities sound alarm for NT, NSW and Queensland",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland",
+      "publishedAt": "2026-08-19T01:00:01.000Z",
+      "summary": "Effects of global heating in NT worsened by ‘dangerous and fire-promoting buffel grass’, expert says Get our breaking news email, free app or daily news podcast Fire authorities have warned large parts of the Northern Territory are facing heightened fire danger throughout spring, with above average fuel loads leaving much of the territory vulnerable. Low soil moisture has also led to elevated fire risk for parts of New South Wales, including some areas that were badly burned during the black summer fires, and south-east Queensland as an El Niño system continues to strengthen in the country’s south-east. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland",
+          "publishedAt": "2026-08-19T01:00:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 71,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "74b4f3587a5d4c58f1fa268a",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "102e4d8164fc14d0",
+      "title": "Editorial DV : Trump expande el desorden",
+      "source": "diariovasco.com",
+      "url": "https://www.diariovasco.com/opinion/trump-expande-desorden-20260819203211-nt.html",
+      "publishedAt": "2026-08-19T00:45:00.000Z",
+      "summary": "",
+      "language": "Spanish",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "diariovasco.com",
+          "url": "https://www.diariovasco.com/opinion/trump-expande-desorden-20260819203211-nt.html",
+          "publishedAt": "2026-08-19T00:45:00.000Z"
+        },
+        {
+          "source": "diariosur.es",
+          "url": "https://www.diariosur.es/opinion/trump-expande-desorden-20260819000859-nt.html",
+          "publishedAt": "2026-08-19T00:15:00.000Z"
+        },
+        {
+          "source": "elcorreo.com",
+          "url": "https://www.elcorreo.com/opinion/editoriales/editorial-trump-expande-desorden-20260819000109-nt.html",
+          "publishedAt": "2026-08-18T22:45:00.000Z"
+        },
+        {
+          "source": "laverdad.es",
+          "url": "https://www.laverdad.es/opinion/editoriales/la-verdad-trump-expande-desorden-20260819230823-nt.html",
+          "publishedAt": "2026-08-18T21:45:00.000Z"
+        }
+      ],
+      "sourceCount": 4,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 63,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a2ad74214b876fb09f8448ff",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -272,24 +240,102 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "b620f6564987a7cf",
-      "title": "Vigil held in central London for late Cambridge professor Jason Arday",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-      "publishedAt": "2026-08-18T01:26:31.000Z",
-      "summary": "Thousands of people gathered in central London late on Monday to hold a vigil for black academic Jason Arday, blaming racism and relentless media pressure for his death last week. The vigil in central Trafalgar Square came as the head of Cambridge University on Monday condemned a “racist feeding frenzy” prompted by plagiarism claims against Arday. Arday, who became Cambridge’s youngest black professor when he was appointed in 2023, was found dead on Friday aged 41, after mounting accusations he...",
+      "id": "11a0a1b204bc28af",
+      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
+      "publishedAt": "2026-08-19T01:42:02.000Z",
+      "summary": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Get our breaking news email, free app or daily news podcast Limited accomodation during sequestering ‘issues of convenience’, Patterson’s barrister says Kidd says Patterson’s case must be considered in the context of other cases where jurors had unsupervised access to “outsiders”. He says in this case the jurors were under the supervision of the jury-keeper at all times. They are not, in our submission, a principled response. If there has been no breach, then where’s the fundamental irregularity? There’s no evidence that that’s occurred here. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-          "publishedAt": "2026-08-18T01:26:31.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
+          "publishedAt": "2026-08-19T01:42:02.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "持续关注"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6918107e7104def29314396c",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "11c4437907824171",
+      "title": "阿联酋监测到两枚从伊朗发射的导弹 ， 阿官员称阿已暂停与伊朗贸易金融往来 - CFi . CN 中财网",
+      "source": "cfi.net.cn",
+      "url": "http://www.cfi.net.cn/p20260819000130.html",
+      "publishedAt": "2026-08-19T00:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "cfi.net.cn",
+          "url": "http://www.cfi.net.cn/p20260819000130.html",
+          "publishedAt": "2026-08-19T00:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "军事与安全"
+      ],
+      "score": 61,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5f984ffa1bd7462ad4711570",
+      "isContinuation": false,
+      "titleZh": "阿联酋监测到两枚从伊朗发射的导弹 ， 阿官员称阿已暂停与伊朗贸易金融往来 - CFi . CN 中财网",
+      "summaryZh": "阿联酋监测到两枚从伊朗发射的导弹 ， 阿官员称阿已暂停与伊朗贸易金融往来 - CFi . CN 中财网",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "50745e7bec28c4fb",
+      "title": "【 环时深度 】 冲击战后国际秩序 ， 日本军事动作频繁",
+      "source": "hqtime.huanqiu.com",
+      "url": "https://hqtime.huanqiu.com/share/article/4SqqsnAjQ8l",
+      "publishedAt": "2026-08-19T01:15:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "hqtime.huanqiu.com",
+          "url": "https://hqtime.huanqiu.com/share/article/4SqqsnAjQ8l",
+          "publishedAt": "2026-08-19T01:15:00.000Z"
         },
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3364345/thousands-mourn-ex-cambridge-professor-jason-arday-london-vigil?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T20:28:31.000Z"
+          "source": "mil.ifeng.com",
+          "url": "https://mil.ifeng.com/c/8vhyaGkx33e",
+          "publishedAt": "2026-08-19T00:30:00.000Z"
         }
       ],
       "sourceCount": 2,
@@ -298,72 +344,35 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "军事与安全"
       ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1f28e3da238610722a18552b",
+      "fingerprint": "c9a821f62392795a14a3409b",
       "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "titleZh": "【 环时深度 】 冲击战后国际秩序 ， 日本军事动作频繁",
+      "summaryZh": "【 环时深度 】 冲击战后国际秩序 ， 日本军事动作频繁",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
-      "translationStatus": "unavailable"
+      "translationStatus": "original-chinese"
     },
     {
-      "id": "ed3ac93936ade450",
-      "title": "Colombian minister’s Caribbean holiday amid earthquake crisis stokes fury",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/americas/article/3364351/colombian-ministers-caribbean-holiday-amid-earthquake-crisis-stokes-fury?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T01:17:40.000Z",
-      "summary": "Colombia’s new housing minister has come under fire after it emerged that he took his family on a Caribbean holiday while the country was reeling from a devastating earthquake that left thousands homeless. The August 10 earthquake, which killed nearly 300 people in western Colombia, struck just three days after right-wing President Abelardo de la Espriella took office. The 7.4-magnitude tremor was the most powerful in Colombia in nearly half a century. Over the weekend, photos and videos emerged...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3364351/colombian-ministers-caribbean-holiday-amid-earthquake-crisis-stokes-fury?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T01:17:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9fd4342ae41cc997c0d638d9",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "89466f8695888837",
-      "title": "Bondi library removes book How to Sell a Genocide from shelves after complaint",
+      "id": "1779acda6fe02690",
+      "title": "Ten-year-old girl found three days after she was reported missing in Perth suburbs",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb",
-      "publishedAt": "2026-08-18T00:55:38.000Z",
-      "summary": "Author Adam Johnson criticises Waverley council saying ‘reality is often upsetting’ while Palestinian group says libraries should hold ‘challenging’ books Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A Sydney library has removed a book critical of Israel called How to Sell a Genocide, following a complaint reportedly from a survivor of the Bondi beach terror attack. Waverley library at Bondi Junction is in the same council area as Bondi beach. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
+      "publishedAt": "2026-08-18T23:59:56.000Z",
+      "summary": "The young Indigenous girl was found on Tuesday after she was last seen leaving home in Butler on Saturday evening Get our breaking news email, free app or daily news podcast A ten-year-old First Nations girl, reported missing from Perth’s outer northern suburbs on Saturday, has been found. Western Australia police said the girl was found at 7pm on Tuesday, five hours after a press conference appealing for help to find the missing child. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb",
-          "publishedAt": "2026-08-18T00:55:38.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
+          "publishedAt": "2026-08-18T23:59:56.000Z"
         }
       ],
       "sourceCount": 1,
@@ -374,12 +383,12 @@
         "全球焦点",
         "突发"
       ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4fc3bf4b057b460834c2d1b2",
+      "fingerprint": "0887175ca4f9b8f66f2ab846",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -388,19 +397,56 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "3d59dd4b8d151f84",
-      "title": "Will Russia’s plan for overland oil route be ‘game changer’ for India’s energy security?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3364323/will-russias-plan-overland-oil-route-be-game-changer-indias-energy-security?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T12:11:31.000Z",
-      "summary": "Russia is looking into a solution for a problem that has become hard for India to ignore: how to keep oil and other strategic goods moving when sanctions, war and maritime chokepoints threaten the world’s busiest energy routes. Moscow’s proposal for a direct rail link to India through Central and South Asia remains exploratory, but analysts say it points to a wider scramble by major powers to build trade corridors beyond the reach of the Strait of Hormuz, the Bosphorus and Western pressure. The...",
+      "id": "2c8abe1a72a01bf3",
+      "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
+      "publishedAt": "2026-08-18T23:59:43.000Z",
+      "summary": "Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3364323/will-russias-plan-overland-oil-route-be-game-changer-indias-energy-security?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T12:11:31.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
+          "publishedAt": "2026-08-18T23:59:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "95df1ef26e6ac94aa679088d",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "aefe286e08955a39",
+      "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
+      "publishedAt": "2026-08-18T23:01:03.000Z",
+      "summary": "More than 40 charities write to Pat McFadden and review head Alan Milburn over fears of stricter eligibility rules More than 40 of the UK’s leading charities have warned ministers against imposing tougher benefit sanctions or cuts on disabled young people, as the government considers how to encourage more young people into work. The charities raised concerns that an imminent review of young people and work by Alan Milburn could bring in stricter eligibility rules for keeping disability benefits – or remove them altogether – as part of a wider plan to boost flagging youth job rates. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
+          "publishedAt": "2026-08-18T23:01:03.000Z"
         }
       ],
       "sourceCount": 1,
@@ -410,209 +456,57 @@
       "tags": [
         "全球焦点",
         "外交",
-        "经济",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "014d73512501f7ec0caf77d3",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "cf782e9b25bbfe2a",
+      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+          "publishedAt": "2026-08-18T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
         "军事与安全",
         "能源",
-        "专题·科技、能源与产业"
+        "环境",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": true,
       "topicKeywords": [
-        "energy",
-        "能源"
+        "environment",
+        "环境"
       ],
-      "fingerprint": "af6b3933aa49cc3f2101873f",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "f776c45c63ad8adf",
-      "title": "Can Indonesia build on rising EV demand to become a production powerhouse?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3364338/can-indonesia-build-rising-ev-demand-become-production-powerhouse?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T00:00:17.000Z",
-      "summary": "Indonesia’s next electric-vehicle push will test whether President Prabowo Subianto can turn rising demand, nickel wealth and consumer subsidies into an integrated domestic industry that captures more value at home, or merely make imported and locally assembled EVs cheaper to buy. Analysts warn that without stricter local-content rules and stronger links between nickel processing, battery production and vehicle assembly, the incentives risk reinforcing Indonesia’s role as a large EV market...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3364338/can-indonesia-build-rising-ev-demand-become-production-powerhouse?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T00:00:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "金融",
-        "军事与安全"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8b2a37d1071a16a27e259201",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "21a46f661baeadb5",
-      "title": "Explosion reported at school in Afghan capital Kabul",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-      "publishedAt": "2026-08-17T17:30:11.000Z",
-      "summary": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-          "publishedAt": "2026-08-17T17:30:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "公共安全"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "efdfbde7be8b04dcc012a479",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "e266700816ec1d22",
-      "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-      "publishedAt": "2026-08-17T22:26:12.000Z",
-      "summary": "A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-          "publishedAt": "2026-08-17T22:26:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "fcd85c0c1f6d183bb6e46be4",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "1fb2569ef7ebe882",
-      "title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
-      "publishedAt": "2026-08-17T16:41:07.000Z",
-      "summary": "Operator granted UK track access for as many as 20 daily return trains to Paris, Brussels and Amsterdam from 2030 Business live – latest updates Virgin Trains has been granted track access by the rail regulator to enable it to run services between London and Paris, Brussels and Amsterdam from 2030, in a key step towards breaking Eurostar’s monopoly on the cross-Channel passenger route. The Office of Rail and Road (ORR) said it had given approval for Richard Branson’s company to run as many as 20 daily return services using the High Speed 1 line that runs between London St Pancras and the Channel tunnel. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
-          "publishedAt": "2026-08-17T16:41:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "fe40593046c9888a7d574a0a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "01f936d7ed56ea84",
-      "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-      "publishedAt": "2026-08-17T16:01:47.000Z",
-      "summary": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an “unprecedented” crisis, with vegetable and grain growers in particular warning of “catastrophic” harvests. French vegetable production is down by “a very significant extent” compared with previous years, French growers have said, with shortfalls put at 25% for courgettes, 35% for lettuces, 40% for peas, 60% for broccoli and 50% to 100% for artichokes. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-          "publishedAt": "2026-08-17T16:01:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d6f5e257fcb971613ffc892f",
+      "fingerprint": "f249319ef2c6edee5997c70e",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -623,59 +517,19 @@
   ],
   "china": [
     {
-      "id": "3ec0039d2f4247af",
-      "title": "Chinese workers turn bosses into virtual pets for stress relief amid rising quirky trend",
+      "id": "1745e1c97cb5c112",
+      "title": "What does a hit film about the Iraq war say about Chinese views of the world?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3364350/chinese-workers-turn-bosses-virtual-pets-stress-relief-amid-rising-quirky-trend?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T01:00:32.000Z",
-      "summary": "AI desktop pets are gaining popularity in China, offering young workers an outlet for workplace frustration and providing bereaved owners with a digital means to preserve memories of their deceased pets. Virtual pets first emerged on messaging platforms in the early 2000s, roaming across screens and interacting with users as they browsed the web, chatted, or watched videos. Advancements in AI are evolving virtual pets from simple digital novelties into more responsive forms of emotional...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364464/what-does-hit-film-about-iraq-war-say-about-chinese-views-world?utm_source=rss_feed",
+      "publishedAt": "2026-08-19T01:00:08.000Z",
+      "summary": "A new film telling the story of the Iraq war through Chinese eyes marks the latest in a series of soft power initiatives designed to get Beijing’s message across to the wider world. Although Once Upon a Time in the Middle East does not explicitly state the name of the country in question, it is set in the 2000s and features an invasion by American troops. The film’s central character, a Chinese chef named Xu Fu who is working off his debts at the time the war starts, turns his modest restaurant...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3364350/chinese-workers-turn-bosses-virtual-pets-stress-relief-amid-rising-quirky-trend?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T01:00:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 63,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "科技"
-      ],
-      "fingerprint": "96822dfae10c325c4aba0665",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "7c8869bfd260b475",
-      "title": "Pentagon orders 30 US universities to scrutinise ties with Chinese research partners",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/article/3364337/pentagon-orders-30-us-universities-scrutinise-ties-chinese-research-partners?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T15:07:51.000Z",
-      "summary": "The Pentagon has ordered 30 US universities to conduct sweeping audits of their foreign research partnerships, including collaborations with Chinese institutions and organisations associated with former Confucius Institutes, or risk becoming ineligible for future federal funding. The Department of Defence said on Monday that the unnamed universities must review their academic, financial and research relationships with foreign “entities of concern” and determine whether sensitive or...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/article/3364337/pentagon-orders-30-us-universities-scrutinise-ties-chinese-research-partners?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T15:07:51.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3364464/what-does-hit-film-about-iraq-war-say-about-chinese-views-world?utm_source=rss_feed",
+          "publishedAt": "2026-08-19T01:00:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -684,15 +538,284 @@
       "isNoise": false,
       "tags": [
         "中国重点",
+        "美国重点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 73,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "819e507d22bd09315b28d302",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "f2aaa3eadce4a82f",
+      "title": "Hong Kong needs a mission for 2049 to focus its 5-year plans",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363928/hong-kong-needs-mission-2049-focus-its-five-year-plans?utm_source=rss_feed",
+      "publishedAt": "2026-08-19T01:30:09.000Z",
+      "summary": "Hong Kong is formulating its first five-year plan for economic and social development. Such plans are likely to become a regular feature of governance, and will shape how the city allocates land, builds housing and infrastructure, develops industries, trains talent and improves public services. They can also give government departments a common frame for action, rather than leaving them to operate in separate silos. Yet successive five-year plans should do more than set medium-term priorities....",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363928/hong-kong-needs-mission-2049-focus-its-five-year-plans?utm_source=rss_feed",
+          "publishedAt": "2026-08-19T01:30:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c69a0d05b44982f37e3e89a8",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "ff7d2429a768e00e",
+      "title": "中国能 ( 在 ) 挑战美国主导的世界秩序 ? - 博客",
+      "source": "blog.wenxuecity.com",
+      "url": "https://blog.wenxuecity.com/myblog/32384/202608/13816.html",
+      "publishedAt": "2026-08-18T21:30:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "blog.wenxuecity.com",
+          "url": "https://blog.wenxuecity.com/myblog/32384/202608/13816.html",
+          "publishedAt": "2026-08-18T21:30:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a499e2230be81a417030b4c7",
+      "isContinuation": false,
+      "titleZh": "中国能 ( 在 ) 挑战美国主导的世界秩序 ? - 博客",
+      "summaryZh": "中国能 ( 在 ) 挑战美国主导的世界秩序 ? - 博客",
+      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "8b28919730fbe461",
+      "title": "China debuts regular Arctic shipping service amid Iran war. Is this the Polar pivot?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3364426/polar-pivot-china-debuts-regular-arctic-shipping-service-iran-war-drags?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T14:00:09.000Z",
+      "summary": "As the Iran war spills over into the Red Sea – a crucial chokepoint for Asia-Europe trade – China has marked a milestone by launching its first regular service through the Arctic’s Northern Sea Route (NSR), a development welcomed by Russia. The route, which runs along Russia’s northern Arctic coast, slashes travel time compared with alternative paths. A journey from Ningbo city on China’s southeast coast to Felixstowe in the United Kingdom takes just 20 days – about half the time required for...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3364426/polar-pivot-china-debuts-regular-arctic-shipping-service-iran-war-drags?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T14:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d6a3eee155a21b506c54c8fd",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "7e762c11b438b083",
+      "title": "Chinese doctors get double-thigh amputee to walk again in world first",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3364442/chinese-doctors-get-double-thigh-amputee-walk-again-world-first?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T13:00:11.000Z",
+      "summary": "Chinese surgeons have enabled a man to walk again after an accident severed both his legs at the thigh, marking a rare success for advanced reconstructive procedures. After nearly 20 months of intensive post-operative recovery, the patient is reportedly able to walk indoors with a frame and manage most daily tasks unassisted. Crucially, sensation has returned to his lower legs down to his ankles. The double-thigh replantation, performed at an orthopaedic hospital in eastern China, is a global...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3364442/chinese-doctors-get-double-thigh-amputee-walk-again-world-first?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T13:00:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "公共安全",
+        "专题·气候、环境与公共安全"
+      ],
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "公共安全"
+      ],
+      "fingerprint": "909054c474841640bf23377f",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "usa": [
+    {
+      "id": "81cc89b552904abf",
+      "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+      "publishedAt": "2026-08-19T00:26:21.000Z",
+      "summary": "Nixon bested Alexander Vindman to win Democratic nomination and now faces Republican Ashley Moody in November Trump-backed Byron Donalds wins Republican primary in race to succeed Florida governor DeSantis In an upset for the Democratic establishment, progressive Angie Nixon won the party’s US Senate primary in Florida, beating former army intelligence officer Alexander Vindman. Nixon, a state representative and member of the Democratic Socialists of America, had significantly less funding going into the primary – with $975,000 to Vindman’s $16.3m at the end of July, according to Florida Politics. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+          "publishedAt": "2026-08-19T00:26:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "持续关注"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "15caca8b5710024f3a08ac71",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "4970eb6834598751",
+      "title": "Trump posts map with Hormuz as ‘new US territory’, says no Iran talks planned",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3364478/trump-posts-map-hormuz-new-us-territory-says-no-iran-talks-planned?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T16:48:03.000Z",
+      "summary": "US President Donald Trump said that Tuesday that no talks with Iran were under way or scheduled, as he posted a map showing the Strait of Hormuz as a new American territory in a fresh jibe at Tehran. Trump has been pressing his threat to claim sovereignty over the crucial energy waterway as the nearly six-month-old Iran war grinds on with little sign of resolution. Trump’s envoy and son-in-law Jared Kushner had said on Monday that the United States and Iran were having “very positive and active...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3364478/trump-posts-map-hormuz-new-us-territory-says-no-iran-talks-planned?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T16:48:03.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a48b85c19f7714ed76a48bc8",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "192fca6a02643e8f",
+      "title": "Why is the US ramping up Tomahawk production?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+      "publishedAt": "2026-08-18T21:26:07.000Z",
+      "summary": "The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+          "publishedAt": "2026-08-18T21:26:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
         "美国重点",
         "军事与安全"
       ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f2288fbb8f20f73e97250ca8",
+      "fingerprint": "73b1f23a5567227ff6133d77",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -701,104 +824,65 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "5a29121eb092d8f3",
-      "title": "Taiwan teams up with US start-up on underwater drones to boost island’s defences",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3364328/taiwan-teams-us-start-underwater-drones-boost-islands-defences?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T13:04:02.000Z",
-      "summary": "Taiwan has signed a deal with US defence start-up Vatn Systems to develop autonomous underwater vehicles and strengthen its asymmetric warfare capabilities amid growing military pressure from Beijing. Executed through the National Chung-Shan Institute of Science and Technology (NCSIST) – Taiwan’s government-funded top weapons developer – the agreement marks the latest in a series of moves to expand the island’s unmanned underwater capabilities. Under the memorandum of understanding signed last...",
-      "language": "",
-      "region": "china",
+      "id": "faa94458df05fa4a",
+      "title": "60天谈判期 已满 ， 美国 体面退出 成奢望",
+      "source": "baijiahao.baidu.com",
+      "url": "https://baijiahao.baidu.com/s?id=1873767435077330163",
+      "publishedAt": "2026-08-18T15:00:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3364328/taiwan-teams-us-start-underwater-drones-boost-islands-defences?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T13:04:02.000Z"
+          "source": "baijiahao.baidu.com",
+          "url": "https://baijiahao.baidu.com/s?id=1873767435077330163",
+          "publishedAt": "2026-08-18T15:00:00.000Z"
+        },
+        {
+          "source": "world.nmgnews.com.cn",
+          "url": "https://world.nmgnews.com.cn/system/2026/08/18/030387574.shtml",
+          "publishedAt": "2026-08-18T05:45:00.000Z"
+        },
+        {
+          "source": "world.qianlong.com",
+          "url": "https://world.qianlong.com/2026/0818/8713628.shtml",
+          "publishedAt": "2026-08-18T04:30:00.000Z"
         }
       ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
+      "sourceCount": 3,
+      "isChina": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "军事与安全",
-        "科技",
-        "专题·科技、能源与产业"
+        "美国重点"
       ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "440d813a11d2b0241b6c5a71",
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0a18a5aeaf1c69e105caf98b",
       "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "titleZh": "60天谈判期 已满 ， 美国 体面退出 成奢望",
+      "summaryZh": "60天谈判期 已满 ， 美国 体面退出 成奢望",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
       "summaryMode": "rule",
-      "translationStatus": "unavailable"
+      "translationStatus": "original-chinese"
     },
     {
-      "id": "1ed8342e5c1bbbd3",
-      "title": "Alibaba sells gaming arm Lingxi Games as tech giant sharpens focus on AI and e-commerce",
+      "id": "f562dbf662c16a93",
+      "title": "Xi hits out at ‘outside interference’ in Latin America in meeting with Ecuador’s president",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T10:00:11.000Z",
-      "summary": "Alibaba Group Holding has agreed to sell its wholly owned gaming business Lingxi Games to Trustar Capital as the Chinese technology giant pivots away from noncore sectors to prioritise e-commerce and artificial intelligence, according to an internal letter issued on Monday. “As part of Alibaba’s broader strategy to sharpen its focus, the group has decided to entrust Lingxi to Trustar Capital,” stated the letter seen by the South China Morning Post and signed by Lingxi CEO Zhou Bingshu. The...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364465/xi-hits-out-outside-interference-latin-america-meeting-ecuadors-president?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T13:10:18.000Z",
+      "summary": "China firmly supports Latin American nations in upholding their autonomy and pursuing international cooperation based on their own interests, Chinese President Xi Jinping told his Ecuadorian counterpart Daniel Noboa on Tuesday. “Latin American and Caribbean nations should have freedom to choose their international partners without outside interference,” Xi said, in a veiled criticism of US interventions in the region since Donald Trump returned to the White House in 2025. Like many of its Latin...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T10:00:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "国际组织",
-        "专题·科技、能源与产业"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "artificial intelligence",
-        "科技"
-      ],
-      "fingerprint": "a3ecc35e76c4128e78045760",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "18081abbb5126283",
-      "title": "US-China investment, ‘Chinese Schindler’, DJI Pentagon battle: 7 US-China relations reads",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3364121/us-china-investment-chinese-schindler-dji-pentagon-battle-7-us-china-relations-reads?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T14:00:11.000Z",
-      "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. US-China ‘Board of Investment’ stalls before expected Trump-Xi meeting The US-China Board of Investment, one of the key outcomes of the May summit between US President Donald Trump and Chinese leader Xi Jinping, is unlikely to be among the deliverables for their expected meeting next month...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3364121/us-china-investment-chinese-schindler-dji-pentagon-battle-7-us-china-relations-reads?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T14:00:11.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3364465/xi-hits-out-outside-interference-latin-america-meeting-ecuadors-president?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T13:10:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -807,15 +891,14 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
-        "外交"
+        "美国重点"
       ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 53,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "700a83f3328bc7c96ab82687",
+      "fingerprint": "98a64aa3a237b22a35baa19a",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -824,37 +907,38 @@
       "translationStatus": "unavailable"
     }
   ],
-  "usa": [
+  "watch": [
     {
-      "id": "35225b72be1f1cfd",
-      "title": "Trump’s decision to scale back South Korea drills unsettles Asian allies: ‘makes no sense’",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3364352/trumps-decision-scale-back-south-korea-drills-unsettles-asian-allies-makes-no-sense?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T01:32:23.000Z",
-      "summary": "President Donald Trump’s decision to scale back joint military exercises with South Korea does not just slight a long-time ally but raises broader concerns about the security interests of the United States in Asia and elsewhere. Trump explained his decision by citing South Korea’s refusal to join his war against Iran and pointing to what he said was his good relationship with North Korea’s reclusive dictator Kim Jong-un, a transactional and personal approach to foreign policy that has defined...",
+      "id": "27636c6eddeac818",
+      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
+      "publishedAt": "2026-08-18T22:21:59.000Z",
+      "summary": "Mykhailo Fedorov’s appeal is most direct challenge to Volodymyr Zelenskyy since Russian invasion in 2022 Ukraine’s recently dismissed former defence minister Mykhailo Fedorov has called for a wartime presidential election in the most direct political challenge to Volodymyr Zelenskyy since the start of Russia’s full-scale invasion in 2022. The politician, whose abrupt sacking last month triggered a wave of protests, said that Ukraine had to “restore a full democratic process even amid a prolonged war” in a video address released online late on Tuesday evening. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3364352/trumps-decision-scale-back-south-korea-drills-unsettles-asian-allies-makes-no-sense?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T01:32:23.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
+          "publishedAt": "2026-08-18T22:21:59.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全"
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
       ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8a299bbcbc99db418d2f82bc",
+      "fingerprint": "e46b3dc6fcdb6e133a71c045",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -863,169 +947,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "d1624db3b21d1aec",
-      "title": "Trump reportedly casts mail-in ballot in Florida Republican primary",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
-      "publishedAt": "2026-08-18T01:10:05.000Z",
-      "summary": "President, who has decried mail-in ballots amid false claims of election fraud, issued March order to curb voting by mail Donald Trump voted by mail in Florida’s Republican primary, Politico reports, citing Palm Beach county voting records. The White House has confirmed the president’s mail-in vote, according to the New York Times, which added that this is at least the third time the president has mailed his ballot. In March, the president signed an executive ⁠order restricting the ​use of mail-in ballots ahead of the November midterm elections that will decide control of US Congress. Trump has repeatedly criticized mail-in voting, calling for restrictions on the policy for years and falsely claiming that his 2020 election defeat was the result of widespread voter fraud. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
-          "publishedAt": "2026-08-18T01:10:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "29901b7fc6e44770600368d4",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "9f817e23a058d544",
-      "title": "Palestinian American reunites with family under siege in West Bank",
+      "id": "bbe63025e07b22b9",
+      "title": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
-      "publishedAt": "2026-08-17T20:57:19.000Z",
-      "summary": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+      "publishedAt": "2026-08-18T21:24:52.000Z",
+      "summary": "Officials warn they are continuing to identify new chains of transmission that need to be broken to stop the spread.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
-          "publishedAt": "2026-08-17T20:57:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "金融"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "79f48fc5cc1bdb15d53e45b1",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "d5440580512a5c62",
-      "title": "Trump approval rating falls to 33%, lowest of his presidency, poll finds",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364344/trump-approval-rating-falls-33-lowest-his-presidency-poll-finds?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T19:35:56.000Z",
-      "summary": "US President Donald Trump’s approval rating has fallen to the lowest level of his presidency, with an overwhelming majority of Americans ‌concerned the US war with Iran will last a long time, according to a Reuters/Ipsos poll that concluded on Monday. Just 33 per cent of respondents in the four-day survey said they approved of Trump’s performance in the White House, while 64 per cent disapproved. Trump’s approval rating, down from 35 per cent in a poll that closed earlier this month and lower...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364344/trump-approval-rating-falls-33-lowest-his-presidency-poll-finds?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T19:35:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d21bff7a20ce2968d1da6c85",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "304838d5896d843c",
-      "title": "Cabinet ministers’ mobile numbers found online after Burnham targeted",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/aug/17/andy-burnham-exchanged-messages-individual-impersonating-trump-chief-of-staff-susie-wiles",
-      "publishedAt": "2026-08-17T18:25:19.000Z",
-      "summary": "Revelation about security leak follows person pretending to be senior White House aide contacting prime minister At least three UK cabinet ministers have had their personal mobile phone numbers published online, amid mounting concern over the security of senior politicians after Andy Burnham was targeted by an impersonation scam. The defence secretary, Wes Streeting, the justice secretary, Alex Norris, and the Northern Ireland secretary, Chris Bryant, had their numbers available online with their names. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/aug/17/andy-burnham-exchanged-messages-individual-impersonating-trump-chief-of-staff-susie-wiles",
-          "publishedAt": "2026-08-17T18:25:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "588c7835c2c31979f869b166",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    }
-  ],
-  "watch": [
-    {
-      "id": "96ba44425024c9a8",
-      "title": "Can Trump’s peace plan for Gaza be saved? – The Latest",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
-      "publishedAt": "2026-08-17T15:56:48.000Z",
-      "summary": "Donald Trump’s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire in Gaza. The talks come after Netanyahu rejected the US-backed 15-point peace plan for the territory in a rare public break with the Trump administration this month. Nosheen Iqbal speaks to global editor Devika Bhat – watch on YouTube Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
-          "publishedAt": "2026-08-17T15:56:48.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+          "publishedAt": "2026-08-18T21:24:52.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1034,126 +968,129 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "外交"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f64ffc82c1482e857f0222d7",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "778c09ba0ca2066e",
-      "title": "Wall Street indexes slip as oil prices rise , retail results awaited",
-      "source": "straitstimes.com",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-indexes-slip-as-oil-prices-rise-retail-results-awaited",
-      "publishedAt": "2026-08-17T22:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "straitstimes.com",
-          "url": "https://www.straitstimes.com/business/companies-markets/wall-street-indexes-slip-as-oil-prices-rise-retail-results-awaited",
-          "publishedAt": "2026-08-17T22:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源",
-        "专题·科技、能源与产业"
+        "军事与安全",
+        "国际组织"
       ],
       "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0773dbcc7677da7ba539facb",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "df1ec323be8035b4",
+      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+      "publishedAt": "2026-08-18T20:45:42.000Z",
+      "summary": "Concern over the security of Europe's largest nuclear plant has been rife since Russia launched its full-scale war.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+          "publishedAt": "2026-08-18T20:45:42.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
         "能源"
       ],
-      "fingerprint": "7bedfb88d401b5a40b67de13",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "d1b6edf69bbc315c",
-      "title": "Pregnant woman among 3 killed in suspected gang shooting in Spain",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3364335/pregnant-woman-among-3-killed-suspected-gang-shooting-spain?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T14:52:25.000Z",
-      "summary": "Three people have been shot dead in a suspected revenge attack linked to the drug trade in southwestern Spain, the authorities in the Andalusia region said on Monday. The three victims were a pregnant woman in her eighth month of pregnancy, a 62-year-old woman and a 16-year-old boy. The unborn child also did not survive, the authorities said, adding that two other people were injured in the attack. According to official statements, the attack took place in Isla Cristina, a town of 21,000...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3364335/pregnant-woman-among-3-killed-suspected-gang-shooting-spain?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T14:52:25.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济"
-      ],
       "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "36d97a11c5630862b4d78baf",
+      "fingerprint": "ae75e0d249caa4131644b6a8",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 192,
-    "deduplicated": 181,
+    "fetched": 277,
+    "deduplicated": 239,
     "selected": 23,
     "minimumRequired": 21,
-    "featured": 5,
+    "featured": 2,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "3ec0039d2f4247af",
-      "title": "Chinese workers turn bosses into virtual pets for stress relief amid rising quirky trend",
+      "id": "cf782e9b25bbfe2a",
+      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+          "publishedAt": "2026-08-18T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源",
+        "环境",
+        "专题·气候、环境与公共安全"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "environment",
+        "环境"
+      ],
+      "fingerprint": "f249319ef2c6edee5997c70e",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "7e762c11b438b083",
+      "title": "Chinese doctors get double-thigh amputee to walk again in world first",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3364350/chinese-workers-turn-bosses-virtual-pets-stress-relief-amid-rising-quirky-trend?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T01:00:32.000Z",
-      "summary": "AI desktop pets are gaining popularity in China, offering young workers an outlet for workplace frustration and providing bereaved owners with a digital means to preserve memories of their deceased pets. Virtual pets first emerged on messaging platforms in the early 2000s, roaming across screens and interacting with users as they browsed the web, chatted, or watched videos. Advancements in AI are evolving virtual pets from simple digital novelties into more responsive forms of emotional...",
+      "url": "https://www.scmp.com/news/china/science/article/3364442/chinese-doctors-get-double-thigh-amputee-walk-again-world-first?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T13:00:11.000Z",
+      "summary": "Chinese surgeons have enabled a man to walk again after an accident severed both his legs at the thigh, marking a rare success for advanced reconstructive procedures. After nearly 20 months of intensive post-operative recovery, the patient is reportedly able to walk indoors with a frame and manage most daily tasks unassisted. Crucially, sensation has returned to his lower legs down to his ankles. The double-thigh replantation, performed at an orthopaedic hospital in eastern China, is a global...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3364350/chinese-workers-turn-bosses-virtual-pets-stress-relief-amid-rising-quirky-trend?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T01:00:32.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3364442/chinese-doctors-get-double-thigh-amputee-walk-again-world-first?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T13:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1162,17 +1099,17 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "专题·科技、能源与产业"
+        "公共安全",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 63,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": true,
       "topicKeywords": [
-        "科技"
+        "公共安全"
       ],
-      "fingerprint": "96822dfae10c325c4aba0665",
+      "fingerprint": "909054c474841640bf23377f",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1181,19 +1118,342 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "3d59dd4b8d151f84",
-      "title": "Will Russia’s plan for overland oil route be ‘game changer’ for India’s energy security?",
+      "id": "e714b273259783ad",
+      "title": "US, South Korea slash joint military drills by half as Trump eyes Kim summit",
       "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3364323/will-russias-plan-overland-oil-route-be-game-changer-indias-energy-security?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T12:11:31.000Z",
-      "summary": "Russia is looking into a solution for a problem that has become hard for India to ignore: how to keep oil and other strategic goods moving when sanctions, war and maritime chokepoints threaten the world’s busiest energy routes. Moscow’s proposal for a direct rail link to India through Central and South Asia remains exploratory, but analysts say it points to a wider scramble by major powers to build trade corridors beyond the reach of the Strait of Hormuz, the Bosphorus and Western pressure. The...",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3364494/us-south-korea-slash-joint-military-drills-half-trump-eyes-kim-summit?utm_source=rss_feed",
+      "publishedAt": "2026-08-19T01:03:39.000Z",
+      "summary": "Scheduled joint US and South Korean military drills are expected to be cut by about half, according to South Korean media on Wednesday, following ‌President Donald Trump’s order to substantially reduce US participation in the annual exercises. The Ulchi Freedom Shield exercise, which began on Monday, had been due to run into next week. The allies were set to complete the first, defensive phase of the exercise this week and cancel or defer a second phase involving counter-attack operations,...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3364323/will-russias-plan-overland-oil-route-be-game-changer-indias-energy-security?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T12:11:31.000Z"
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3364494/us-south-korea-slash-joint-military-drills-half-trump-eyes-kim-summit?utm_source=rss_feed",
+          "publishedAt": "2026-08-19T01:03:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 71,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "672ee9e9f47d5136db1e7046",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "37a5b8fbe11d21d7",
+      "title": "‘Prepare early’: bushfire authorities sound alarm for NT, NSW and Queensland",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland",
+      "publishedAt": "2026-08-19T01:00:01.000Z",
+      "summary": "Effects of global heating in NT worsened by ‘dangerous and fire-promoting buffel grass’, expert says Get our breaking news email, free app or daily news podcast Fire authorities have warned large parts of the Northern Territory are facing heightened fire danger throughout spring, with above average fuel loads leaving much of the territory vulnerable. Low soil moisture has also led to elevated fire risk for parts of New South Wales, including some areas that were badly burned during the black summer fires, and south-east Queensland as an El Niño system continues to strengthen in the country’s south-east. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland",
+          "publishedAt": "2026-08-19T01:00:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 71,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "74b4f3587a5d4c58f1fa268a",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "102e4d8164fc14d0",
+      "title": "Editorial DV : Trump expande el desorden",
+      "source": "diariovasco.com",
+      "url": "https://www.diariovasco.com/opinion/trump-expande-desorden-20260819203211-nt.html",
+      "publishedAt": "2026-08-19T00:45:00.000Z",
+      "summary": "",
+      "language": "Spanish",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "diariovasco.com",
+          "url": "https://www.diariovasco.com/opinion/trump-expande-desorden-20260819203211-nt.html",
+          "publishedAt": "2026-08-19T00:45:00.000Z"
+        },
+        {
+          "source": "diariosur.es",
+          "url": "https://www.diariosur.es/opinion/trump-expande-desorden-20260819000859-nt.html",
+          "publishedAt": "2026-08-19T00:15:00.000Z"
+        },
+        {
+          "source": "elcorreo.com",
+          "url": "https://www.elcorreo.com/opinion/editoriales/editorial-trump-expande-desorden-20260819000109-nt.html",
+          "publishedAt": "2026-08-18T22:45:00.000Z"
+        },
+        {
+          "source": "laverdad.es",
+          "url": "https://www.laverdad.es/opinion/editoriales/la-verdad-trump-expande-desorden-20260819230823-nt.html",
+          "publishedAt": "2026-08-18T21:45:00.000Z"
+        }
+      ],
+      "sourceCount": 4,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 63,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a2ad74214b876fb09f8448ff",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "11a0a1b204bc28af",
+      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
+      "publishedAt": "2026-08-19T01:42:02.000Z",
+      "summary": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Get our breaking news email, free app or daily news podcast Limited accomodation during sequestering ‘issues of convenience’, Patterson’s barrister says Kidd says Patterson’s case must be considered in the context of other cases where jurors had unsupervised access to “outsiders”. He says in this case the jurors were under the supervision of the jury-keeper at all times. They are not, in our submission, a principled response. If there has been no breach, then where’s the fundamental irregularity? There’s no evidence that that’s occurred here. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
+          "publishedAt": "2026-08-19T01:42:02.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "持续关注"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6918107e7104def29314396c",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "11c4437907824171",
+      "title": "阿联酋监测到两枚从伊朗发射的导弹 ， 阿官员称阿已暂停与伊朗贸易金融往来 - CFi . CN 中财网",
+      "source": "cfi.net.cn",
+      "url": "http://www.cfi.net.cn/p20260819000130.html",
+      "publishedAt": "2026-08-19T00:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "cfi.net.cn",
+          "url": "http://www.cfi.net.cn/p20260819000130.html",
+          "publishedAt": "2026-08-19T00:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "军事与安全"
+      ],
+      "score": 61,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5f984ffa1bd7462ad4711570",
+      "isContinuation": false,
+      "titleZh": "阿联酋监测到两枚从伊朗发射的导弹 ， 阿官员称阿已暂停与伊朗贸易金融往来 - CFi . CN 中财网",
+      "summaryZh": "阿联酋监测到两枚从伊朗发射的导弹 ， 阿官员称阿已暂停与伊朗贸易金融往来 - CFi . CN 中财网",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "50745e7bec28c4fb",
+      "title": "【 环时深度 】 冲击战后国际秩序 ， 日本军事动作频繁",
+      "source": "hqtime.huanqiu.com",
+      "url": "https://hqtime.huanqiu.com/share/article/4SqqsnAjQ8l",
+      "publishedAt": "2026-08-19T01:15:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "hqtime.huanqiu.com",
+          "url": "https://hqtime.huanqiu.com/share/article/4SqqsnAjQ8l",
+          "publishedAt": "2026-08-19T01:15:00.000Z"
+        },
+        {
+          "source": "mil.ifeng.com",
+          "url": "https://mil.ifeng.com/c/8vhyaGkx33e",
+          "publishedAt": "2026-08-19T00:30:00.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c9a821f62392795a14a3409b",
+      "isContinuation": false,
+      "titleZh": "【 环时深度 】 冲击战后国际秩序 ， 日本军事动作频繁",
+      "summaryZh": "【 环时深度 】 冲击战后国际秩序 ， 日本军事动作频繁",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "1779acda6fe02690",
+      "title": "Ten-year-old girl found three days after she was reported missing in Perth suburbs",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
+      "publishedAt": "2026-08-18T23:59:56.000Z",
+      "summary": "The young Indigenous girl was found on Tuesday after she was last seen leaving home in Butler on Saturday evening Get our breaking news email, free app or daily news podcast A ten-year-old First Nations girl, reported missing from Perth’s outer northern suburbs on Saturday, has been found. Western Australia police said the girl was found at 7pm on Tuesday, five hours after a press conference appealing for help to find the missing child. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
+          "publishedAt": "2026-08-18T23:59:56.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0887175ca4f9b8f66f2ab846",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "2c8abe1a72a01bf3",
+      "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
+      "publishedAt": "2026-08-18T23:59:43.000Z",
+      "summary": "Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
+          "publishedAt": "2026-08-18T23:59:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "95df1ef26e6ac94aa679088d",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "aefe286e08955a39",
+      "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
+      "publishedAt": "2026-08-18T23:01:03.000Z",
+      "summary": "More than 40 charities write to Pat McFadden and review head Alan Milburn over fears of stricter eligibility rules More than 40 of the UK’s leading charities have warned ministers against imposing tougher benefit sanctions or cuts on disabled young people, as the government considers how to encourage more young people into work. The charities raised concerns that an imminent review of young people and work by Alan Milburn could bring in stricter eligibility rules for keeping disability benefits – or remove them altogether – as part of a wider plan to boost flagging youth job rates. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
+          "publishedAt": "2026-08-18T23:01:03.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1203,20 +1463,14 @@
       "tags": [
         "全球焦点",
         "外交",
-        "经济",
-        "军事与安全",
-        "能源",
-        "专题·科技、能源与产业"
+        "军事与安全"
       ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "energy",
-        "能源"
-      ],
-      "fingerprint": "af6b3933aa49cc3f2101873f",
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "014d73512501f7ec0caf77d3",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1225,40 +1479,37 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "5a29121eb092d8f3",
-      "title": "Taiwan teams up with US start-up on underwater drones to boost island’s defences",
+      "id": "1745e1c97cb5c112",
+      "title": "What does a hit film about the Iraq war say about Chinese views of the world?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3364328/taiwan-teams-us-start-underwater-drones-boost-islands-defences?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T13:04:02.000Z",
-      "summary": "Taiwan has signed a deal with US defence start-up Vatn Systems to develop autonomous underwater vehicles and strengthen its asymmetric warfare capabilities amid growing military pressure from Beijing. Executed through the National Chung-Shan Institute of Science and Technology (NCSIST) – Taiwan’s government-funded top weapons developer – the agreement marks the latest in a series of moves to expand the island’s unmanned underwater capabilities. Under the memorandum of understanding signed last...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364464/what-does-hit-film-about-iraq-war-say-about-chinese-views-world?utm_source=rss_feed",
+      "publishedAt": "2026-08-19T01:00:08.000Z",
+      "summary": "A new film telling the story of the Iraq war through Chinese eyes marks the latest in a series of soft power initiatives designed to get Beijing’s message across to the wider world. Although Once Upon a Time in the Middle East does not explicitly state the name of the country in question, it is set in the 2000s and features an invasion by American troops. The film’s central character, a Chinese chef named Xu Fu who is working off his debts at the time the war starts, turns his modest restaurant...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3364328/taiwan-teams-us-start-underwater-drones-boost-islands-defences?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T13:04:02.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3364464/what-does-hit-film-about-iraq-war-say-about-chinese-views-world?utm_source=rss_feed",
+          "publishedAt": "2026-08-19T01:00:08.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
+        "美国重点",
         "军事与安全",
-        "科技",
-        "专题·科技、能源与产业"
+        "国际组织"
       ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "科技"
-      ],
-      "fingerprint": "440d813a11d2b0241b6c5a71",
+      "score": 73,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "819e507d22bd09315b28d302",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1267,19 +1518,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "1ed8342e5c1bbbd3",
-      "title": "Alibaba sells gaming arm Lingxi Games as tech giant sharpens focus on AI and e-commerce",
+      "id": "f2aaa3eadce4a82f",
+      "title": "Hong Kong needs a mission for 2049 to focus its 5-year plans",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T10:00:11.000Z",
-      "summary": "Alibaba Group Holding has agreed to sell its wholly owned gaming business Lingxi Games to Trustar Capital as the Chinese technology giant pivots away from noncore sectors to prioritise e-commerce and artificial intelligence, according to an internal letter issued on Monday. “As part of Alibaba’s broader strategy to sharpen its focus, the group has decided to entrust Lingxi to Trustar Capital,” stated the letter seen by the South China Morning Post and signed by Lingxi CEO Zhou Bingshu. The...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363928/hong-kong-needs-mission-2049-focus-its-five-year-plans?utm_source=rss_feed",
+      "publishedAt": "2026-08-19T01:30:09.000Z",
+      "summary": "Hong Kong is formulating its first five-year plan for economic and social development. Such plans are likely to become a regular feature of governance, and will shape how the city allocates land, builds housing and infrastructure, develops industries, trains talent and improves public services. They can also give government departments a common frame for action, rather than leaving them to operate in separate silos. Yet successive five-year plans should do more than set medium-term priorities....",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T10:00:11.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363928/hong-kong-needs-mission-2049-focus-its-five-year-plans?utm_source=rss_feed",
+          "publishedAt": "2026-08-19T01:30:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1288,423 +1539,270 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "国际组织",
-        "专题·科技、能源与产业"
+        "经济"
       ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "technology",
-        "artificial intelligence",
-        "科技"
-      ],
-      "fingerprint": "a3ecc35e76c4128e78045760",
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c69a0d05b44982f37e3e89a8",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "778c09ba0ca2066e",
-      "title": "Wall Street indexes slip as oil prices rise , retail results awaited",
-      "source": "straitstimes.com",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-indexes-slip-as-oil-prices-rise-retail-results-awaited",
-      "publishedAt": "2026-08-17T22:45:00.000Z",
+      "id": "ff7d2429a768e00e",
+      "title": "中国能 ( 在 ) 挑战美国主导的世界秩序 ? - 博客",
+      "source": "blog.wenxuecity.com",
+      "url": "https://blog.wenxuecity.com/myblog/32384/202608/13816.html",
+      "publishedAt": "2026-08-18T21:30:00.000Z",
       "summary": "",
-      "language": "English",
+      "language": "Chinese",
       "region": "",
       "crossSources": [
         {
-          "source": "straitstimes.com",
-          "url": "https://www.straitstimes.com/business/companies-markets/wall-street-indexes-slip-as-oil-prices-rise-retail-results-awaited",
-          "publishedAt": "2026-08-17T22:45:00.000Z"
+          "source": "blog.wenxuecity.com",
+          "url": "https://blog.wenxuecity.com/myblog/32384/202608/13816.html",
+          "publishedAt": "2026-08-18T21:30:00.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
+      "isChina": true,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "能源",
-        "专题·科技、能源与产业"
+        "中国重点",
+        "美国重点"
       ],
       "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a499e2230be81a417030b4c7",
+      "isContinuation": false,
+      "titleZh": "中国能 ( 在 ) 挑战美国主导的世界秩序 ? - 博客",
+      "summaryZh": "中国能 ( 在 ) 挑战美国主导的世界秩序 ? - 博客",
+      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "8b28919730fbe461",
+      "title": "China debuts regular Arctic shipping service amid Iran war. Is this the Polar pivot?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3364426/polar-pivot-china-debuts-regular-arctic-shipping-service-iran-war-drags?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T14:00:09.000Z",
+      "summary": "As the Iran war spills over into the Red Sea – a crucial chokepoint for Asia-Europe trade – China has marked a milestone by launching its first regular service through the Arctic’s Northern Sea Route (NSR), a development welcomed by Russia. The route, which runs along Russia’s northern Arctic coast, slashes travel time compared with alternative paths. A journey from Ningbo city on China’s southeast coast to Felixstowe in the United Kingdom takes just 20 days – about half the time required for...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3364426/polar-pivot-china-debuts-regular-arctic-shipping-service-iran-war-drags?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T14:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d6a3eee155a21b506c54c8fd",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "81cc89b552904abf",
+      "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+      "publishedAt": "2026-08-19T00:26:21.000Z",
+      "summary": "Nixon bested Alexander Vindman to win Democratic nomination and now faces Republican Ashley Moody in November Trump-backed Byron Donalds wins Republican primary in race to succeed Florida governor DeSantis In an upset for the Democratic establishment, progressive Angie Nixon won the party’s US Senate primary in Florida, beating former army intelligence officer Alexander Vindman. Nixon, a state representative and member of the Democratic Socialists of America, had significantly less funding going into the primary – with $975,000 to Vindman’s $16.3m at the end of July, according to Florida Politics. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+          "publishedAt": "2026-08-19T00:26:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "持续关注"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "15caca8b5710024f3a08ac71",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "4970eb6834598751",
+      "title": "Trump posts map with Hormuz as ‘new US territory’, says no Iran talks planned",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3364478/trump-posts-map-hormuz-new-us-territory-says-no-iran-talks-planned?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T16:48:03.000Z",
+      "summary": "US President Donald Trump said that Tuesday that no talks with Iran were under way or scheduled, as he posted a map showing the Strait of Hormuz as a new American territory in a fresh jibe at Tehran. Trump has been pressing his threat to claim sovereignty over the crucial energy waterway as the nearly six-month-old Iran war grinds on with little sign of resolution. Trump’s envoy and son-in-law Jared Kushner had said on Monday that the United States and Iran were having “very positive and active...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3364478/trump-posts-map-hormuz-new-us-territory-says-no-iran-talks-planned?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T16:48:03.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
         "能源"
       ],
-      "fingerprint": "7bedfb88d401b5a40b67de13",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "4d3c4e97e696ad94",
-      "title": "Australia politics live: Labor and Coalition finalise deals on gambling reform and closing ‘widow tax’ negative gearing loophole",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "publishedAt": "2026-08-18T01:39:31.000Z",
-      "summary": "Government MPs agree to more than a dozen amendments made with the Coalition. Follow today’s news live Get our breaking news email, free app or daily news podcast Chalmers calls gambling amendments ‘very substantial changes’ Treasurer Jim Chalmers says the opt-out register on gambling advertising will be revenue neutral, because the gambling industry will have to cover the costs. These changes that we’re proposing are very substantial changes. And they will make it much easier for people to opt out of this advertising. At the same time, as we make it easier for the regulator to enforce the rules around inducements. I understand people’s concern about inducements. And the minister and the government does as well. I think primarily there’s an important role for the regulator to crack down on and enforce these inducements. There’s absolutely no doubt that the implementation of the reforms has made everything worse for older Australians … the government’s got a lot to do to fix the implementation of these once-in-a-generation reforms that should have and could have and still can be what they were intended to be, but they just aren’t being rolled out like that. If the automation that we",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-          "publishedAt": "2026-08-18T01:39:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b379eafcde795bd621a35c25",
+      "fingerprint": "a48b85c19f7714ed76a48bc8",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "b620f6564987a7cf",
-      "title": "Vigil held in central London for late Cambridge professor Jason Arday",
+      "id": "192fca6a02643e8f",
+      "title": "Why is the US ramping up Tomahawk production?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-      "publishedAt": "2026-08-18T01:26:31.000Z",
-      "summary": "Thousands of people gathered in central London late on Monday to hold a vigil for black academic Jason Arday, blaming racism and relentless media pressure for his death last week. The vigil in central Trafalgar Square came as the head of Cambridge University on Monday condemned a “racist feeding frenzy” prompted by plagiarism claims against Arday. Arday, who became Cambridge’s youngest black professor when he was appointed in 2023, was found dead on Friday aged 41, after mounting accusations he...",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+      "publishedAt": "2026-08-18T21:26:07.000Z",
+      "summary": "The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-          "publishedAt": "2026-08-18T01:26:31.000Z"
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+          "publishedAt": "2026-08-18T21:26:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "73b1f23a5567227ff6133d77",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "faa94458df05fa4a",
+      "title": "60天谈判期 已满 ， 美国 体面退出 成奢望",
+      "source": "baijiahao.baidu.com",
+      "url": "https://baijiahao.baidu.com/s?id=1873767435077330163",
+      "publishedAt": "2026-08-18T15:00:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "baijiahao.baidu.com",
+          "url": "https://baijiahao.baidu.com/s?id=1873767435077330163",
+          "publishedAt": "2026-08-18T15:00:00.000Z"
         },
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3364345/thousands-mourn-ex-cambridge-professor-jason-arday-london-vigil?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T20:28:31.000Z"
+          "source": "world.nmgnews.com.cn",
+          "url": "https://world.nmgnews.com.cn/system/2026/08/18/030387574.shtml",
+          "publishedAt": "2026-08-18T05:45:00.000Z"
+        },
+        {
+          "source": "world.qianlong.com",
+          "url": "https://world.qianlong.com/2026/0818/8713628.shtml",
+          "publishedAt": "2026-08-18T04:30:00.000Z"
         }
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "国际组织"
+        "美国重点"
       ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1f28e3da238610722a18552b",
+      "fingerprint": "0a18a5aeaf1c69e105caf98b",
       "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "titleZh": "60天谈判期 已满 ， 美国 体面退出 成奢望",
+      "summaryZh": "60天谈判期 已满 ， 美国 体面退出 成奢望",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
       "summaryMode": "rule",
-      "translationStatus": "unavailable"
+      "translationStatus": "original-chinese"
     },
     {
-      "id": "ed3ac93936ade450",
-      "title": "Colombian minister’s Caribbean holiday amid earthquake crisis stokes fury",
+      "id": "f562dbf662c16a93",
+      "title": "Xi hits out at ‘outside interference’ in Latin America in meeting with Ecuador’s president",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/americas/article/3364351/colombian-ministers-caribbean-holiday-amid-earthquake-crisis-stokes-fury?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T01:17:40.000Z",
-      "summary": "Colombia’s new housing minister has come under fire after it emerged that he took his family on a Caribbean holiday while the country was reeling from a devastating earthquake that left thousands homeless. The August 10 earthquake, which killed nearly 300 people in western Colombia, struck just three days after right-wing President Abelardo de la Espriella took office. The 7.4-magnitude tremor was the most powerful in Colombia in nearly half a century. Over the weekend, photos and videos emerged...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364465/xi-hits-out-outside-interference-latin-america-meeting-ecuadors-president?utm_source=rss_feed",
+      "publishedAt": "2026-08-18T13:10:18.000Z",
+      "summary": "China firmly supports Latin American nations in upholding their autonomy and pursuing international cooperation based on their own interests, Chinese President Xi Jinping told his Ecuadorian counterpart Daniel Noboa on Tuesday. “Latin American and Caribbean nations should have freedom to choose their international partners without outside interference,” Xi said, in a veiled criticism of US interventions in the region since Donald Trump returned to the White House in 2025. Like many of its Latin...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3364351/colombian-ministers-caribbean-holiday-amid-earthquake-crisis-stokes-fury?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T01:17:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9fd4342ae41cc997c0d638d9",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "89466f8695888837",
-      "title": "Bondi library removes book How to Sell a Genocide from shelves after complaint",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb",
-      "publishedAt": "2026-08-18T00:55:38.000Z",
-      "summary": "Author Adam Johnson criticises Waverley council saying ‘reality is often upsetting’ while Palestinian group says libraries should hold ‘challenging’ books Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A Sydney library has removed a book critical of Israel called How to Sell a Genocide, following a complaint reportedly from a survivor of the Bondi beach terror attack. Waverley library at Bondi Junction is in the same council area as Bondi beach. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb",
-          "publishedAt": "2026-08-18T00:55:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4fc3bf4b057b460834c2d1b2",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "f776c45c63ad8adf",
-      "title": "Can Indonesia build on rising EV demand to become a production powerhouse?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3364338/can-indonesia-build-rising-ev-demand-become-production-powerhouse?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T00:00:17.000Z",
-      "summary": "Indonesia’s next electric-vehicle push will test whether President Prabowo Subianto can turn rising demand, nickel wealth and consumer subsidies into an integrated domestic industry that captures more value at home, or merely make imported and locally assembled EVs cheaper to buy. Analysts warn that without stricter local-content rules and stronger links between nickel processing, battery production and vehicle assembly, the incentives risk reinforcing Indonesia’s role as a large EV market...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3364338/can-indonesia-build-rising-ev-demand-become-production-powerhouse?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T00:00:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "金融",
-        "军事与安全"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8b2a37d1071a16a27e259201",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "21a46f661baeadb5",
-      "title": "Explosion reported at school in Afghan capital Kabul",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-      "publishedAt": "2026-08-17T17:30:11.000Z",
-      "summary": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-          "publishedAt": "2026-08-17T17:30:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "公共安全"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "efdfbde7be8b04dcc012a479",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "e266700816ec1d22",
-      "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-      "publishedAt": "2026-08-17T22:26:12.000Z",
-      "summary": "A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-          "publishedAt": "2026-08-17T22:26:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "fcd85c0c1f6d183bb6e46be4",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "1fb2569ef7ebe882",
-      "title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
-      "publishedAt": "2026-08-17T16:41:07.000Z",
-      "summary": "Operator granted UK track access for as many as 20 daily return trains to Paris, Brussels and Amsterdam from 2030 Business live – latest updates Virgin Trains has been granted track access by the rail regulator to enable it to run services between London and Paris, Brussels and Amsterdam from 2030, in a key step towards breaking Eurostar’s monopoly on the cross-Channel passenger route. The Office of Rail and Road (ORR) said it had given approval for Richard Branson’s company to run as many as 20 daily return services using the High Speed 1 line that runs between London St Pancras and the Channel tunnel. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
-          "publishedAt": "2026-08-17T16:41:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "fe40593046c9888a7d574a0a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "01f936d7ed56ea84",
-      "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-      "publishedAt": "2026-08-17T16:01:47.000Z",
-      "summary": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an “unprecedented” crisis, with vegetable and grain growers in particular warning of “catastrophic” harvests. French vegetable production is down by “a very significant extent” compared with previous years, French growers have said, with shortfalls put at 25% for courgettes, 35% for lettuces, 40% for peas, 60% for broccoli and 50% to 100% for artichokes. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-          "publishedAt": "2026-08-17T16:01:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d6f5e257fcb971613ffc892f",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "7c8869bfd260b475",
-      "title": "Pentagon orders 30 US universities to scrutinise ties with Chinese research partners",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/article/3364337/pentagon-orders-30-us-universities-scrutinise-ties-chinese-research-partners?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T15:07:51.000Z",
-      "summary": "The Pentagon has ordered 30 US universities to conduct sweeping audits of their foreign research partnerships, including collaborations with Chinese institutions and organisations associated with former Confucius Institutes, or risk becoming ineligible for future federal funding. The Department of Defence said on Monday that the unnamed universities must review their academic, financial and research relationships with foreign “entities of concern” and determine whether sensitive or...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/article/3364337/pentagon-orders-30-us-universities-scrutinise-ties-chinese-research-partners?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T15:07:51.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3364465/xi-hits-out-outside-interference-latin-america-meeting-ecuadors-president?utm_source=rss_feed",
+          "publishedAt": "2026-08-18T13:10:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1713,53 +1811,14 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
-        "军事与安全"
+        "美国重点"
       ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 53,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f2288fbb8f20f73e97250ca8",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "18081abbb5126283",
-      "title": "US-China investment, ‘Chinese Schindler’, DJI Pentagon battle: 7 US-China relations reads",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3364121/us-china-investment-chinese-schindler-dji-pentagon-battle-7-us-china-relations-reads?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T14:00:11.000Z",
-      "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. US-China ‘Board of Investment’ stalls before expected Trump-Xi meeting The US-China Board of Investment, one of the key outcomes of the May summit between US President Donald Trump and Chinese leader Xi Jinping, is unlikely to be among the deliverables for their expected meeting next month...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3364121/us-china-investment-chinese-schindler-dji-pentagon-battle-7-us-china-relations-reads?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T14:00:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "外交"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "700a83f3328bc7c96ab82687",
+      "fingerprint": "98a64aa3a237b22a35baa19a",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1768,35 +1827,36 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "35225b72be1f1cfd",
-      "title": "Trump’s decision to scale back South Korea drills unsettles Asian allies: ‘makes no sense’",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3364352/trumps-decision-scale-back-south-korea-drills-unsettles-asian-allies-makes-no-sense?utm_source=rss_feed",
-      "publishedAt": "2026-08-18T01:32:23.000Z",
-      "summary": "President Donald Trump’s decision to scale back joint military exercises with South Korea does not just slight a long-time ally but raises broader concerns about the security interests of the United States in Asia and elsewhere. Trump explained his decision by citing South Korea’s refusal to join his war against Iran and pointing to what he said was his good relationship with North Korea’s reclusive dictator Kim Jong-un, a transactional and personal approach to foreign policy that has defined...",
+      "id": "27636c6eddeac818",
+      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
+      "publishedAt": "2026-08-18T22:21:59.000Z",
+      "summary": "Mykhailo Fedorov’s appeal is most direct challenge to Volodymyr Zelenskyy since Russian invasion in 2022 Ukraine’s recently dismissed former defence minister Mykhailo Fedorov has called for a wartime presidential election in the most direct political challenge to Volodymyr Zelenskyy since the start of Russia’s full-scale invasion in 2022. The politician, whose abrupt sacking last month triggered a wave of protests, said that Ukraine had to “restore a full democratic process even amid a prolonged war” in a video address released online late on Tuesday evening. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3364352/trumps-decision-scale-back-south-korea-drills-unsettles-asian-allies-makes-no-sense?utm_source=rss_feed",
-          "publishedAt": "2026-08-18T01:32:23.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
+          "publishedAt": "2026-08-18T22:21:59.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全"
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
       ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8a299bbcbc99db418d2f82bc",
+      "fingerprint": "e46b3dc6fcdb6e133a71c045",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1805,167 +1865,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "d1624db3b21d1aec",
-      "title": "Trump reportedly casts mail-in ballot in Florida Republican primary",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
-      "publishedAt": "2026-08-18T01:10:05.000Z",
-      "summary": "President, who has decried mail-in ballots amid false claims of election fraud, issued March order to curb voting by mail Donald Trump voted by mail in Florida’s Republican primary, Politico reports, citing Palm Beach county voting records. The White House has confirmed the president’s mail-in vote, according to the New York Times, which added that this is at least the third time the president has mailed his ballot. In March, the president signed an executive ⁠order restricting the ​use of mail-in ballots ahead of the November midterm elections that will decide control of US Congress. Trump has repeatedly criticized mail-in voting, calling for restrictions on the policy for years and falsely claiming that his 2020 election defeat was the result of widespread voter fraud. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
-          "publishedAt": "2026-08-18T01:10:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "29901b7fc6e44770600368d4",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "9f817e23a058d544",
-      "title": "Palestinian American reunites with family under siege in West Bank",
+      "id": "bbe63025e07b22b9",
+      "title": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
-      "publishedAt": "2026-08-17T20:57:19.000Z",
-      "summary": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+      "publishedAt": "2026-08-18T21:24:52.000Z",
+      "summary": "Officials warn they are continuing to identify new chains of transmission that need to be broken to stop the spread.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
-          "publishedAt": "2026-08-17T20:57:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "金融"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "79f48fc5cc1bdb15d53e45b1",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "d5440580512a5c62",
-      "title": "Trump approval rating falls to 33%, lowest of his presidency, poll finds",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364344/trump-approval-rating-falls-33-lowest-his-presidency-poll-finds?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T19:35:56.000Z",
-      "summary": "US President Donald Trump’s approval rating has fallen to the lowest level of his presidency, with an overwhelming majority of Americans ‌concerned the US war with Iran will last a long time, according to a Reuters/Ipsos poll that concluded on Monday. Just 33 per cent of respondents in the four-day survey said they approved of Trump’s performance in the White House, while 64 per cent disapproved. Trump’s approval rating, down from 35 per cent in a poll that closed earlier this month and lower...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364344/trump-approval-rating-falls-33-lowest-his-presidency-poll-finds?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T19:35:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d21bff7a20ce2968d1da6c85",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "304838d5896d843c",
-      "title": "Cabinet ministers’ mobile numbers found online after Burnham targeted",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/aug/17/andy-burnham-exchanged-messages-individual-impersonating-trump-chief-of-staff-susie-wiles",
-      "publishedAt": "2026-08-17T18:25:19.000Z",
-      "summary": "Revelation about security leak follows person pretending to be senior White House aide contacting prime minister At least three UK cabinet ministers have had their personal mobile phone numbers published online, amid mounting concern over the security of senior politicians after Andy Burnham was targeted by an impersonation scam. The defence secretary, Wes Streeting, the justice secretary, Alex Norris, and the Northern Ireland secretary, Chris Bryant, had their numbers available online with their names. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/aug/17/andy-burnham-exchanged-messages-individual-impersonating-trump-chief-of-staff-susie-wiles",
-          "publishedAt": "2026-08-17T18:25:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "588c7835c2c31979f869b166",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "96ba44425024c9a8",
-      "title": "Can Trump’s peace plan for Gaza be saved? – The Latest",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
-      "publishedAt": "2026-08-17T15:56:48.000Z",
-      "summary": "Donald Trump’s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire in Gaza. The talks come after Netanyahu rejected the US-backed 15-point peace plan for the territory in a rare public break with the Trump administration this month. Nosheen Iqbal speaks to global editor Devika Bhat – watch on YouTube Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
-          "publishedAt": "2026-08-17T15:56:48.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+          "publishedAt": "2026-08-18T21:24:52.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1974,57 +1886,57 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "外交"
-      ],
-      "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f64ffc82c1482e857f0222d7",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "d1b6edf69bbc315c",
-      "title": "Pregnant woman among 3 killed in suspected gang shooting in Spain",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3364335/pregnant-woman-among-3-killed-suspected-gang-shooting-spain?utm_source=rss_feed",
-      "publishedAt": "2026-08-17T14:52:25.000Z",
-      "summary": "Three people have been shot dead in a suspected revenge attack linked to the drug trade in southwestern Spain, the authorities in the Andalusia region said on Monday. The three victims were a pregnant woman in her eighth month of pregnancy, a 62-year-old woman and a 16-year-old boy. The unborn child also did not survive, the authorities said, adding that two other people were injured in the attack. According to official statements, the attack took place in Isla Cristina, a town of 21,000...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3364335/pregnant-woman-among-3-killed-suspected-gang-shooting-spain?utm_source=rss_feed",
-          "publishedAt": "2026-08-17T14:52:25.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济"
+        "军事与安全",
+        "国际组织"
       ],
       "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "36d97a11c5630862b4d78baf",
+      "fingerprint": "0773dbcc7677da7ba539facb",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "df1ec323be8035b4",
+      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+      "publishedAt": "2026-08-18T20:45:42.000Z",
+      "summary": "Concern over the security of Europe's largest nuclear plant has been rife since Russia launched its full-scale war.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+          "publishedAt": "2026-08-18T20:45:42.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ae75e0d249caa4131644b6a8",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     }
