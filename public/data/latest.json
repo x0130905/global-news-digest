@@ -1,185 +1,44 @@
 {
-  "date": "2026-08-22",
-  "generatedAt": "2026-08-22T01:48:55.176Z",
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T01:58:48.946Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "usa",
-    "name": "美国政策与全球影响",
-    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
-    "query": "United States policy economy diplomacy security",
+    "slug": "economy-finance",
+    "name": "全球经济与金融",
+    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
+    "query": "global economy finance trade inflation interest rates",
     "keywords": [
-      "united states",
-      "u.s.",
-      "american",
-      "washington",
-      "white house",
-      "美国",
-      "华盛顿",
-      "白宫",
-      "美联储"
+      "economy",
+      "trade",
+      "tariff",
+      "inflation",
+      "market",
+      "bank",
+      "interest rate",
+      "经济",
+      "贸易",
+      "通胀",
+      "金融",
+      "利率"
     ],
-    "accent": "#3b82f6"
+    "accent": "#10b981"
   },
-  "overview": "今日专题“美国政策与全球影响”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“全球经济与金融”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "98a550fb6a8fc96e",
-      "title": "Trump says he views strait of Hormuz as ‘American territory’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-      "publishedAt": "2026-08-22T01:24:27.000Z",
-      "summary": "President in South Carolina celebrates supreme court’s temporary order to allow construction to continue and discusses war in Iran Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. ”I’ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,” Sheehy wrote on X. “The President’s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our herd and bring prices down for the American people. And most importantly, this will harm our ranching families who feed the nation.” Trump announced a plan on Truth Social to allow 300,000 metric tonnes of beef to be im",
+      "id": "7fe97686b99f6502",
+      "title": "Canada’s Carney refuses to take Trump’s ‘bait’, confronting US in trade war",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364948/canadas-carney-refuses-take-trumps-bait-confronting-us-trade-war?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T01:46:24.000Z",
+      "summary": "Siding with Canadians weary of provocations from Washington, Prime Minister Mark Carney stood up to US President Donald Trump, rejecting what he called an “unfair” trade deal – a gamble that could prove economically risky. “We will not allow any nation to determine our future. We will set our own course to keep building Canada strong for all,” Carney said on Friday, as negotiations for a bilateral trade deal were crumbling. After weeks of talks with US officials in an effort to avoid punitive...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-          "publishedAt": "2026-08-22T01:24:27.000Z"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-          "publishedAt": "2026-08-22T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "军事与安全",
-        "国际组织",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 91,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "4959831cb304962428e6705a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "82f14e4e7d99504f",
-      "title": "Iranian president says time to end war with US from ‘position of strength’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-      "publishedAt": "2026-08-22T00:59:37.000Z",
-      "summary": "Iranian President Masoud Pezeshkian said on Friday it was time to end the months-long Middle East war with the US because Tehran appeared to be in a stronger position than Washington. Talks between the long-time foes remain on hold, and the war started by the US and Israel in February has been locked in a stalemate. Tehran is keeping the key Strait of Hormuz partially shut, and Washington is persisting with a naval counter-blockade of Iran. “It is better that we bring the war to an end now as we...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-          "publishedAt": "2026-08-22T00:59:37.000Z"
-        },
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364893/iran-president-says-time-end-war-while-tehran-position-strength?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T18:29:22.000Z"
-        },
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T15:37:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 82,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "19e9ea02e7594dd025d7686c",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "44d84344c3488ef0",
-      "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-      "publishedAt": "2026-08-21T19:52:34.000Z",
-      "summary": "The US Supreme Court on Friday allowed President Donald Trump’s administration to continue construction of his White House ballroom project for now, temporarily pausing a judicial order that would halt much of the development. The court’s action, known as an administrative stay, gives the justices additional time to consider the administration’s formal request to let it continue working on the US$400 million ballroom while a lawsuit by a historic preservation ‌group seeking to stop the project...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-          "publishedAt": "2026-08-21T19:52:34.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364894/us-supreme-court-lets-trump-continue-work-white-house-ballroom-now?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T19:15:46.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 67,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "59188cb5531397d8052dce33",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "9caccb9eb37f47e6",
-      "title": "CUSMA : Mark Carney Washington DC pilgrimages project weakness , not strength -- Canada must do better : The Canadian Business Daily",
-      "source": "agoracosmopolitan.com",
-      "url": "https://www.agoracosmopolitan.com/news/business/2026/08/21/15071-cusma-mark-carneys-washington-dc-pilgrimages-project-weakness-not-strength-canada-must-do-better.html",
-      "publishedAt": "2026-08-21T18:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "agoracosmopolitan.com",
-          "url": "https://www.agoracosmopolitan.com/news/business/2026/08/21/15071-cusma-mark-carneys-washington-dc-pilgrimages-project-weakness-not-strength-canada-must-do-better.html",
-          "publishedAt": "2026-08-21T18:45:00.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364948/canadas-carney-refuses-take-trumps-bait-confronting-us-trade-war?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T01:46:24.000Z"
         }
       ],
       "sourceCount": 1,
@@ -188,174 +47,229 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "专题·美国政策与全球影响"
+        "经济",
+        "军事与安全",
+        "专题·全球经济与金融"
+      ],
+      "score": 75,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "cfe174218d387c179f4d2173",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "afdd011833e04d17",
+      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+      "publishedAt": "2026-08-22T19:00:25.000Z",
+      "summary": "The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+          "publishedAt": "2026-08-22T19:00:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "tariff",
+        "经济"
+      ],
+      "fingerprint": "9e9f1edd58c7c57b0c448ae7",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "ec962d54b2e5fd30",
+      "title": "7 dead in UK after vehicle travelling in wrong direction hits police car",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3364942/7-dead-uk-after-vehicle-travelling-wrong-direction-hits-police-car?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T18:39:59.000Z",
+      "summary": "Seven people, including two police officers, died in a car crash in northeast England on Saturday after a car heading the wrong ‌way down a major road hit a marked police armed response car, the local police force said. Cleveland Police said the incident took place in the early hours of Saturday near the South Bank area east of Middlesbrough and that all occupants of the two cars ⁠died at the scene. “This is an incredibly sad day for Cleveland,” ‌Cleveland Police Chief Constable Victoria Fuller...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3364942/7-dead-uk-after-vehicle-travelling-wrong-direction-hits-police-car?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T18:39:59.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "金融"
+      ],
+      "fingerprint": "f988a6dd66aaf22464458c7c",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "6c66fb44e0f186cc",
+      "title": "Coles website down after viral Reddit post sees customers buy cases of alcoholic drinks at nearly 80% discount",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount",
+      "publishedAt": "2026-08-22T05:55:46.000Z",
+      "summary": "Supermarket’s website and app go offline as customers save more than $100 on some 24-packs Get our breaking news email, free app or daily news podcast The Coles website and app have gone offline hours after a viral Reddit post highlighted a nearly 80% discount on 24-packs of premixed alcoholic drinks. For several hours on Saturday, both the Coles website and app displayed a message advising “we’re currently offline – but not for long”. The website and app came back online, before the website went down again during the afternoon. It was back up at about 4pm AEST. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount",
+          "publishedAt": "2026-08-22T05:55:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "market",
+        "金融"
+      ],
+      "fingerprint": "745ebf5b09cce7c04bd3f704",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "de9106f840b104ba",
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "publishedAt": "2026-08-22T14:04:57.000Z",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks. The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+          "publishedAt": "2026-08-22T14:04:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
       ],
       "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "washington",
-        "美国"
+        "trade",
+        "tariff",
+        "经济"
       ],
-      "fingerprint": "86919bb73d26eb72f4ba4415",
+      "fingerprint": "8bd4585aeeff56ca21cc7dba",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "81c7b43ac3b26a9d",
-      "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
-      "publishedAt": "2026-08-21T10:00:31.000Z",
-      "summary": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined with tall palm trees, its quaint cafes and old-school cantinas, as well as the mix of English and Spanish spoken on the street, the Tabacalera neighborhood in downtown Mexico City has a certain US feel – so much so that it is has become known as Little LA. The nickname is about more than appearances, however. In recent years, this corner of the metropolis has become a haven for many Mexicans deported from the US, particularly those who spent years or decades living across the border and for whom Mexico feels like a foreign country. In Little LA, they have found a more familiar place to belong. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
-          "publishedAt": "2026-08-21T10:00:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "5df0a5c6345420f3646eeee4",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     }
   ],
   "global": [
     {
-      "id": "23a3df2e9a55ca8b",
-      "title": "‘Darth Vader’ comes out in favor of Flock cameras at San Diego city council meeting",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego",
-      "publishedAt": "2026-08-21T21:58:56.000Z",
-      "summary": "The dark lord – or someone dressed like him – said the technology would aid the empire in tracking ‘rebel scum’ A man dressed as Darth Vader appeared to poke fun at San Diego officials for using Flock Safety automated license plate readers at a city council meeting this week, a stunt that comes as the company faces growing backlash linked to spying concerns. The man, whose real identity remains unknown, masqueraded on Thursday as the Star Wars villain at a San Diego public safety committee meeting. Continue reading...",
+      "id": "91f9a2d4a4bb6e31",
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T01:34:15.000Z",
+      "summary": "Brinell School's principal says 18-year-old suspected of carrying out Friday's deadly sword attack was a student there.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego",
-          "publishedAt": "2026-08-21T21:58:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "科技",
-        "国际组织"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "da1655bbec8b50022cdbfc4a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "28e98a1e8b7f0035",
-      "title": "Can a humanitarian disaster be averted in Somalia?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
-      "publishedAt": "2026-08-21T20:27:14.000Z",
-      "summary": "The UN warns of another hunger crisis, with starvation threatening millions.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-23T01:34:15.000Z"
+        },
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
-          "publishedAt": "2026-08-21T20:27:14.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
+          "publishedAt": "2026-08-22T18:29:24.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "公共安全"
+        "突发"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 68,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "fb7be6e43b470ce7bbf0907d",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "1aa205174881f15c",
-      "title": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
-      "publishedAt": "2026-08-21T15:00:39.000Z",
-      "summary": "Exclusive: Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars Get our breaking news email, free app or daily news podcast The New South Wales government could appeal a supreme court judge’s controversial decision to refuse its request for a terror order over a Sydney man convicted of writing “Fuk Israel” on cars and setting another vehicle alight in late 2024. Justice Desmond Fagan this week found disparaging Israel was “political comment” not antisemitism. He rejected the state’s application that Mohommed Farhat be subjected to a one-year extended supervision order under the Terrorism Act when released from prison. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
-          "publishedAt": "2026-08-21T15:00:39.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "283f281d0e0937a3ddd2c7a4",
+      "fingerprint": "ae480a6ba07cf9d8710632af",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -364,57 +278,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "21df9eb52557d88c",
-      "title": "China’s trade grip tightens in Europe as clock ticks towards October deadline",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
-      "publishedAt": "2026-08-21T14:00:06.000Z",
-      "summary": "Midway through a three-month negotiating period with Beijing, new data shows the trade balances of 24 European Union member states are still moving in what Brussels considers to be the wrong direction. China extended its trade surplus over all but three EU members in July compared to a year earlier, calculations based on new Chinese customs figures showed. In some instances, the monthly swing was dramatic. China’s surplus with Sweden quadrupled, while for Malta it rose by 166.6 per cent. For...",
+      "id": "b360d17ebc458411",
+      "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
+      "publishedAt": "2026-08-22T18:11:55.000Z",
+      "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T14:00:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "军事与安全"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "13cac56c449712de658a877b",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "31b1e84bf2167484",
-      "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
-      "source": "DW",
-      "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-21T13:51:00.000Z",
-      "summary": "Russian attacks on ships and ports in the Black Sea are threatening Ukraine's agricultural sector. Grain exports are severely restricted, and Kyiv is seeking solutions.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T13:51:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
+          "publishedAt": "2026-08-22T18:11:55.000Z"
         }
       ],
       "sourceCount": 1,
@@ -424,149 +300,35 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "国际组织"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 61,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "2c3e5814a341079d949d5f2e",
+      "fingerprint": "78d90efeac6ee04d127b5b84",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "d02a76f12d1e528e",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T00:40:47.000Z",
-      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-22T00:40:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d3e891756d06b6154d15493a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "b720bd86bebab67d",
-      "title": "Iran Finalizes Oman Trade Deal as Bessent Prepares Monday Sanctions Briefing",
-      "source": "hngn.com",
-      "url": "https://www.hngn.com/articles/272831/20260821/trump-declares-economic-d-day-iran-uae-cuts-all-trade-ties-hormuz-attacks-continue.htm",
-      "publishedAt": "2026-08-21T23:30:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "hngn.com",
-          "url": "https://www.hngn.com/articles/272831/20260821/trump-declares-economic-d-day-iran-uae-cuts-all-trade-ties-hormuz-attacks-continue.htm",
-          "publishedAt": "2026-08-21T23:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "经济"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6d2a099151a40017879c583a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "805e4625feeb2a4d",
-      "title": "Dutch regulator fines Uber $966m for automating driver suspensions",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
-      "publishedAt": "2026-08-21T20:12:33.000Z",
-      "summary": "European regulators have imposed billions in penalties on US technology companies due to privacy, competition and digital market rules The Dutch data protection authority has fined ⁠Uber €825m ($966m) for deactivating driver ⁠accounts through automated systems without ​adequately informing them, according to a 17 August decision. The penalty would be the second-largest issued yet under Europe’s General Data Protection Regulation (GDPR). Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
-          "publishedAt": "2026-08-21T20:12:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "金融",
-        "科技"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9f44543c76fb4869beb8f50c",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "a1763cea1b260997",
-      "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
+      "id": "afdd011833e04d17",
+      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-      "publishedAt": "2026-08-21T19:42:51.000Z",
-      "summary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+      "publishedAt": "2026-08-22T19:00:25.000Z",
+      "summary": "The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-          "publishedAt": "2026-08-21T19:42:51.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+          "publishedAt": "2026-08-22T19:00:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -576,14 +338,17 @@
       "tags": [
         "全球焦点",
         "经济",
-        "国际组织"
+        "专题·全球经济与金融"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "841bf533095df4118f44e424",
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "tariff",
+        "经济"
+      ],
+      "fingerprint": "9e9f1edd58c7c57b0c448ae7",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -592,19 +357,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "79aecc923ce6ca0f",
-      "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-      "source": "DW",
-      "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-21T18:59:00.000Z",
-      "summary": "Ukraine has imposed sanctions on the hit Russian children's cartoon \"Masha and the Bear,\" a step towards banning it. The culture minister called the show propaganda. Russia said the move showed Kyiv's \"ugly nature.\"",
-      "language": "en",
-      "region": "europe",
+      "id": "ec962d54b2e5fd30",
+      "title": "7 dead in UK after vehicle travelling in wrong direction hits police car",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3364942/7-dead-uk-after-vehicle-travelling-wrong-direction-hits-police-car?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T18:39:59.000Z",
+      "summary": "Seven people, including two police officers, died in a car crash in northeast England on Saturday after a car heading the wrong ‌way down a major road hit a marked police armed response car, the local police force said. Cleveland Police said the incident took place in the early hours of Saturday near the South Bank area east of Middlesbrough and that all occupants of the two cars ⁠died at the scene. “This is an incredibly sad day for Cleveland,” ‌Cleveland Police Chief Constable Victoria Fuller...",
+      "language": "",
+      "region": "china",
       "crossSources": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T18:59:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3364942/7-dead-uk-after-vehicle-travelling-wrong-direction-hits-police-car?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T18:39:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -613,15 +378,255 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "外交",
-        "军事与安全"
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "金融"
+      ],
+      "fingerprint": "f988a6dd66aaf22464458c7c",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "6c66fb44e0f186cc",
+      "title": "Coles website down after viral Reddit post sees customers buy cases of alcoholic drinks at nearly 80% discount",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount",
+      "publishedAt": "2026-08-22T05:55:46.000Z",
+      "summary": "Supermarket’s website and app go offline as customers save more than $100 on some 24-packs Get our breaking news email, free app or daily news podcast The Coles website and app have gone offline hours after a viral Reddit post highlighted a nearly 80% discount on 24-packs of premixed alcoholic drinks. For several hours on Saturday, both the Coles website and app displayed a message advising “we’re currently offline – but not for long”. The website and app came back online, before the website went down again during the afternoon. It was back up at about 4pm AEST. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount",
+          "publishedAt": "2026-08-22T05:55:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "market",
+        "金融"
+      ],
+      "fingerprint": "745ebf5b09cce7c04bd3f704",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "78c9eefc8e822e93",
+      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+      "publishedAt": "2026-08-22T19:24:51.000Z",
+      "summary": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+          "publishedAt": "2026-08-22T19:24:51.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
       ],
       "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1537961fa0874bd5f23830f8",
+      "fingerprint": "3f312340feca501b81aaa62e",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "0e09cd124dc2594b",
+      "title": "Sword attack that killed 1 at Sweden high school prompts social media probe",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3364939/sword-attack-sweden-killed-one-prompts-probe-social-media?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T14:41:45.000Z",
+      "summary": "Swedish police are investigating whether an 18-year-old man who attacked students at a high school with a sword on Friday, killing one, was involved in online communities promoting school violence, a police source said. The attacker struck at a school in the central ‌Swedish town of Fagersta, also severely injuring two teenage boys before being arrested by police. The parents of a 17-year-old girl told local newspaper Fagersta-Posten that their daughter was killed in the attack. Police are...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3364939/sword-attack-sweden-killed-one-prompts-probe-social-media?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T14:41:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "37d1aec15dc0163b381adf09",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "de9106f840b104ba",
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "publishedAt": "2026-08-22T14:04:57.000Z",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks. The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+          "publishedAt": "2026-08-22T14:04:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "tariff",
+        "经济"
+      ],
+      "fingerprint": "8bd4585aeeff56ca21cc7dba",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a0380bc579d25fa1",
+      "title": "曹国亮 ： 安华的台海言论争议 ， 本可避免 ？ | 东方文荟 | 评论",
+      "source": "orientaldaily.com.my",
+      "url": "https://www.orientaldaily.com.my/news/wenhui/2026/08/23/842472",
+      "publishedAt": "2026-08-23T01:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "orientaldaily.com.my",
+          "url": "https://www.orientaldaily.com.my/news/wenhui/2026/08/23/842472",
+          "publishedAt": "2026-08-23T01:45:00.000Z"
+        },
+        {
+          "source": "news.seehua.com",
+          "url": "https://news.seehua.com/post/1541230/",
+          "publishedAt": "2026-08-23T01:45:00.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "55d747eb99f908c59516ed55",
+      "isContinuation": false,
+      "titleZh": "曹国亮 ： 安华的台海言论争议 ， 本可避免 ？ | 东方文荟 | 评论",
+      "summaryZh": "曹国亮 ： 安华的台海言论争议 ， 本可避免 ？ | 东方文荟 | 评论",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "7c18c577c9a0e4f4",
+      "title": "Heathrow expansion ‘is threat to England’s largest surviving medieval barn’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+      "publishedAt": "2026-08-23T00:00:17.000Z",
+      "summary": "Exclusive: campaigners warn 600-year-old New Barn at Harmondsworth could be ‘shaken to pieces’ by vibrations Six hundred years after it was built, England’s largest surviving medieval timber-framed barn could now be “shaken to pieces” by aircraft vibrations, campaigners warn. The public has until 1 September to submit objections to the Heathrow airport expansion, which could threaten the survival of the New Barn at Harmondsworth, considered a remarkable example of medieval architecture. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+          "publishedAt": "2026-08-23T00:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "12054b5a384ed607c4054e4a",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -632,19 +637,19 @@
   ],
   "china": [
     {
-      "id": "6e53c5d203718fbb",
-      "title": "Hong Kong physiotherapists face job crunch amid oversupply and budget cuts",
+      "id": "7feb93a21e20c2ac",
+      "title": "Hong Kong can open a lucrative new frontier as Chinese tech IP hub",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3364880/hong-kong-physiotherapists-face-job-crunch-amid-oversupply-and-budget-cuts?utm_source=rss_feed",
-      "publishedAt": "2026-08-22T01:00:17.000Z",
-      "summary": "Hong Kong physiotherapy graduates are facing a job crunch amid ongoing healthcare budget cuts and a surge in new practitioners entering the industry, with one representative saying 60 applicants had competed for one position in a remote care facility for elderly residents. Data also showed that the proportion of applicants admitted to Polytechnic University’s (PolyU) prestigious physiotherapy programme who ranked it among their top three choices – known as “Band A” – fell by around 9 percentage...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364571/hong-kong-can-open-lucrative-new-frontier-chinese-tech-ip-hub?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T01:30:06.000Z",
+      "summary": "Since 2021, Hong Kong’s development as a regional intellectual property (IP) trading centre has featured in China’s five-year plans and the policy addresses of chief executives Carrie Lam Cheng Yuet-ngor and John Lee Ka-chiu. There are good strategic reasons to see considerable potential in developing the city as an IP servicing centre for the Greater Bay Area, and potentially the whole of China and wider Asia-Pacific region. Hong Kong has several natural advantages. Major international IP...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3364880/hong-kong-physiotherapists-face-job-crunch-amid-oversupply-and-budget-cuts?utm_source=rss_feed",
-          "publishedAt": "2026-08-22T01:00:17.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364571/hong-kong-can-open-lucrative-new-frontier-chinese-tech-ip-hub?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T01:30:06.000Z"
         }
       ],
       "sourceCount": 1,
@@ -656,11 +661,11 @@
         "国际组织"
       ],
       "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b4854b4a6029ad1f54bb50a0",
+      "fingerprint": "cb84bb8dc741cf8052023203",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -669,19 +674,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "5a155485b5b252c2",
-      "title": "Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility",
+      "id": "39400935526f8968",
+      "title": "How Opatra’s ‘coercive’ tactics in Hong Kong echo global ‘Dead Sea sales scams’",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility?utm_source=rss_feed",
-      "publishedAt": "2026-08-22T01:00:14.000Z",
-      "summary": "South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected the flexible leverage structure to soften the blow, but it actually felt like it was dropping even harder than the product in South Korea,” the 32-year-old Seoul-based retail investor said. The CSOP SK...",
+      "url": "https://www.scmp.com/news/hong-kong/article/3364938/how-opatras-coercive-tactics-hong-kong-echo-global-dead-sea-sales-scams?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T01:00:12.000Z",
+      "summary": "Allegedly aggressive sales tactics and business operations in Hong Kong’s beauty product sector closely mirror the global “Dead Sea sales scams” uncovered years ago, documents on WikiLeaks have shown. The controversy has prompted calls from experts for the city’s government to strengthen regulation by expanding proposed cooling-off period legislation to cover retail beauty goods. A check of the whistle-blower website WikiLeaks by the South China Morning Post found that shops and kiosks selling...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility?utm_source=rss_feed",
-          "publishedAt": "2026-08-22T01:00:14.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/article/3364938/how-opatras-coercive-tactics-hong-kong-echo-global-dead-sea-sales-scams?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T01:00:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -689,36 +694,35 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "金融"
+        "中国重点"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "680929dea00da8942f8ec932",
+      "fingerprint": "47fb6f927e8e9ceca36c9f37",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "8870ddcec5422a60",
-      "title": "Ex-care home worker accused of raping intellectually disabled woman 5 times",
+      "id": "cca267ee7f85a0fa",
+      "title": "Hong Kong-built greenhouse gas tracker device ‘functioning well’ on space station",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364886/ex-care-home-worker-accused-raping-intellectually-disabled-woman-5-times?utm_source=rss_feed",
-      "publishedAt": "2026-08-21T14:45:36.000Z",
-      "summary": "A former assistant warden at a residential home for the intellectually disabled in Hong Kong has been accused of raping a resident multiple times two years ago. Chung Pui-kei has been charged with five counts of rape of a mentally incapacitated woman who lived at a home in Tai Po linked to the Hong Chi Association, an NGO, between July and August 2024. Prosecutor Human Lam Hiu-man outlined the five alleged incidents at the High Court on Friday and called a psychiatrist and a clinical...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3364930/hong-kong-built-greenhouse-gas-tracker-device-functioning-well-space-station?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T11:22:40.000Z",
+      "summary": "A greenhouse gas monitoring instrument developed by a university in Hong Kong is operating successfully aboard the Tiangong space station and is expected to contribute to sustainable development, the city’s technology minister has said. Secretary for Innovation, Technology and Industry Sun Dong also revealed more details in a blog post on Saturday about the life of the city’s first astronaut, Lai Ka-ying, who he said had a busy schedule at the space station. The Multi‑Spectral Imaging Carbon...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364886/ex-care-home-worker-accused-raping-intellectually-disabled-woman-5-times?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T14:45:36.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3364930/hong-kong-built-greenhouse-gas-tracker-device-functioning-well-space-station?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T11:22:40.000Z"
         }
       ],
       "sourceCount": 1,
@@ -727,79 +731,73 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
         "科技",
+        "能源",
         "国际组织"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9f260fd40d6d7b451318fea1",
+      "fingerprint": "5980487f7fead41c5a6a1a98",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "7aa1062961ba90eb",
-      "title": "【 中国网评 】 日本低配版 印太战略 ： 能力撑不起的军事野心 - 西部网 （ 陕西新闻网 ）",
-      "source": "news.cnwest.com",
-      "url": "http://news.cnwest.com/szyw/a/2026/08/21/23417846.html",
-      "publishedAt": "2026-08-21T15:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "news.cnwest.com",
-          "url": "http://news.cnwest.com/szyw/a/2026/08/21/23417846.html",
-          "publishedAt": "2026-08-21T15:30:00.000Z"
-        },
-        {
-          "source": "china.com.cn",
-          "url": "http://www.china.com.cn/opinion/2026-08/21/content_118658681.html",
-          "publishedAt": "2026-08-21T09:15:00.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "82edfb8603f3d35051a3f7ae",
-      "isContinuation": false,
-      "titleZh": "【 中国网评 】 日本低配版 印太战略 ： 能力撑不起的军事野心 - 西部网 （ 陕西新闻网 ）",
-      "summaryZh": "【 中国网评 】 日本低配版 印太战略 ： 能力撑不起的军事野心 - 西部网 （ 陕西新闻网 ）",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "original-chinese"
-    },
-    {
-      "id": "f5eb704c1daa992b",
-      "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
+      "id": "c987dce07fea2cd2",
+      "title": "India launches rescue mission as Panama-flagged cargo ship sinks off east coast",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
-      "publishedAt": "2026-08-21T14:00:10.000Z",
-      "summary": "A US artificial intelligence start-up backed by OpenAI has built its first in-house model on Chinese lab Moonshot AI’s Kimi K3, highlighting a growing shift by Western tech firms towards Chinese open-weight systems amid soaring development costs. San Francisco-based legal tech provider Harvey, whose high-profile backers also include Sequoia Capital and Andreessen Horowitz, said on Thursday that its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base. The company said...",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T22:31:16.000Z",
+      "summary": "India’s maritime rescue agency lost communication on Saturday with a Panama-flagged cargo vessel that sank off the coast of eastern ‌India, the Indian coastguard said. The vessel had 24 crew on board, including 20 Chinese nationals, three Myanmar nationals and one Bangladeshi, according to Commandant Amit Uniyal, a spokesman for the coastguard. The coastguard sent two vessels for the search-and-rescue mission ‌from Sri Vijaya Puram, formerly known as Port Blair, Uniyal said. The coastguard has...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T14:00:10.000Z"
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T22:31:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f54b16590dc37b847041ee68",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "75d216977341b3fe",
+      "title": "Hong Kong must abandon superiority complex over mainland China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364326/hong-kong-must-abandon-superiority-complex-over-mainland-china?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T21:30:07.000Z",
+      "summary": "After many years in Hong Kong, with some sadness, I left the city for greener pastures, though my link with it remains an emotional one. When I moved my two dogs across the border to Shenzhen, I was told by agents, officials, even artificial intelligence, that the mainland bureaucracy would be rigid and unhelpful. My experience was the opposite. The young customs officers at Shenzhen Bay answered my phone calls, gave candid advice and treated my situation – a single parent relocating with a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364326/hong-kong-must-abandon-superiority-complex-over-mainland-china?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T21:30:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -808,359 +806,320 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "科技",
-        "国际组织"
+        "科技"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "09e671ae3766e65aab63a420",
+      "fingerprint": "02510845d65cec187076e860",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     }
   ],
   "usa": [
     {
-      "id": "98a550fb6a8fc96e",
-      "title": "Trump says he views strait of Hormuz as ‘American territory’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-      "publishedAt": "2026-08-22T01:24:27.000Z",
-      "summary": "President in South Carolina celebrates supreme court’s temporary order to allow construction to continue and discusses war in Iran Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. ”I’ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,” Sheehy wrote on X. “The President’s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our herd and bring prices down for the American people. And most importantly, this will harm our ranching families who feed the nation.” Trump announced a plan on Truth Social to allow 300,000 metric tonnes of beef to be im",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-          "publishedAt": "2026-08-22T01:24:27.000Z"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-          "publishedAt": "2026-08-22T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "军事与安全",
-        "国际组织",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 91,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "4959831cb304962428e6705a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "82f14e4e7d99504f",
-      "title": "Iranian president says time to end war with US from ‘position of strength’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-      "publishedAt": "2026-08-22T00:59:37.000Z",
-      "summary": "Iranian President Masoud Pezeshkian said on Friday it was time to end the months-long Middle East war with the US because Tehran appeared to be in a stronger position than Washington. Talks between the long-time foes remain on hold, and the war started by the US and Israel in February has been locked in a stalemate. Tehran is keeping the key Strait of Hormuz partially shut, and Washington is persisting with a naval counter-blockade of Iran. “It is better that we bring the war to an end now as we...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-          "publishedAt": "2026-08-22T00:59:37.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364893/iran-president-says-time-end-war-while-tehran-position-strength?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T18:29:22.000Z"
-        },
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T15:37:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 82,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "19e9ea02e7594dd025d7686c",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "44d84344c3488ef0",
-      "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-      "publishedAt": "2026-08-21T19:52:34.000Z",
-      "summary": "The US Supreme Court on Friday allowed President Donald Trump’s administration to continue construction of his White House ballroom project for now, temporarily pausing a judicial order that would halt much of the development. The court’s action, known as an administrative stay, gives the justices additional time to consider the administration’s formal request to let it continue working on the US$400 million ballroom while a lawsuit by a historic preservation ‌group seeking to stop the project...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-          "publishedAt": "2026-08-21T19:52:34.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364894/us-supreme-court-lets-trump-continue-work-white-house-ballroom-now?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T19:15:46.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 67,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "59188cb5531397d8052dce33",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "9caccb9eb37f47e6",
-      "title": "CUSMA : Mark Carney Washington DC pilgrimages project weakness , not strength -- Canada must do better : The Canadian Business Daily",
-      "source": "agoracosmopolitan.com",
-      "url": "https://www.agoracosmopolitan.com/news/business/2026/08/21/15071-cusma-mark-carneys-washington-dc-pilgrimages-project-weakness-not-strength-canada-must-do-better.html",
-      "publishedAt": "2026-08-21T18:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "agoracosmopolitan.com",
-          "url": "https://www.agoracosmopolitan.com/news/business/2026/08/21/15071-cusma-mark-carneys-washington-dc-pilgrimages-project-weakness-not-strength-canada-must-do-better.html",
-          "publishedAt": "2026-08-21T18:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "86919bb73d26eb72f4ba4415",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "81c7b43ac3b26a9d",
-      "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
-      "publishedAt": "2026-08-21T10:00:31.000Z",
-      "summary": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined with tall palm trees, its quaint cafes and old-school cantinas, as well as the mix of English and Spanish spoken on the street, the Tabacalera neighborhood in downtown Mexico City has a certain US feel – so much so that it is has become known as Little LA. The nickname is about more than appearances, however. In recent years, this corner of the metropolis has become a haven for many Mexicans deported from the US, particularly those who spent years or decades living across the border and for whom Mexico feels like a foreign country. In Little LA, they have found a more familiar place to belong. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
-          "publishedAt": "2026-08-21T10:00:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "5df0a5c6345420f3646eeee4",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    }
-  ],
-  "watch": [
-    {
-      "id": "94b3da3df0b0b56b",
-      "title": "German army helps Poland construct a defensive barrier against Russia",
-      "source": "DW",
-      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-21T18:44:00.000Z",
-      "summary": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the East Shield.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T18:44:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6635e7dbef15b602107c5e53",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "08606f7e416aeb09",
-      "title": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168182",
-      "publishedAt": "2026-08-21T12:00:00.000Z",
-      "summary": "As the deadliest Ebola outbreak in DR Congo’s history continued spreading on Friday, UN responders renewed their urgent appeal for immediate international support, with existing funding for lifesaving work critically low.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168182",
-          "publishedAt": "2026-08-21T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5ff4902cdb1aa24dd17918a3",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "90bfc7f09f26f0ff",
-      "title": "Wang Yi visits South Korea, China’s economy cools, Warsh speaks at Jackson Hole",
+      "id": "7fe97686b99f6502",
+      "title": "Canada’s Carney refuses to take Trump’s ‘bait’, confronting US in trade war",
       "source": "SCMP",
-      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3364793/wang-yi-visits-south-korea-chinas-economy-cools-warsh-speaks-jackson-hole?utm_source=rss_feed",
-      "publishedAt": "2026-08-21T09:00:16.000Z",
-      "summary": "Note: SCMP Plus subscribers can attend an exclusive event with Zhou Bo, a retired People’s Liberation Army senior colonel, in Hong Kong on Tuesday. Zhou will discuss China’s military modernisation as the PLA works towards its 2027 centenary goal. SCMP Editor-in-Chief Chow Chung-yan will host the fireside chat. Zhou is now a senior fellow at Tsinghua University. Chinese Foreign Minister Wang Yi sought to boost ties with South Korea amid signs of strains in the long-standing US-South Korean...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364948/canadas-carney-refuses-take-trumps-bait-confronting-us-trade-war?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T01:46:24.000Z",
+      "summary": "Siding with Canadians weary of provocations from Washington, Prime Minister Mark Carney stood up to US President Donald Trump, rejecting what he called an “unfair” trade deal – a gamble that could prove economically risky. “We will not allow any nation to determine our future. We will set our own course to keep building Canada strong for all,” Carney said on Friday, as negotiations for a bilateral trade deal were crumbling. After weeks of talks with US officials in an effort to avoid punitive...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3364793/wang-yi-visits-south-korea-chinas-economy-cools-warsh-speaks-jackson-hole?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T09:00:16.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364948/canadas-carney-refuses-take-trumps-bait-confronting-us-trade-war?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T01:46:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济",
+        "军事与安全",
+        "专题·全球经济与金融"
+      ],
+      "score": 75,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "cfe174218d387c179f4d2173",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "bd22c76e37e83128",
+      "title": "Is this the end of Harry and Meghan’s American dream?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "publishedAt": "2026-08-22T20:42:12.000Z",
+      "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new lives outside the House of Windsor. With every global media stable clamouring for their signature, the couple revealed a deal with Netflix reportedly worth $100m. The ambitions were lofty and broad, including scripted and unscripted projects, shows for all ages and documentaries. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+          "publishedAt": "2026-08-22T20:42:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "88c03fc2bac6a3325298a31e",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "81eac8eb2e7037b7",
+      "title": "Why South Korea wants to rebuild a DMZ railway despite Kim’s cold shoulder",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3364909/why-south-korea-wants-rebuild-dmz-railway-despite-kims-cold-shoulder?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T06:44:13.000Z",
+      "summary": "Near the heavily fortified frontier dividing the Korean peninsula, the abandoned Woljeong-ri station is being recast as a symbol of South Korea’s hopes to reconcile with the North. But plans to reconnect South Korea’s northernmost station to the rail network come at an awkward moment, as Pyongyang ignores Seoul’s overtures while the South’s old ally Washington pursues its own talks with Pyongyang. A turbulent few days have raised doubts about the role of South Korea in any diplomatic push,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3364909/why-south-korea-wants-rebuild-dmz-railway-despite-kims-cold-shoulder?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T06:44:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9a11da48c22f7f9b7a722918",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "5a6bfa416b6cce35",
+      "title": "Customs seizes endangered turtles and parrots in 2 cases, arrests woman",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364924/customs-seizes-endangered-turtles-and-parrots-2-cases-arrests-woman?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T09:55:51.000Z",
+      "summary": "Hong Kong customs officers have seized endangered turtles and parrots alongside other animals in two separate smuggling cases, resulting in the arrest of one woman. The Customs and Excise Department said on Saturday that 17 live turtles were discovered in a package declared as containing a jacket arriving at Hong Kong International Airport from the United States. “Upon inspection, a batch of live turtles of suspected scheduled endangered species was found concealed in socks,” it said. Customs...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364924/customs-seizes-endangered-turtles-and-parrots-2-cases-arrests-woman?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T09:55:51.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "外交",
-        "经济",
-        "军事与安全"
+        "美国重点"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 51,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1d8fa2e00b714a0650c8fa41",
+      "fingerprint": "94b0bf53766e813b9c8407cb",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "8a676e0022d09809",
+      "title": "国际观察丨美国对伊朗 史上最严制裁 能奏效吗",
+      "source": "baijiahao.baidu.com",
+      "url": "https://baijiahao.baidu.com/s?id=1874203809555017174",
+      "publishedAt": "2026-08-22T12:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "baijiahao.baidu.com",
+          "url": "https://baijiahao.baidu.com/s?id=1874203809555017174",
+          "publishedAt": "2026-08-22T12:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "外交"
+      ],
+      "score": 49,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0cc1e659e4051a4420d75727",
+      "isContinuation": false,
+      "titleZh": "国际观察丨美国对伊朗 史上最严制裁 能奏效吗",
+      "summaryZh": "国际观察丨美国对伊朗 史上最严制裁 能奏效吗",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    }
+  ],
+  "watch": [
+    {
+      "id": "0e49c2a8fba0e003",
+      "title": "In Malaysia, voter anger fuels a third force against Anwar",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3364866/malaysia-voter-anger-fuels-third-force-against-anwar?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T00:00:14.000Z",
+      "summary": "Malaysian politics runs on grudges and few illustrate that better than the one nursed by Rafizi Ramli. A year after losing the deputy presidency of Prime Minister Anwar Ibrahim’s People’s Justice Party (PKR), he has built a vehicle for the disaffected, aimed squarely at the coalition of which he was once part. Parti Bersama Malaysia – or Bersama, meaning “together” – is barely three months old under its new leadership, yet it has already rattled Malaysia’s governing alliance. Taken over in May...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3364866/malaysia-voter-anger-fuels-third-force-against-anwar?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T00:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "aabe3163dba826b50831c800",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "3589a561c806bfcc",
+      "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
+      "publishedAt": "2026-08-22T17:58:15.000Z",
+      "summary": "Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
+          "publishedAt": "2026-08-22T17:58:15.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b3db4c0b6adb888b46e9ffd6",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "2730948a808255fc",
+      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+      "publishedAt": "2026-08-22T22:29:07.000Z",
+      "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+          "publishedAt": "2026-08-22T22:29:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3c6091f27009752db6f79f7e",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1171,8 +1130,8 @@
   ],
   "more": [],
   "metadata": {
-    "fetched": 209,
-    "deduplicated": 199,
+    "fetched": 198,
+    "deduplicated": 167,
     "selected": 23,
     "minimumRequired": 21,
     "featured": 5,
@@ -1181,163 +1140,19 @@
   },
   "items": [
     {
-      "id": "98a550fb6a8fc96e",
-      "title": "Trump says he views strait of Hormuz as ‘American territory’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-      "publishedAt": "2026-08-22T01:24:27.000Z",
-      "summary": "President in South Carolina celebrates supreme court’s temporary order to allow construction to continue and discusses war in Iran Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. ”I’ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,” Sheehy wrote on X. “The President’s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our herd and bring prices down for the American people. And most importantly, this will harm our ranching families who feed the nation.” Trump announced a plan on Truth Social to allow 300,000 metric tonnes of beef to be im",
+      "id": "7fe97686b99f6502",
+      "title": "Canada’s Carney refuses to take Trump’s ‘bait’, confronting US in trade war",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364948/canadas-carney-refuses-take-trumps-bait-confronting-us-trade-war?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T01:46:24.000Z",
+      "summary": "Siding with Canadians weary of provocations from Washington, Prime Minister Mark Carney stood up to US President Donald Trump, rejecting what he called an “unfair” trade deal – a gamble that could prove economically risky. “We will not allow any nation to determine our future. We will set our own course to keep building Canada strong for all,” Carney said on Friday, as negotiations for a bilateral trade deal were crumbling. After weeks of talks with US officials in an effort to avoid punitive...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-          "publishedAt": "2026-08-22T01:24:27.000Z"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-          "publishedAt": "2026-08-22T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "军事与安全",
-        "国际组织",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 91,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "4959831cb304962428e6705a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "82f14e4e7d99504f",
-      "title": "Iranian president says time to end war with US from ‘position of strength’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-      "publishedAt": "2026-08-22T00:59:37.000Z",
-      "summary": "Iranian President Masoud Pezeshkian said on Friday it was time to end the months-long Middle East war with the US because Tehran appeared to be in a stronger position than Washington. Talks between the long-time foes remain on hold, and the war started by the US and Israel in February has been locked in a stalemate. Tehran is keeping the key Strait of Hormuz partially shut, and Washington is persisting with a naval counter-blockade of Iran. “It is better that we bring the war to an end now as we...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-          "publishedAt": "2026-08-22T00:59:37.000Z"
-        },
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3364893/iran-president-says-time-end-war-while-tehran-position-strength?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T18:29:22.000Z"
-        },
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T15:37:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 82,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "19e9ea02e7594dd025d7686c",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "44d84344c3488ef0",
-      "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-      "publishedAt": "2026-08-21T19:52:34.000Z",
-      "summary": "The US Supreme Court on Friday allowed President Donald Trump’s administration to continue construction of his White House ballroom project for now, temporarily pausing a judicial order that would halt much of the development. The court’s action, known as an administrative stay, gives the justices additional time to consider the administration’s formal request to let it continue working on the US$400 million ballroom while a lawsuit by a historic preservation ‌group seeking to stop the project...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-          "publishedAt": "2026-08-21T19:52:34.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364894/us-supreme-court-lets-trump-continue-work-white-house-ballroom-now?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T19:15:46.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 67,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "59188cb5531397d8052dce33",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "9caccb9eb37f47e6",
-      "title": "CUSMA : Mark Carney Washington DC pilgrimages project weakness , not strength -- Canada must do better : The Canadian Business Daily",
-      "source": "agoracosmopolitan.com",
-      "url": "https://www.agoracosmopolitan.com/news/business/2026/08/21/15071-cusma-mark-carneys-washington-dc-pilgrimages-project-weakness-not-strength-canada-must-do-better.html",
-      "publishedAt": "2026-08-21T18:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "agoracosmopolitan.com",
-          "url": "https://www.agoracosmopolitan.com/news/business/2026/08/21/15071-cusma-mark-carneys-washington-dc-pilgrimages-project-weakness-not-strength-canada-must-do-better.html",
-          "publishedAt": "2026-08-21T18:45:00.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364948/canadas-carney-refuses-take-trumps-bait-confronting-us-trade-war?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T01:46:24.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1346,78 +1161,40 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "专题·美国政策与全球影响"
+        "经济",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 75,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "washington",
-        "美国"
+        "trade",
+        "经济"
       ],
-      "fingerprint": "86919bb73d26eb72f4ba4415",
+      "fingerprint": "cfe174218d387c179f4d2173",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
+      "whyImportant": "可能影响地区安全与外交走向。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "81c7b43ac3b26a9d",
-      "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
-      "publishedAt": "2026-08-21T10:00:31.000Z",
-      "summary": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined with tall palm trees, its quaint cafes and old-school cantinas, as well as the mix of English and Spanish spoken on the street, the Tabacalera neighborhood in downtown Mexico City has a certain US feel – so much so that it is has become known as Little LA. The nickname is about more than appearances, however. In recent years, this corner of the metropolis has become a haven for many Mexicans deported from the US, particularly those who spent years or decades living across the border and for whom Mexico feels like a foreign country. In Little LA, they have found a more familiar place to belong. Continue reading...",
+      "id": "afdd011833e04d17",
+      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+      "publishedAt": "2026-08-22T19:00:25.000Z",
+      "summary": "The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
-          "publishedAt": "2026-08-21T10:00:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "5df0a5c6345420f3646eeee4",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "23a3df2e9a55ca8b",
-      "title": "‘Darth Vader’ comes out in favor of Flock cameras at San Diego city council meeting",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego",
-      "publishedAt": "2026-08-21T21:58:56.000Z",
-      "summary": "The dark lord – or someone dressed like him – said the technology would aid the empire in tracking ‘rebel scum’ A man dressed as Darth Vader appeared to poke fun at San Diego officials for using Flock Safety automated license plate readers at a city council meeting this week, a stunt that comes as the company faces growing backlash linked to spying concerns. The man, whose real identity remains unknown, masqueraded on Thursday as the Star Wars villain at a San Diego public safety committee meeting. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego",
-          "publishedAt": "2026-08-21T21:58:56.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+          "publishedAt": "2026-08-22T19:00:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1426,37 +1203,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "科技",
-        "国际组织"
+        "经济",
+        "专题·全球经济与金融"
       ],
       "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "da1655bbec8b50022cdbfc4a",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "tariff",
+        "经济"
+      ],
+      "fingerprint": "9e9f1edd58c7c57b0c448ae7",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "28e98a1e8b7f0035",
-      "title": "Can a humanitarian disaster be averted in Somalia?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
-      "publishedAt": "2026-08-21T20:27:14.000Z",
-      "summary": "The UN warns of another hunger crisis, with starvation threatening millions.",
+      "id": "ec962d54b2e5fd30",
+      "title": "7 dead in UK after vehicle travelling in wrong direction hits police car",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3364942/7-dead-uk-after-vehicle-travelling-wrong-direction-hits-police-car?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T18:39:59.000Z",
+      "summary": "Seven people, including two police officers, died in a car crash in northeast England on Saturday after a car heading the wrong ‌way down a major road hit a marked police armed response car, the local police force said. Cleveland Police said the incident took place in the early hours of Saturday near the South Bank area east of Middlesbrough and that all occupants of the two cars ⁠died at the scene. “This is an incredibly sad day for Cleveland,” ‌Cleveland Police Chief Constable Victoria Fuller...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
-          "publishedAt": "2026-08-21T20:27:14.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3364942/7-dead-uk-after-vehicle-travelling-wrong-direction-hits-police-car?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T18:39:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1465,36 +1244,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "公共安全"
+        "金融",
+        "专题·全球经济与金融"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "fb7be6e43b470ce7bbf0907d",
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "bank",
+        "金融"
+      ],
+      "fingerprint": "f988a6dd66aaf22464458c7c",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "1aa205174881f15c",
-      "title": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
+      "id": "6c66fb44e0f186cc",
+      "title": "Coles website down after viral Reddit post sees customers buy cases of alcoholic drinks at nearly 80% discount",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
-      "publishedAt": "2026-08-21T15:00:39.000Z",
-      "summary": "Exclusive: Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars Get our breaking news email, free app or daily news podcast The New South Wales government could appeal a supreme court judge’s controversial decision to refuse its request for a terror order over a Sydney man convicted of writing “Fuk Israel” on cars and setting another vehicle alight in late 2024. Justice Desmond Fagan this week found disparaging Israel was “political comment” not antisemitism. He rejected the state’s application that Mohommed Farhat be subjected to a one-year extended supervision order under the Terrorism Act when released from prison. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount",
+      "publishedAt": "2026-08-22T05:55:46.000Z",
+      "summary": "Supermarket’s website and app go offline as customers save more than $100 on some 24-packs Get our breaking news email, free app or daily news podcast The Coles website and app have gone offline hours after a viral Reddit post highlighted a nearly 80% discount on 24-packs of premixed alcoholic drinks. For several hours on Saturday, both the Coles website and app displayed a message advising “we’re currently offline – but not for long”. The website and app came back online, before the website went down again during the afternoon. It was back up at about 4pm AEST. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
-          "publishedAt": "2026-08-21T15:00:39.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount",
+          "publishedAt": "2026-08-22T05:55:46.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1504,14 +1286,102 @@
       "tags": [
         "全球焦点",
         "突发",
-        "国际组织"
+        "金融",
+        "专题·全球经济与金融"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "market",
+        "金融"
+      ],
+      "fingerprint": "745ebf5b09cce7c04bd3f704",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "de9106f840b104ba",
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "publishedAt": "2026-08-22T14:04:57.000Z",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks. The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+          "publishedAt": "2026-08-22T14:04:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "tariff",
+        "经济"
+      ],
+      "fingerprint": "8bd4585aeeff56ca21cc7dba",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "91f9a2d4a4bb6e31",
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T01:34:15.000Z",
+      "summary": "Brinell School's principal says 18-year-old suspected of carrying out Friday's deadly sword attack was a student there.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-23T01:34:15.000Z"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
+          "publishedAt": "2026-08-22T18:29:24.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 68,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "283f281d0e0937a3ddd2c7a4",
+      "fingerprint": "ae480a6ba07cf9d8710632af",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1520,57 +1390,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "21df9eb52557d88c",
-      "title": "China’s trade grip tightens in Europe as clock ticks towards October deadline",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
-      "publishedAt": "2026-08-21T14:00:06.000Z",
-      "summary": "Midway through a three-month negotiating period with Beijing, new data shows the trade balances of 24 European Union member states are still moving in what Brussels considers to be the wrong direction. China extended its trade surplus over all but three EU members in July compared to a year earlier, calculations based on new Chinese customs figures showed. In some instances, the monthly swing was dramatic. China’s surplus with Sweden quadrupled, while for Malta it rose by 166.6 per cent. For...",
+      "id": "b360d17ebc458411",
+      "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
+      "publishedAt": "2026-08-22T18:11:55.000Z",
+      "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T14:00:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "军事与安全"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "13cac56c449712de658a877b",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "31b1e84bf2167484",
-      "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
-      "source": "DW",
-      "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-21T13:51:00.000Z",
-      "summary": "Russian attacks on ships and ports in the Black Sea are threatening Ukraine's agricultural sector. Grain exports are severely restricted, and Kyiv is seeking solutions.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T13:51:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
+          "publishedAt": "2026-08-22T18:11:55.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1580,149 +1412,35 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "国际组织"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 61,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "2c3e5814a341079d949d5f2e",
+      "fingerprint": "78d90efeac6ee04d127b5b84",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "d02a76f12d1e528e",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T00:40:47.000Z",
-      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-22T00:40:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d3e891756d06b6154d15493a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "b720bd86bebab67d",
-      "title": "Iran Finalizes Oman Trade Deal as Bessent Prepares Monday Sanctions Briefing",
-      "source": "hngn.com",
-      "url": "https://www.hngn.com/articles/272831/20260821/trump-declares-economic-d-day-iran-uae-cuts-all-trade-ties-hormuz-attacks-continue.htm",
-      "publishedAt": "2026-08-21T23:30:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "hngn.com",
-          "url": "https://www.hngn.com/articles/272831/20260821/trump-declares-economic-d-day-iran-uae-cuts-all-trade-ties-hormuz-attacks-continue.htm",
-          "publishedAt": "2026-08-21T23:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "经济"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6d2a099151a40017879c583a",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "805e4625feeb2a4d",
-      "title": "Dutch regulator fines Uber $966m for automating driver suspensions",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
-      "publishedAt": "2026-08-21T20:12:33.000Z",
-      "summary": "European regulators have imposed billions in penalties on US technology companies due to privacy, competition and digital market rules The Dutch data protection authority has fined ⁠Uber €825m ($966m) for deactivating driver ⁠accounts through automated systems without ​adequately informing them, according to a 17 August decision. The penalty would be the second-largest issued yet under Europe’s General Data Protection Regulation (GDPR). Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
-          "publishedAt": "2026-08-21T20:12:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "金融",
-        "科技"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9f44543c76fb4869beb8f50c",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "a1763cea1b260997",
-      "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
+      "id": "78c9eefc8e822e93",
+      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-      "publishedAt": "2026-08-21T19:42:51.000Z",
-      "summary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+      "publishedAt": "2026-08-22T19:24:51.000Z",
+      "summary": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-          "publishedAt": "2026-08-21T19:42:51.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+          "publishedAt": "2026-08-22T19:24:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1731,36 +1449,35 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "经济",
-        "国际组织"
+        "突发"
       ],
       "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "841bf533095df4118f44e424",
+      "fingerprint": "3f312340feca501b81aaa62e",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "79aecc923ce6ca0f",
-      "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-      "source": "DW",
-      "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-21T18:59:00.000Z",
-      "summary": "Ukraine has imposed sanctions on the hit Russian children's cartoon \"Masha and the Bear,\" a step towards banning it. The culture minister called the show propaganda. Russia said the move showed Kyiv's \"ugly nature.\"",
-      "language": "en",
-      "region": "europe",
+      "id": "0e09cd124dc2594b",
+      "title": "Sword attack that killed 1 at Sweden high school prompts social media probe",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3364939/sword-attack-sweden-killed-one-prompts-probe-social-media?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T14:41:45.000Z",
+      "summary": "Swedish police are investigating whether an 18-year-old man who attacked students at a high school with a sword on Friday, killing one, was involved in online communities promoting school violence, a police source said. The attacker struck at a school in the central ‌Swedish town of Fagersta, also severely injuring two teenage boys before being arrested by police. The parents of a 17-year-old girl told local newspaper Fagersta-Posten that their daughter was killed in the attack. Police are...",
+      "language": "",
+      "region": "china",
       "crossSources": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T18:59:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3364939/sword-attack-sweden-killed-one-prompts-probe-social-media?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T14:41:45.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1769,15 +1486,93 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "外交",
-        "军事与安全"
+        "突发",
+        "国际组织"
       ],
       "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "1537961fa0874bd5f23830f8",
+      "fingerprint": "37d1aec15dc0163b381adf09",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a0380bc579d25fa1",
+      "title": "曹国亮 ： 安华的台海言论争议 ， 本可避免 ？ | 东方文荟 | 评论",
+      "source": "orientaldaily.com.my",
+      "url": "https://www.orientaldaily.com.my/news/wenhui/2026/08/23/842472",
+      "publishedAt": "2026-08-23T01:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "orientaldaily.com.my",
+          "url": "https://www.orientaldaily.com.my/news/wenhui/2026/08/23/842472",
+          "publishedAt": "2026-08-23T01:45:00.000Z"
+        },
+        {
+          "source": "news.seehua.com",
+          "url": "https://news.seehua.com/post/1541230/",
+          "publishedAt": "2026-08-23T01:45:00.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "55d747eb99f908c59516ed55",
+      "isContinuation": false,
+      "titleZh": "曹国亮 ： 安华的台海言论争议 ， 本可避免 ？ | 东方文荟 | 评论",
+      "summaryZh": "曹国亮 ： 安华的台海言论争议 ， 本可避免 ？ | 东方文荟 | 评论",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "original-chinese"
+    },
+    {
+      "id": "7c18c577c9a0e4f4",
+      "title": "Heathrow expansion ‘is threat to England’s largest surviving medieval barn’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+      "publishedAt": "2026-08-23T00:00:17.000Z",
+      "summary": "Exclusive: campaigners warn 600-year-old New Barn at Harmondsworth could be ‘shaken to pieces’ by vibrations Six hundred years after it was built, England’s largest surviving medieval timber-framed barn could now be “shaken to pieces” by aircraft vibrations, campaigners warn. The public has until 1 September to submit objections to the Heathrow airport expansion, which could threaten the survival of the New Barn at Harmondsworth, considered a remarkable example of medieval architecture. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+          "publishedAt": "2026-08-23T00:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "12054b5a384ed607c4054e4a",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1786,19 +1581,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "6e53c5d203718fbb",
-      "title": "Hong Kong physiotherapists face job crunch amid oversupply and budget cuts",
+      "id": "7feb93a21e20c2ac",
+      "title": "Hong Kong can open a lucrative new frontier as Chinese tech IP hub",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3364880/hong-kong-physiotherapists-face-job-crunch-amid-oversupply-and-budget-cuts?utm_source=rss_feed",
-      "publishedAt": "2026-08-22T01:00:17.000Z",
-      "summary": "Hong Kong physiotherapy graduates are facing a job crunch amid ongoing healthcare budget cuts and a surge in new practitioners entering the industry, with one representative saying 60 applicants had competed for one position in a remote care facility for elderly residents. Data also showed that the proportion of applicants admitted to Polytechnic University’s (PolyU) prestigious physiotherapy programme who ranked it among their top three choices – known as “Band A” – fell by around 9 percentage...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364571/hong-kong-can-open-lucrative-new-frontier-chinese-tech-ip-hub?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T01:30:06.000Z",
+      "summary": "Since 2021, Hong Kong’s development as a regional intellectual property (IP) trading centre has featured in China’s five-year plans and the policy addresses of chief executives Carrie Lam Cheng Yuet-ngor and John Lee Ka-chiu. There are good strategic reasons to see considerable potential in developing the city as an IP servicing centre for the Greater Bay Area, and potentially the whole of China and wider Asia-Pacific region. Hong Kong has several natural advantages. Major international IP...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3364880/hong-kong-physiotherapists-face-job-crunch-amid-oversupply-and-budget-cuts?utm_source=rss_feed",
-          "publishedAt": "2026-08-22T01:00:17.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364571/hong-kong-can-open-lucrative-new-frontier-chinese-tech-ip-hub?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T01:30:06.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1810,11 +1605,11 @@
         "国际组织"
       ],
       "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b4854b4a6029ad1f54bb50a0",
+      "fingerprint": "cb84bb8dc741cf8052023203",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1823,19 +1618,19 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "5a155485b5b252c2",
-      "title": "Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility",
+      "id": "39400935526f8968",
+      "title": "How Opatra’s ‘coercive’ tactics in Hong Kong echo global ‘Dead Sea sales scams’",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility?utm_source=rss_feed",
-      "publishedAt": "2026-08-22T01:00:14.000Z",
-      "summary": "South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules. “I expected the flexible leverage structure to soften the blow, but it actually felt like it was dropping even harder than the product in South Korea,” the 32-year-old Seoul-based retail investor said. The CSOP SK...",
+      "url": "https://www.scmp.com/news/hong-kong/article/3364938/how-opatras-coercive-tactics-hong-kong-echo-global-dead-sea-sales-scams?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T01:00:12.000Z",
+      "summary": "Allegedly aggressive sales tactics and business operations in Hong Kong’s beauty product sector closely mirror the global “Dead Sea sales scams” uncovered years ago, documents on WikiLeaks have shown. The controversy has prompted calls from experts for the city’s government to strengthen regulation by expanding proposed cooling-off period legislation to cover retail beauty goods. A check of the whistle-blower website WikiLeaks by the South China Morning Post found that shops and kiosks selling...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility?utm_source=rss_feed",
-          "publishedAt": "2026-08-22T01:00:14.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/article/3364938/how-opatras-coercive-tactics-hong-kong-echo-global-dead-sea-sales-scams?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T01:00:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1843,36 +1638,35 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "金融"
+        "中国重点"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "680929dea00da8942f8ec932",
+      "fingerprint": "47fb6f927e8e9ceca36c9f37",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
       "summaryMode": "rule",
       "translationStatus": "unavailable"
     },
     {
-      "id": "8870ddcec5422a60",
-      "title": "Ex-care home worker accused of raping intellectually disabled woman 5 times",
+      "id": "cca267ee7f85a0fa",
+      "title": "Hong Kong-built greenhouse gas tracker device ‘functioning well’ on space station",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364886/ex-care-home-worker-accused-raping-intellectually-disabled-woman-5-times?utm_source=rss_feed",
-      "publishedAt": "2026-08-21T14:45:36.000Z",
-      "summary": "A former assistant warden at a residential home for the intellectually disabled in Hong Kong has been accused of raping a resident multiple times two years ago. Chung Pui-kei has been charged with five counts of rape of a mentally incapacitated woman who lived at a home in Tai Po linked to the Hong Chi Association, an NGO, between July and August 2024. Prosecutor Human Lam Hiu-man outlined the five alleged incidents at the High Court on Friday and called a psychiatrist and a clinical...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3364930/hong-kong-built-greenhouse-gas-tracker-device-functioning-well-space-station?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T11:22:40.000Z",
+      "summary": "A greenhouse gas monitoring instrument developed by a university in Hong Kong is operating successfully aboard the Tiangong space station and is expected to contribute to sustainable development, the city’s technology minister has said. Secretary for Innovation, Technology and Industry Sun Dong also revealed more details in a blog post on Saturday about the life of the city’s first astronaut, Lai Ka-ying, who he said had a busy schedule at the space station. The Multi‑Spectral Imaging Carbon...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364886/ex-care-home-worker-accused-raping-intellectually-disabled-woman-5-times?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T14:45:36.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3364930/hong-kong-built-greenhouse-gas-tracker-device-functioning-well-space-station?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T11:22:40.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1881,16 +1675,163 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
         "科技",
+        "能源",
         "国际组织"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9f260fd40d6d7b451318fea1",
+      "fingerprint": "5980487f7fead41c5a6a1a98",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "c987dce07fea2cd2",
+      "title": "India launches rescue mission as Panama-flagged cargo ship sinks off east coast",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T22:31:16.000Z",
+      "summary": "India’s maritime rescue agency lost communication on Saturday with a Panama-flagged cargo vessel that sank off the coast of eastern ‌India, the Indian coastguard said. The vessel had 24 crew on board, including 20 Chinese nationals, three Myanmar nationals and one Bangladeshi, according to Commandant Amit Uniyal, a spokesman for the coastguard. The coastguard sent two vessels for the search-and-rescue mission ‌from Sri Vijaya Puram, formerly known as Port Blair, Uniyal said. The coastguard has...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T22:31:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f54b16590dc37b847041ee68",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "75d216977341b3fe",
+      "title": "Hong Kong must abandon superiority complex over mainland China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364326/hong-kong-must-abandon-superiority-complex-over-mainland-china?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T21:30:07.000Z",
+      "summary": "After many years in Hong Kong, with some sadness, I left the city for greener pastures, though my link with it remains an emotional one. When I moved my two dogs across the border to Shenzhen, I was told by agents, officials, even artificial intelligence, that the mainland bureaucracy would be rigid and unhelpful. My experience was the opposite. The young customs officers at Shenzhen Bay answered my phone calls, gave candid advice and treated my situation – a single parent relocating with a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364326/hong-kong-must-abandon-superiority-complex-over-mainland-china?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T21:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "02510845d65cec187076e860",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "bd22c76e37e83128",
+      "title": "Is this the end of Harry and Meghan’s American dream?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "publishedAt": "2026-08-22T20:42:12.000Z",
+      "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new lives outside the House of Windsor. With every global media stable clamouring for their signature, the couple revealed a deal with Netflix reportedly worth $100m. The ambitions were lofty and broad, including scripted and unscripted projects, shows for all ages and documentaries. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+          "publishedAt": "2026-08-22T20:42:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "88c03fc2bac6a3325298a31e",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "81eac8eb2e7037b7",
+      "title": "Why South Korea wants to rebuild a DMZ railway despite Kim’s cold shoulder",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3364909/why-south-korea-wants-rebuild-dmz-railway-despite-kims-cold-shoulder?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T06:44:13.000Z",
+      "summary": "Near the heavily fortified frontier dividing the Korean peninsula, the abandoned Woljeong-ri station is being recast as a symbol of South Korea’s hopes to reconcile with the North. But plans to reconnect South Korea’s northernmost station to the rail network come at an awkward moment, as Pyongyang ignores Seoul’s overtures while the South’s old ally Washington pursues its own talks with Pyongyang. A turbulent few days have raised doubts about the role of South Korea in any diplomatic push,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3364909/why-south-korea-wants-rebuild-dmz-railway-despite-kims-cold-shoulder?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T06:44:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9a11da48c22f7f9b7a722918",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1899,79 +1840,109 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "7aa1062961ba90eb",
-      "title": "【 中国网评 】 日本低配版 印太战略 ： 能力撑不起的军事野心 - 西部网 （ 陕西新闻网 ）",
-      "source": "news.cnwest.com",
-      "url": "http://news.cnwest.com/szyw/a/2026/08/21/23417846.html",
-      "publishedAt": "2026-08-21T15:30:00.000Z",
+      "id": "5a6bfa416b6cce35",
+      "title": "Customs seizes endangered turtles and parrots in 2 cases, arrests woman",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364924/customs-seizes-endangered-turtles-and-parrots-2-cases-arrests-woman?utm_source=rss_feed",
+      "publishedAt": "2026-08-22T09:55:51.000Z",
+      "summary": "Hong Kong customs officers have seized endangered turtles and parrots alongside other animals in two separate smuggling cases, resulting in the arrest of one woman. The Customs and Excise Department said on Saturday that 17 live turtles were discovered in a package declared as containing a jacket arriving at Hong Kong International Airport from the United States. “Upon inspection, a batch of live turtles of suspected scheduled endangered species was found concealed in socks,” it said. Customs...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364924/customs-seizes-endangered-turtles-and-parrots-2-cases-arrests-woman?utm_source=rss_feed",
+          "publishedAt": "2026-08-22T09:55:51.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 51,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "94b0bf53766e813b9c8407cb",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件同时涉及中美利益及双边关系，值得持续关注。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "8a676e0022d09809",
+      "title": "国际观察丨美国对伊朗 史上最严制裁 能奏效吗",
+      "source": "baijiahao.baidu.com",
+      "url": "https://baijiahao.baidu.com/s?id=1874203809555017174",
+      "publishedAt": "2026-08-22T12:45:00.000Z",
       "summary": "",
       "language": "Chinese",
       "region": "",
       "crossSources": [
         {
-          "source": "news.cnwest.com",
-          "url": "http://news.cnwest.com/szyw/a/2026/08/21/23417846.html",
-          "publishedAt": "2026-08-21T15:30:00.000Z"
-        },
-        {
-          "source": "china.com.cn",
-          "url": "http://www.china.com.cn/opinion/2026-08/21/content_118658681.html",
-          "publishedAt": "2026-08-21T09:15:00.000Z"
+          "source": "baijiahao.baidu.com",
+          "url": "https://baijiahao.baidu.com/s?id=1874203809555017174",
+          "publishedAt": "2026-08-22T12:45:00.000Z"
         }
       ],
-      "sourceCount": 2,
-      "isChina": true,
-      "isUsa": false,
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "军事与安全"
+        "美国重点",
+        "外交"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 49,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "82edfb8603f3d35051a3f7ae",
+      "fingerprint": "0cc1e659e4051a4420d75727",
       "isContinuation": false,
-      "titleZh": "【 中国网评 】 日本低配版 印太战略 ： 能力撑不起的军事野心 - 西部网 （ 陕西新闻网 ）",
-      "summaryZh": "【 中国网评 】 日本低配版 印太战略 ： 能力撑不起的军事野心 - 西部网 （ 陕西新闻网 ）",
-      "whyImportant": "可能影响地区安全与外交走向。",
+      "titleZh": "国际观察丨美国对伊朗 史上最严制裁 能奏效吗",
+      "summaryZh": "国际观察丨美国对伊朗 史上最严制裁 能奏效吗",
+      "whyImportant": "事件可能影响美国政策及其国际外溢效应。",
       "summaryMode": "rule",
       "translationStatus": "original-chinese"
     },
     {
-      "id": "f5eb704c1daa992b",
-      "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
+      "id": "0e49c2a8fba0e003",
+      "title": "In Malaysia, voter anger fuels a third force against Anwar",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
-      "publishedAt": "2026-08-21T14:00:10.000Z",
-      "summary": "A US artificial intelligence start-up backed by OpenAI has built its first in-house model on Chinese lab Moonshot AI’s Kimi K3, highlighting a growing shift by Western tech firms towards Chinese open-weight systems amid soaring development costs. San Francisco-based legal tech provider Harvey, whose high-profile backers also include Sequoia Capital and Andreessen Horowitz, said on Thursday that its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base. The company said...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3364866/malaysia-voter-anger-fuels-third-force-against-anwar?utm_source=rss_feed",
+      "publishedAt": "2026-08-23T00:00:14.000Z",
+      "summary": "Malaysian politics runs on grudges and few illustrate that better than the one nursed by Rafizi Ramli. A year after losing the deputy presidency of Prime Minister Anwar Ibrahim’s People’s Justice Party (PKR), he has built a vehicle for the disaffected, aimed squarely at the coalition of which he was once part. Parti Bersama Malaysia – or Bersama, meaning “together” – is barely three months old under its new leadership, yet it has already rattled Malaysia’s governing alliance. Taken over in May...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T14:00:10.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3364866/malaysia-voter-anger-fuels-third-force-against-anwar?utm_source=rss_feed",
+          "publishedAt": "2026-08-23T00:00:14.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "军事与安全",
-        "科技",
-        "国际组织"
+        "全球焦点",
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "09e671ae3766e65aab63a420",
+      "fingerprint": "aabe3163dba826b50831c800",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
@@ -1980,19 +1951,56 @@
       "translationStatus": "unavailable"
     },
     {
-      "id": "94b3da3df0b0b56b",
-      "title": "German army helps Poland construct a defensive barrier against Russia",
-      "source": "DW",
-      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-08-21T18:44:00.000Z",
-      "summary": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the East Shield.",
-      "language": "en",
-      "region": "europe",
+      "id": "3589a561c806bfcc",
+      "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
+      "publishedAt": "2026-08-22T17:58:15.000Z",
+      "summary": "Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.",
+      "language": "",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-08-21T18:44:00.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
+          "publishedAt": "2026-08-22T17:58:15.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b3db4c0b6adb888b46e9ffd6",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件具有跨地区影响或可能出现进一步发展。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "2730948a808255fc",
+      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+      "publishedAt": "2026-08-22T22:29:07.000Z",
+      "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+          "publishedAt": "2026-08-22T22:29:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2002,91 +2010,14 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
+        "环境"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "6635e7dbef15b602107c5e53",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "08606f7e416aeb09",
-      "title": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168182",
-      "publishedAt": "2026-08-21T12:00:00.000Z",
-      "summary": "As the deadliest Ebola outbreak in DR Congo’s history continued spreading on Friday, UN responders renewed their urgent appeal for immediate international support, with existing funding for lifesaving work critically low.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168182",
-          "publishedAt": "2026-08-21T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5ff4902cdb1aa24dd17918a3",
-      "isContinuation": false,
-      "titleZh": "中文翻译待生成",
-      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
-      "whyImportant": "可能影响地区安全与外交走向。",
-      "summaryMode": "rule",
-      "translationStatus": "unavailable"
-    },
-    {
-      "id": "90bfc7f09f26f0ff",
-      "title": "Wang Yi visits South Korea, China’s economy cools, Warsh speaks at Jackson Hole",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3364793/wang-yi-visits-south-korea-chinas-economy-cools-warsh-speaks-jackson-hole?utm_source=rss_feed",
-      "publishedAt": "2026-08-21T09:00:16.000Z",
-      "summary": "Note: SCMP Plus subscribers can attend an exclusive event with Zhou Bo, a retired People’s Liberation Army senior colonel, in Hong Kong on Tuesday. Zhou will discuss China’s military modernisation as the PLA works towards its 2027 centenary goal. SCMP Editor-in-Chief Chow Chung-yan will host the fireside chat. Zhou is now a senior fellow at Tsinghua University. Chinese Foreign Minister Wang Yi sought to boost ties with South Korea amid signs of strains in the long-standing US-South Korean...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3364793/wang-yi-visits-south-korea-chinas-economy-cools-warsh-speaks-jackson-hole?utm_source=rss_feed",
-          "publishedAt": "2026-08-21T09:00:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "经济",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1d8fa2e00b714a0650c8fa41",
+      "fingerprint": "3c6091f27009752db6f79f7e",
       "isContinuation": false,
       "titleZh": "中文翻译待生成",
       "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
