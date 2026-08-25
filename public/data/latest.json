@@ -1,44 +1,98 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-24T01:56:23.307Z",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T01:51:09.973Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "security",
-    "name": "军事、安全与突发事件",
-    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
-    "query": "military security conflict breaking crisis",
+    "slug": "technology-energy",
+    "name": "科技、能源与产业",
+    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
+    "query": "technology artificial intelligence semiconductor energy industry",
     "keywords": [
-      "military",
-      "war",
-      "missile",
-      "security",
-      "attack",
-      "ceasefire",
-      "军事",
-      "战争",
-      "导弹",
-      "袭击",
-      "停火",
-      "突发"
+      "technology",
+      "artificial intelligence",
+      "semiconductor",
+      "space",
+      "energy",
+      "科技",
+      "人工智能",
+      "芯片",
+      "太空",
+      "能源"
     ],
-    "accent": "#f97316"
+    "accent": "#06b6d4"
   },
-  "overview": "今日专题“军事、安全与突发事件”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "36ef1d22362f61d7",
-      "title": "Malaysian villages shaken as blasts rock southern Thailand",
+      "id": "626676c632c820e8",
+      "title": "US threatens economic D - Day ; Iran vows to completely stop oil exports",
+      "source": "bnn-news.com",
+      "url": "https://bnn-news.com/us-threatens-economic-d-day-iran-vows-to-completely-stop-oil-exports-283092",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "bnn-news.com",
+          "url": "https://bnn-news.com/us-threatens-economic-d-day-iran-vows-to-completely-stop-oil-exports-283092",
+          "publishedAt": "2026-08-24T13:00:00.000Z"
+        },
+        {
+          "source": "rte.ie",
+          "url": "https://www.rte.ie/news/world/2026/0824/1588950-middle-east/",
+          "publishedAt": "2026-08-24T07:15:00.000Z"
+        },
+        {
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/node/2655674/middle-east",
+          "publishedAt": "2026-08-24T06:45:00.000Z"
+        },
+        {
+          "source": "asiaone.com",
+          "url": "https://www.asiaone.com/world/us-vows-economic-d-day-iran-threatens-halt-all-oil-exports",
+          "publishedAt": "2026-08-24T06:45:00.000Z"
+        }
+      ],
+      "sourceCount": 4,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 70,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "79ac8564e0062dcce8d7a3ea",
+      "isContinuation": false,
+      "titleZh": "美国威胁发动经济“D日”；伊朗誓言彻底停止石油出口",
+      "summaryZh": "美国威胁对伊朗采取严厉的经济制裁措施，伊朗则回应称将完全停止石油出口。双方的对抗升级引发了对全球能源市场波动的担忧。",
+      "whyImportant": "美伊经济博弈的加剧可能导致全球能源供应紧张及价格大幅波动。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8c1af845375d4c37",
+      "title": "Australia’s top music charts ban AI songs to protect human artists",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3365000/malaysian-villages-shaken-blasts-rock-southern-thailand?utm_source=rss_feed",
-      "publishedAt": "2026-08-24T01:27:36.000Z",
-      "summary": "Residents of Malaysian villages near the Thailand border were left shaken this weekend after hearing loud booms and seeing flashes of light across the frontier, as Thai authorities confirmed more than 50 coordinated attacks on Saturday night. The blasts, heard in Kampung Lubok Gong and Kampung Tersang in Malaysia’s Kelantan state, coincided with a wave of near-simultaneous attacks across 21 districts in Thailand’s Narathiwat, Pattani and Yala provinces beginning around 8pm local time on...",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3365121/australias-top-music-charts-ban-ai-songs-protect-human-artists?utm_source=rss_feed",
+      "publishedAt": "2026-08-25T01:05:10.000Z",
+      "summary": "Music made by artificial intelligence will be banned from Australia’s top charts under new guidelines aimed at protecting “the human nature of artistry”, an industry body said on Tuesday. Under new rules in force from Friday, music must be “substantially human made” to be eligible for the charts, the Australian Recording Industry Association (ARIA) said. “Wholly AI-generated tracks will not be eligible for the ARIA Charts,” the group said. It said its charts would exclude songs that use AI “to...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3365000/malaysian-villages-shaken-blasts-rock-southern-thailand?utm_source=rss_feed",
-          "publishedAt": "2026-08-24T01:27:36.000Z"
+          "url": "https://www.scmp.com/news/asia/australasia/article/3365121/australias-top-music-charts-ban-ai-songs-protect-human-artists?utm_source=rss_feed",
+          "publishedAt": "2026-08-25T01:05:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -47,698 +101,205 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
         "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "12f3ca648cf6d71e5d74baed",
-      "isContinuation": false,
-      "titleZh": "泰国南部发生爆炸，马来西亚边境村庄受惊",
-      "summaryZh": "泰国南部周六晚发生超过50起协同袭击，马来西亚吉兰丹州的边境村庄居民听到了爆炸声并看到了闪光。此次袭击波及泰国那拉提瓦、北大年和也拉三省的21个地区。",
-      "whyImportant": "跨境安全事件引发了对地区局势不稳定的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a3043fc96e770006",
-      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-      "publishedAt": "2026-08-23T15:00:35.000Z",
-      "summary": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market. New entrants are now the only cohort applying for more loans than they were in June, according to new data from the mortgage broker network Loan Market. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-          "publishedAt": "2026-08-23T15:00:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融",
-        "专题·军事、安全与突发事件"
+        "国际组织",
+        "专题·科技、能源与产业"
       ],
       "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "突发"
+        "artificial intelligence",
+        "科技"
       ],
-      "fingerprint": "434228afa97bf27d302fbf6a",
+      "fingerprint": "8f64d46d516e3fe851900d46",
       "isContinuation": false,
-      "titleZh": "数据显示：澳大利亚房产投资者退场，首套房买家贷款需求依然强劲",
-      "summaryZh": "尽管利率上升且税收政策调整，但在政府支持下，澳大利亚首套房买家仍是贷款申请的主力军。抵押贷款经纪公司Loan Market的数据显示，首套房买家是目前唯一贷款申请量高于6月份的群体。",
-      "whyImportant": "这反映了澳大利亚房地产市场在政策干预下的结构性变化。",
+      "titleZh": "澳大利亚顶级音乐排行榜禁止AI歌曲以保护人类艺术家",
+      "summaryZh": "澳大利亚唱片业协会宣布，为保护艺术的人文属性，禁止完全由人工智能生成的歌曲进入顶级排行榜。新规要求上榜作品必须是“实质上由人类创作”的。",
+      "whyImportant": "此举反映了全球文化产业在人工智能冲击下，对保护人类原创版权和艺术价值的迫切需求。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cf24da5f4299b66a",
-      "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "summary": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-          "publishedAt": "2026-08-24T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "d68bad77413d76914d454e47",
-      "isContinuation": false,
-      "titleZh": "伊朗战争直播：伊朗议会推进霍尔木兹海峡服务费计划",
-      "summaryZh": "伊朗议会提出一项法律草案，要求获准通过霍尔木兹海峡的外国船只支付德黑兰提供的服务费用。",
-      "whyImportant": "此举可能进一步加剧该地区的海上航运紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ca7503f855394f41",
-      "title": "UK PM Andy Burnham to visit Kyiv on Monday as Ukraine marks independence anniversary",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3364998/uk-pm-andy-burnham-visit-kyiv-monday-ukraine-marks-independence-anniversary?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T23:25:02.000Z",
-      "summary": "British Prime Minister Andy Burnham will visit Kyiv on Monday on his first international visit since taking office last month, his office said, as Ukraine marks its 35th independence anniversary. Burnham has vowed to give strong support to Ukraine as it battles Russia’s invasion. The Labour Party leader’s visit comes as he announced that Britain had “agreed that defence firm MBDA can release classified information on UK components for the long-range missile, SCALP, to establish local assembly...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3364998/uk-pm-andy-burnham-visit-kyiv-monday-ukraine-marks-independence-anniversary?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T23:25:02.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "missile",
-        "军事"
-      ],
-      "fingerprint": "02cfeb424ab84a9d87401f1d",
-      "isContinuation": false,
-      "titleZh": "英国首相安迪·伯纳姆将于周一访问基辅，乌克兰纪念独立周年",
-      "summaryZh": "英国首相安迪·伯纳姆将在上任后首次出访基辅，以纪念乌克兰独立35周年。他宣布英国将允许国防公司MBDA分享SCALP远程导弹的分类组件信息，以支持乌克兰建立本地组装能力。",
-      "whyImportant": "此举标志着英国对乌克兰军事支持的进一步深化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd1845137dee2bc8",
-      "title": "Can Nigeria cash in on Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-      "publishedAt": "2026-08-23T16:07:01.000Z",
-      "summary": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-          "publishedAt": "2026-08-23T16:07:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "be55e9f153629dd2a258d84a",
-      "isContinuation": false,
-      "titleZh": "尼日利亚能从伊朗战争中获利吗？",
-      "summaryZh": "尼日利亚官员埃克佩里佩·埃克波表示，美以对伊朗的战争促使尼日利亚扩大其天然气生产规模。",
-      "whyImportant": "地缘政治冲突正在重塑全球能源供应格局。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4a67eda63a54d8e6",
-      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-      "publishedAt": "2026-08-23T21:45:05.000Z",
-      "summary": "Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-          "publishedAt": "2026-08-23T21:45:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "399c0db5f3e820de588ec816",
-      "isContinuation": false,
-      "titleZh": "拉菲尼亚和洛佩兹梅开二度，巴塞罗那5-0大胜埃尔切",
-      "summaryZh": "巴塞罗那在西甲联赛中以5-0击败埃尔切，开启了卫冕冠军之路，并力争实现三连冠。",
-      "whyImportant": "这场胜利为巴萨的赛季卫冕目标奠定了良好的开局。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1590ed4db511c55d",
-      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-      "publishedAt": "2026-08-23T18:15:22.000Z",
-      "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-          "publishedAt": "2026-08-23T18:15:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "cedb36463842b21db45da3ff",
-      "isContinuation": false,
-      "titleZh": "斯蒂芬·沃尔特：特朗普在伊朗战争中已“无计可施”",
-      "summaryZh": "政治学家斯蒂芬·沃尔特指出，尽管特朗普承诺增强美国实力，但其多项政策反而导致美国影响力减弱。",
-      "whyImportant": "专家对美国当前外交政策有效性的质疑引发了舆论关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9042dfc9f2c0c108",
-      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-      "publishedAt": "2026-08-23T15:00:36.000Z",
-      "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Australian government has been accused of leaving waters near the mainland largely unprotected by establishing the bulk of highly protected marine parks in remote areas. More than 270 leading marine scientists from 84 research institutes have written to the environment minister, Murray Watt, urging stronger protections for marine ecosystems, as a once-in-a-decade review of marine parks gets under way. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-          "publishedAt": "2026-08-23T15:00:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "e581f66f7b663d44a5487e6d",
-      "isContinuation": false,
-      "titleZh": "科学家称澳大利亚海洋公园保护的是“无人区”，而非大陆附近脆弱水域",
-      "summaryZh": "超过270名海洋科学家致信环境部长，批评政府将大部分受保护的海洋公园设在偏远地区，而忽视了大陆附近脆弱的生态系统。他们呼吁在十年一度的海洋公园审查中加强对独特生态环境的保护。",
-      "whyImportant": "这引发了关于政府环保政策优先级的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "global": [
-    {
-      "id": "36ef1d22362f61d7",
-      "title": "Malaysian villages shaken as blasts rock southern Thailand",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3365000/malaysian-villages-shaken-blasts-rock-southern-thailand?utm_source=rss_feed",
-      "publishedAt": "2026-08-24T01:27:36.000Z",
-      "summary": "Residents of Malaysian villages near the Thailand border were left shaken this weekend after hearing loud booms and seeing flashes of light across the frontier, as Thai authorities confirmed more than 50 coordinated attacks on Saturday night. The blasts, heard in Kampung Lubok Gong and Kampung Tersang in Malaysia’s Kelantan state, coincided with a wave of near-simultaneous attacks across 21 districts in Thailand’s Narathiwat, Pattani and Yala provinces beginning around 8pm local time on...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3365000/malaysian-villages-shaken-blasts-rock-southern-thailand?utm_source=rss_feed",
-          "publishedAt": "2026-08-24T01:27:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "12f3ca648cf6d71e5d74baed",
-      "isContinuation": false,
-      "titleZh": "泰国南部发生爆炸，马来西亚边境村庄受惊",
-      "summaryZh": "泰国南部周六晚发生超过50起协同袭击，马来西亚吉兰丹州的边境村庄居民听到了爆炸声并看到了闪光。此次袭击波及泰国那拉提瓦、北大年和也拉三省的21个地区。",
-      "whyImportant": "跨境安全事件引发了对地区局势不稳定的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a3043fc96e770006",
-      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-      "publishedAt": "2026-08-23T15:00:35.000Z",
-      "summary": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market. New entrants are now the only cohort applying for more loans than they were in June, according to new data from the mortgage broker network Loan Market. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-          "publishedAt": "2026-08-23T15:00:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "434228afa97bf27d302fbf6a",
-      "isContinuation": false,
-      "titleZh": "数据显示：澳大利亚房产投资者退场，首套房买家贷款需求依然强劲",
-      "summaryZh": "尽管利率上升且税收政策调整，但在政府支持下，澳大利亚首套房买家仍是贷款申请的主力军。抵押贷款经纪公司Loan Market的数据显示，首套房买家是目前唯一贷款申请量高于6月份的群体。",
-      "whyImportant": "这反映了澳大利亚房地产市场在政策干预下的结构性变化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cf24da5f4299b66a",
-      "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "summary": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-          "publishedAt": "2026-08-24T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "d68bad77413d76914d454e47",
-      "isContinuation": false,
-      "titleZh": "伊朗战争直播：伊朗议会推进霍尔木兹海峡服务费计划",
-      "summaryZh": "伊朗议会提出一项法律草案，要求获准通过霍尔木兹海峡的外国船只支付德黑兰提供的服务费用。",
-      "whyImportant": "此举可能进一步加剧该地区的海上航运紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ca7503f855394f41",
-      "title": "UK PM Andy Burnham to visit Kyiv on Monday as Ukraine marks independence anniversary",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3364998/uk-pm-andy-burnham-visit-kyiv-monday-ukraine-marks-independence-anniversary?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T23:25:02.000Z",
-      "summary": "British Prime Minister Andy Burnham will visit Kyiv on Monday on his first international visit since taking office last month, his office said, as Ukraine marks its 35th independence anniversary. Burnham has vowed to give strong support to Ukraine as it battles Russia’s invasion. The Labour Party leader’s visit comes as he announced that Britain had “agreed that defence firm MBDA can release classified information on UK components for the long-range missile, SCALP, to establish local assembly...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3364998/uk-pm-andy-burnham-visit-kyiv-monday-ukraine-marks-independence-anniversary?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T23:25:02.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "missile",
-        "军事"
-      ],
-      "fingerprint": "02cfeb424ab84a9d87401f1d",
-      "isContinuation": false,
-      "titleZh": "英国首相安迪·伯纳姆将于周一访问基辅，乌克兰纪念独立周年",
-      "summaryZh": "英国首相安迪·伯纳姆将在上任后首次出访基辅，以纪念乌克兰独立35周年。他宣布英国将允许国防公司MBDA分享SCALP远程导弹的分类组件信息，以支持乌克兰建立本地组装能力。",
-      "whyImportant": "此举标志着英国对乌克兰军事支持的进一步深化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd1845137dee2bc8",
-      "title": "Can Nigeria cash in on Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-      "publishedAt": "2026-08-23T16:07:01.000Z",
-      "summary": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-          "publishedAt": "2026-08-23T16:07:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "be55e9f153629dd2a258d84a",
-      "isContinuation": false,
-      "titleZh": "尼日利亚能从伊朗战争中获利吗？",
-      "summaryZh": "尼日利亚官员埃克佩里佩·埃克波表示，美以对伊朗的战争促使尼日利亚扩大其天然气生产规模。",
-      "whyImportant": "地缘政治冲突正在重塑全球能源供应格局。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4a67eda63a54d8e6",
-      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-      "publishedAt": "2026-08-23T21:45:05.000Z",
-      "summary": "Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-          "publishedAt": "2026-08-23T21:45:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "399c0db5f3e820de588ec816",
-      "isContinuation": false,
-      "titleZh": "拉菲尼亚和洛佩兹梅开二度，巴塞罗那5-0大胜埃尔切",
-      "summaryZh": "巴塞罗那在西甲联赛中以5-0击败埃尔切，开启了卫冕冠军之路，并力争实现三连冠。",
-      "whyImportant": "这场胜利为巴萨的赛季卫冕目标奠定了良好的开局。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1590ed4db511c55d",
-      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-      "publishedAt": "2026-08-23T18:15:22.000Z",
-      "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-          "publishedAt": "2026-08-23T18:15:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "cedb36463842b21db45da3ff",
-      "isContinuation": false,
-      "titleZh": "斯蒂芬·沃尔特：特朗普在伊朗战争中已“无计可施”",
-      "summaryZh": "政治学家斯蒂芬·沃尔特指出，尽管特朗普承诺增强美国实力，但其多项政策反而导致美国影响力减弱。",
-      "whyImportant": "专家对美国当前外交政策有效性的质疑引发了舆论关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9042dfc9f2c0c108",
-      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-      "publishedAt": "2026-08-23T15:00:36.000Z",
-      "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Australian government has been accused of leaving waters near the mainland largely unprotected by establishing the bulk of highly protected marine parks in remote areas. More than 270 leading marine scientists from 84 research institutes have written to the environment minister, Murray Watt, urging stronger protections for marine ecosystems, as a once-in-a-decade review of marine parks gets under way. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-          "publishedAt": "2026-08-23T15:00:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "e581f66f7b663d44a5487e6d",
-      "isContinuation": false,
-      "titleZh": "科学家称澳大利亚海洋公园保护的是“无人区”，而非大陆附近脆弱水域",
-      "summaryZh": "超过270名海洋科学家致信环境部长，批评政府将大部分受保护的海洋公园设在偏远地区，而忽视了大陆附近脆弱的生态系统。他们呼吁在十年一度的海洋公园审查中加强对独特生态环境的保护。",
-      "whyImportant": "这引发了关于政府环保政策优先级的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f4081a7d6d20305a",
-      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
-      "publishedAt": "2026-08-23T15:00:35.000Z",
-      "summary": "Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Children across Australia will continue to see gambling logos on professional sport jerseys until up to 2032 despite the government’s pledge to break the link between sport and wagering. The Albanese government has banned gambling company logos on jerseys but legislated a five-year transition period to allow clubs and bookmakers to adjust. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
-          "publishedAt": "2026-08-23T15:00:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "eb78b323ca0f5624877b47af",
-      "isContinuation": false,
-      "titleZh": "“荒谬”：澳大利亚体育球衣上的赌博广告将持续至2032年",
-      "summaryZh": "尽管政府承诺切断体育与博彩业的联系，但立法规定了五年的过渡期，这意味着儿童在2032年前仍可能在球衣上看到赌博标志。此举遭到了波科克等人的强烈谴责。",
-      "whyImportant": "政府在公共健康与商业利益之间的平衡引发了社会不满。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ec832e9462468d5",
-      "title": "能源的饭碗必须端在自己手里 -- 经济 · 科技 -- 人民网",
-      "source": "finance.people.com.cn",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784608.html",
-      "publishedAt": "2026-08-24T01:00:00.000Z",
+      "id": "d790c55012e402d5",
+      "title": "美拟扩大对伊朗二级制裁 中国石油购买受关注",
+      "source": "epochtimes.com",
+      "url": "https://www.epochtimes.com/gb/26/8/24/n14835959.htm",
+      "publishedAt": "2026-08-24T16:45:00.000Z",
       "summary": "",
       "language": "Chinese",
       "region": "",
       "crossSources": [
         {
-          "source": "finance.people.com.cn",
-          "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784608.html",
-          "publishedAt": "2026-08-24T01:00:00.000Z"
+          "source": "epochtimes.com",
+          "url": "https://www.epochtimes.com/gb/26/8/24/n14835959.htm",
+          "publishedAt": "2026-08-24T16:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "4b3e38ad552abeafde6cd534",
+      "isContinuation": false,
+      "titleZh": "美拟扩大对伊朗二级制裁，中国石油购买受关注",
+      "summaryZh": "美国计划扩大对伊朗的二级制裁，旨在进一步限制其石油出口。中国作为伊朗石油的主要买家，其相关贸易活动受到国际社会的密切关注。",
+      "whyImportant": "美国制裁政策的调整可能对中国能源进口及相关企业的国际合规产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "95ca652e0c3fe52b",
+      "title": "美伊经济博弈将致全球能源及粮食风险加剧 _ 东方财富网",
+      "source": "finance.eastmoney.com",
+      "url": "https://finance.eastmoney.com/a/202608253851688131.html",
+      "publishedAt": "2026-08-24T21:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "finance.eastmoney.com",
+          "url": "https://finance.eastmoney.com/a/202608253851688131.html",
+          "publishedAt": "2026-08-24T21:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "d8c238a018c7fb487cf4c920",
+      "isContinuation": false,
+      "titleZh": "美伊经济博弈将致全球能源及粮食风险加剧",
+      "summaryZh": "美伊之间的经济对抗持续升级，市场分析认为这将进一步推高全球能源和粮食供应的不确定性。地缘政治紧张局势正对全球经济稳定构成严峻挑战。",
+      "whyImportant": "能源与粮食作为基础大宗商品，其价格波动将直接影响全球通胀水平及民生保障。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "01f965df2839aa1d",
+      "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "publishedAt": "2026-08-24T16:46:17.000Z",
+      "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’ Here’s the full quote from Kremlin’s Peskov, via AFP: “Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+          "publishedAt": "2026-08-24T16:46:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "c3234a163d12f058bd6d5708",
+      "isContinuation": false,
+      "titleZh": "伯纳姆称尽管俄罗斯发出“无耻威胁”，英国仍将“全力”支持乌克兰",
+      "summaryZh": "英国首相伯纳姆重申英国对乌克兰的坚定支持，并谴责俄罗斯的军事打击行为。克里姆林宫则指责英国在和平进程中不断“火上浇油”。",
+      "whyImportant": "英俄关系的持续紧张加剧了欧洲地缘政治的对抗风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ad8bf6a73451a74b",
+      "title": "Meet Dai Zheng, the space veteran betting on China’s reusable rocket revolution",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3365091/meet-dai-zheng-space-veteran-betting-chinas-reusable-rocket-revolution?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T13:30:09.000Z",
+      "summary": "Ten years ago, Dai Zheng made a career-defining gamble: he left his secure, prestigious engineering post in China’s state space programme to join an unproven private start-up. On August 19, that risk paid off when a rocket booster returned from orbit and landed upright for the first time in Chinese commercial space history. For Dai, now chief commander of the Zhuque-3 missions at LandSpace, the successful touchdown marked both a major personal milestone and a critical leap forward in China’s...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3365091/meet-dai-zheng-space-veteran-betting-chinas-reusable-rocket-revolution?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T13:30:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "7eef275d24fc3d8ecc6f04a8",
+      "isContinuation": false,
+      "titleZh": "走近戴政：押注中国可重复使用火箭革命的航天老兵",
+      "summaryZh": "航天工程师戴政曾放弃体制内稳定职位投身商业航天，近日他参与的朱雀三号任务成功实现火箭助推器从轨道返回并垂直着陆。这一成就标志着中国商业航天领域的重要技术突破。",
+      "whyImportant": "可重复使用火箭技术的成熟将显著降低航天发射成本，推动中国商业航天产业的快速发展。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ef5ebd2d39d678ec",
+      "title": "Trump bought shares in Elon Musk’s SpaceX in June, financial disclosure shows",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365114/trump-bought-shares-elon-musks-spacex-june-financial-disclosure-shows?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T20:22:39.000Z",
+      "summary": "US President Donald Trump invested as much as US$50,000 ⁠in Elon Musk’s SpaceX in June, according to a public financial disclosure, giving him a financial stake in a major government contractor run by his former adviser. Trump bought between US$15,001 and US$50,000 in shares on June 23, according to a financial disclosure signed ‌by him on August 12 and made public on August 22. The purchase was part of more than 1,000 stock trades the president made in June. SpaceX priced the biggest-ever US...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365114/trump-bought-shares-elon-musks-spacex-june-financial-disclosure-shows?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T20:22:39.000Z"
         }
       ],
       "sourceCount": 1,
@@ -749,73 +310,38 @@
         "全球焦点",
         "经济",
         "科技",
-        "能源"
+        "专题·科技、能源与产业"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "23dc7ff11a53a722a1ed254c",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "b845f89fb31bb5b4a58d9706",
       "isContinuation": false,
-      "titleZh": "能源的饭碗必须端在自己手里 -- 经济 · 科技 -- 人民网",
-      "summaryZh": "该报道强调了能源自主对于国家经济与科技发展的重要性。",
-      "whyImportant": "能源安全是国家战略发展的核心议题。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "china": [
-    {
-      "id": "2f1f41d461d97104",
-      "title": "US territories hit out at Trump plan to explore deep sea mining in the Pacific",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands",
-      "publishedAt": "2026-08-24T01:34:41.000Z",
-      "summary": "US agency releases plan to lease millions of hectares of seabed off the coast of the Northern Mariana Islands and Guam A US government plan to lease out millions of hectares of seabed near the Mariana Trench for deep sea exploration has drawn opposition from US territories in the Pacific, as the Trump administration remains locked in a race with China for control of critical ocean minerals. On Tuesday, the Marine Mineral Administration (MMA), an agency under the US department of the interior, released a proposal to auction deep sea mining leases for 28m hectares (69m acres) of seafloor off the coast of the Northern Mariana Islands and Guam. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands",
-          "publishedAt": "2026-08-24T01:34:41.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "efab8794a936d04ee2ef3daf",
-      "isContinuation": false,
-      "titleZh": "美国领地反对特朗普在太平洋进行深海采矿的计划",
-      "summaryZh": "美国内政部下属机构计划拍卖马里亚纳海沟附近2800万公顷的海底采矿权，引发了关岛和北马里亚纳群岛的反对。此举被视为特朗普政府在关键矿产资源上与中国竞争的举措。",
-      "whyImportant": "深海采矿计划引发了环境与地缘政治的双重争议。",
+      "titleZh": "财务披露显示，特朗普6月购买了埃隆·马斯克旗下SpaceX的股票",
+      "summaryZh": "财务披露文件显示，美国总统特朗普在6月购买了价值5万美元以内的SpaceX股票。作为政府主要承包商的负责人，马斯克曾担任特朗普的顾问。",
+      "whyImportant": "总统个人投资与政府承包商之间的利益关联引发了关于潜在利益冲突的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "dcec972b6fa19789",
-      "title": "Divorcing devices: how digital detox helps Hongkongers ‘carve out moments’",
+      "id": "acb6f0230bf94ebb",
+      "title": "China’s advanced chip supply to surge by 2035 despite equipment bottlenecks, Goldman says",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3364915/divorcing-devices-how-digital-detox-helps-hongkongers-carve-out-moments?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T11:01:50.000Z",
-      "summary": "In the second instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Fiona Sun looks into how residents are embracing digital detox, as experts warn that excessive screen use is linked to anxiety, depression and sleep disorders. For Robert Broad, stepping away from electronic devices has become part of a self-care routine he developed after the Covid-19 pandemic. The 56-year-old recalled how spending long hours in front of screens while working remotely...",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T12:00:13.000Z",
+      "summary": "China is on track to dramatically slash its deficit in advanced chips over the next decade as domestic foundries rapidly scale up production, though the weak link of lithography threatens to keep full semiconductor independence out of reach, according to US investment bank Goldman Sachs. The supply of wafers made using 7-nanometre and below advanced processes is projected to grow at a compound annual rate of 46 per cent between 2025 and 2035, far outpacing the 17 per cent growth expected in...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3364915/divorcing-devices-how-digital-detox-helps-hongkongers-carve-out-moments?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T11:01:50.000Z"
+          "url": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T12:00:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -824,39 +350,475 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "金融",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "semiconductor",
+        "科技"
       ],
-      "fingerprint": "a162ad92219771a24cf876c5",
+      "fingerprint": "5426c219a4013a857e6bfa86",
       "isContinuation": false,
-      "titleZh": "数字排毒：香港人如何通过远离设备寻找片刻安宁",
-      "summaryZh": "随着过度使用屏幕与焦虑、抑郁及睡眠障碍的关联日益凸显，香港居民正逐渐拥抱“数字排毒”。专家建议通过减少电子设备使用来改善心理健康。",
-      "whyImportant": "这反映了现代社会对数字生活方式的反思与健康意识的提升。",
+      "titleZh": "高盛：尽管存在设备瓶颈，中国先进芯片供应仍将在2035年前激增",
+      "summaryZh": "高盛预测，尽管光刻机等设备供应受限，但中国本土晶圆厂正快速扩大产能，预计到2035年将大幅缩减先进芯片的供应缺口。7纳米及以下工艺的产能增长率将远超全球平均水平。",
+      "whyImportant": "中国在半导体领域的产能扩张将重塑全球芯片供应链格局，并影响相关科技产业的竞争态势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "global": [
+    {
+      "id": "626676c632c820e8",
+      "title": "US threatens economic D - Day ; Iran vows to completely stop oil exports",
+      "source": "bnn-news.com",
+      "url": "https://bnn-news.com/us-threatens-economic-d-day-iran-vows-to-completely-stop-oil-exports-283092",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "bnn-news.com",
+          "url": "https://bnn-news.com/us-threatens-economic-d-day-iran-vows-to-completely-stop-oil-exports-283092",
+          "publishedAt": "2026-08-24T13:00:00.000Z"
+        },
+        {
+          "source": "rte.ie",
+          "url": "https://www.rte.ie/news/world/2026/0824/1588950-middle-east/",
+          "publishedAt": "2026-08-24T07:15:00.000Z"
+        },
+        {
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/node/2655674/middle-east",
+          "publishedAt": "2026-08-24T06:45:00.000Z"
+        },
+        {
+          "source": "asiaone.com",
+          "url": "https://www.asiaone.com/world/us-vows-economic-d-day-iran-threatens-halt-all-oil-exports",
+          "publishedAt": "2026-08-24T06:45:00.000Z"
+        }
+      ],
+      "sourceCount": 4,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 70,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "79ac8564e0062dcce8d7a3ea",
+      "isContinuation": false,
+      "titleZh": "美国威胁发动经济“D日”；伊朗誓言彻底停止石油出口",
+      "summaryZh": "美国威胁对伊朗采取严厉的经济制裁措施，伊朗则回应称将完全停止石油出口。双方的对抗升级引发了对全球能源市场波动的担忧。",
+      "whyImportant": "美伊经济博弈的加剧可能导致全球能源供应紧张及价格大幅波动。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e622b060ad37401b",
-      "title": "Remembering Zhu Rongji and understanding his legacy",
+      "id": "e4796174201ebf07",
+      "title": "Exorbitant and rising debt is a national security threat",
+      "source": "sbsun.com",
+      "url": "https://www.sbsun.com/2026/08/24/exorbitant-and-rising-debt-is-a-national-security-threat/",
+      "publishedAt": "2026-08-25T01:15:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "sbsun.com",
+          "url": "https://www.sbsun.com/2026/08/24/exorbitant-and-rising-debt-is-a-national-security-threat/",
+          "publishedAt": "2026-08-25T01:15:00.000Z"
+        },
+        {
+          "source": "sgvtribune.com",
+          "url": "https://www.sgvtribune.com/2026/08/24/exorbitant-and-rising-debt-is-a-national-security-threat/",
+          "publishedAt": "2026-08-24T23:30:00.000Z"
+        },
+        {
+          "source": "dailybreeze.com",
+          "url": "https://www.dailybreeze.com/2026/08/24/exorbitant-and-rising-debt-is-a-national-security-threat/",
+          "publishedAt": "2026-08-24T22:45:00.000Z"
+        }
+      ],
+      "sourceCount": 3,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "be4d1ec40413b6577e646481",
+      "isContinuation": false,
+      "titleZh": "高额且不断增长的债务已成为国家安全威胁",
+      "summaryZh": "报告指出，持续攀升的债务水平已不再仅仅是经济问题，而是演变为威胁国家安全的重大隐患。政府财政负担的加重可能削弱国家在关键领域的应对能力。",
+      "whyImportant": "债务危机可能限制政府在国防、基础设施及社会保障方面的投入，从而影响国家长期的战略稳定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8c1af845375d4c37",
+      "title": "Australia’s top music charts ban AI songs to protect human artists",
       "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364730/remembering-zhu-rongji-and-understanding-his-legacy?utm_source=rss_feed",
-      "publishedAt": "2026-08-24T01:30:06.000Z",
-      "summary": "“History doesn’t repeat itself but it often rhymes.” This famous quote, widely attributed to Mark Twain, keeps playing in my mind as China mourns the death of former premier Zhu Rongji and reflects on his legacy. It was early afternoon on August 12 when I received a message from a friend on the mainland that made my heart sink: “Our much-respected Premier Zhu left us this morning!” As we anxiously waited for the official confirmation that would launch us into a frantically busy news day, my mind...",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3365121/australias-top-music-charts-ban-ai-songs-protect-human-artists?utm_source=rss_feed",
+      "publishedAt": "2026-08-25T01:05:10.000Z",
+      "summary": "Music made by artificial intelligence will be banned from Australia’s top charts under new guidelines aimed at protecting “the human nature of artistry”, an industry body said on Tuesday. Under new rules in force from Friday, music must be “substantially human made” to be eligible for the charts, the Australian Recording Industry Association (ARIA) said. “Wholly AI-generated tracks will not be eligible for the ARIA Charts,” the group said. It said its charts would exclude songs that use AI “to...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364730/remembering-zhu-rongji-and-understanding-his-legacy?utm_source=rss_feed",
-          "publishedAt": "2026-08-24T01:30:06.000Z"
+          "url": "https://www.scmp.com/news/asia/australasia/article/3365121/australias-top-music-charts-ban-ai-songs-protect-human-artists?utm_source=rss_feed",
+          "publishedAt": "2026-08-25T01:05:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "artificial intelligence",
+        "科技"
+      ],
+      "fingerprint": "8f64d46d516e3fe851900d46",
+      "isContinuation": false,
+      "titleZh": "澳大利亚顶级音乐排行榜禁止AI歌曲以保护人类艺术家",
+      "summaryZh": "澳大利亚唱片业协会宣布，为保护艺术的人文属性，禁止完全由人工智能生成的歌曲进入顶级排行榜。新规要求上榜作品必须是“实质上由人类创作”的。",
+      "whyImportant": "此举反映了全球文化产业在人工智能冲击下，对保护人类原创版权和艺术价值的迫切需求。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2caef2c6b5be77b4",
+      "title": "India to amend regulations within two months to facilitate manufacturing investments : Piyush Goyal",
+      "source": "japanherald.com",
+      "url": "http://www.japanherald.com/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+      "publishedAt": "2026-08-24T23:30:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "japanherald.com",
+          "url": "http://www.japanherald.com/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+          "publishedAt": "2026-08-24T23:30:00.000Z"
+        },
+        {
+          "source": "indiagazette.com",
+          "url": "http://www.indiagazette.com/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+          "publishedAt": "2026-08-24T23:30:00.000Z"
+        },
+        {
+          "source": "calcuttanews.net",
+          "url": "http://www.calcuttanews.net/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+          "publishedAt": "2026-08-24T21:00:00.000Z"
+        },
+        {
+          "source": "australiannews.net",
+          "url": "http://www.australiannews.net/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+          "publishedAt": "2026-08-24T20:15:00.000Z"
+        }
+      ],
+      "sourceCount": 5,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3bd5427658c6eb1488be9400",
+      "isContinuation": false,
+      "titleZh": "皮尤什·戈亚尔：印度将在两个月内修订法规以促进制造业投资",
+      "summaryZh": "印度部长皮尤什·戈亚尔表示，政府计划在未来两个月内修改相关法规，旨在简化流程并吸引更多制造业投资。此举是印度提升全球制造业地位战略的一部分。",
+      "whyImportant": "政策优化有望加速印度制造业的扩张，并进一步增强其在全球供应链中的竞争力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "95ca652e0c3fe52b",
+      "title": "美伊经济博弈将致全球能源及粮食风险加剧 _ 东方财富网",
+      "source": "finance.eastmoney.com",
+      "url": "https://finance.eastmoney.com/a/202608253851688131.html",
+      "publishedAt": "2026-08-24T21:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "finance.eastmoney.com",
+          "url": "https://finance.eastmoney.com/a/202608253851688131.html",
+          "publishedAt": "2026-08-24T21:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "d8c238a018c7fb487cf4c920",
+      "isContinuation": false,
+      "titleZh": "美伊经济博弈将致全球能源及粮食风险加剧",
+      "summaryZh": "美伊之间的经济对抗持续升级，市场分析认为这将进一步推高全球能源和粮食供应的不确定性。地缘政治紧张局势正对全球经济稳定构成严峻挑战。",
+      "whyImportant": "能源与粮食作为基础大宗商品，其价格波动将直接影响全球通胀水平及民生保障。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b05931539afbecbe",
+      "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168191",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "summary": "As spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war continue, top UN officials told the Security Council on Monday that every diplomatic effort must work towards a full, immediate and unconditional ceasefire. UN News app users can follow our live coverage here.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168191",
+          "publishedAt": "2026-08-24T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d75486f29254cea5cd1ce0b0",
+      "isContinuation": false,
+      "titleZh": "安理会直播：俄乌战争中平民苦难加剧",
+      "summaryZh": "联合国官员在安理会会议上指出，俄乌战争中针对平民的无人机和导弹袭击不断增加。会议呼吁各方必须通过外交努力，实现全面、立即且无条件的停火。",
+      "whyImportant": "平民伤亡的增加凸显了冲突的人道主义危机，国际社会对和平解决争端的呼声日益高涨。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "61d193d026919df0",
+      "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "publishedAt": "2026-08-25T01:28:27.000Z",
+      "summary": "Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving, wind-driven wildfire sparked near Reno, Nevada. Authorities added that 23,000 people are under a “go-now” order and 40,000 people are under a “get-set” warning, an improvement from the 90,000 Nevadans under evacuation orders or warnings on Monday morning. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+          "publishedAt": "2026-08-25T01:28:27.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境",
+        "公共安全"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9472976711498e47100de464",
+      "isContinuation": false,
+      "titleZh": "官员称内华达州里诺市“霍克”野火受控率约为27%",
+      "summaryZh": "内华达州里诺市附近发生的野火已持续两天，目前受控率约为27%。尽管疏散人数有所减少，但仍有数万人处于紧急撤离或预警状态。",
+      "whyImportant": "极端气候引发的野火对当地居民生命财产安全及生态环境造成了严重威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3e7edb917861298b",
+      "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
+      "publishedAt": "2026-08-25T01:10:44.000Z",
+      "summary": "After repairs to Hirosaki Castle in Aomori prefecture, officials employed a technique known as hikiya to move the structure more than two metres To chants of “so-re, so-re”, about 1,800 people came together in northern Japan over the weekend to pull a 360-tonne castle keep a little more than two metres closer to its original resting place as part of ongoing renovations. The keep – a fortified tower within a castle – had to be moved to repair a wall that was damaged in a major earthquake. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
+          "publishedAt": "2026-08-25T01:10:44.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5c125cac4493fba7e96e3696",
+      "isContinuation": false,
+      "titleZh": "日本动员1800人利用绳索和滚轮拖动360吨重的城堡主楼",
+      "summaryZh": "为修复地震受损的墙体，日本青森县弘前城动员了约1800名民众，通过传统技术将360吨重的城堡主楼平移了超过两米。这一工程展示了当地对历史建筑保护的重视。",
+      "whyImportant": "该事件体现了日本在文化遗产修复中结合传统工艺与公众参与的独特方式。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "09118d4648f9756a",
+      "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+      "publishedAt": "2026-08-24T19:09:45.000Z",
+      "summary": "Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+          "publishedAt": "2026-08-24T19:09:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7a5f2c3001eb1c25c5152bfb",
+      "isContinuation": false,
+      "titleZh": "为什么“大屠杀”最能描述被占领的西岸正在发生的事情",
+      "summaryZh": "文章指出，以色列定居者在被占领的西岸发动的袭击不应被简单称为“冲突”，其性质更符合“大屠杀”的定义。这种暴力行为正在引发严重的地区局势动荡。",
+      "whyImportant": "对暴力事件性质的定性差异反映了巴以冲突中深层的政治分歧与人权争议。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "01f965df2839aa1d",
+      "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "publishedAt": "2026-08-24T16:46:17.000Z",
+      "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’ Here’s the full quote from Kremlin’s Peskov, via AFP: “Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+          "publishedAt": "2026-08-24T16:46:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "c3234a163d12f058bd6d5708",
+      "isContinuation": false,
+      "titleZh": "伯纳姆称尽管俄罗斯发出“无耻威胁”，英国仍将“全力”支持乌克兰",
+      "summaryZh": "英国首相伯纳姆重申英国对乌克兰的坚定支持，并谴责俄罗斯的军事打击行为。克里姆林宫则指责英国在和平进程中不断“火上浇油”。",
+      "whyImportant": "英俄关系的持续紧张加剧了欧洲地缘政治的对抗风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "china": [
+    {
+      "id": "d790c55012e402d5",
+      "title": "美拟扩大对伊朗二级制裁 中国石油购买受关注",
+      "source": "epochtimes.com",
+      "url": "https://www.epochtimes.com/gb/26/8/24/n14835959.htm",
+      "publishedAt": "2026-08-24T16:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "epochtimes.com",
+          "url": "https://www.epochtimes.com/gb/26/8/24/n14835959.htm",
+          "publishedAt": "2026-08-24T16:45:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -864,71 +826,79 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "外交",
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 57,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "93f405df2d407d4b7b4e3e54",
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "4b3e38ad552abeafde6cd534",
       "isContinuation": false,
-      "titleZh": "缅怀朱镕基及其历史遗产",
-      "summaryZh": "中国前总理朱镕基逝世，引发了公众对其执政遗产的深切缅怀与反思。文章回顾了其在任期间的贡献及其对当代中国的影响。",
-      "whyImportant": "朱镕基的逝世引发了对中国改革开放历史进程的广泛讨论。",
+      "titleZh": "美拟扩大对伊朗二级制裁，中国石油购买受关注",
+      "summaryZh": "美国计划扩大对伊朗的二级制裁，旨在进一步限制其石油出口。中国作为伊朗石油的主要买家，其相关贸易活动受到国际社会的密切关注。",
+      "whyImportant": "美国制裁政策的调整可能对中国能源进口及相关企业的国际合规产生深远影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c40d0226d9d52c27",
-      "title": "Record non-DSE admissions to Hong Kong’s universities spark calls for quotas",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3364971/record-non-dse-admissions-hong-kongs-universities-spark-calls-quotas?utm_source=rss_feed",
-      "publishedAt": "2026-08-24T00:30:12.000Z",
-      "summary": "Hong Kong public universities have admitted a record number of students applying outside the local exam system, with the intake surging by 63 per cent over seven years to account for nearly 30 per cent of the 15,000 government-funded places, the South China Morning Post has found. Meanwhile, the intake of home-grown students taking the Diploma of Secondary Education (DSE) exam has dropped by 7 per cent, causing its proportion to fall from 82 per cent to 72 per cent, sparking calls for a cap on...",
+      "id": "97b17091f0d0f89e",
+      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "publishedAt": "2026-08-24T11:53:10.000Z",
+      "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”. In advance of the US announcement, the United Arab Emirates, Iran’s single biggest trading partner in the Middle East, announced it was ending all trade with Iran, a move Tehran believes was coordinated between Washington and the UAE. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3364971/record-non-dse-admissions-hong-kongs-universities-spark-calls-quotas?utm_source=rss_feed",
-          "publishedAt": "2026-08-24T00:30:12.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+          "publishedAt": "2026-08-24T11:53:10.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "美国重点",
+        "外交",
+        "经济"
       ],
-      "score": 56,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "394177e6915468b48406f6a6",
+      "fingerprint": "6f5571b956858dc7b5595702",
       "isContinuation": false,
-      "titleZh": "香港大学非DSE录取人数创新高，引发设立配额呼声",
-      "summaryZh": "香港公立大学录取非本地考试系统学生的比例在七年内激增63%，占政府资助名额的近30%。与此同时，本地DSE考生的录取比例下降，引发了社会对设立录取配额的讨论。",
-      "whyImportant": "这触及了香港高等教育资源分配的公平性问题。",
+      "titleZh": "伊朗誓言报复与美国新制裁合作的国家",
+      "summaryZh": "伊朗警告称，将对任何配合美国新一轮制裁的国家采取报复行动。此前，阿联酋宣布停止与伊朗的所有贸易，伊朗认为这是美国协调的结果。",
+      "whyImportant": "伊朗的强硬立场可能导致中东地区贸易格局的进一步分裂与紧张。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c7444a1b32895834",
-      "title": "China’s overlooked internet army is quietly embedding AI into everyday businesses",
+      "id": "ad8bf6a73451a74b",
+      "title": "Meet Dai Zheng, the space veteran betting on China’s reusable rocket revolution",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3364972/chinas-overlooked-internet-army-quietly-embedding-ai-everyday-businesses?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T11:00:06.000Z",
-      "summary": "While China’s new “AI tigers” have captured global attention for challenging Silicon Valley front-runners, a quieter wave of domestic technology companies is building in-house artificial intelligence systems serving everyday users. Beyond pure-play AI labs like DeepSeek, Z.ai (also known as Zhipu AI), Moonshot AI and MiniMax, consumer-facing platforms that span e-commerce, video gaming, social media and travel are developing foundation models tailored to their own business ecosystems, in efforts...",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3365091/meet-dai-zheng-space-veteran-betting-chinas-reusable-rocket-revolution?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T13:30:09.000Z",
+      "summary": "Ten years ago, Dai Zheng made a career-defining gamble: he left his secure, prestigious engineering post in China’s state space programme to join an unproven private start-up. On August 19, that risk paid off when a rocket booster returned from orbit and landed upright for the first time in Chinese commercial space history. For Dai, now chief commander of the Zhuque-3 missions at LandSpace, the successful touchdown marked both a major personal milestone and a critical leap forward in China’s...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3364972/chinas-overlooked-internet-army-quietly-embedding-ai-everyday-businesses?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T11:00:06.000Z"
+          "url": "https://www.scmp.com/tech/tech-trends/article/3365091/meet-dai-zheng-space-veteran-betting-chinas-reusable-rocket-revolution?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T13:30:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -939,39 +909,124 @@
         "中国重点",
         "军事与安全",
         "科技",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 56,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "军事"
+        "space",
+        "科技"
       ],
-      "fingerprint": "2e60b26f023c0e2623bb3a6b",
+      "fingerprint": "7eef275d24fc3d8ecc6f04a8",
       "isContinuation": false,
-      "titleZh": "中国被忽视的互联网大军正悄然将人工智能嵌入日常业务",
-      "summaryZh": "除了知名的AI实验室外，中国电商、游戏、社交媒体和旅游等领域的消费平台正在开发适合自身生态系统的基础模型。这些企业正通过将AI技术融入日常业务，实现技术落地。",
-      "whyImportant": "这显示了中国AI产业正从实验室走向广泛的商业应用。",
+      "titleZh": "走近戴政：押注中国可重复使用火箭革命的航天老兵",
+      "summaryZh": "航天工程师戴政曾放弃体制内稳定职位投身商业航天，近日他参与的朱雀三号任务成功实现火箭助推器从轨道返回并垂直着陆。这一成就标志着中国商业航天领域的重要技术突破。",
+      "whyImportant": "可重复使用火箭技术的成熟将显著降低航天发射成本，推动中国商业航天产业的快速发展。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "acb6f0230bf94ebb",
+      "title": "China’s advanced chip supply to surge by 2035 despite equipment bottlenecks, Goldman says",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T12:00:13.000Z",
+      "summary": "China is on track to dramatically slash its deficit in advanced chips over the next decade as domestic foundries rapidly scale up production, though the weak link of lithography threatens to keep full semiconductor independence out of reach, according to US investment bank Goldman Sachs. The supply of wafers made using 7-nanometre and below advanced processes is projected to grow at a compound annual rate of 46 per cent between 2025 and 2035, far outpacing the 17 per cent growth expected in...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T12:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "semiconductor",
+        "科技"
+      ],
+      "fingerprint": "5426c219a4013a857e6bfa86",
+      "isContinuation": false,
+      "titleZh": "高盛：尽管存在设备瓶颈，中国先进芯片供应仍将在2035年前激增",
+      "summaryZh": "高盛预测，尽管光刻机等设备供应受限，但中国本土晶圆厂正快速扩大产能，预计到2035年将大幅缩减先进芯片的供应缺口。7纳米及以下工艺的产能增长率将远超全球平均水平。",
+      "whyImportant": "中国在半导体领域的产能扩张将重塑全球芯片供应链格局，并影响相关科技产业的竞争态势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e9336671f5529618",
+      "title": "Taiwan unveils Strong Bow anti-ballistic missile specs in push for US$1.13 billion funding",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3365082/taiwan-unveils-strong-bow-anti-ballistic-missile-specs-push-us113-billion-funding?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T11:57:12.000Z",
+      "summary": "Taiwan’s top weapons developer has unveiled details of its Chiang Kung, or Strong Bow, anti-ballistic missile system as it seeks legislative funding for mass production to strengthen the island’s air defences amid growing pressure from Beijing. The government-funded National Chung-Shan Institute of Science and Technology disclosed key specifications of the locally developed system earlier this month, including its hypersonic speed, two-stage solid-fuel propulsion, guidance system and active...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3365082/taiwan-unveils-strong-bow-anti-ballistic-missile-specs-push-us113-billion-funding?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T11:57:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "5182eb77262636a61442a403",
+      "isContinuation": false,
+      "titleZh": "台湾公布“强弓”反弹道导弹规格，寻求11.3亿美元资金",
+      "summaryZh": "台湾武器研发机构公布了“强弓”反弹道导弹系统的详细规格，包括高超音速和双级固体燃料推进技术。此举旨在争取立法机构拨款，以加强岛内防空能力。",
+      "whyImportant": "该武器系统的研发与部署反映了台海地区军事防御能力的持续升级。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "1f5d1456e501c0de",
-      "title": "Iran’s foreign minister calls threat of new US economic sanctions ‘desperate’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-      "publishedAt": "2026-08-23T13:56:11.000Z",
-      "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face ‘many problems’ Iran’s foreign minister has dismissed the threat of a fresh round of US economic sanctions as a “desperate” ploy, even as its president acknowledged that the Iranian people are facing “many problems” amid Washington’s efforts to isolate and debilitate the country’s economy. Last week, Donald Trump announced a new campaign to increase the pressure on the Iranian economy, calling it “the most crushing economic operation ever taken against any country”. The US Treasury secretary, Scott Bessent, is expected to announce further punitive economic measures on Iran – which he has described as “the toughest sanctions in history” – on Monday. Continue reading...",
+      "id": "c0eca41f8bd6c250",
+      "title": "US military kills 2 in eastern Pacific boat strike in first attack in months",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365108/us-strikes-vessel-eastern-pacific-killing-2-people-first-attack-months?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T16:48:28.000Z",
+      "summary": "After a pause of more than two months, the US military announced Monday that it once again carried out a strike on a vessel in the eastern Pacific Ocean, killing two people accused of trafficking drugs. It brings the overall death toll to 223 people killed in 67 strikes during the nearly year-long US campaign of bombing alleged drug boats off Latin America’s Caribbean coast and in the eastern Pacific Ocean. US Southern Command says the campaign has resulted in the destruction of 64 speedboats,...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-          "publishedAt": "2026-08-23T13:56:11.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365108/us-strikes-vessel-eastern-pacific-killing-2-people-first-attack-months?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T16:48:28.000Z"
         }
       ],
       "sourceCount": 1,
@@ -980,36 +1035,110 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "外交",
-        "经济"
+        "突发",
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "3073fb465c7c77235cac4c3a",
+      "fingerprint": "24a3dbbfadc5bda201ba5884",
       "isContinuation": false,
-      "titleZh": "伊朗外长称美国新经济制裁威胁是“绝望之举”",
-      "summaryZh": "伊朗外长阿巴斯·阿拉格希驳斥了美国的新制裁威胁，称其为绝望的策略。尽管总统佩泽希齐扬承认伊朗人民面临诸多困难，但政府表示不会屈服于华盛顿的经济压力。",
-      "whyImportant": "美伊之间的经济对抗进一步升级，加剧了地区紧张局势。",
+      "titleZh": "美国军方在东太平洋打击船只致2人死亡，为数月来首次",
+      "summaryZh": "美国军方在东太平洋对一艘涉嫌贩毒的船只发动打击，造成2人死亡。这是美军在拉丁美洲周边海域开展打击贩毒行动以来的最新一起事件。",
+      "whyImportant": "美军在公海的军事化打击行动引发了关于国际法及区域安全影响的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7d1cef426f5bf446",
-      "title": "Chinese archaeologists heading to Peru for first joint project to explore ancient sites",
+      "id": "09cf6c09e50cd824",
+      "title": "Judge postpones US trial for Libyan man charged in 1988 Lockerbie bombing",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3364961/chinese-archaeologists-heading-peru-first-joint-project-explore-ancient-sites?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T15:00:07.000Z",
-      "summary": "Chinese archaeologists will carry out their first joint field project in South America by exploring sites dating back thousands of years in Peru as Beijing steps up its efforts to deepen cultural ties with the region. The Institute of Archaeology of the Chinese Academy of Social Sciences said it had signed a cooperation agreement with the Caral Archaeological Zone of the Peruvian Ministry of Culture and the Professional School of Archaeology at the National University of San Marcos to explore...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365118/judge-postpones-us-trial-libyan-man-charged-1988-lockerbie-bombing?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T23:15:29.000Z",
+      "summary": "A federal judge on Monday postponed a trial in the US for a former Libyan intelligence official charged in the 1988 bombing of Pan Am Flight 103, citing the discovery of new evidence that defence lawyers want to examine in the nearly 40-year-old case. Jury selection was scheduled to begin on Wednesday for the federal trial of Abu Agila Mohammad Masud Kheir al-Marimi in Washington. His trial will be the first in the US for the December 21, 1988, bombing. US District Judge Dabney Friedrich’s order...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3364961/chinese-archaeologists-heading-peru-first-joint-project-explore-ancient-sites?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T15:00:07.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365118/judge-postpones-us-trial-libyan-man-charged-1988-lockerbie-bombing?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T23:15:29.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "fe72ca99c4f42181ba1619d9",
+      "isContinuation": false,
+      "titleZh": "法官推迟审理1988年洛克比空难利比亚嫌疑人案",
+      "summaryZh": "美国联邦法官因发现新证据，推迟了对1988年洛克比空难嫌疑人马苏德的审判。辩方律师需要时间审查这些新材料，该案已持续近40年。",
+      "whyImportant": "案件审理的延期反映了跨国历史遗留案件在法律程序上的复杂性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "dd62635f263862a3",
+      "title": "US set for largest mass visa revocation, targeting up to 200,000 foreigners",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365117/us-set-largest-mass-visa-revocation-targeting-200000-foreigners?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T21:53:42.000Z",
+      "summary": "The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States. If it happens, the move would be the largest single mass revocation of visas in US history and would likely face legal challenges. Unless challenged or revised, the State Department is expected to announce in the coming weeks the revocation of so-called B1 and B2 visas issued between 2016 and 2026 whose...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365117/us-set-largest-mass-visa-revocation-targeting-200000-foreigners?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T21:53:42.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c20c236c4b111ed693cc4415",
+      "isContinuation": false,
+      "titleZh": "美国准备进行史上最大规模签证撤销，目标涉及多达20万外国人",
+      "summaryZh": "特朗普政府计划撤销多达20万名申请或正在寻求庇护的外国人的商务和旅游签证。若实施，这将是美国历史上最大规模的签证撤销行动，预计将面临法律挑战。",
+      "whyImportant": "此举若落实，将对美国移民政策及国际人员往来产生重大冲击。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "901d32e8792e0cb6",
+      "title": "US, China diplomats clash over tech spying and trade hub claims in Latin America",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365055/us-china-diplomats-clash-over-tech-spying-and-trade-hub-claims-latin-america?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T13:00:06.000Z",
+      "summary": "Diplomats for China and the US in Latin America have traded brickbats on social media over alleged espionage risks posed by Chinese tech firms in the region, in the latest sign of the two powers’ unfolding strategic tensions in the western hemisphere. US assistant secretary of state for western hemisphere affairs Juan Pablo Segura named telecoms giants Huawei Technologies, ZTE and Hytera, surveillance equipment makers Hikvision and Dahua, and drone heavyweight DJI in a post on social media on...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365055/us-china-diplomats-clash-over-tech-spying-and-trade-hub-claims-latin-america?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T13:00:06.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1018,155 +1147,76 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点"
+        "美国重点",
+        "经济"
       ],
-      "score": 55,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "034f71008c22048bf08b57d7",
+      "fingerprint": "d2991cad1b6e6908657130cf",
       "isContinuation": false,
-      "titleZh": "中国考古学家前往秘鲁开展首个联合项目，探索古代遗址",
-      "summaryZh": "中国社会科学院考古研究所与秘鲁相关机构签署协议，将共同探索秘鲁数千年前的古代遗址。这是中国在南美洲开展的首个联合考古项目，旨在深化双方文化联系。",
-      "whyImportant": "此举标志着中国在拉美地区的文化外交与学术合作迈出新步伐。",
+      "titleZh": "美中外交官就拉美地区技术间谍和贸易中心主张发生冲突",
+      "summaryZh": "美中两国驻拉美外交官在社交媒体上就中国科技企业在当地的间谍风险问题展开激烈交锋。这是两国在西半球战略竞争加剧的最新迹象。",
+      "whyImportant": "大国在拉美地区的技术与贸易竞争，正使该地区成为地缘政治博弈的新前沿。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "205682e3e19c88b3",
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T20:19:36.000Z",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "id": "56157808594851cd",
+      "title": "China’s view of Trump’s America has changed from alarm to a shrug",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3364449/chinas-view-trumps-america-has-changed-alarm-shrug?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T12:30:06.000Z",
+      "summary": "There is no shortage of Western commentary on US President Donald Trump’s second term. What’s missing is an honest account of how 1.4 billion of us in China see it – or at least how China’s officials and scholars do, since that’s who I can speak for here. I’ve spent a decade watching that view change, from real alarm in 2017 to something closer to a shrug today. Four things now count as consensus among Chinese scholars. One, Trump is undermining America’s alliance system. His first term rattled...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-23T20:19:36.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3364449/chinas-view-trumps-america-has-changed-alarm-shrug?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T12:30:06.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "中国重点",
+        "美国重点",
+        "国际组织"
       ],
-      "score": 54,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "39e852aeff6312d33a2599e7",
+      "fingerprint": "4251f800b90d00a6aedf6f2a",
       "isContinuation": false,
-      "titleZh": "特朗普挥旗开启华盛顿街头印地赛车比赛",
-      "summaryZh": "作为美国建国250周年庆祝活动的高潮，特朗普总统在比赛前进行了仪式性的赛道巡游。",
-      "whyImportant": "这一体育活动被赋予了国家庆典的政治象征意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "678ce317dfa5d035",
-      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-      "publishedAt": "2026-08-23T19:52:12.000Z",
-      "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-          "publishedAt": "2026-08-23T19:52:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 53,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "51ba892109bb4263f763c893",
-      "isContinuation": false,
-      "titleZh": "组图：印地赛车疾驰过华盛顿地标，庆祝“自由250”大奖赛开幕",
-      "summaryZh": "由特朗普政府发起的“自由250”大奖赛在华盛顿特区中心地带举行，赛车穿梭于城市地标之间。",
-      "whyImportant": "该赛事展示了政府通过大型活动提升国家形象的意图。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f58121b8b8a80561",
-      "title": "První zprávy - Domácí - Čína má pro umělou inteligenci plán . S united states hledají společný směr",
-      "source": "prvnizpravy.cz",
-      "url": "https://www.prvnizpravy.cz/zpravy/zpravy/cina-ma-pro-umelou-inteligenci-plan-s-usa-hledaji-spolecny-smer/",
-      "publishedAt": "2026-08-23T08:30:00.000Z",
-      "summary": "",
-      "language": "Czech",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "prvnizpravy.cz",
-          "url": "https://www.prvnizpravy.cz/zpravy/zpravy/cina-ma-pro-umelou-inteligenci-plan-s-usa-hledaji-spolecny-smer/",
-          "publishedAt": "2026-08-23T08:30:00.000Z"
-        },
-        {
-          "source": "moravskoslezskenovinky.cz",
-          "url": "https://www.moravskoslezskenovinky.cz/zpravy/zpravy/cina-ma-pro-umelou-inteligenci-plan-s-usa-hledaji-spolecny-smer/",
-          "publishedAt": "2026-08-23T07:00:00.000Z"
-        },
-        {
-          "source": "plzenskenovinky.cz",
-          "url": "https://www.plzenskenovinky.cz/zpravy/zpravy/cina-ma-pro-umelou-inteligenci-plan-s-usa-hledaji-spolecny-smer/",
-          "publishedAt": "2026-08-23T06:45:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 53,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7a24c7f2f6c83d25f2e79d1b",
-      "isContinuation": false,
-      "titleZh": "捷克新闻：中国制定人工智能计划，与美国寻求共同方向",
-      "summaryZh": "报道称中国已制定明确的人工智能发展规划，并正寻求与美国在相关领域建立共同的合作方向。",
-      "whyImportant": "全球两大经济体在AI领域的互动对未来科技格局至关重要。",
+      "titleZh": "中国对特朗普美国观感已从警惕转为耸肩",
+      "summaryZh": "文章分析称，中国官员和学者对特朗普第二任期的态度已发生显著变化，从最初的警惕转变为一种“耸肩”式的淡定。中国学界普遍认为特朗普正在削弱美国的盟友体系。",
+      "whyImportant": "中国对美政策心态的转变，反映了其对美国政治不确定性的适应与战略定力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "903175f0b2ddf23c",
-      "title": "Zelensky details rift with Ukraine’s dismissed defence minister Fedorov",
+      "id": "e5a2dcbab8155dfc",
+      "title": "UK’s Burnham plans US trip in September to lobby Trump on Ukraine needs",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3364991/zelensky-details-rift-ukraines-dismissed-defence-minister-fedorov?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T18:20:18.000Z",
-      "summary": "Ukrainian President Volodymyr Zelensky said he believes actions taken by dismissed Defence Minister Mykhailo Fedorov, including his involvement in mass protests and calls for an election, were misguided, as he publicly detailed their dispute for the first time. Zelensky also alluded to problematic decisions over defence spending and said inaccurate information provided by the Defence Ministry contributed to an awkward encounter with US President Donald Trump over the use of Starlink in...",
+      "url": "https://www.scmp.com/news/world/europe/article/3365119/uks-burnham-plans-us-trip-september-lobby-trump-ukraine-needs?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T23:57:30.000Z",
+      "summary": "UK Prime Minister Andy Burnham said he and other European leaders plan to travel to the US next month to lobby President Donald Trump to let Ukraine access some of its Patriot air defence missile stocks ahead of the winter. “I’m looking forward to going to New York in September,” Burnham said in an interview with Bloomberg in Kyiv on Monday evening, referring to the coming UN General Assembly meeting in New York. It would be his first trip to the US since becoming prime minister. “I’ve not fully...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3364991/zelensky-details-rift-ukraines-dismissed-defence-minister-fedorov?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T18:20:18.000Z"
+          "url": "https://www.scmp.com/news/world/europe/article/3365119/uks-burnham-plans-us-trip-september-lobby-trump-ukraine-needs?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T23:57:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1175,39 +1225,36 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "金融",
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8c5d57ae0eca6d34321ecda8",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "93b0c0f1932fa4a52a89b33e",
       "isContinuation": false,
-      "titleZh": "泽连斯基详述与被解职国防部长费多罗夫的分歧",
-      "summaryZh": "乌克兰总统泽连斯基首次公开谈及与前国防部长费多罗夫的矛盾，称其参与抗议和呼吁选举的行为是错误的。泽连斯基还提到国防部在支出决策及向美国提供信息方面存在问题。",
-      "whyImportant": "高层人事动荡反映了乌克兰战时政府内部的政治压力。",
+      "titleZh": "英国首相伯纳姆计划9月访美，游说特朗普支持乌克兰需求",
+      "summaryZh": "英国首相伯纳姆计划在9月联合国大会期间访问美国，游说特朗普政府允许乌克兰在冬季前获取部分“爱国者”防空导弹库存。这将是他担任首相以来的首次访美。",
+      "whyImportant": "英国试图通过外交斡旋确保乌克兰在关键冬季获得军事支持，以应对俄乌冲突的持续压力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0fe47357cfd699e3",
-      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
-      "publishedAt": "2026-08-23T17:53:31.000Z",
-      "summary": "House Speaker Mike Johnson, a Trump ally, admits it 'would be helpful' if conflict ends before elections in November.",
+      "id": "ca041acf6ab1baa1",
+      "title": "Massachusetts woman suspected of killing police officer husband found dead",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+      "publishedAt": "2026-08-24T23:56:41.000Z",
+      "summary": "Karen Solomon had been missing for six days after her husband Kurt Solomon was found dead at their home A mental health advocate suspected of killing her police officer husband was found dead on Monday, six days after she disappeared from her Massachusetts home, authorities said. Karen Solomon, an advocate who called for improvements and greater awareness of police mental health issues, had disappeared after Worcester police officer Kurt Solomon was found dead at their home just before 5.30am on 18 August. Officials had named Karen Solomon a suspect and said she was believed to be armed. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
-          "publishedAt": "2026-08-23T17:53:31.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+          "publishedAt": "2026-08-24T23:56:41.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1217,38 +1264,35 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "f0723092f88211c20e011df0",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1a6ec73ceb1041c8ed9b47bb",
       "isContinuation": false,
-      "titleZh": "伊朗战争：美国高级议员称共和党“绝对”能赢得中期选举",
-      "summaryZh": "众议院议长迈克·约翰逊承认，如果冲突能在11月选举前结束，将对共和党选情有利。",
-      "whyImportant": "地缘冲突已成为影响美国国内政治选举的关键变量。",
+      "titleZh": "涉嫌杀害警察丈夫的马萨诸塞州女子被发现死亡",
+      "summaryZh": "马萨诸塞州一名心理健康倡导者在失踪六天后被发现死亡，她此前被列为杀害其警察丈夫的嫌疑人。警方此前曾表示她可能持有武器。",
+      "whyImportant": "这起悲剧事件引发了社会对警察群体心理健康及家庭暴力问题的广泛关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "12c5240b9640048c",
-      "title": "Photos: Ukraine celebrates National Flag Day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-      "publishedAt": "2026-08-23T17:18:25.000Z",
-      "summary": "People observe a minute of silence for those killed in war to mark the holiday established in 2004.",
+      "id": "ef5ebd2d39d678ec",
+      "title": "Trump bought shares in Elon Musk’s SpaceX in June, financial disclosure shows",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365114/trump-bought-shares-elon-musks-spacex-june-financial-disclosure-shows?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T20:22:39.000Z",
+      "summary": "US President Donald Trump invested as much as US$50,000 ⁠in Elon Musk’s SpaceX in June, according to a public financial disclosure, giving him a financial stake in a major government contractor run by his former adviser. Trump bought between US$15,001 and US$50,000 in shares on June 23, according to a financial disclosure signed ‌by him on August 12 and made public on August 22. The purchase was part of more than 1,000 stock trades the president made in June. SpaceX priced the biggest-ever US...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-          "publishedAt": "2026-08-23T17:18:25.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365114/trump-bought-shares-elon-musks-spacex-june-financial-disclosure-shows?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T20:22:39.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1257,30 +1301,31 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "space",
+        "科技"
       ],
-      "fingerprint": "ab1a3d90f760d23b45c4d829",
+      "fingerprint": "b845f89fb31bb5b4a58d9706",
       "isContinuation": false,
-      "titleZh": "组图：乌克兰庆祝国旗日",
-      "summaryZh": "为纪念2004年设立的国旗日，乌克兰民众举行了一分钟默哀，悼念在战争中牺牲的人员。",
-      "whyImportant": "这一纪念活动在战时环境下具有强烈的民族凝聚力意义。",
+      "titleZh": "财务披露显示，特朗普6月购买了埃隆·马斯克旗下SpaceX的股票",
+      "summaryZh": "财务披露文件显示，美国总统特朗普在6月购买了价值5万美元以内的SpaceX股票。作为政府主要承包商的负责人，马斯克曾担任特朗普的顾问。",
+      "whyImportant": "总统个人投资与政府承包商之间的利益关联引发了关于潜在利益冲突的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 147,
-    "deduplicated": 141,
+    "fetched": 295,
+    "deduplicated": 245,
     "selected": 23,
     "minimumRequired": 21,
     "featured": 8,
@@ -1289,19 +1334,75 @@
   },
   "items": [
     {
-      "id": "36ef1d22362f61d7",
-      "title": "Malaysian villages shaken as blasts rock southern Thailand",
+      "id": "626676c632c820e8",
+      "title": "US threatens economic D - Day ; Iran vows to completely stop oil exports",
+      "source": "bnn-news.com",
+      "url": "https://bnn-news.com/us-threatens-economic-d-day-iran-vows-to-completely-stop-oil-exports-283092",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "bnn-news.com",
+          "url": "https://bnn-news.com/us-threatens-economic-d-day-iran-vows-to-completely-stop-oil-exports-283092",
+          "publishedAt": "2026-08-24T13:00:00.000Z"
+        },
+        {
+          "source": "rte.ie",
+          "url": "https://www.rte.ie/news/world/2026/0824/1588950-middle-east/",
+          "publishedAt": "2026-08-24T07:15:00.000Z"
+        },
+        {
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/node/2655674/middle-east",
+          "publishedAt": "2026-08-24T06:45:00.000Z"
+        },
+        {
+          "source": "asiaone.com",
+          "url": "https://www.asiaone.com/world/us-vows-economic-d-day-iran-threatens-halt-all-oil-exports",
+          "publishedAt": "2026-08-24T06:45:00.000Z"
+        }
+      ],
+      "sourceCount": 4,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 70,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "79ac8564e0062dcce8d7a3ea",
+      "isContinuation": false,
+      "titleZh": "美国威胁发动经济“D日”；伊朗誓言彻底停止石油出口",
+      "summaryZh": "美国威胁对伊朗采取严厉的经济制裁措施，伊朗则回应称将完全停止石油出口。双方的对抗升级引发了对全球能源市场波动的担忧。",
+      "whyImportant": "美伊经济博弈的加剧可能导致全球能源供应紧张及价格大幅波动。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8c1af845375d4c37",
+      "title": "Australia’s top music charts ban AI songs to protect human artists",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3365000/malaysian-villages-shaken-blasts-rock-southern-thailand?utm_source=rss_feed",
-      "publishedAt": "2026-08-24T01:27:36.000Z",
-      "summary": "Residents of Malaysian villages near the Thailand border were left shaken this weekend after hearing loud booms and seeing flashes of light across the frontier, as Thai authorities confirmed more than 50 coordinated attacks on Saturday night. The blasts, heard in Kampung Lubok Gong and Kampung Tersang in Malaysia’s Kelantan state, coincided with a wave of near-simultaneous attacks across 21 districts in Thailand’s Narathiwat, Pattani and Yala provinces beginning around 8pm local time on...",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3365121/australias-top-music-charts-ban-ai-songs-protect-human-artists?utm_source=rss_feed",
+      "publishedAt": "2026-08-25T01:05:10.000Z",
+      "summary": "Music made by artificial intelligence will be banned from Australia’s top charts under new guidelines aimed at protecting “the human nature of artistry”, an industry body said on Tuesday. Under new rules in force from Friday, music must be “substantially human made” to be eligible for the charts, the Australian Recording Industry Association (ARIA) said. “Wholly AI-generated tracks will not be eligible for the ARIA Charts,” the group said. It said its charts would exclude songs that use AI “to...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3365000/malaysian-villages-shaken-blasts-rock-southern-thailand?utm_source=rss_feed",
-          "publishedAt": "2026-08-24T01:27:36.000Z"
+          "url": "https://www.scmp.com/news/asia/australasia/article/3365121/australias-top-music-charts-ban-ai-songs-protect-human-artists?utm_source=rss_feed",
+          "publishedAt": "2026-08-25T01:05:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1310,163 +1411,122 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
         "科技",
-        "专题·军事、安全与突发事件"
+        "国际组织",
+        "专题·科技、能源与产业"
       ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
-        "突发"
+        "artificial intelligence",
+        "科技"
       ],
-      "fingerprint": "12f3ca648cf6d71e5d74baed",
+      "fingerprint": "8f64d46d516e3fe851900d46",
       "isContinuation": false,
-      "titleZh": "泰国南部发生爆炸，马来西亚边境村庄受惊",
-      "summaryZh": "泰国南部周六晚发生超过50起协同袭击，马来西亚吉兰丹州的边境村庄居民听到了爆炸声并看到了闪光。此次袭击波及泰国那拉提瓦、北大年和也拉三省的21个地区。",
-      "whyImportant": "跨境安全事件引发了对地区局势不稳定的担忧。",
+      "titleZh": "澳大利亚顶级音乐排行榜禁止AI歌曲以保护人类艺术家",
+      "summaryZh": "澳大利亚唱片业协会宣布，为保护艺术的人文属性，禁止完全由人工智能生成的歌曲进入顶级排行榜。新规要求上榜作品必须是“实质上由人类创作”的。",
+      "whyImportant": "此举反映了全球文化产业在人工智能冲击下，对保护人类原创版权和艺术价值的迫切需求。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a3043fc96e770006",
-      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
+      "id": "d790c55012e402d5",
+      "title": "美拟扩大对伊朗二级制裁 中国石油购买受关注",
+      "source": "epochtimes.com",
+      "url": "https://www.epochtimes.com/gb/26/8/24/n14835959.htm",
+      "publishedAt": "2026-08-24T16:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "epochtimes.com",
+          "url": "https://www.epochtimes.com/gb/26/8/24/n14835959.htm",
+          "publishedAt": "2026-08-24T16:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "4b3e38ad552abeafde6cd534",
+      "isContinuation": false,
+      "titleZh": "美拟扩大对伊朗二级制裁，中国石油购买受关注",
+      "summaryZh": "美国计划扩大对伊朗的二级制裁，旨在进一步限制其石油出口。中国作为伊朗石油的主要买家，其相关贸易活动受到国际社会的密切关注。",
+      "whyImportant": "美国制裁政策的调整可能对中国能源进口及相关企业的国际合规产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "95ca652e0c3fe52b",
+      "title": "美伊经济博弈将致全球能源及粮食风险加剧 _ 东方财富网",
+      "source": "finance.eastmoney.com",
+      "url": "https://finance.eastmoney.com/a/202608253851688131.html",
+      "publishedAt": "2026-08-24T21:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "finance.eastmoney.com",
+          "url": "https://finance.eastmoney.com/a/202608253851688131.html",
+          "publishedAt": "2026-08-24T21:45:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "d8c238a018c7fb487cf4c920",
+      "isContinuation": false,
+      "titleZh": "美伊经济博弈将致全球能源及粮食风险加剧",
+      "summaryZh": "美伊之间的经济对抗持续升级，市场分析认为这将进一步推高全球能源和粮食供应的不确定性。地缘政治紧张局势正对全球经济稳定构成严峻挑战。",
+      "whyImportant": "能源与粮食作为基础大宗商品，其价格波动将直接影响全球通胀水平及民生保障。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "01f965df2839aa1d",
+      "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-      "publishedAt": "2026-08-23T15:00:35.000Z",
-      "summary": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market. New entrants are now the only cohort applying for more loans than they were in June, according to new data from the mortgage broker network Loan Market. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "publishedAt": "2026-08-24T16:46:17.000Z",
+      "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’ Here’s the full quote from Kremlin’s Peskov, via AFP: “Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-          "publishedAt": "2026-08-23T15:00:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "434228afa97bf27d302fbf6a",
-      "isContinuation": false,
-      "titleZh": "数据显示：澳大利亚房产投资者退场，首套房买家贷款需求依然强劲",
-      "summaryZh": "尽管利率上升且税收政策调整，但在政府支持下，澳大利亚首套房买家仍是贷款申请的主力军。抵押贷款经纪公司Loan Market的数据显示，首套房买家是目前唯一贷款申请量高于6月份的群体。",
-      "whyImportant": "这反映了澳大利亚房地产市场在政策干预下的结构性变化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cf24da5f4299b66a",
-      "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "summary": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-          "publishedAt": "2026-08-24T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "d68bad77413d76914d454e47",
-      "isContinuation": false,
-      "titleZh": "伊朗战争直播：伊朗议会推进霍尔木兹海峡服务费计划",
-      "summaryZh": "伊朗议会提出一项法律草案，要求获准通过霍尔木兹海峡的外国船只支付德黑兰提供的服务费用。",
-      "whyImportant": "此举可能进一步加剧该地区的海上航运紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ca7503f855394f41",
-      "title": "UK PM Andy Burnham to visit Kyiv on Monday as Ukraine marks independence anniversary",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3364998/uk-pm-andy-burnham-visit-kyiv-monday-ukraine-marks-independence-anniversary?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T23:25:02.000Z",
-      "summary": "British Prime Minister Andy Burnham will visit Kyiv on Monday on his first international visit since taking office last month, his office said, as Ukraine marks its 35th independence anniversary. Burnham has vowed to give strong support to Ukraine as it battles Russia’s invasion. The Labour Party leader’s visit comes as he announced that Britain had “agreed that defence firm MBDA can release classified information on UK components for the long-range missile, SCALP, to establish local assembly...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3364998/uk-pm-andy-burnham-visit-kyiv-monday-ukraine-marks-independence-anniversary?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T23:25:02.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "missile",
-        "军事"
-      ],
-      "fingerprint": "02cfeb424ab84a9d87401f1d",
-      "isContinuation": false,
-      "titleZh": "英国首相安迪·伯纳姆将于周一访问基辅，乌克兰纪念独立周年",
-      "summaryZh": "英国首相安迪·伯纳姆将在上任后首次出访基辅，以纪念乌克兰独立35周年。他宣布英国将允许国防公司MBDA分享SCALP远程导弹的分类组件信息，以支持乌克兰建立本地组装能力。",
-      "whyImportant": "此举标志着英国对乌克兰军事支持的进一步深化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd1845137dee2bc8",
-      "title": "Can Nigeria cash in on Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-      "publishedAt": "2026-08-23T16:07:01.000Z",
-      "summary": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-          "publishedAt": "2026-08-23T16:07:01.000Z"
+          "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+          "publishedAt": "2026-08-24T16:46:17.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1477,200 +1537,79 @@
         "全球焦点",
         "军事与安全",
         "能源",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "be55e9f153629dd2a258d84a",
+      "fingerprint": "c3234a163d12f058bd6d5708",
       "isContinuation": false,
-      "titleZh": "尼日利亚能从伊朗战争中获利吗？",
-      "summaryZh": "尼日利亚官员埃克佩里佩·埃克波表示，美以对伊朗的战争促使尼日利亚扩大其天然气生产规模。",
-      "whyImportant": "地缘政治冲突正在重塑全球能源供应格局。",
+      "titleZh": "伯纳姆称尽管俄罗斯发出“无耻威胁”，英国仍将“全力”支持乌克兰",
+      "summaryZh": "英国首相伯纳姆重申英国对乌克兰的坚定支持，并谴责俄罗斯的军事打击行为。克里姆林宫则指责英国在和平进程中不断“火上浇油”。",
+      "whyImportant": "英俄关系的持续紧张加剧了欧洲地缘政治的对抗风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4a67eda63a54d8e6",
-      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-      "publishedAt": "2026-08-23T21:45:05.000Z",
-      "summary": "Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.",
+      "id": "ad8bf6a73451a74b",
+      "title": "Meet Dai Zheng, the space veteran betting on China’s reusable rocket revolution",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3365091/meet-dai-zheng-space-veteran-betting-chinas-reusable-rocket-revolution?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T13:30:09.000Z",
+      "summary": "Ten years ago, Dai Zheng made a career-defining gamble: he left his secure, prestigious engineering post in China’s state space programme to join an unproven private start-up. On August 19, that risk paid off when a rocket booster returned from orbit and landed upright for the first time in Chinese commercial space history. For Dai, now chief commander of the Zhuque-3 missions at LandSpace, the successful touchdown marked both a major personal milestone and a critical leap forward in China’s...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-          "publishedAt": "2026-08-23T21:45:05.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3365091/meet-dai-zheng-space-veteran-betting-chinas-reusable-rocket-revolution?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T13:30:09.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
+        "中国重点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "军事"
+        "space",
+        "科技"
       ],
-      "fingerprint": "399c0db5f3e820de588ec816",
+      "fingerprint": "7eef275d24fc3d8ecc6f04a8",
       "isContinuation": false,
-      "titleZh": "拉菲尼亚和洛佩兹梅开二度，巴塞罗那5-0大胜埃尔切",
-      "summaryZh": "巴塞罗那在西甲联赛中以5-0击败埃尔切，开启了卫冕冠军之路，并力争实现三连冠。",
-      "whyImportant": "这场胜利为巴萨的赛季卫冕目标奠定了良好的开局。",
+      "titleZh": "走近戴政：押注中国可重复使用火箭革命的航天老兵",
+      "summaryZh": "航天工程师戴政曾放弃体制内稳定职位投身商业航天，近日他参与的朱雀三号任务成功实现火箭助推器从轨道返回并垂直着陆。这一成就标志着中国商业航天领域的重要技术突破。",
+      "whyImportant": "可重复使用火箭技术的成熟将显著降低航天发射成本，推动中国商业航天产业的快速发展。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1590ed4db511c55d",
-      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-      "publishedAt": "2026-08-23T18:15:22.000Z",
-      "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.",
+      "id": "ef5ebd2d39d678ec",
+      "title": "Trump bought shares in Elon Musk’s SpaceX in June, financial disclosure shows",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365114/trump-bought-shares-elon-musks-spacex-june-financial-disclosure-shows?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T20:22:39.000Z",
+      "summary": "US President Donald Trump invested as much as US$50,000 ⁠in Elon Musk’s SpaceX in June, according to a public financial disclosure, giving him a financial stake in a major government contractor run by his former adviser. Trump bought between US$15,001 and US$50,000 in shares on June 23, according to a financial disclosure signed ‌by him on August 12 and made public on August 22. The purchase was part of more than 1,000 stock trades the president made in June. SpaceX priced the biggest-ever US...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-          "publishedAt": "2026-08-23T18:15:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "cedb36463842b21db45da3ff",
-      "isContinuation": false,
-      "titleZh": "斯蒂芬·沃尔特：特朗普在伊朗战争中已“无计可施”",
-      "summaryZh": "政治学家斯蒂芬·沃尔特指出，尽管特朗普承诺增强美国实力，但其多项政策反而导致美国影响力减弱。",
-      "whyImportant": "专家对美国当前外交政策有效性的质疑引发了舆论关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9042dfc9f2c0c108",
-      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-      "publishedAt": "2026-08-23T15:00:36.000Z",
-      "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Australian government has been accused of leaving waters near the mainland largely unprotected by establishing the bulk of highly protected marine parks in remote areas. More than 270 leading marine scientists from 84 research institutes have written to the environment minister, Murray Watt, urging stronger protections for marine ecosystems, as a once-in-a-decade review of marine parks gets under way. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-          "publishedAt": "2026-08-23T15:00:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "e581f66f7b663d44a5487e6d",
-      "isContinuation": false,
-      "titleZh": "科学家称澳大利亚海洋公园保护的是“无人区”，而非大陆附近脆弱水域",
-      "summaryZh": "超过270名海洋科学家致信环境部长，批评政府将大部分受保护的海洋公园设在偏远地区，而忽视了大陆附近脆弱的生态系统。他们呼吁在十年一度的海洋公园审查中加强对独特生态环境的保护。",
-      "whyImportant": "这引发了关于政府环保政策优先级的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f4081a7d6d20305a",
-      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
-      "publishedAt": "2026-08-23T15:00:35.000Z",
-      "summary": "Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Children across Australia will continue to see gambling logos on professional sport jerseys until up to 2032 despite the government’s pledge to break the link between sport and wagering. The Albanese government has banned gambling company logos on jerseys but legislated a five-year transition period to allow clubs and bookmakers to adjust. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
-          "publishedAt": "2026-08-23T15:00:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 59,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "eb78b323ca0f5624877b47af",
-      "isContinuation": false,
-      "titleZh": "“荒谬”：澳大利亚体育球衣上的赌博广告将持续至2032年",
-      "summaryZh": "尽管政府承诺切断体育与博彩业的联系，但立法规定了五年的过渡期，这意味着儿童在2032年前仍可能在球衣上看到赌博标志。此举遭到了波科克等人的强烈谴责。",
-      "whyImportant": "政府在公共健康与商业利益之间的平衡引发了社会不满。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ec832e9462468d5",
-      "title": "能源的饭碗必须端在自己手里 -- 经济 · 科技 -- 人民网",
-      "source": "finance.people.com.cn",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784608.html",
-      "publishedAt": "2026-08-24T01:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "finance.people.com.cn",
-          "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784608.html",
-          "publishedAt": "2026-08-24T01:00:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365114/trump-bought-shares-elon-musks-spacex-june-financial-disclosure-shows?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T20:22:39.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1681,71 +1620,38 @@
         "全球焦点",
         "经济",
         "科技",
-        "能源"
+        "专题·科技、能源与产业"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "23dc7ff11a53a722a1ed254c",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "b845f89fb31bb5b4a58d9706",
       "isContinuation": false,
-      "titleZh": "能源的饭碗必须端在自己手里 -- 经济 · 科技 -- 人民网",
-      "summaryZh": "该报道强调了能源自主对于国家经济与科技发展的重要性。",
-      "whyImportant": "能源安全是国家战略发展的核心议题。",
+      "titleZh": "财务披露显示，特朗普6月购买了埃隆·马斯克旗下SpaceX的股票",
+      "summaryZh": "财务披露文件显示，美国总统特朗普在6月购买了价值5万美元以内的SpaceX股票。作为政府主要承包商的负责人，马斯克曾担任特朗普的顾问。",
+      "whyImportant": "总统个人投资与政府承包商之间的利益关联引发了关于潜在利益冲突的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2f1f41d461d97104",
-      "title": "US territories hit out at Trump plan to explore deep sea mining in the Pacific",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands",
-      "publishedAt": "2026-08-24T01:34:41.000Z",
-      "summary": "US agency releases plan to lease millions of hectares of seabed off the coast of the Northern Mariana Islands and Guam A US government plan to lease out millions of hectares of seabed near the Mariana Trench for deep sea exploration has drawn opposition from US territories in the Pacific, as the Trump administration remains locked in a race with China for control of critical ocean minerals. On Tuesday, the Marine Mineral Administration (MMA), an agency under the US department of the interior, released a proposal to auction deep sea mining leases for 28m hectares (69m acres) of seafloor off the coast of the Northern Mariana Islands and Guam. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands",
-          "publishedAt": "2026-08-24T01:34:41.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "efab8794a936d04ee2ef3daf",
-      "isContinuation": false,
-      "titleZh": "美国领地反对特朗普在太平洋进行深海采矿的计划",
-      "summaryZh": "美国内政部下属机构计划拍卖马里亚纳海沟附近2800万公顷的海底采矿权，引发了关岛和北马里亚纳群岛的反对。此举被视为特朗普政府在关键矿产资源上与中国竞争的举措。",
-      "whyImportant": "深海采矿计划引发了环境与地缘政治的双重争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "dcec972b6fa19789",
-      "title": "Divorcing devices: how digital detox helps Hongkongers ‘carve out moments’",
+      "id": "acb6f0230bf94ebb",
+      "title": "China’s advanced chip supply to surge by 2035 despite equipment bottlenecks, Goldman says",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3364915/divorcing-devices-how-digital-detox-helps-hongkongers-carve-out-moments?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T11:01:50.000Z",
-      "summary": "In the second instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Fiona Sun looks into how residents are embracing digital detox, as experts warn that excessive screen use is linked to anxiety, depression and sleep disorders. For Robert Broad, stepping away from electronic devices has become part of a self-care routine he developed after the Covid-19 pandemic. The 56-year-old recalled how spending long hours in front of screens while working remotely...",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T12:00:13.000Z",
+      "summary": "China is on track to dramatically slash its deficit in advanced chips over the next decade as domestic foundries rapidly scale up production, though the weak link of lithography threatens to keep full semiconductor independence out of reach, according to US investment bank Goldman Sachs. The supply of wafers made using 7-nanometre and below advanced processes is projected to grow at a compound annual rate of 46 per cent between 2025 and 2035, far outpacing the 17 per cent growth expected in...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3364915/divorcing-devices-how-digital-detox-helps-hongkongers-carve-out-moments?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T11:01:50.000Z"
+          "url": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T12:00:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1754,111 +1660,330 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "金融",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "semiconductor",
+        "科技"
       ],
-      "fingerprint": "a162ad92219771a24cf876c5",
+      "fingerprint": "5426c219a4013a857e6bfa86",
       "isContinuation": false,
-      "titleZh": "数字排毒：香港人如何通过远离设备寻找片刻安宁",
-      "summaryZh": "随着过度使用屏幕与焦虑、抑郁及睡眠障碍的关联日益凸显，香港居民正逐渐拥抱“数字排毒”。专家建议通过减少电子设备使用来改善心理健康。",
-      "whyImportant": "这反映了现代社会对数字生活方式的反思与健康意识的提升。",
+      "titleZh": "高盛：尽管存在设备瓶颈，中国先进芯片供应仍将在2035年前激增",
+      "summaryZh": "高盛预测，尽管光刻机等设备供应受限，但中国本土晶圆厂正快速扩大产能，预计到2035年将大幅缩减先进芯片的供应缺口。7纳米及以下工艺的产能增长率将远超全球平均水平。",
+      "whyImportant": "中国在半导体领域的产能扩张将重塑全球芯片供应链格局，并影响相关科技产业的竞争态势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e622b060ad37401b",
-      "title": "Remembering Zhu Rongji and understanding his legacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364730/remembering-zhu-rongji-and-understanding-his-legacy?utm_source=rss_feed",
-      "publishedAt": "2026-08-24T01:30:06.000Z",
-      "summary": "“History doesn’t repeat itself but it often rhymes.” This famous quote, widely attributed to Mark Twain, keeps playing in my mind as China mourns the death of former premier Zhu Rongji and reflects on his legacy. It was early afternoon on August 12 when I received a message from a friend on the mainland that made my heart sink: “Our much-respected Premier Zhu left us this morning!” As we anxiously waited for the official confirmation that would launch us into a frantically busy news day, my mind...",
-      "language": "",
-      "region": "china",
+      "id": "e4796174201ebf07",
+      "title": "Exorbitant and rising debt is a national security threat",
+      "source": "sbsun.com",
+      "url": "https://www.sbsun.com/2026/08/24/exorbitant-and-rising-debt-is-a-national-security-threat/",
+      "publishedAt": "2026-08-25T01:15:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364730/remembering-zhu-rongji-and-understanding-his-legacy?utm_source=rss_feed",
-          "publishedAt": "2026-08-24T01:30:06.000Z"
+          "source": "sbsun.com",
+          "url": "https://www.sbsun.com/2026/08/24/exorbitant-and-rising-debt-is-a-national-security-threat/",
+          "publishedAt": "2026-08-25T01:15:00.000Z"
+        },
+        {
+          "source": "sgvtribune.com",
+          "url": "https://www.sgvtribune.com/2026/08/24/exorbitant-and-rising-debt-is-a-national-security-threat/",
+          "publishedAt": "2026-08-24T23:30:00.000Z"
+        },
+        {
+          "source": "dailybreeze.com",
+          "url": "https://www.dailybreeze.com/2026/08/24/exorbitant-and-rising-debt-is-a-national-security-threat/",
+          "publishedAt": "2026-08-24T22:45:00.000Z"
+        }
+      ],
+      "sourceCount": 3,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "be4d1ec40413b6577e646481",
+      "isContinuation": false,
+      "titleZh": "高额且不断增长的债务已成为国家安全威胁",
+      "summaryZh": "报告指出，持续攀升的债务水平已不再仅仅是经济问题，而是演变为威胁国家安全的重大隐患。政府财政负担的加重可能削弱国家在关键领域的应对能力。",
+      "whyImportant": "债务危机可能限制政府在国防、基础设施及社会保障方面的投入，从而影响国家长期的战略稳定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2caef2c6b5be77b4",
+      "title": "India to amend regulations within two months to facilitate manufacturing investments : Piyush Goyal",
+      "source": "japanherald.com",
+      "url": "http://www.japanherald.com/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+      "publishedAt": "2026-08-24T23:30:00.000Z",
+      "summary": "",
+      "language": "English",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "japanherald.com",
+          "url": "http://www.japanherald.com/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+          "publishedAt": "2026-08-24T23:30:00.000Z"
+        },
+        {
+          "source": "indiagazette.com",
+          "url": "http://www.indiagazette.com/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+          "publishedAt": "2026-08-24T23:30:00.000Z"
+        },
+        {
+          "source": "calcuttanews.net",
+          "url": "http://www.calcuttanews.net/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+          "publishedAt": "2026-08-24T21:00:00.000Z"
+        },
+        {
+          "source": "australiannews.net",
+          "url": "http://www.australiannews.net/news/279262724/india-to-amend-regulations-within-two-months-to-facilitate-manufacturing-investments-piyush-goyal",
+          "publishedAt": "2026-08-24T20:15:00.000Z"
+        }
+      ],
+      "sourceCount": 5,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3bd5427658c6eb1488be9400",
+      "isContinuation": false,
+      "titleZh": "皮尤什·戈亚尔：印度将在两个月内修订法规以促进制造业投资",
+      "summaryZh": "印度部长皮尤什·戈亚尔表示，政府计划在未来两个月内修改相关法规，旨在简化流程并吸引更多制造业投资。此举是印度提升全球制造业地位战略的一部分。",
+      "whyImportant": "政策优化有望加速印度制造业的扩张，并进一步增强其在全球供应链中的竞争力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b05931539afbecbe",
+      "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168191",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "summary": "As spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war continue, top UN officials told the Security Council on Monday that every diplomatic effort must work towards a full, immediate and unconditional ceasefire. UN News app users can follow our live coverage here.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168191",
+          "publishedAt": "2026-08-24T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d75486f29254cea5cd1ce0b0",
+      "isContinuation": false,
+      "titleZh": "安理会直播：俄乌战争中平民苦难加剧",
+      "summaryZh": "联合国官员在安理会会议上指出，俄乌战争中针对平民的无人机和导弹袭击不断增加。会议呼吁各方必须通过外交努力，实现全面、立即且无条件的停火。",
+      "whyImportant": "平民伤亡的增加凸显了冲突的人道主义危机，国际社会对和平解决争端的呼声日益高涨。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "61d193d026919df0",
+      "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "publishedAt": "2026-08-25T01:28:27.000Z",
+      "summary": "Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving, wind-driven wildfire sparked near Reno, Nevada. Authorities added that 23,000 people are under a “go-now” order and 40,000 people are under a “get-set” warning, an improvement from the 90,000 Nevadans under evacuation orders or warnings on Monday morning. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+          "publishedAt": "2026-08-25T01:28:27.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境",
+        "公共安全"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9472976711498e47100de464",
+      "isContinuation": false,
+      "titleZh": "官员称内华达州里诺市“霍克”野火受控率约为27%",
+      "summaryZh": "内华达州里诺市附近发生的野火已持续两天，目前受控率约为27%。尽管疏散人数有所减少，但仍有数万人处于紧急撤离或预警状态。",
+      "whyImportant": "极端气候引发的野火对当地居民生命财产安全及生态环境造成了严重威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3e7edb917861298b",
+      "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
+      "publishedAt": "2026-08-25T01:10:44.000Z",
+      "summary": "After repairs to Hirosaki Castle in Aomori prefecture, officials employed a technique known as hikiya to move the structure more than two metres To chants of “so-re, so-re”, about 1,800 people came together in northern Japan over the weekend to pull a 360-tonne castle keep a little more than two metres closer to its original resting place as part of ongoing renovations. The keep – a fortified tower within a castle – had to be moved to repair a wall that was damaged in a major earthquake. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
+          "publishedAt": "2026-08-25T01:10:44.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5c125cac4493fba7e96e3696",
+      "isContinuation": false,
+      "titleZh": "日本动员1800人利用绳索和滚轮拖动360吨重的城堡主楼",
+      "summaryZh": "为修复地震受损的墙体，日本青森县弘前城动员了约1800名民众，通过传统技术将360吨重的城堡主楼平移了超过两米。这一工程展示了当地对历史建筑保护的重视。",
+      "whyImportant": "该事件体现了日本在文化遗产修复中结合传统工艺与公众参与的独特方式。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "09118d4648f9756a",
+      "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+      "publishedAt": "2026-08-24T19:09:45.000Z",
+      "summary": "Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+          "publishedAt": "2026-08-24T19:09:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7a5f2c3001eb1c25c5152bfb",
+      "isContinuation": false,
+      "titleZh": "为什么“大屠杀”最能描述被占领的西岸正在发生的事情",
+      "summaryZh": "文章指出，以色列定居者在被占领的西岸发动的袭击不应被简单称为“冲突”，其性质更符合“大屠杀”的定义。这种暴力行为正在引发严重的地区局势动荡。",
+      "whyImportant": "对暴力事件性质的定性差异反映了巴以冲突中深层的政治分歧与人权争议。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "97b17091f0d0f89e",
+      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "publishedAt": "2026-08-24T11:53:10.000Z",
+      "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”. In advance of the US announcement, the United Arab Emirates, Iran’s single biggest trading partner in the Middle East, announced it was ending all trade with Iran, a move Tehran believes was coordinated between Washington and the UAE. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+          "publishedAt": "2026-08-24T11:53:10.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "美国重点",
+        "外交",
+        "经济"
       ],
-      "score": 57,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "93f405df2d407d4b7b4e3e54",
+      "fingerprint": "6f5571b956858dc7b5595702",
       "isContinuation": false,
-      "titleZh": "缅怀朱镕基及其历史遗产",
-      "summaryZh": "中国前总理朱镕基逝世，引发了公众对其执政遗产的深切缅怀与反思。文章回顾了其在任期间的贡献及其对当代中国的影响。",
-      "whyImportant": "朱镕基的逝世引发了对中国改革开放历史进程的广泛讨论。",
+      "titleZh": "伊朗誓言报复与美国新制裁合作的国家",
+      "summaryZh": "伊朗警告称，将对任何配合美国新一轮制裁的国家采取报复行动。此前，阿联酋宣布停止与伊朗的所有贸易，伊朗认为这是美国协调的结果。",
+      "whyImportant": "伊朗的强硬立场可能导致中东地区贸易格局的进一步分裂与紧张。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c40d0226d9d52c27",
-      "title": "Record non-DSE admissions to Hong Kong’s universities spark calls for quotas",
+      "id": "e9336671f5529618",
+      "title": "Taiwan unveils Strong Bow anti-ballistic missile specs in push for US$1.13 billion funding",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3364971/record-non-dse-admissions-hong-kongs-universities-spark-calls-quotas?utm_source=rss_feed",
-      "publishedAt": "2026-08-24T00:30:12.000Z",
-      "summary": "Hong Kong public universities have admitted a record number of students applying outside the local exam system, with the intake surging by 63 per cent over seven years to account for nearly 30 per cent of the 15,000 government-funded places, the South China Morning Post has found. Meanwhile, the intake of home-grown students taking the Diploma of Secondary Education (DSE) exam has dropped by 7 per cent, causing its proportion to fall from 82 per cent to 72 per cent, sparking calls for a cap on...",
+      "url": "https://www.scmp.com/news/china/military/article/3365082/taiwan-unveils-strong-bow-anti-ballistic-missile-specs-push-us113-billion-funding?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T11:57:12.000Z",
+      "summary": "Taiwan’s top weapons developer has unveiled details of its Chiang Kung, or Strong Bow, anti-ballistic missile system as it seeks legislative funding for mass production to strengthen the island’s air defences amid growing pressure from Beijing. The government-funded National Chung-Shan Institute of Science and Technology disclosed key specifications of the locally developed system earlier this month, including its hypersonic speed, two-stage solid-fuel propulsion, guidance system and active...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3364971/record-non-dse-admissions-hong-kongs-universities-spark-calls-quotas?utm_source=rss_feed",
-          "publishedAt": "2026-08-24T00:30:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 56,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "394177e6915468b48406f6a6",
-      "isContinuation": false,
-      "titleZh": "香港大学非DSE录取人数创新高，引发设立配额呼声",
-      "summaryZh": "香港公立大学录取非本地考试系统学生的比例在七年内激增63%，占政府资助名额的近30%。与此同时，本地DSE考生的录取比例下降，引发了社会对设立录取配额的讨论。",
-      "whyImportant": "这触及了香港高等教育资源分配的公平性问题。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c7444a1b32895834",
-      "title": "China’s overlooked internet army is quietly embedding AI into everyday businesses",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3364972/chinas-overlooked-internet-army-quietly-embedding-ai-everyday-businesses?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T11:00:06.000Z",
-      "summary": "While China’s new “AI tigers” have captured global attention for challenging Silicon Valley front-runners, a quieter wave of domestic technology companies is building in-house artificial intelligence systems serving everyday users. Beyond pure-play AI labs like DeepSeek, Z.ai (also known as Zhipu AI), Moonshot AI and MiniMax, consumer-facing platforms that span e-commerce, video gaming, social media and travel are developing foundation models tailored to their own business ecosystems, in efforts...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3364972/chinas-overlooked-internet-army-quietly-embedding-ai-everyday-businesses?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T11:00:06.000Z"
+          "url": "https://www.scmp.com/news/china/military/article/3365082/taiwan-unveils-strong-bow-anti-ballistic-missile-specs-push-us113-billion-funding?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T11:57:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1869,37 +1994,38 @@
         "中国重点",
         "军事与安全",
         "科技",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 56,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "军事"
+        "technology",
+        "科技"
       ],
-      "fingerprint": "2e60b26f023c0e2623bb3a6b",
+      "fingerprint": "5182eb77262636a61442a403",
       "isContinuation": false,
-      "titleZh": "中国被忽视的互联网大军正悄然将人工智能嵌入日常业务",
-      "summaryZh": "除了知名的AI实验室外，中国电商、游戏、社交媒体和旅游等领域的消费平台正在开发适合自身生态系统的基础模型。这些企业正通过将AI技术融入日常业务，实现技术落地。",
-      "whyImportant": "这显示了中国AI产业正从实验室走向广泛的商业应用。",
+      "titleZh": "台湾公布“强弓”反弹道导弹规格，寻求11.3亿美元资金",
+      "summaryZh": "台湾武器研发机构公布了“强弓”反弹道导弹系统的详细规格，包括高超音速和双级固体燃料推进技术。此举旨在争取立法机构拨款，以加强岛内防空能力。",
+      "whyImportant": "该武器系统的研发与部署反映了台海地区军事防御能力的持续升级。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1f5d1456e501c0de",
-      "title": "Iran’s foreign minister calls threat of new US economic sanctions ‘desperate’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-      "publishedAt": "2026-08-23T13:56:11.000Z",
-      "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face ‘many problems’ Iran’s foreign minister has dismissed the threat of a fresh round of US economic sanctions as a “desperate” ploy, even as its president acknowledged that the Iranian people are facing “many problems” amid Washington’s efforts to isolate and debilitate the country’s economy. Last week, Donald Trump announced a new campaign to increase the pressure on the Iranian economy, calling it “the most crushing economic operation ever taken against any country”. The US Treasury secretary, Scott Bessent, is expected to announce further punitive economic measures on Iran – which he has described as “the toughest sanctions in history” – on Monday. Continue reading...",
+      "id": "c0eca41f8bd6c250",
+      "title": "US military kills 2 in eastern Pacific boat strike in first attack in months",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365108/us-strikes-vessel-eastern-pacific-killing-2-people-first-attack-months?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T16:48:28.000Z",
+      "summary": "After a pause of more than two months, the US military announced Monday that it once again carried out a strike on a vessel in the eastern Pacific Ocean, killing two people accused of trafficking drugs. It brings the overall death toll to 223 people killed in 67 strikes during the nearly year-long US campaign of bombing alleged drug boats off Latin America’s Caribbean coast and in the eastern Pacific Ocean. US Southern Command says the campaign has resulted in the destruction of 64 speedboats,...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-          "publishedAt": "2026-08-23T13:56:11.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365108/us-strikes-vessel-eastern-pacific-killing-2-people-first-attack-months?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T16:48:28.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1908,36 +2034,110 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "外交",
-        "经济"
+        "突发",
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "3073fb465c7c77235cac4c3a",
+      "fingerprint": "24a3dbbfadc5bda201ba5884",
       "isContinuation": false,
-      "titleZh": "伊朗外长称美国新经济制裁威胁是“绝望之举”",
-      "summaryZh": "伊朗外长阿巴斯·阿拉格希驳斥了美国的新制裁威胁，称其为绝望的策略。尽管总统佩泽希齐扬承认伊朗人民面临诸多困难，但政府表示不会屈服于华盛顿的经济压力。",
-      "whyImportant": "美伊之间的经济对抗进一步升级，加剧了地区紧张局势。",
+      "titleZh": "美国军方在东太平洋打击船只致2人死亡，为数月来首次",
+      "summaryZh": "美国军方在东太平洋对一艘涉嫌贩毒的船只发动打击，造成2人死亡。这是美军在拉丁美洲周边海域开展打击贩毒行动以来的最新一起事件。",
+      "whyImportant": "美军在公海的军事化打击行动引发了关于国际法及区域安全影响的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7d1cef426f5bf446",
-      "title": "Chinese archaeologists heading to Peru for first joint project to explore ancient sites",
+      "id": "09cf6c09e50cd824",
+      "title": "Judge postpones US trial for Libyan man charged in 1988 Lockerbie bombing",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3364961/chinese-archaeologists-heading-peru-first-joint-project-explore-ancient-sites?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T15:00:07.000Z",
-      "summary": "Chinese archaeologists will carry out their first joint field project in South America by exploring sites dating back thousands of years in Peru as Beijing steps up its efforts to deepen cultural ties with the region. The Institute of Archaeology of the Chinese Academy of Social Sciences said it had signed a cooperation agreement with the Caral Archaeological Zone of the Peruvian Ministry of Culture and the Professional School of Archaeology at the National University of San Marcos to explore...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365118/judge-postpones-us-trial-libyan-man-charged-1988-lockerbie-bombing?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T23:15:29.000Z",
+      "summary": "A federal judge on Monday postponed a trial in the US for a former Libyan intelligence official charged in the 1988 bombing of Pan Am Flight 103, citing the discovery of new evidence that defence lawyers want to examine in the nearly 40-year-old case. Jury selection was scheduled to begin on Wednesday for the federal trial of Abu Agila Mohammad Masud Kheir al-Marimi in Washington. His trial will be the first in the US for the December 21, 1988, bombing. US District Judge Dabney Friedrich’s order...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3364961/chinese-archaeologists-heading-peru-first-joint-project-explore-ancient-sites?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T15:00:07.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365118/judge-postpones-us-trial-libyan-man-charged-1988-lockerbie-bombing?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T23:15:29.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "fe72ca99c4f42181ba1619d9",
+      "isContinuation": false,
+      "titleZh": "法官推迟审理1988年洛克比空难利比亚嫌疑人案",
+      "summaryZh": "美国联邦法官因发现新证据，推迟了对1988年洛克比空难嫌疑人马苏德的审判。辩方律师需要时间审查这些新材料，该案已持续近40年。",
+      "whyImportant": "案件审理的延期反映了跨国历史遗留案件在法律程序上的复杂性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "dd62635f263862a3",
+      "title": "US set for largest mass visa revocation, targeting up to 200,000 foreigners",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365117/us-set-largest-mass-visa-revocation-targeting-200000-foreigners?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T21:53:42.000Z",
+      "summary": "The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States. If it happens, the move would be the largest single mass revocation of visas in US history and would likely face legal challenges. Unless challenged or revised, the State Department is expected to announce in the coming weeks the revocation of so-called B1 and B2 visas issued between 2016 and 2026 whose...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365117/us-set-largest-mass-visa-revocation-targeting-200000-foreigners?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T21:53:42.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c20c236c4b111ed693cc4415",
+      "isContinuation": false,
+      "titleZh": "美国准备进行史上最大规模签证撤销，目标涉及多达20万外国人",
+      "summaryZh": "特朗普政府计划撤销多达20万名申请或正在寻求庇护的外国人的商务和旅游签证。若实施，这将是美国历史上最大规模的签证撤销行动，预计将面临法律挑战。",
+      "whyImportant": "此举若落实，将对美国移民政策及国际人员往来产生重大冲击。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "901d32e8792e0cb6",
+      "title": "US, China diplomats clash over tech spying and trade hub claims in Latin America",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365055/us-china-diplomats-clash-over-tech-spying-and-trade-hub-claims-latin-america?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T13:00:06.000Z",
+      "summary": "Diplomats for China and the US in Latin America have traded brickbats on social media over alleged espionage risks posed by Chinese tech firms in the region, in the latest sign of the two powers’ unfolding strategic tensions in the western hemisphere. US assistant secretary of state for western hemisphere affairs Juan Pablo Segura named telecoms giants Huawei Technologies, ZTE and Hytera, surveillance equipment makers Hikvision and Dahua, and drone heavyweight DJI in a post on social media on...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365055/us-china-diplomats-clash-over-tech-spying-and-trade-hub-claims-latin-america?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T13:00:06.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1946,194 +2146,74 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点"
+        "美国重点",
+        "经济"
       ],
-      "score": 55,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "034f71008c22048bf08b57d7",
+      "fingerprint": "d2991cad1b6e6908657130cf",
       "isContinuation": false,
-      "titleZh": "中国考古学家前往秘鲁开展首个联合项目，探索古代遗址",
-      "summaryZh": "中国社会科学院考古研究所与秘鲁相关机构签署协议，将共同探索秘鲁数千年前的古代遗址。这是中国在南美洲开展的首个联合考古项目，旨在深化双方文化联系。",
-      "whyImportant": "此举标志着中国在拉美地区的文化外交与学术合作迈出新步伐。",
+      "titleZh": "美中外交官就拉美地区技术间谍和贸易中心主张发生冲突",
+      "summaryZh": "美中两国驻拉美外交官在社交媒体上就中国科技企业在当地的间谍风险问题展开激烈交锋。这是两国在西半球战略竞争加剧的最新迹象。",
+      "whyImportant": "大国在拉美地区的技术与贸易竞争，正使该地区成为地缘政治博弈的新前沿。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "205682e3e19c88b3",
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T20:19:36.000Z",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-23T20:19:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 54,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "39e852aeff6312d33a2599e7",
-      "isContinuation": false,
-      "titleZh": "特朗普挥旗开启华盛顿街头印地赛车比赛",
-      "summaryZh": "作为美国建国250周年庆祝活动的高潮，特朗普总统在比赛前进行了仪式性的赛道巡游。",
-      "whyImportant": "这一体育活动被赋予了国家庆典的政治象征意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "678ce317dfa5d035",
-      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-      "publishedAt": "2026-08-23T19:52:12.000Z",
-      "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-          "publishedAt": "2026-08-23T19:52:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 53,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "51ba892109bb4263f763c893",
-      "isContinuation": false,
-      "titleZh": "组图：印地赛车疾驰过华盛顿地标，庆祝“自由250”大奖赛开幕",
-      "summaryZh": "由特朗普政府发起的“自由250”大奖赛在华盛顿特区中心地带举行，赛车穿梭于城市地标之间。",
-      "whyImportant": "该赛事展示了政府通过大型活动提升国家形象的意图。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f58121b8b8a80561",
-      "title": "První zprávy - Domácí - Čína má pro umělou inteligenci plán . S united states hledají společný směr",
-      "source": "prvnizpravy.cz",
-      "url": "https://www.prvnizpravy.cz/zpravy/zpravy/cina-ma-pro-umelou-inteligenci-plan-s-usa-hledaji-spolecny-smer/",
-      "publishedAt": "2026-08-23T08:30:00.000Z",
-      "summary": "",
-      "language": "Czech",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "prvnizpravy.cz",
-          "url": "https://www.prvnizpravy.cz/zpravy/zpravy/cina-ma-pro-umelou-inteligenci-plan-s-usa-hledaji-spolecny-smer/",
-          "publishedAt": "2026-08-23T08:30:00.000Z"
-        },
-        {
-          "source": "moravskoslezskenovinky.cz",
-          "url": "https://www.moravskoslezskenovinky.cz/zpravy/zpravy/cina-ma-pro-umelou-inteligenci-plan-s-usa-hledaji-spolecny-smer/",
-          "publishedAt": "2026-08-23T07:00:00.000Z"
-        },
-        {
-          "source": "plzenskenovinky.cz",
-          "url": "https://www.plzenskenovinky.cz/zpravy/zpravy/cina-ma-pro-umelou-inteligenci-plan-s-usa-hledaji-spolecny-smer/",
-          "publishedAt": "2026-08-23T06:45:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 53,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7a24c7f2f6c83d25f2e79d1b",
-      "isContinuation": false,
-      "titleZh": "捷克新闻：中国制定人工智能计划，与美国寻求共同方向",
-      "summaryZh": "报道称中国已制定明确的人工智能发展规划，并正寻求与美国在相关领域建立共同的合作方向。",
-      "whyImportant": "全球两大经济体在AI领域的互动对未来科技格局至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "903175f0b2ddf23c",
-      "title": "Zelensky details rift with Ukraine’s dismissed defence minister Fedorov",
+      "id": "56157808594851cd",
+      "title": "China’s view of Trump’s America has changed from alarm to a shrug",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3364991/zelensky-details-rift-ukraines-dismissed-defence-minister-fedorov?utm_source=rss_feed",
-      "publishedAt": "2026-08-23T18:20:18.000Z",
-      "summary": "Ukrainian President Volodymyr Zelensky said he believes actions taken by dismissed Defence Minister Mykhailo Fedorov, including his involvement in mass protests and calls for an election, were misguided, as he publicly detailed their dispute for the first time. Zelensky also alluded to problematic decisions over defence spending and said inaccurate information provided by the Defence Ministry contributed to an awkward encounter with US President Donald Trump over the use of Starlink in...",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3364449/chinas-view-trumps-america-has-changed-alarm-shrug?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T12:30:06.000Z",
+      "summary": "There is no shortage of Western commentary on US President Donald Trump’s second term. What’s missing is an honest account of how 1.4 billion of us in China see it – or at least how China’s officials and scholars do, since that’s who I can speak for here. I’ve spent a decade watching that view change, from real alarm in 2017 to something closer to a shrug today. Four things now count as consensus among Chinese scholars. One, Trump is undermining America’s alliance system. His first term rattled...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3364991/zelensky-details-rift-ukraines-dismissed-defence-minister-fedorov?utm_source=rss_feed",
-          "publishedAt": "2026-08-23T18:20:18.000Z"
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3364449/chinas-view-trumps-america-has-changed-alarm-shrug?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T12:30:06.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
+      "isChina": true,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "美国重点",
+        "国际组织"
       ],
       "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8c5d57ae0eca6d34321ecda8",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "4251f800b90d00a6aedf6f2a",
       "isContinuation": false,
-      "titleZh": "泽连斯基详述与被解职国防部长费多罗夫的分歧",
-      "summaryZh": "乌克兰总统泽连斯基首次公开谈及与前国防部长费多罗夫的矛盾，称其参与抗议和呼吁选举的行为是错误的。泽连斯基还提到国防部在支出决策及向美国提供信息方面存在问题。",
-      "whyImportant": "高层人事动荡反映了乌克兰战时政府内部的政治压力。",
+      "titleZh": "中国对特朗普美国观感已从警惕转为耸肩",
+      "summaryZh": "文章分析称，中国官员和学者对特朗普第二任期的态度已发生显著变化，从最初的警惕转变为一种“耸肩”式的淡定。中国学界普遍认为特朗普正在削弱美国的盟友体系。",
+      "whyImportant": "中国对美政策心态的转变，反映了其对美国政治不确定性的适应与战略定力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0fe47357cfd699e3",
-      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
-      "publishedAt": "2026-08-23T17:53:31.000Z",
-      "summary": "House Speaker Mike Johnson, a Trump ally, admits it 'would be helpful' if conflict ends before elections in November.",
+      "id": "e5a2dcbab8155dfc",
+      "title": "UK’s Burnham plans US trip in September to lobby Trump on Ukraine needs",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3365119/uks-burnham-plans-us-trip-september-lobby-trump-ukraine-needs?utm_source=rss_feed",
+      "publishedAt": "2026-08-24T23:57:30.000Z",
+      "summary": "UK Prime Minister Andy Burnham said he and other European leaders plan to travel to the US next month to lobby President Donald Trump to let Ukraine access some of its Patriot air defence missile stocks ahead of the winter. “I’m looking forward to going to New York in September,” Burnham said in an interview with Bloomberg in Kyiv on Monday evening, referring to the coming UN General Assembly meeting in New York. It would be his first trip to the US since becoming prime minister. “I’ve not fully...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
-          "publishedAt": "2026-08-23T17:53:31.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3365119/uks-burnham-plans-us-trip-september-lobby-trump-ukraine-needs?utm_source=rss_feed",
+          "publishedAt": "2026-08-24T23:57:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2142,39 +2222,36 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "金融",
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "f0723092f88211c20e011df0",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "93b0c0f1932fa4a52a89b33e",
       "isContinuation": false,
-      "titleZh": "伊朗战争：美国高级议员称共和党“绝对”能赢得中期选举",
-      "summaryZh": "众议院议长迈克·约翰逊承认，如果冲突能在11月选举前结束，将对共和党选情有利。",
-      "whyImportant": "地缘冲突已成为影响美国国内政治选举的关键变量。",
+      "titleZh": "英国首相伯纳姆计划9月访美，游说特朗普支持乌克兰需求",
+      "summaryZh": "英国首相伯纳姆计划在9月联合国大会期间访问美国，游说特朗普政府允许乌克兰在冬季前获取部分“爱国者”防空导弹库存。这将是他担任首相以来的首次访美。",
+      "whyImportant": "英国试图通过外交斡旋确保乌克兰在关键冬季获得军事支持，以应对俄乌冲突的持续压力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "12c5240b9640048c",
-      "title": "Photos: Ukraine celebrates National Flag Day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-      "publishedAt": "2026-08-23T17:18:25.000Z",
-      "summary": "People observe a minute of silence for those killed in war to mark the holiday established in 2004.",
+      "id": "ca041acf6ab1baa1",
+      "title": "Massachusetts woman suspected of killing police officer husband found dead",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+      "publishedAt": "2026-08-24T23:56:41.000Z",
+      "summary": "Karen Solomon had been missing for six days after her husband Kurt Solomon was found dead at their home A mental health advocate suspected of killing her police officer husband was found dead on Monday, six days after she disappeared from her Massachusetts home, authorities said. Karen Solomon, an advocate who called for improvements and greater awareness of police mental health issues, had disappeared after Worcester police officer Kurt Solomon was found dead at their home just before 5.30am on 18 August. Officials had named Karen Solomon a suspect and said she was believed to be armed. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-          "publishedAt": "2026-08-23T17:18:25.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+          "publishedAt": "2026-08-24T23:56:41.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2184,21 +2261,18 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 58,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "ab1a3d90f760d23b45c4d829",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1a6ec73ceb1041c8ed9b47bb",
       "isContinuation": false,
-      "titleZh": "组图：乌克兰庆祝国旗日",
-      "summaryZh": "为纪念2004年设立的国旗日，乌克兰民众举行了一分钟默哀，悼念在战争中牺牲的人员。",
-      "whyImportant": "这一纪念活动在战时环境下具有强烈的民族凝聚力意义。",
+      "titleZh": "涉嫌杀害警察丈夫的马萨诸塞州女子被发现死亡",
+      "summaryZh": "马萨诸塞州一名心理健康倡导者在失踪六天后被发现死亡，她此前被列为杀害其警察丈夫的嫌疑人。警方此前曾表示她可能持有武器。",
+      "whyImportant": "这起悲剧事件引发了社会对警察群体心理健康及家庭暴力问题的广泛关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
