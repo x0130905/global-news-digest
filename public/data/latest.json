@@ -1,557 +1,40 @@
 {
-  "date": "2026-08-27",
-  "generatedAt": "2026-08-27T09:45:45.301Z",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T11:21:36.086Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "global-governance",
-    "name": "全球治理与外交",
-    "description": "追踪国际组织、峰会、制裁、谈判与地缘关系变化",
-    "query": "diplomacy international relations summit sanctions United Nations",
+    "slug": "china",
+    "name": "中国与世界",
+    "description": "关注中国经济、外交、安全、产业链与海外利益",
+    "query": "China economy diplomacy security trade",
     "keywords": [
-      "diplomacy",
-      "summit",
-      "sanction",
-      "treaty",
-      "united nations",
-      "外交",
-      "峰会",
-      "制裁",
-      "条约",
-      "联合国"
+      "china",
+      "chinese",
+      "beijing",
+      "中国",
+      "北京",
+      "中美",
+      "人民币",
+      "产业链"
     ],
-    "accent": "#8b5cf6"
+    "accent": "#ef4444"
   },
-  "overview": "今日专题“全球治理与外交”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“中国与世界”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "8460282a6ecc04a7",
-      "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-      "publishedAt": "2026-08-27T08:00:08.000Z",
-      "summary": "The once world-leading producer of crude oil has plunged into an energy crisis as Kyiv targets its refineries A sanctioned shadow fleet tanker carries oil from Nato member Turkey to a Russian Baltic port. A deal is signed for Russian oil to be processed in Kazakhstan. Fuel cargoes arrive from India via Egypt. The Kremlin pressures allies to sell it badly needed fuel. The data points may be diverse, but they point to a single inescapable conclusion. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-          "publishedAt": "2026-08-27T08:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "能源",
-        "国际组织",
-        "专题·全球治理与外交"
-      ],
-      "score": 81,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "sanction",
-        "外交"
-      ],
-      "fingerprint": "a247f07249e21dce20fb8afa",
-      "isContinuation": false,
-      "titleZh": "乌克兰的无人机袭击迫使俄罗斯急于寻求石油进口",
-      "summaryZh": "由于基辅持续打击俄罗斯炼油厂，这个曾经的世界原油生产大国陷入了能源危机。克里姆林宫正通过各种渠道，包括利用影子船队和向盟友施压，以获取急需的燃料供应。",
-      "whyImportant": "乌克兰的军事打击已显著削弱了俄罗斯的能源生产能力，迫使其在国际市场上寻求外部供应以维持国内需求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "094751aa884b7834",
-      "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-      "publishedAt": "2026-08-27T02:07:32.000Z",
-      "summary": "Palestine Action co-founder Huda Ammori tells Jazeera that US sanctions designating the group a terrorist organisation.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-          "publishedAt": "2026-08-27T02:07:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "sanction",
-        "外交"
-      ],
-      "fingerprint": "0fd62b0ed87016d5faf7b09e",
-      "isContinuation": false,
-      "titleZh": "美国将“巴勒斯坦行动”列为恐怖组织，创始人回应“这太荒谬了”",
-      "summaryZh": "美国将“巴勒斯坦行动”组织列为恐怖组织并实施制裁。该组织联合创始人胡达·阿莫里对此表示强烈不满，称该指控毫无根据。",
-      "whyImportant": "此举标志着美国对特定激进抗议团体的定性升级，可能引发关于言论自由与国家安全边界的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "global": [
-    {
-      "id": "8460282a6ecc04a7",
-      "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-      "publishedAt": "2026-08-27T08:00:08.000Z",
-      "summary": "The once world-leading producer of crude oil has plunged into an energy crisis as Kyiv targets its refineries A sanctioned shadow fleet tanker carries oil from Nato member Turkey to a Russian Baltic port. A deal is signed for Russian oil to be processed in Kazakhstan. Fuel cargoes arrive from India via Egypt. The Kremlin pressures allies to sell it badly needed fuel. The data points may be diverse, but they point to a single inescapable conclusion. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-          "publishedAt": "2026-08-27T08:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "能源",
-        "国际组织",
-        "专题·全球治理与外交"
-      ],
-      "score": 81,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "sanction",
-        "外交"
-      ],
-      "fingerprint": "a247f07249e21dce20fb8afa",
-      "isContinuation": false,
-      "titleZh": "乌克兰的无人机袭击迫使俄罗斯急于寻求石油进口",
-      "summaryZh": "由于基辅持续打击俄罗斯炼油厂，这个曾经的世界原油生产大国陷入了能源危机。克里姆林宫正通过各种渠道，包括利用影子船队和向盟友施压，以获取急需的燃料供应。",
-      "whyImportant": "乌克兰的军事打击已显著削弱了俄罗斯的能源生产能力，迫使其在国际市场上寻求外部供应以维持国内需求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "17b19c2fed70c4f5",
-      "title": "Pauline Hanson adds to confusion over One Nation’s immigration policy – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
-      "publishedAt": "2026-08-27T07:36:40.000Z",
-      "summary": "This blog is now closed Nepal flash flood disaster – live updates Get our breaking news email, free app or daily news podcast The prime minister, Anthony Albanese, says Dfat officials are ready to provide consular assistance to Australians in Nepal, after the devastating flooding in the country. A local tourism official said they believed 34 Australians were missing in the area, among hundreds of foreign nationals. Australian officials were not confirming numbers at this stage, and were working to check on the welfare of people they know were in the affected region. Australians in the affected area should follow the advice of local authorities. We are aware of a number of Australians in the area and Australian officials are urgently working to confirm their welfare. We are liaising with local authorities as well as tour operators. We stand ready to provide consular assistance. The images are very disturbing indeed. We do know that there are Australians in the area. We don’t know exactly how many. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
-          "publishedAt": "2026-08-27T07:36:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "环境",
-        "公共安全"
-      ],
-      "score": 70,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3d9df2ee8d45d6a0d1da459d",
-      "isContinuation": false,
-      "titleZh": "宝琳·汉森加剧了对“单一民族党”移民政策的困惑",
-      "summaryZh": "尼泊尔发生毁灭性洪灾，澳大利亚总理阿尔巴尼斯表示外交部已准备好为受灾地区的澳大利亚公民提供领事协助。目前有报道称数十名澳大利亚人失踪，政府正在紧急核实相关人员的安危。",
-      "whyImportant": "尼泊尔的自然灾害引发了国际关注，澳大利亚政府正全力应对本国公民在海外的突发安全危机。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e3433c9dace1bc47",
-      "title": "Queensland concedes law imposing mandatory jail on some offenders as young as 10 breaches human rights",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/queensland-concedes-law-imposing-mandatory-jail-on-some-offenders-as-young-as-10-breaches-human-rights-ntwnfb",
-      "publishedAt": "2026-08-27T09:00:29.000Z",
-      "summary": "State government says ‘breach bail, go to jail’ laws raise risk of overcrowding in jails, while one expert warns they may lead to ‘cruel outcomes’ Get our breaking news email, free app or daily news podcast The Queensland government’s latest law and order crackdown – subjecting some children as young as 10 to a mandatory sentence of a year behind bars – could lead to “cruel outcomes”, according to human rights lawyers. In documents tabled with the legislation on Thursday, the government conceded its laws, dubbed “breach bail, go to jail”, would breach human rights and risk further straining the state’s overcrowded jails, youth detention centres and police watch houses. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/queensland-concedes-law-imposing-mandatory-jail-on-some-offenders-as-young-as-10-breaches-human-rights-ntwnfb",
-          "publishedAt": "2026-08-27T09:00:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9c70b897478b0c2124ddf4da",
-      "isContinuation": false,
-      "titleZh": "昆士兰州承认对10岁儿童实施强制监禁的法律违反人权",
-      "summaryZh": "昆士兰州政府承认其“违反保释即入狱”的法律可能导致残酷后果，并加剧监狱和拘留中心的过度拥挤。人权律师对该政策针对年仅10岁儿童的强制监禁条款表示强烈担忧。",
-      "whyImportant": "此举引发了关于司法严苛程度与未成年人权利保护之间平衡的广泛法律与伦理争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "158afd8879c05cda",
-      "title": "‘If you harm my project, I’ll harm you’: former NSW official tells Icac about fugitive developer’s call",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/icac-nsw-liberal-party-building-commissioner-fugitive-developer-phone-call-ntwnfb",
-      "publishedAt": "2026-08-27T07:50:23.000Z",
-      "summary": "Former building commissioner David Chandler told inquiry of clashes with ‘loud and overbearing’ developer Jean Nassif Get our breaking news email, free app or daily news podcast A fugitive Sydney developer allegedly warned the then-New South Wales building commissioner that he would “harm” him if he got in the way of his projects which were being inspected for defects, the corruption watchdog has heard. Giving evidence to the Independent Commission against Corruption on Thursday, David Chandler described an interaction he had with Toplace developments’ Jean Nassif. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/icac-nsw-liberal-party-building-commissioner-fugitive-developer-phone-call-ntwnfb",
-          "publishedAt": "2026-08-27T07:50:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6152fde5a516bdc4108d5a63",
-      "isContinuation": false,
-      "titleZh": "前新南威尔士州官员向反腐败委员会披露在逃开发商的威胁",
-      "summaryZh": "前建筑专员大卫·钱德勒在反腐败听证会上作证称，在逃开发商让·纳西夫曾威胁要对他进行报复。此前钱德勒曾因建筑缺陷问题对纳西夫的项目进行过审查。",
-      "whyImportant": "该证词揭露了建筑行业内部可能存在的腐败与恐吓行为，对当地监管机构的公信力提出了挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e77c28e5de6ced7e",
-      "title": "Nepal flash flood: 270 bodies recovered with hundreds more missing – latest updates",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
-      "publishedAt": "2026-08-27T09:09:54.000Z",
-      "summary": "Foreign nationals from India, US, UK, Australia, Malaysia and Ukraine among those missing Flash floods leave scores dead and hundreds missing Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? Eyewitness accounts have been emerging from the Tibetan side of the border, with a woman saying she was travelling from Gyirong town towards Nepal on Wednesday morning when her group encountered the flood about 4km from Gyirong port. “Trees and electricity poles had already been knocked down, and the flood water was bearing down on us. We didn’t dare turn around, so we could only reverse,” the woman, surnamed Fang, told Xiaoxiang Morning News. I was really scared. My whole body was trembling. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
-          "publishedAt": "2026-08-27T09:09:54.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "环境",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4c0c8e9a7864fae351e301a9",
-      "isContinuation": false,
-      "titleZh": "尼泊尔山洪暴发：已发现270具遗体，数百人失踪",
-      "summaryZh": "尼泊尔与西藏边境地区发生严重山洪，造成大量人员伤亡，失踪者包括来自多个国家的游客。目击者描述了洪水摧毁基础设施的恐怖场景，救援工作仍在紧张进行中。",
-      "whyImportant": "此次重大自然灾害造成了严重的人员伤亡和财产损失，引发了国际社会对边境地区灾害应对能力的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "661a16f42eb6f21b",
-      "title": "Chaos mars Fenerbahce’s Champions League qualifying win over Lyon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss",
-      "publishedAt": "2026-08-27T08:57:38.000Z",
-      "summary": "Fenerbahce's French midfielder Guendouzi was attacked by Lyon fans after he mocked them at the end of the match.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss",
-          "publishedAt": "2026-08-27T08:57:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2919f5f937c02a9c95521b75",
-      "isContinuation": false,
-      "titleZh": "费内巴切在欧冠资格赛战胜里昂的比赛中发生混乱",
-      "summaryZh": "在费内巴切战胜里昂的欧冠资格赛结束后，费内巴切的法国中场贡多齐因嘲讽里昂球迷而遭到攻击。比赛现场因此陷入混乱。",
-      "whyImportant": "体育赛事中的暴力冲突事件再次引发了关于球员行为规范及球场安保措施的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "358981e5eda9f49d",
-      "title": "Albanese vows refugee intake won’t be slashed after earlier reports of Coalition-level cut",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/australia-refugees-slashed-labor-migration-pressure-one-nation",
-      "publishedAt": "2026-08-27T08:06:57.000Z",
-      "summary": "Prime minister intervenes amid anger at news Tony Burke was planning to cut intake of 20,000 arrivals by a third Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Anthony Albanese has guaranteed Australia’s annual refugee intake will not be cut next financial year, shutting down plans for the arrivals quota to drop by one-third to Coalition-era levels. Labor MPs and refugee advocates reacted angrily to news on Thursday morning that the home affairs minister, Tony Burke, was planning to cut intake of 20,000 arrivals to 13,750 in 2027-28. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/australia-refugees-slashed-labor-migration-pressure-one-nation",
-          "publishedAt": "2026-08-27T08:06:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 60,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "91e6dcb96e078bb16b491216",
-      "isContinuation": false,
-      "titleZh": "阿尔巴尼斯承诺不会削减难民接收配额",
-      "summaryZh": "针对此前有关政府计划将年度难民接收量削减三分之一的报道，澳大利亚总理阿尔巴尼斯予以否认。他保证下一财年的难民接收配额将保持不变，平息了工党内部及难民权益组织的愤怒。",
-      "whyImportant": "这一政策表态明确了政府在移民与人道主义援助方面的立场，避免了潜在的政治动荡。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0e8b3589e25e1021",
-      "title": "Hong Kong gold imports fall 18% in July as mainland giants rush to build vaults",
+      "id": "1b2056c09e6e71b0",
+      "title": "Xi-Trump summit plans, Nepal disaster, SCO summit",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/commodities/article/3365422/hong-kong-gold-imports-fall-18-july-mainland-giants-rush-build-vaults?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T06:43:42.000Z",
-      "summary": "Gold flows into Hong Kong eased to about 107 tonnes in July despite mainland corporate buyers pouring capital into new bullion vaults, as they bet on the city’s strategic ambition to establish itself as Asia’s premier hub for the precious metal. The city’s non-monetary gold imports fell about 18 per cent from June, a month that registered a decade-long high as banks built up inventory ahead of the trial launch of the city’s gold clearing and settlement system that opened on July 7. The value of...",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:00:14.000Z",
+      "summary": "Chinese President Xi Jinping may take a business delegation to Washington next month, when he is also likely to sign a trade-war truce extension with US President Donald Trump. The potential business delegation is under negotiation ahead of the September 24 summit, the South China Morning Post reported, citing four people with knowledge of the matter. US executives, including Apple’s Tim Cook and Tesla’s Elon Musk, accompanied Trump on his state visit to China in May. Both countries want to...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/commodities/article/3365422/hong-kong-gold-imports-fall-18-july-mainland-giants-rush-build-vaults?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T06:43:42.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融"
-      ],
-      "score": 60,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4ceea250b343b4b6684c18a2",
-      "isContinuation": false,
-      "titleZh": "香港7月黄金进口量下降18%，内地巨头竞相建立金库",
-      "summaryZh": "尽管内地企业正投入大量资金在香港建立金库以巩固其作为亚洲黄金枢纽的地位，但香港7月的非货币黄金进口量仍较6月下降了约18%。此前6月的进口量曾创下十年新高。",
-      "whyImportant": "黄金进口数据的波动反映了市场对香港作为贵金属交易中心战略地位的长期布局与短期调整。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a8da830af84161dd",
-      "title": "Hong Kong cancels rainstorm warnings, afternoon school sessions go ahead",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/weather/hong-kong/article/3365380/hong-kong-issues-red-rainstorm-warning-morning-and-whole-day-classes-suspended?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T01:05:50.000Z",
-      "summary": "Hong Kong’s weather forecaster cancelled its rainstorm warnings on Thursday, following spells of heavy rain that led to the suspension of morning and whole-day schools, with afternoon classes allowed to proceed. The Observatory issued the red signal – the middle level in a three-tier system – at 5.05am, and soon after also sent out a special landslip advisory for Po Toi Island due to heavy rain. The forecaster downgraded the red alert to amber at 9.20am and then cancelled that one at...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/weather/hong-kong/article/3365380/hong-kong-issues-red-rainstorm-warning-morning-and-whole-day-classes-suspended?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T01:05:50.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "环境",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f892bc9bc6b322fb06014b2d",
-      "isContinuation": false,
-      "titleZh": "香港取消暴雨警告，下午校课照常进行",
-      "summaryZh": "香港天文台在经历了一段时间的强降雨后取消了所有暴雨警告信号。受降雨影响，上午及全日制学校曾一度停课，但下午课程已获准恢复。",
-      "whyImportant": "气象预警的及时调整保障了城市公共服务和教育活动的正常运行。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bd2de1c640b625d4",
-      "title": "OpenAI says it detected malign activity months before Hugging Face attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "publishedAt": "2026-08-27T06:33:18.000Z",
-      "summary": "ChatGPT creator says AI agents collaborated and delegated work in hacking, calling themselves a 'collective'.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-          "publishedAt": "2026-08-27T06:33:18.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "科技"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8f0c804780984f2f9199a7bc",
-      "isContinuation": false,
-      "titleZh": "OpenAI称在Hugging Face攻击发生前数月就已检测到恶意活动",
-      "summaryZh": "ChatGPT的开发者OpenAI表示，其检测到人工智能代理在黑客攻击中进行了协作与任务分配，并自称为一个“集体”。这些恶意活动在针对Hugging Face的攻击发生前数月便已出现。",
-      "whyImportant": "AI代理参与网络攻击的发现，凸显了人工智能安全治理面临的新型复杂威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "china": [
-    {
-      "id": "fdc7c6cc45788122",
-      "title": "Nepal floods: missing Australians identified as children as young as 11 among those yet to be found",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
-      "publishedAt": "2026-08-27T09:27:30.000Z",
-      "summary": "Nepali tour operator fears 15 Australians who had been on a trek near the border with China have died after devastating flood Nepal flash flood live updates Get our breaking news email, free app or daily news podcast A New South Wales couple on a spiritual pilgrimage are among the first of 34 Australians identified as missing after flash flooding ravaged the Nepal-Tibet border. Venkatraman Balakrishnan, 52, and his wife, Chitra Venkatraman, 46, were among 15 Australians travelling to Mount Kailash in Tibet on a spiritual trip, according to their son. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
-          "publishedAt": "2026-08-27T09:27:30.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "环境",
-        "国际组织"
-      ],
-      "score": 73,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "342d81721ba85e61e2cd2b7e",
-      "isContinuation": false,
-      "titleZh": "尼泊尔洪水：失踪澳大利亚人身份确认，包括年仅11岁的儿童",
-      "summaryZh": "在尼泊尔与中国边境发生的山洪中，失踪的34名澳大利亚人身份陆续得到确认，其中包括一对正在进行朝圣之旅的夫妇。当地旅游经营者担心，这批在边境徒步的游客可能已在洪灾中遇难。",
-      "whyImportant": "失踪人员中包含儿童和家庭成员，使得此次灾难的悲剧色彩更加浓厚，引发了澳大利亚国内的深切哀悼。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f4b564fe92926e3e",
-      "title": "What China can do to secure trade routes in its coming high-seas struggle with US",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3365443/what-china-can-do-secure-trade-routes-its-coming-high-seas-struggle-us?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T07:55:56.000Z",
-      "summary": "China should forge a national consensus on “regaining mastery of the oceans” and direct overseas investment returns into defence spending to brace for sea-power competition with the US, according to a prominent Chinese academic. Di Dongsheng, associate dean of Renmin University’s school of international studies in Beijing, warned on Tuesday that as economic ties between the United States, the dominant maritime power, and China, which relies heavily on sea-bound trade, shifted towards...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3365443/what-china-can-do-secure-trade-routes-its-coming-high-seas-struggle-us?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T07:55:56.000Z"
+          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:00:14.000Z"
         }
       ],
       "sourceCount": 1,
@@ -561,36 +44,43 @@
       "tags": [
         "中国重点",
         "美国重点",
+        "外交",
         "经济",
-        "军事与安全"
+        "军事与安全",
+        "公共安全",
+        "专题·中国与世界"
       ],
-      "score": 72,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ff61efffcd8903477fb34fb8",
+      "score": 85,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "34b30d76771e8f823c570ef0",
       "isContinuation": false,
-      "titleZh": "中国在即将到来的与美国公海竞争中如何保障贸易路线",
-      "summaryZh": "中国学者狄东升建议，中国应凝聚“重掌海洋”的国家共识，并将海外投资收益投入国防支出，以应对与美国的海权竞争。他指出，随着中美经济联系的转变，中国必须加强对海上贸易路线的保障。",
-      "whyImportant": "这一观点反映了中国学术界对地缘政治竞争加剧背景下，国家海上安全与经济利益保护的战略思考。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "69efa6acee36a53a",
-      "title": "Unitree’s stock slump since IPO stokes fears of a bubble in Chinese humanoid robotics",
+      "id": "bdabfb509160d14f",
+      "title": "Chinese robot maker Micbot looks to woo Aramco while chasing Hong Kong IPO",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3365459/unitrees-stock-slump-ipo-stokes-fears-bubble-chinese-humanoid-robotics?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T09:30:06.000Z",
-      "summary": "Shares in Chinese robotics star Unitree Robotics rebounded on Thursday following five straight days of losses that erased nearly half of its market value, although it did little to cool fears of a Chinese humanoid robot bubble. The stock rose nearly 4 per cent to close at 615 yuan on Thursday, giving the company a market capitalisation of 248.8 billion yuan (US$37 billion), after touching a record low of 571 yuan on Wednesday. That low marked a 48 per cent drop from its peak of 1,100 yuan on its...",
+      "url": "https://www.scmp.com/economy/china-economy/article/3365602/chinese-robot-maker-micbot-looks-woo-aramco-while-chasing-hong-kong-ipo?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:38:42.000Z",
+      "summary": "A Chinese robotics firm is accelerating its overseas strategy, with a fleet of AI-powered industrial quadrupeds being primed for Saudi Aramco facilities, while revving up its bid for a listing in Hong Kong next year. Heavy-duty, explosion-proof robots from Micbot are tipped to join similar products from other suppliers at oilfields, petrochemical bases and mines operated by Aramco, according to Micbot’s chief marketing officer, Huang Ziyan. Unlike consumer-focused companies that make educational...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3365459/unitrees-stock-slump-ipo-stokes-fears-bubble-chinese-humanoid-robotics?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T09:30:06.000Z"
+          "url": "https://www.scmp.com/economy/china-economy/article/3365602/chinese-robot-maker-micbot-looks-woo-aramco-while-chasing-hong-kong-ipo?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:38:42.000Z"
         }
       ],
       "sourceCount": 1,
@@ -599,35 +89,41 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融"
+        "突发",
+        "金融",
+        "能源",
+        "专题·中国与世界"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6806e54a2ceadbdc6f107c48",
+      "score": 84,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "14436f9493098537204e8cd2",
       "isContinuation": false,
-      "titleZh": "优必选上市后股价暴跌，引发对中国人形机器人泡沫的担忧",
-      "summaryZh": "尽管优必选科技股价在连续五日下跌后有所反弹，但其市值已较峰值缩水近半。市场分析人士担忧，这可能预示着中国人形机器人行业存在估值泡沫。",
-      "whyImportant": "科技股的剧烈波动反映了投资者对新兴人形机器人产业商业化前景及估值合理性的审慎态度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "682c48d0c7b41944",
-      "title": "Hong Kong lowers heat stress warning system thresholds after criticism",
+      "id": "592f6ff28ef5ea80",
+      "title": "China pledges to send urgent emergency aid to Nepal after deadly landslide",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/article/3365453/hong-kong-lowers-heat-stress-warning-system-thresholds-after-criticism?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T08:52:59.000Z",
-      "summary": "Hong Kong’s Heat Stress at Work warning system will be automatically upgraded when temperatures reach 35 degrees Celsius (95 Fahrenheit) across multiple districts, after labour authorities lowered its activation thresholds following criticism. Two weeks after the system — which advises outdoor workers to take measures to prevent heatstroke — drew criticism for failing to issue higher-level alerts despite scorching temperatures, the Labour Department on Thursday announced changes that will take...",
+      "url": "https://www.scmp.com/news/china/politics/article/3365583/china-pledges-send-urgent-emergency-aid-nepal-after-deadly-landslide?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T08:30:23.000Z",
+      "summary": "Beijing promised to send emergency aid to Nepal on Friday as Chinese rescuers continued to fight their way through hazardous conditions in an effort to reach the border checkpoint hit by deadly flash floods this week. The disaster left five dead and 558 missing in Tibet’s Gyirong county, while Nepal reported 469 dead and nearly 1,000 missing. Chinese President Xi Jinping sent a message of condolence to his Nepalese counterpart, Ram Chandra Poudel, following the devastating mudslides, state...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/article/3365453/hong-kong-lowers-heat-stress-warning-system-thresholds-after-criticism?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T08:52:59.000Z"
+          "url": "https://www.scmp.com/news/china/politics/article/3365583/china-pledges-send-urgent-emergency-aid-nepal-after-deadly-landslide?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T08:30:23.000Z"
         }
       ],
       "sourceCount": 1,
@@ -636,35 +132,130 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全"
+        "突发",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f361c722dbf39715946cafa9",
+      "score": 80,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "3668b7f2cb37ba4edaca740c",
       "isContinuation": false,
-      "titleZh": "香港在批评声中下调热压力警告系统阈值",
-      "summaryZh": "在因高温天气下未能及时发布高等级预警而受到批评后，香港劳工处宣布下调热压力警告系统的激活阈值。未来当多个地区气温达到35摄氏度时，该系统将自动升级。",
-      "whyImportant": "政策调整旨在更好地保护户外劳动者在极端高温下的健康与安全，回应了公众的诉求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "45f843a72e22e946",
-      "title": "Zhipu AI shares jump as viral Ox Alpha model revealed as GLM-5.3-Flash on Chinese chips",
+      "id": "833a501071c75535",
+      "title": "‘We praise God’: Australian woman feared missing in Nepal flooding makes contact with family",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/28/we-praise-god-australian-woman-feared-missing-in-nepal-flooding-makes-contact-with-family",
+      "publishedAt": "2026-08-28T08:15:23.000Z",
+      "summary": "Cara Severino has spoken with her parents – but still faces a trek of more than 110km to reach Kathmandu on foot ‘So desperately loved’: ADF member among dozens of Australians missing in Nepal floods as families pray for safe return How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort Get our breaking news email, free app or daily news podcast An Australian woman has made contact with her family, more than two days after she was reported missing in flash flooding in Nepal. At least 469 people have been killed and more than 1,500 are missing after a catastrophic flash flood hit the China-Nepal border on Wednesday. Cara Severino, 25, is the first of 39 Australians reported missing in the tragedy to have been confirmed safe. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/28/we-praise-god-australian-woman-feared-missing-in-nepal-flooding-makes-contact-with-family",
+          "publishedAt": "2026-08-28T08:15:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 78,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "421db710ac898390e7700aa5",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "7d9698dc33f1eb78",
+      "title": "Could the China-Nepal disaster spur a safety rethink for a flagship rail project?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3365433/zhipu-ai-shares-jump-viral-ox-alpha-model-revealed-glm-53-flash-chinese-chips?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T08:30:12.000Z",
-      "summary": "China’s Zhipu AI has launched its latest open-weight model, GLM-5.3-Flash – previously code-named Ox Alpha – saying that the system ran entirely on a cluster of 100,000 domestically produced chips during a high-profile stealth trial. The announcement followed a week of heavy traffic on artificial intelligence model marketplace OpenRouter and agent platform OpenCode, where the model processed 62 trillion tokens before its formal release on Wednesday, according to Zhipu. On OpenRouter, the system...",
+      "url": "https://www.scmp.com/news/china/politics/article/3365587/could-china-nepal-disaster-spur-safety-rethink-flagship-rail-project?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T10:00:08.000Z",
+      "summary": "This week’s devastating floods on the China-Nepal border could be a catalyst for joint early-warning systems, particularly in relation to a proposed rail link between the countries. Rescuers were still struggling on Thursday to reach Gyirong Port in the Tibet autonomous region where a mudslide struck a day earlier, following flash floods from Nepal. The port is the region’s main foreign trade gateway, which handles a third of China’s trade with its neighbour. Gyirong is also one end of a...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3365433/zhipu-ai-shares-jump-viral-ox-alpha-model-revealed-glm-53-flash-chinese-chips?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T08:30:12.000Z"
+          "url": "https://www.scmp.com/news/china/politics/article/3365587/could-china-nepal-disaster-spur-safety-rethink-flagship-rail-project?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T10:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "军事与安全",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 77,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "2e1cec00e3b6da6a99629c4e",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d5edc17a49dc921b",
+      "title": "Bangladesh confirms Chinese J-10CE jet deal, citing Rafale kill in India-Pakistan clash",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3365553/bangladesh-confirms-chinese-j-10ce-jet-deal-citing-rafale-kill-india-pakistan-clash?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:00:12.000Z",
+      "summary": "Bangladesh has for the first time confirmed a long-expected deal to purchase China’s 4.5-generation J-10CE fighters, pointing to the jet’s combat performance against Rafale fighters in last year’s India-Pakistan conflict. One military expert said it was a sign that the global perception of Chinese weapons was shifting and the market would gradually open. Zahed Ur Rahman, information and broadcasting adviser to the prime minister of Bangladesh, told journalists on Tuesday that a draft proposal to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3365553/bangladesh-confirms-chinese-j-10ce-jet-deal-citing-rafale-kill-india-pakistan-clash?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:00:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -674,266 +265,296 @@
       "tags": [
         "中国重点",
         "金融",
-        "科技"
+        "军事与安全",
+        "专题·中国与世界"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "22b2919a1ad26a3e05fd244d",
+      "score": 76,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "7b7776224768215aa4b2a514",
       "isContinuation": false,
-      "titleZh": "智谱AI股价上涨，病毒式传播的Ox Alpha模型被揭示为基于国产芯片的GLM-5.3-Flash",
-      "summaryZh": "智谱AI发布了最新的开源模型GLM-5.3-Flash，该模型在测试中完全运行于国产芯片集群上。此前该模型以代号“Ox Alpha”在AI平台进行了大规模压力测试，处理了海量数据。",
-      "whyImportant": "该模型的成功发布展示了国产AI芯片在处理大规模模型训练方面的潜力，对中国AI自主化进程具有重要意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "usa": [
-    {
-      "id": "1b3ccf0d2b033476",
-      "title": "How Shenzhen can win the ‘AI for science’ race",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3364868/how-shenzhen-can-win-ai-science-race?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T08:30:10.000Z",
-      "summary": "The next big competition in artificial intelligence is over science. The question is shifting from who has the largest model to who can use AI to shorten the discovery cycle: forming a hypothesis, running simulations, designing an experiment, operating equipment, collecting results and learning from them. The United States made that shift explicit. The Department of Energy’s Genesis Mission aims to bring together 17 national laboratories into an integrated discovery platform to double the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3364868/how-shenzhen-can-win-ai-science-race?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T08:30:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "科技",
-        "能源",
-        "国际组织"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3f4e99e60256c23efd1270f7",
-      "isContinuation": false,
-      "titleZh": "深圳如何赢得“AI赋能科学”的竞赛",
-      "summaryZh": "人工智能领域的竞争正转向如何利用AI缩短科学发现周期。深圳若想在这一领域取得领先，需要整合资源，建立能够涵盖假设、模拟、实验设计及数据学习的综合发现平台。",
-      "whyImportant": "AI与科学研究的深度融合被视为未来科技竞争的关键，深圳的战略布局将决定其在这一前沿领域的地位。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "f79e419832d2aa19",
-      "title": "‘Panic’ as US immigrant visa interview pause hits at least 100 Hong Kong applicants",
+      "id": "fcded642f94b74f2",
+      "title": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3365428/panic-us-immigrant-visa-interview-pause-hits-least-100-hong-kong-applicants?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T06:42:40.000Z",
-      "summary": "At least 100 Hong Kong-based applicants have been affected by the indefinite postponement of US immigrant interviews worldwide, consultants have said, with student and travel visa applications also disrupted. The global pause, which marks a sharp tightening of legal immigration under the Trump administration, has left some Hong Kong applicants fearing the United States could scrap the entire pathway, rendering their efforts futile and their money wasted. In an email seen by the South China...",
+      "url": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T11:06:12.000Z",
+      "summary": "Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in first-half revenue on Friday, as the firm released its first financial results since becoming China’s most valuable publicly traded company in a blockbuster Shanghai listing last month. The Hefei-based firm – China’s leading maker of dynamic random-access memory (DRAM) products – posted revenue of 150.31 billion yuan (US$22.4 billion) for the six months to June, up 873.64 per cent year on year, according to a filing...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3365428/panic-us-immigrant-visa-interview-pause-hits-least-100-hong-kong-applicants?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T06:42:40.000Z"
+          "url": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T11:06:12.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "84f80704737788c9faab108b",
-      "isContinuation": false,
-      "titleZh": "美国移民签证面试暂停，至少100名香港申请人陷入“恐慌”",
-      "summaryZh": "受美国全球暂停移民签证面试的影响，至少100名香港申请人受到波及。申请者担心美国可能彻底取消相关移民途径，导致其投入的时间和金钱付诸东流。",
-      "whyImportant": "美国移民政策的收紧对香港申请人造成了直接的经济与心理冲击，引发了对未来移民前景的不确定性担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a52931cca7084be7",
-      "title": "Fifth Anniversary of the Attack at Abbey Gate",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/",
-      "publishedAt": "2026-08-26T19:29:53.000Z",
-      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION At 5:36 p.m. on August 26, 2021, a lone ISIS-K terrorist pressed into the crowd at Abbey Gate in Kabul, Afghanistan, and detonated a body-worn bomb. The terrorist was one of the thousands of prisoners released by the Taliban just 2 months earlier. As a […] The post Fifth Anniversary of the Attack at Abbey Gate appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/",
-          "publishedAt": "2026-08-26T19:29:53.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f403d851e080a09e361490bc",
-      "isContinuation": false,
-      "titleZh": "阿比门袭击事件五周年纪念",
-      "summaryZh": "美国总统发布公告，纪念2021年8月26日在阿富汗喀布尔阿比门发生的自杀式炸弹袭击事件。该事件由一名ISIS-K恐怖分子实施，造成了严重的人员伤亡。",
-      "whyImportant": "此纪念活动重申了美国对反恐斗争的承诺，并对在袭击中丧生的人员表示哀悼。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8161085556a68fcb",
-      "title": "NFL champions Seattle Seahawks sold to Khosla Group for record $9.6 billion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/27/nfl-champions-seattle-seahawks-sold-to-khosla-group-for-record-9-6-billion?traffic_source=rss",
-      "publishedAt": "2026-08-27T07:14:49.000Z",
-      "summary": "The price tag is an NFL record for a franchise sale and the second-highest valuation in North American sports history.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/nfl-champions-seattle-seahawks-sold-to-khosla-group-for-record-9-6-billion?traffic_source=rss",
-          "publishedAt": "2026-08-27T07:14:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d012d119a9fd520b1f5ac8aa",
-      "isContinuation": false,
-      "titleZh": "NFL冠军西雅图海鹰队以创纪录的96亿美元出售给Khosla集团",
-      "summaryZh": "西雅图海鹰队以96亿美元的价格被出售给Khosla集团。这一价格创下了NFL球队出售的最高纪录，也是北美体育史上第二高的估值。",
-      "whyImportant": "此次天价交易凸显了顶级职业体育赛事资产在资本市场上的极高价值与吸引力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "09ba9fb0cf8447a9",
-      "title": "Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
-      "publishedAt": "2026-08-26T21:19:54.000Z",
-      "summary": "ADDRESSING BEEF AFFORDABILITY WITH TARGETED ACTION: Today, President Donald J. Trump signed a Proclamation to temporarily increase the quantity of lean beef trimmings that are imported with no above-quota tariff to ensure affordable beef for American consumers in light of current supply challenges. This action includes key safeguards to maximize cost savings while protecting American ranchers […] The post Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
-          "publishedAt": "2026-08-26T21:19:54.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济"
-      ],
-      "score": 53,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0a72542dd61c2213fce29a46",
-      "isContinuation": false,
-      "titleZh": "情况说明书：唐纳德·J·特朗普总统进一步确保美国消费者的平价牛肉供应",
-      "summaryZh": "特朗普总统签署公告，暂时增加免配额关税的瘦牛肉碎进口量，以应对当前的供应挑战并确保美国消费者的牛肉价格稳定。该措施包含旨在保护美国牧场主利益的保障条款。",
-      "whyImportant": "政府通过调整进口政策干预食品价格，旨在缓解通胀压力并保障民生消费需求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "watch": [
-    {
-      "id": "094751aa884b7834",
-      "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-      "publishedAt": "2026-08-27T02:07:32.000Z",
-      "summary": "Palestine Action co-founder Huda Ammori tells Jazeera that US sanctions designating the group a terrorist organisation.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-          "publishedAt": "2026-08-27T02:07:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
+        "中国重点",
+        "经济",
+        "科技",
+        "专题·中国与世界"
       ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 72,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": true,
       "topicKeywords": [
-        "sanction",
-        "外交"
+        "china",
+        "chinese",
+        "中国"
       ],
-      "fingerprint": "0fd62b0ed87016d5faf7b09e",
+      "fingerprint": "fc993b8844256e6264fc2468",
       "isContinuation": false,
-      "titleZh": "美国将“巴勒斯坦行动”列为恐怖组织，创始人回应“这太荒谬了”",
-      "summaryZh": "美国将“巴勒斯坦行动”组织列为恐怖组织并实施制裁。该组织联合创始人胡达·阿莫里对此表示强烈不满，称该指控毫无根据。",
-      "whyImportant": "此举标志着美国对特定激进抗议团体的定性升级，可能引发关于言论自由与国家安全边界的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "9c4f5cef4981297d",
-      "title": "Japan fast-tracks anti-drone system amid China’s military build-up",
+      "id": "2e6e17d84b225abe",
+      "title": "‘Never sell love for money’: China actress Jing Tian hits back at crypto mogul Justin Sun’s claims",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3365345/japan-fast-tracks-anti-drone-system-amid-chinas-military-build?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T04:00:16.000Z",
-      "summary": "Tokyo is experimenting with a radically faster way of buying new weapons – picking a domestically built interceptor drone less than three months after launching the procurement process. Analysts say this shift could help Japan respond more quickly to China’s expanding military capabilities. The defence ministry’s Acquisition, Technology and Logistics Agency (ATLA) announced on Tuesday that it had signed a contract to buy Terra Drone’s Terra B1 system following competitive trials. The decision...",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3365611/never-sell-love-money-china-actress-jing-tian-hits-back-crypto-mogul-justin-suns-claims?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T10:11:33.000Z",
+      "summary": "A Chinese cryptocurrency tycoon is suing an actress and her parents to recover a bride price of 30 million yuan (US$4.5 million), then revealed details of their relationship online while the actress urged that the dispute be left to the courts. Justin Sun, 36, founder of the blockchain platform Tron, has an estimated net worth of US$8.5 billion, according to Forbes. On August 27, Sun published a post titled “My Girlfriend Jing Tian,” recounting their relationship and touching on surrogacy and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3365345/japan-fast-tracks-anti-drone-system-amid-chinas-military-build?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T04:00:16.000Z"
+          "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3365611/never-sell-love-money-china-actress-jing-tian-hits-back-crypto-mogul-justin-suns-claims?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T10:11:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "专题·中国与世界"
+      ],
+      "score": 71,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "aa03a0f3ef1fa5e42dd40481",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "global": [
+    {
+      "id": "d5edc17a49dc921b",
+      "title": "Bangladesh confirms Chinese J-10CE jet deal, citing Rafale kill in India-Pakistan clash",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3365553/bangladesh-confirms-chinese-j-10ce-jet-deal-citing-rafale-kill-india-pakistan-clash?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:00:12.000Z",
+      "summary": "Bangladesh has for the first time confirmed a long-expected deal to purchase China’s 4.5-generation J-10CE fighters, pointing to the jet’s combat performance against Rafale fighters in last year’s India-Pakistan conflict. One military expert said it was a sign that the global perception of Chinese weapons was shifting and the market would gradually open. Zahed Ur Rahman, information and broadcasting adviser to the prime minister of Bangladesh, told journalists on Tuesday that a draft proposal to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3365553/bangladesh-confirms-chinese-j-10ce-jet-deal-citing-rafale-kill-india-pakistan-clash?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "军事与安全",
+        "专题·中国与世界"
+      ],
+      "score": 76,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "7b7776224768215aa4b2a514",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "fcded642f94b74f2",
+      "title": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T11:06:12.000Z",
+      "summary": "Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in first-half revenue on Friday, as the firm released its first financial results since becoming China’s most valuable publicly traded company in a blockbuster Shanghai listing last month. The Hefei-based firm – China’s leading maker of dynamic random-access memory (DRAM) products – posted revenue of 150.31 billion yuan (US$22.4 billion) for the six months to June, up 873.64 per cent year on year, according to a filing...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T11:06:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "科技",
+        "专题·中国与世界"
+      ],
+      "score": 72,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "fc993b8844256e6264fc2468",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "2e6e17d84b225abe",
+      "title": "‘Never sell love for money’: China actress Jing Tian hits back at crypto mogul Justin Sun’s claims",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3365611/never-sell-love-money-china-actress-jing-tian-hits-back-crypto-mogul-justin-suns-claims?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T10:11:33.000Z",
+      "summary": "A Chinese cryptocurrency tycoon is suing an actress and her parents to recover a bride price of 30 million yuan (US$4.5 million), then revealed details of their relationship online while the actress urged that the dispute be left to the courts. Justin Sun, 36, founder of the blockchain platform Tron, has an estimated net worth of US$8.5 billion, according to Forbes. On August 27, Sun published a post titled “My Girlfriend Jing Tian,” recounting their relationship and touching on surrogacy and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3365611/never-sell-love-money-china-actress-jing-tian-hits-back-crypto-mogul-justin-suns-claims?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T10:11:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "专题·中国与世界"
+      ],
+      "score": 71,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "aa03a0f3ef1fa5e42dd40481",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "6895fffa46b7844c",
+      "title": "BOCHK posts higher profit as lower credit costs offset margin pressure",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/companies/article/3365615/bochk-posts-higher-profit-lower-credit-costs-offset-margin-pressure?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T10:36:28.000Z",
+      "summary": "Bank of China (Hong Kong), one of the city’s three note-issuing banks, reported a 7.1 per cent year-on-year increase in first-half net profit, as lower impairment charges and a wider net interest margin helped offset continued pressure on lending margins from falling Hong Kong interbank rates. Profit attributable to shareholders came to HK$23.74 billion (US$3 billion) for the six months to June 30, or HK$2.2453 per share, according to a stock exchange filing on Friday. The result beat analysts’...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/companies/article/3365615/bochk-posts-higher-profit-lower-credit-costs-offset-margin-pressure?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T10:36:28.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "专题·中国与世界"
+      ],
+      "score": 70,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "5770b536482e3cd67988c6c1",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "2b65cc5a8c74d86b",
+      "title": "Goal of Tiananmen vigil group an ‘empty slogan’, not actual plan: defence lawyer",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365585/goal-tiananmen-vigil-group-empty-slogan-not-actual-plan-defence-lawyer?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T08:39:04.000Z",
+      "summary": "The stated goal of leaders of the now-disbanded group behind Hong Kong’s annual Tiananmen vigil to end one-party rule was an “empty slogan”, and they never incited anyone to overthrow the Chinese government, their defence lawyer has told judges. The court heard on Friday that the Hong Kong Alliance in Support of Patriotic Democratic Movements of China, its former chairman Lee Cheuk-yan, former vice-chairman Albert Ho Chun-yan and former vice-chairwoman Chow Hang-tung were merely expressing their...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365585/goal-tiananmen-vigil-group-empty-slogan-not-actual-plan-defence-lawyer?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T08:39:04.000Z"
         }
       ],
       "sourceCount": 1,
@@ -943,35 +564,39 @@
       "tags": [
         "中国重点",
         "军事与安全",
-        "科技"
+        "专题·中国与世界"
       ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e8ddb7f94b81f6a45a58165a",
+      "score": 70,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "720ea5e9581386c340a1b30c",
       "isContinuation": false,
-      "titleZh": "日本在中国的军事建设背景下加快反无人机系统部署",
-      "summaryZh": "日本防卫省通过缩短采购流程，在不到三个月的时间内签署了购买Terra Drone公司反无人机系统的合同。分析人士认为，此举旨在提升日本应对中国日益增长的军事能力的反应速度。",
-      "whyImportant": "日本加速军事装备采购反映了其对地区安全环境变化的担忧，以及提升国防技术响应能力的紧迫感。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "e708eb1ad0067869",
-      "title": "Gates pitches US-China AI cooperation ahead of Xi meeting",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/plus/tech/policy/article/3365454/gates-pitches-us-china-ai-cooperation-ahead-xi-meeting?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T09:06:19.000Z",
-      "summary": "Bill Gates is likely to meet Chinese President Xi Jinping later this year as the Microsoft co-founder seeks to rally support for global cooperation on artificial intelligence (AI) risks. A meeting may take place in November, Reuters reported on Wednesday citing a Gates spokesman. Xi last met his “old friend” in 2023, when Gates became the first foreign business leader to visit the Chinese president following the Covid-19 pandemic. Gates also published a 6,000-word essay on Wednesday that called...",
+      "id": "6c277b175cb48066",
+      "title": "Nepal and China halt rescue efforts as border barrier lake overflows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/nepal-and-china-halt-rescue-efforts-as-border-barrier-lake-overflows?traffic_source=rss",
+      "publishedAt": "2026-08-28T09:30:45.000Z",
+      "summary": "The death toll from the disaster that struck on Wednesday has already surpassed 470.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/plus/tech/policy/article/3365454/gates-pitches-us-china-ai-cooperation-ahead-xi-meeting?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T09:06:19.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/28/nepal-and-china-halt-rescue-efforts-as-border-barrier-lake-overflows?traffic_source=rss",
+          "publishedAt": "2026-08-28T09:30:45.000Z"
         }
       ],
       "sourceCount": 1,
@@ -980,514 +605,750 @@
       "isNoise": false,
       "tags": [
         "中国重点",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 69,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "1f0b1c796d8d2cd0ca3744aa",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "56b2291dadcb3904",
+      "title": "Nepal-Tibet flood death toll passes 500 as rescue resumes",
+      "source": "DW",
+      "url": "https://www.dw.com/en/nepal-tibet-flood-death-toll-passes-500-as-rescue-resumes/a-78539559?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-28T11:04:00.000Z",
+      "summary": "More than a thousand people are still missing after deadly floods and landslides on the China-Nepal border. Rescue efforts were temporarily paused after an overflowing lake threatened to trigger more floods.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/nepal-tibet-flood-death-toll-passes-500-as-rescue-resumes/a-78539559?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-28T11:04:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "环境",
+        "专题·中国与世界"
+      ],
+      "score": 66,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "768436350ca12921810779e0",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a4f202b518279bc4",
+      "title": "US surgical robotics firm eyes Hong Kong listing to power push into mainland China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T05:00:12.000Z",
+      "summary": "SoftBank-backed surgical robotics company Noah Medical has begun preparations for a Hong Kong initial public offering, joining a wave of cutting-edge technology firms tapping the city’s international fundraising pool. The US-headquartered company aimed to raise more than US$100 million and planned to file its listing application as early as next year, according to founder Zhang Jian. “We want to expand our business in [mainland] China, and Hong Kong – as an international financial centre with a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T05:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技",
+        "专题·中国与世界",
+        "持续关注"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "f62862f6b31dc9ae3bd11c9e",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "05f6b564c833b7ae",
+      "title": "‘This whole thing’s a farce’: New Orleans Catholic church sex abuse settlement brings anger and shock",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/new-orleans-catholic-church-sex-abuse-settlement",
+      "publishedAt": "2026-08-28T10:00:55.000Z",
+      "summary": "Survivors begin receiving letters with payment amounts months after $305m settlement agreement was struck Survivors of child rape and other sexual abuse within New Orleans’s Roman Catholic archdiocese learned that $641,000 or so is the most they can individually get under a settlement approved in December to resolve a years-long bankruptcy protection case. Those amounts were communicated in letters that hundreds of clergy abuse survivors participating in the New Orleans archdiocese’s bankruptcy began quietly receiving on Tuesday. The figures are well below a $2.4m jury verdict awarded to an unrelated Louisiana religious sexual abuse claimant in June 2025 after the state’s legislature temporarily eliminated filing deadlines for such cases. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/28/new-orleans-catholic-church-sex-abuse-settlement",
+          "publishedAt": "2026-08-28T10:00:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "金融",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 64,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3ba897cd70028dd7fe4b5f11",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "364ad25f029cd7ee",
+      "title": "MTR Corp to deploy a world-first use of skidding method for Hung Shui Kiu station",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3365627/mtr-corp-deploy-world-first-use-skidding-method-hung-shui-kiu-station?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T11:21:18.000Z",
+      "summary": "Hong Kong’s rail operator will use a skidding method – the first worldwide for a heavy-rail project – to build Hung Shui Kiu station, helping to overcome time constraints and ensure completion by 2030. The MTR Corporation said on Friday that the station structures, each weighing about 10,000 tonnes, would be assembled from prefabricated components at worksites on either side of an operational viaduct. They would then be skidded into their designated positions alongside the operating Tuen Ma...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3365627/mtr-corp-deploy-world-first-use-skidding-method-hung-shui-kiu-station?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T11:21:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "ee88f67f301c4b142a7df4b3",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "china": [
+    {
+      "id": "1b2056c09e6e71b0",
+      "title": "Xi-Trump summit plans, Nepal disaster, SCO summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:00:14.000Z",
+      "summary": "Chinese President Xi Jinping may take a business delegation to Washington next month, when he is also likely to sign a trade-war truce extension with US President Donald Trump. The potential business delegation is under negotiation ahead of the September 24 summit, the South China Morning Post reported, citing four people with knowledge of the matter. US executives, including Apple’s Tim Cook and Tesla’s Elon Musk, accompanied Trump on his state visit to China in May. Both countries want to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "经济",
+        "军事与安全",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 85,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "34b30d76771e8f823c570ef0",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "bdabfb509160d14f",
+      "title": "Chinese robot maker Micbot looks to woo Aramco while chasing Hong Kong IPO",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3365602/chinese-robot-maker-micbot-looks-woo-aramco-while-chasing-hong-kong-ipo?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:38:42.000Z",
+      "summary": "A Chinese robotics firm is accelerating its overseas strategy, with a fleet of AI-powered industrial quadrupeds being primed for Saudi Aramco facilities, while revving up its bid for a listing in Hong Kong next year. Heavy-duty, explosion-proof robots from Micbot are tipped to join similar products from other suppliers at oilfields, petrochemical bases and mines operated by Aramco, according to Micbot’s chief marketing officer, Huang Ziyan. Unlike consumer-focused companies that make educational...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3365602/chinese-robot-maker-micbot-looks-woo-aramco-while-chasing-hong-kong-ipo?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:38:42.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "金融",
+        "能源",
+        "专题·中国与世界"
+      ],
+      "score": 84,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "14436f9493098537204e8cd2",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "592f6ff28ef5ea80",
+      "title": "China pledges to send urgent emergency aid to Nepal after deadly landslide",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3365583/china-pledges-send-urgent-emergency-aid-nepal-after-deadly-landslide?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T08:30:23.000Z",
+      "summary": "Beijing promised to send emergency aid to Nepal on Friday as Chinese rescuers continued to fight their way through hazardous conditions in an effort to reach the border checkpoint hit by deadly flash floods this week. The disaster left five dead and 558 missing in Tibet’s Gyirong county, while Nepal reported 469 dead and nearly 1,000 missing. Chinese President Xi Jinping sent a message of condolence to his Nepalese counterpart, Ram Chandra Poudel, following the devastating mudslides, state...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3365583/china-pledges-send-urgent-emergency-aid-nepal-after-deadly-landslide?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T08:30:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 80,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "3668b7f2cb37ba4edaca740c",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "833a501071c75535",
+      "title": "‘We praise God’: Australian woman feared missing in Nepal flooding makes contact with family",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/28/we-praise-god-australian-woman-feared-missing-in-nepal-flooding-makes-contact-with-family",
+      "publishedAt": "2026-08-28T08:15:23.000Z",
+      "summary": "Cara Severino has spoken with her parents – but still faces a trek of more than 110km to reach Kathmandu on foot ‘So desperately loved’: ADF member among dozens of Australians missing in Nepal floods as families pray for safe return How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort Get our breaking news email, free app or daily news podcast An Australian woman has made contact with her family, more than two days after she was reported missing in flash flooding in Nepal. At least 469 people have been killed and more than 1,500 are missing after a catastrophic flash flood hit the China-Nepal border on Wednesday. Cara Severino, 25, is the first of 39 Australians reported missing in the tragedy to have been confirmed safe. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/28/we-praise-god-australian-woman-feared-missing-in-nepal-flooding-makes-contact-with-family",
+          "publishedAt": "2026-08-28T08:15:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 78,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "421db710ac898390e7700aa5",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "7d9698dc33f1eb78",
+      "title": "Could the China-Nepal disaster spur a safety rethink for a flagship rail project?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3365587/could-china-nepal-disaster-spur-safety-rethink-flagship-rail-project?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T10:00:08.000Z",
+      "summary": "This week’s devastating floods on the China-Nepal border could be a catalyst for joint early-warning systems, particularly in relation to a proposed rail link between the countries. Rescuers were still struggling on Thursday to reach Gyirong Port in the Tibet autonomous region where a mudslide struck a day earlier, following flash floods from Nepal. The port is the region’s main foreign trade gateway, which handles a third of China’s trade with its neighbour. Gyirong is also one end of a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3365587/could-china-nepal-disaster-spur-safety-rethink-flagship-rail-project?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T10:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "军事与安全",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 77,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "2e1cec00e3b6da6a99629c4e",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "usa": [
+    {
+      "id": "d1a2d161b196876a",
+      "title": "Swift appeal likely as judge blocks Trump mail voting order – US politics live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
+      "publishedAt": "2026-08-28T11:03:38.000Z",
+      "summary": "Judge Indira Talwani placed a 14-day hold on government implementing Trump’s order to limit mail voting Sign up for the US Breaking News email A US federal judge ruled Thursday that sanctions imposed in February by the Trump administration against AI giant Anthropic were illegal, finding that the government had punished the artificial intelligence company for publicly criticising the Pentagon. “The empty invocation of national security is not a blank check to punish and retaliate against government critics,” Judge Rita Lin said in a 59-page decision. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
+          "publishedAt": "2026-08-28T11:03:38.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "外交",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 78,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e0ec7062a2b80a2d1b4eddf3",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "679c41945ad8b608",
+      "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+      "publishedAt": "2026-08-28T11:00:56.000Z",
+      "summary": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry. News this week of Donald Trump’s escalating trade spat with Canada has everyone worried. Political and economic leaders and observers labeled the move an act of “hubris” , blamed Trump’s “ego”, and called the escalation “insanity”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+          "publishedAt": "2026-08-28T11:00:56.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 68,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2490a79869cb9938236fc8c8",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "6193b67729796932",
+      "title": "Six months on, Trump’s Iran strategy is starting to pay off",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss",
+      "publishedAt": "2026-08-28T06:31:47.000Z",
+      "summary": "The US has not won the war, but sustained pressure is weakening Tehran and giving Washington a stronger hand.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss",
+          "publishedAt": "2026-08-28T06:31:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b2d78468f2200bd6956d28e4",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "1f8849af21560373",
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T03:41:59.000Z",
+      "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-28T03:41:59.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
         "科技"
       ],
       "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7e6ef714851e9f70aa43380a",
+      "fingerprint": "9d98f0de5bb387e420fc4e67",
       "isContinuation": false,
-      "titleZh": "比尔·盖茨在与习近平会晤前推销中美AI合作",
-      "summaryZh": "比尔·盖茨计划于今年晚些时候会见中国国家主席习近平，旨在推动全球在人工智能风险方面的合作。盖茨近期发表长文，呼吁各国共同应对AI带来的挑战。",
-      "whyImportant": "作为科技界领袖，盖茨致力于在复杂的地缘政治环境下推动中美在AI安全领域的对话与合作。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "8e167fc5ec92c0f3",
+      "title": "South Korea, Japan and US set joint drills despite Trump cuts",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3365527/south-korea-japan-and-us-set-joint-drills-despite-trump-cuts?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T03:35:37.000Z",
+      "summary": "South Korea said on Friday it would hold joint military exercises with the United States and Japan in September, after Washington scaled back annual drills with Seoul in an apparent bid to encourage dialogue with North Korea. The three countries would conduct the North Korea-focused Freedom Edge exercise from September 7 to 11 in international waters east and south of South Korea’s Jeju Island, Seoul’s Joint Chiefs of Staff (JCS) said. “This exercise is a defensive drill conducted annually by...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3365527/south-korea-japan-and-us-set-joint-drills-despite-trump-cuts?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T03:35:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e41a141612516a0c039ec70d",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    }
+  ],
+  "watch": [
+    {
+      "id": "72628f96ca39fc21",
+      "title": "Hong Kong launches first regional mediation platform for medical disputes",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365620/hong-kong-launches-first-regional-mediation-platform-medical-disputes?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T11:03:47.000Z",
+      "summary": "Hong Kong has launched the first regional mediation and arbitration platform dedicated to medical and healthcare services as part of the city’s efforts to resolve local and cross-border disputes and strengthen its bid to become an international legal services hub. The Healthcare Dispute Resolution Centre, a non-profit organisation set up in 2024, announced its new online platform on Friday, providing both virtual and face-to-face services for patients and medical practitioners to settle...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365620/hong-kong-launches-first-regional-mediation-platform-medical-disputes?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T11:03:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "c2d56ce06ec6c7e0acb7923c",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "8968b90748d41bcb",
+      "title": "How Singapore investors are lured by foreign-stock scams",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3365604/how-singapore-investors-are-lured-foreign-stock-scams?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:41:52.000Z",
+      "summary": "For more than a month, Aaron* thought he and his wife were learning how to trade stocks. Only later would they realise the lessons were part of the trap. The Singaporean business owner had found a group of self-styled investment experts on Facebook, claiming to offer foolproof tips and guaranteed returns. Soon, he and his wife, who were dabbling in stocks for the first time, were spending about two hours every other day in a WhatsApp group chat with dozens of other participants, taking lessons...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3365604/how-singapore-investors-are-lured-foreign-stock-scams?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:41:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "国际组织"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0402153d894cf1f396214813",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "94a7fff9f5f4f643",
+      "title": "MiniMax expands Alibaba cloud pact as compute needs surge for training and inference",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T08:00:14.000Z",
+      "summary": "Chinese artificial intelligence firm MiniMax has raised the three-year purchase ceiling on its cloud computing deals with Alibaba Group Holding by 220 per cent to US$1.2 billion, underscoring surging demand for computing power among the country’s top AI developers. The Shanghai-based company planned to spend up to US$300 million on Alibaba Cloud services this year, nearly triple its original US$115 million cap, after burning through two-thirds of its budget by the end of June, according to its...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T08:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "43fe375b2dfe6518867e8e40",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 145,
-    "deduplicated": 144,
+    "fetched": 153,
+    "deduplicated": 150,
     "selected": 23,
     "minimumRequired": 21,
-    "featured": 2,
+    "featured": 8,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "8460282a6ecc04a7",
-      "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-      "publishedAt": "2026-08-27T08:00:08.000Z",
-      "summary": "The once world-leading producer of crude oil has plunged into an energy crisis as Kyiv targets its refineries A sanctioned shadow fleet tanker carries oil from Nato member Turkey to a Russian Baltic port. A deal is signed for Russian oil to be processed in Kazakhstan. Fuel cargoes arrive from India via Egypt. The Kremlin pressures allies to sell it badly needed fuel. The data points may be diverse, but they point to a single inescapable conclusion. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-          "publishedAt": "2026-08-27T08:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "能源",
-        "国际组织",
-        "专题·全球治理与外交"
-      ],
-      "score": 81,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "sanction",
-        "外交"
-      ],
-      "fingerprint": "a247f07249e21dce20fb8afa",
-      "isContinuation": false,
-      "titleZh": "乌克兰的无人机袭击迫使俄罗斯急于寻求石油进口",
-      "summaryZh": "由于基辅持续打击俄罗斯炼油厂，这个曾经的世界原油生产大国陷入了能源危机。克里姆林宫正通过各种渠道，包括利用影子船队和向盟友施压，以获取急需的燃料供应。",
-      "whyImportant": "乌克兰的军事打击已显著削弱了俄罗斯的能源生产能力，迫使其在国际市场上寻求外部供应以维持国内需求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "094751aa884b7834",
-      "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-      "publishedAt": "2026-08-27T02:07:32.000Z",
-      "summary": "Palestine Action co-founder Huda Ammori tells Jazeera that US sanctions designating the group a terrorist organisation.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-          "publishedAt": "2026-08-27T02:07:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "sanction",
-        "外交"
-      ],
-      "fingerprint": "0fd62b0ed87016d5faf7b09e",
-      "isContinuation": false,
-      "titleZh": "美国将“巴勒斯坦行动”列为恐怖组织，创始人回应“这太荒谬了”",
-      "summaryZh": "美国将“巴勒斯坦行动”组织列为恐怖组织并实施制裁。该组织联合创始人胡达·阿莫里对此表示强烈不满，称该指控毫无根据。",
-      "whyImportant": "此举标志着美国对特定激进抗议团体的定性升级，可能引发关于言论自由与国家安全边界的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "17b19c2fed70c4f5",
-      "title": "Pauline Hanson adds to confusion over One Nation’s immigration policy – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
-      "publishedAt": "2026-08-27T07:36:40.000Z",
-      "summary": "This blog is now closed Nepal flash flood disaster – live updates Get our breaking news email, free app or daily news podcast The prime minister, Anthony Albanese, says Dfat officials are ready to provide consular assistance to Australians in Nepal, after the devastating flooding in the country. A local tourism official said they believed 34 Australians were missing in the area, among hundreds of foreign nationals. Australian officials were not confirming numbers at this stage, and were working to check on the welfare of people they know were in the affected region. Australians in the affected area should follow the advice of local authorities. We are aware of a number of Australians in the area and Australian officials are urgently working to confirm their welfare. We are liaising with local authorities as well as tour operators. We stand ready to provide consular assistance. The images are very disturbing indeed. We do know that there are Australians in the area. We don’t know exactly how many. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
-          "publishedAt": "2026-08-27T07:36:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "环境",
-        "公共安全"
-      ],
-      "score": 70,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3d9df2ee8d45d6a0d1da459d",
-      "isContinuation": false,
-      "titleZh": "宝琳·汉森加剧了对“单一民族党”移民政策的困惑",
-      "summaryZh": "尼泊尔发生毁灭性洪灾，澳大利亚总理阿尔巴尼斯表示外交部已准备好为受灾地区的澳大利亚公民提供领事协助。目前有报道称数十名澳大利亚人失踪，政府正在紧急核实相关人员的安危。",
-      "whyImportant": "尼泊尔的自然灾害引发了国际关注，澳大利亚政府正全力应对本国公民在海外的突发安全危机。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e3433c9dace1bc47",
-      "title": "Queensland concedes law imposing mandatory jail on some offenders as young as 10 breaches human rights",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/queensland-concedes-law-imposing-mandatory-jail-on-some-offenders-as-young-as-10-breaches-human-rights-ntwnfb",
-      "publishedAt": "2026-08-27T09:00:29.000Z",
-      "summary": "State government says ‘breach bail, go to jail’ laws raise risk of overcrowding in jails, while one expert warns they may lead to ‘cruel outcomes’ Get our breaking news email, free app or daily news podcast The Queensland government’s latest law and order crackdown – subjecting some children as young as 10 to a mandatory sentence of a year behind bars – could lead to “cruel outcomes”, according to human rights lawyers. In documents tabled with the legislation on Thursday, the government conceded its laws, dubbed “breach bail, go to jail”, would breach human rights and risk further straining the state’s overcrowded jails, youth detention centres and police watch houses. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/queensland-concedes-law-imposing-mandatory-jail-on-some-offenders-as-young-as-10-breaches-human-rights-ntwnfb",
-          "publishedAt": "2026-08-27T09:00:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9c70b897478b0c2124ddf4da",
-      "isContinuation": false,
-      "titleZh": "昆士兰州承认对10岁儿童实施强制监禁的法律违反人权",
-      "summaryZh": "昆士兰州政府承认其“违反保释即入狱”的法律可能导致残酷后果，并加剧监狱和拘留中心的过度拥挤。人权律师对该政策针对年仅10岁儿童的强制监禁条款表示强烈担忧。",
-      "whyImportant": "此举引发了关于司法严苛程度与未成年人权利保护之间平衡的广泛法律与伦理争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "158afd8879c05cda",
-      "title": "‘If you harm my project, I’ll harm you’: former NSW official tells Icac about fugitive developer’s call",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/icac-nsw-liberal-party-building-commissioner-fugitive-developer-phone-call-ntwnfb",
-      "publishedAt": "2026-08-27T07:50:23.000Z",
-      "summary": "Former building commissioner David Chandler told inquiry of clashes with ‘loud and overbearing’ developer Jean Nassif Get our breaking news email, free app or daily news podcast A fugitive Sydney developer allegedly warned the then-New South Wales building commissioner that he would “harm” him if he got in the way of his projects which were being inspected for defects, the corruption watchdog has heard. Giving evidence to the Independent Commission against Corruption on Thursday, David Chandler described an interaction he had with Toplace developments’ Jean Nassif. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/icac-nsw-liberal-party-building-commissioner-fugitive-developer-phone-call-ntwnfb",
-          "publishedAt": "2026-08-27T07:50:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6152fde5a516bdc4108d5a63",
-      "isContinuation": false,
-      "titleZh": "前新南威尔士州官员向反腐败委员会披露在逃开发商的威胁",
-      "summaryZh": "前建筑专员大卫·钱德勒在反腐败听证会上作证称，在逃开发商让·纳西夫曾威胁要对他进行报复。此前钱德勒曾因建筑缺陷问题对纳西夫的项目进行过审查。",
-      "whyImportant": "该证词揭露了建筑行业内部可能存在的腐败与恐吓行为，对当地监管机构的公信力提出了挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e77c28e5de6ced7e",
-      "title": "Nepal flash flood: 270 bodies recovered with hundreds more missing – latest updates",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
-      "publishedAt": "2026-08-27T09:09:54.000Z",
-      "summary": "Foreign nationals from India, US, UK, Australia, Malaysia and Ukraine among those missing Flash floods leave scores dead and hundreds missing Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? Eyewitness accounts have been emerging from the Tibetan side of the border, with a woman saying she was travelling from Gyirong town towards Nepal on Wednesday morning when her group encountered the flood about 4km from Gyirong port. “Trees and electricity poles had already been knocked down, and the flood water was bearing down on us. We didn’t dare turn around, so we could only reverse,” the woman, surnamed Fang, told Xiaoxiang Morning News. I was really scared. My whole body was trembling. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
-          "publishedAt": "2026-08-27T09:09:54.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "环境",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4c0c8e9a7864fae351e301a9",
-      "isContinuation": false,
-      "titleZh": "尼泊尔山洪暴发：已发现270具遗体，数百人失踪",
-      "summaryZh": "尼泊尔与西藏边境地区发生严重山洪，造成大量人员伤亡，失踪者包括来自多个国家的游客。目击者描述了洪水摧毁基础设施的恐怖场景，救援工作仍在紧张进行中。",
-      "whyImportant": "此次重大自然灾害造成了严重的人员伤亡和财产损失，引发了国际社会对边境地区灾害应对能力的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "661a16f42eb6f21b",
-      "title": "Chaos mars Fenerbahce’s Champions League qualifying win over Lyon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss",
-      "publishedAt": "2026-08-27T08:57:38.000Z",
-      "summary": "Fenerbahce's French midfielder Guendouzi was attacked by Lyon fans after he mocked them at the end of the match.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss",
-          "publishedAt": "2026-08-27T08:57:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2919f5f937c02a9c95521b75",
-      "isContinuation": false,
-      "titleZh": "费内巴切在欧冠资格赛战胜里昂的比赛中发生混乱",
-      "summaryZh": "在费内巴切战胜里昂的欧冠资格赛结束后，费内巴切的法国中场贡多齐因嘲讽里昂球迷而遭到攻击。比赛现场因此陷入混乱。",
-      "whyImportant": "体育赛事中的暴力冲突事件再次引发了关于球员行为规范及球场安保措施的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "358981e5eda9f49d",
-      "title": "Albanese vows refugee intake won’t be slashed after earlier reports of Coalition-level cut",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/australia-refugees-slashed-labor-migration-pressure-one-nation",
-      "publishedAt": "2026-08-27T08:06:57.000Z",
-      "summary": "Prime minister intervenes amid anger at news Tony Burke was planning to cut intake of 20,000 arrivals by a third Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Anthony Albanese has guaranteed Australia’s annual refugee intake will not be cut next financial year, shutting down plans for the arrivals quota to drop by one-third to Coalition-era levels. Labor MPs and refugee advocates reacted angrily to news on Thursday morning that the home affairs minister, Tony Burke, was planning to cut intake of 20,000 arrivals to 13,750 in 2027-28. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/australia-refugees-slashed-labor-migration-pressure-one-nation",
-          "publishedAt": "2026-08-27T08:06:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 60,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "91e6dcb96e078bb16b491216",
-      "isContinuation": false,
-      "titleZh": "阿尔巴尼斯承诺不会削减难民接收配额",
-      "summaryZh": "针对此前有关政府计划将年度难民接收量削减三分之一的报道，澳大利亚总理阿尔巴尼斯予以否认。他保证下一财年的难民接收配额将保持不变，平息了工党内部及难民权益组织的愤怒。",
-      "whyImportant": "这一政策表态明确了政府在移民与人道主义援助方面的立场，避免了潜在的政治动荡。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0e8b3589e25e1021",
-      "title": "Hong Kong gold imports fall 18% in July as mainland giants rush to build vaults",
+      "id": "1b2056c09e6e71b0",
+      "title": "Xi-Trump summit plans, Nepal disaster, SCO summit",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/commodities/article/3365422/hong-kong-gold-imports-fall-18-july-mainland-giants-rush-build-vaults?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T06:43:42.000Z",
-      "summary": "Gold flows into Hong Kong eased to about 107 tonnes in July despite mainland corporate buyers pouring capital into new bullion vaults, as they bet on the city’s strategic ambition to establish itself as Asia’s premier hub for the precious metal. The city’s non-monetary gold imports fell about 18 per cent from June, a month that registered a decade-long high as banks built up inventory ahead of the trial launch of the city’s gold clearing and settlement system that opened on July 7. The value of...",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:00:14.000Z",
+      "summary": "Chinese President Xi Jinping may take a business delegation to Washington next month, when he is also likely to sign a trade-war truce extension with US President Donald Trump. The potential business delegation is under negotiation ahead of the September 24 summit, the South China Morning Post reported, citing four people with knowledge of the matter. US executives, including Apple’s Tim Cook and Tesla’s Elon Musk, accompanied Trump on his state visit to China in May. Both countries want to...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/commodities/article/3365422/hong-kong-gold-imports-fall-18-july-mainland-giants-rush-build-vaults?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T06:43:42.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融"
-      ],
-      "score": 60,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4ceea250b343b4b6684c18a2",
-      "isContinuation": false,
-      "titleZh": "香港7月黄金进口量下降18%，内地巨头竞相建立金库",
-      "summaryZh": "尽管内地企业正投入大量资金在香港建立金库以巩固其作为亚洲黄金枢纽的地位，但香港7月的非货币黄金进口量仍较6月下降了约18%。此前6月的进口量曾创下十年新高。",
-      "whyImportant": "黄金进口数据的波动反映了市场对香港作为贵金属交易中心战略地位的长期布局与短期调整。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a8da830af84161dd",
-      "title": "Hong Kong cancels rainstorm warnings, afternoon school sessions go ahead",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/weather/hong-kong/article/3365380/hong-kong-issues-red-rainstorm-warning-morning-and-whole-day-classes-suspended?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T01:05:50.000Z",
-      "summary": "Hong Kong’s weather forecaster cancelled its rainstorm warnings on Thursday, following spells of heavy rain that led to the suspension of morning and whole-day schools, with afternoon classes allowed to proceed. The Observatory issued the red signal – the middle level in a three-tier system – at 5.05am, and soon after also sent out a special landslip advisory for Po Toi Island due to heavy rain. The forecaster downgraded the red alert to amber at 9.20am and then cancelled that one at...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/weather/hong-kong/article/3365380/hong-kong-issues-red-rainstorm-warning-morning-and-whole-day-classes-suspended?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T01:05:50.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "环境",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f892bc9bc6b322fb06014b2d",
-      "isContinuation": false,
-      "titleZh": "香港取消暴雨警告，下午校课照常进行",
-      "summaryZh": "香港天文台在经历了一段时间的强降雨后取消了所有暴雨警告信号。受降雨影响，上午及全日制学校曾一度停课，但下午课程已获准恢复。",
-      "whyImportant": "气象预警的及时调整保障了城市公共服务和教育活动的正常运行。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bd2de1c640b625d4",
-      "title": "OpenAI says it detected malign activity months before Hugging Face attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "publishedAt": "2026-08-27T06:33:18.000Z",
-      "summary": "ChatGPT creator says AI agents collaborated and delegated work in hacking, calling themselves a 'collective'.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-          "publishedAt": "2026-08-27T06:33:18.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "科技"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8f0c804780984f2f9199a7bc",
-      "isContinuation": false,
-      "titleZh": "OpenAI称在Hugging Face攻击发生前数月就已检测到恶意活动",
-      "summaryZh": "ChatGPT的开发者OpenAI表示，其检测到人工智能代理在黑客攻击中进行了协作与任务分配，并自称为一个“集体”。这些恶意活动在针对Hugging Face的攻击发生前数月便已出现。",
-      "whyImportant": "AI代理参与网络攻击的发现，凸显了人工智能安全治理面临的新型复杂威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fdc7c6cc45788122",
-      "title": "Nepal floods: missing Australians identified as children as young as 11 among those yet to be found",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
-      "publishedAt": "2026-08-27T09:27:30.000Z",
-      "summary": "Nepali tour operator fears 15 Australians who had been on a trek near the border with China have died after devastating flood Nepal flash flood live updates Get our breaking news email, free app or daily news podcast A New South Wales couple on a spiritual pilgrimage are among the first of 34 Australians identified as missing after flash flooding ravaged the Nepal-Tibet border. Venkatraman Balakrishnan, 52, and his wife, Chitra Venkatraman, 46, were among 15 Australians travelling to Mount Kailash in Tibet on a spiritual trip, according to their son. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
-          "publishedAt": "2026-08-27T09:27:30.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "环境",
-        "国际组织"
-      ],
-      "score": 73,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "342d81721ba85e61e2cd2b7e",
-      "isContinuation": false,
-      "titleZh": "尼泊尔洪水：失踪澳大利亚人身份确认，包括年仅11岁的儿童",
-      "summaryZh": "在尼泊尔与中国边境发生的山洪中，失踪的34名澳大利亚人身份陆续得到确认，其中包括一对正在进行朝圣之旅的夫妇。当地旅游经营者担心，这批在边境徒步的游客可能已在洪灾中遇难。",
-      "whyImportant": "失踪人员中包含儿童和家庭成员，使得此次灾难的悲剧色彩更加浓厚，引发了澳大利亚国内的深切哀悼。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f4b564fe92926e3e",
-      "title": "What China can do to secure trade routes in its coming high-seas struggle with US",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3365443/what-china-can-do-secure-trade-routes-its-coming-high-seas-struggle-us?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T07:55:56.000Z",
-      "summary": "China should forge a national consensus on “regaining mastery of the oceans” and direct overseas investment returns into defence spending to brace for sea-power competition with the US, according to a prominent Chinese academic. Di Dongsheng, associate dean of Renmin University’s school of international studies in Beijing, warned on Tuesday that as economic ties between the United States, the dominant maritime power, and China, which relies heavily on sea-bound trade, shifted towards...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3365443/what-china-can-do-secure-trade-routes-its-coming-high-seas-struggle-us?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T07:55:56.000Z"
+          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:00:14.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1497,36 +1358,43 @@
       "tags": [
         "中国重点",
         "美国重点",
+        "外交",
         "经济",
-        "军事与安全"
+        "军事与安全",
+        "公共安全",
+        "专题·中国与世界"
       ],
-      "score": 72,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ff61efffcd8903477fb34fb8",
+      "score": 85,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "34b30d76771e8f823c570ef0",
       "isContinuation": false,
-      "titleZh": "中国在即将到来的与美国公海竞争中如何保障贸易路线",
-      "summaryZh": "中国学者狄东升建议，中国应凝聚“重掌海洋”的国家共识，并将海外投资收益投入国防支出，以应对与美国的海权竞争。他指出，随着中美经济联系的转变，中国必须加强对海上贸易路线的保障。",
-      "whyImportant": "这一观点反映了中国学术界对地缘政治竞争加剧背景下，国家海上安全与经济利益保护的战略思考。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "69efa6acee36a53a",
-      "title": "Unitree’s stock slump since IPO stokes fears of a bubble in Chinese humanoid robotics",
+      "id": "bdabfb509160d14f",
+      "title": "Chinese robot maker Micbot looks to woo Aramco while chasing Hong Kong IPO",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3365459/unitrees-stock-slump-ipo-stokes-fears-bubble-chinese-humanoid-robotics?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T09:30:06.000Z",
-      "summary": "Shares in Chinese robotics star Unitree Robotics rebounded on Thursday following five straight days of losses that erased nearly half of its market value, although it did little to cool fears of a Chinese humanoid robot bubble. The stock rose nearly 4 per cent to close at 615 yuan on Thursday, giving the company a market capitalisation of 248.8 billion yuan (US$37 billion), after touching a record low of 571 yuan on Wednesday. That low marked a 48 per cent drop from its peak of 1,100 yuan on its...",
+      "url": "https://www.scmp.com/economy/china-economy/article/3365602/chinese-robot-maker-micbot-looks-woo-aramco-while-chasing-hong-kong-ipo?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:38:42.000Z",
+      "summary": "A Chinese robotics firm is accelerating its overseas strategy, with a fleet of AI-powered industrial quadrupeds being primed for Saudi Aramco facilities, while revving up its bid for a listing in Hong Kong next year. Heavy-duty, explosion-proof robots from Micbot are tipped to join similar products from other suppliers at oilfields, petrochemical bases and mines operated by Aramco, according to Micbot’s chief marketing officer, Huang Ziyan. Unlike consumer-focused companies that make educational...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3365459/unitrees-stock-slump-ipo-stokes-fears-bubble-chinese-humanoid-robotics?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T09:30:06.000Z"
+          "url": "https://www.scmp.com/economy/china-economy/article/3365602/chinese-robot-maker-micbot-looks-woo-aramco-while-chasing-hong-kong-ipo?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:38:42.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1535,35 +1403,41 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融"
+        "突发",
+        "金融",
+        "能源",
+        "专题·中国与世界"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6806e54a2ceadbdc6f107c48",
+      "score": 84,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "14436f9493098537204e8cd2",
       "isContinuation": false,
-      "titleZh": "优必选上市后股价暴跌，引发对中国人形机器人泡沫的担忧",
-      "summaryZh": "尽管优必选科技股价在连续五日下跌后有所反弹，但其市值已较峰值缩水近半。市场分析人士担忧，这可能预示着中国人形机器人行业存在估值泡沫。",
-      "whyImportant": "科技股的剧烈波动反映了投资者对新兴人形机器人产业商业化前景及估值合理性的审慎态度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "682c48d0c7b41944",
-      "title": "Hong Kong lowers heat stress warning system thresholds after criticism",
+      "id": "592f6ff28ef5ea80",
+      "title": "China pledges to send urgent emergency aid to Nepal after deadly landslide",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/article/3365453/hong-kong-lowers-heat-stress-warning-system-thresholds-after-criticism?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T08:52:59.000Z",
-      "summary": "Hong Kong’s Heat Stress at Work warning system will be automatically upgraded when temperatures reach 35 degrees Celsius (95 Fahrenheit) across multiple districts, after labour authorities lowered its activation thresholds following criticism. Two weeks after the system — which advises outdoor workers to take measures to prevent heatstroke — drew criticism for failing to issue higher-level alerts despite scorching temperatures, the Labour Department on Thursday announced changes that will take...",
+      "url": "https://www.scmp.com/news/china/politics/article/3365583/china-pledges-send-urgent-emergency-aid-nepal-after-deadly-landslide?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T08:30:23.000Z",
+      "summary": "Beijing promised to send emergency aid to Nepal on Friday as Chinese rescuers continued to fight their way through hazardous conditions in an effort to reach the border checkpoint hit by deadly flash floods this week. The disaster left five dead and 558 missing in Tibet’s Gyirong county, while Nepal reported 469 dead and nearly 1,000 missing. Chinese President Xi Jinping sent a message of condolence to his Nepalese counterpart, Ram Chandra Poudel, following the devastating mudslides, state...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/article/3365453/hong-kong-lowers-heat-stress-warning-system-thresholds-after-criticism?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T08:52:59.000Z"
+          "url": "https://www.scmp.com/news/china/politics/article/3365583/china-pledges-send-urgent-emergency-aid-nepal-after-deadly-landslide?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T08:30:23.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1572,35 +1446,130 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全"
+        "突发",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f361c722dbf39715946cafa9",
+      "score": 80,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "beijing",
+        "中国"
+      ],
+      "fingerprint": "3668b7f2cb37ba4edaca740c",
       "isContinuation": false,
-      "titleZh": "香港在批评声中下调热压力警告系统阈值",
-      "summaryZh": "在因高温天气下未能及时发布高等级预警而受到批评后，香港劳工处宣布下调热压力警告系统的激活阈值。未来当多个地区气温达到35摄氏度时，该系统将自动升级。",
-      "whyImportant": "政策调整旨在更好地保护户外劳动者在极端高温下的健康与安全，回应了公众的诉求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "45f843a72e22e946",
-      "title": "Zhipu AI shares jump as viral Ox Alpha model revealed as GLM-5.3-Flash on Chinese chips",
+      "id": "833a501071c75535",
+      "title": "‘We praise God’: Australian woman feared missing in Nepal flooding makes contact with family",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/28/we-praise-god-australian-woman-feared-missing-in-nepal-flooding-makes-contact-with-family",
+      "publishedAt": "2026-08-28T08:15:23.000Z",
+      "summary": "Cara Severino has spoken with her parents – but still faces a trek of more than 110km to reach Kathmandu on foot ‘So desperately loved’: ADF member among dozens of Australians missing in Nepal floods as families pray for safe return How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort Get our breaking news email, free app or daily news podcast An Australian woman has made contact with her family, more than two days after she was reported missing in flash flooding in Nepal. At least 469 people have been killed and more than 1,500 are missing after a catastrophic flash flood hit the China-Nepal border on Wednesday. Cara Severino, 25, is the first of 39 Australians reported missing in the tragedy to have been confirmed safe. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/28/we-praise-god-australian-woman-feared-missing-in-nepal-flooding-makes-contact-with-family",
+          "publishedAt": "2026-08-28T08:15:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 78,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "421db710ac898390e7700aa5",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "7d9698dc33f1eb78",
+      "title": "Could the China-Nepal disaster spur a safety rethink for a flagship rail project?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3365433/zhipu-ai-shares-jump-viral-ox-alpha-model-revealed-glm-53-flash-chinese-chips?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T08:30:12.000Z",
-      "summary": "China’s Zhipu AI has launched its latest open-weight model, GLM-5.3-Flash – previously code-named Ox Alpha – saying that the system ran entirely on a cluster of 100,000 domestically produced chips during a high-profile stealth trial. The announcement followed a week of heavy traffic on artificial intelligence model marketplace OpenRouter and agent platform OpenCode, where the model processed 62 trillion tokens before its formal release on Wednesday, according to Zhipu. On OpenRouter, the system...",
+      "url": "https://www.scmp.com/news/china/politics/article/3365587/could-china-nepal-disaster-spur-safety-rethink-flagship-rail-project?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T10:00:08.000Z",
+      "summary": "This week’s devastating floods on the China-Nepal border could be a catalyst for joint early-warning systems, particularly in relation to a proposed rail link between the countries. Rescuers were still struggling on Thursday to reach Gyirong Port in the Tibet autonomous region where a mudslide struck a day earlier, following flash floods from Nepal. The port is the region’s main foreign trade gateway, which handles a third of China’s trade with its neighbour. Gyirong is also one end of a...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3365433/zhipu-ai-shares-jump-viral-ox-alpha-model-revealed-glm-53-flash-chinese-chips?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T08:30:12.000Z"
+          "url": "https://www.scmp.com/news/china/politics/article/3365587/could-china-nepal-disaster-spur-safety-rethink-flagship-rail-project?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T10:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "军事与安全",
+        "环境",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 77,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "2e1cec00e3b6da6a99629c4e",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d5edc17a49dc921b",
+      "title": "Bangladesh confirms Chinese J-10CE jet deal, citing Rafale kill in India-Pakistan clash",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3365553/bangladesh-confirms-chinese-j-10ce-jet-deal-citing-rafale-kill-india-pakistan-clash?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:00:12.000Z",
+      "summary": "Bangladesh has for the first time confirmed a long-expected deal to purchase China’s 4.5-generation J-10CE fighters, pointing to the jet’s combat performance against Rafale fighters in last year’s India-Pakistan conflict. One military expert said it was a sign that the global perception of Chinese weapons was shifting and the market would gradually open. Zahed Ur Rahman, information and broadcasting adviser to the prime minister of Bangladesh, told journalists on Tuesday that a draft proposal to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3365553/bangladesh-confirms-chinese-j-10ce-jet-deal-citing-rafale-kill-india-pakistan-clash?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:00:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1610,221 +1579,166 @@
       "tags": [
         "中国重点",
         "金融",
-        "科技"
+        "军事与安全",
+        "专题·中国与世界"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "22b2919a1ad26a3e05fd244d",
+      "score": 76,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "7b7776224768215aa4b2a514",
       "isContinuation": false,
-      "titleZh": "智谱AI股价上涨，病毒式传播的Ox Alpha模型被揭示为基于国产芯片的GLM-5.3-Flash",
-      "summaryZh": "智谱AI发布了最新的开源模型GLM-5.3-Flash，该模型在测试中完全运行于国产芯片集群上。此前该模型以代号“Ox Alpha”在AI平台进行了大规模压力测试，处理了海量数据。",
-      "whyImportant": "该模型的成功发布展示了国产AI芯片在处理大规模模型训练方面的潜力，对中国AI自主化进程具有重要意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "1b3ccf0d2b033476",
-      "title": "How Shenzhen can win the ‘AI for science’ race",
+      "id": "fcded642f94b74f2",
+      "title": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
       "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3364868/how-shenzhen-can-win-ai-science-race?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T08:30:10.000Z",
-      "summary": "The next big competition in artificial intelligence is over science. The question is shifting from who has the largest model to who can use AI to shorten the discovery cycle: forming a hypothesis, running simulations, designing an experiment, operating equipment, collecting results and learning from them. The United States made that shift explicit. The Department of Energy’s Genesis Mission aims to bring together 17 national laboratories into an integrated discovery platform to double the...",
+      "url": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T11:06:12.000Z",
+      "summary": "Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in first-half revenue on Friday, as the firm released its first financial results since becoming China’s most valuable publicly traded company in a blockbuster Shanghai listing last month. The Hefei-based firm – China’s leading maker of dynamic random-access memory (DRAM) products – posted revenue of 150.31 billion yuan (US$22.4 billion) for the six months to June, up 873.64 per cent year on year, according to a filing...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3364868/how-shenzhen-can-win-ai-science-race?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T08:30:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "科技",
-        "能源",
-        "国际组织"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3f4e99e60256c23efd1270f7",
-      "isContinuation": false,
-      "titleZh": "深圳如何赢得“AI赋能科学”的竞赛",
-      "summaryZh": "人工智能领域的竞争正转向如何利用AI缩短科学发现周期。深圳若想在这一领域取得领先，需要整合资源，建立能够涵盖假设、模拟、实验设计及数据学习的综合发现平台。",
-      "whyImportant": "AI与科学研究的深度融合被视为未来科技竞争的关键，深圳的战略布局将决定其在这一前沿领域的地位。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f79e419832d2aa19",
-      "title": "‘Panic’ as US immigrant visa interview pause hits at least 100 Hong Kong applicants",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3365428/panic-us-immigrant-visa-interview-pause-hits-least-100-hong-kong-applicants?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T06:42:40.000Z",
-      "summary": "At least 100 Hong Kong-based applicants have been affected by the indefinite postponement of US immigrant interviews worldwide, consultants have said, with student and travel visa applications also disrupted. The global pause, which marks a sharp tightening of legal immigration under the Trump administration, has left some Hong Kong applicants fearing the United States could scrap the entire pathway, rendering their efforts futile and their money wasted. In an email seen by the South China...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3365428/panic-us-immigrant-visa-interview-pause-hits-least-100-hong-kong-applicants?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T06:42:40.000Z"
+          "url": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T11:06:12.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点"
+        "经济",
+        "科技",
+        "专题·中国与世界"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "84f80704737788c9faab108b",
+      "score": 72,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "fc993b8844256e6264fc2468",
       "isContinuation": false,
-      "titleZh": "美国移民签证面试暂停，至少100名香港申请人陷入“恐慌”",
-      "summaryZh": "受美国全球暂停移民签证面试的影响，至少100名香港申请人受到波及。申请者担心美国可能彻底取消相关移民途径，导致其投入的时间和金钱付诸东流。",
-      "whyImportant": "美国移民政策的收紧对香港申请人造成了直接的经济与心理冲击，引发了对未来移民前景的不确定性担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "a52931cca7084be7",
-      "title": "Fifth Anniversary of the Attack at Abbey Gate",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/",
-      "publishedAt": "2026-08-26T19:29:53.000Z",
-      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION At 5:36 p.m. on August 26, 2021, a lone ISIS-K terrorist pressed into the crowd at Abbey Gate in Kabul, Afghanistan, and detonated a body-worn bomb. The terrorist was one of the thousands of prisoners released by the Taliban just 2 months earlier. As a […] The post Fifth Anniversary of the Attack at Abbey Gate appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/",
-          "publishedAt": "2026-08-26T19:29:53.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f403d851e080a09e361490bc",
-      "isContinuation": false,
-      "titleZh": "阿比门袭击事件五周年纪念",
-      "summaryZh": "美国总统发布公告，纪念2021年8月26日在阿富汗喀布尔阿比门发生的自杀式炸弹袭击事件。该事件由一名ISIS-K恐怖分子实施，造成了严重的人员伤亡。",
-      "whyImportant": "此纪念活动重申了美国对反恐斗争的承诺，并对在袭击中丧生的人员表示哀悼。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8161085556a68fcb",
-      "title": "NFL champions Seattle Seahawks sold to Khosla Group for record $9.6 billion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/27/nfl-champions-seattle-seahawks-sold-to-khosla-group-for-record-9-6-billion?traffic_source=rss",
-      "publishedAt": "2026-08-27T07:14:49.000Z",
-      "summary": "The price tag is an NFL record for a franchise sale and the second-highest valuation in North American sports history.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/nfl-champions-seattle-seahawks-sold-to-khosla-group-for-record-9-6-billion?traffic_source=rss",
-          "publishedAt": "2026-08-27T07:14:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d012d119a9fd520b1f5ac8aa",
-      "isContinuation": false,
-      "titleZh": "NFL冠军西雅图海鹰队以创纪录的96亿美元出售给Khosla集团",
-      "summaryZh": "西雅图海鹰队以96亿美元的价格被出售给Khosla集团。这一价格创下了NFL球队出售的最高纪录，也是北美体育史上第二高的估值。",
-      "whyImportant": "此次天价交易凸显了顶级职业体育赛事资产在资本市场上的极高价值与吸引力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "09ba9fb0cf8447a9",
-      "title": "Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
-      "publishedAt": "2026-08-26T21:19:54.000Z",
-      "summary": "ADDRESSING BEEF AFFORDABILITY WITH TARGETED ACTION: Today, President Donald J. Trump signed a Proclamation to temporarily increase the quantity of lean beef trimmings that are imported with no above-quota tariff to ensure affordable beef for American consumers in light of current supply challenges. This action includes key safeguards to maximize cost savings while protecting American ranchers […] The post Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
-          "publishedAt": "2026-08-26T21:19:54.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济"
-      ],
-      "score": 53,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0a72542dd61c2213fce29a46",
-      "isContinuation": false,
-      "titleZh": "情况说明书：唐纳德·J·特朗普总统进一步确保美国消费者的平价牛肉供应",
-      "summaryZh": "特朗普总统签署公告，暂时增加免配额关税的瘦牛肉碎进口量，以应对当前的供应挑战并确保美国消费者的牛肉价格稳定。该措施包含旨在保护美国牧场主利益的保障条款。",
-      "whyImportant": "政府通过调整进口政策干预食品价格，旨在缓解通胀压力并保障民生消费需求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9c4f5cef4981297d",
-      "title": "Japan fast-tracks anti-drone system amid China’s military build-up",
+      "id": "2e6e17d84b225abe",
+      "title": "‘Never sell love for money’: China actress Jing Tian hits back at crypto mogul Justin Sun’s claims",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3365345/japan-fast-tracks-anti-drone-system-amid-chinas-military-build?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T04:00:16.000Z",
-      "summary": "Tokyo is experimenting with a radically faster way of buying new weapons – picking a domestically built interceptor drone less than three months after launching the procurement process. Analysts say this shift could help Japan respond more quickly to China’s expanding military capabilities. The defence ministry’s Acquisition, Technology and Logistics Agency (ATLA) announced on Tuesday that it had signed a contract to buy Terra Drone’s Terra B1 system following competitive trials. The decision...",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3365611/never-sell-love-money-china-actress-jing-tian-hits-back-crypto-mogul-justin-suns-claims?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T10:11:33.000Z",
+      "summary": "A Chinese cryptocurrency tycoon is suing an actress and her parents to recover a bride price of 30 million yuan (US$4.5 million), then revealed details of their relationship online while the actress urged that the dispute be left to the courts. Justin Sun, 36, founder of the blockchain platform Tron, has an estimated net worth of US$8.5 billion, according to Forbes. On August 27, Sun published a post titled “My Girlfriend Jing Tian,” recounting their relationship and touching on surrogacy and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3365345/japan-fast-tracks-anti-drone-system-amid-chinas-military-build?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T04:00:16.000Z"
+          "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3365611/never-sell-love-money-china-actress-jing-tian-hits-back-crypto-mogul-justin-suns-claims?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T10:11:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "专题·中国与世界"
+      ],
+      "score": 71,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "aa03a0f3ef1fa5e42dd40481",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "6895fffa46b7844c",
+      "title": "BOCHK posts higher profit as lower credit costs offset margin pressure",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/companies/article/3365615/bochk-posts-higher-profit-lower-credit-costs-offset-margin-pressure?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T10:36:28.000Z",
+      "summary": "Bank of China (Hong Kong), one of the city’s three note-issuing banks, reported a 7.1 per cent year-on-year increase in first-half net profit, as lower impairment charges and a wider net interest margin helped offset continued pressure on lending margins from falling Hong Kong interbank rates. Profit attributable to shareholders came to HK$23.74 billion (US$3 billion) for the six months to June 30, or HK$2.2453 per share, according to a stock exchange filing on Friday. The result beat analysts’...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/companies/article/3365615/bochk-posts-higher-profit-lower-credit-costs-offset-margin-pressure?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T10:36:28.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "专题·中国与世界"
+      ],
+      "score": 70,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "5770b536482e3cd67988c6c1",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "2b65cc5a8c74d86b",
+      "title": "Goal of Tiananmen vigil group an ‘empty slogan’, not actual plan: defence lawyer",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365585/goal-tiananmen-vigil-group-empty-slogan-not-actual-plan-defence-lawyer?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T08:39:04.000Z",
+      "summary": "The stated goal of leaders of the now-disbanded group behind Hong Kong’s annual Tiananmen vigil to end one-party rule was an “empty slogan”, and they never incited anyone to overthrow the Chinese government, their defence lawyer has told judges. The court heard on Friday that the Hong Kong Alliance in Support of Patriotic Democratic Movements of China, its former chairman Lee Cheuk-yan, former vice-chairman Albert Ho Chun-yan and former vice-chairwoman Chow Hang-tung were merely expressing their...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365585/goal-tiananmen-vigil-group-empty-slogan-not-actual-plan-defence-lawyer?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T08:39:04.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1834,35 +1748,39 @@
       "tags": [
         "中国重点",
         "军事与安全",
-        "科技"
+        "专题·中国与世界"
       ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e8ddb7f94b81f6a45a58165a",
+      "score": 70,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "720ea5e9581386c340a1b30c",
       "isContinuation": false,
-      "titleZh": "日本在中国的军事建设背景下加快反无人机系统部署",
-      "summaryZh": "日本防卫省通过缩短采购流程，在不到三个月的时间内签署了购买Terra Drone公司反无人机系统的合同。分析人士认为，此举旨在提升日本应对中国日益增长的军事能力的反应速度。",
-      "whyImportant": "日本加速军事装备采购反映了其对地区安全环境变化的担忧，以及提升国防技术响应能力的紧迫感。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     },
     {
-      "id": "e708eb1ad0067869",
-      "title": "Gates pitches US-China AI cooperation ahead of Xi meeting",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/plus/tech/policy/article/3365454/gates-pitches-us-china-ai-cooperation-ahead-xi-meeting?utm_source=rss_feed",
-      "publishedAt": "2026-08-27T09:06:19.000Z",
-      "summary": "Bill Gates is likely to meet Chinese President Xi Jinping later this year as the Microsoft co-founder seeks to rally support for global cooperation on artificial intelligence (AI) risks. A meeting may take place in November, Reuters reported on Wednesday citing a Gates spokesman. Xi last met his “old friend” in 2023, when Gates became the first foreign business leader to visit the Chinese president following the Covid-19 pandemic. Gates also published a 6,000-word essay on Wednesday that called...",
+      "id": "6c277b175cb48066",
+      "title": "Nepal and China halt rescue efforts as border barrier lake overflows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/nepal-and-china-halt-rescue-efforts-as-border-barrier-lake-overflows?traffic_source=rss",
+      "publishedAt": "2026-08-28T09:30:45.000Z",
+      "summary": "The death toll from the disaster that struck on Wednesday has already surpassed 470.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/plus/tech/policy/article/3365454/gates-pitches-us-china-ai-cooperation-ahead-xi-meeting?utm_source=rss_feed",
-          "publishedAt": "2026-08-27T09:06:19.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/28/nepal-and-china-halt-rescue-efforts-as-border-barrier-lake-overflows?traffic_source=rss",
+          "publishedAt": "2026-08-28T09:30:45.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1871,20 +1789,496 @@
       "isNoise": false,
       "tags": [
         "中国重点",
+        "公共安全",
+        "专题·中国与世界"
+      ],
+      "score": 69,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "1f0b1c796d8d2cd0ca3744aa",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "56b2291dadcb3904",
+      "title": "Nepal-Tibet flood death toll passes 500 as rescue resumes",
+      "source": "DW",
+      "url": "https://www.dw.com/en/nepal-tibet-flood-death-toll-passes-500-as-rescue-resumes/a-78539559?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-08-28T11:04:00.000Z",
+      "summary": "More than a thousand people are still missing after deadly floods and landslides on the China-Nepal border. Rescue efforts were temporarily paused after an overflowing lake threatened to trigger more floods.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/nepal-tibet-flood-death-toll-passes-500-as-rescue-resumes/a-78539559?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-08-28T11:04:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "环境",
+        "专题·中国与世界"
+      ],
+      "score": 66,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "768436350ca12921810779e0",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "a4f202b518279bc4",
+      "title": "US surgical robotics firm eyes Hong Kong listing to power push into mainland China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T05:00:12.000Z",
+      "summary": "SoftBank-backed surgical robotics company Noah Medical has begun preparations for a Hong Kong initial public offering, joining a wave of cutting-edge technology firms tapping the city’s international fundraising pool. The US-headquartered company aimed to raise more than US$100 million and planned to file its listing application as early as next year, according to founder Zhang Jian. “We want to expand our business in [mainland] China, and Hong Kong – as an international financial centre with a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T05:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技",
+        "专题·中国与世界",
+        "持续关注"
+      ],
+      "score": 65,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "f62862f6b31dc9ae3bd11c9e",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "05f6b564c833b7ae",
+      "title": "‘This whole thing’s a farce’: New Orleans Catholic church sex abuse settlement brings anger and shock",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/new-orleans-catholic-church-sex-abuse-settlement",
+      "publishedAt": "2026-08-28T10:00:55.000Z",
+      "summary": "Survivors begin receiving letters with payment amounts months after $305m settlement agreement was struck Survivors of child rape and other sexual abuse within New Orleans’s Roman Catholic archdiocese learned that $641,000 or so is the most they can individually get under a settlement approved in December to resolve a years-long bankruptcy protection case. Those amounts were communicated in letters that hundreds of clergy abuse survivors participating in the New Orleans archdiocese’s bankruptcy began quietly receiving on Tuesday. The figures are well below a $2.4m jury verdict awarded to an unrelated Louisiana religious sexual abuse claimant in June 2025 after the state’s legislature temporarily eliminated filing deadlines for such cases. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/28/new-orleans-catholic-church-sex-abuse-settlement",
+          "publishedAt": "2026-08-28T10:00:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "金融",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 64,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3ba897cd70028dd7fe4b5f11",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "364ad25f029cd7ee",
+      "title": "MTR Corp to deploy a world-first use of skidding method for Hung Shui Kiu station",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3365627/mtr-corp-deploy-world-first-use-skidding-method-hung-shui-kiu-station?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T11:21:18.000Z",
+      "summary": "Hong Kong’s rail operator will use a skidding method – the first worldwide for a heavy-rail project – to build Hung Shui Kiu station, helping to overcome time constraints and ensure completion by 2030. The MTR Corporation said on Friday that the station structures, each weighing about 10,000 tonnes, would be assembled from prefabricated components at worksites on either side of an operational viaduct. They would then be skidded into their designated positions alongside the operating Tuen Ma...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3365627/mtr-corp-deploy-world-first-use-skidding-method-hung-shui-kiu-station?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T11:21:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "ee88f67f301c4b142a7df4b3",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "d1a2d161b196876a",
+      "title": "Swift appeal likely as judge blocks Trump mail voting order – US politics live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
+      "publishedAt": "2026-08-28T11:03:38.000Z",
+      "summary": "Judge Indira Talwani placed a 14-day hold on government implementing Trump’s order to limit mail voting Sign up for the US Breaking News email A US federal judge ruled Thursday that sanctions imposed in February by the Trump administration against AI giant Anthropic were illegal, finding that the government had punished the artificial intelligence company for publicly criticising the Pentagon. “The empty invocation of national security is not a blank check to punish and retaliate against government critics,” Judge Rita Lin said in a 59-page decision. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
+          "publishedAt": "2026-08-28T11:03:38.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "外交",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 78,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e0ec7062a2b80a2d1b4eddf3",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "679c41945ad8b608",
+      "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+      "publishedAt": "2026-08-28T11:00:56.000Z",
+      "summary": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry. News this week of Donald Trump’s escalating trade spat with Canada has everyone worried. Political and economic leaders and observers labeled the move an act of “hubris” , blamed Trump’s “ego”, and called the escalation “insanity”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+          "publishedAt": "2026-08-28T11:00:56.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 68,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2490a79869cb9938236fc8c8",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "6193b67729796932",
+      "title": "Six months on, Trump’s Iran strategy is starting to pay off",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss",
+      "publishedAt": "2026-08-28T06:31:47.000Z",
+      "summary": "The US has not won the war, but sustained pressure is weakening Tehran and giving Washington a stronger hand.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss",
+          "publishedAt": "2026-08-28T06:31:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b2d78468f2200bd6956d28e4",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "1f8849af21560373",
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T03:41:59.000Z",
+      "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-28T03:41:59.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
         "科技"
       ],
       "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7e6ef714851e9f70aa43380a",
+      "fingerprint": "9d98f0de5bb387e420fc4e67",
       "isContinuation": false,
-      "titleZh": "比尔·盖茨在与习近平会晤前推销中美AI合作",
-      "summaryZh": "比尔·盖茨计划于今年晚些时候会见中国国家主席习近平，旨在推动全球在人工智能风险方面的合作。盖茨近期发表长文，呼吁各国共同应对AI带来的挑战。",
-      "whyImportant": "作为科技界领袖，盖茨致力于在复杂的地缘政治环境下推动中美在AI安全领域的对话与合作。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "8e167fc5ec92c0f3",
+      "title": "South Korea, Japan and US set joint drills despite Trump cuts",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3365527/south-korea-japan-and-us-set-joint-drills-despite-trump-cuts?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T03:35:37.000Z",
+      "summary": "South Korea said on Friday it would hold joint military exercises with the United States and Japan in September, after Washington scaled back annual drills with Seoul in an apparent bid to encourage dialogue with North Korea. The three countries would conduct the North Korea-focused Freedom Edge exercise from September 7 to 11 in international waters east and south of South Korea’s Jeju Island, Seoul’s Joint Chiefs of Staff (JCS) said. “This exercise is a defensive drill conducted annually by...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3365527/south-korea-japan-and-us-set-joint-drills-despite-trump-cuts?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T03:35:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e41a141612516a0c039ec70d",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响地区安全与外交走向。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "72628f96ca39fc21",
+      "title": "Hong Kong launches first regional mediation platform for medical disputes",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365620/hong-kong-launches-first-regional-mediation-platform-medical-disputes?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T11:03:47.000Z",
+      "summary": "Hong Kong has launched the first regional mediation and arbitration platform dedicated to medical and healthcare services as part of the city’s efforts to resolve local and cross-border disputes and strengthen its bid to become an international legal services hub. The Healthcare Dispute Resolution Centre, a non-profit organisation set up in 2024, announced its new online platform on Friday, providing both virtual and face-to-face services for patients and medical practitioners to settle...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365620/hong-kong-launches-first-regional-mediation-platform-medical-disputes?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T11:03:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "c2d56ce06ec6c7e0acb7923c",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "8968b90748d41bcb",
+      "title": "How Singapore investors are lured by foreign-stock scams",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3365604/how-singapore-investors-are-lured-foreign-stock-scams?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T09:41:52.000Z",
+      "summary": "For more than a month, Aaron* thought he and his wife were learning how to trade stocks. Only later would they realise the lessons were part of the trap. The Singaporean business owner had found a group of self-styled investment experts on Facebook, claiming to offer foolproof tips and guaranteed returns. Soon, he and his wife, who were dabbling in stocks for the first time, were spending about two hours every other day in a WhatsApp group chat with dozens of other participants, taking lessons...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3365604/how-singapore-investors-are-lured-foreign-stock-scams?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T09:41:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融",
+        "国际组织"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0402153d894cf1f396214813",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "可能影响市场预期、贸易或宏观经济政策。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
+    },
+    {
+      "id": "94a7fff9f5f4f643",
+      "title": "MiniMax expands Alibaba cloud pact as compute needs surge for training and inference",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
+      "publishedAt": "2026-08-28T08:00:14.000Z",
+      "summary": "Chinese artificial intelligence firm MiniMax has raised the three-year purchase ceiling on its cloud computing deals with Alibaba Group Holding by 220 per cent to US$1.2 billion, underscoring surging demand for computing power among the country’s top AI developers. The Shanghai-based company planned to spend up to US$300 million on Alibaba Cloud services this year, nearly triple its original US$115 million cap, after burning through two-thirds of its budget by the end of June, according to its...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
+          "publishedAt": "2026-08-28T08:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "43fe375b2dfe6518867e8e40",
+      "isContinuation": false,
+      "titleZh": "中文翻译待生成",
+      "summaryZh": "当前未获得可靠的中文译文，请阅读英文公开摘要；配置 Gemini 或 Groq 后系统会自动补全翻译。",
+      "whyImportant": "事件可能影响中国的经济、外交、安全或海外利益。",
+      "summaryMode": "rule",
+      "translationStatus": "unavailable"
     }
   ]
 }
