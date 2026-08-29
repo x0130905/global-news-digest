@@ -11,6 +11,7 @@ const integer = (name, fallback, min = 1, max = 100) => {
   return value;
 };
 const bool = (value) => /^(1|true|yes)$/i.test(String(value ?? ''));
+const boolDefaultTrue = (value) => !/^(0|false|no)$/i.test(String(value ?? 'true'));
 
 export function loadConfig({ argv = process.argv.slice(2) } = {}) {
   const dryRun = argv.includes('--dry-run') || bool(process.env.DRY_RUN);
@@ -26,6 +27,8 @@ export function loadConfig({ argv = process.argv.slice(2) } = {}) {
     timeoutMs: integer('REQUEST_TIMEOUT_MS', 15000, 1000, 60000),
     concurrency: integer('FETCH_CONCURRENCY', 5, 1, 10),
     aiRequestDelayMs: integer('AI_REQUEST_DELAY_MS', 6500, 1000, 30000),
+    aiTranslationBatchSize: integer('AI_TRANSLATION_BATCH_SIZE', 8, 1, 25),
+    requireChineseTranslation: boolDefaultTrue(process.env.REQUIRE_CHINESE_TRANSLATION),
     email: {
       user: process.env.EMAIL_USER || emailRecipients[0] || '',
       password: process.env.EMAIL_AUTH_CODE || process.env.EMAIL_APP_PASSWORD || '',
@@ -33,7 +36,13 @@ export function loadConfig({ argv = process.argv.slice(2) } = {}) {
       to: emailRecipients,
       testMode: bool(process.env.EMAIL_TEST_MODE)
     },
-    ai: { provider: process.env.AI_PROVIDER || 'auto', geminiKey: process.env.GEMINI_API_KEY || '', geminiModel: process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite', groqKey: process.env.GROQ_API_KEY || '' },
+    ai: {
+      provider: process.env.AI_PROVIDER || 'auto',
+      geminiKey: process.env.GEMINI_API_KEY || '',
+      geminiModel: process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite',
+      geminiFallbackModels: (process.env.GEMINI_FALLBACK_MODELS || 'gemini-2.5-flash-lite,gemini-2.5-flash').split(',').map((x) => x.trim()).filter(Boolean),
+      groqKey: process.env.GROQ_API_KEY || ''
+    },
     sources: readJson('config/sources.json'), keywords: readJson('config/keywords.json'),
     topics: readJson('config/topics.json'), requestedTopic: process.env.REPORT_TOPIC || '',
     reliability: readJson('config/source-reliability.json'),
