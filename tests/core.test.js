@@ -117,6 +117,20 @@ test('Gmail SMTP 使用安全端口、连接校验和明确成功结果', async 
   assert.equal(verified, true); assert.equal(closed, true); assert.equal(message.subject, '【测试】全球日报'); assert.equal(result.messageId, 'test-message');
 });
 
+test('Gemini 批量翻译按小批次处理，避免单次响应过大', async () => {
+  const articles = Array.from({ length: 10 }, (_, index) => ({ id: String(index), title: `Headline ${index}`, summary: `Summary ${index}`, source: 'Test', publishedAt: new Date().toISOString() }));
+  const batchSizes = [];
+  const providers = {
+    geminiBatch: async (batch) => {
+      batchSizes.push(batch.length);
+      return batch.map((item) => ({ titleZh: `中文 ${item.id}`, summaryZh: '中文摘要', whyImportant: '值得关注', summaryMode: 'ai', translationStatus: 'translated' }));
+    }
+  };
+  const config = { aiTranslationBatchSize: 4, ai: { provider: 'gemini', geminiKey: 'fake-key' } };
+  const result = await summarizeArticles(articles, config, providers);
+  assert.deepEqual(batchSizes, [4, 4, 2]); assert.equal(result.length, 10); assert.ok(result.every((item) => item.translationStatus === 'translated'));
+});
+
 test('QQ 邮箱自动使用 QQ SMTP 和授权码', async () => {
   let transportOptions; let message;
   const createTransport = (options) => {

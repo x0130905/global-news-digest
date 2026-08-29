@@ -41,12 +41,16 @@ export async function run({ config = loadConfig(), now = new Date(), fetchers = 
   const candidates = selectSections(eligible, config);
   const allCandidates = [...new Map(Object.values(candidates).flat().map((a) => [a.id, a])).values()];
   const translations = await summarizeArticles(allCandidates, config);
+  const untranslatedCount = translations.filter((item) => !['translated', 'original-chinese'].includes(item?.translationStatus)).length;
+  if (config.requireChineseTranslation && untranslatedCount > 0) {
+    throw new Error(`中文翻译未完成：${untranslatedCount}/${translations.length} 篇。已停止发送和发布，避免产生残缺日报；后续定时任务会自动重试`);
+  }
   const summarized = allCandidates.map((article, index) => ({ ...article, ...translations[index] }));
   const byId = new Map(summarized.map((a) => [a.id, a]));
   const sections = Object.fromEntries(Object.entries(candidates).map(([name, items]) => [name, items.map((a) => byId.get(a.id))]));
   const allSelected = summarized;
   const featured = allSelected.filter((a) => a.topicMatch).sort((a, b) => b.score - a.score).slice(0, 8);
-  const report = { date, generatedAt: now.toISOString(), timezone: config.timezone, topic, overview: allSelected.length ? `今日专题“${topic.name}”。共筛选 ${allSelected.length} 个高价值事件，重点关注${sections.china.length ? '中国相关进展、' : ''}${sections.usa.length ? '美国相关进展及' : ''}全球外交、经济与安全动态。` : `今日专题“${topic.name}”。过去 24 小时未发现达到质量阈值且可验证的新闻条目。`, featured, ...sections, metadata: { fetched: raw.length, deduplicated: deduped.length, selected: allSelected.length, minimumRequired: config.minDaily, featured: featured.length, dryRun: config.dryRun, sampleData: raw === sampleArticles } };
+  const report = { date, generatedAt: now.toISOString(), timezone: config.timezone, topic, overview: allSelected.length ? `今日专题“${topic.name}”。共筛选 ${allSelected.length} 个高价值事件，重点关注${sections.china.length ? '中国相关进展、' : ''}${sections.usa.length ? '美国相关进展及' : ''}全球外交、经济与安全动态。` : `今日专题“${topic.name}”。过去 24 小时未发现达到质量阈值且可验证的新闻条目。`, featured, ...sections, metadata: { fetched: raw.length, deduplicated: deduped.length, selected: allSelected.length, translated: translations.length - untranslatedCount, untranslated: untranslatedCount, minimumRequired: config.minDaily, featured: featured.length, dryRun: config.dryRun, sampleData: raw === sampleArticles } };
   const html = renderHtml(report), text = renderText(report); const json = JSON.stringify(report, null, 2);
   fs.writeFileSync(path.join(config.outputDir, 'latest.html'), html); fs.writeFileSync(path.join(config.outputDir, 'latest.txt'), text); fs.writeFileSync(path.join(config.outputDir, 'latest.json'), json); fs.writeFileSync(path.join(config.outputDir, 'run.log'), JSON.stringify({ date, generatedAt: report.generatedAt, ...report.metadata }, null, 2));
   if (!config.dryRun) {

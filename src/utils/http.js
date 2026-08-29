@@ -23,17 +23,19 @@ export async function fetchWithRetry(url, {
       if (!response.ok) {
         const detail = (await response.text()).replace(/\s+/g, ' ').slice(0, 500);
         const error = new Error(`HTTP ${response.status}${detail ? `: ${detail}` : ''}`);
+        error.status = response.status;
+        error.retryable = [408, 409, 425, 429].includes(response.status) || response.status >= 500;
         error.retryAfterMs = Math.max(0, Number(response.headers.get('retry-after') || 0) * 1000);
         throw error;
       }
       return response;
     } catch (error) {
       lastError = error;
-      if (attempt < retries) {
+      if (attempt < retries && error.retryable !== false) {
         const delay = Math.min(retryMaxDelayMs, Math.max(error.retryAfterMs || 0, retryBaseDelayMs * (2 ** (attempt - 1))));
         logger.warn('Request failed; preparing retry', { url: new URL(url).origin, attempt, delay, error });
         await new Promise((resolve) => setTimeout(resolve, delay));
-      }
+      } else break;
     }
   }
   throw lastError;

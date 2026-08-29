@@ -86,7 +86,7 @@ git push -u origin main
 
 网站工作流 `.github/workflows/deploy-site.yml` 默认每天北京时间 08:15 更新。专题按日期自动轮换；编辑 `config/topics.json` 可以增删专题、关键词、颜色与 GDELT 查询。手动运行网站工作流时可填写专题 slug，例如 `technology-energy`。也可以配置变量 `REPORT_TOPIC` 固定专题；留空为自动轮换。
 
-邮件工作流 `.github/workflows/daily-news.yml` 默认每天北京时间 08:00 运行。
+邮件工作流 `.github/workflows/daily-news.yml` 默认每天北京时间 08:00 运行；若 Gemini/Groq 临时不可用，会在 09:00、11:00 自动补试。当天首次成功发送后会写入发送锁，后续补试不会重复发信。
 
 工作流已在 `.github/workflows/daily-news.yml` 启用：
 
@@ -117,7 +117,7 @@ git push -u origin main
 
 - HTTP 15 秒超时、最多 3 次指数退避、默认并发 5；任一 RSS 或 GDELT 查询失败均被隔离。
 - URL 仅允许 HTTP/HTTPS；邮件模板执行 HTML 转义，不含 JavaScript。
-- AI 系统提示明确把新闻内容视为不可信数据，只允许依据输入材料生成固定 JSON；返回值还会校验。AI 失败自动降级。
+- AI 系统提示明确把新闻内容视为不可信数据，只允许依据输入材料生成固定 JSON；返回值还会校验。翻译会分批处理，并按主模型和两个稳定备用模型依次尝试。英文新闻没有可靠中文译文时，邮件和网站会停止更新，不再发送“中文翻译待生成”的残缺日报；邮件定时任务稍后自动补试。
 - 每次正式发送成功后才创建 `output/send-lock-YYYY-MM-DD.json`。同一天再次运行会在发信前退出。GitHub Actions 使用并发组避免同一分支重叠运行，并将锁提交回私有仓库。
 - `data/history.json` 只保存最近 7 天事件指纹、标题和摘要长度，不含邮箱或密钥。完全重复事件跳过；有新增标题/摘要信息的事件可再次进入日报，并显示【持续关注】和“本次新增进展”。
 - `public/data/archive/` 按日期永久保存公开新闻快照，`index.json` 维护日期索引；没有自动删除时间，不包含任何邮箱或密钥。
