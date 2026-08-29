@@ -44,8 +44,7 @@ function parseBatchJson(text, articles) {
   });
 }
 
-async function geminiRequest(input, systemInstruction, config) {
-  const model = config.ai.geminiModel || 'gemini-3.1-flash-lite';
+async function geminiRequest(input, systemInstruction, config, model) {
   const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
   const body = {
     system_instruction: { parts: [{ text: systemInstruction }] },
@@ -66,14 +65,36 @@ async function geminiRequest(input, systemInstruction, config) {
 }
 
 async function gemini(article, config) {
-  const text = await geminiRequest({ title: article.title, summary: article.summary, source: article.source, publishedAt: article.publishedAt }, singleSystemInstruction, config);
-  return parseSingleJson(text);
+  const models = [...new Set([config.ai.geminiModel || 'gemini-3.1-flash-lite', ...(config.ai.geminiFallbackModels || [])])];
+  let lastError;
+  for (const model of models) {
+    try {
+      const text = await geminiRequest({ title: article.title, summary: article.summary, source: article.source, publishedAt: article.publishedAt }, singleSystemInstruction, config, model);
+      return parseSingleJson(text);
+    } catch (error) {
+      lastError = error;
+      if ([401, 403].includes(error.status)) break;
+      logger.warn('Gemini model failed; trying another model', { model, error });
+    }
+  }
+  throw lastError;
 }
 
 async function geminiBatch(articles, config) {
   const input = articles.map((article) => ({ id: article.id, title: article.title, summary: article.summary, source: article.source, publishedAt: article.publishedAt }));
-  const text = await geminiRequest(input, batchSystemInstruction, config);
-  return parseBatchJson(text, articles);
+  const models = [...new Set([config.ai.geminiModel || 'gemini-3.1-flash-lite', ...(config.ai.geminiFallbackModels || [])])];
+  let lastError;
+  for (const model of models) {
+    try {
+      const text = await geminiRequest(input, batchSystemInstruction, config, model);
+      return parseBatchJson(text, articles);
+    } catch (error) {
+      lastError = error;
+      if ([401, 403].includes(error.status)) break;
+      logger.warn('Gemini model failed; trying another model', { model, count: articles.length, error });
+    }
+  }
+  throw lastError;
 }
 
 async function groq(article, config) {
@@ -98,28 +119,32 @@ export async function summarizeArticle(article, config, providers = { gemini, gr
 
 export async function summarizeArticles(articles, config, providers = { geminiBatch, groq }) {
   if (!articles.length) return [];
+  const translations = new Array(articles.length);
   const allowGemini = config.ai.provider !== 'groq' && Boolean(config.ai.geminiKey);
   if (allowGemini) {
-    try {
-      const translations = await providers.geminiBatch(articles, config);
-      logger.info('Gemini batch translation completed', { count: translations.length });
-      return translations;
-    } catch (error) {
-      logger.warn('Gemini batch translation failed; trying fallback', { count: articles.length, error });
+    const batchSize = config.aiTranslationBatchSize || 8;
+    for (let start = 0; start < articles.length; start += batchSize) {
+      const batch = articles.slice(start, start + batchSize);
+      try {
+        const completed = await providers.geminiBatch(batch, config);
+        completed.forEach((translation, offset) => { translations[start + offset] = translation; });
+        logger.info('Gemini batch translation completed', { count: completed.length, start });
+      } catch (error) {
+        logger.warn('Gemini batch translation failed; trying fallback', { count: batch.length, start, error });
+        if ([401, 403].includes(error.status)) break;
+      }
     }
   }
   const allowGroq = config.ai.provider !== 'gemini' && Boolean(config.ai.groqKey) && providers.groq;
   if (allowGroq) {
-    const translations = [];
-    for (const article of articles) {
+    for (let index = 0; index < articles.length; index += 1) {
+      if (translations[index]) continue;
       try {
-        translations.push(await providers.groq(article, config));
+        translations[index] = await providers.groq(articles[index], config);
       } catch (error) {
-        logger.warn('Groq translation failed; using rule summary', { articleId: article.id, error });
-        translations.push(ruleBasedSummary(article));
+        logger.warn('Groq translation failed; using rule summary', { articleId: articles[index].id, error });
       }
     }
-    return translations;
   }
-  return articles.map(ruleBasedSummary);
+  return Array.from({ length: articles.length }, (_, index) => translations[index] || ruleBasedSummary(articles[index]));
 }
