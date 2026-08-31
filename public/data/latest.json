@@ -1,44 +1,212 @@
 {
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-30T05:22:35.388Z",
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T05:31:51.851Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "economy-finance",
-    "name": "全球经济与金融",
-    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
-    "query": "global economy finance trade inflation interest rates",
+    "slug": "security",
+    "name": "军事、安全与突发事件",
+    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
+    "query": "military security conflict breaking crisis",
     "keywords": [
-      "economy",
-      "trade",
-      "tariff",
-      "inflation",
-      "market",
-      "bank",
-      "interest rate",
-      "经济",
-      "贸易",
-      "通胀",
-      "金融",
-      "利率"
+      "military",
+      "war",
+      "missile",
+      "security",
+      "attack",
+      "ceasefire",
+      "军事",
+      "战争",
+      "导弹",
+      "袭击",
+      "停火",
+      "突发"
     ],
-    "accent": "#10b981"
+    "accent": "#f97316"
   },
-  "overview": "今日专题“全球经济与金融”。共筛选 22 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“军事、安全与突发事件”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "cea0e4e0bed05ff7",
-      "title": "Reality check for China’s carmakers as authorities tell them to focus on quality, not tech",
+      "id": "77c755dad93a1169",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T04:54:32.000Z",
+      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-31T04:54:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "经济",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 75,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "a2a3530f0ac1ca80a65d5873",
+      "isContinuation": false,
+      "titleZh": "美国与伊朗数周来首次互相发动袭击",
+      "summaryZh": "伊朗表示，美国对拉拉克岛发动的袭击是自7月下旬以来的首次已知行动。此次袭击造成两人死亡，另有两人受伤。",
+      "whyImportant": "美伊之间军事冲突的升级加剧了中东地区的紧张局势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e6412fed858b49a3",
+      "title": "Australia news live: NSW won’t appeal ruling that found anti-Israel vandalism was not antisemitic; body of newborn baby found in bin in Sydney",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "publishedAt": "2026-08-31T05:08:16.000Z",
+      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast The Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins, Matt Thistlethwaite says. Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table. Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he’s returned to Australia safely. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+          "publishedAt": "2026-08-31T05:08:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "eb96f1099eb2bae91ef6b343",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻直播：新南威尔士州不会对反以色列涂鸦非反犹太主义的裁决提出上诉；悉尼垃圾桶内发现新生儿尸体",
+      "summaryZh": "澳大利亚政府正与俄罗斯官员合作，寻求释放被扣押的澳大利亚人奥斯卡·詹金斯。政府官员表示将尽力通过外交途径确保其安全返回。",
+      "whyImportant": "此事件涉及澳大利亚公民的海外安全及政府的外交斡旋能力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9d7a2206106cdbd",
+      "title": "Man who murdered Molly Ticehurst will not face life in jail, judge says",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
+      "publishedAt": "2026-08-31T04:00:29.000Z",
+      "summary": "Justice Natalie Adams says she is troubled by expert evidence about rape allegations in slain woman’s police statement Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Molly Ticehurst’s ex-boyfriend will not face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered abuse. Ticehurst, a 28-year-old childcare educator, was found dead in her home at Forbes, in the New South Wales central-west, in the early hours of 22 April 2024. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
+          "publishedAt": "2026-08-31T04:00:29.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "9e3545c6a044da70995a0727",
+      "isContinuation": false,
+      "titleZh": "法官称谋杀莫莉·泰斯赫斯特的男子将不会被判终身监禁",
+      "summaryZh": "法官娜塔莉·亚当斯对受害者警方陈述中关于强奸指控的专家证据表示担忧。这起引发全国反性别暴力运动的谋杀案被告将不会面临终身监禁。",
+      "whyImportant": "该判决结果引发了公众对于家庭暴力案件量刑标准的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "208b0bbdff595720",
+      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "summary": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an 'imminent threat'.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+          "publishedAt": "2026-08-31T00:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "aeaa8cb564df17dbb427fa8a",
+      "isContinuation": false,
+      "titleZh": "伊朗战争直播：德黑兰称在美国袭击后袭击了约旦和阿联酋的基地",
+      "summaryZh": "美国中央司令部表示，美军轰炸了拉拉克岛上的两个伊朗伊斯兰革命卫队火箭发射器，称其构成了“迫在眉睫的威胁”。",
+      "whyImportant": "美伊军事对抗范围的扩大可能导致地区安全局势进一步恶化。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8bbefb16e261ba01",
+      "title": "China-Nepal floods, Japan to deploy fighter jets to India: 5 weekend reads you missed",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3365597/reality-check-chinas-carmakers-authorities-tell-them-focus-quality-not-tech?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T09:00:11.000Z",
-      "summary": "China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase plans, exacerbating a bearish outlook for the country’s auto sector, dealers and analysts said. Vice-Minister of Industry and Information Technology Xin Guobin told a news conference in Beijing on...",
+      "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T04:30:05.000Z",
+      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. What Japan’s coming fighter jet deployment to India means for China Japan plans to deploy fighter jets in India for the first time next month, a decision experts say reflects Tokyo’s desire to strengthen security cooperation with “like-minded” countries in the Indo-Pacific region as it ramps up...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3365597/reality-check-chinas-carmakers-authorities-tell-them-focus-quality-not-tech?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T09:00:11.000Z"
+          "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T04:30:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -47,42 +215,291 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "科技",
-        "专题·全球经济与金融"
+        "军事与安全",
+        "环境",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "market",
-        "金融"
+        "security",
+        "军事"
       ],
-      "fingerprint": "cf85fa779c8ea080d8bdf11d",
+      "fingerprint": "5ee2e3cf833cb9eb6ab9a8d3",
       "isContinuation": false,
-      "titleZh": "中国车企面临现实考验：监管部门要求聚焦质量而非技术噱头",
-      "summaryZh": "中国监管部门宣布开展全国性汽车质量检查，旨在遏制车企过度依赖高科技噱头进行营销。分析人士认为，此举可能导致消费者推迟购车计划，加剧汽车行业的低迷预期。",
-      "whyImportant": "监管政策的收紧标志着中国汽车市场从追求技术堆砌向注重质量与合规的转型。",
+      "titleZh": "中尼洪水、日本向印度部署战斗机：你错过的5篇周末阅读",
+      "summaryZh": "本文汇总了近期亚洲及全球的重要新闻，包括日本计划首次向印度部署战斗机。专家认为此举旨在加强印太地区“志同道合”国家间的安全合作。",
+      "whyImportant": "日本的军事部署调整反映了印太地区安全格局的复杂变化。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e02838abf19b94f7",
+      "title": "NHS to offer free high-street cholesterol tests in England",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+      "publishedAt": "2026-08-31T05:00:16.000Z",
+      "summary": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or stroke The NHS in England is to offer free finger-prick blood tests for cholesterol on the high street for the first time under plans to reduce heart disease and stroke deaths by a quarter within the next decade. The seven-minute tests will be available at participating pharmacies as part of a national rollout to spot “ticking timebombs” earlier. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+          "publishedAt": "2026-08-31T05:00:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "aa5d0c22d31119eb6614a6ce",
+      "isContinuation": false,
+      "titleZh": "英国国家医疗服务体系（NHS）将在英格兰提供免费街头胆固醇检测",
+      "summaryZh": "英格兰的药店将为40至84岁的人群提供免费指尖采血胆固醇检测。此举旨在及早发现健康风险，以期在未来十年内将心脏病和中风死亡率降低四分之一。",
+      "whyImportant": "该公共卫生举措旨在通过早期筛查降低心血管疾病的死亡率。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e3e9c18e2c221276",
+      "title": "Pakistani nurse to be honoured for saving newborn from deadly hospital fire",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T04:37:20.000Z",
+      "summary": "A Pakistani nurse who rescued the sole surviving newborn from a hospital nursery fire that killed 14 other infants will receive one of the country’s most prestigious civil awards. Fire engulfed Pakistan Institute of Medical Sciences, a major government hospital in Islamabad, on Wednesday. A 51-second segment of CCTV footage, widely circulated online, captures Razia Noreen running into the burning nursery and emerging seconds later with the newborn in her arms. She tries to go back in, but cannot...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T04:37:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "55cb342a968f0210e750b38b",
+      "isContinuation": false,
+      "titleZh": "巴基斯坦护士因从致命医院火灾中救出新生儿而获表彰",
+      "summaryZh": "一名巴基斯坦护士在伊斯兰堡一家医院的火灾中，冒死救出了唯一的幸存新生儿。她将因此获得该国最高级别的平民奖项之一。",
+      "whyImportant": "此举表彰了在灾难中表现出的英勇行为，并引发了对医院安全标准的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c46e2f8ab782d8ed",
+      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+      "publishedAt": "2026-08-31T03:08:35.000Z",
+      "summary": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+          "publishedAt": "2026-08-31T03:08:35.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "金融",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "军事"
+      ],
+      "fingerprint": "0ce2429ba34d99f08c71a54b",
+      "isContinuation": false,
+      "titleZh": "据报道以色列军队突袭纳布卢斯，两名巴勒斯坦人死亡",
+      "summaryZh": "现场画面显示，以色列军用车辆和人员已部署在被占领的约旦河西岸城市纳布卢斯。目前已有两名巴勒斯坦人在冲突中死亡的报告。",
+      "whyImportant": "约旦河西岸的持续冲突进一步加剧了巴以之间的紧张关系。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "5947400ab0897a2e",
-      "title": "Finland says it ‘makes no sense’ for Russia to risk attack on a Nato nation",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365731/finland-says-it-makes-no-sense-russia-risk-attack-nato-nation?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T04:38:12.000Z",
-      "summary": "Finland’s President Alexander Stubb said he did not believe ⁠Russia would risk ⁠an attack against a Nato country, ⁠telling Germany’s Bild newspaper it would “make no sense” to test the resolve of the alliance. Western officials have warned of a growing risk of Russian hybrid operations, including cyberattacks, against European countries potentially leading to a direct ‌confrontation with the Nato alliance. German officials have said they assess Russia would be in a position to attack a Nato...",
+      "id": "77c755dad93a1169",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T04:54:32.000Z",
+      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365731/finland-says-it-makes-no-sense-russia-risk-attack-nato-nation?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T04:38:12.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-31T04:54:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "经济",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 75,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "a2a3530f0ac1ca80a65d5873",
+      "isContinuation": false,
+      "titleZh": "美国与伊朗数周来首次互相发动袭击",
+      "summaryZh": "伊朗表示，美国对拉拉克岛发动的袭击是自7月下旬以来的首次已知行动。此次袭击造成两人死亡，另有两人受伤。",
+      "whyImportant": "美伊之间军事冲突的升级加剧了中东地区的紧张局势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e6412fed858b49a3",
+      "title": "Australia news live: NSW won’t appeal ruling that found anti-Israel vandalism was not antisemitic; body of newborn baby found in bin in Sydney",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "publishedAt": "2026-08-31T05:08:16.000Z",
+      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast The Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins, Matt Thistlethwaite says. Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table. Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he’s returned to Australia safely. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+          "publishedAt": "2026-08-31T05:08:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "eb96f1099eb2bae91ef6b343",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻直播：新南威尔士州不会对反以色列涂鸦非反犹太主义的裁决提出上诉；悉尼垃圾桶内发现新生儿尸体",
+      "summaryZh": "澳大利亚政府正与俄罗斯官员合作，寻求释放被扣押的澳大利亚人奥斯卡·詹金斯。政府官员表示将尽力通过外交途径确保其安全返回。",
+      "whyImportant": "此事件涉及澳大利亚公民的海外安全及政府的外交斡旋能力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9d7a2206106cdbd",
+      "title": "Man who murdered Molly Ticehurst will not face life in jail, judge says",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
+      "publishedAt": "2026-08-31T04:00:29.000Z",
+      "summary": "Justice Natalie Adams says she is troubled by expert evidence about rape allegations in slain woman’s police statement Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Molly Ticehurst’s ex-boyfriend will not face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered abuse. Ticehurst, a 28-year-old childcare educator, was found dead in her home at Forbes, in the New South Wales central-west, in the early hours of 22 April 2024. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
+          "publishedAt": "2026-08-31T04:00:29.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "9e3545c6a044da70995a0727",
+      "isContinuation": false,
+      "titleZh": "法官称谋杀莫莉·泰斯赫斯特的男子将不会被判终身监禁",
+      "summaryZh": "法官娜塔莉·亚当斯对受害者警方陈述中关于强奸指控的专家证据表示担忧。这起引发全国反性别暴力运动的谋杀案被告将不会面临终身监禁。",
+      "whyImportant": "该判决结果引发了公众对于家庭暴力案件量刑标准的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "208b0bbdff595720",
+      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "summary": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an 'imminent threat'.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+          "publishedAt": "2026-08-31T00:00:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -93,35 +510,40 @@
         "全球焦点",
         "突发",
         "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 71,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "68afe4a049a94ecad6ce47d9",
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "aeaa8cb564df17dbb427fa8a",
       "isContinuation": false,
-      "titleZh": "芬兰称俄罗斯冒险攻击北约国家“毫无意义”",
-      "summaryZh": "芬兰总统亚历山大·斯图布表示，俄罗斯攻击北约国家将是毫无意义的冒险。尽管西方官员警告俄罗斯可能进行混合战争，但斯图布认为俄方不会测试北约的决心。",
-      "whyImportant": "此表态反映了北约成员国对俄罗斯潜在军事威胁的评估及对联盟防御能力的信心。",
+      "titleZh": "伊朗战争直播：德黑兰称在美国袭击后袭击了约旦和阿联酋的基地",
+      "summaryZh": "美国中央司令部表示，美军轰炸了拉拉克岛上的两个伊朗伊斯兰革命卫队火箭发射器，称其构成了“迫在眉睫的威胁”。",
+      "whyImportant": "美伊军事对抗范围的扩大可能导致地区安全局势进一步恶化。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a326e7a8bc9a472f",
-      "title": "Australia news live: ‘we owe it to history’ to defeat One Nation, PM tells Labor faithful; man dies after falling from eighth-floor balcony in Sydney",
+      "id": "e02838abf19b94f7",
+      "title": "NHS to offer free high-street cholesterol tests in England",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
-      "publishedAt": "2026-08-30T05:05:40.000Z",
-      "summary": "Police attempted to speak to man at Elizabeth Bay apartment block east of Sydney’s CBD on Sunday morning. Follow latest updates live Get our breaking news email, free app or daily news podcast Joyce explains One Nation’s migration policy with sheep and cattle Barnaby Joyce has used sheep and cattle to illustrate his claim that One Nation wants to cut net overseas migration to 130,000 people without counting short-stay visas. No it’s not. … Short-term visa stay and things such as the Palm scheme, and Pauline’s quite right, are not counted in the net overseas migration number, overwhelmingly – small portion are – because they don’t stay for 12 months. They stay generally for a period of nine. So it’s like saying to someone, how many sheep have you got. You go, ‘well, I’ve got, you know, 5000.’ Oh, yes, and how many cattle have you got? ‘Oh, well, I’ve got 2000.’ Oh, so you’ve got 7000 all up. So, no, no. Two different things. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+      "publishedAt": "2026-08-31T05:00:16.000Z",
+      "summary": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or stroke The NHS in England is to offer free finger-prick blood tests for cholesterol on the high street for the first time under plans to reduce heart disease and stroke deaths by a quarter within the next decade. The seven-minute tests will be available at participating pharmacies as part of a national rollout to spot “ticking timebombs” earlier. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
-          "publishedAt": "2026-08-30T05:05:40.000Z"
+          "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+          "publishedAt": "2026-08-31T05:00:16.000Z"
         }
       ],
       "sourceCount": 1,
@@ -130,35 +552,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
         "突发"
       ],
-      "score": 62,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "019e21afb1c97ac0226d4cec",
+      "fingerprint": "aa5d0c22d31119eb6614a6ce",
       "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：总理呼吁击败“单一民族党”；悉尼一名男子从八楼坠亡",
-      "summaryZh": "澳大利亚总理呼吁工党支持者击败“单一民族党”，并批评其移民政策。同时，悉尼警方正在调查一名男子从公寓八楼坠亡的事件。",
-      "whyImportant": "该报道涵盖了澳大利亚国内政治博弈及突发社会安全事件，反映了当前政坛的紧张氛围。",
+      "titleZh": "英国国家医疗服务体系（NHS）将在英格兰提供免费街头胆固醇检测",
+      "summaryZh": "英格兰的药店将为40至84岁的人群提供免费指尖采血胆固醇检测。此举旨在及早发现健康风险，以期在未来十年内将心脏病和中风死亡率降低四分之一。",
+      "whyImportant": "该公共卫生举措旨在通过早期筛查降低心血管疾病的死亡率。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7bce6c7fff542396",
-      "title": "US deports relative of Afghans who aided military to Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss",
-      "publishedAt": "2026-08-30T03:10:06.000Z",
-      "summary": "Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.",
+      "id": "e3e9c18e2c221276",
+      "title": "Pakistani nurse to be honoured for saving newborn from deadly hospital fire",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T04:37:20.000Z",
+      "summary": "A Pakistani nurse who rescued the sole surviving newborn from a hospital nursery fire that killed 14 other infants will receive one of the country’s most prestigious civil awards. Fire engulfed Pakistan Institute of Medical Sciences, a major government hospital in Islamabad, on Wednesday. A 51-second segment of CCTV footage, widely circulated online, captures Razia Noreen running into the burning nursery and emerging seconds later with the newborn in her arms. She tries to go back in, but cannot...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss",
-          "publishedAt": "2026-08-30T03:10:06.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T04:37:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -168,35 +594,39 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 60,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d242585c4c810b63e4e21fe4",
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "55cb342a968f0210e750b38b",
       "isContinuation": false,
-      "titleZh": "美国将曾协助美军的阿富汗人亲属驱逐至非洲",
-      "summaryZh": "一名获得美国保护的阿富汗国民及其亲属，被驱逐至战乱不断的中非共和国。此举引发了关于美国对待盟友及其家属政策的争议。",
-      "whyImportant": "此事件凸显了美国在处理阿富汗撤离人员安置问题上的复杂性与人道主义争议。",
+      "titleZh": "巴基斯坦护士因从致命医院火灾中救出新生儿而获表彰",
+      "summaryZh": "一名巴基斯坦护士在伊斯兰堡一家医院的火灾中，冒死救出了唯一的幸存新生儿。她将因此获得该国最高级别的平民奖项之一。",
+      "whyImportant": "此举表彰了在灾难中表现出的英勇行为，并引发了对医院安全标准的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2c46dba8115cb2ca",
-      "title": "Venezuela says it retains ‘sovereignty’ following US oil deal",
+      "id": "c46e2f8ab782d8ed",
+      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
-      "publishedAt": "2026-08-30T03:51:26.000Z",
-      "summary": "Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+      "publishedAt": "2026-08-31T03:08:35.000Z",
+      "summary": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
-          "publishedAt": "2026-08-30T03:51:26.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+          "publishedAt": "2026-08-31T03:08:35.000Z"
         }
       ],
       "sourceCount": 1,
@@ -205,35 +635,40 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "能源"
+        "金融",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b9b89f28657ccf9c82a81538",
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "军事"
+      ],
+      "fingerprint": "0ce2429ba34d99f08c71a54b",
       "isContinuation": false,
-      "titleZh": "委内瑞拉称在美石油协议后仍保留“主权”",
-      "summaryZh": "委内瑞拉临时总统罗德里格斯表示，根据与美国的石油协议，每桶出口石油将有19美元流入加拉加斯。政府强调该协议并未损害国家主权。",
-      "whyImportant": "此协议标志着美委两国在能源领域的务实接触，对委内瑞拉的经济现状具有重要影响。",
+      "titleZh": "据报道以色列军队突袭纳布卢斯，两名巴勒斯坦人死亡",
+      "summaryZh": "现场画面显示，以色列军用车辆和人员已部署在被占领的约旦河西岸城市纳布卢斯。目前已有两名巴勒斯坦人在冲突中死亡的报告。",
+      "whyImportant": "约旦河西岸的持续冲突进一步加剧了巴以之间的紧张关系。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "10cf78584d6c2da2",
-      "title": "Can international diplomacy find a way forward in Libya?",
+      "id": "6fbfb651cb591209",
+      "title": "Iran targets Jordan after first US attack in a month",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
-      "publishedAt": "2026-08-29T20:01:02.000Z",
-      "summary": "Efforts intensify to break political impasse in a divided country.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+      "publishedAt": "2026-08-31T03:06:56.000Z",
+      "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
-          "publishedAt": "2026-08-29T20:01:02.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+          "publishedAt": "2026-08-31T03:06:56.000Z"
         }
       ],
       "sourceCount": 1,
@@ -242,73 +677,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "外交",
-        "军事与安全"
+        "突发",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9215ad32692520d2b6aff5d5",
-      "isContinuation": false,
-      "titleZh": "国际外交能否为利比亚找到前进道路？",
-      "summaryZh": "国际社会正加大力度，试图打破利比亚国内长期存在的政治僵局。该国目前仍处于分裂状态，外交斡旋面临严峻挑战。",
-      "whyImportant": "利比亚的政治稳定对北非地区的和平与安全至关重要，国际社会的介入旨在推动其国家重建。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7a9529a795cbfb83",
-      "title": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
-      "publishedAt": "2026-08-29T20:00:38.000Z",
-      "summary": "Reporting season shows how consumers are responding to cost of living pressures and how retailers are responding Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australians are buying less pizza but more weight-loss drugs. They love “dupes” but don’t enjoy writing letters. Here are five key takeaways from the August reporting season that show what consumers are buying as cost of living pressures reignite, and how retailers are responding. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
-          "publishedAt": "2026-08-29T20:00:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
         "突发"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "02cb9a9906efa4ca7ace54e6",
+      "fingerprint": "3db7b1e1f36d932a0b09bcda",
       "isContinuation": false,
-      "titleZh": "八月数据显示澳大利亚人对减肥药需求大增，偏爱“平替”品牌且电动汽车普及加速",
-      "summaryZh": "澳大利亚八月财报季显示，生活成本压力促使消费者转向平价替代品，同时减肥药销量激增。此外，电动汽车的普及速度也在持续加快。",
-      "whyImportant": "这些消费趋势反映了澳大利亚民众在经济压力下的生活方式转变及市场结构的演变。",
+      "titleZh": "美国一个月内首次袭击后，伊朗将目标对准约旦",
+      "summaryZh": "美国对拉拉克岛的设施发动了近一个月来的首次袭击。作为回应，伊朗对相关基地进行了反击。",
+      "whyImportant": "美伊双方的报复性打击行动增加了地区冲突失控的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5238242c4a7061a1",
-      "title": "The president and the penthouse: how Madrid’s government spent €6.3m on a temporary ‘office’",
+      "id": "07166988884ebd62",
+      "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso",
-      "publishedAt": "2026-08-30T05:00:48.000Z",
-      "summary": "Saga surrounding purchase for outspoken rightwing regional leader Isabel Díaz Ayuso refuses to go away The outspoken rightwing leader of the Madrid region is under growing pressure to explain why her government spent €6.3m (£5.4m) on a residential penthouse purportedly to serve as a temporary workspace while her offices were being renovated. Isabel Díaz Ayuso, a prominent member of Spain’s opposition conservative People’s party (PP), has been the president of the Madrid region since 2019. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
+      "publishedAt": "2026-08-31T04:00:17.000Z",
+      "summary": "As Russia hits another ammunition warehouse, killing at least 38, locals put blame on poorly placed depots It is a day and a half since a Russian jet-powered drone smashed into an ammunition dump in Myla, a village 15 miles outside central Kyiv. Volodymyr, 61, a security guard, leads visitors from his family’s badly damaged home, its roof blown off, back windows shattered, through the garden towards the impact site 300 metres away. The garden, like so many in Ukraine’s villages and suburbs, is a sizeable allotment. But today the greenhouse is shattered, a vegetable patch is blackened and crisp underfoot. Several metres of grapevine have been destroyed. Even so, Volodymyr finds two surviving bunches to hand to the Guardian. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso",
-          "publishedAt": "2026-08-30T05:00:48.000Z"
+          "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
+          "publishedAt": "2026-08-31T04:00:17.000Z"
         }
       ],
       "sourceCount": 1,
@@ -317,71 +718,40 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "科技"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "18e66cfda29415db404fe0d2",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "4dbccd8a9e748a397df56603",
       "isContinuation": false,
-      "titleZh": "总统与顶层公寓：马德里政府如何花费630万欧元购买临时“办公室”",
-      "summaryZh": "马德里地区领导人伊莎贝尔·迪亚斯·阿尤索因政府斥资630万欧元购买一处住宅顶层公寓作为临时办公室而面临质疑。公众要求其解释这笔巨额支出的合理性。",
-      "whyImportant": "此事件引发了关于公共资金使用透明度及政治人物廉洁性的公众讨论。",
+      "titleZh": "“一切都被砸得粉碎”：乌克兰民众对在村庄附近储存武器的行为感到愤怒",
+      "summaryZh": "俄罗斯无人机袭击了基辅郊外米拉村的一个弹药库，造成至少38人死亡。当地居民对军方将弹药库设在居民区附近表示强烈不满，认为这种做法导致了平民财产受损和生命威胁。",
+      "whyImportant": "该事件凸显了乌克兰在战时军事部署与平民安全保护之间面临的严峻矛盾。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7680d743616e288b",
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T04:59:56.000Z",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "id": "371cb1b66643b81d",
+      "title": "Embattled Sydney property developer Bathla warns it could fold by the end of the week",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
+      "publishedAt": "2026-08-31T05:06:36.000Z",
+      "summary": "Administrators said it would be forced to close the business if it failed to secure additional funding, revealing hundreds of staff have not been paid for weeks The administrators of embattled property developer Bathla Group have said the company will fold by the end of the week unless they can secure additional funding to keep it afloat. The insolvency advisory Teneo assumed control of Bathla’s operations on 25 August after the Sydney-based construction company went into voluntary administration. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-30T04:59:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f355da1dd3fd636b49f0462e",
-      "isContinuation": false,
-      "titleZh": "WhatsApp聊天记录被用于犯罪和极端主义资金转移",
-      "summaryZh": "犯罪分子利用WhatsApp进行全球范围内的现金转移，且未留下任何纸质记录。这种隐蔽的洗钱方式引起了执法部门的高度关注。",
-      "whyImportant": "该现象揭示了加密通讯工具在非法金融活动中被滥用的安全风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d70bcd0a10fbb815",
-      "title": "‘Chilling effect’: Japan’s whistle-blowers weigh high price of speaking out",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/people/article/3365629/chilling-effect-japans-whistle-blowers-weigh-high-price-speaking-out?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T00:00:13.000Z",
-      "summary": "Yutaka Kato* knew there would be risks when he reported suspected misconduct by his employer to Japanese authorities. What he did not expect, he said, was a 47.88 million yen (US$300,000) damages claim from that employer – the Japanese subsidiary of US-listed medical device manufacturer STAAR Surgical – along with the prospect of years in court and the uncertainty of whether he would ever return to work. Kato is among a growing number of whistle-blowers in Japan who say laws meant to protect...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/people/article/3365629/chilling-effect-japans-whistle-blowers-weigh-high-price-speaking-out?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T00:00:13.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
+          "publishedAt": "2026-08-31T05:06:36.000Z"
         }
       ],
       "sourceCount": 1,
@@ -390,74 +760,41 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b6a63c94fa3b07e84eee3905",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "af76d44011651f2f17854ac3",
       "isContinuation": false,
-      "titleZh": "“寒蝉效应”：日本举报者面临高昂代价",
-      "summaryZh": "日本举报者加藤丰在向当局举报雇主不当行为后，遭到了涉事公司高达4788万日元的巨额索赔。这起案件凸显了日本举报者在法律保护不足的情况下，面临长期诉讼和职业生涯中断的风险。",
-      "whyImportant": "此事件引发了对日本举报人保护制度有效性的广泛质疑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3b7853e761505a61",
-      "title": "North Korea’s defence minister dismissed in reshuffle of military leadership",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3365724/north-koreas-defence-minister-dismissed-reshuffle-military-leadership?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T23:54:52.000Z",
-      "summary": "North Korea’s defence minister has been dismissed as part of a reshuffle of the country’s military leadership, state media reported on Sunday. The “structural reorganisation plans” were decided during a meeting on Saturday led by Kim Jong-un, the Korean Central News Agency (KCNA) said. No Kwang-chol was not only dismissed as defence minister but also demoted in the ruling party leadership to “first vice-director of the Munitions Industry Department”, KCNA said. Kim Song-gi, director of the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3365724/north-koreas-defence-minister-dismissed-reshuffle-military-leadership?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T23:54:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a5effbb18fb57a229b47f4aa",
-      "isContinuation": false,
-      "titleZh": "朝鲜国防部长在军事领导层改组中被免职",
-      "summaryZh": "据朝中社报道，朝鲜国防部长努光铁在金正恩主持的会议后被免职，并被降职为军需工业部第一副部长。此次人事变动是朝鲜军事领导层结构性重组的一部分。",
-      "whyImportant": "朝鲜高层的人事变动通常反映了该国军事战略或政治权力的调整。",
+      "titleZh": "陷入困境的悉尼房地产开发商Bathla警告称本周末可能倒闭",
+      "summaryZh": "悉尼建筑公司Bathla Group的破产管理人表示，除非能获得额外资金，否则公司将在本周末被迫关闭。目前该公司已有数百名员工数周未领到工资。",
+      "whyImportant": "此举引发了对当地建筑行业稳定性及员工权益保障的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "b90896e898a3aad9",
-      "title": "China-Nepal floods: hundreds of foreigners missing in Tibet after disaster",
+      "id": "cdc93fd130114af9",
+      "title": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3365730/china-nepal-floods-hundreds-foreigners-missing-tibet-after-disaster?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T04:31:37.000Z",
-      "summary": "The Chinese authorities said on Sunday that 261 foreign citizens were missing after last week’s deadly floods along the border between Tibet and Nepal. The Tibetan authorities said that the missing foreigners were from 23 different countries and included 104 Nepalese citizens. They also included 49 from India; 33 Latvians; 18 from the United States; 15 from Britain; six each from Canada and Australia; four from South Africa; three each from Malaysia, Germany and Russia; two from Ireland,...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T04:00:13.000Z",
+      "summary": "As Washington’s strategic focus shifts and energy and grain supply disruptions continue to unsettle the Middle East, Beijing’s expanding presence across Central Asia is expected to be in focus as Kyrgyzstan hosts the Shanghai Cooperation Organisation (SCO) summit this week. Chinese President Xi Jinping’s presence in Bishkek is expected to put the spotlight on whether the increasingly diverse grouping can move beyond diplomatic signalling, according to analysts. The SCO’s 25th anniversary summit...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3365730/china-nepal-floods-hundreds-foreigners-missing-tibet-after-disaster?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T04:31:37.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T04:00:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -467,36 +804,79 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "环境",
-        "公共安全"
+        "外交",
+        "科技",
+        "能源"
       ],
-      "score": 68,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "08b4e4a5e5e12a0b6ad89416",
+      "fingerprint": "a473dc5cfd659e072bb9b6ee",
       "isContinuation": false,
-      "titleZh": "中尼边境洪水：西藏地区数百名外国人失踪",
-      "summaryZh": "中国当局表示，上周中尼边境发生的致命洪水导致261名外国公民失踪。失踪者来自23个国家，其中包括尼泊尔、印度、拉脱维亚等国公民。",
-      "whyImportant": "此次灾难涉及多国公民，引发了国际社会对搜救进展的高度关注。",
+      "titleZh": "习近平出席比什凯克上合组织峰会，该组织如何契合中国25年来的欧亚战略？",
+      "summaryZh": "随着华盛顿战略重心转移及能源供应波动，北京在欧亚地区的布局备受关注。分析人士指出，此次峰会将聚焦上合组织能否在外交姿态之外，进一步深化区域合作。",
+      "whyImportant": "此次峰会是观察中国在欧亚地区地缘政治影响力和战略意图的重要窗口。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "de1b251d9b3d261a",
-      "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
+      "id": "8bbefb16e261ba01",
+      "title": "China-Nepal floods, Japan to deploy fighter jets to India: 5 weekend reads you missed",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T04:30:05.000Z",
+      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. What Japan’s coming fighter jet deployment to India means for China Japan plans to deploy fighter jets in India for the first time next month, a decision experts say reflects Tokyo’s desire to strengthen security cooperation with “like-minded” countries in the Indo-Pacific region as it ramps up...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T04:30:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "环境",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "5ee2e3cf833cb9eb6ab9a8d3",
+      "isContinuation": false,
+      "titleZh": "中尼洪水、日本向印度部署战斗机：你错过的5篇周末阅读",
+      "summaryZh": "本文汇总了近期亚洲及全球的重要新闻，包括日本计划首次向印度部署战斗机。专家认为此举旨在加强印太地区“志同道合”国家间的安全合作。",
+      "whyImportant": "日本的军事部署调整反映了印太地区安全格局的复杂变化。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "220e88c45c7c6aae",
+      "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
-      "publishedAt": "2026-08-30T04:28:10.000Z",
-      "summary": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
+      "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+      "publishedAt": "2026-08-31T04:18:23.000Z",
+      "summary": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
-          "publishedAt": "2026-08-30T04:28:10.000Z"
+          "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+          "publishedAt": "2026-08-31T04:18:23.000Z"
         }
       ],
       "sourceCount": 1,
@@ -505,71 +885,36 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全"
+        "外交",
+        "科技"
       ],
       "score": 62,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4e00c593786238a8cf94bcb6",
+      "fingerprint": "b1c1a3702d6832376eee8506",
       "isContinuation": false,
-      "titleZh": "空袭、征兵与中国因素：缅甸军方如何收复失地",
-      "summaryZh": "缅甸军方通过实施征兵政策、发动持续空袭以及获得中国支持，成功从反政府武装手中夺回了关键城镇。这一战略转变改变了当地的战局态势。",
-      "whyImportant": "缅甸军方重获优势可能对该国的内战进程及地区地缘政治产生深远影响。",
+      "titleZh": "俄中领导人将在上海合作组织峰会上会晤",
+      "summaryZh": "尽管上合组织并非正式的反西方联盟，但俄罗斯和中国领导人经常利用该平台阐述其世界观。此次峰会预计将进一步加强两国间的战略协调。",
+      "whyImportant": "俄中领导人的互动对全球地缘政治平衡具有重要影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b4d7bd4e5d422158",
-      "title": "Legal battle over Hong Kong tycoon Lim Por-yen’s HK$2.9b estate set to rumble on",
+      "id": "5632c98a36bc6e0d",
+      "title": "Backlash grows after Hong Kong authorities seize second ‘fighting dog’ in week",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365717/legal-battle-over-hong-kong-tycoon-lim-por-yens-hk29b-estate-set-rumble?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T04:00:12.000Z",
-      "summary": "A 15-year legal battle over late tycoon Lim Por-yen’s HK$2.9 billion (US$371.8 million) estate is set to continue, with rival parties preparing for further legal action after a Hong Kong court ruled that his third wife and children were entitled to inherit part of his estate. Lim’s estate lodged an appeal after losing the legal battle last year, while Pearl Ling Meng-chu, daughter of Lim’s third wife, told the South China Morning Post that she had not ruled out taking further action. “She is...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3365764/backlash-grows-after-hong-kong-authorities-seize-second-fighting-dog-week?utm_source=rss_feed",
+      "publishedAt": "2026-08-30T12:15:19.000Z",
+      "summary": "Hong Kong authorities are facing a growing backlash after seizing a “fighting dog” from its owner following a neighbour’s complaint and detaining it for behavioural evaluation. It was the second dog with pit bull lineage that the Agriculture, Fisheries and Conservation Department had seized in a week. The department’s actions came amid heightened public concern over canine management, following a series of recent attacks, including one in which a woman was mauled and later found dead, and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365717/legal-battle-over-hong-kong-tycoon-lim-por-yens-hk29b-estate-set-rumble?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T04:00:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b710614e9db2396b606c5685",
-      "isContinuation": false,
-      "titleZh": "香港大亨林百欣29亿港元遗产案法律纠纷持续",
-      "summaryZh": "围绕已故大亨林百欣29亿港元遗产的法律诉讼已持续15年，目前各方正准备进一步的法律行动。此前法院裁定其三房妻儿有权继承部分遗产，但遗产管理方已提出上诉。",
-      "whyImportant": "该案因涉及巨额资产和复杂的家族继承权，长期受到社会各界关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cea0e4e0bed05ff7",
-      "title": "Reality check for China’s carmakers as authorities tell them to focus on quality, not tech",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3365597/reality-check-chinas-carmakers-authorities-tell-them-focus-quality-not-tech?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T09:00:11.000Z",
-      "summary": "China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase plans, exacerbating a bearish outlook for the country’s auto sector, dealers and analysts said. Vice-Minister of Industry and Information Technology Xin Guobin told a news conference in Beijing on...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3365597/reality-check-chinas-carmakers-authorities-tell-them-focus-quality-not-tech?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T09:00:11.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3365764/backlash-grows-after-hong-kong-authorities-seize-second-fighting-dog-week?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T12:15:19.000Z"
         }
       ],
       "sourceCount": 1,
@@ -578,40 +923,39 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "科技",
-        "专题·全球经济与金融"
+        "突发",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "market",
-        "金融"
+        "attack",
+        "突发"
       ],
-      "fingerprint": "cf85fa779c8ea080d8bdf11d",
+      "fingerprint": "2f4ac6417fd636c62009c20e",
       "isContinuation": false,
-      "titleZh": "中国车企面临现实考验：监管部门要求聚焦质量而非技术噱头",
-      "summaryZh": "中国监管部门宣布开展全国性汽车质量检查，旨在遏制车企过度依赖高科技噱头进行营销。分析人士认为，此举可能导致消费者推迟购车计划，加剧汽车行业的低迷预期。",
-      "whyImportant": "监管政策的收紧标志着中国汽车市场从追求技术堆砌向注重质量与合规的转型。",
+      "titleZh": "香港当局一周内查扣第二只“格斗犬”，引发舆论反弹",
+      "summaryZh": "香港渔农自然护理署因邻居投诉，查扣了一只被认定为“格斗犬”的狗并进行行为评估。这是该部门一周内第二次采取此类行动，引发了公众对犬只管理政策的争议。",
+      "whyImportant": "该事件反映了香港社会在公共安全与动物福利之间的舆论分歧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "52d7f0470d4755a8",
-      "title": "Is the Irtysh River the choke-free Arctic shipping gateway that China needs?",
+      "id": "1f2af77163afe6c9",
+      "title": "‘A warning saved my life’: can Hongkongers trust smartwatches, or are they being misled?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T22:00:13.000Z",
-      "summary": "As conflicts around the world highlight the vulnerability of global shipping lanes, China and Russia are reportedly weighing the possibility of turning a vast river into an inland cargo route to the rest of the world. At the heart of this ambition is the 4,248km (2,640-mile) Irtysh River, which originates in China’s western Xinjiang Uygur autonomous region and runs through Kazakhstan before flowing into Russia’s Ob River and ending in the Arctic Ocean. To China, this river-to-sea shipping route...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365718/warning-saved-my-life-can-hongkongers-trust-smartwatches-or-are-they-being-misled?utm_source=rss_feed",
+      "publishedAt": "2026-08-30T11:00:10.000Z",
+      "summary": "In the third instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Victor Ting examines how wearable devices are reshaping personal healthcare in the city, as experts caution that they should not replace professional medical advice. Alice Wong had little idea how seriously ill she might become until unusual patterns on her smartwatch prompted her to seek medical advice. A year ago, Wong, who was still in her twenties, had bought the device but paid...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T22:00:13.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365718/warning-saved-my-life-can-hongkongers-trust-smartwatches-or-are-they-being-misled?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T11:00:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -619,111 +963,43 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "165a63bfa23e3530d9761996",
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "540c24c87e02ff6ec6f1c766",
       "isContinuation": false,
-      "titleZh": "额尔齐斯河会是中国所需的无瓶颈北极航运通道吗？",
-      "summaryZh": "面对全球航运风险，中国和俄罗斯正在探讨将额尔齐斯河开发为通往北冰洋的内陆货运航线。该航线若能打通，将为中国提供一条连接中亚与北极的战略物流通道。",
-      "whyImportant": "该项目若实现，将显著改变中国与俄罗斯及中亚地区的物流格局。",
+      "titleZh": "“警报救了我一命”：香港人能信任智能手表吗，还是被误导了？",
+      "summaryZh": "智能穿戴设备在香港健康管理中日益普及，一些用户通过设备监测到了潜在的健康问题。专家提醒，这些设备不能替代专业的医疗诊断，应谨慎对待其数据。",
+      "whyImportant": "随着可穿戴医疗技术的普及，公众对健康数据的依赖与医疗专业性之间的界限引发关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "43d008654c7b1314",
-      "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
-      "publishedAt": "2026-08-29T22:50:27.000Z",
-      "summary": "The 'Lake Ontario' sign comes in response to the US president's efforts to rename the body of water 'Lake America'.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
-          "publishedAt": "2026-08-29T22:50:27.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "91b76a74da681d7b7a64a0df",
-      "isContinuation": false,
-      "titleZh": "安大略省省长道格·福特竖立标牌，拒绝美国总统将安大略湖更名为“美国湖”",
-      "summaryZh": "针对美国总统试图将安大略湖更名为“美国湖”的提议，加拿大安大略省省长道格·福特竖立标牌予以回击。此举表达了对美方更名企图的明确反对。",
-      "whyImportant": "这一象征性的对抗反映了美加两国在领土与地名主权问题上的敏感分歧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4b4bc79084d31d9e",
-      "title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
-      "publishedAt": "2026-08-29T16:03:37.000Z",
-      "summary": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen receive Congressional Space Medal of Honor The Artemis II astronauts who flew around the moon in April received the US’s highest space honor on Friday. Donald Trump presented the Congressional Space Medal of Honor to the three Americans and one Canadian whose lunar flyby for the US space agency Nasa set a new distance record for humanity. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
-          "publishedAt": "2026-08-29T16:03:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "科技",
-        "国际组织"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3ebd3def3dd1ad0cb14dc859",
-      "isContinuation": false,
-      "titleZh": "阿尔忒弥斯2号宇航员获颁美国最高航天荣誉",
-      "summaryZh": "阿尔忒弥斯2号的四名宇航员因成功完成绕月飞行任务，获颁美国国会航天荣誉勋章。该任务刷新了人类深空探测的距离纪录。",
-      "whyImportant": "此举表彰了宇航员在重返月球计划中的卓越贡献，并凸显了美国在载人航天领域的持续投入。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "dc2db30838cb4e42",
-      "title": "US envoy’s Kashmir ‘part of India’ remark rattles Pakistan ties",
+      "id": "5f2085ff1e8aafc9",
+      "title": "Ukraine prepares for talks with Trump envoys as Kyiv reels from deadly strikes",
       "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3365621/us-envoys-kashmir-part-india-remark-rattles-pakistan-ties?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T07:00:13.000Z",
-      "summary": "Seven words, spoken almost in passing on a recent afternoon in Srinagar, have set off a diplomatic tremor across South Asia. “This is an important part of India,” Sergio Gor told reporters on August 19, during the first visit by a US ambassador to Indian-administered Jammu and Kashmir in six years. Within hours, Pakistan had summoned the top American diplomat in Islamabad, Natalie Baker, to deliver a formal protest. Kashmir, a disputed Himalayan region claimed in full by both India and Pakistan,...",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-30T18:19:13.000Z",
+      "summary": "Ukraine is preparing for a new round of talks with representatives of US President Donald Trump, President Volodymyr Zelensky announced Sunday, expressing hope that diplomacy can prevent open conflict from remaining the only path forward. “There will be more details tomorrow. We will do everything we can so that war does not remain the only option for how events unfold further,” Zelensky said in a televised address. “It is important that America shares many of our views on the situation”. US-led...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3365621/us-envoys-kashmir-part-india-remark-rattles-pakistan-ties?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T07:00:13.000Z"
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T18:19:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -732,35 +1008,40 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "外交"
+        "外交",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 45,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9f4e9a7e4e1cd929410a19ac",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "8a1ff47c06fe033e77328067",
       "isContinuation": false,
-      "titleZh": "美国特使称克什米尔为“印度一部分”引发巴基斯坦不满",
-      "summaryZh": "美国大使塞尔吉奥·戈尔在访问印控克什米尔期间称该地区为“印度重要的一部分”，引发巴基斯坦政府的强烈抗议。巴方已就此言论召见美国外交官进行交涉。",
-      "whyImportant": "这一外交表态打破了美国在克什米尔主权争议上的传统立场，可能对美巴双边关系产生负面影响。",
+      "titleZh": "乌克兰准备与特朗普特使进行会谈，基辅正从致命袭击中恢复",
+      "summaryZh": "乌克兰总统泽连斯基宣布，乌方正准备与美国总统特朗普的代表进行新一轮会谈。他表示希望通过外交手段寻求和平，避免战争成为唯一的选择。",
+      "whyImportant": "乌美双方的接触对于未来乌克兰冲突的走向具有关键意义。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4a9b891e0f837b66",
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T07:11:04.000Z",
-      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "id": "44df3a4647f580a8",
+      "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+      "publishedAt": "2026-08-30T15:08:33.000Z",
+      "summary": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donald Trump, insisting the South American country will maintain ownership and sovereignty over its massive oil reserves. Rodríguez, who assumed power in January after Trump ordered the abduction of the president, Nicolás Maduro, took to the airwaves on Saturday to push back against criticism of what the US president has called “the biggest oil deal in world history”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-29T07:11:04.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+          "publishedAt": "2026-08-30T15:08:33.000Z"
         }
       ],
       "sourceCount": 1,
@@ -768,203 +1049,416 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "能源",
+        "国际组织"
       ],
-      "score": 41,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 56,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0866122aba98aa0501541143",
+      "fingerprint": "cfcaf78d8eaeaf9eda092549",
       "isContinuation": false,
-      "titleZh": "前白宫提词器操作员因利用演讲信息赌博被判赔偿17.2万美元",
-      "summaryZh": "一名白宫前工作人员被发现利用其提前获知的总统演讲内容进行非法博彩获利。法院已下令其支付17.2万美元的赔偿金。",
-      "whyImportant": "该案件揭示了政府内部人员利用职务之便获取内幕信息牟利的道德与法律风险。",
+      "titleZh": "委内瑞拉德尔西·罗德里格斯为她与特朗普达成的“无尽”石油协议辩护",
+      "summaryZh": "委内瑞拉临时总统德尔西·罗德里格斯为该国与特朗普达成的能源协议辩护，坚称委内瑞拉仍拥有其石油储备的主权。该协议因涉及美国控制委内瑞拉650亿桶石油而引发国内强烈抗议。",
+      "whyImportant": "此协议引发了关于国家主权与能源控制权的重大争议，并加剧了委内瑞拉国内的政治紧张局势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8ab9224bfbf78fdb",
+      "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+      "publishedAt": "2026-08-30T19:36:57.000Z",
+      "summary": "Tom Homan denies British far-right commentator, who was deported one day after arrest, got preferential treatment The White House “border czar,” Tom Homan, denied on Sunday that deporting British far-right commentator Milo Yiannopoulos just a day after being arrested by US Immigration and Customs Enforcement (ICE) amounted to preferential treatment. Homan said it was his understanding that Yiannopoulos, 41, had overstayed what he believed to be a visitor visa, had not appeared at an immigration hearing and was issued a final order of removal on 22 July. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+          "publishedAt": "2026-08-30T19:36:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 55,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "604f4188102611cb872a3de3",
+      "isContinuation": false,
+      "titleZh": "特朗普“边境沙皇”否认米洛·伊安诺波卢斯被迅速驱逐是为了让他免受移民局拘留",
+      "summaryZh": "白宫“边境沙皇”汤姆·霍曼否认英国极右翼评论员米洛·伊安诺波卢斯在被捕次日即被驱逐出境是享受了特殊待遇。霍曼表示，伊安诺波卢斯因逾期滞留且未出席移民听证会，已于7月22日被下达最终驱逐令。",
+      "whyImportant": "此事件引发了公众对移民执法程序公平性及是否存在政治优待的质疑。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f1acf504161f40da",
+      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "publishedAt": "2026-08-30T18:57:22.000Z",
+      "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario, with the Ontario premier erecting a giant sign saying “Lake Ontario. Now and Always” – and the American president posting a video of him tearing down an avatar of that sign, erecting a replacement saying Lake America, and dancing to YMCA. Rhetoric over the naming of Lake Ontario is the public face of an escalating trade dispute between the US and its northern neighbor involving a 50% US tariff on Canadian steel and retaliatory tariffs from Ottawa. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+          "publishedAt": "2026-08-30T18:57:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济"
+      ],
+      "score": 54,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8c1e410b0bf58ddf4099c25d",
+      "isContinuation": false,
+      "titleZh": "随着与特朗普关于名称的争端升级，加拿大竖起巨大的“安大略湖”标志",
+      "summaryZh": "特朗普与加拿大就安大略湖更名问题持续发生口角，特朗普发布视频展示其拆除安大略湖标志并替换为“美国湖”的过程。这一争端是美加两国因钢材关税引发的贸易战的公开表现。",
+      "whyImportant": "地名争端反映了美加两国在贸易政策上的深层矛盾，进一步加剧了双边外交紧张关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "003114e9efdac3cc",
+      "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
+      "publishedAt": "2026-08-30T17:16:52.000Z",
+      "summary": "Trump’s threat comes after host described success record of candidates whom president had endorsed as ‘mixed’ Donald Trump ⁠on Sunday said NBC’s Kristen ‌Welker – host of Meet the Press – should face “rebuke or punishment” from the Federal Communications Commission (FCC). Welker, during a live segment for a local Washington, DC, affiliate, described the success record of political candidates whom the president had endorsed as “mixed”. The segment aired prior to Sunday’s edition of Meet the Press. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
+          "publishedAt": "2026-08-30T17:16:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7a9672cecc1c45003d7a7fe9",
+      "isContinuation": false,
+      "titleZh": "特朗普称NBC的克里斯汀·威尔克应受到联邦通信委员会的“惩罚”",
+      "summaryZh": "特朗普因NBC主持人克里斯汀·威尔克称其背书的候选人表现“好坏参半”，公开要求联邦通信委员会对其进行惩罚。该言论出现在威尔克主持的《会见新闻界》节目播出前的一段直播中。",
+      "whyImportant": "总统对媒体报道的公开施压引发了关于新闻自由及政府干预媒体监管的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "119419a603dd1239",
-      "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
-      "publishedAt": "2026-08-29T23:51:26.000Z",
-      "summary": "Plaskett fire has swept through more than 5,900 acres in Monterey county and remains un-contained, says Cal Fire A fire in California’s Big Sur region doubled in size overnight, forcing the evacuation of nearby residents, in a coastal region where firefighters have battled another blaze for weeks. The Plaskett fire, which sparked on Tuesday, had swept through more than 5,900 acres (2,400 hectares) in Monterey county as of Friday, and remained un-contained, according to Cal Fire. Its cause is under investigation. Continue reading...",
+      "id": "80226a3cb4a833b4",
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T03:56:15.000Z",
+      "summary": "A passenger ferry capsized and sank off Northern Cyprus Sunday, killing at least eight people and leaving more than a dozen missing, officials and media reports said, as police took the captain and seven crew members into custody. Several rescued passengers told local media a blast had gone off at the bow of the ferry before it rolled over, and said the boat had an insufficient supply of life-vests. The vessel capsized 6.5km (4 miles) off the coast of Cyprus, shortly after leaving a Northern...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-31T03:56:15.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3365774/least-8-dead-22-missing-ferry-capsizes-northern-cyprus?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T16:43:28.000Z"
+        },
+        {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
-          "publishedAt": "2026-08-29T23:51:26.000Z"
+          "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
+          "publishedAt": "2026-08-30T15:12:02.000Z"
         }
       ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "公共安全"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "98618cc84925c4e37b4f1b80",
-      "isContinuation": false,
-      "titleZh": "加州大苏尔地区山火一夜间规模翻倍，迫使居民撤离",
-      "summaryZh": "加州蒙特雷县的普拉斯凯特山火在短时间内迅速蔓延，过火面积已超过5900英亩且仍未得到控制。当地政府已下令周边居民紧急撤离。",
-      "whyImportant": "山火的快速蔓延对当地生态环境及居民生命财产安全构成了严重威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c6ed760fd94d6e8e",
-      "title": "Ukrainian nuclear power plant without external power for over a week",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
-      "publishedAt": "2026-08-29T23:25:07.000Z",
-      "summary": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
-          "publishedAt": "2026-08-29T23:25:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "80eed6d5af1e35c03730d831",
-      "isContinuation": false,
-      "titleZh": "乌克兰核电站外部电力中断已持续超过一周",
-      "summaryZh": "扎波罗热核电站自俄乌冲突爆发以来，第27次被迫依赖应急柴油发电机维持运行。目前该核电站已连续一周处于外部电力中断状态。",
-      "whyImportant": "核电站长期依赖应急电源增加了发生核安全事故的风险，引发国际社会对地区核安全的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "376a67534972f7cf",
-      "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
-      "publishedAt": "2026-08-30T04:50:17.000Z",
-      "summary": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
-          "publishedAt": "2026-08-30T04:50:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
+      "sourceCount": 3,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点"
       ],
-      "score": 51,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ece04a07ef28d4f250e24a0a",
+      "fingerprint": "6ab560910fc13c0bcfde7a9a",
       "isContinuation": false,
-      "titleZh": "美国阿肯色州警察在逮捕过程中拉扯嫌疑人头发并挥拳殴打",
-      "summaryZh": "一段视频显示，阿肯色州的一名州巡警在逮捕行动中对一名乘客实施了拉扯头发和挥拳殴打的行为。目前该事件引发了公众对执法过当的质疑。",
-      "whyImportant": "此事件再次引发了关于美国警察执法暴力及问责机制的社会讨论。",
+      "titleZh": "北塞浦路斯附近一艘渡轮倾覆，造成8人死亡，18人失踪",
+      "summaryZh": "一艘渡轮在北塞浦路斯海岸附近倾覆，导致至少8人死亡，多人失踪，警方已拘留船长及七名船员。幸存者称船头曾发生爆炸，且船上救生衣数量不足。",
+      "whyImportant": "这起严重的海上事故暴露了当地航运安全管理的重大漏洞，引发了对公共交通安全标准的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5de9cb0aa694b056",
+      "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+      "publishedAt": "2026-08-30T20:15:47.000Z",
+      "summary": "The exchange of attacks is the first flare-up in violence between the two sides since late July.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+          "publishedAt": "2026-08-30T20:15:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "06d6312884b43ed1c8a9ea6a",
+      "isContinuation": false,
+      "titleZh": "伊朗在美军袭击拉拉克岛后攻击约旦境内的美军基地",
+      "summaryZh": "伊朗对约旦境内的美军基地发动了攻击，这是双方自7月下旬以来首次爆发的暴力冲突。此次袭击是对美国此前打击拉拉克岛行动的回应。",
+      "whyImportant": "美伊之间军事冲突的升级增加了中东地区局势的不确定性与地缘政治风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e88b97a69121b9b9",
+      "title": "Trump calls for ‘punishment’ of NBC journalist over endorsement coverage",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
+      "publishedAt": "2026-08-30T19:37:37.000Z",
+      "summary": "US President Donald Trump on Sunday threatened a prominent NBC broadcast journalist with possible punishment by US media regulators as the Republican expressed disappointment with coverage of his candidate endorsements ahead of November’s midterm elections. Trump took to his Truth Social platform to attack Kristen Welker as the “unpopular ‘hostess’ of the once great Meet the Press” talk show. He objected to her having said the president had had “mixed results” on his endorsement of political...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T19:37:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "979109c85eb27a3000cef00e",
+      "isContinuation": false,
+      "titleZh": "特朗普因背书报道要求“惩罚”NBC记者",
+      "summaryZh": "特朗普威胁要让媒体监管机构惩罚NBC记者克里斯汀·威尔克，因其在报道中称特朗普背书的候选人表现“好坏参半”。特朗普在社交平台上对该记者的报道表示不满。",
+      "whyImportant": "总统针对特定记者的言论再次引发了关于政治权力与媒体监督边界的争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 108,
-    "deduplicated": 106,
-    "selected": 22,
-    "translated": 22,
+    "fetched": 124,
+    "deduplicated": 121,
+    "selected": 23,
+    "translated": 23,
     "untranslated": 0,
     "minimumRequired": 21,
-    "featured": 1,
+    "featured": 8,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "cea0e4e0bed05ff7",
-      "title": "Reality check for China’s carmakers as authorities tell them to focus on quality, not tech",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3365597/reality-check-chinas-carmakers-authorities-tell-them-focus-quality-not-tech?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T09:00:11.000Z",
-      "summary": "China’s shrinking car market has received another reality check as regulators step in to police the hi-tech offerings that carmakers use to drive sales. A nationwide inspection campaign assessing the quality of Chinese-made cars that was announced this week would see some consumers shelve purchase plans, exacerbating a bearish outlook for the country’s auto sector, dealers and analysts said. Vice-Minister of Industry and Information Technology Xin Guobin told a news conference in Beijing on...",
+      "id": "77c755dad93a1169",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T04:54:32.000Z",
+      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3365597/reality-check-chinas-carmakers-authorities-tell-them-focus-quality-not-tech?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T09:00:11.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-31T04:54:32.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "金融",
-        "科技",
-        "专题·全球经济与金融"
+        "全球焦点",
+        "突发",
+        "经济",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 75,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "market",
-        "金融"
+        "attack",
+        "突发"
       ],
-      "fingerprint": "cf85fa779c8ea080d8bdf11d",
+      "fingerprint": "a2a3530f0ac1ca80a65d5873",
       "isContinuation": false,
-      "titleZh": "中国车企面临现实考验：监管部门要求聚焦质量而非技术噱头",
-      "summaryZh": "中国监管部门宣布开展全国性汽车质量检查，旨在遏制车企过度依赖高科技噱头进行营销。分析人士认为，此举可能导致消费者推迟购车计划，加剧汽车行业的低迷预期。",
-      "whyImportant": "监管政策的收紧标志着中国汽车市场从追求技术堆砌向注重质量与合规的转型。",
+      "titleZh": "美国与伊朗数周来首次互相发动袭击",
+      "summaryZh": "伊朗表示，美国对拉拉克岛发动的袭击是自7月下旬以来的首次已知行动。此次袭击造成两人死亡，另有两人受伤。",
+      "whyImportant": "美伊之间军事冲突的升级加剧了中东地区的紧张局势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5947400ab0897a2e",
-      "title": "Finland says it ‘makes no sense’ for Russia to risk attack on a Nato nation",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365731/finland-says-it-makes-no-sense-russia-risk-attack-nato-nation?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T04:38:12.000Z",
-      "summary": "Finland’s President Alexander Stubb said he did not believe ⁠Russia would risk ⁠an attack against a Nato country, ⁠telling Germany’s Bild newspaper it would “make no sense” to test the resolve of the alliance. Western officials have warned of a growing risk of Russian hybrid operations, including cyberattacks, against European countries potentially leading to a direct ‌confrontation with the Nato alliance. German officials have said they assess Russia would be in a position to attack a Nato...",
+      "id": "e6412fed858b49a3",
+      "title": "Australia news live: NSW won’t appeal ruling that found anti-Israel vandalism was not antisemitic; body of newborn baby found in bin in Sydney",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "publishedAt": "2026-08-31T05:08:16.000Z",
+      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast The Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins, Matt Thistlethwaite says. Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table. Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he’s returned to Australia safely. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365731/finland-says-it-makes-no-sense-russia-risk-attack-nato-nation?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T04:38:12.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+          "publishedAt": "2026-08-31T05:08:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "eb96f1099eb2bae91ef6b343",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻直播：新南威尔士州不会对反以色列涂鸦非反犹太主义的裁决提出上诉；悉尼垃圾桶内发现新生儿尸体",
+      "summaryZh": "澳大利亚政府正与俄罗斯官员合作，寻求释放被扣押的澳大利亚人奥斯卡·詹金斯。政府官员表示将尽力通过外交途径确保其安全返回。",
+      "whyImportant": "此事件涉及澳大利亚公民的海外安全及政府的外交斡旋能力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9d7a2206106cdbd",
+      "title": "Man who murdered Molly Ticehurst will not face life in jail, judge says",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
+      "publishedAt": "2026-08-31T04:00:29.000Z",
+      "summary": "Justice Natalie Adams says she is troubled by expert evidence about rape allegations in slain woman’s police statement Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Molly Ticehurst’s ex-boyfriend will not face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered abuse. Ticehurst, a 28-year-old childcare educator, was found dead in her home at Forbes, in the New South Wales central-west, in the early hours of 22 April 2024. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
+          "publishedAt": "2026-08-31T04:00:29.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "9e3545c6a044da70995a0727",
+      "isContinuation": false,
+      "titleZh": "法官称谋杀莫莉·泰斯赫斯特的男子将不会被判终身监禁",
+      "summaryZh": "法官娜塔莉·亚当斯对受害者警方陈述中关于强奸指控的专家证据表示担忧。这起引发全国反性别暴力运动的谋杀案被告将不会面临终身监禁。",
+      "whyImportant": "该判决结果引发了公众对于家庭暴力案件量刑标准的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "208b0bbdff595720",
+      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "summary": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an 'imminent threat'.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+          "publishedAt": "2026-08-31T00:00:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -975,35 +1469,82 @@
         "全球焦点",
         "突发",
         "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 71,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "68afe4a049a94ecad6ce47d9",
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "aeaa8cb564df17dbb427fa8a",
       "isContinuation": false,
-      "titleZh": "芬兰称俄罗斯冒险攻击北约国家“毫无意义”",
-      "summaryZh": "芬兰总统亚历山大·斯图布表示，俄罗斯攻击北约国家将是毫无意义的冒险。尽管西方官员警告俄罗斯可能进行混合战争，但斯图布认为俄方不会测试北约的决心。",
-      "whyImportant": "此表态反映了北约成员国对俄罗斯潜在军事威胁的评估及对联盟防御能力的信心。",
+      "titleZh": "伊朗战争直播：德黑兰称在美国袭击后袭击了约旦和阿联酋的基地",
+      "summaryZh": "美国中央司令部表示，美军轰炸了拉拉克岛上的两个伊朗伊斯兰革命卫队火箭发射器，称其构成了“迫在眉睫的威胁”。",
+      "whyImportant": "美伊军事对抗范围的扩大可能导致地区安全局势进一步恶化。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a326e7a8bc9a472f",
-      "title": "Australia news live: ‘we owe it to history’ to defeat One Nation, PM tells Labor faithful; man dies after falling from eighth-floor balcony in Sydney",
+      "id": "8bbefb16e261ba01",
+      "title": "China-Nepal floods, Japan to deploy fighter jets to India: 5 weekend reads you missed",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T04:30:05.000Z",
+      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. What Japan’s coming fighter jet deployment to India means for China Japan plans to deploy fighter jets in India for the first time next month, a decision experts say reflects Tokyo’s desire to strengthen security cooperation with “like-minded” countries in the Indo-Pacific region as it ramps up...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T04:30:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "环境",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "5ee2e3cf833cb9eb6ab9a8d3",
+      "isContinuation": false,
+      "titleZh": "中尼洪水、日本向印度部署战斗机：你错过的5篇周末阅读",
+      "summaryZh": "本文汇总了近期亚洲及全球的重要新闻，包括日本计划首次向印度部署战斗机。专家认为此举旨在加强印太地区“志同道合”国家间的安全合作。",
+      "whyImportant": "日本的军事部署调整反映了印太地区安全格局的复杂变化。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e02838abf19b94f7",
+      "title": "NHS to offer free high-street cholesterol tests in England",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
-      "publishedAt": "2026-08-30T05:05:40.000Z",
-      "summary": "Police attempted to speak to man at Elizabeth Bay apartment block east of Sydney’s CBD on Sunday morning. Follow latest updates live Get our breaking news email, free app or daily news podcast Joyce explains One Nation’s migration policy with sheep and cattle Barnaby Joyce has used sheep and cattle to illustrate his claim that One Nation wants to cut net overseas migration to 130,000 people without counting short-stay visas. No it’s not. … Short-term visa stay and things such as the Palm scheme, and Pauline’s quite right, are not counted in the net overseas migration number, overwhelmingly – small portion are – because they don’t stay for 12 months. They stay generally for a period of nine. So it’s like saying to someone, how many sheep have you got. You go, ‘well, I’ve got, you know, 5000.’ Oh, yes, and how many cattle have you got? ‘Oh, well, I’ve got 2000.’ Oh, so you’ve got 7000 all up. So, no, no. Two different things. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+      "publishedAt": "2026-08-31T05:00:16.000Z",
+      "summary": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or stroke The NHS in England is to offer free finger-prick blood tests for cholesterol on the high street for the first time under plans to reduce heart disease and stroke deaths by a quarter within the next decade. The seven-minute tests will be available at participating pharmacies as part of a national rollout to spot “ticking timebombs” earlier. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
-          "publishedAt": "2026-08-30T05:05:40.000Z"
+          "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+          "publishedAt": "2026-08-31T05:00:16.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1012,35 +1553,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
         "突发"
       ],
-      "score": 62,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "019e21afb1c97ac0226d4cec",
+      "fingerprint": "aa5d0c22d31119eb6614a6ce",
       "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：总理呼吁击败“单一民族党”；悉尼一名男子从八楼坠亡",
-      "summaryZh": "澳大利亚总理呼吁工党支持者击败“单一民族党”，并批评其移民政策。同时，悉尼警方正在调查一名男子从公寓八楼坠亡的事件。",
-      "whyImportant": "该报道涵盖了澳大利亚国内政治博弈及突发社会安全事件，反映了当前政坛的紧张氛围。",
+      "titleZh": "英国国家医疗服务体系（NHS）将在英格兰提供免费街头胆固醇检测",
+      "summaryZh": "英格兰的药店将为40至84岁的人群提供免费指尖采血胆固醇检测。此举旨在及早发现健康风险，以期在未来十年内将心脏病和中风死亡率降低四分之一。",
+      "whyImportant": "该公共卫生举措旨在通过早期筛查降低心血管疾病的死亡率。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7bce6c7fff542396",
-      "title": "US deports relative of Afghans who aided military to Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss",
-      "publishedAt": "2026-08-30T03:10:06.000Z",
-      "summary": "Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.",
+      "id": "e3e9c18e2c221276",
+      "title": "Pakistani nurse to be honoured for saving newborn from deadly hospital fire",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T04:37:20.000Z",
+      "summary": "A Pakistani nurse who rescued the sole surviving newborn from a hospital nursery fire that killed 14 other infants will receive one of the country’s most prestigious civil awards. Fire engulfed Pakistan Institute of Medical Sciences, a major government hospital in Islamabad, on Wednesday. A 51-second segment of CCTV footage, widely circulated online, captures Razia Noreen running into the burning nursery and emerging seconds later with the newborn in her arms. She tries to go back in, but cannot...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss",
-          "publishedAt": "2026-08-30T03:10:06.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T04:37:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1050,35 +1595,39 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 60,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d242585c4c810b63e4e21fe4",
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "55cb342a968f0210e750b38b",
       "isContinuation": false,
-      "titleZh": "美国将曾协助美军的阿富汗人亲属驱逐至非洲",
-      "summaryZh": "一名获得美国保护的阿富汗国民及其亲属，被驱逐至战乱不断的中非共和国。此举引发了关于美国对待盟友及其家属政策的争议。",
-      "whyImportant": "此事件凸显了美国在处理阿富汗撤离人员安置问题上的复杂性与人道主义争议。",
+      "titleZh": "巴基斯坦护士因从致命医院火灾中救出新生儿而获表彰",
+      "summaryZh": "一名巴基斯坦护士在伊斯兰堡一家医院的火灾中，冒死救出了唯一的幸存新生儿。她将因此获得该国最高级别的平民奖项之一。",
+      "whyImportant": "此举表彰了在灾难中表现出的英勇行为，并引发了对医院安全标准的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2c46dba8115cb2ca",
-      "title": "Venezuela says it retains ‘sovereignty’ following US oil deal",
+      "id": "c46e2f8ab782d8ed",
+      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
-      "publishedAt": "2026-08-30T03:51:26.000Z",
-      "summary": "Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+      "publishedAt": "2026-08-31T03:08:35.000Z",
+      "summary": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
-          "publishedAt": "2026-08-30T03:51:26.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+          "publishedAt": "2026-08-31T03:08:35.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1087,296 +1636,204 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "能源"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b9b89f28657ccf9c82a81538",
-      "isContinuation": false,
-      "titleZh": "委内瑞拉称在美石油协议后仍保留“主权”",
-      "summaryZh": "委内瑞拉临时总统罗德里格斯表示，根据与美国的石油协议，每桶出口石油将有19美元流入加拉加斯。政府强调该协议并未损害国家主权。",
-      "whyImportant": "此协议标志着美委两国在能源领域的务实接触，对委内瑞拉的经济现状具有重要影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "10cf78584d6c2da2",
-      "title": "Can international diplomacy find a way forward in Libya?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
-      "publishedAt": "2026-08-29T20:01:02.000Z",
-      "summary": "Efforts intensify to break political impasse in a divided country.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
-          "publishedAt": "2026-08-29T20:01:02.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9215ad32692520d2b6aff5d5",
-      "isContinuation": false,
-      "titleZh": "国际外交能否为利比亚找到前进道路？",
-      "summaryZh": "国际社会正加大力度，试图打破利比亚国内长期存在的政治僵局。该国目前仍处于分裂状态，外交斡旋面临严峻挑战。",
-      "whyImportant": "利比亚的政治稳定对北非地区的和平与安全至关重要，国际社会的介入旨在推动其国家重建。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7a9529a795cbfb83",
-      "title": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
-      "publishedAt": "2026-08-29T20:00:38.000Z",
-      "summary": "Reporting season shows how consumers are responding to cost of living pressures and how retailers are responding Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australians are buying less pizza but more weight-loss drugs. They love “dupes” but don’t enjoy writing letters. Here are five key takeaways from the August reporting season that show what consumers are buying as cost of living pressures reignite, and how retailers are responding. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
-          "publishedAt": "2026-08-29T20:00:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "02cb9a9906efa4ca7ace54e6",
-      "isContinuation": false,
-      "titleZh": "八月数据显示澳大利亚人对减肥药需求大增，偏爱“平替”品牌且电动汽车普及加速",
-      "summaryZh": "澳大利亚八月财报季显示，生活成本压力促使消费者转向平价替代品，同时减肥药销量激增。此外，电动汽车的普及速度也在持续加快。",
-      "whyImportant": "这些消费趋势反映了澳大利亚民众在经济压力下的生活方式转变及市场结构的演变。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5238242c4a7061a1",
-      "title": "The president and the penthouse: how Madrid’s government spent €6.3m on a temporary ‘office’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso",
-      "publishedAt": "2026-08-30T05:00:48.000Z",
-      "summary": "Saga surrounding purchase for outspoken rightwing regional leader Isabel Díaz Ayuso refuses to go away The outspoken rightwing leader of the Madrid region is under growing pressure to explain why her government spent €6.3m (£5.4m) on a residential penthouse purportedly to serve as a temporary workspace while her offices were being renovated. Isabel Díaz Ayuso, a prominent member of Spain’s opposition conservative People’s party (PP), has been the president of the Madrid region since 2019. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso",
-          "publishedAt": "2026-08-30T05:00:48.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "科技"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "18e66cfda29415db404fe0d2",
-      "isContinuation": false,
-      "titleZh": "总统与顶层公寓：马德里政府如何花费630万欧元购买临时“办公室”",
-      "summaryZh": "马德里地区领导人伊莎贝尔·迪亚斯·阿尤索因政府斥资630万欧元购买一处住宅顶层公寓作为临时办公室而面临质疑。公众要求其解释这笔巨额支出的合理性。",
-      "whyImportant": "此事件引发了关于公共资金使用透明度及政治人物廉洁性的公众讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7680d743616e288b",
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T04:59:56.000Z",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-30T04:59:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f355da1dd3fd636b49f0462e",
-      "isContinuation": false,
-      "titleZh": "WhatsApp聊天记录被用于犯罪和极端主义资金转移",
-      "summaryZh": "犯罪分子利用WhatsApp进行全球范围内的现金转移，且未留下任何纸质记录。这种隐蔽的洗钱方式引起了执法部门的高度关注。",
-      "whyImportant": "该现象揭示了加密通讯工具在非法金融活动中被滥用的安全风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d70bcd0a10fbb815",
-      "title": "‘Chilling effect’: Japan’s whistle-blowers weigh high price of speaking out",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/people/article/3365629/chilling-effect-japans-whistle-blowers-weigh-high-price-speaking-out?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T00:00:13.000Z",
-      "summary": "Yutaka Kato* knew there would be risks when he reported suspected misconduct by his employer to Japanese authorities. What he did not expect, he said, was a 47.88 million yen (US$300,000) damages claim from that employer – the Japanese subsidiary of US-listed medical device manufacturer STAAR Surgical – along with the prospect of years in court and the uncertainty of whether he would ever return to work. Kato is among a growing number of whistle-blowers in Japan who say laws meant to protect...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/people/article/3365629/chilling-effect-japans-whistle-blowers-weigh-high-price-speaking-out?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T00:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b6a63c94fa3b07e84eee3905",
-      "isContinuation": false,
-      "titleZh": "“寒蝉效应”：日本举报者面临高昂代价",
-      "summaryZh": "日本举报者加藤丰在向当局举报雇主不当行为后，遭到了涉事公司高达4788万日元的巨额索赔。这起案件凸显了日本举报者在法律保护不足的情况下，面临长期诉讼和职业生涯中断的风险。",
-      "whyImportant": "此事件引发了对日本举报人保护制度有效性的广泛质疑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3b7853e761505a61",
-      "title": "North Korea’s defence minister dismissed in reshuffle of military leadership",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3365724/north-koreas-defence-minister-dismissed-reshuffle-military-leadership?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T23:54:52.000Z",
-      "summary": "North Korea’s defence minister has been dismissed as part of a reshuffle of the country’s military leadership, state media reported on Sunday. The “structural reorganisation plans” were decided during a meeting on Saturday led by Kim Jong-un, the Korean Central News Agency (KCNA) said. No Kwang-chol was not only dismissed as defence minister but also demoted in the ruling party leadership to “first vice-director of the Munitions Industry Department”, KCNA said. Kim Song-gi, director of the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3365724/north-koreas-defence-minister-dismissed-reshuffle-military-leadership?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T23:54:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a5effbb18fb57a229b47f4aa",
-      "isContinuation": false,
-      "titleZh": "朝鲜国防部长在军事领导层改组中被免职",
-      "summaryZh": "据朝中社报道，朝鲜国防部长努光铁在金正恩主持的会议后被免职，并被降职为军需工业部第一副部长。此次人事变动是朝鲜军事领导层结构性重组的一部分。",
-      "whyImportant": "朝鲜高层的人事变动通常反映了该国军事战略或政治权力的调整。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b90896e898a3aad9",
-      "title": "China-Nepal floods: hundreds of foreigners missing in Tibet after disaster",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3365730/china-nepal-floods-hundreds-foreigners-missing-tibet-after-disaster?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T04:31:37.000Z",
-      "summary": "The Chinese authorities said on Sunday that 261 foreign citizens were missing after last week’s deadly floods along the border between Tibet and Nepal. The Tibetan authorities said that the missing foreigners were from 23 different countries and included 104 Nepalese citizens. They also included 49 from India; 33 Latvians; 18 from the United States; 15 from Britain; six each from Canada and Australia; four from South Africa; three each from Malaysia, Germany and Russia; two from Ireland,...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3365730/china-nepal-floods-hundreds-foreigners-missing-tibet-after-disaster?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T04:31:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "环境",
-        "公共安全"
+        "金融",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
       "score": 68,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "08b4e4a5e5e12a0b6ad89416",
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "军事"
+      ],
+      "fingerprint": "0ce2429ba34d99f08c71a54b",
       "isContinuation": false,
-      "titleZh": "中尼边境洪水：西藏地区数百名外国人失踪",
-      "summaryZh": "中国当局表示，上周中尼边境发生的致命洪水导致261名外国公民失踪。失踪者来自23个国家，其中包括尼泊尔、印度、拉脱维亚等国公民。",
-      "whyImportant": "此次灾难涉及多国公民，引发了国际社会对搜救进展的高度关注。",
+      "titleZh": "据报道以色列军队突袭纳布卢斯，两名巴勒斯坦人死亡",
+      "summaryZh": "现场画面显示，以色列军用车辆和人员已部署在被占领的约旦河西岸城市纳布卢斯。目前已有两名巴勒斯坦人在冲突中死亡的报告。",
+      "whyImportant": "约旦河西岸的持续冲突进一步加剧了巴以之间的紧张关系。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "de1b251d9b3d261a",
-      "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
+      "id": "6fbfb651cb591209",
+      "title": "Iran targets Jordan after first US attack in a month",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
-      "publishedAt": "2026-08-30T04:28:10.000Z",
-      "summary": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+      "publishedAt": "2026-08-31T03:06:56.000Z",
+      "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
-          "publishedAt": "2026-08-30T04:28:10.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+          "publishedAt": "2026-08-31T03:06:56.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "3db7b1e1f36d932a0b09bcda",
+      "isContinuation": false,
+      "titleZh": "美国一个月内首次袭击后，伊朗将目标对准约旦",
+      "summaryZh": "美国对拉拉克岛的设施发动了近一个月来的首次袭击。作为回应，伊朗对相关基地进行了反击。",
+      "whyImportant": "美伊双方的报复性打击行动增加了地区冲突失控的风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "07166988884ebd62",
+      "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
+      "publishedAt": "2026-08-31T04:00:17.000Z",
+      "summary": "As Russia hits another ammunition warehouse, killing at least 38, locals put blame on poorly placed depots It is a day and a half since a Russian jet-powered drone smashed into an ammunition dump in Myla, a village 15 miles outside central Kyiv. Volodymyr, 61, a security guard, leads visitors from his family’s badly damaged home, its roof blown off, back windows shattered, through the garden towards the impact site 300 metres away. The garden, like so many in Ukraine’s villages and suburbs, is a sizeable allotment. But today the greenhouse is shattered, a vegetable patch is blackened and crisp underfoot. Several metres of grapevine have been destroyed. Even so, Volodymyr finds two surviving bunches to hand to the Guardian. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
+          "publishedAt": "2026-08-31T04:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "4dbccd8a9e748a397df56603",
+      "isContinuation": false,
+      "titleZh": "“一切都被砸得粉碎”：乌克兰民众对在村庄附近储存武器的行为感到愤怒",
+      "summaryZh": "俄罗斯无人机袭击了基辅郊外米拉村的一个弹药库，造成至少38人死亡。当地居民对军方将弹药库设在居民区附近表示强烈不满，认为这种做法导致了平民财产受损和生命威胁。",
+      "whyImportant": "该事件凸显了乌克兰在战时军事部署与平民安全保护之间面临的严峻矛盾。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "371cb1b66643b81d",
+      "title": "Embattled Sydney property developer Bathla warns it could fold by the end of the week",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
+      "publishedAt": "2026-08-31T05:06:36.000Z",
+      "summary": "Administrators said it would be forced to close the business if it failed to secure additional funding, revealing hundreds of staff have not been paid for weeks The administrators of embattled property developer Bathla Group have said the company will fold by the end of the week unless they can secure additional funding to keep it afloat. The insolvency advisory Teneo assumed control of Bathla’s operations on 25 August after the Sydney-based construction company went into voluntary administration. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
+          "publishedAt": "2026-08-31T05:06:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "af76d44011651f2f17854ac3",
+      "isContinuation": false,
+      "titleZh": "陷入困境的悉尼房地产开发商Bathla警告称本周末可能倒闭",
+      "summaryZh": "悉尼建筑公司Bathla Group的破产管理人表示，除非能获得额外资金，否则公司将在本周末被迫关闭。目前该公司已有数百名员工数周未领到工资。",
+      "whyImportant": "此举引发了对当地建筑行业稳定性及员工权益保障的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cdc93fd130114af9",
+      "title": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T04:00:13.000Z",
+      "summary": "As Washington’s strategic focus shifts and energy and grain supply disruptions continue to unsettle the Middle East, Beijing’s expanding presence across Central Asia is expected to be in focus as Kyrgyzstan hosts the Shanghai Cooperation Organisation (SCO) summit this week. Chinese President Xi Jinping’s presence in Bishkek is expected to put the spotlight on whether the increasingly diverse grouping can move beyond diplomatic signalling, according to analysts. The SCO’s 25th anniversary summit...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T04:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "科技",
+        "能源"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a473dc5cfd659e072bb9b6ee",
+      "isContinuation": false,
+      "titleZh": "习近平出席比什凯克上合组织峰会，该组织如何契合中国25年来的欧亚战略？",
+      "summaryZh": "随着华盛顿战略重心转移及能源供应波动，北京在欧亚地区的布局备受关注。分析人士指出，此次峰会将聚焦上合组织能否在外交姿态之外，进一步深化区域合作。",
+      "whyImportant": "此次峰会是观察中国在欧亚地区地缘政治影响力和战略意图的重要窗口。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "220e88c45c7c6aae",
+      "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+      "publishedAt": "2026-08-31T04:18:23.000Z",
+      "summary": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+          "publishedAt": "2026-08-31T04:18:23.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1385,35 +1842,36 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全"
+        "外交",
+        "科技"
       ],
       "score": 62,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4e00c593786238a8cf94bcb6",
+      "fingerprint": "b1c1a3702d6832376eee8506",
       "isContinuation": false,
-      "titleZh": "空袭、征兵与中国因素：缅甸军方如何收复失地",
-      "summaryZh": "缅甸军方通过实施征兵政策、发动持续空袭以及获得中国支持，成功从反政府武装手中夺回了关键城镇。这一战略转变改变了当地的战局态势。",
-      "whyImportant": "缅甸军方重获优势可能对该国的内战进程及地区地缘政治产生深远影响。",
+      "titleZh": "俄中领导人将在上海合作组织峰会上会晤",
+      "summaryZh": "尽管上合组织并非正式的反西方联盟，但俄罗斯和中国领导人经常利用该平台阐述其世界观。此次峰会预计将进一步加强两国间的战略协调。",
+      "whyImportant": "俄中领导人的互动对全球地缘政治平衡具有重要影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b4d7bd4e5d422158",
-      "title": "Legal battle over Hong Kong tycoon Lim Por-yen’s HK$2.9b estate set to rumble on",
+      "id": "5632c98a36bc6e0d",
+      "title": "Backlash grows after Hong Kong authorities seize second ‘fighting dog’ in week",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365717/legal-battle-over-hong-kong-tycoon-lim-por-yens-hk29b-estate-set-rumble?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T04:00:12.000Z",
-      "summary": "A 15-year legal battle over late tycoon Lim Por-yen’s HK$2.9 billion (US$371.8 million) estate is set to continue, with rival parties preparing for further legal action after a Hong Kong court ruled that his third wife and children were entitled to inherit part of his estate. Lim’s estate lodged an appeal after losing the legal battle last year, while Pearl Ling Meng-chu, daughter of Lim’s third wife, told the South China Morning Post that she had not ruled out taking further action. “She is...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3365764/backlash-grows-after-hong-kong-authorities-seize-second-fighting-dog-week?utm_source=rss_feed",
+      "publishedAt": "2026-08-30T12:15:19.000Z",
+      "summary": "Hong Kong authorities are facing a growing backlash after seizing a “fighting dog” from its owner following a neighbour’s complaint and detaining it for behavioural evaluation. It was the second dog with pit bull lineage that the Agriculture, Fisheries and Conservation Department had seized in a week. The department’s actions came amid heightened public concern over canine management, following a series of recent attacks, including one in which a woman was mauled and later found dead, and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365717/legal-battle-over-hong-kong-tycoon-lim-por-yens-hk29b-estate-set-rumble?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T04:00:12.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3365764/backlash-grows-after-hong-kong-authorities-seize-second-fighting-dog-week?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T12:15:19.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1421,35 +1879,40 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "突发",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b710614e9db2396b606c5685",
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "2f4ac6417fd636c62009c20e",
       "isContinuation": false,
-      "titleZh": "香港大亨林百欣29亿港元遗产案法律纠纷持续",
-      "summaryZh": "围绕已故大亨林百欣29亿港元遗产的法律诉讼已持续15年，目前各方正准备进一步的法律行动。此前法院裁定其三房妻儿有权继承部分遗产，但遗产管理方已提出上诉。",
-      "whyImportant": "该案因涉及巨额资产和复杂的家族继承权，长期受到社会各界关注。",
+      "titleZh": "香港当局一周内查扣第二只“格斗犬”，引发舆论反弹",
+      "summaryZh": "香港渔农自然护理署因邻居投诉，查扣了一只被认定为“格斗犬”的狗并进行行为评估。这是该部门一周内第二次采取此类行动，引发了公众对犬只管理政策的争议。",
+      "whyImportant": "该事件反映了香港社会在公共安全与动物福利之间的舆论分歧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "52d7f0470d4755a8",
-      "title": "Is the Irtysh River the choke-free Arctic shipping gateway that China needs?",
+      "id": "1f2af77163afe6c9",
+      "title": "‘A warning saved my life’: can Hongkongers trust smartwatches, or are they being misled?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T22:00:13.000Z",
-      "summary": "As conflicts around the world highlight the vulnerability of global shipping lanes, China and Russia are reportedly weighing the possibility of turning a vast river into an inland cargo route to the rest of the world. At the heart of this ambition is the 4,248km (2,640-mile) Irtysh River, which originates in China’s western Xinjiang Uygur autonomous region and runs through Kazakhstan before flowing into Russia’s Ob River and ending in the Arctic Ocean. To China, this river-to-sea shipping route...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365718/warning-saved-my-life-can-hongkongers-trust-smartwatches-or-are-they-being-misled?utm_source=rss_feed",
+      "publishedAt": "2026-08-30T11:00:10.000Z",
+      "summary": "In the third instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Victor Ting examines how wearable devices are reshaping personal healthcare in the city, as experts caution that they should not replace professional medical advice. Alice Wong had little idea how seriously ill she might become until unusual patterns on her smartwatch prompted her to seek medical advice. A year ago, Wong, who was still in her twenties, had bought the device but paid...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T22:00:13.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365718/warning-saved-my-life-can-hongkongers-trust-smartwatches-or-are-they-being-misled?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T11:00:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1457,35 +1920,41 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "165a63bfa23e3530d9761996",
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "540c24c87e02ff6ec6f1c766",
       "isContinuation": false,
-      "titleZh": "额尔齐斯河会是中国所需的无瓶颈北极航运通道吗？",
-      "summaryZh": "面对全球航运风险，中国和俄罗斯正在探讨将额尔齐斯河开发为通往北冰洋的内陆货运航线。该航线若能打通，将为中国提供一条连接中亚与北极的战略物流通道。",
-      "whyImportant": "该项目若实现，将显著改变中国与俄罗斯及中亚地区的物流格局。",
+      "titleZh": "“警报救了我一命”：香港人能信任智能手表吗，还是被误导了？",
+      "summaryZh": "智能穿戴设备在香港健康管理中日益普及，一些用户通过设备监测到了潜在的健康问题。专家提醒，这些设备不能替代专业的医疗诊断，应谨慎对待其数据。",
+      "whyImportant": "随着可穿戴医疗技术的普及，公众对健康数据的依赖与医疗专业性之间的界限引发关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "43d008654c7b1314",
-      "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
-      "publishedAt": "2026-08-29T22:50:27.000Z",
-      "summary": "The 'Lake Ontario' sign comes in response to the US president's efforts to rename the body of water 'Lake America'.",
+      "id": "5f2085ff1e8aafc9",
+      "title": "Ukraine prepares for talks with Trump envoys as Kyiv reels from deadly strikes",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-30T18:19:13.000Z",
+      "summary": "Ukraine is preparing for a new round of talks with representatives of US President Donald Trump, President Volodymyr Zelensky announced Sunday, expressing hope that diplomacy can prevent open conflict from remaining the only path forward. “There will be more details tomorrow. We will do everything we can so that war does not remain the only option for how events unfold further,” Zelensky said in a televised address. “It is important that America shares many of our views on the situation”. US-led...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
-          "publishedAt": "2026-08-29T22:50:27.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T18:19:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1493,35 +1962,41 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "外交",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "91b76a74da681d7b7a64a0df",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "8a1ff47c06fe033e77328067",
       "isContinuation": false,
-      "titleZh": "安大略省省长道格·福特竖立标牌，拒绝美国总统将安大略湖更名为“美国湖”",
-      "summaryZh": "针对美国总统试图将安大略湖更名为“美国湖”的提议，加拿大安大略省省长道格·福特竖立标牌予以回击。此举表达了对美方更名企图的明确反对。",
-      "whyImportant": "这一象征性的对抗反映了美加两国在领土与地名主权问题上的敏感分歧。",
+      "titleZh": "乌克兰准备与特朗普特使进行会谈，基辅正从致命袭击中恢复",
+      "summaryZh": "乌克兰总统泽连斯基宣布，乌方正准备与美国总统特朗普的代表进行新一轮会谈。他表示希望通过外交手段寻求和平，避免战争成为唯一的选择。",
+      "whyImportant": "乌美双方的接触对于未来乌克兰冲突的走向具有关键意义。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4b4bc79084d31d9e",
-      "title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
+      "id": "44df3a4647f580a8",
+      "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
-      "publishedAt": "2026-08-29T16:03:37.000Z",
-      "summary": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen receive Congressional Space Medal of Honor The Artemis II astronauts who flew around the moon in April received the US’s highest space honor on Friday. Donald Trump presented the Congressional Space Medal of Honor to the three Americans and one Canadian whose lunar flyby for the US space agency Nasa set a new distance record for humanity. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+      "publishedAt": "2026-08-30T15:08:33.000Z",
+      "summary": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donald Trump, insisting the South American country will maintain ownership and sovereignty over its massive oil reserves. Rodríguez, who assumed power in January after Trump ordered the abduction of the president, Nicolás Maduro, took to the airwaves on Saturday to push back against criticism of what the US president has called “the biggest oil deal in world history”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
-          "publishedAt": "2026-08-29T16:03:37.000Z"
+          "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+          "publishedAt": "2026-08-30T15:08:33.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1530,36 +2005,36 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "科技",
+        "能源",
         "国际组织"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 56,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "3ebd3def3dd1ad0cb14dc859",
+      "fingerprint": "cfcaf78d8eaeaf9eda092549",
       "isContinuation": false,
-      "titleZh": "阿尔忒弥斯2号宇航员获颁美国最高航天荣誉",
-      "summaryZh": "阿尔忒弥斯2号的四名宇航员因成功完成绕月飞行任务，获颁美国国会航天荣誉勋章。该任务刷新了人类深空探测的距离纪录。",
-      "whyImportant": "此举表彰了宇航员在重返月球计划中的卓越贡献，并凸显了美国在载人航天领域的持续投入。",
+      "titleZh": "委内瑞拉德尔西·罗德里格斯为她与特朗普达成的“无尽”石油协议辩护",
+      "summaryZh": "委内瑞拉临时总统德尔西·罗德里格斯为该国与特朗普达成的能源协议辩护，坚称委内瑞拉仍拥有其石油储备的主权。该协议因涉及美国控制委内瑞拉650亿桶石油而引发国内强烈抗议。",
+      "whyImportant": "此协议引发了关于国家主权与能源控制权的重大争议，并加剧了委内瑞拉国内的政治紧张局势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "dc2db30838cb4e42",
-      "title": "US envoy’s Kashmir ‘part of India’ remark rattles Pakistan ties",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3365621/us-envoys-kashmir-part-india-remark-rattles-pakistan-ties?utm_source=rss_feed",
-      "publishedAt": "2026-08-29T07:00:13.000Z",
-      "summary": "Seven words, spoken almost in passing on a recent afternoon in Srinagar, have set off a diplomatic tremor across South Asia. “This is an important part of India,” Sergio Gor told reporters on August 19, during the first visit by a US ambassador to Indian-administered Jammu and Kashmir in six years. Within hours, Pakistan had summoned the top American diplomat in Islamabad, Natalie Baker, to deliver a formal protest. Kashmir, a disputed Himalayan region claimed in full by both India and Pakistan,...",
+      "id": "8ab9224bfbf78fdb",
+      "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+      "publishedAt": "2026-08-30T19:36:57.000Z",
+      "summary": "Tom Homan denies British far-right commentator, who was deported one day after arrest, got preferential treatment The White House “border czar,” Tom Homan, denied on Sunday that deporting British far-right commentator Milo Yiannopoulos just a day after being arrested by US Immigration and Customs Enforcement (ICE) amounted to preferential treatment. Homan said it was his understanding that Yiannopoulos, 41, had overstayed what he believed to be a visitor visa, had not appeared at an immigration hearing and was issued a final order of removal on 22 July. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3365621/us-envoys-kashmir-part-india-remark-rattles-pakistan-ties?utm_source=rss_feed",
-          "publishedAt": "2026-08-29T07:00:13.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+          "publishedAt": "2026-08-30T19:36:57.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1568,164 +2043,220 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "外交"
+        "国际组织"
       ],
-      "score": 45,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 55,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9f4e9a7e4e1cd929410a19ac",
+      "fingerprint": "604f4188102611cb872a3de3",
       "isContinuation": false,
-      "titleZh": "美国特使称克什米尔为“印度一部分”引发巴基斯坦不满",
-      "summaryZh": "美国大使塞尔吉奥·戈尔在访问印控克什米尔期间称该地区为“印度重要的一部分”，引发巴基斯坦政府的强烈抗议。巴方已就此言论召见美国外交官进行交涉。",
-      "whyImportant": "这一外交表态打破了美国在克什米尔主权争议上的传统立场，可能对美巴双边关系产生负面影响。",
+      "titleZh": "特朗普“边境沙皇”否认米洛·伊安诺波卢斯被迅速驱逐是为了让他免受移民局拘留",
+      "summaryZh": "白宫“边境沙皇”汤姆·霍曼否认英国极右翼评论员米洛·伊安诺波卢斯在被捕次日即被驱逐出境是享受了特殊待遇。霍曼表示，伊安诺波卢斯因逾期滞留且未出席移民听证会，已于7月22日被下达最终驱逐令。",
+      "whyImportant": "此事件引发了公众对移民执法程序公平性及是否存在政治优待的质疑。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4a9b891e0f837b66",
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "id": "f1acf504161f40da",
+      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "publishedAt": "2026-08-30T18:57:22.000Z",
+      "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario, with the Ontario premier erecting a giant sign saying “Lake Ontario. Now and Always” – and the American president posting a video of him tearing down an avatar of that sign, erecting a replacement saying Lake America, and dancing to YMCA. Rhetoric over the naming of Lake Ontario is the public face of an escalating trade dispute between the US and its northern neighbor involving a 50% US tariff on Canadian steel and retaliatory tariffs from Ottawa. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+          "publishedAt": "2026-08-30T18:57:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济"
+      ],
+      "score": 54,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8c1e410b0bf58ddf4099c25d",
+      "isContinuation": false,
+      "titleZh": "随着与特朗普关于名称的争端升级，加拿大竖起巨大的“安大略湖”标志",
+      "summaryZh": "特朗普与加拿大就安大略湖更名问题持续发生口角，特朗普发布视频展示其拆除安大略湖标志并替换为“美国湖”的过程。这一争端是美加两国因钢材关税引发的贸易战的公开表现。",
+      "whyImportant": "地名争端反映了美加两国在贸易政策上的深层矛盾，进一步加剧了双边外交紧张关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "003114e9efdac3cc",
+      "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
+      "publishedAt": "2026-08-30T17:16:52.000Z",
+      "summary": "Trump’s threat comes after host described success record of candidates whom president had endorsed as ‘mixed’ Donald Trump ⁠on Sunday said NBC’s Kristen ‌Welker – host of Meet the Press – should face “rebuke or punishment” from the Federal Communications Commission (FCC). Welker, during a live segment for a local Washington, DC, affiliate, described the success record of political candidates whom the president had endorsed as “mixed”. The segment aired prior to Sunday’s edition of Meet the Press. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
+          "publishedAt": "2026-08-30T17:16:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7a9672cecc1c45003d7a7fe9",
+      "isContinuation": false,
+      "titleZh": "特朗普称NBC的克里斯汀·威尔克应受到联邦通信委员会的“惩罚”",
+      "summaryZh": "特朗普因NBC主持人克里斯汀·威尔克称其背书的候选人表现“好坏参半”，公开要求联邦通信委员会对其进行惩罚。该言论出现在威尔克主持的《会见新闻界》节目播出前的一段直播中。",
+      "whyImportant": "总统对媒体报道的公开施压引发了关于新闻自由及政府干预媒体监管的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "80226a3cb4a833b4",
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T07:11:04.000Z",
-      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T03:56:15.000Z",
+      "summary": "A passenger ferry capsized and sank off Northern Cyprus Sunday, killing at least eight people and leaving more than a dozen missing, officials and media reports said, as police took the captain and seven crew members into custody. Several rescued passengers told local media a blast had gone off at the bow of the ferry before it rolled over, and said the boat had an insufficient supply of life-vests. The vessel capsized 6.5km (4 miles) off the coast of Cyprus, shortly after leaving a Northern...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-29T07:11:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 41,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0866122aba98aa0501541143",
-      "isContinuation": false,
-      "titleZh": "前白宫提词器操作员因利用演讲信息赌博被判赔偿17.2万美元",
-      "summaryZh": "一名白宫前工作人员被发现利用其提前获知的总统演讲内容进行非法博彩获利。法院已下令其支付17.2万美元的赔偿金。",
-      "whyImportant": "该案件揭示了政府内部人员利用职务之便获取内幕信息牟利的道德与法律风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "119419a603dd1239",
-      "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
-      "publishedAt": "2026-08-29T23:51:26.000Z",
-      "summary": "Plaskett fire has swept through more than 5,900 acres in Monterey county and remains un-contained, says Cal Fire A fire in California’s Big Sur region doubled in size overnight, forcing the evacuation of nearby residents, in a coastal region where firefighters have battled another blaze for weeks. The Plaskett fire, which sparked on Tuesday, had swept through more than 5,900 acres (2,400 hectares) in Monterey county as of Friday, and remained un-contained, according to Cal Fire. Its cause is under investigation. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
+          "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-31T03:56:15.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3365774/least-8-dead-22-missing-ferry-capsizes-northern-cyprus?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T16:43:28.000Z"
+        },
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
-          "publishedAt": "2026-08-29T23:51:26.000Z"
+          "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
+          "publishedAt": "2026-08-30T15:12:02.000Z"
         }
       ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "公共安全"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "98618cc84925c4e37b4f1b80",
-      "isContinuation": false,
-      "titleZh": "加州大苏尔地区山火一夜间规模翻倍，迫使居民撤离",
-      "summaryZh": "加州蒙特雷县的普拉斯凯特山火在短时间内迅速蔓延，过火面积已超过5900英亩且仍未得到控制。当地政府已下令周边居民紧急撤离。",
-      "whyImportant": "山火的快速蔓延对当地生态环境及居民生命财产安全构成了严重威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c6ed760fd94d6e8e",
-      "title": "Ukrainian nuclear power plant without external power for over a week",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
-      "publishedAt": "2026-08-29T23:25:07.000Z",
-      "summary": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
-          "publishedAt": "2026-08-29T23:25:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "80eed6d5af1e35c03730d831",
-      "isContinuation": false,
-      "titleZh": "乌克兰核电站外部电力中断已持续超过一周",
-      "summaryZh": "扎波罗热核电站自俄乌冲突爆发以来，第27次被迫依赖应急柴油发电机维持运行。目前该核电站已连续一周处于外部电力中断状态。",
-      "whyImportant": "核电站长期依赖应急电源增加了发生核安全事故的风险，引发国际社会对地区核安全的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "376a67534972f7cf",
-      "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
-      "publishedAt": "2026-08-30T04:50:17.000Z",
-      "summary": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
-          "publishedAt": "2026-08-30T04:50:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
+      "sourceCount": 3,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点"
       ],
-      "score": 51,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ece04a07ef28d4f250e24a0a",
+      "fingerprint": "6ab560910fc13c0bcfde7a9a",
       "isContinuation": false,
-      "titleZh": "美国阿肯色州警察在逮捕过程中拉扯嫌疑人头发并挥拳殴打",
-      "summaryZh": "一段视频显示，阿肯色州的一名州巡警在逮捕行动中对一名乘客实施了拉扯头发和挥拳殴打的行为。目前该事件引发了公众对执法过当的质疑。",
-      "whyImportant": "此事件再次引发了关于美国警察执法暴力及问责机制的社会讨论。",
+      "titleZh": "北塞浦路斯附近一艘渡轮倾覆，造成8人死亡，18人失踪",
+      "summaryZh": "一艘渡轮在北塞浦路斯海岸附近倾覆，导致至少8人死亡，多人失踪，警方已拘留船长及七名船员。幸存者称船头曾发生爆炸，且船上救生衣数量不足。",
+      "whyImportant": "这起严重的海上事故暴露了当地航运安全管理的重大漏洞，引发了对公共交通安全标准的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5de9cb0aa694b056",
+      "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+      "publishedAt": "2026-08-30T20:15:47.000Z",
+      "summary": "The exchange of attacks is the first flare-up in violence between the two sides since late July.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+          "publishedAt": "2026-08-30T20:15:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "06d6312884b43ed1c8a9ea6a",
+      "isContinuation": false,
+      "titleZh": "伊朗在美军袭击拉拉克岛后攻击约旦境内的美军基地",
+      "summaryZh": "伊朗对约旦境内的美军基地发动了攻击，这是双方自7月下旬以来首次爆发的暴力冲突。此次袭击是对美国此前打击拉拉克岛行动的回应。",
+      "whyImportant": "美伊之间军事冲突的升级增加了中东地区局势的不确定性与地缘政治风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e88b97a69121b9b9",
+      "title": "Trump calls for ‘punishment’ of NBC journalist over endorsement coverage",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
+      "publishedAt": "2026-08-30T19:37:37.000Z",
+      "summary": "US President Donald Trump on Sunday threatened a prominent NBC broadcast journalist with possible punishment by US media regulators as the Republican expressed disappointment with coverage of his candidate endorsements ahead of November’s midterm elections. Trump took to his Truth Social platform to attack Kristen Welker as the “unpopular ‘hostess’ of the once great Meet the Press” talk show. He objected to her having said the president had had “mixed results” on his endorsement of political...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
+          "publishedAt": "2026-08-30T19:37:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "979109c85eb27a3000cef00e",
+      "isContinuation": false,
+      "titleZh": "特朗普因背书报道要求“惩罚”NBC记者",
+      "summaryZh": "特朗普威胁要让媒体监管机构惩罚NBC记者克里斯汀·威尔克，因其在报道中称特朗普背书的候选人表现“好坏参半”。特朗普在社交平台上对该记者的报道表示不满。",
+      "whyImportant": "总统针对特定记者的言论再次引发了关于政治权力与媒体监督边界的争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
