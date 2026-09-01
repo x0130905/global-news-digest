@@ -1,212 +1,87 @@
 {
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-31T05:31:51.851Z",
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T05:05:47.410Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "security",
-    "name": "军事、安全与突发事件",
-    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
-    "query": "military security conflict breaking crisis",
+    "slug": "technology-energy",
+    "name": "科技、能源与产业",
+    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
+    "query": "technology artificial intelligence semiconductor energy industry",
     "keywords": [
-      "military",
-      "war",
-      "missile",
-      "security",
-      "attack",
-      "ceasefire",
-      "军事",
-      "战争",
-      "导弹",
-      "袭击",
-      "停火",
-      "突发"
+      "technology",
+      "artificial intelligence",
+      "semiconductor",
+      "space",
+      "energy",
+      "科技",
+      "人工智能",
+      "芯片",
+      "太空",
+      "能源"
     ],
-    "accent": "#f97316"
+    "accent": "#06b6d4"
   },
-  "overview": "今日专题“军事、安全与突发事件”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "77c755dad93a1169",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T04:54:32.000Z",
-      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-31T04:54:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 75,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a2a3530f0ac1ca80a65d5873",
-      "isContinuation": false,
-      "titleZh": "美国与伊朗数周来首次互相发动袭击",
-      "summaryZh": "伊朗表示，美国对拉拉克岛发动的袭击是自7月下旬以来的首次已知行动。此次袭击造成两人死亡，另有两人受伤。",
-      "whyImportant": "美伊之间军事冲突的升级加剧了中东地区的紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e6412fed858b49a3",
-      "title": "Australia news live: NSW won’t appeal ruling that found anti-Israel vandalism was not antisemitic; body of newborn baby found in bin in Sydney",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-      "publishedAt": "2026-08-31T05:08:16.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast The Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins, Matt Thistlethwaite says. Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table. Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he’s returned to Australia safely. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-          "publishedAt": "2026-08-31T05:08:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "eb96f1099eb2bae91ef6b343",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：新南威尔士州不会对反以色列涂鸦非反犹太主义的裁决提出上诉；悉尼垃圾桶内发现新生儿尸体",
-      "summaryZh": "澳大利亚政府正与俄罗斯官员合作，寻求释放被扣押的澳大利亚人奥斯卡·詹金斯。政府官员表示将尽力通过外交途径确保其安全返回。",
-      "whyImportant": "此事件涉及澳大利亚公民的海外安全及政府的外交斡旋能力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b9d7a2206106cdbd",
-      "title": "Man who murdered Molly Ticehurst will not face life in jail, judge says",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
-      "publishedAt": "2026-08-31T04:00:29.000Z",
-      "summary": "Justice Natalie Adams says she is troubled by expert evidence about rape allegations in slain woman’s police statement Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Molly Ticehurst’s ex-boyfriend will not face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered abuse. Ticehurst, a 28-year-old childcare educator, was found dead in her home at Forbes, in the New South Wales central-west, in the early hours of 22 April 2024. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
-          "publishedAt": "2026-08-31T04:00:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "9e3545c6a044da70995a0727",
-      "isContinuation": false,
-      "titleZh": "法官称谋杀莫莉·泰斯赫斯特的男子将不会被判终身监禁",
-      "summaryZh": "法官娜塔莉·亚当斯对受害者警方陈述中关于强奸指控的专家证据表示担忧。这起引发全国反性别暴力运动的谋杀案被告将不会面临终身监禁。",
-      "whyImportant": "该判决结果引发了公众对于家庭暴力案件量刑标准的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "208b0bbdff595720",
-      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+      "id": "40a0e21fef1c5312",
+      "title": "Former gang leader found guilty of Tupac Shakur’s 1996 murder",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "summary": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an 'imminent threat'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
+      "publishedAt": "2026-09-01T04:29:23.000Z",
+      "summary": "An ex-street gang leader accused of orchestrating the drive-by shooting death of hip-hop star Tupac Shakur three decades ago in Las Vegas was convicted of murder on Monday for his role in a long-unsolved crime that silenced one of rap music’s most influential voices. A jury in Clark County, Nevada, ‌deliberated for nearly three hours before finding Duane “Keffe D” Davis, 63, guilty of a single count of first-degree murder with a deadly weapon, capping an 11-day trial in a downtown Las Vegas...",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-          "publishedAt": "2026-08-31T00:00:00.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
+          "publishedAt": "2026-09-01T04:29:23.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365893/jury-hears-closing-arguments-tupac-shakur-murder-trial?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T18:16:10.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "attack",
-        "军事",
-        "突发"
+        "能源"
       ],
-      "fingerprint": "aeaa8cb564df17dbb427fa8a",
+      "fingerprint": "58836a435d5fb88bee5792bb",
       "isContinuation": false,
-      "titleZh": "伊朗战争直播：德黑兰称在美国袭击后袭击了约旦和阿联酋的基地",
-      "summaryZh": "美国中央司令部表示，美军轰炸了拉拉克岛上的两个伊朗伊斯兰革命卫队火箭发射器，称其构成了“迫在眉睫的威胁”。",
-      "whyImportant": "美伊军事对抗范围的扩大可能导致地区安全局势进一步恶化。",
+      "titleZh": "前帮派头目因图帕克·沙库尔1996年谋杀案被判有罪",
+      "summaryZh": "内华达州克拉克县陪审团裁定，63岁的前街头帮派头目杜安·“基夫·D”·戴维斯因策划了三十年前导致嘻哈巨星图帕克·沙库尔死亡的驾车枪击案而犯有一级谋杀罪。此案历时11天审理，终结了这起长期悬而未决的谋杀案。",
+      "whyImportant": "此判决为这起影响深远的嘻哈界谋杀案提供了法律定论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8bbefb16e261ba01",
-      "title": "China-Nepal floods, Japan to deploy fighter jets to India: 5 weekend reads you missed",
+      "id": "939f2dba77a59a77",
+      "title": "Couple who survived Tai Po fire await trial for fraud, cannot leave Hong Kong",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
-      "publishedAt": "2026-08-31T04:30:05.000Z",
-      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. What Japan’s coming fighter jet deployment to India means for China Japan plans to deploy fighter jets in India for the first time next month, a decision experts say reflects Tokyo’s desire to strengthen security cooperation with “like-minded” countries in the Indo-Pacific region as it ramps up...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365923/couple-who-survived-tai-po-fire-await-trial-fraud-cannot-leave-hong-kong?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:39:10.000Z",
+      "summary": "A couple who survived the deadly Tai Po blaze last year have been barred from leaving Hong Kong pending trial for allegedly obtaining more than HK$330,000 (US$42,000) in government-guaranteed loans by overstating the decline in revenue of their decoration business. Former Wang Fuk Court residents Jason Kong Cheung-fat, 65, and Rosanna Cheung Yeuk-lan, 62, appeared in Sha Tin Court on Tuesday to face two counts of fraud and one of money laundering. The couple were not required to enter a plea as...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
-          "publishedAt": "2026-08-31T04:30:05.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365923/couple-who-survived-tai-po-fire-await-trial-fraud-cannot-leave-hong-kong?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:39:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -215,81 +90,121 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "环境",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
       ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "security",
-        "军事"
+        "科技"
       ],
-      "fingerprint": "5ee2e3cf833cb9eb6ab9a8d3",
+      "fingerprint": "610577acf272a8b34efa5d68",
       "isContinuation": false,
-      "titleZh": "中尼洪水、日本向印度部署战斗机：你错过的5篇周末阅读",
-      "summaryZh": "本文汇总了近期亚洲及全球的重要新闻，包括日本计划首次向印度部署战斗机。专家认为此举旨在加强印太地区“志同道合”国家间的安全合作。",
-      "whyImportant": "日本的军事部署调整反映了印太地区安全格局的复杂变化。",
+      "titleZh": "大埔火灾幸存夫妇因涉嫌欺诈等待审判，被禁止离开香港",
+      "summaryZh": "去年大埔火灾的幸存者孔祥发和张若兰夫妇，因涉嫌夸大装饰业务收入以骗取超过33万港元的政府担保贷款，目前正面临欺诈及洗钱指控。法院已下令禁止两人离开香港，案件审理正在进行中。",
+      "whyImportant": "此案涉及对政府援助资金的滥用，引发了社会对公共财政监管的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e02838abf19b94f7",
-      "title": "NHS to offer free high-street cholesterol tests in England",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-      "publishedAt": "2026-08-31T05:00:16.000Z",
-      "summary": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or stroke The NHS in England is to offer free finger-prick blood tests for cholesterol on the high street for the first time under plans to reduce heart disease and stroke deaths by a quarter within the next decade. The seven-minute tests will be available at participating pharmacies as part of a national rollout to spot “ticking timebombs” earlier. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-          "publishedAt": "2026-08-31T05:00:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "aa5d0c22d31119eb6614a6ce",
-      "isContinuation": false,
-      "titleZh": "英国国家医疗服务体系（NHS）将在英格兰提供免费街头胆固醇检测",
-      "summaryZh": "英格兰的药店将为40至84岁的人群提供免费指尖采血胆固醇检测。此举旨在及早发现健康风险，以期在未来十年内将心脏病和中风死亡率降低四分之一。",
-      "whyImportant": "该公共卫生举措旨在通过早期筛查降低心血管疾病的死亡率。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e3e9c18e2c221276",
-      "title": "Pakistani nurse to be honoured for saving newborn from deadly hospital fire",
+      "id": "e74bf5047acc072f",
+      "title": "Chinese script evolved like a living organism driven by natural selection: study",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
-      "publishedAt": "2026-08-31T04:37:20.000Z",
-      "summary": "A Pakistani nurse who rescued the sole surviving newborn from a hospital nursery fire that killed 14 other infants will receive one of the country’s most prestigious civil awards. Fire engulfed Pakistan Institute of Medical Sciences, a major government hospital in Islamabad, on Wednesday. A 51-second segment of CCTV footage, widely circulated online, captures Razia Noreen running into the burning nursery and emerging seconds later with the newborn in her arms. She tries to go back in, but cannot...",
+      "url": "https://www.scmp.com/news/china/science/article/3365849/chinese-script-evolved-living-organism-driven-natural-selection-study?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:00:05.000Z",
+      "summary": "Modern simplified Chinese characters form a tightly connected network from just 514 basic components that evolved through a process similar to natural selection, according to researchers who say their findings could change how Chinese writing is taught. “Chinese characters evolve like living organisms,” lecturer Xie Yonghui of Shanghai Normal University said on August 24. The research into the evolution of Chinese writing over thousands of years, led by Huang Wei, of Beijing Language and Culture...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
-          "publishedAt": "2026-08-31T04:37:20.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3365849/chinese-script-evolved-living-organism-driven-natural-selection-study?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:00:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "科技"
+      ],
+      "fingerprint": "1bb70b852b40d4474ee3a672",
+      "isContinuation": false,
+      "titleZh": "研究发现汉字演变如同受自然选择驱动的生命体",
+      "summaryZh": "研究人员发现，现代简化汉字是由514个基本构件组成的紧密网络，其演变过程类似于自然选择。这一发现可能改变汉字的教学方式，揭示了汉字在数千年间自我进化的规律。",
+      "whyImportant": "该研究为理解汉字系统的复杂性及其演化机制提供了全新的科学视角。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "118c8c5cf2d8ea02",
+      "title": "Asian healthcare deals heat up as investors bet big on brain tech and surgical robotics",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/banking-finance/article/3365928/asian-healthcare-deals-heat-investors-bet-big-brain-tech-and-surgical-robotics?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T05:00:17.000Z",
+      "summary": "Private investors in Asia, including family offices operating in Hong Kong, are showing a growing appetite for advanced medical technologies such as brain-computer interfaces and surgical robotics, as healthcare deal activity picks up across the region amid China’s biotechnology boom. “Asia is ageing, so there’s a structural, long-term demand for better surgery and medicine,” said William Chow, deputy group CEO of Raffles Family Office, headquartered in Hong Kong and Singapore. “A lot of the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3365928/asian-healthcare-deals-heat-investors-bet-big-brain-tech-and-surgical-robotics?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T05:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "f0f25679aa7383e2d049e984",
+      "isContinuation": false,
+      "titleZh": "随着投资者押注脑机接口和手术机器人，亚洲医疗保健交易升温",
+      "summaryZh": "受亚洲人口老龄化带来的长期医疗需求驱动，包括香港家族办公室在内的私人投资者正加大对脑机接口和手术机器人等先进医疗技术的投入。随着中国生物技术行业的繁荣，该地区的医疗保健投资活动日益活跃。",
+      "whyImportant": "医疗科技领域的资本涌入反映了亚洲市场对提升医疗效率和应对老龄化挑战的迫切需求。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8e5ca5938663ad60",
+      "title": "South Korea sets record US$600 billion budget, backed by chip windfall",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3365922/south-korea-sets-record-us600-billion-budget-backed-chip-windfall?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:18:23.000Z",
+      "summary": "South Korea on Tuesday unveiled its most aggressive financial spending plan on record, setting total government expenditure for 2027 at 821 trillion won (US$600 billion) to strengthen the country’s technological edge amid the global AI race. In its annual budget proposal, the budget ministry said the spending plan ‌represented a 12.8 per cent rise from 2026, marking the largest year-on-year increase in the country’s history. The proposal signals a shift in Asia’s fourth-largest economy under...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3365922/south-korea-sets-record-us600-billion-budget-backed-chip-windfall?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:18:23.000Z"
         }
       ],
       "sourceCount": 1,
@@ -298,40 +213,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "科技"
       ],
-      "fingerprint": "55cb342a968f0210e750b38b",
+      "fingerprint": "1c03fe6035d9b9e7b2ed8ac1",
       "isContinuation": false,
-      "titleZh": "巴基斯坦护士因从致命医院火灾中救出新生儿而获表彰",
-      "summaryZh": "一名巴基斯坦护士在伊斯兰堡一家医院的火灾中，冒死救出了唯一的幸存新生儿。她将因此获得该国最高级别的平民奖项之一。",
-      "whyImportant": "此举表彰了在灾难中表现出的英勇行为，并引发了对医院安全标准的关注。",
+      "titleZh": "韩国制定6000亿美元创纪录预算，得益于芯片行业收益",
+      "summaryZh": "韩国政府公布了2027年821万亿韩元（约6000亿美元）的创纪录支出计划，旨在全球人工智能竞赛中加强技术优势。该预算较2026年增长12.8%，为该国历史上最大年度增幅。",
+      "whyImportant": "此举标志着韩国政府正通过大规模财政投入以巩固其在全球科技竞争中的地位。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c46e2f8ab782d8ed",
-      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "id": "82f6bbe3cca3177e",
+      "title": "John Ternus to lead Apple into the age of AI",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
-      "publishedAt": "2026-08-31T03:08:35.000Z",
-      "summary": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+      "publishedAt": "2026-09-01T03:20:25.000Z",
+      "summary": "Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
-          "publishedAt": "2026-08-31T03:08:35.000Z"
+          "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+          "publishedAt": "2026-09-01T03:20:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -341,250 +255,167 @@
       "tags": [
         "全球焦点",
         "金融",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "military",
-        "军事"
+        "科技"
       ],
-      "fingerprint": "0ce2429ba34d99f08c71a54b",
+      "fingerprint": "1201c776b6ac1a7759a0e215",
       "isContinuation": false,
-      "titleZh": "据报道以色列军队突袭纳布卢斯，两名巴勒斯坦人死亡",
-      "summaryZh": "现场画面显示，以色列军用车辆和人员已部署在被占领的约旦河西岸城市纳布卢斯。目前已有两名巴勒斯坦人在冲突中死亡的报告。",
-      "whyImportant": "约旦河西岸的持续冲突进一步加剧了巴以之间的紧张关系。",
+      "titleZh": "约翰·特努斯将带领苹果进入人工智能时代",
+      "summaryZh": "即将上任的首席执行官约翰·特努斯将接管一家在智能手机市场占据领先地位，但在人工智能领域落后于竞争对手的公司。他面临着如何推动苹果在AI领域实现追赶的挑战。",
+      "whyImportant": "苹果公司的人事变动标志着其战略重心将进一步向人工智能领域倾斜。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1d7a7d20c23bc300",
+      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+      "publishedAt": "2026-09-01T00:15:22.000Z",
+      "summary": "Economic grievances persist while space for dissent has narrowed under President Kais Saied.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+          "publishedAt": "2026-09-01T00:15:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "67204dcf8b19374b62c9b8f0",
+      "isContinuation": false,
+      "titleZh": "赛义德夺权五年后，突尼斯旧怨重现",
+      "summaryZh": "在总统凯斯·赛义德的统治下，突尼斯的经济困境持续存在，且异见空间不断缩小。民众对现状的不满情绪日益增长，旧有的社会矛盾再次浮出水面。",
+      "whyImportant": "突尼斯国内政治与经济环境的恶化引发了外界对其社会稳定性的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2592016c4b2110e5",
+      "title": "Thirty years of waiting, a memoir and a trial: conviction in Tupac Shakur killing brings closure",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis",
+      "publishedAt": "2026-09-01T01:57:13.000Z",
+      "summary": "A Las Vegas jury on Monday found Duane ‘Keffe D’ Davis guilty in the 1996 murder of the hip-hop icon Jury finds Duane Davis guilty of murder of Tupac Shakur Thirty years after the killing of Tupac Shakur, conspiracy theories and rumors about the perpetrator’s identity, one man has now been held criminally responsible for the rap icon’s death. A Las Vegas jury convicted Duane “Keffe D” Davis, a 63-year-old former South Side Compton Crips gang leader, of murder for his role in the drive-by shooting. During the two-week long trial, prosecutors argued Davis was the “on-the-ground, on-site commander of the effort to kill Tupac” and had sought revenge after the musician was involved in a fight with his nephew, Orlando “Baby Lane” Anderson. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis",
+          "publishedAt": "2026-09-01T01:57:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "8c8378645a14fca689512479",
+      "isContinuation": false,
+      "titleZh": "三十年的等待、回忆录与审判：图帕克·沙库尔谋杀案定罪带来终结",
+      "summaryZh": "拉斯维加斯陪审团裁定前帮派头目杜安·戴维斯因参与1996年嘻哈巨星图帕克·沙库尔的谋杀案而罪名成立。经过两周的审判，检方证实戴维斯是该起驾车枪击案的现场指挥者，此判决为这桩悬而未决三十年的案件画上了句号。",
+      "whyImportant": "这起历史性判决终结了围绕这位传奇说唱歌手死亡真相长达数十年的猜测与阴谋论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "77c755dad93a1169",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T04:54:32.000Z",
-      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-31T04:54:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 75,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a2a3530f0ac1ca80a65d5873",
-      "isContinuation": false,
-      "titleZh": "美国与伊朗数周来首次互相发动袭击",
-      "summaryZh": "伊朗表示，美国对拉拉克岛发动的袭击是自7月下旬以来的首次已知行动。此次袭击造成两人死亡，另有两人受伤。",
-      "whyImportant": "美伊之间军事冲突的升级加剧了中东地区的紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e6412fed858b49a3",
-      "title": "Australia news live: NSW won’t appeal ruling that found anti-Israel vandalism was not antisemitic; body of newborn baby found in bin in Sydney",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-      "publishedAt": "2026-08-31T05:08:16.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast The Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins, Matt Thistlethwaite says. Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table. Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he’s returned to Australia safely. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-          "publishedAt": "2026-08-31T05:08:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "eb96f1099eb2bae91ef6b343",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：新南威尔士州不会对反以色列涂鸦非反犹太主义的裁决提出上诉；悉尼垃圾桶内发现新生儿尸体",
-      "summaryZh": "澳大利亚政府正与俄罗斯官员合作，寻求释放被扣押的澳大利亚人奥斯卡·詹金斯。政府官员表示将尽力通过外交途径确保其安全返回。",
-      "whyImportant": "此事件涉及澳大利亚公民的海外安全及政府的外交斡旋能力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b9d7a2206106cdbd",
-      "title": "Man who murdered Molly Ticehurst will not face life in jail, judge says",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
-      "publishedAt": "2026-08-31T04:00:29.000Z",
-      "summary": "Justice Natalie Adams says she is troubled by expert evidence about rape allegations in slain woman’s police statement Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Molly Ticehurst’s ex-boyfriend will not face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered abuse. Ticehurst, a 28-year-old childcare educator, was found dead in her home at Forbes, in the New South Wales central-west, in the early hours of 22 April 2024. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
-          "publishedAt": "2026-08-31T04:00:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "9e3545c6a044da70995a0727",
-      "isContinuation": false,
-      "titleZh": "法官称谋杀莫莉·泰斯赫斯特的男子将不会被判终身监禁",
-      "summaryZh": "法官娜塔莉·亚当斯对受害者警方陈述中关于强奸指控的专家证据表示担忧。这起引发全国反性别暴力运动的谋杀案被告将不会面临终身监禁。",
-      "whyImportant": "该判决结果引发了公众对于家庭暴力案件量刑标准的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "208b0bbdff595720",
-      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+      "id": "40a0e21fef1c5312",
+      "title": "Former gang leader found guilty of Tupac Shakur’s 1996 murder",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "summary": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an 'imminent threat'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
+      "publishedAt": "2026-09-01T04:29:23.000Z",
+      "summary": "An ex-street gang leader accused of orchestrating the drive-by shooting death of hip-hop star Tupac Shakur three decades ago in Las Vegas was convicted of murder on Monday for his role in a long-unsolved crime that silenced one of rap music’s most influential voices. A jury in Clark County, Nevada, ‌deliberated for nearly three hours before finding Duane “Keffe D” Davis, 63, guilty of a single count of first-degree murder with a deadly weapon, capping an 11-day trial in a downtown Las Vegas...",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-          "publishedAt": "2026-08-31T00:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "aeaa8cb564df17dbb427fa8a",
-      "isContinuation": false,
-      "titleZh": "伊朗战争直播：德黑兰称在美国袭击后袭击了约旦和阿联酋的基地",
-      "summaryZh": "美国中央司令部表示，美军轰炸了拉拉克岛上的两个伊朗伊斯兰革命卫队火箭发射器，称其构成了“迫在眉睫的威胁”。",
-      "whyImportant": "美伊军事对抗范围的扩大可能导致地区安全局势进一步恶化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e02838abf19b94f7",
-      "title": "NHS to offer free high-street cholesterol tests in England",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-      "publishedAt": "2026-08-31T05:00:16.000Z",
-      "summary": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or stroke The NHS in England is to offer free finger-prick blood tests for cholesterol on the high street for the first time under plans to reduce heart disease and stroke deaths by a quarter within the next decade. The seven-minute tests will be available at participating pharmacies as part of a national rollout to spot “ticking timebombs” earlier. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
+          "publishedAt": "2026-09-01T04:29:23.000Z"
+        },
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-          "publishedAt": "2026-08-31T05:00:16.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365893/jury-hears-closing-arguments-tupac-shakur-murder-trial?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T18:16:10.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
-        "突发"
+        "能源"
       ],
-      "fingerprint": "aa5d0c22d31119eb6614a6ce",
+      "fingerprint": "58836a435d5fb88bee5792bb",
       "isContinuation": false,
-      "titleZh": "英国国家医疗服务体系（NHS）将在英格兰提供免费街头胆固醇检测",
-      "summaryZh": "英格兰的药店将为40至84岁的人群提供免费指尖采血胆固醇检测。此举旨在及早发现健康风险，以期在未来十年内将心脏病和中风死亡率降低四分之一。",
-      "whyImportant": "该公共卫生举措旨在通过早期筛查降低心血管疾病的死亡率。",
+      "titleZh": "前帮派头目因图帕克·沙库尔1996年谋杀案被判有罪",
+      "summaryZh": "内华达州克拉克县陪审团裁定，63岁的前街头帮派头目杜安·“基夫·D”·戴维斯因策划了三十年前导致嘻哈巨星图帕克·沙库尔死亡的驾车枪击案而犯有一级谋杀罪。此案历时11天审理，终结了这起长期悬而未决的谋杀案。",
+      "whyImportant": "此判决为这起影响深远的嘻哈界谋杀案提供了法律定论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e3e9c18e2c221276",
-      "title": "Pakistani nurse to be honoured for saving newborn from deadly hospital fire",
+      "id": "4e6b57ef05a887b9",
+      "title": "Australia’s biggest property downturn since pandemic threatens economic growth",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
-      "publishedAt": "2026-08-31T04:37:20.000Z",
-      "summary": "A Pakistani nurse who rescued the sole surviving newborn from a hospital nursery fire that killed 14 other infants will receive one of the country’s most prestigious civil awards. Fire engulfed Pakistan Institute of Medical Sciences, a major government hospital in Islamabad, on Wednesday. A 51-second segment of CCTV footage, widely circulated online, captures Razia Noreen running into the burning nursery and emerging seconds later with the newborn in her arms. She tries to go back in, but cannot...",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3365916/australias-biggest-property-downturn-pandemic-threatens-economic-growth?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T03:18:52.000Z",
+      "summary": "Australian home prices fell for a fifth month in August in the biggest downturn since the pandemic, and there is further pain ahead as stubborn inflation puts upward pressure on interest rates. Figures from property consultant Cotality released on Tuesday showed national home prices fell 0.9 per cent in August from July, when they dropped 1.2 per cent. Sydney ‌and Melbourne again led the monthly decline with falls of 1.4 per cent and 1.1 per cent, leaving prices down about 7 per cent from their...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
-          "publishedAt": "2026-08-31T04:37:20.000Z"
+          "url": "https://www.scmp.com/news/asia/australasia/article/3365916/australias-biggest-property-downturn-pandemic-threatens-economic-growth?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T03:18:52.000Z"
         }
       ],
       "sourceCount": 1,
@@ -593,40 +424,154 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "金融",
+        "军事与安全"
       ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "55cb342a968f0210e750b38b",
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5b13465db8af2ff93600440d",
       "isContinuation": false,
-      "titleZh": "巴基斯坦护士因从致命医院火灾中救出新生儿而获表彰",
-      "summaryZh": "一名巴基斯坦护士在伊斯兰堡一家医院的火灾中，冒死救出了唯一的幸存新生儿。她将因此获得该国最高级别的平民奖项之一。",
-      "whyImportant": "此举表彰了在灾难中表现出的英勇行为，并引发了对医院安全标准的关注。",
+      "titleZh": "澳大利亚经历疫情以来最大房地产低迷，威胁经济增长",
+      "summaryZh": "受持续通胀和利率上升压力影响，澳大利亚8月份房价连续第五个月下跌，创下疫情以来的最大跌幅。悉尼和墨尔本领跌，全国房价较峰值已下跌约7%。",
+      "whyImportant": "房地产市场的持续疲软可能对澳大利亚的整体经济增长前景构成重大挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c46e2f8ab782d8ed",
-      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
-      "publishedAt": "2026-08-31T03:08:35.000Z",
-      "summary": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+      "id": "589602d5fff721f7",
+      "title": "Ex-official among 33,019 who failed to complete eTAX filings amid unclear wording",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3365925/ex-official-among-33019-who-failed-complete-etax-filings-amid-unclear-wording?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:50:54.000Z",
+      "summary": "More than 33,000 people failed to submit completed tax returns because of unclear wording in Hong Kong’s eTAX system, the ombudsman has found, with nearly 5,200 receiving penalty notices and two prosecuted. Dr Luk Che-chung, a former chief executive of the Hospital Authority’s Hong Kong East area, was among the affected taxpayers and urged the government on Tuesday to learn from the incident. In a report released on Monday, the Office of the Ombudsman said ambiguous instructions on the eTAX...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
-          "publishedAt": "2026-08-31T03:08:35.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3365925/ex-official-among-33019-who-failed-complete-etax-filings-amid-unclear-wording?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:50:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1936382307f59011cf4982b1",
+      "isContinuation": false,
+      "titleZh": "因系统表述不清，超3.3万名纳税人未能完成电子报税，其中包括一名前官员",
+      "summaryZh": "香港申诉专员公署报告称，由于电子报税系统（eTAX）说明模糊，超过3.3万名纳税人未能完成申报，其中近5200人收到罚款通知，两人被起诉。前医院管理局高管卢志忠亦受此影响，呼吁政府吸取教训。",
+      "whyImportant": "该事件暴露了政府电子服务系统在用户体验和指引清晰度方面的不足。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8e5ca5938663ad60",
+      "title": "South Korea sets record US$600 billion budget, backed by chip windfall",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3365922/south-korea-sets-record-us600-billion-budget-backed-chip-windfall?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:18:23.000Z",
+      "summary": "South Korea on Tuesday unveiled its most aggressive financial spending plan on record, setting total government expenditure for 2027 at 821 trillion won (US$600 billion) to strengthen the country’s technological edge amid the global AI race. In its annual budget proposal, the budget ministry said the spending plan ‌represented a 12.8 per cent rise from 2026, marking the largest year-on-year increase in the country’s history. The proposal signals a shift in Asia’s fourth-largest economy under...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3365922/south-korea-sets-record-us600-billion-budget-backed-chip-windfall?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:18:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "科技"
+      ],
+      "fingerprint": "1c03fe6035d9b9e7b2ed8ac1",
+      "isContinuation": false,
+      "titleZh": "韩国制定6000亿美元创纪录预算，得益于芯片行业收益",
+      "summaryZh": "韩国政府公布了2027年821万亿韩元（约6000亿美元）的创纪录支出计划，旨在全球人工智能竞赛中加强技术优势。该预算较2026年增长12.8%，为该国历史上最大年度增幅。",
+      "whyImportant": "此举标志着韩国政府正通过大规模财政投入以巩固其在全球科技竞争中的地位。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2cfde9e9aa9a8cac",
+      "title": "John Healey invites October budget ideas from Treasury staff of all levels",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/john-healey-invites-october-budget-ideas-from-treasury-staff-of-all-levels",
+      "publishedAt": "2026-09-01T04:00:45.000Z",
+      "summary": "Chancellor says he wants everyone from apprentices to senior economists to take part in brainstorming exercise John Healey has asked junior Treasury staff – including IT workers and apprentices – to send him ideas for his October budget, saying he will listen to all suggestions regardless of grade or profession. The chancellor’s unorthodox approach comes as he faces a tricky autumn with expected inflation rises, sluggish growth and potential cuts from other departments to fund extra defence spending. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/sep/01/john-healey-invites-october-budget-ideas-from-treasury-staff-of-all-levels",
+          "publishedAt": "2026-09-01T04:00:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "环境"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1086873994135b7852ebe919",
+      "isContinuation": false,
+      "titleZh": "约翰·希利邀请财政部各级员工为十月预算案提供建议",
+      "summaryZh": "英国财政大臣约翰·希利邀请包括实习生和IT人员在内的全体财政部员工，为十月份的预算案贡献想法。此举旨在应对通胀上升、增长缓慢及国防支出增加带来的财政压力。",
+      "whyImportant": "这种非传统的咨询方式反映了政府在面对严峻经济挑战时寻求广泛内部共识的尝试。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bf17d9ba2f80bb8c",
+      "title": "Child trust fund firms face review over efforts to find who owns £1.5bn worth of pots",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/money/2026/sep/01/child-trust-fund-firms-face-review-over-efforts-to-find-who-owns-15bn-worth-of-pots",
+      "publishedAt": "2026-09-01T04:00:45.000Z",
+      "summary": "Exclusive: FCA pressures firms to do more to sort 760,000 accounts as watchdog urges families to use free tracking service Child trust fund providers are being put under the spotlight to check they are treating savers fairly and doing all they can to reunite young people with lost accounts. The Financial Conduct Authority (FCA) said about 760,000 accounts worth an average of £2,000 were yet to be claimed – more than £1.5bn in total – as it launched a review of the market. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/money/2026/sep/01/child-trust-fund-firms-face-review-over-efforts-to-find-who-owns-15bn-worth-of-pots",
+          "publishedAt": "2026-09-01T04:00:45.000Z"
         }
       ],
       "sourceCount": 1,
@@ -636,39 +581,35 @@
       "tags": [
         "全球焦点",
         "金融",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "军事"
-      ],
-      "fingerprint": "0ce2429ba34d99f08c71a54b",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6bdd0be90665d2dbad14e119",
       "isContinuation": false,
-      "titleZh": "据报道以色列军队突袭纳布卢斯，两名巴勒斯坦人死亡",
-      "summaryZh": "现场画面显示，以色列军用车辆和人员已部署在被占领的约旦河西岸城市纳布卢斯。目前已有两名巴勒斯坦人在冲突中死亡的报告。",
-      "whyImportant": "约旦河西岸的持续冲突进一步加剧了巴以之间的紧张关系。",
+      "titleZh": "儿童信托基金公司面临审查，涉及15亿英镑无人认领账户",
+      "summaryZh": "英国金融行为监管局（FCA）正对儿童信托基金提供商展开审查，以确保其公平对待储户并帮助年轻人找回遗失账户。目前约有76万个账户处于无人认领状态，总金额超过15亿英镑。",
+      "whyImportant": "监管机构的介入旨在保护年轻储户的资产权益，并提高金融服务的透明度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6fbfb651cb591209",
-      "title": "Iran targets Jordan after first US attack in a month",
+      "id": "82f6bbe3cca3177e",
+      "title": "John Ternus to lead Apple into the age of AI",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
-      "publishedAt": "2026-08-31T03:06:56.000Z",
-      "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
+      "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+      "publishedAt": "2026-09-01T03:20:25.000Z",
+      "summary": "Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
-          "publishedAt": "2026-08-31T03:06:56.000Z"
+          "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+          "publishedAt": "2026-09-01T03:20:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -677,39 +618,118 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "金融",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
+        "科技"
+      ],
+      "fingerprint": "1201c776b6ac1a7759a0e215",
+      "isContinuation": false,
+      "titleZh": "约翰·特努斯将带领苹果进入人工智能时代",
+      "summaryZh": "即将上任的首席执行官约翰·特努斯将接管一家在智能手机市场占据领先地位，但在人工智能领域落后于竞争对手的公司。他面临着如何推动苹果在AI领域实现追赶的挑战。",
+      "whyImportant": "苹果公司的人事变动标志着其战略重心将进一步向人工智能领域倾斜。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1d7a7d20c23bc300",
+      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+      "publishedAt": "2026-09-01T00:15:22.000Z",
+      "summary": "Economic grievances persist while space for dissent has narrowed under President Kais Saied.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+          "publishedAt": "2026-09-01T00:15:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "67204dcf8b19374b62c9b8f0",
+      "isContinuation": false,
+      "titleZh": "赛义德夺权五年后，突尼斯旧怨重现",
+      "summaryZh": "在总统凯斯·赛义德的统治下，突尼斯的经济困境持续存在，且异见空间不断缩小。民众对现状的不满情绪日益增长，旧有的社会矛盾再次浮出水面。",
+      "whyImportant": "突尼斯国内政治与经济环境的恶化引发了外界对其社会稳定性的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c7efedbfe85ac782",
+      "title": "NSW top prosecutor Sally Dowling and state attorney general discussed which barristers could review her office, estimates hears",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/01/nsw-prosecutor-sally-dowling-discussed-barristers-attorney-general-dpp-ntwnfb",
+      "publishedAt": "2026-09-01T03:18:58.000Z",
+      "summary": "Sally Dowling tells budget estimates that Michael Daley called to tell her he was appointing a senior counsel and ‘raised quite a number of names’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The top prosecutor in NSW says she discussed a list of barristers to lead an independent review into controversial findings against her office with the state’s attorney general, before he appointed someone she had known “professionally and socially” for nearly 30 years. Last month, a state parliamentary committee voted 4-3 to find that the New South Wales director of public prosecutions (DPP), Sally Dowling SC, had given false evidence about the pitching of a story about an Indigenous child performing an acknowledgement of country at a sentencing hearing to radio station 2GB. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/01/nsw-prosecutor-sally-dowling-discussed-barristers-attorney-general-dpp-ntwnfb",
+          "publishedAt": "2026-09-01T03:18:58.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
         "突发"
       ],
-      "fingerprint": "3db7b1e1f36d932a0b09bcda",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d59900dfd21086a1a2167130",
       "isContinuation": false,
-      "titleZh": "美国一个月内首次袭击后，伊朗将目标对准约旦",
-      "summaryZh": "美国对拉拉克岛的设施发动了近一个月来的首次袭击。作为回应，伊朗对相关基地进行了反击。",
-      "whyImportant": "美伊双方的报复性打击行动增加了地区冲突失控的风险。",
+      "titleZh": "新南威尔士州首席检察官萨莉·道林与州总检察长讨论了由谁来审查其办公室",
+      "summaryZh": "新南威尔士州首席检察官萨莉·道林在预算评估中透露，她曾与州总检察长讨论过负责对其办公室进行独立审查的律师人选。最终被任命的律师与道林有着近30年的职业和私人交情，此前她因被指控在议会作伪证而面临审查。",
+      "whyImportant": "此事件引发了公众对司法审查独立性及政府任命程序透明度的质疑。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "07166988884ebd62",
-      "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
+      "id": "2592016c4b2110e5",
+      "title": "Thirty years of waiting, a memoir and a trial: conviction in Tupac Shakur killing brings closure",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
-      "publishedAt": "2026-08-31T04:00:17.000Z",
-      "summary": "As Russia hits another ammunition warehouse, killing at least 38, locals put blame on poorly placed depots It is a day and a half since a Russian jet-powered drone smashed into an ammunition dump in Myla, a village 15 miles outside central Kyiv. Volodymyr, 61, a security guard, leads visitors from his family’s badly damaged home, its roof blown off, back windows shattered, through the garden towards the impact site 300 metres away. The garden, like so many in Ukraine’s villages and suburbs, is a sizeable allotment. But today the greenhouse is shattered, a vegetable patch is blackened and crisp underfoot. Several metres of grapevine have been destroyed. Even so, Volodymyr finds two surviving bunches to hand to the Guardian. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis",
+      "publishedAt": "2026-09-01T01:57:13.000Z",
+      "summary": "A Las Vegas jury on Monday found Duane ‘Keffe D’ Davis guilty in the 1996 murder of the hip-hop icon Jury finds Duane Davis guilty of murder of Tupac Shakur Thirty years after the killing of Tupac Shakur, conspiracy theories and rumors about the perpetrator’s identity, one man has now been held criminally responsible for the rap icon’s death. A Las Vegas jury convicted Duane “Keffe D” Davis, a 63-year-old former South Side Compton Crips gang leader, of murder for his role in the drive-by shooting. During the two-week long trial, prosecutors argued Davis was the “on-the-ground, on-site commander of the effort to kill Tupac” and had sought revenge after the musician was involved in a fight with his nephew, Orlando “Baby Lane” Anderson. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
-          "publishedAt": "2026-08-31T04:00:17.000Z"
+          "url": "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis",
+          "publishedAt": "2026-09-01T01:57:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -718,203 +738,40 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "security",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "4dbccd8a9e748a397df56603",
+      "fingerprint": "8c8378645a14fca689512479",
       "isContinuation": false,
-      "titleZh": "“一切都被砸得粉碎”：乌克兰民众对在村庄附近储存武器的行为感到愤怒",
-      "summaryZh": "俄罗斯无人机袭击了基辅郊外米拉村的一个弹药库，造成至少38人死亡。当地居民对军方将弹药库设在居民区附近表示强烈不满，认为这种做法导致了平民财产受损和生命威胁。",
-      "whyImportant": "该事件凸显了乌克兰在战时军事部署与平民安全保护之间面临的严峻矛盾。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "371cb1b66643b81d",
-      "title": "Embattled Sydney property developer Bathla warns it could fold by the end of the week",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
-      "publishedAt": "2026-08-31T05:06:36.000Z",
-      "summary": "Administrators said it would be forced to close the business if it failed to secure additional funding, revealing hundreds of staff have not been paid for weeks The administrators of embattled property developer Bathla Group have said the company will fold by the end of the week unless they can secure additional funding to keep it afloat. The insolvency advisory Teneo assumed control of Bathla’s operations on 25 August after the Sydney-based construction company went into voluntary administration. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
-          "publishedAt": "2026-08-31T05:06:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "af76d44011651f2f17854ac3",
-      "isContinuation": false,
-      "titleZh": "陷入困境的悉尼房地产开发商Bathla警告称本周末可能倒闭",
-      "summaryZh": "悉尼建筑公司Bathla Group的破产管理人表示，除非能获得额外资金，否则公司将在本周末被迫关闭。目前该公司已有数百名员工数周未领到工资。",
-      "whyImportant": "此举引发了对当地建筑行业稳定性及员工权益保障的担忧。",
+      "titleZh": "三十年的等待、回忆录与审判：图帕克·沙库尔谋杀案定罪带来终结",
+      "summaryZh": "拉斯维加斯陪审团裁定前帮派头目杜安·戴维斯因参与1996年嘻哈巨星图帕克·沙库尔的谋杀案而罪名成立。经过两周的审判，检方证实戴维斯是该起驾车枪击案的现场指挥者，此判决为这桩悬而未决三十年的案件画上了句号。",
+      "whyImportant": "这起历史性判决终结了围绕这位传奇说唱歌手死亡真相长达数十年的猜测与阴谋论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "cdc93fd130114af9",
-      "title": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years?utm_source=rss_feed",
-      "publishedAt": "2026-08-31T04:00:13.000Z",
-      "summary": "As Washington’s strategic focus shifts and energy and grain supply disruptions continue to unsettle the Middle East, Beijing’s expanding presence across Central Asia is expected to be in focus as Kyrgyzstan hosts the Shanghai Cooperation Organisation (SCO) summit this week. Chinese President Xi Jinping’s presence in Bishkek is expected to put the spotlight on whether the increasingly diverse grouping can move beyond diplomatic signalling, according to analysts. The SCO’s 25th anniversary summit...",
+      "id": "8bce93a407b2ee1c",
+      "title": "Australia news live: PM shuts down questions of China ‘bullying’ on eve of Pacific forum; Victorian police officer charged after allegedly hitting teen with baton",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+      "publishedAt": "2026-09-01T04:59:36.000Z",
+      "summary": "Follow updates live Get our breaking news email, free app or daily news podcast 43 Australians still missing, with concerns growing ‘every day, every hour’ that goes by, Wong says The foreign affairs minister, Penny Wong, says there are still 43 Australian missing after the flooding in Nepal, saying the government holds grave concerns for their safety that only gets worse as the days go by. This is such a distressing time and I know this is so difficult for the family and friends of those 43 Australians. Every day, every hour, only increases our concern for those who have not been found and remain missing, and that is many Australians. … You can imagine how many families and friends are traumatised as a consequence. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years?utm_source=rss_feed",
-          "publishedAt": "2026-08-31T04:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "外交",
-        "科技",
-        "能源"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a473dc5cfd659e072bb9b6ee",
-      "isContinuation": false,
-      "titleZh": "习近平出席比什凯克上合组织峰会，该组织如何契合中国25年来的欧亚战略？",
-      "summaryZh": "随着华盛顿战略重心转移及能源供应波动，北京在欧亚地区的布局备受关注。分析人士指出，此次峰会将聚焦上合组织能否在外交姿态之外，进一步深化区域合作。",
-      "whyImportant": "此次峰会是观察中国在欧亚地区地缘政治影响力和战略意图的重要窗口。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8bbefb16e261ba01",
-      "title": "China-Nepal floods, Japan to deploy fighter jets to India: 5 weekend reads you missed",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
-      "publishedAt": "2026-08-31T04:30:05.000Z",
-      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. What Japan’s coming fighter jet deployment to India means for China Japan plans to deploy fighter jets in India for the first time next month, a decision experts say reflects Tokyo’s desire to strengthen security cooperation with “like-minded” countries in the Indo-Pacific region as it ramps up...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
-          "publishedAt": "2026-08-31T04:30:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "5ee2e3cf833cb9eb6ab9a8d3",
-      "isContinuation": false,
-      "titleZh": "中尼洪水、日本向印度部署战斗机：你错过的5篇周末阅读",
-      "summaryZh": "本文汇总了近期亚洲及全球的重要新闻，包括日本计划首次向印度部署战斗机。专家认为此举旨在加强印太地区“志同道合”国家间的安全合作。",
-      "whyImportant": "日本的军事部署调整反映了印太地区安全格局的复杂变化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "220e88c45c7c6aae",
-      "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
-      "publishedAt": "2026-08-31T04:18:23.000Z",
-      "summary": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
-          "publishedAt": "2026-08-31T04:18:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "科技"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b1c1a3702d6832376eee8506",
-      "isContinuation": false,
-      "titleZh": "俄中领导人将在上海合作组织峰会上会晤",
-      "summaryZh": "尽管上合组织并非正式的反西方联盟，但俄罗斯和中国领导人经常利用该平台阐述其世界观。此次峰会预计将进一步加强两国间的战略协调。",
-      "whyImportant": "俄中领导人的互动对全球地缘政治平衡具有重要影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5632c98a36bc6e0d",
-      "title": "Backlash grows after Hong Kong authorities seize second ‘fighting dog’ in week",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3365764/backlash-grows-after-hong-kong-authorities-seize-second-fighting-dog-week?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T12:15:19.000Z",
-      "summary": "Hong Kong authorities are facing a growing backlash after seizing a “fighting dog” from its owner following a neighbour’s complaint and detaining it for behavioural evaluation. It was the second dog with pit bull lineage that the Agriculture, Fisheries and Conservation Department had seized in a week. The department’s actions came amid heightened public concern over canine management, following a series of recent attacks, including one in which a woman was mauled and later found dead, and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3365764/backlash-grows-after-hong-kong-authorities-seize-second-fighting-dog-week?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T12:15:19.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+          "publishedAt": "2026-09-01T04:59:36.000Z"
         }
       ],
       "sourceCount": 1,
@@ -924,38 +781,36 @@
       "tags": [
         "中国重点",
         "突发",
-        "专题·军事、安全与突发事件"
+        "环境",
+        "国际组织"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "2f4ac6417fd636c62009c20e",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "feeb04aecf1efceea2646d18",
       "isContinuation": false,
-      "titleZh": "香港当局一周内查扣第二只“格斗犬”，引发舆论反弹",
-      "summaryZh": "香港渔农自然护理署因邻居投诉，查扣了一只被认定为“格斗犬”的狗并进行行为评估。这是该部门一周内第二次采取此类行动，引发了公众对犬只管理政策的争议。",
-      "whyImportant": "该事件反映了香港社会在公共安全与动物福利之间的舆论分歧。",
+      "titleZh": "澳大利亚新闻直播：总理在太平洋论坛前夕回避有关中国“欺凌”的提问；维多利亚州一名警察因涉嫌用警棍击打青少年被起诉",
+      "summaryZh": "澳大利亚外交部长黄英贤表示，尼泊尔洪灾后仍有43名澳大利亚人失踪，政府对他们的安全深感忧虑。随着时间推移，失踪者家属的痛苦与日俱增，搜救工作仍在持续进行中。",
+      "whyImportant": "该事件凸显了海外自然灾害对澳大利亚公民造成的严重影响及政府面临的救援压力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1f2af77163afe6c9",
-      "title": "‘A warning saved my life’: can Hongkongers trust smartwatches, or are they being misled?",
+      "id": "939f2dba77a59a77",
+      "title": "Couple who survived Tai Po fire await trial for fraud, cannot leave Hong Kong",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365718/warning-saved-my-life-can-hongkongers-trust-smartwatches-or-are-they-being-misled?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T11:00:10.000Z",
-      "summary": "In the third instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Victor Ting examines how wearable devices are reshaping personal healthcare in the city, as experts caution that they should not replace professional medical advice. Alice Wong had little idea how seriously ill she might become until unusual patterns on her smartwatch prompted her to seek medical advice. A year ago, Wong, who was still in her twenties, had bought the device but paid...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365923/couple-who-survived-tai-po-fire-await-trial-fraud-cannot-leave-hong-kong?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:39:10.000Z",
+      "summary": "A couple who survived the deadly Tai Po blaze last year have been barred from leaving Hong Kong pending trial for allegedly obtaining more than HK$330,000 (US$42,000) in government-guaranteed loans by overstating the decline in revenue of their decoration business. Former Wang Fuk Court residents Jason Kong Cheung-fat, 65, and Rosanna Cheung Yeuk-lan, 62, appeared in Sha Tin Court on Tuesday to face two counts of fraud and one of money laundering. The couple were not required to enter a plea as...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365718/warning-saved-my-life-can-hongkongers-trust-smartwatches-or-are-they-being-misled?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T11:00:10.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365923/couple-who-survived-tai-po-fire-await-trial-fraud-cannot-leave-hong-kong?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:39:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -964,42 +819,162 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
+        "科技",
         "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "科技"
       ],
-      "fingerprint": "540c24c87e02ff6ec6f1c766",
+      "fingerprint": "610577acf272a8b34efa5d68",
       "isContinuation": false,
-      "titleZh": "“警报救了我一命”：香港人能信任智能手表吗，还是被误导了？",
-      "summaryZh": "智能穿戴设备在香港健康管理中日益普及，一些用户通过设备监测到了潜在的健康问题。专家提醒，这些设备不能替代专业的医疗诊断，应谨慎对待其数据。",
-      "whyImportant": "随着可穿戴医疗技术的普及，公众对健康数据的依赖与医疗专业性之间的界限引发关注。",
+      "titleZh": "大埔火灾幸存夫妇因涉嫌欺诈等待审判，被禁止离开香港",
+      "summaryZh": "去年大埔火灾的幸存者孔祥发和张若兰夫妇，因涉嫌夸大装饰业务收入以骗取超过33万港元的政府担保贷款，目前正面临欺诈及洗钱指控。法院已下令禁止两人离开香港，案件审理正在进行中。",
+      "whyImportant": "此案涉及对政府援助资金的滥用，引发了社会对公共财政监管的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e74bf5047acc072f",
+      "title": "Chinese script evolved like a living organism driven by natural selection: study",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3365849/chinese-script-evolved-living-organism-driven-natural-selection-study?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:00:05.000Z",
+      "summary": "Modern simplified Chinese characters form a tightly connected network from just 514 basic components that evolved through a process similar to natural selection, according to researchers who say their findings could change how Chinese writing is taught. “Chinese characters evolve like living organisms,” lecturer Xie Yonghui of Shanghai Normal University said on August 24. The research into the evolution of Chinese writing over thousands of years, led by Huang Wei, of Beijing Language and Culture...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3365849/chinese-script-evolved-living-organism-driven-natural-selection-study?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:00:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "科技"
+      ],
+      "fingerprint": "1bb70b852b40d4474ee3a672",
+      "isContinuation": false,
+      "titleZh": "研究发现汉字演变如同受自然选择驱动的生命体",
+      "summaryZh": "研究人员发现，现代简化汉字是由514个基本构件组成的紧密网络，其演变过程类似于自然选择。这一发现可能改变汉字的教学方式，揭示了汉字在数千年间自我进化的规律。",
+      "whyImportant": "该研究为理解汉字系统的复杂性及其演化机制提供了全新的科学视角。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "118c8c5cf2d8ea02",
+      "title": "Asian healthcare deals heat up as investors bet big on brain tech and surgical robotics",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/banking-finance/article/3365928/asian-healthcare-deals-heat-investors-bet-big-brain-tech-and-surgical-robotics?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T05:00:17.000Z",
+      "summary": "Private investors in Asia, including family offices operating in Hong Kong, are showing a growing appetite for advanced medical technologies such as brain-computer interfaces and surgical robotics, as healthcare deal activity picks up across the region amid China’s biotechnology boom. “Asia is ageing, so there’s a structural, long-term demand for better surgery and medicine,” said William Chow, deputy group CEO of Raffles Family Office, headquartered in Hong Kong and Singapore. “A lot of the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3365928/asian-healthcare-deals-heat-investors-bet-big-brain-tech-and-surgical-robotics?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T05:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "f0f25679aa7383e2d049e984",
+      "isContinuation": false,
+      "titleZh": "随着投资者押注脑机接口和手术机器人，亚洲医疗保健交易升温",
+      "summaryZh": "受亚洲人口老龄化带来的长期医疗需求驱动，包括香港家族办公室在内的私人投资者正加大对脑机接口和手术机器人等先进医疗技术的投入。随着中国生物技术行业的繁荣，该地区的医疗保健投资活动日益活跃。",
+      "whyImportant": "医疗科技领域的资本涌入反映了亚洲市场对提升医疗效率和应对老龄化挑战的迫切需求。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6d16e3c4670d518f",
+      "title": "Shein shares fall in long-awaited stock market debut",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T04:15:15.000Z",
+      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-01T04:15:15.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "持续关注"
+      ],
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b4849151c4dd69f453878b08",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "希音（Shein）股价在备受期待的上市首日下跌",
+      "summaryZh": "在经历了多年寻求在纽约和伦敦上市的尝试后，希音公司于周二在香港正式挂牌上市。然而，其股价在上市首日表现不佳，出现下跌。",
+      "whyImportant": "作为全球快时尚巨头，希音的上市表现反映了资本市场对其商业模式及未来增长潜力的评估。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "5f2085ff1e8aafc9",
-      "title": "Ukraine prepares for talks with Trump envoys as Kyiv reels from deadly strikes",
+      "id": "089860b605721874",
+      "title": "US judge approves order to force-feed suspect who attacked National Guard troops",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T18:19:13.000Z",
-      "summary": "Ukraine is preparing for a new round of talks with representatives of US President Donald Trump, President Volodymyr Zelensky announced Sunday, expressing hope that diplomacy can prevent open conflict from remaining the only path forward. “There will be more details tomorrow. We will do everything we can so that war does not remain the only option for how events unfold further,” Zelensky said in a televised address. “It is important that America shares many of our views on the situation”. US-led...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365898/judge-authorises-involuntary-feeding-jailed-suspect-deadly-national-guard-shooting?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T20:38:01.000Z",
+      "summary": "A man refusing to eat food while jailed on charges he shot two National Guard troops near the White House, killing one of them, can be fed against his will under a judge’s emergency order. US District Judge Amit Mehta agreed on Saturday to order “non-consensual” nutrition and medical treatment for Rahmanullah Lakanwal, who was rushed to a hospital in July after he stopped eating. Mehta said Federal Bureau of Prisons medical staff can feed Lakanwal intravenously or through a medical tube to save...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T18:19:13.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365898/judge-authorises-involuntary-feeding-jailed-suspect-deadly-national-guard-shooting?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T20:38:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1008,40 +983,36 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "外交",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "突发",
+        "国际组织"
       ],
       "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8a1ff47c06fe033e77328067",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d2112eacf9143dbf5775e6f8",
       "isContinuation": false,
-      "titleZh": "乌克兰准备与特朗普特使进行会谈，基辅正从致命袭击中恢复",
-      "summaryZh": "乌克兰总统泽连斯基宣布，乌方正准备与美国总统特朗普的代表进行新一轮会谈。他表示希望通过外交手段寻求和平，避免战争成为唯一的选择。",
-      "whyImportant": "乌美双方的接触对于未来乌克兰冲突的走向具有关键意义。",
+      "titleZh": "美国法官批准强制喂食袭击国民警卫队士兵的嫌疑人",
+      "summaryZh": "一名因涉嫌枪杀国民警卫队士兵而被捕的嫌疑人拉赫曼努拉·拉坎瓦尔，在狱中采取绝食抗议。美国联邦法官发布紧急命令，允许监狱医疗人员对其进行非自愿的静脉或管饲喂养，以挽救其生命。",
+      "whyImportant": "此举引发了关于囚犯权利与国家医疗干预义务之间法律界限的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "44df3a4647f580a8",
-      "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
-      "publishedAt": "2026-08-30T15:08:33.000Z",
-      "summary": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donald Trump, insisting the South American country will maintain ownership and sovereignty over its massive oil reserves. Rodríguez, who assumed power in January after Trump ordered the abduction of the president, Nicolás Maduro, took to the airwaves on Saturday to push back against criticism of what the US president has called “the biggest oil deal in world history”. Continue reading...",
+      "id": "fadba15f89afb6d8",
+      "title": "US Army Secretary Driscoll resigns after rifts in Pentagon leadership",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365905/us-army-secretary-dan-driscoll-resigns-after-18-months-job-white-house-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T22:54:27.000Z",
+      "summary": "US Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration. No reason was given for the departure of Driscoll, who is a friend of US Vice-President J.D. Vance, but tensions with US Defence Secretary Pete Hegseth have been widely reported. It marks the latest in a series of shake-ups of the military leadership, with the US Army especially seeing major upheaval. “Secretary...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
-          "publishedAt": "2026-08-30T15:08:33.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365905/us-army-secretary-dan-driscoll-resigns-after-18-months-job-white-house-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T22:54:27.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1050,236 +1021,186 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "能源",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "86ac31ddda661355552f79c4",
+      "isContinuation": false,
+      "titleZh": "美国陆军部长德里斯科尔因五角大楼领导层分歧辞职",
+      "summaryZh": "白宫周一宣布，美国陆军部长丹·德里斯科尔在任职18个月后辞职。尽管官方未说明辞职原因，但外界普遍报道他与国防部长皮特·赫格塞斯之间存在紧张关系。",
+      "whyImportant": "此次辞职是特朗普政府时期一系列高级军事领导层变动的一部分，反映了五角大楼内部的持续动荡。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3753d99569ac3818",
+      "title": "US university to pay US$2.1 million settlement over claims it didn’t disclose China ties",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365909/us-university-pay-us21-million-settlement-over-claims-it-didnt-disclose-china-ties?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T01:14:55.000Z",
+      "summary": "A prominent American university has agreed to pay a US$2.1 million settlement to resolve allegations that it failed to disclose employees’ ties to China when applying for federal grant funding, the Department of Justice announced on Monday. Ohio State University’s (OSU) settlement relates to Nasa and National Science Foundation (NSF) grants that provided funding to the university from November 2012 to August 2023. Both Nasa and the NSF required the public university to disclose “foreign...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365909/us-university-pay-us21-million-settlement-over-claims-it-didnt-disclose-china-ties?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T01:14:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0c2808a54e511194fcfe36fa",
+      "isContinuation": false,
+      "titleZh": "美国一所大学因未披露与中国的联系支付210万美元和解金",
+      "summaryZh": "美国司法部周一宣布，俄亥俄州立大学同意支付210万美元和解金，以解决其在申请联邦拨款时未披露员工与中国联系的指控。该和解涉及2012年至2023年间获得的美国国家航空航天局和国家科学基金会的资助项目。",
+      "whyImportant": "此案凸显了美国政府对学术机构在获取联邦科研资金时，关于外国关联披露要求的严格监管。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4fc0cc265f13c008",
+      "title": "Fact Sheet: Delivering a Universal Sign-on for Public Services",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-delivering-a-universal-sign-on-for-public-services/",
+      "publishedAt": "2026-08-31T20:38:36.000Z",
+      "summary": "IMPROVING PUBLIC SERVICE DELIVERY: The Trump Administration continues to improve how Government delivers services to the American public, in particular through the use of leading and emerging technologies. Today, the Office of Management and Budget released a new policy enforcing the use of Login.gov for most public-facing services, setting Government on a path towards having […] The post Fact Sheet: Delivering a Universal Sign-on for Public Services appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-delivering-a-universal-sign-on-for-public-services/",
+          "publishedAt": "2026-08-31T20:38:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7fb16e36567d1715fc41360a",
+      "isContinuation": false,
+      "titleZh": "情况说明书：为公共服务提供统一登录入口",
+      "summaryZh": "特朗普政府发布新政策，强制要求大多数面向公众的政府服务使用Login.gov系统。此举旨在利用新兴技术改善政府服务交付方式，实现统一登录。",
+      "whyImportant": "该政策旨在通过数字化手段提升美国政府公共服务的效率和用户体验。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4bf4f2e61a0c60b8",
+      "title": "Across Latin America, 'aura battles' burst onto the scene",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T19:11:57.000Z",
+      "summary": "Young people across Latin America are taking part in the contests where participants compete to prove who has the most charisma.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-31T19:11:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
         "国际组织"
       ],
       "score": 56,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "cfcaf78d8eaeaf9eda092549",
+      "fingerprint": "96b19747de37c2be344125c7",
       "isContinuation": false,
-      "titleZh": "委内瑞拉德尔西·罗德里格斯为她与特朗普达成的“无尽”石油协议辩护",
-      "summaryZh": "委内瑞拉临时总统德尔西·罗德里格斯为该国与特朗普达成的能源协议辩护，坚称委内瑞拉仍拥有其石油储备的主权。该协议因涉及美国控制委内瑞拉650亿桶石油而引发国内强烈抗议。",
-      "whyImportant": "此协议引发了关于国家主权与能源控制权的重大争议，并加剧了委内瑞拉国内的政治紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ab9224bfbf78fdb",
-      "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
-      "publishedAt": "2026-08-30T19:36:57.000Z",
-      "summary": "Tom Homan denies British far-right commentator, who was deported one day after arrest, got preferential treatment The White House “border czar,” Tom Homan, denied on Sunday that deporting British far-right commentator Milo Yiannopoulos just a day after being arrested by US Immigration and Customs Enforcement (ICE) amounted to preferential treatment. Homan said it was his understanding that Yiannopoulos, 41, had overstayed what he believed to be a visitor visa, had not appeared at an immigration hearing and was issued a final order of removal on 22 July. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
-          "publishedAt": "2026-08-30T19:36:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 55,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "604f4188102611cb872a3de3",
-      "isContinuation": false,
-      "titleZh": "特朗普“边境沙皇”否认米洛·伊安诺波卢斯被迅速驱逐是为了让他免受移民局拘留",
-      "summaryZh": "白宫“边境沙皇”汤姆·霍曼否认英国极右翼评论员米洛·伊安诺波卢斯在被捕次日即被驱逐出境是享受了特殊待遇。霍曼表示，伊安诺波卢斯因逾期滞留且未出席移民听证会，已于7月22日被下达最终驱逐令。",
-      "whyImportant": "此事件引发了公众对移民执法程序公平性及是否存在政治优待的质疑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f1acf504161f40da",
-      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "publishedAt": "2026-08-30T18:57:22.000Z",
-      "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario, with the Ontario premier erecting a giant sign saying “Lake Ontario. Now and Always” – and the American president posting a video of him tearing down an avatar of that sign, erecting a replacement saying Lake America, and dancing to YMCA. Rhetoric over the naming of Lake Ontario is the public face of an escalating trade dispute between the US and its northern neighbor involving a 50% US tariff on Canadian steel and retaliatory tariffs from Ottawa. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-          "publishedAt": "2026-08-30T18:57:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济"
-      ],
-      "score": 54,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8c1e410b0bf58ddf4099c25d",
-      "isContinuation": false,
-      "titleZh": "随着与特朗普关于名称的争端升级，加拿大竖起巨大的“安大略湖”标志",
-      "summaryZh": "特朗普与加拿大就安大略湖更名问题持续发生口角，特朗普发布视频展示其拆除安大略湖标志并替换为“美国湖”的过程。这一争端是美加两国因钢材关税引发的贸易战的公开表现。",
-      "whyImportant": "地名争端反映了美加两国在贸易政策上的深层矛盾，进一步加剧了双边外交紧张关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "003114e9efdac3cc",
-      "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
-      "publishedAt": "2026-08-30T17:16:52.000Z",
-      "summary": "Trump’s threat comes after host described success record of candidates whom president had endorsed as ‘mixed’ Donald Trump ⁠on Sunday said NBC’s Kristen ‌Welker – host of Meet the Press – should face “rebuke or punishment” from the Federal Communications Commission (FCC). Welker, during a live segment for a local Washington, DC, affiliate, described the success record of political candidates whom the president had endorsed as “mixed”. The segment aired prior to Sunday’s edition of Meet the Press. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
-          "publishedAt": "2026-08-30T17:16:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 53,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7a9672cecc1c45003d7a7fe9",
-      "isContinuation": false,
-      "titleZh": "特朗普称NBC的克里斯汀·威尔克应受到联邦通信委员会的“惩罚”",
-      "summaryZh": "特朗普因NBC主持人克里斯汀·威尔克称其背书的候选人表现“好坏参半”，公开要求联邦通信委员会对其进行惩罚。该言论出现在威尔克主持的《会见新闻界》节目播出前的一段直播中。",
-      "whyImportant": "总统对媒体报道的公开施压引发了关于新闻自由及政府干预媒体监管的讨论。",
+      "titleZh": "拉丁美洲兴起“光环之战”",
+      "summaryZh": "拉丁美洲的年轻人正在参与一种名为“光环之战”的竞赛。参赛者通过比拼来展示谁拥有最强的个人魅力。",
+      "whyImportant": "这一现象反映了社交媒体文化对当代青年社交互动和自我表达方式的影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "80226a3cb4a833b4",
-      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T03:56:15.000Z",
-      "summary": "A passenger ferry capsized and sank off Northern Cyprus Sunday, killing at least eight people and leaving more than a dozen missing, officials and media reports said, as police took the captain and seven crew members into custody. Several rescued passengers told local media a blast had gone off at the bow of the ferry before it rolled over, and said the boat had an insufficient supply of life-vests. The vessel capsized 6.5km (4 miles) off the coast of Cyprus, shortly after leaving a Northern...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-31T03:56:15.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3365774/least-8-dead-22-missing-ferry-capsizes-northern-cyprus?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T16:43:28.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
-          "publishedAt": "2026-08-30T15:12:02.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6ab560910fc13c0bcfde7a9a",
-      "isContinuation": false,
-      "titleZh": "北塞浦路斯附近一艘渡轮倾覆，造成8人死亡，18人失踪",
-      "summaryZh": "一艘渡轮在北塞浦路斯海岸附近倾覆，导致至少8人死亡，多人失踪，警方已拘留船长及七名船员。幸存者称船头曾发生爆炸，且船上救生衣数量不足。",
-      "whyImportant": "这起严重的海上事故暴露了当地航运安全管理的重大漏洞，引发了对公共交通安全标准的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5de9cb0aa694b056",
-      "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
-      "publishedAt": "2026-08-30T20:15:47.000Z",
-      "summary": "The exchange of attacks is the first flare-up in violence between the two sides since late July.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
-          "publishedAt": "2026-08-30T20:15:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "06d6312884b43ed1c8a9ea6a",
-      "isContinuation": false,
-      "titleZh": "伊朗在美军袭击拉拉克岛后攻击约旦境内的美军基地",
-      "summaryZh": "伊朗对约旦境内的美军基地发动了攻击，这是双方自7月下旬以来首次爆发的暴力冲突。此次袭击是对美国此前打击拉拉克岛行动的回应。",
-      "whyImportant": "美伊之间军事冲突的升级增加了中东地区局势的不确定性与地缘政治风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e88b97a69121b9b9",
-      "title": "Trump calls for ‘punishment’ of NBC journalist over endorsement coverage",
+      "id": "0ad05bf6b72f2c6f",
+      "title": "Going big and going green can work together for Hong Kong mega-events",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T19:37:37.000Z",
-      "summary": "US President Donald Trump on Sunday threatened a prominent NBC broadcast journalist with possible punishment by US media regulators as the Republican expressed disappointment with coverage of his candidate endorsements ahead of November’s midterm elections. Trump took to his Truth Social platform to attack Kristen Welker as the “unpopular ‘hostess’ of the once great Meet the Press” talk show. He objected to her having said the president had had “mixed results” on his endorsement of political...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365590/going-big-and-going-green-can-work-together-hong-kong-mega-events?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T01:30:08.000Z",
+      "summary": "Hong Kong’s mega-event economy is thriving. In a blog post last month, Financial Secretary Paul Chan Mo-po noted that in the first half of 2026, the city hosted more than 130 mega-events, drawing 1.75 million visitors and injecting roughly HK$5.8 billion (US$739.9 million) into the local economy. These figures are the ongoing dividends of the government’s sustained policy and financial backing. This momentum is well-documented: in the last two years, the concerts of global A-listers such as...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T19:37:37.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365590/going-big-and-going-green-can-work-together-hong-kong-mega-events?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T01:30:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "76d1fcaeddd9d3d81977b3e6",
+      "isContinuation": false,
+      "titleZh": "香港大型活动如何实现规模化与绿色化并举",
+      "summaryZh": "香港大型活动经济持续增长，2026年上半年举办了超过130场活动，吸引了175万游客并带来约58亿港元的经济贡献。政府正通过持续的政策和资金支持，推动大型活动在保持经济效益的同时实现可持续发展。",
+      "whyImportant": "这展示了香港在后疫情时代通过大型活动提振旅游业和经济的战略方向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d286d92224386ae7",
+      "title": "South Korea’s top presidential aide resigns following cabinet reshuffle",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3365912/south-koreas-top-presidential-aide-resigns-following-cabinet-reshuffle?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T02:15:05.000Z",
+      "summary": "South Korea’s chief presidential policy adviser has resigned, the presidential Blue House said on Tuesday, after President Lee Jae ‌Myung reshuffled his cabinet and senior aides amid a drop in his approval rating. Kim Yong-beom was a key adviser to Lee on economic policy, including on housing and ⁠stock market issues. Kim had offered to step down from the post on Monday, which oversees the administration’s economic and domestic policy agenda. During his term, Kim had drawn criticism over the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3365912/south-koreas-top-presidential-aide-resigns-following-cabinet-reshuffle?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T02:15:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1288,30 +1209,66 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "金融"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "979109c85eb27a3000cef00e",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "523bd1b63104a9c3bcc8bf70",
       "isContinuation": false,
-      "titleZh": "特朗普因背书报道要求“惩罚”NBC记者",
-      "summaryZh": "特朗普威胁要让媒体监管机构惩罚NBC记者克里斯汀·威尔克，因其在报道中称特朗普背书的候选人表现“好坏参半”。特朗普在社交平台上对该记者的报道表示不满。",
-      "whyImportant": "总统针对特定记者的言论再次引发了关于政治权力与媒体监督边界的争议。",
+      "titleZh": "韩国总统府高级幕僚在内阁改组后辞职",
+      "summaryZh": "在总统李在明因支持率下降进行内阁和高级幕僚改组后，韩国总统府首席政策顾问金永范宣布辞职。金永范此前负责监督政府的经济和国内政策议程，包括住房和股市问题。",
+      "whyImportant": "此次人事变动反映了韩国政府在应对国内经济挑战和民意压力时的政策调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a1bd6c566d0d57d9",
+      "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+      "publishedAt": "2026-09-01T01:53:39.000Z",
+      "summary": "Flash flooding in Arizona tourist destination was likely triggered by compounding climate factors, such as drought and warming in Pacific Ocean Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history A deadly flash flood in the Grand Canyon over the weekend was likely driven by a confluence of climate factors, including drought, wildfire scarring and warming temperatures in the Pacific Ocean that can supercharge storms. At least two people have died, nearly 80 people were rescued and one remained unaccounted for after a surge of water and debris swept through the immensely popular tourist destination on Saturday, fueled by torrents of rain that hit the national park’s Bright Angel Creek area. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+          "publishedAt": "2026-09-01T01:53:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境",
+        "公共安全"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8e1a281d85093e59edbfb29b",
+      "isContinuation": false,
+      "titleZh": "大峡谷强降雨如何演变成致命灾难",
+      "summaryZh": "大峡谷周末发生的致命山洪是由干旱、野火造成的植被破坏以及太平洋气温升高引发的极端天气共同导致的。此次灾害造成至少两人死亡，近80人获救，仍有一人失踪。",
+      "whyImportant": "该事件凸显了气候变化因素如何加剧自然灾害的破坏力，对旅游景点的安全管理提出了挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 124,
-    "deduplicated": 121,
+    "fetched": 151,
+    "deduplicated": 147,
     "selected": 23,
     "translated": 23,
     "untranslated": 0,
@@ -1322,187 +1279,64 @@
   },
   "items": [
     {
-      "id": "77c755dad93a1169",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T04:54:32.000Z",
-      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-31T04:54:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 75,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "a2a3530f0ac1ca80a65d5873",
-      "isContinuation": false,
-      "titleZh": "美国与伊朗数周来首次互相发动袭击",
-      "summaryZh": "伊朗表示，美国对拉拉克岛发动的袭击是自7月下旬以来的首次已知行动。此次袭击造成两人死亡，另有两人受伤。",
-      "whyImportant": "美伊之间军事冲突的升级加剧了中东地区的紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e6412fed858b49a3",
-      "title": "Australia news live: NSW won’t appeal ruling that found anti-Israel vandalism was not antisemitic; body of newborn baby found in bin in Sydney",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-      "publishedAt": "2026-08-31T05:08:16.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast The Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins, Matt Thistlethwaite says. Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table. Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he’s returned to Australia safely. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-          "publishedAt": "2026-08-31T05:08:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "eb96f1099eb2bae91ef6b343",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：新南威尔士州不会对反以色列涂鸦非反犹太主义的裁决提出上诉；悉尼垃圾桶内发现新生儿尸体",
-      "summaryZh": "澳大利亚政府正与俄罗斯官员合作，寻求释放被扣押的澳大利亚人奥斯卡·詹金斯。政府官员表示将尽力通过外交途径确保其安全返回。",
-      "whyImportant": "此事件涉及澳大利亚公民的海外安全及政府的外交斡旋能力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b9d7a2206106cdbd",
-      "title": "Man who murdered Molly Ticehurst will not face life in jail, judge says",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
-      "publishedAt": "2026-08-31T04:00:29.000Z",
-      "summary": "Justice Natalie Adams says she is troubled by expert evidence about rape allegations in slain woman’s police statement Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Molly Ticehurst’s ex-boyfriend will not face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered abuse. Ticehurst, a 28-year-old childcare educator, was found dead in her home at Forbes, in the New South Wales central-west, in the early hours of 22 April 2024. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
-          "publishedAt": "2026-08-31T04:00:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "9e3545c6a044da70995a0727",
-      "isContinuation": false,
-      "titleZh": "法官称谋杀莫莉·泰斯赫斯特的男子将不会被判终身监禁",
-      "summaryZh": "法官娜塔莉·亚当斯对受害者警方陈述中关于强奸指控的专家证据表示担忧。这起引发全国反性别暴力运动的谋杀案被告将不会面临终身监禁。",
-      "whyImportant": "该判决结果引发了公众对于家庭暴力案件量刑标准的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "208b0bbdff595720",
-      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+      "id": "40a0e21fef1c5312",
+      "title": "Former gang leader found guilty of Tupac Shakur’s 1996 murder",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "summary": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an 'imminent threat'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
+      "publishedAt": "2026-09-01T04:29:23.000Z",
+      "summary": "An ex-street gang leader accused of orchestrating the drive-by shooting death of hip-hop star Tupac Shakur three decades ago in Las Vegas was convicted of murder on Monday for his role in a long-unsolved crime that silenced one of rap music’s most influential voices. A jury in Clark County, Nevada, ‌deliberated for nearly three hours before finding Duane “Keffe D” Davis, 63, guilty of a single count of first-degree murder with a deadly weapon, capping an 11-day trial in a downtown Las Vegas...",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-          "publishedAt": "2026-08-31T00:00:00.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
+          "publishedAt": "2026-09-01T04:29:23.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365893/jury-hears-closing-arguments-tupac-shakur-murder-trial?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T18:16:10.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "attack",
-        "军事",
-        "突发"
+        "能源"
       ],
-      "fingerprint": "aeaa8cb564df17dbb427fa8a",
+      "fingerprint": "58836a435d5fb88bee5792bb",
       "isContinuation": false,
-      "titleZh": "伊朗战争直播：德黑兰称在美国袭击后袭击了约旦和阿联酋的基地",
-      "summaryZh": "美国中央司令部表示，美军轰炸了拉拉克岛上的两个伊朗伊斯兰革命卫队火箭发射器，称其构成了“迫在眉睫的威胁”。",
-      "whyImportant": "美伊军事对抗范围的扩大可能导致地区安全局势进一步恶化。",
+      "titleZh": "前帮派头目因图帕克·沙库尔1996年谋杀案被判有罪",
+      "summaryZh": "内华达州克拉克县陪审团裁定，63岁的前街头帮派头目杜安·“基夫·D”·戴维斯因策划了三十年前导致嘻哈巨星图帕克·沙库尔死亡的驾车枪击案而犯有一级谋杀罪。此案历时11天审理，终结了这起长期悬而未决的谋杀案。",
+      "whyImportant": "此判决为这起影响深远的嘻哈界谋杀案提供了法律定论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8bbefb16e261ba01",
-      "title": "China-Nepal floods, Japan to deploy fighter jets to India: 5 weekend reads you missed",
+      "id": "939f2dba77a59a77",
+      "title": "Couple who survived Tai Po fire await trial for fraud, cannot leave Hong Kong",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
-      "publishedAt": "2026-08-31T04:30:05.000Z",
-      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. What Japan’s coming fighter jet deployment to India means for China Japan plans to deploy fighter jets in India for the first time next month, a decision experts say reflects Tokyo’s desire to strengthen security cooperation with “like-minded” countries in the Indo-Pacific region as it ramps up...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365923/couple-who-survived-tai-po-fire-await-trial-fraud-cannot-leave-hong-kong?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:39:10.000Z",
+      "summary": "A couple who survived the deadly Tai Po blaze last year have been barred from leaving Hong Kong pending trial for allegedly obtaining more than HK$330,000 (US$42,000) in government-guaranteed loans by overstating the decline in revenue of their decoration business. Former Wang Fuk Court residents Jason Kong Cheung-fat, 65, and Rosanna Cheung Yeuk-lan, 62, appeared in Sha Tin Court on Tuesday to face two counts of fraud and one of money laundering. The couple were not required to enter a plea as...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/article/3365789/china-nepal-floods-japan-deploy-fighter-jets-india-5-weekend-reads-you-missed?utm_source=rss_feed",
-          "publishedAt": "2026-08-31T04:30:05.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365923/couple-who-survived-tai-po-fire-await-trial-fraud-cannot-leave-hong-kong?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:39:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1511,81 +1345,121 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "环境",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
       ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "security",
-        "军事"
+        "科技"
       ],
-      "fingerprint": "5ee2e3cf833cb9eb6ab9a8d3",
+      "fingerprint": "610577acf272a8b34efa5d68",
       "isContinuation": false,
-      "titleZh": "中尼洪水、日本向印度部署战斗机：你错过的5篇周末阅读",
-      "summaryZh": "本文汇总了近期亚洲及全球的重要新闻，包括日本计划首次向印度部署战斗机。专家认为此举旨在加强印太地区“志同道合”国家间的安全合作。",
-      "whyImportant": "日本的军事部署调整反映了印太地区安全格局的复杂变化。",
+      "titleZh": "大埔火灾幸存夫妇因涉嫌欺诈等待审判，被禁止离开香港",
+      "summaryZh": "去年大埔火灾的幸存者孔祥发和张若兰夫妇，因涉嫌夸大装饰业务收入以骗取超过33万港元的政府担保贷款，目前正面临欺诈及洗钱指控。法院已下令禁止两人离开香港，案件审理正在进行中。",
+      "whyImportant": "此案涉及对政府援助资金的滥用，引发了社会对公共财政监管的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e02838abf19b94f7",
-      "title": "NHS to offer free high-street cholesterol tests in England",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-      "publishedAt": "2026-08-31T05:00:16.000Z",
-      "summary": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or stroke The NHS in England is to offer free finger-prick blood tests for cholesterol on the high street for the first time under plans to reduce heart disease and stroke deaths by a quarter within the next decade. The seven-minute tests will be available at participating pharmacies as part of a national rollout to spot “ticking timebombs” earlier. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-          "publishedAt": "2026-08-31T05:00:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "aa5d0c22d31119eb6614a6ce",
-      "isContinuation": false,
-      "titleZh": "英国国家医疗服务体系（NHS）将在英格兰提供免费街头胆固醇检测",
-      "summaryZh": "英格兰的药店将为40至84岁的人群提供免费指尖采血胆固醇检测。此举旨在及早发现健康风险，以期在未来十年内将心脏病和中风死亡率降低四分之一。",
-      "whyImportant": "该公共卫生举措旨在通过早期筛查降低心血管疾病的死亡率。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e3e9c18e2c221276",
-      "title": "Pakistani nurse to be honoured for saving newborn from deadly hospital fire",
+      "id": "e74bf5047acc072f",
+      "title": "Chinese script evolved like a living organism driven by natural selection: study",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
-      "publishedAt": "2026-08-31T04:37:20.000Z",
-      "summary": "A Pakistani nurse who rescued the sole surviving newborn from a hospital nursery fire that killed 14 other infants will receive one of the country’s most prestigious civil awards. Fire engulfed Pakistan Institute of Medical Sciences, a major government hospital in Islamabad, on Wednesday. A 51-second segment of CCTV footage, widely circulated online, captures Razia Noreen running into the burning nursery and emerging seconds later with the newborn in her arms. She tries to go back in, but cannot...",
+      "url": "https://www.scmp.com/news/china/science/article/3365849/chinese-script-evolved-living-organism-driven-natural-selection-study?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:00:05.000Z",
+      "summary": "Modern simplified Chinese characters form a tightly connected network from just 514 basic components that evolved through a process similar to natural selection, according to researchers who say their findings could change how Chinese writing is taught. “Chinese characters evolve like living organisms,” lecturer Xie Yonghui of Shanghai Normal University said on August 24. The research into the evolution of Chinese writing over thousands of years, led by Huang Wei, of Beijing Language and Culture...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3365802/pakistani-nurse-be-honoured-saving-newborn-deadly-hospital-fire?utm_source=rss_feed",
-          "publishedAt": "2026-08-31T04:37:20.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3365849/chinese-script-evolved-living-organism-driven-natural-selection-study?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:00:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "科技"
+      ],
+      "fingerprint": "1bb70b852b40d4474ee3a672",
+      "isContinuation": false,
+      "titleZh": "研究发现汉字演变如同受自然选择驱动的生命体",
+      "summaryZh": "研究人员发现，现代简化汉字是由514个基本构件组成的紧密网络，其演变过程类似于自然选择。这一发现可能改变汉字的教学方式，揭示了汉字在数千年间自我进化的规律。",
+      "whyImportant": "该研究为理解汉字系统的复杂性及其演化机制提供了全新的科学视角。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "118c8c5cf2d8ea02",
+      "title": "Asian healthcare deals heat up as investors bet big on brain tech and surgical robotics",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/banking-finance/article/3365928/asian-healthcare-deals-heat-investors-bet-big-brain-tech-and-surgical-robotics?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T05:00:17.000Z",
+      "summary": "Private investors in Asia, including family offices operating in Hong Kong, are showing a growing appetite for advanced medical technologies such as brain-computer interfaces and surgical robotics, as healthcare deal activity picks up across the region amid China’s biotechnology boom. “Asia is ageing, so there’s a structural, long-term demand for better surgery and medicine,” said William Chow, deputy group CEO of Raffles Family Office, headquartered in Hong Kong and Singapore. “A lot of the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3365928/asian-healthcare-deals-heat-investors-bet-big-brain-tech-and-surgical-robotics?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T05:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "f0f25679aa7383e2d049e984",
+      "isContinuation": false,
+      "titleZh": "随着投资者押注脑机接口和手术机器人，亚洲医疗保健交易升温",
+      "summaryZh": "受亚洲人口老龄化带来的长期医疗需求驱动，包括香港家族办公室在内的私人投资者正加大对脑机接口和手术机器人等先进医疗技术的投入。随着中国生物技术行业的繁荣，该地区的医疗保健投资活动日益活跃。",
+      "whyImportant": "医疗科技领域的资本涌入反映了亚洲市场对提升医疗效率和应对老龄化挑战的迫切需求。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8e5ca5938663ad60",
+      "title": "South Korea sets record US$600 billion budget, backed by chip windfall",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3365922/south-korea-sets-record-us600-billion-budget-backed-chip-windfall?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:18:23.000Z",
+      "summary": "South Korea on Tuesday unveiled its most aggressive financial spending plan on record, setting total government expenditure for 2027 at 821 trillion won (US$600 billion) to strengthen the country’s technological edge amid the global AI race. In its annual budget proposal, the budget ministry said the spending plan ‌represented a 12.8 per cent rise from 2026, marking the largest year-on-year increase in the country’s history. The proposal signals a shift in Asia’s fourth-largest economy under...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3365922/south-korea-sets-record-us600-billion-budget-backed-chip-windfall?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:18:23.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1594,40 +1468,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "科技"
       ],
-      "fingerprint": "55cb342a968f0210e750b38b",
+      "fingerprint": "1c03fe6035d9b9e7b2ed8ac1",
       "isContinuation": false,
-      "titleZh": "巴基斯坦护士因从致命医院火灾中救出新生儿而获表彰",
-      "summaryZh": "一名巴基斯坦护士在伊斯兰堡一家医院的火灾中，冒死救出了唯一的幸存新生儿。她将因此获得该国最高级别的平民奖项之一。",
-      "whyImportant": "此举表彰了在灾难中表现出的英勇行为，并引发了对医院安全标准的关注。",
+      "titleZh": "韩国制定6000亿美元创纪录预算，得益于芯片行业收益",
+      "summaryZh": "韩国政府公布了2027年821万亿韩元（约6000亿美元）的创纪录支出计划，旨在全球人工智能竞赛中加强技术优势。该预算较2026年增长12.8%，为该国历史上最大年度增幅。",
+      "whyImportant": "此举标志着韩国政府正通过大规模财政投入以巩固其在全球科技竞争中的地位。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c46e2f8ab782d8ed",
-      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "id": "82f6bbe3cca3177e",
+      "title": "John Ternus to lead Apple into the age of AI",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
-      "publishedAt": "2026-08-31T03:08:35.000Z",
-      "summary": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+      "publishedAt": "2026-09-01T03:20:25.000Z",
+      "summary": "Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
-          "publishedAt": "2026-08-31T03:08:35.000Z"
+          "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+          "publishedAt": "2026-09-01T03:20:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1637,602 +1510,612 @@
       "tags": [
         "全球焦点",
         "金融",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "军事"
-      ],
-      "fingerprint": "0ce2429ba34d99f08c71a54b",
-      "isContinuation": false,
-      "titleZh": "据报道以色列军队突袭纳布卢斯，两名巴勒斯坦人死亡",
-      "summaryZh": "现场画面显示，以色列军用车辆和人员已部署在被占领的约旦河西岸城市纳布卢斯。目前已有两名巴勒斯坦人在冲突中死亡的报告。",
-      "whyImportant": "约旦河西岸的持续冲突进一步加剧了巴以之间的紧张关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6fbfb651cb591209",
-      "title": "Iran targets Jordan after first US attack in a month",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
-      "publishedAt": "2026-08-31T03:06:56.000Z",
-      "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
-          "publishedAt": "2026-08-31T03:06:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "3db7b1e1f36d932a0b09bcda",
-      "isContinuation": false,
-      "titleZh": "美国一个月内首次袭击后，伊朗将目标对准约旦",
-      "summaryZh": "美国对拉拉克岛的设施发动了近一个月来的首次袭击。作为回应，伊朗对相关基地进行了反击。",
-      "whyImportant": "美伊双方的报复性打击行动增加了地区冲突失控的风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "07166988884ebd62",
-      "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
-      "publishedAt": "2026-08-31T04:00:17.000Z",
-      "summary": "As Russia hits another ammunition warehouse, killing at least 38, locals put blame on poorly placed depots It is a day and a half since a Russian jet-powered drone smashed into an ammunition dump in Myla, a village 15 miles outside central Kyiv. Volodymyr, 61, a security guard, leads visitors from his family’s badly damaged home, its roof blown off, back windows shattered, through the garden towards the impact site 300 metres away. The garden, like so many in Ukraine’s villages and suburbs, is a sizeable allotment. But today the greenhouse is shattered, a vegetable patch is blackened and crisp underfoot. Several metres of grapevine have been destroyed. Even so, Volodymyr finds two surviving bunches to hand to the Guardian. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
-          "publishedAt": "2026-08-31T04:00:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "security",
-        "军事"
-      ],
-      "fingerprint": "4dbccd8a9e748a397df56603",
-      "isContinuation": false,
-      "titleZh": "“一切都被砸得粉碎”：乌克兰民众对在村庄附近储存武器的行为感到愤怒",
-      "summaryZh": "俄罗斯无人机袭击了基辅郊外米拉村的一个弹药库，造成至少38人死亡。当地居民对军方将弹药库设在居民区附近表示强烈不满，认为这种做法导致了平民财产受损和生命威胁。",
-      "whyImportant": "该事件凸显了乌克兰在战时军事部署与平民安全保护之间面临的严峻矛盾。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "371cb1b66643b81d",
-      "title": "Embattled Sydney property developer Bathla warns it could fold by the end of the week",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
-      "publishedAt": "2026-08-31T05:06:36.000Z",
-      "summary": "Administrators said it would be forced to close the business if it failed to secure additional funding, revealing hundreds of staff have not been paid for weeks The administrators of embattled property developer Bathla Group have said the company will fold by the end of the week unless they can secure additional funding to keep it afloat. The insolvency advisory Teneo assumed control of Bathla’s operations on 25 August after the Sydney-based construction company went into voluntary administration. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week",
-          "publishedAt": "2026-08-31T05:06:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "af76d44011651f2f17854ac3",
-      "isContinuation": false,
-      "titleZh": "陷入困境的悉尼房地产开发商Bathla警告称本周末可能倒闭",
-      "summaryZh": "悉尼建筑公司Bathla Group的破产管理人表示，除非能获得额外资金，否则公司将在本周末被迫关闭。目前该公司已有数百名员工数周未领到工资。",
-      "whyImportant": "此举引发了对当地建筑行业稳定性及员工权益保障的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cdc93fd130114af9",
-      "title": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years?utm_source=rss_feed",
-      "publishedAt": "2026-08-31T04:00:13.000Z",
-      "summary": "As Washington’s strategic focus shifts and energy and grain supply disruptions continue to unsettle the Middle East, Beijing’s expanding presence across Central Asia is expected to be in focus as Kyrgyzstan hosts the Shanghai Cooperation Organisation (SCO) summit this week. Chinese President Xi Jinping’s presence in Bishkek is expected to put the spotlight on whether the increasingly diverse grouping can move beyond diplomatic signalling, according to analysts. The SCO’s 25th anniversary summit...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years?utm_source=rss_feed",
-          "publishedAt": "2026-08-31T04:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "外交",
         "科技",
-        "能源"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a473dc5cfd659e072bb9b6ee",
-      "isContinuation": false,
-      "titleZh": "习近平出席比什凯克上合组织峰会，该组织如何契合中国25年来的欧亚战略？",
-      "summaryZh": "随着华盛顿战略重心转移及能源供应波动，北京在欧亚地区的布局备受关注。分析人士指出，此次峰会将聚焦上合组织能否在外交姿态之外，进一步深化区域合作。",
-      "whyImportant": "此次峰会是观察中国在欧亚地区地缘政治影响力和战略意图的重要窗口。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "220e88c45c7c6aae",
-      "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
-      "publishedAt": "2026-08-31T04:18:23.000Z",
-      "summary": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
-          "publishedAt": "2026-08-31T04:18:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "科技"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b1c1a3702d6832376eee8506",
-      "isContinuation": false,
-      "titleZh": "俄中领导人将在上海合作组织峰会上会晤",
-      "summaryZh": "尽管上合组织并非正式的反西方联盟，但俄罗斯和中国领导人经常利用该平台阐述其世界观。此次峰会预计将进一步加强两国间的战略协调。",
-      "whyImportant": "俄中领导人的互动对全球地缘政治平衡具有重要影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5632c98a36bc6e0d",
-      "title": "Backlash grows after Hong Kong authorities seize second ‘fighting dog’ in week",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3365764/backlash-grows-after-hong-kong-authorities-seize-second-fighting-dog-week?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T12:15:19.000Z",
-      "summary": "Hong Kong authorities are facing a growing backlash after seizing a “fighting dog” from its owner following a neighbour’s complaint and detaining it for behavioural evaluation. It was the second dog with pit bull lineage that the Agriculture, Fisheries and Conservation Department had seized in a week. The department’s actions came amid heightened public concern over canine management, following a series of recent attacks, including one in which a woman was mauled and later found dead, and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3365764/backlash-grows-after-hong-kong-authorities-seize-second-fighting-dog-week?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T12:15:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "2f4ac6417fd636c62009c20e",
-      "isContinuation": false,
-      "titleZh": "香港当局一周内查扣第二只“格斗犬”，引发舆论反弹",
-      "summaryZh": "香港渔农自然护理署因邻居投诉，查扣了一只被认定为“格斗犬”的狗并进行行为评估。这是该部门一周内第二次采取此类行动，引发了公众对犬只管理政策的争议。",
-      "whyImportant": "该事件反映了香港社会在公共安全与动物福利之间的舆论分歧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1f2af77163afe6c9",
-      "title": "‘A warning saved my life’: can Hongkongers trust smartwatches, or are they being misled?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365718/warning-saved-my-life-can-hongkongers-trust-smartwatches-or-are-they-being-misled?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T11:00:10.000Z",
-      "summary": "In the third instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Victor Ting examines how wearable devices are reshaping personal healthcare in the city, as experts caution that they should not replace professional medical advice. Alice Wong had little idea how seriously ill she might become until unusual patterns on her smartwatch prompted her to seek medical advice. A year ago, Wong, who was still in her twenties, had bought the device but paid...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365718/warning-saved-my-life-can-hongkongers-trust-smartwatches-or-are-they-being-misled?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T11:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
       "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "科技"
       ],
-      "fingerprint": "540c24c87e02ff6ec6f1c766",
+      "fingerprint": "1201c776b6ac1a7759a0e215",
       "isContinuation": false,
-      "titleZh": "“警报救了我一命”：香港人能信任智能手表吗，还是被误导了？",
-      "summaryZh": "智能穿戴设备在香港健康管理中日益普及，一些用户通过设备监测到了潜在的健康问题。专家提醒，这些设备不能替代专业的医疗诊断，应谨慎对待其数据。",
-      "whyImportant": "随着可穿戴医疗技术的普及，公众对健康数据的依赖与医疗专业性之间的界限引发关注。",
+      "titleZh": "约翰·特努斯将带领苹果进入人工智能时代",
+      "summaryZh": "即将上任的首席执行官约翰·特努斯将接管一家在智能手机市场占据领先地位，但在人工智能领域落后于竞争对手的公司。他面临着如何推动苹果在AI领域实现追赶的挑战。",
+      "whyImportant": "苹果公司的人事变动标志着其战略重心将进一步向人工智能领域倾斜。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5f2085ff1e8aafc9",
-      "title": "Ukraine prepares for talks with Trump envoys as Kyiv reels from deadly strikes",
+      "id": "1d7a7d20c23bc300",
+      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+      "publishedAt": "2026-09-01T00:15:22.000Z",
+      "summary": "Economic grievances persist while space for dissent has narrowed under President Kais Saied.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+          "publishedAt": "2026-09-01T00:15:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "67204dcf8b19374b62c9b8f0",
+      "isContinuation": false,
+      "titleZh": "赛义德夺权五年后，突尼斯旧怨重现",
+      "summaryZh": "在总统凯斯·赛义德的统治下，突尼斯的经济困境持续存在，且异见空间不断缩小。民众对现状的不满情绪日益增长，旧有的社会矛盾再次浮出水面。",
+      "whyImportant": "突尼斯国内政治与经济环境的恶化引发了外界对其社会稳定性的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2592016c4b2110e5",
+      "title": "Thirty years of waiting, a memoir and a trial: conviction in Tupac Shakur killing brings closure",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis",
+      "publishedAt": "2026-09-01T01:57:13.000Z",
+      "summary": "A Las Vegas jury on Monday found Duane ‘Keffe D’ Davis guilty in the 1996 murder of the hip-hop icon Jury finds Duane Davis guilty of murder of Tupac Shakur Thirty years after the killing of Tupac Shakur, conspiracy theories and rumors about the perpetrator’s identity, one man has now been held criminally responsible for the rap icon’s death. A Las Vegas jury convicted Duane “Keffe D” Davis, a 63-year-old former South Side Compton Crips gang leader, of murder for his role in the drive-by shooting. During the two-week long trial, prosecutors argued Davis was the “on-the-ground, on-site commander of the effort to kill Tupac” and had sought revenge after the musician was involved in a fight with his nephew, Orlando “Baby Lane” Anderson. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis",
+          "publishedAt": "2026-09-01T01:57:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "8c8378645a14fca689512479",
+      "isContinuation": false,
+      "titleZh": "三十年的等待、回忆录与审判：图帕克·沙库尔谋杀案定罪带来终结",
+      "summaryZh": "拉斯维加斯陪审团裁定前帮派头目杜安·戴维斯因参与1996年嘻哈巨星图帕克·沙库尔的谋杀案而罪名成立。经过两周的审判，检方证实戴维斯是该起驾车枪击案的现场指挥者，此判决为这桩悬而未决三十年的案件画上了句号。",
+      "whyImportant": "这起历史性判决终结了围绕这位传奇说唱歌手死亡真相长达数十年的猜测与阴谋论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4e6b57ef05a887b9",
+      "title": "Australia’s biggest property downturn since pandemic threatens economic growth",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T18:19:13.000Z",
-      "summary": "Ukraine is preparing for a new round of talks with representatives of US President Donald Trump, President Volodymyr Zelensky announced Sunday, expressing hope that diplomacy can prevent open conflict from remaining the only path forward. “There will be more details tomorrow. We will do everything we can so that war does not remain the only option for how events unfold further,” Zelensky said in a televised address. “It is important that America shares many of our views on the situation”. US-led...",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3365916/australias-biggest-property-downturn-pandemic-threatens-economic-growth?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T03:18:52.000Z",
+      "summary": "Australian home prices fell for a fifth month in August in the biggest downturn since the pandemic, and there is further pain ahead as stubborn inflation puts upward pressure on interest rates. Figures from property consultant Cotality released on Tuesday showed national home prices fell 0.9 per cent in August from July, when they dropped 1.2 per cent. Sydney ‌and Melbourne again led the monthly decline with falls of 1.4 per cent and 1.1 per cent, leaving prices down about 7 per cent from their...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T18:19:13.000Z"
+          "url": "https://www.scmp.com/news/asia/australasia/article/3365916/australias-biggest-property-downturn-pandemic-threatens-economic-growth?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T03:18:52.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "外交",
+        "全球焦点",
+        "经济",
+        "金融",
+        "军事与安全"
+      ],
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5b13465db8af2ff93600440d",
+      "isContinuation": false,
+      "titleZh": "澳大利亚经历疫情以来最大房地产低迷，威胁经济增长",
+      "summaryZh": "受持续通胀和利率上升压力影响，澳大利亚8月份房价连续第五个月下跌，创下疫情以来的最大跌幅。悉尼和墨尔本领跌，全国房价较峰值已下跌约7%。",
+      "whyImportant": "房地产市场的持续疲软可能对澳大利亚的整体经济增长前景构成重大挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "589602d5fff721f7",
+      "title": "Ex-official among 33,019 who failed to complete eTAX filings amid unclear wording",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3365925/ex-official-among-33019-who-failed-complete-etax-filings-amid-unclear-wording?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T04:50:54.000Z",
+      "summary": "More than 33,000 people failed to submit completed tax returns because of unclear wording in Hong Kong’s eTAX system, the ombudsman has found, with nearly 5,200 receiving penalty notices and two prosecuted. Dr Luk Che-chung, a former chief executive of the Hospital Authority’s Hong Kong East area, was among the affected taxpayers and urged the government on Tuesday to learn from the incident. In a report released on Monday, the Office of the Ombudsman said ambiguous instructions on the eTAX...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3365925/ex-official-among-33019-who-failed-complete-etax-filings-amid-unclear-wording?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T04:50:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1936382307f59011cf4982b1",
+      "isContinuation": false,
+      "titleZh": "因系统表述不清，超3.3万名纳税人未能完成电子报税，其中包括一名前官员",
+      "summaryZh": "香港申诉专员公署报告称，由于电子报税系统（eTAX）说明模糊，超过3.3万名纳税人未能完成申报，其中近5200人收到罚款通知，两人被起诉。前医院管理局高管卢志忠亦受此影响，呼吁政府吸取教训。",
+      "whyImportant": "该事件暴露了政府电子服务系统在用户体验和指引清晰度方面的不足。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2cfde9e9aa9a8cac",
+      "title": "John Healey invites October budget ideas from Treasury staff of all levels",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/john-healey-invites-october-budget-ideas-from-treasury-staff-of-all-levels",
+      "publishedAt": "2026-09-01T04:00:45.000Z",
+      "summary": "Chancellor says he wants everyone from apprentices to senior economists to take part in brainstorming exercise John Healey has asked junior Treasury staff – including IT workers and apprentices – to send him ideas for his October budget, saying he will listen to all suggestions regardless of grade or profession. The chancellor’s unorthodox approach comes as he faces a tricky autumn with expected inflation rises, sluggish growth and potential cuts from other departments to fund extra defence spending. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/sep/01/john-healey-invites-october-budget-ideas-from-treasury-staff-of-all-levels",
+          "publishedAt": "2026-09-01T04:00:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "环境"
       ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8a1ff47c06fe033e77328067",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1086873994135b7852ebe919",
       "isContinuation": false,
-      "titleZh": "乌克兰准备与特朗普特使进行会谈，基辅正从致命袭击中恢复",
-      "summaryZh": "乌克兰总统泽连斯基宣布，乌方正准备与美国总统特朗普的代表进行新一轮会谈。他表示希望通过外交手段寻求和平，避免战争成为唯一的选择。",
-      "whyImportant": "乌美双方的接触对于未来乌克兰冲突的走向具有关键意义。",
+      "titleZh": "约翰·希利邀请财政部各级员工为十月预算案提供建议",
+      "summaryZh": "英国财政大臣约翰·希利邀请包括实习生和IT人员在内的全体财政部员工，为十月份的预算案贡献想法。此举旨在应对通胀上升、增长缓慢及国防支出增加带来的财政压力。",
+      "whyImportant": "这种非传统的咨询方式反映了政府在面对严峻经济挑战时寻求广泛内部共识的尝试。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "44df3a4647f580a8",
-      "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+      "id": "bf17d9ba2f80bb8c",
+      "title": "Child trust fund firms face review over efforts to find who owns £1.5bn worth of pots",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
-      "publishedAt": "2026-08-30T15:08:33.000Z",
-      "summary": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donald Trump, insisting the South American country will maintain ownership and sovereignty over its massive oil reserves. Rodríguez, who assumed power in January after Trump ordered the abduction of the president, Nicolás Maduro, took to the airwaves on Saturday to push back against criticism of what the US president has called “the biggest oil deal in world history”. Continue reading...",
+      "url": "https://www.theguardian.com/money/2026/sep/01/child-trust-fund-firms-face-review-over-efforts-to-find-who-owns-15bn-worth-of-pots",
+      "publishedAt": "2026-09-01T04:00:45.000Z",
+      "summary": "Exclusive: FCA pressures firms to do more to sort 760,000 accounts as watchdog urges families to use free tracking service Child trust fund providers are being put under the spotlight to check they are treating savers fairly and doing all they can to reunite young people with lost accounts. The Financial Conduct Authority (FCA) said about 760,000 accounts worth an average of £2,000 were yet to be claimed – more than £1.5bn in total – as it launched a review of the market. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
-          "publishedAt": "2026-08-30T15:08:33.000Z"
+          "url": "https://www.theguardian.com/money/2026/sep/01/child-trust-fund-firms-face-review-over-efforts-to-find-who-owns-15bn-worth-of-pots",
+          "publishedAt": "2026-09-01T04:00:45.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "能源",
+        "全球焦点",
+        "金融",
         "国际组织"
       ],
-      "score": 56,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "cfcaf78d8eaeaf9eda092549",
+      "fingerprint": "6bdd0be90665d2dbad14e119",
       "isContinuation": false,
-      "titleZh": "委内瑞拉德尔西·罗德里格斯为她与特朗普达成的“无尽”石油协议辩护",
-      "summaryZh": "委内瑞拉临时总统德尔西·罗德里格斯为该国与特朗普达成的能源协议辩护，坚称委内瑞拉仍拥有其石油储备的主权。该协议因涉及美国控制委内瑞拉650亿桶石油而引发国内强烈抗议。",
-      "whyImportant": "此协议引发了关于国家主权与能源控制权的重大争议，并加剧了委内瑞拉国内的政治紧张局势。",
+      "titleZh": "儿童信托基金公司面临审查，涉及15亿英镑无人认领账户",
+      "summaryZh": "英国金融行为监管局（FCA）正对儿童信托基金提供商展开审查，以确保其公平对待储户并帮助年轻人找回遗失账户。目前约有76万个账户处于无人认领状态，总金额超过15亿英镑。",
+      "whyImportant": "监管机构的介入旨在保护年轻储户的资产权益，并提高金融服务的透明度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8ab9224bfbf78fdb",
-      "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
+      "id": "c7efedbfe85ac782",
+      "title": "NSW top prosecutor Sally Dowling and state attorney general discussed which barristers could review her office, estimates hears",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
-      "publishedAt": "2026-08-30T19:36:57.000Z",
-      "summary": "Tom Homan denies British far-right commentator, who was deported one day after arrest, got preferential treatment The White House “border czar,” Tom Homan, denied on Sunday that deporting British far-right commentator Milo Yiannopoulos just a day after being arrested by US Immigration and Customs Enforcement (ICE) amounted to preferential treatment. Homan said it was his understanding that Yiannopoulos, 41, had overstayed what he believed to be a visitor visa, had not appeared at an immigration hearing and was issued a final order of removal on 22 July. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/01/nsw-prosecutor-sally-dowling-discussed-barristers-attorney-general-dpp-ntwnfb",
+      "publishedAt": "2026-09-01T03:18:58.000Z",
+      "summary": "Sally Dowling tells budget estimates that Michael Daley called to tell her he was appointing a senior counsel and ‘raised quite a number of names’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The top prosecutor in NSW says she discussed a list of barristers to lead an independent review into controversial findings against her office with the state’s attorney general, before he appointed someone she had known “professionally and socially” for nearly 30 years. Last month, a state parliamentary committee voted 4-3 to find that the New South Wales director of public prosecutions (DPP), Sally Dowling SC, had given false evidence about the pitching of a story about an Indigenous child performing an acknowledgement of country at a sentencing hearing to radio station 2GB. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
-          "publishedAt": "2026-08-30T19:36:57.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/sep/01/nsw-prosecutor-sally-dowling-discussed-barristers-attorney-general-dpp-ntwnfb",
+          "publishedAt": "2026-09-01T03:18:58.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
+        "全球焦点",
+        "突发"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d59900dfd21086a1a2167130",
+      "isContinuation": false,
+      "titleZh": "新南威尔士州首席检察官萨莉·道林与州总检察长讨论了由谁来审查其办公室",
+      "summaryZh": "新南威尔士州首席检察官萨莉·道林在预算评估中透露，她曾与州总检察长讨论过负责对其办公室进行独立审查的律师人选。最终被任命的律师与道林有着近30年的职业和私人交情，此前她因被指控在议会作伪证而面临审查。",
+      "whyImportant": "此事件引发了公众对司法审查独立性及政府任命程序透明度的质疑。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8bce93a407b2ee1c",
+      "title": "Australia news live: PM shuts down questions of China ‘bullying’ on eve of Pacific forum; Victorian police officer charged after allegedly hitting teen with baton",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+      "publishedAt": "2026-09-01T04:59:36.000Z",
+      "summary": "Follow updates live Get our breaking news email, free app or daily news podcast 43 Australians still missing, with concerns growing ‘every day, every hour’ that goes by, Wong says The foreign affairs minister, Penny Wong, says there are still 43 Australian missing after the flooding in Nepal, saying the government holds grave concerns for their safety that only gets worse as the days go by. This is such a distressing time and I know this is so difficult for the family and friends of those 43 Australians. Every day, every hour, only increases our concern for those who have not been found and remain missing, and that is many Australians. … You can imagine how many families and friends are traumatised as a consequence. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+          "publishedAt": "2026-09-01T04:59:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "环境",
         "国际组织"
       ],
-      "score": 55,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "604f4188102611cb872a3de3",
+      "fingerprint": "feeb04aecf1efceea2646d18",
       "isContinuation": false,
-      "titleZh": "特朗普“边境沙皇”否认米洛·伊安诺波卢斯被迅速驱逐是为了让他免受移民局拘留",
-      "summaryZh": "白宫“边境沙皇”汤姆·霍曼否认英国极右翼评论员米洛·伊安诺波卢斯在被捕次日即被驱逐出境是享受了特殊待遇。霍曼表示，伊安诺波卢斯因逾期滞留且未出席移民听证会，已于7月22日被下达最终驱逐令。",
-      "whyImportant": "此事件引发了公众对移民执法程序公平性及是否存在政治优待的质疑。",
+      "titleZh": "澳大利亚新闻直播：总理在太平洋论坛前夕回避有关中国“欺凌”的提问；维多利亚州一名警察因涉嫌用警棍击打青少年被起诉",
+      "summaryZh": "澳大利亚外交部长黄英贤表示，尼泊尔洪灾后仍有43名澳大利亚人失踪，政府对他们的安全深感忧虑。随着时间推移，失踪者家属的痛苦与日俱增，搜救工作仍在持续进行中。",
+      "whyImportant": "该事件凸显了海外自然灾害对澳大利亚公民造成的严重影响及政府面临的救援压力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "f1acf504161f40da",
-      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "publishedAt": "2026-08-30T18:57:22.000Z",
-      "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario, with the Ontario premier erecting a giant sign saying “Lake Ontario. Now and Always” – and the American president posting a video of him tearing down an avatar of that sign, erecting a replacement saying Lake America, and dancing to YMCA. Rhetoric over the naming of Lake Ontario is the public face of an escalating trade dispute between the US and its northern neighbor involving a 50% US tariff on Canadian steel and retaliatory tariffs from Ottawa. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-          "publishedAt": "2026-08-30T18:57:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济"
-      ],
-      "score": 54,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8c1e410b0bf58ddf4099c25d",
-      "isContinuation": false,
-      "titleZh": "随着与特朗普关于名称的争端升级，加拿大竖起巨大的“安大略湖”标志",
-      "summaryZh": "特朗普与加拿大就安大略湖更名问题持续发生口角，特朗普发布视频展示其拆除安大略湖标志并替换为“美国湖”的过程。这一争端是美加两国因钢材关税引发的贸易战的公开表现。",
-      "whyImportant": "地名争端反映了美加两国在贸易政策上的深层矛盾，进一步加剧了双边外交紧张关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "003114e9efdac3cc",
-      "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
-      "publishedAt": "2026-08-30T17:16:52.000Z",
-      "summary": "Trump’s threat comes after host described success record of candidates whom president had endorsed as ‘mixed’ Donald Trump ⁠on Sunday said NBC’s Kristen ‌Welker – host of Meet the Press – should face “rebuke or punishment” from the Federal Communications Commission (FCC). Welker, during a live segment for a local Washington, DC, affiliate, described the success record of political candidates whom the president had endorsed as “mixed”. The segment aired prior to Sunday’s edition of Meet the Press. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
-          "publishedAt": "2026-08-30T17:16:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 53,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7a9672cecc1c45003d7a7fe9",
-      "isContinuation": false,
-      "titleZh": "特朗普称NBC的克里斯汀·威尔克应受到联邦通信委员会的“惩罚”",
-      "summaryZh": "特朗普因NBC主持人克里斯汀·威尔克称其背书的候选人表现“好坏参半”，公开要求联邦通信委员会对其进行惩罚。该言论出现在威尔克主持的《会见新闻界》节目播出前的一段直播中。",
-      "whyImportant": "总统对媒体报道的公开施压引发了关于新闻自由及政府干预媒体监管的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "80226a3cb4a833b4",
-      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+      "id": "6d16e3c4670d518f",
+      "title": "Shein shares fall in long-awaited stock market debut",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T03:56:15.000Z",
-      "summary": "A passenger ferry capsized and sank off Northern Cyprus Sunday, killing at least eight people and leaving more than a dozen missing, officials and media reports said, as police took the captain and seven crew members into custody. Several rescued passengers told local media a blast had gone off at the bow of the ferry before it rolled over, and said the boat had an insufficient supply of life-vests. The vessel capsized 6.5km (4 miles) off the coast of Cyprus, shortly after leaving a Northern...",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T04:15:15.000Z",
+      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-08-31T03:56:15.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3365774/least-8-dead-22-missing-ferry-capsizes-northern-cyprus?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T16:43:28.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
-          "publishedAt": "2026-08-30T15:12:02.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6ab560910fc13c0bcfde7a9a",
-      "isContinuation": false,
-      "titleZh": "北塞浦路斯附近一艘渡轮倾覆，造成8人死亡，18人失踪",
-      "summaryZh": "一艘渡轮在北塞浦路斯海岸附近倾覆，导致至少8人死亡，多人失踪，警方已拘留船长及七名船员。幸存者称船头曾发生爆炸，且船上救生衣数量不足。",
-      "whyImportant": "这起严重的海上事故暴露了当地航运安全管理的重大漏洞，引发了对公共交通安全标准的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5de9cb0aa694b056",
-      "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
-      "publishedAt": "2026-08-30T20:15:47.000Z",
-      "summary": "The exchange of attacks is the first flare-up in violence between the two sides since late July.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
-          "publishedAt": "2026-08-30T20:15:47.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-01T04:15:15.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "金融",
+        "持续关注"
       ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "06d6312884b43ed1c8a9ea6a",
-      "isContinuation": false,
-      "titleZh": "伊朗在美军袭击拉拉克岛后攻击约旦境内的美军基地",
-      "summaryZh": "伊朗对约旦境内的美军基地发动了攻击，这是双方自7月下旬以来首次爆发的暴力冲突。此次袭击是对美国此前打击拉拉克岛行动的回应。",
-      "whyImportant": "美伊之间军事冲突的升级增加了中东地区局势的不确定性与地缘政治风险。",
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b4849151c4dd69f453878b08",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "希音（Shein）股价在备受期待的上市首日下跌",
+      "summaryZh": "在经历了多年寻求在纽约和伦敦上市的尝试后，希音公司于周二在香港正式挂牌上市。然而，其股价在上市首日表现不佳，出现下跌。",
+      "whyImportant": "作为全球快时尚巨头，希音的上市表现反映了资本市场对其商业模式及未来增长潜力的评估。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e88b97a69121b9b9",
-      "title": "Trump calls for ‘punishment’ of NBC journalist over endorsement coverage",
+      "id": "089860b605721874",
+      "title": "US judge approves order to force-feed suspect who attacked National Guard troops",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
-      "publishedAt": "2026-08-30T19:37:37.000Z",
-      "summary": "US President Donald Trump on Sunday threatened a prominent NBC broadcast journalist with possible punishment by US media regulators as the Republican expressed disappointment with coverage of his candidate endorsements ahead of November’s midterm elections. Trump took to his Truth Social platform to attack Kristen Welker as the “unpopular ‘hostess’ of the once great Meet the Press” talk show. He objected to her having said the president had had “mixed results” on his endorsement of political...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365898/judge-authorises-involuntary-feeding-jailed-suspect-deadly-national-guard-shooting?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T20:38:01.000Z",
+      "summary": "A man refusing to eat food while jailed on charges he shot two National Guard troops near the White House, killing one of them, can be fed against his will under a judge’s emergency order. US District Judge Amit Mehta agreed on Saturday to order “non-consensual” nutrition and medical treatment for Rahmanullah Lakanwal, who was rushed to a hospital in July after he stopped eating. Mehta said Federal Bureau of Prisons medical staff can feed Lakanwal intravenously or through a medical tube to save...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
-          "publishedAt": "2026-08-30T19:37:37.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365898/judge-authorises-involuntary-feeding-jailed-suspect-deadly-national-guard-shooting?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T20:38:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d2112eacf9143dbf5775e6f8",
+      "isContinuation": false,
+      "titleZh": "美国法官批准强制喂食袭击国民警卫队士兵的嫌疑人",
+      "summaryZh": "一名因涉嫌枪杀国民警卫队士兵而被捕的嫌疑人拉赫曼努拉·拉坎瓦尔，在狱中采取绝食抗议。美国联邦法官发布紧急命令，允许监狱医疗人员对其进行非自愿的静脉或管饲喂养，以挽救其生命。",
+      "whyImportant": "此举引发了关于囚犯权利与国家医疗干预义务之间法律界限的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fadba15f89afb6d8",
+      "title": "US Army Secretary Driscoll resigns after rifts in Pentagon leadership",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3365905/us-army-secretary-dan-driscoll-resigns-after-18-months-job-white-house-says?utm_source=rss_feed",
+      "publishedAt": "2026-08-31T22:54:27.000Z",
+      "summary": "US Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration. No reason was given for the departure of Driscoll, who is a friend of US Vice-President J.D. Vance, but tensions with US Defence Secretary Pete Hegseth have been widely reported. It marks the latest in a series of shake-ups of the military leadership, with the US Army especially seeing major upheaval. “Secretary...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365905/us-army-secretary-dan-driscoll-resigns-after-18-months-job-white-house-says?utm_source=rss_feed",
+          "publishedAt": "2026-08-31T22:54:27.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "86ac31ddda661355552f79c4",
+      "isContinuation": false,
+      "titleZh": "美国陆军部长德里斯科尔因五角大楼领导层分歧辞职",
+      "summaryZh": "白宫周一宣布，美国陆军部长丹·德里斯科尔在任职18个月后辞职。尽管官方未说明辞职原因，但外界普遍报道他与国防部长皮特·赫格塞斯之间存在紧张关系。",
+      "whyImportant": "此次辞职是特朗普政府时期一系列高级军事领导层变动的一部分，反映了五角大楼内部的持续动荡。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3753d99569ac3818",
+      "title": "US university to pay US$2.1 million settlement over claims it didn’t disclose China ties",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365909/us-university-pay-us21-million-settlement-over-claims-it-didnt-disclose-china-ties?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T01:14:55.000Z",
+      "summary": "A prominent American university has agreed to pay a US$2.1 million settlement to resolve allegations that it failed to disclose employees’ ties to China when applying for federal grant funding, the Department of Justice announced on Monday. Ohio State University’s (OSU) settlement relates to Nasa and National Science Foundation (NSF) grants that provided funding to the university from November 2012 to August 2023. Both Nasa and the NSF required the public university to disclose “foreign...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365909/us-university-pay-us21-million-settlement-over-claims-it-didnt-disclose-china-ties?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T01:14:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0c2808a54e511194fcfe36fa",
+      "isContinuation": false,
+      "titleZh": "美国一所大学因未披露与中国的联系支付210万美元和解金",
+      "summaryZh": "美国司法部周一宣布，俄亥俄州立大学同意支付210万美元和解金，以解决其在申请联邦拨款时未披露员工与中国联系的指控。该和解涉及2012年至2023年间获得的美国国家航空航天局和国家科学基金会的资助项目。",
+      "whyImportant": "此案凸显了美国政府对学术机构在获取联邦科研资金时，关于外国关联披露要求的严格监管。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4fc0cc265f13c008",
+      "title": "Fact Sheet: Delivering a Universal Sign-on for Public Services",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-delivering-a-universal-sign-on-for-public-services/",
+      "publishedAt": "2026-08-31T20:38:36.000Z",
+      "summary": "IMPROVING PUBLIC SERVICE DELIVERY: The Trump Administration continues to improve how Government delivers services to the American public, in particular through the use of leading and emerging technologies. Today, the Office of Management and Budget released a new policy enforcing the use of Login.gov for most public-facing services, setting Government on a path towards having […] The post Fact Sheet: Delivering a Universal Sign-on for Public Services appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-delivering-a-universal-sign-on-for-public-services/",
+          "publishedAt": "2026-08-31T20:38:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7fb16e36567d1715fc41360a",
+      "isContinuation": false,
+      "titleZh": "情况说明书：为公共服务提供统一登录入口",
+      "summaryZh": "特朗普政府发布新政策，强制要求大多数面向公众的政府服务使用Login.gov系统。此举旨在利用新兴技术改善政府服务交付方式，实现统一登录。",
+      "whyImportant": "该政策旨在通过数字化手段提升美国政府公共服务的效率和用户体验。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4bf4f2e61a0c60b8",
+      "title": "Across Latin America, 'aura battles' burst onto the scene",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T19:11:57.000Z",
+      "summary": "Young people across Latin America are taking part in the contests where participants compete to prove who has the most charisma.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-08-31T19:11:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "96b19747de37c2be344125c7",
+      "isContinuation": false,
+      "titleZh": "拉丁美洲兴起“光环之战”",
+      "summaryZh": "拉丁美洲的年轻人正在参与一种名为“光环之战”的竞赛。参赛者通过比拼来展示谁拥有最强的个人魅力。",
+      "whyImportant": "这一现象反映了社交媒体文化对当代青年社交互动和自我表达方式的影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0ad05bf6b72f2c6f",
+      "title": "Going big and going green can work together for Hong Kong mega-events",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365590/going-big-and-going-green-can-work-together-hong-kong-mega-events?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T01:30:08.000Z",
+      "summary": "Hong Kong’s mega-event economy is thriving. In a blog post last month, Financial Secretary Paul Chan Mo-po noted that in the first half of 2026, the city hosted more than 130 mega-events, drawing 1.75 million visitors and injecting roughly HK$5.8 billion (US$739.9 million) into the local economy. These figures are the ongoing dividends of the government’s sustained policy and financial backing. This momentum is well-documented: in the last two years, the concerts of global A-listers such as...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365590/going-big-and-going-green-can-work-together-hong-kong-mega-events?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T01:30:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "76d1fcaeddd9d3d81977b3e6",
+      "isContinuation": false,
+      "titleZh": "香港大型活动如何实现规模化与绿色化并举",
+      "summaryZh": "香港大型活动经济持续增长，2026年上半年举办了超过130场活动，吸引了175万游客并带来约58亿港元的经济贡献。政府正通过持续的政策和资金支持，推动大型活动在保持经济效益的同时实现可持续发展。",
+      "whyImportant": "这展示了香港在后疫情时代通过大型活动提振旅游业和经济的战略方向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d286d92224386ae7",
+      "title": "South Korea’s top presidential aide resigns following cabinet reshuffle",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3365912/south-koreas-top-presidential-aide-resigns-following-cabinet-reshuffle?utm_source=rss_feed",
+      "publishedAt": "2026-09-01T02:15:05.000Z",
+      "summary": "South Korea’s chief presidential policy adviser has resigned, the presidential Blue House said on Tuesday, after President Lee Jae ‌Myung reshuffled his cabinet and senior aides amid a drop in his approval rating. Kim Yong-beom was a key adviser to Lee on economic policy, including on housing and ⁠stock market issues. Kim had offered to step down from the post on Monday, which oversees the administration’s economic and domestic policy agenda. During his term, Kim had drawn criticism over the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3365912/south-koreas-top-presidential-aide-resigns-following-cabinet-reshuffle?utm_source=rss_feed",
+          "publishedAt": "2026-09-01T02:15:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2241,22 +2124,58 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "金融"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "979109c85eb27a3000cef00e",
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "523bd1b63104a9c3bcc8bf70",
       "isContinuation": false,
-      "titleZh": "特朗普因背书报道要求“惩罚”NBC记者",
-      "summaryZh": "特朗普威胁要让媒体监管机构惩罚NBC记者克里斯汀·威尔克，因其在报道中称特朗普背书的候选人表现“好坏参半”。特朗普在社交平台上对该记者的报道表示不满。",
-      "whyImportant": "总统针对特定记者的言论再次引发了关于政治权力与媒体监督边界的争议。",
+      "titleZh": "韩国总统府高级幕僚在内阁改组后辞职",
+      "summaryZh": "在总统李在明因支持率下降进行内阁和高级幕僚改组后，韩国总统府首席政策顾问金永范宣布辞职。金永范此前负责监督政府的经济和国内政策议程，包括住房和股市问题。",
+      "whyImportant": "此次人事变动反映了韩国政府在应对国内经济挑战和民意压力时的政策调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a1bd6c566d0d57d9",
+      "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+      "publishedAt": "2026-09-01T01:53:39.000Z",
+      "summary": "Flash flooding in Arizona tourist destination was likely triggered by compounding climate factors, such as drought and warming in Pacific Ocean Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history A deadly flash flood in the Grand Canyon over the weekend was likely driven by a confluence of climate factors, including drought, wildfire scarring and warming temperatures in the Pacific Ocean that can supercharge storms. At least two people have died, nearly 80 people were rescued and one remained unaccounted for after a surge of water and debris swept through the immensely popular tourist destination on Saturday, fueled by torrents of rain that hit the national park’s Bright Angel Creek area. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+          "publishedAt": "2026-09-01T01:53:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境",
+        "公共安全"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8e1a281d85093e59edbfb29b",
+      "isContinuation": false,
+      "titleZh": "大峡谷强降雨如何演变成致命灾难",
+      "summaryZh": "大峡谷周末发生的致命山洪是由干旱、野火造成的植被破坏以及太平洋气温升高引发的极端天气共同导致的。此次灾害造成至少两人死亡，近80人获救，仍有一人失踪。",
+      "whyImportant": "该事件凸显了气候变化因素如何加剧自然灾害的破坏力，对旅游景点的安全管理提出了挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
