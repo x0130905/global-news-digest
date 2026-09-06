@@ -1,245 +1,285 @@
 {
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-05T04:25:39.657Z",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T04:36:32.828Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "usa",
-    "name": "美国政策与全球影响",
-    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
-    "query": "United States policy economy diplomacy security",
+    "slug": "economy-finance",
+    "name": "全球经济与金融",
+    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
+    "query": "global economy finance trade inflation interest rates",
     "keywords": [
-      "united states",
-      "u.s.",
-      "american",
-      "washington",
-      "white house",
-      "美国",
-      "华盛顿",
-      "白宫",
-      "美联储"
+      "economy",
+      "trade",
+      "tariff",
+      "inflation",
+      "market",
+      "bank",
+      "interest rate",
+      "经济",
+      "贸易",
+      "通胀",
+      "金融",
+      "利率"
     ],
-    "accent": "#3b82f6"
+    "accent": "#10b981"
   },
-  "overview": "今日专题“美国政策与全球影响”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“全球经济与金融”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "50b8cc60bf303416",
-      "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "publishedAt": "2026-09-04T20:21:52.000Z",
-      "summary": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House. It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time. Continue reading...",
+      "id": "e3de1981f2811777",
+      "title": "Tesla to exhibit Cybercab robotaxi in China: can it spark buzz amid slow sales?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T04:00:09.000Z",
+      "summary": "Tesla is facing weaker sales in China this year, but the American electric vehicle (EV) manufacturer is looking to generate a buzz in its second-largest market by exhibiting its new self-driving vehicle, the Cybercab. The robotaxi – which operates entirely without a steering wheel, pedals or rear-view mirrors – would debut in major Chinese cities, including Beijing and Shanghai, starting mid-September in a showcase of product design and technological sophistication, according to Tesla...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-          "publishedAt": "2026-09-04T20:21:52.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T04:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "market",
+        "金融"
+      ],
+      "fingerprint": "89dde38896f556fcc5bda45f",
+      "isContinuation": false,
+      "titleZh": "特斯拉将在中国展示Cybercab无人驾驶出租车：能否在销量疲软中激起热度？",
+      "summaryZh": "面对中国市场销量下滑的压力，特斯拉计划从9月中旬起在北京、上海等主要城市展示其无方向盘、无踏板的Cybercab无人驾驶出租车。此举旨在通过展示前沿设计和技术实力，重振品牌在华市场的影响力。",
+      "whyImportant": "特斯拉试图通过技术创新展示来应对中国电动汽车市场日益激烈的竞争和销量增长放缓的问题。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a35efc0f8b53f68c",
+      "title": "US strikes 3 Iranian oil tankers after warships targeted, military says",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366498/us-disables-or-destroys-3-iran-oil-tankers-after-warships-targeted?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T14:59:57.000Z",
+      "summary": "US Central Command (CENTCOM) said it hit three Iranian oil tankers on Saturday, including one off the coast of Kharg Island adjoining Iran’s major oil export hub. CENTCOM said the strikes were conducted after Iran’s Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles at a pair of US Navy ships. “Let the message to the IRGC be clear: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours,” said Admiral Brad Cooper, CENTCOM’s...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3366498/us-disables-or-destroys-3-iran-oil-tankers-after-warships-targeted?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T14:59:57.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "能源",
+        "专题·全球经济与金融"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "600acb130a848f7c21badb31",
+      "isContinuation": false,
+      "titleZh": "美军称在伊朗伊斯兰革命卫队袭击美舰后，打击了三艘伊朗油轮",
+      "summaryZh": "美国中央司令部表示，在伊朗伊斯兰革命卫队向两艘美国海军舰艇发射弹道导弹后，美军对三艘伊朗油轮实施了打击。美方称此举旨在通过经济手段回应针对美军的攻击。",
+      "whyImportant": "此次军事行动标志着美伊之间的紧张局势显著升级，增加了地区冲突扩大的风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "454475517d1a97e9",
+      "title": "Asia-Pacific media outlets forge new partnerships ahead of Shenzhen Apec summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3366482/asia-pacific-media-outlets-forge-new-partnerships-ahead-shenzhen-apec-summit?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T10:03:07.000Z",
+      "summary": "Media outlets across the Asia-Pacific region have gathered in Shenzhen to deepen collaboration on content, talent and technology ahead of the coming Asia-Pacific Economic Cooperation (Apec) summit in the southern Chinese city. Hundreds of media representatives witnessed the launch of several partnerships at the Asia-Pacific Media Forum, which opened in Shenzhen on Saturday after two days of sub-forums in other Guangdong cities as part of a series of events marking the 2026 Apec “China...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3366482/asia-pacific-media-outlets-forge-new-partnerships-ahead-shenzhen-apec-summit?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T10:03:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "经济",
+        "科技",
+        "专题·全球经济与金融"
       ],
       "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "white house",
-        "美国"
+        "经济"
       ],
-      "fingerprint": "b8d38a18d80c323ac59fefdc",
+      "fingerprint": "4873823229c9ac96e69dea64",
       "isContinuation": false,
-      "titleZh": "特朗普的“报复”可能包括将马尔维纳斯群岛作为对米莱的恩惠，并以此报复英国",
-      "summaryZh": "美国总统特朗普暗示可能支持阿根廷对马尔维纳斯群岛的主权主张。此举被视为其对阿根廷总统米莱的支持，同时也可能被解读为对英国的某种报复。",
-      "whyImportant": "若美国改变对马岛主权争议的立场，将对英美特殊关系及南美地缘政治产生重大冲击。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0153c02ef0630c84",
-      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-      "publishedAt": "2026-09-04T13:50:43.000Z",
-      "summary": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags that he says contained the corpses of 23 “neutralised” guerrillas. De La Espriella took power last month vowing “all-out war” against illegal armed groups and he published the footage on Thursday in an apparent attempt to show he was fulfilling that pledge. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-          "publishedAt": "2026-09-04T13:50:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "2318344860a60be95ad48127",
-      "isContinuation": false,
-      "titleZh": "哥伦比亚总统与“恐怖分子”尸体合影引发厌恶",
-      "summaryZh": "哥伦比亚总统阿韦拉多·德拉埃斯皮耶拉在社交媒体发布视频，展示其走过23具被“消灭”的游击队员尸体。此举旨在展示其履行打击非法武装团体的承诺，但引发了公众的强烈抗议。",
-      "whyImportant": "该事件反映了美洲地区民粹主义政治风格的激进化趋势，引发了关于政治领导人行为准则的伦理争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d9be8a7648a13535",
-      "title": "How US military presence spurred Pattaya’s rise into Thailand’s city of pleasure",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366424/how-us-military-presence-spurred-pattayas-rise-thailands-city-pleasure?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T11:32:45.000Z",
-      "summary": "The Amazon deliveries stopped reaching the USS Abraham Lincoln in February as it entered the conflict zone with Iran. A few weeks later – much to the chagrin of the sailors on board – even that most American of meals, the hamburger, was compromised by supply shortages when burger buns ran out. But as they unwind on their first shore leave in 286 days, the 5,000 crew of the Nimitz-class aircraft carrier are finding out what tens of thousands of their forebears already knew: Pattaya will...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366424/how-us-military-presence-spurred-pattayas-rise-thailands-city-pleasure?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T11:32:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "4c6810e0ff8a28e466e88bf3",
-      "isContinuation": false,
-      "titleZh": "美国军事存在如何推动芭堤雅成为泰国的“享乐之城”",
-      "summaryZh": "在海上执行任务近300天后，美国“亚伯拉罕·林肯”号航母的5000名船员抵达芭堤雅进行休整。芭堤雅作为美军长期以来的度假胜地，其城市发展深受美军消费和文化的影响。",
-      "whyImportant": "文章探讨了军事部署与当地旅游经济及社会文化演变之间的长期历史联系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e12ef7fbad742346",
-      "title": "Lunar Occultation of Venus",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-      "publishedAt": "2026-09-04T14:14:57.000Z",
-      "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "NASA",
-          "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-          "publishedAt": "2026-09-04T14:14:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "cb8295934ee1bcc411e501a8",
-      "isContinuation": false,
-      "titleZh": "月掩金星天象",
-      "summaryZh": "6月17日，美国和加拿大等地的天文爱好者观测到了一次罕见的白昼月掩金星现象。当月球运行至地球与金星之间时，金星被月球短暂遮挡。",
-      "whyImportant": "这是一次重要的天文观测事件，为科学研究和公众科普提供了难得的机会。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1e55f7f035c54e04",
-      "title": "South Korea weighs ‘contributions’ to Hormuz as US pressure mounts",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3366370/south-korea-weighs-contributions-hormuz-us-pressure-mounts?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T08:19:29.000Z",
-      "summary": "South Korea is moving towards the possible deployment of naval assets to the Strait of Hormuz under mounting pressure from Washington, potentially making it one of the first US allies to contribute militarily to the strategically vital waterway, observers have said. The government has reportedly drawn up plans to deploy military assets, including a naval logistics support ship and P-8A maritime patrol aircraft, to the strait. If carried out, the deployment would mark South Korea’s first dispatch...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3366370/south-korea-weighs-contributions-hormuz-us-pressure-mounts?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T08:19:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 54,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "6a1ef4373550f588614a86df",
-      "isContinuation": false,
-      "titleZh": "在美方压力下，韩国考虑向霍尔木兹海峡派遣军事力量",
-      "summaryZh": "受美国压力影响，韩国正计划向霍尔木兹海峡派遣海军后勤支援舰和海上巡逻机。若计划实施，这将是韩国首次向该战略要地派遣军事资产。",
-      "whyImportant": "此举标志着韩国在地区安全事务中可能采取更积极的军事参与姿态，并可能影响其与中东及美国的关系。",
+      "titleZh": "亚太媒体在深圳APEC峰会前建立新伙伴关系",
+      "summaryZh": "在深圳APEC峰会召开前夕，亚太地区多家媒体机构齐聚深圳，旨在深化内容、人才和技术方面的合作。此次论坛作为2026年APEC中国系列活动的一部分，旨在加强区域媒体间的交流与协作。",
+      "whyImportant": "媒体合作的深化有助于在APEC峰会期间提升区域信息传播的协同效应。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "a61407df8ac94cdc",
-      "title": "Blasts at Bolivian military base kill at least 10, injure dozens",
+      "id": "97c35dd12142b39d",
+      "title": "Australia news live: up to 6,000 tradies to get free qualifications under Labor scheme",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+      "publishedAt": "2026-09-06T04:25:37.000Z",
+      "summary": "Follow today’s news live Get our breaking news email, free app or daily news podcast Duniam targets ‘frivolous’ asylum seeker claims The opposition is “very close” to “having a full migration package”, Duniam says. He says they’re willing to work with the government and that illegal overstayers must be deported. We spend more per student per year than we ever have before and we’ve got declining standards across the board, and the problem with the curriculum is we have left foundations behind. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+          "publishedAt": "2026-09-06T04:25:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c37de2e3b4d2c0639a99badd",
+      "isContinuation": false,
+      "titleZh": "澳大利亚新闻直播：工党计划为多达6000名技工提供免费资格认证",
+      "summaryZh": "澳大利亚工党推出一项新计划，旨在为多达6000名技工提供免费的职业资格认证。与此同时，反对党正致力于制定全面的移民政策，并强调必须驱逐非法逾期居留者。",
+      "whyImportant": "该计划旨在缓解劳动力短缺问题，同时引发了关于教育质量和移民政策的政治辩论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e471da62c27e0687",
+      "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+      "publishedAt": "2026-09-06T04:00:55.000Z",
+      "summary": "Serhii Beskrestnov says deadlock on frontline and increasing use of deep strikes is placing civilians and infrastructure at greater risk Russia and Ukraine are locked in an escalating war of long-range strikes with a growing risk to civilians in which neither side can entirely prevail, according to Volodymyr Zelenskyy’s defence technology adviser. Serhii Beskrestnov, widely known by his call sign, Flash, said he was worried about the prospects for Kyiv this winter, and suggested elderly people should be evacuated in case Russian bombing were to knock out the capital’s energy supply. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+          "publishedAt": "2026-09-06T04:00:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "能源"
+      ],
+      "score": 61,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f56877a0d95f9de46476f25c",
+      "isContinuation": false,
+      "titleZh": "“没人会赢”：泽连斯基顾问警告称若俄乌战争持续将导致相互毁灭",
+      "summaryZh": "泽连斯基的国防技术顾问谢尔希·贝克雷斯特诺夫警告称，俄乌双方陷入远程打击的僵局，平民和基础设施面临巨大风险。他担忧基辅今冬的能源供应，并建议撤离老年人以应对可能的轰炸。",
+      "whyImportant": "此言论凸显了冲突升级对平民生存环境造成的严峻威胁，以及双方在军事上陷入僵局的现实。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ae94b0cf89202d1b",
+      "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
-      "publishedAt": "2026-09-05T03:56:16.000Z",
-      "summary": "Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.",
+      "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+      "publishedAt": "2026-09-06T02:56:31.000Z",
+      "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
-          "publishedAt": "2026-09-05T03:56:16.000Z"
+          "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+          "publishedAt": "2026-09-06T02:56:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6d3853f432e8804d907ffbcc",
+      "isContinuation": false,
+      "titleZh": "自2023年以来，以色列对黎巴嫩的袭击已造成近9000人死亡",
+      "summaryZh": "自2023年以来，以色列对黎巴嫩的军事行动已导致近9000人丧生。自3月2日以来，针对救护车队的袭击已超过179次，造成179名医护人员死亡。",
+      "whyImportant": "该数据揭示了冲突中针对医疗救援人员的袭击规模，引发了对人道主义危机的严重关切。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9036e9c935a05712",
+      "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+      "publishedAt": "2026-09-05T20:00:46.000Z",
+      "summary": "A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A man clad in a balaclava and brandishing a machete terrorises a worker at a petrol station before firebombing the building on the way out. A woman gives birth on the side of the road, unable to reach a hospital due to ambulance ramping and crater-like potholes, which also stop a fire truck in its tracks. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+          "publishedAt": "2026-09-05T20:00:46.000Z"
         }
       ],
       "sourceCount": 1,
@@ -249,18 +289,142 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "科技",
+        "环境",
+        "国际组织"
       ],
-      "score": 66,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4f3a3b8b822936504baf3ef8",
+      "fingerprint": "f431aec73233615e20712ad6",
       "isContinuation": false,
-      "titleZh": "玻利维亚一军事基地发生爆炸，造成至少10人死亡，数十人受伤",
-      "summaryZh": "当局表示，在一处储存烟火材料的设施发生致命爆炸后，仍有七人失踪。救援工作正在进行中。",
-      "whyImportant": "此次爆炸事故造成了严重的人员伤亡，引发了对军事设施安全管理的关注。",
+      "titleZh": "维多利亚州选举前夕，令人震惊的AI广告充斥社交媒体。但幕后黑手是谁？",
+      "summaryZh": "在维多利亚州选举前夕，社交媒体上出现了大量由人工智能生成的暴力广告，内容涉及持刀抢劫和基础设施崩溃等场景。这些广告的支出超过了主要政党，引发了对选举操纵和虚假信息的担忧。",
+      "whyImportant": "AI生成的政治广告对选举公正性构成了挑战，并引发了公众对虚假信息传播渠道的警惕。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a35efc0f8b53f68c",
+      "title": "US strikes 3 Iranian oil tankers after warships targeted, military says",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366498/us-disables-or-destroys-3-iran-oil-tankers-after-warships-targeted?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T14:59:57.000Z",
+      "summary": "US Central Command (CENTCOM) said it hit three Iranian oil tankers on Saturday, including one off the coast of Kharg Island adjoining Iran’s major oil export hub. CENTCOM said the strikes were conducted after Iran’s Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles at a pair of US Navy ships. “Let the message to the IRGC be clear: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours,” said Admiral Brad Cooper, CENTCOM’s...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3366498/us-disables-or-destroys-3-iran-oil-tankers-after-warships-targeted?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T14:59:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "能源",
+        "专题·全球经济与金融"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "600acb130a848f7c21badb31",
+      "isContinuation": false,
+      "titleZh": "美军称在伊朗伊斯兰革命卫队袭击美舰后，打击了三艘伊朗油轮",
+      "summaryZh": "美国中央司令部表示，在伊朗伊斯兰革命卫队向两艘美国海军舰艇发射弹道导弹后，美军对三艘伊朗油轮实施了打击。美方称此举旨在通过经济手段回应针对美军的攻击。",
+      "whyImportant": "此次军事行动标志着美伊之间的紧张局势显著升级，增加了地区冲突扩大的风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a248f2b5cd737ef0",
+      "title": "In an era of extreme summers, it’s time to look beyond air conditioning",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365989/era-extreme-summers-its-time-look-beyond-air-conditioning?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T01:30:07.000Z",
+      "summary": "The Labour Department recently upgraded its Heat Stress at Work Warning system, making it easier for higher-tier alerts to be sent out, so that employers and workers, especially those who have to work outdoors, can react quickly during very hot weather. Unfortunately, the most we seem to be able to do is issue warnings and recommend passive mitigation measures such as relaxing the work schedule, resting in the shade and staying hydrated. We are sitting ducks as temperatures peak year after...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365989/era-extreme-summers-its-time-look-beyond-air-conditioning?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T01:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ab0af70efcf1c35500d21159",
+      "isContinuation": false,
+      "titleZh": "在极端夏季时代，是时候超越空调的局限了",
+      "summaryZh": "尽管劳工部门升级了高温压力预警系统，但目前的应对措施仍局限于被动建议，如休息和补水。在极端高温频发的背景下，仅靠这些措施已难以保障户外工作者的安全。",
+      "whyImportant": "气候变化带来的极端高温对公共卫生和劳动保护提出了更迫切的系统性改革需求。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d31b4f8c9165c36d",
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T21:29:38.000Z",
+      "summary": "An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drugs case, official media reported on Saturday. The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concerning security and crime. The state-linked Al-Ahram newspaper said a Cairo court sentenced “Khalifa and 11 other defendants to death by hanging on charges of forming an organised criminal gang...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-05T21:29:38.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/africa/article/3366504/egypt-sentences-tv-presenter-11-others-death-drugs-case?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T17:38:14.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 58,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1030b441c889877323abbbc5",
+      "isContinuation": false,
+      "titleZh": "埃及毒品案：一名电视节目主持人被判死刑，共11人获刑",
+      "summaryZh": "埃及一家法院判处知名电视节目主持人萨拉·哈利法及其他11名被告死刑。他们被指控组建有组织犯罪团伙，从事毒品制造和贩运活动。",
+      "whyImportant": "知名媒体人卷入重大刑事案件并被判处极刑，在当地社会引发了广泛关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -269,7 +433,7 @@
       "title": "At least two dead in blast at Bolivia military barracks",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T02:59:40.000Z",
+      "publishedAt": "2026-09-05T15:22:41.000Z",
       "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "language": "",
       "region": "international",
@@ -277,7 +441,7 @@
         {
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-05T02:59:40.000Z"
+          "publishedAt": "2026-09-05T15:22:41.000Z"
         }
       ],
       "sourceCount": 1,
@@ -289,33 +453,33 @@
         "突发",
         "军事与安全"
       ],
-      "score": 66,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
       "fingerprint": "7506966aa60e0aca6416cced",
       "isContinuation": false,
-      "titleZh": "玻利维亚一军事营地发生爆炸，至少两人死亡",
-      "summaryZh": "当局担心维亚查（Viacha）的死亡人数会进一步上升。由于存在后续爆炸风险，民众已被警告远离该营地。",
-      "whyImportant": "该事件凸显了军事设施周边地区的安全隐患及潜在的次生灾害风险。",
+      "titleZh": "玻利维亚一军事营房发生爆炸，至少两人死亡",
+      "summaryZh": "玻利维亚维亚查的一处军事营房发生爆炸，造成至少两人死亡。当局警告称死亡人数可能上升，并要求民众远离该区域以防发生二次爆炸。",
+      "whyImportant": "此次事故造成的人员伤亡和潜在的安全隐患引起了当地政府和公众的高度重视。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6d45043f8183bb02",
-      "title": "Sydney set to hit 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
+      "id": "59c93e7c75e2a3fa",
+      "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
-      "publishedAt": "2026-09-05T02:00:54.000Z",
-      "summary": "A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditions Get our breaking news email, free app or daily news podcast Summer heat is due to arrive early across much of eastern Australia with potentially record early September temperatures predicted for Brisbane and Sydney, while snow was expected in southern New South Wales. Maximum temperatures in Sydney during the first days of September were on track to match the city’s midsummer average of 26.4C, warmer than any other start to spring since the city’s Observatory Hill station opened in 1858. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+      "publishedAt": "2026-09-05T10:00:33.000Z",
+      "summary": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancer A man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would still be alive today if the Home Office had agreed to bring her and her family to Britain. Anwar, who lives in Glasgow, fled Gaza in 2020 and was granted refugee status in the UK in 2021. After the destruction of large areas of Gaza by Israeli forces following the Hamas attacks on Israel in October 2023, he applied to bring his brother Hassan, Hassan’s wife, Maryam, their two young children and other family members to the UK in October 2025. He said the Home Office rejected their application. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
-          "publishedAt": "2026-09-05T02:00:54.000Z"
+          "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+          "publishedAt": "2026-09-05T10:00:33.000Z"
         }
       ],
       "sourceCount": 1,
@@ -326,36 +490,35 @@
         "全球焦点",
         "突发",
         "军事与安全",
-        "持续关注"
+        "国际组织"
       ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0955d69e030a765bcd3f5a37",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "悉尼气温预计将达33摄氏度，或迎19世纪中期以来最热春季开端，新南威尔士州南部则有降雪预报",
-      "summaryZh": "悉尼已发布全面禁火令，极端高温和大风天气加剧了火灾风险。与此同时，澳大利亚东部多地气温异常偏高，而新南威尔士州南部部分地区却预计出现降雪。",
-      "whyImportant": "极端天气模式的并存反映了气候变化对澳大利亚季节性气候的显著影响。",
+      "fingerprint": "739db4754ac08437a3865f37",
+      "isContinuation": false,
+      "titleZh": "加沙难民称，若英国内政部允许其嫂子入境，她本可活下来",
+      "summaryZh": "居住在格拉斯哥的安瓦尔表示，尽管他的嫂子玛丽亚姆患有癌症，但英国内政部仍拒绝了她的签证申请。安瓦尔认为，如果英国内政部当初批准其家人入境，玛丽亚姆本可以获得救治并存活至今。",
+      "whyImportant": "此事件引发了关于英国签证政策在处理人道主义危机时是否过于严苛的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ee1a1164e1ae975d",
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T02:13:21.000Z",
-      "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+      "id": "9f9e82af934b7aaf",
+      "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
+      "publishedAt": "2026-09-06T04:08:08.000Z",
+      "summary": "Anika Wells expected to release legislation creating a digital duty of care in parliament this week, but Coalition argues it is ‘attempt to censor the internet’ Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s Politics, really newsletter here Labor’s plan to crack down on social media algorithms faces significant opposition in federal parliament, with the opposition leader, Angus Taylor, warning against efforts by the government to “censor” free speech online. The communications minister, Anika Wells, is expected to release draft legislation creating a digital duty of care for social media users in Australia as parliament returns this week. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-05T02:13:21.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
+          "publishedAt": "2026-09-06T04:08:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -364,269 +527,79 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "经济",
         "军事与安全"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a2f8f5931eabe9be8cbba185",
+      "fingerprint": "2c19464311fd0efbf7817ddc",
       "isContinuation": false,
-      "titleZh": "加拿大在与美国的贸易战中能有多少反击能力？",
-      "summaryZh": "尽管美国是加拿大更大的贸易伙伴，但在不断升级的贸易争端中，加拿大仍具备一定的应对能力。分析人士正在评估其反制手段的有效性。",
-      "whyImportant": "加美贸易关系的紧张态势对北美经济稳定及双边政策走向具有重要影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5d5b2ca38cd5259a",
-      "title": "Australia’s housing prices are trending down. See which suburbs have had the biggest falls",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/05/house-prices-trending-down-sydney-melbourne-brisbane-perth-darwin",
-      "publishedAt": "2026-09-04T15:00:12.000Z",
-      "summary": "Cotality says prices have declined in most capital cities over winter. Search the data to see how they have changed in your area Get our breaking news email, free app or daily news podcast Australia’s property market is facing a rare price correction, as rising interest rates and less favourable tax settings for investors accelerate a downturn. Most capital cities recorded winter price falls, according to Cotality data, with Sydney leading the decline. That weakness is expected to continue, as higher inflation could lead to further interest rate hikes, denting demand. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/05/house-prices-trending-down-sydney-melbourne-brisbane-perth-darwin",
-          "publishedAt": "2026-09-04T15:00:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "金融"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "dc6d8647a6cfa69ccf44de21",
-      "isContinuation": false,
-      "titleZh": "澳大利亚房价呈下降趋势，查看哪些郊区跌幅最大",
-      "summaryZh": "数据显示，受利率上升和投资者税收政策调整影响，澳大利亚多数首府城市冬季房价出现下跌。悉尼领跌，且由于通胀压力可能导致进一步加息，市场疲软态势预计将持续。",
-      "whyImportant": "房地产市场的价格调整反映了宏观经济政策对居民财富和消费能力的直接冲击。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b9c8a23b4c415de0",
-      "title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-      "publishedAt": "2026-09-04T14:35:16.000Z",
-      "summary": "Russian and Ukrainian strikes in July killed more crew than in whole war to that month, preventing grain exports A summer of hostilities in the Black Sea proved deadly for seafarers, as Russia and Ukraine attacked each other’s ships and port infrastructure, preventing vital grain exports and prompting concerns that the conflict will push global food prices even higher. More crew were killed in the Black Sea in July than during the entirety of the war before that month as the conflict has intensified, making the body of water the most dangerous in the world for commercial shipping. This is despite the conflict between the US and Iran, with vessels still being targeted in the strait of Hormuz, Red Sea and Gulf of Aden. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-          "publishedAt": "2026-09-04T14:35:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "434ed18413cbc938982478b9",
-      "isContinuation": false,
-      "titleZh": "黑海袭击事件升级引发对食品价格进一步上涨的担忧",
-      "summaryZh": "俄乌双方在黑海的军事冲突导致7月份船员死亡人数激增，严重阻碍了粮食出口。黑海已成为全球商业航运最危险的区域，引发了对全球食品价格上涨的担忧。",
-      "whyImportant": "黑海航运安全受阻直接威胁全球粮食供应链，可能加剧国际通胀压力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d14173a2e07f7550",
-      "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
-      "source": "DW",
-      "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-09-04T19:31:00.000Z",
-      "summary": "Maltese businessman Yorgen Fenech has been found not guilty of complicity to murder journalist Daphne Caruana Galizia. Almost nine years after the attack, the question of who ordered her death remains unanswered.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-09-04T19:31:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f601fc7c97191a1ea6b3148d",
-      "isContinuation": false,
-      "titleZh": "马耳他大亨被判谋杀记者罪名不成立，引发众怒",
-      "summaryZh": "马耳他商人尤尔根·费内奇被判谋杀记者达芙妮·卡鲁阿纳·加利齐亚的共谋罪名不成立。在袭击发生近九年后，谁是幕后主使依然成谜。",
-      "whyImportant": "此判决引发了公众对司法公正和新闻自由保护的广泛质疑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a90c728e00337356",
-      "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168278",
-      "publishedAt": "2026-09-04T12:00:00.000Z",
-      "summary": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the UN agency said on Friday.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168278",
-          "publishedAt": "2026-09-04T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "290cb63e8508adc6b16c1ed0",
-      "isContinuation": false,
-      "titleZh": "世卫组织：乌克兰人道主义仓库屡遭袭击，重要医疗援助面临风险",
-      "summaryZh": "世界卫生组织表示，基辅地区的一处主要人道主义医疗物资仓库在夜间空袭中受损。此类袭击严重威胁了当地医疗援助的供应能力。",
-      "whyImportant": "针对人道主义设施的袭击阻碍了战区医疗救助工作，加剧了当地的人道主义危机。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "da99e973aa2c289a",
-      "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-      "publishedAt": "2026-09-05T00:00:21.000Z",
-      "summary": "The Israeli army had helped plan the delivery of food aid on 1 April 2024, but things went wrong from the beginning and ended in seven deaths • Exclusive: why seven international aid workers were killed in Israeli airstrike On the evening of 1 April 2024, a team of aid workers from World Central Kitchen (WCK) stood on Gaza’s Mediterranean shore overseeing the unloading of a barge full of desperately needed food on a makeshift jetty made of sand and rubble. The Gaza war had been raging for six months and Israel’s closure of land crossings had left the whole territory facing the threat of famine. WCK and local Palestinian contractors had constructed the jetty out of everything they could lay their hands on, including debris from the bombed house of one of the contractors, so that the pallets of humanitarian assistance could be delivered by boat from Cyprus. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-          "publishedAt": "2026-09-05T00:00:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "af722ce82446af46b4ca120e",
-      "isContinuation": false,
-      "titleZh": "拉法之路上的死亡：以色列国防军袭击世界中央厨房救援人员之夜",
-      "summaryZh": "2024年4月1日，尽管以色列军队参与了食品援助交付的规划，但行动最终导致七名世界中央厨房的救援人员丧生。这些救援人员当时正在加沙海岸监督通过临时码头卸载人道主义物资。",
-      "whyImportant": "此事件引发了国际社会对加沙地带人道主义救援安全及以色列军事行动透明度的严重关切。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2812aaa9cbdb1d51",
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T16:02:32.000Z",
-      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-04T16:02:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f3b825e84d2ceb3abeff57d9",
-      "isContinuation": false,
-      "titleZh": "泽连斯基称俄罗斯无人机袭击乌克兰安全总部",
-      "summaryZh": "一架无人驾驶飞行器在乌克兰首都中心地带发动了突袭。目前暂无更多细节披露。",
-      "whyImportant": "此次袭击显示乌克兰首都的安全局势依然脆弱，且俄乌冲突持续升级。",
+      "titleZh": "澳大利亚工党计划整顿社交媒体算法，反对党领袖泰勒表示“深表怀疑”",
+      "summaryZh": "澳大利亚工党政府计划在本周提交立法，要求社交媒体平台承担数字护理责任。反对党领袖安格斯·泰勒对此表示强烈反对，认为这是政府试图审查互联网言论自由的行为。",
+      "whyImportant": "该立法提案在澳大利亚政坛引发了关于政府监管权力与网络言论自由之间平衡的激烈争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "035cd487d960446c",
-      "title": "Taiwan’s opposition parties split over mayoral race, threatening 2028 election alliance",
+      "id": "e3de1981f2811777",
+      "title": "Tesla to exhibit Cybercab robotaxi in China: can it spark buzz amid slow sales?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3366416/taiwans-opposition-parties-split-over-mayoral-race-threatening-2028-election-alliance?utm_source=rss_feed",
-      "publishedAt": "2026-09-05T04:00:09.000Z",
-      "summary": "A rupture between Taiwan’s two opposition parties over a mayoral race threatens to spill into November’s elections and erode the fragile trust underpinning their potential 2028 alliance. The main opposition Kuomintang (KMT) and smaller Taiwan People’s Party (TPP) have both registered candidates for mayor of Zhubei, the biggest city in Hsinchu county, after weeks of negotiations failed to produce a joint contender. The KMT has nominated Hsinchu county councillor Wu Hsu-chih, while the TPP’s Chiu...",
+      "url": "https://www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T04:00:09.000Z",
+      "summary": "Tesla is facing weaker sales in China this year, but the American electric vehicle (EV) manufacturer is looking to generate a buzz in its second-largest market by exhibiting its new self-driving vehicle, the Cybercab. The robotaxi – which operates entirely without a steering wheel, pedals or rear-view mirrors – would debut in major Chinese cities, including Beijing and Shanghai, starting mid-September in a showcase of product design and technological sophistication, according to Tesla...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3366416/taiwans-opposition-parties-split-over-mayoral-race-threatening-2028-election-alliance?utm_source=rss_feed",
-          "publishedAt": "2026-09-05T04:00:09.000Z"
+          "url": "https://www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T04:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "market",
+        "金融"
+      ],
+      "fingerprint": "89dde38896f556fcc5bda45f",
+      "isContinuation": false,
+      "titleZh": "特斯拉将在中国展示Cybercab无人驾驶出租车：能否在销量疲软中激起热度？",
+      "summaryZh": "面对中国市场销量下滑的压力，特斯拉计划从9月中旬起在北京、上海等主要城市展示其无方向盘、无踏板的Cybercab无人驾驶出租车。此举旨在通过展示前沿设计和技术实力，重振品牌在华市场的影响力。",
+      "whyImportant": "特斯拉试图通过技术创新展示来应对中国电动汽车市场日益激烈的竞争和销量增长放缓的问题。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "454475517d1a97e9",
+      "title": "Asia-Pacific media outlets forge new partnerships ahead of Shenzhen Apec summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3366482/asia-pacific-media-outlets-forge-new-partnerships-ahead-shenzhen-apec-summit?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T10:03:07.000Z",
+      "summary": "Media outlets across the Asia-Pacific region have gathered in Shenzhen to deepen collaboration on content, talent and technology ahead of the coming Asia-Pacific Economic Cooperation (Apec) summit in the southern Chinese city. Hundreds of media representatives witnessed the launch of several partnerships at the Asia-Pacific Media Forum, which opened in Shenzhen on Saturday after two days of sub-forums in other Guangdong cities as part of a series of events marking the 2026 Apec “China...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3366482/asia-pacific-media-outlets-forge-new-partnerships-ahead-shenzhen-apec-summit?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T10:03:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -634,35 +607,115 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "外交",
+        "经济",
+        "科技",
+        "专题·全球经济与金融"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7bb4c1dd827ddc5de73c68df",
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "4873823229c9ac96e69dea64",
       "isContinuation": false,
-      "titleZh": "台湾反对党在市长选举中分裂，威胁到2028年选举联盟",
-      "summaryZh": "国民党与民众党因新竹县竹北市市长候选人提名问题谈判破裂，双方各自推举人选。这一分歧可能削弱两党间脆弱的信任，并影响其在2028年大选中的合作前景。",
-      "whyImportant": "反对党阵营的内部分裂可能改变台湾地方选举格局，并对未来的政治联盟产生深远影响。",
+      "titleZh": "亚太媒体在深圳APEC峰会前建立新伙伴关系",
+      "summaryZh": "在深圳APEC峰会召开前夕，亚太地区多家媒体机构齐聚深圳，旨在深化内容、人才和技术方面的合作。此次论坛作为2026年APEC中国系列活动的一部分，旨在加强区域媒体间的交流与协作。",
+      "whyImportant": "媒体合作的深化有助于在APEC峰会期间提升区域信息传播的协同效应。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d8ed3c665e308061",
-      "title": "After 66 years, Kau Kee’s first shop offers fish balls ‘every Hongkonger has eaten’",
+      "id": "32300b79a3b8b4b1",
+      "title": "Gen Z is turning filial piety into a career path",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366433/after-66-years-kau-kees-first-shop-offers-fish-balls-every-hongkonger-has-eaten?utm_source=rss_feed",
-      "publishedAt": "2026-09-05T03:00:15.000Z",
-      "summary": "Anita Lee Yan-kwan grew up around a traditional business that supplied fish balls to Hong Kong’s street food stalls and eateries. But for decades, Kau Kee Food Factory’s signature product was known only among industry operators until Lee, a second-generation owner, opened the company’s first retail store late last year. Kau Kee has operated as a silent giant in the food industry for 66 years, supplying its fish balls to nearly 1,000 eateries and snack stalls across the city. But it finally...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365271/gen-z-turning-filial-piety-career-path?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T21:30:06.000Z",
+      "summary": "Hong Kong has always had a simple answer to what young people should do with their lives: study hard, get a job, work harder, buy a flat and eventually complain about the next generation. That formula is becoming harder to sell. A whole lexicon has grown up around Generation Z’s uneasy relationship with work. In mainland China, there are “full-time children”, young adults who stay home and receive an allowance from their parents in return for doing household chores and running errands....",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3366433/after-66-years-kau-kees-first-shop-offers-fish-balls-every-hongkonger-has-eaten?utm_source=rss_feed",
-          "publishedAt": "2026-09-05T03:00:15.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365271/gen-z-turning-filial-piety-career-path?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T21:30:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "31389de860270b00ef5c447b",
+      "isContinuation": false,
+      "titleZh": "Z世代正在将“孝道”转化为职业道路",
+      "summaryZh": "传统的职业发展路径在当代年轻人中逐渐失去吸引力，一种新的生活方式正在兴起。在中国内地，许多年轻人选择成为“全职儿女”，通过承担家务和处理杂事来换取父母的经济支持。",
+      "whyImportant": "这一现象反映了当代年轻人对传统就业压力和生活模式的重新思考与适应。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e75a819167bc8525",
+      "title": "Red tape, high cost: can Hong Kong’s new yacht scheme chart a smoother course?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366503/red-tape-high-cost-can-hong-kongs-new-yacht-scheme-chart-smoother-course?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T03:00:12.000Z",
+      "summary": "Retired harbour pilot Alex Yu Chi-leung sailed his 50-foot wooden yacht, Bowline, from Causeway Bay in Hong Kong to Dongao Island in Zhuhai under a new cross-border yachting scheme last week, but bureaucratic hurdles and shallow waters tempered the excitement of the leisure trip. It was Yu’s first voyage under the scheme, but it could also be his last unless mainland Chinese authorities improve certain requirements. “If the procedures are simplified – because right now they are too numerous,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366503/red-tape-high-cost-can-hong-kongs-new-yacht-scheme-chart-smoother-course?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T03:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0bc6d2af72b10cf2a7614c53",
+      "isContinuation": false,
+      "titleZh": "繁文缛节与高昂成本：香港的新游艇计划能否航行得更顺畅？",
+      "summaryZh": "尽管香港推出了跨境游艇计划，但参与者在实际操作中仍面临繁琐的行政程序和水深限制等问题。参与者呼吁简化流程，否则该计划的吸引力将大打折扣。",
+      "whyImportant": "行政障碍的改善对于促进大湾区内跨境休闲旅游的便利化至关重要。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1a7b1081ec816394",
+      "title": "China begins mining iron from tailings, low-grade ore that can meet its demand for decades",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3366315/china-begins-mining-iron-tailings-low-grade-ore-can-meet-its-demand-decades?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T03:00:09.000Z",
+      "summary": "China has launched a world-first industrial-scale facility to extract iron from previously discarded mine tailings and ultra-low-grade ore, turning waste into a valuable resource that can reduce its dependency on overseas supply. According to the Chinese Academy of Sciences (CAS) last Tuesday, a production line capable of processing 5.56 million tonnes of refractory iron ore and tailings per year has passed official checks and is now running steadily. China is the world’s largest iron ore user,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3366315/china-begins-mining-iron-tailings-low-grade-ore-can-meet-its-demand-decades?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T03:00:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -673,145 +726,109 @@
         "中国重点"
       ],
       "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f15477dc39835e75ede2427d",
+      "fingerprint": "c392815f3e02ca9592d1329c",
       "isContinuation": false,
-      "titleZh": "经营66年后，九记首家门店推出“每个香港人都吃过”的鱼蛋",
-      "summaryZh": "九记食品厂长期作为香港餐饮业的幕后供应商，为近千家食肆提供鱼蛋。第二代经营者李恩群于去年底开设了公司首家零售店，将这一传统品牌推向大众市场。",
-      "whyImportant": "此举标志着香港传统老字号从批发模式向零售模式转型，以适应市场变化。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b66eb60b0675e337",
-      "title": "Chinese food delivery platform sparks buzz after rider flies to Singapore for curry puff run",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366439/chinese-food-delivery-platform-sparks-buzz-after-rider-flies-singapore-curry-puff-run?utm_source=rss_feed",
-      "publishedAt": "2026-09-05T01:00:10.000Z",
-      "summary": "A Chinese man dressed in a food delivery uniform has sparked widespread curiosity online after he was seen in Singapore buying curry puffs for a customer in China to fulfil a “cross-border food order.” On August 31, Chloe, a Chinese woman living in Singapore, shared a video depicting the man in a Meituan uniform waiting at Hong Lim Curry Puff, a snack shop located in PLQ Mall, about a 17-minute drive from Changi Airport. Meituan is among China’s largest food delivery platforms. Chloe informed...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366439/chinese-food-delivery-platform-sparks-buzz-after-rider-flies-singapore-curry-puff-run?utm_source=rss_feed",
-          "publishedAt": "2026-09-05T01:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "274338110e08c97ed1b85400",
-      "isContinuation": false,
-      "titleZh": "中国外卖平台骑手飞往新加坡购买咖喱角引发热议",
-      "summaryZh": "一名身穿美团制服的男子在新加坡购买咖喱角，据称是为了满足中国客户的“跨境食品订单”。这一视频在社交媒体上引发了广泛关注与好奇。",
-      "whyImportant": "该事件引发了公众对于跨境物流服务边界及网络营销真实性的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e9b0a7aaf8db327c",
-      "title": "Why are fuel and petrochemical prices outpacing crude – and how long will it last?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3366432/why-are-fuel-and-petrochemical-prices-outpacing-crude-and-how-long-will-it-last?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T13:00:08.000Z",
-      "summary": "This summer, David Chen, a Chinese national living in Japan, got an unexpected lesson in global industrial supply chains – delivered through a bag of potato chips. When popular Japanese snack brand Calbee replaced its signature colourful packaging with monochrome designs, Chen initially assumed it was a marketing gimmick. “Then news reports explained the switch stemmed from a naphtha supply crunch. I even looked up the word,” Chen said. Naphtha, a flammable liquid processed from crude oil, might...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/economy/global-economy/article/3366432/why-are-fuel-and-petrochemical-prices-outpacing-crude-and-how-long-will-it-last?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T13:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "能源"
-      ],
-      "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "df33a1660c51b303e7fdd049",
-      "isContinuation": false,
-      "titleZh": "为何燃料和石化产品价格涨幅超过原油？这种情况会持续多久？",
-      "summaryZh": "日本零食品牌卡乐比因石化原料石脑油供应紧张而被迫更改包装设计。石脑油作为原油加工产品，其供应短缺已波及全球工业供应链。",
-      "whyImportant": "石化产品供应链的波动揭示了全球工业生产对特定原材料的高度依赖及其连锁反应。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ecc84a988a6afb18",
-      "title": "Why the EU is giving Arctic shipping the cold shoulder as China and Russia push ahead",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3366324/why-eu-giving-arctic-shipping-cold-shoulder-china-and-russia-push-ahead?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T15:00:08.000Z",
-      "summary": "As Beijing and Moscow double down on the Arctic shipping route, Europe is hitting the brakes. Despite being the main destination for goods along the route and accounting for most of the world’s shipping giants, Europe opposes the commercialisation of Arctic transits, wary of fragile polar ecosystems and navigational risks amid rising anxiety over Russia and China’s closer polar collaboration. “In Europe, cooperation between China and Russia on container shipping is often viewed as another...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3366324/why-eu-giving-arctic-shipping-cold-shoulder-china-and-russia-push-ahead?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T15:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 52,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "093b90d3a6e5f51b9e4d3425",
-      "isContinuation": false,
-      "titleZh": "为何欧盟对北极航线持冷淡态度，而中俄却积极推进？",
-      "summaryZh": "尽管欧洲是北极航线的主要目的地，但出于对生态环境和航行风险的担忧，欧洲反对北极航线的商业化。同时，欧洲对中俄在北极航运上的合作表现出警惕。",
-      "whyImportant": "北极航线的开发涉及地缘政治博弈、环境保护与全球贸易路线的重塑。",
+      "titleZh": "中国开始从尾矿和低品位矿石中开采铁矿，可满足数十年需求",
+      "summaryZh": "中国已启动全球首个工业规模的设施，用于从废弃矿渣和超低品位矿石中提取铁矿。该生产线年处理能力达556万吨，旨在将废弃物转化为资源，从而降低对海外铁矿石供应的依赖。",
+      "whyImportant": "此项技术突破有助于提升中国在关键矿产资源方面的自主保障能力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
+      "id": "e92475c83350f86a",
+      "title": "Robin Morgan, child star who became feminist, poet and editor, dies aged 85",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85",
+      "publishedAt": "2026-09-05T18:16:41.000Z",
+      "summary": "Leading second-wave feminist co-founded Women’s Media Center with Jane Fonda and Gloria Steinem Robin Morgan, a child star of the 1940s and 50s who grew up to become an all-American radical as a poet, essayist, editor and second-wave feminist, has died. She was 85. Morgan’s death was confirmed Saturday by the Women’s Media Center, an organization she co-founded with Jane Fonda and the celebrated author and activist Gloria Steinem, who died Wednesday. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85",
+          "publishedAt": "2026-09-05T18:16:41.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c14ee32207b30b5f8f8ea8fc",
+      "isContinuation": false,
+      "titleZh": "童星出身、后成为女性主义者、诗人和编辑的罗宾·摩根去世，享年85岁",
+      "summaryZh": "曾是20世纪40至50年代童星的罗宾·摩根去世，享年85岁。她后来转型为激进的女性主义者、诗人和编辑，并与简·方达及格洛丽亚·斯泰纳姆共同创立了女性媒体中心。",
+      "whyImportant": "罗宾·摩根在推动女性权益和媒体话语权方面留下了深远的影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "400ba51621a43959",
+      "title": "Canada and China thaw continues as militaries hold first talks in 8 years amid US pressure",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366477/canada-and-china-thaw-continues-militaries-hold-first-talks-8-years-amid-us-pressure?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T11:00:11.000Z",
+      "summary": "China and Canada’s armed forces held their first round of talks in eight years on Friday in the face of growing tensions with the United States. The Chinese defence ministry said there had been a candid and in-depth exchange of views on international and regional issues of common concern. “[Both sides] expressed willingness to strengthen practical exchanges and cooperation between the two militaries, and enhanced mutual understanding and trust,” the ministry added. It was the first meeting...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366477/canada-and-china-thaw-continues-militaries-hold-first-talks-8-years-amid-us-pressure?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T11:00:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9559b848485ee7fa43c49436",
+      "isContinuation": false,
+      "titleZh": "加拿大与中国关系回暖，两国军方举行八年来首次会谈",
+      "summaryZh": "面对与美国日益紧张的关系，中国与加拿大军方举行了八年来的首次会谈。双方就共同关心的国际和地区问题进行了坦诚深入的交流，并表达了加强务实合作与增进互信的意愿。",
+      "whyImportant": "此次会谈标志着中加两国在外交与军事层面的接触有所恢复，可能对两国关系走向产生积极影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
       "id": "50b8cc60bf303416",
-      "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+      "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
       "source": "The Guardian World",
       "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "publishedAt": "2026-09-04T20:21:52.000Z",
-      "summary": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House. It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time. Continue reading...",
+      "publishedAt": "2026-09-05T22:19:40.000Z",
+      "summary": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House. It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
           "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-          "publishedAt": "2026-09-04T20:21:52.000Z"
+          "publishedAt": "2026-09-05T22:19:40.000Z"
         }
       ],
       "sourceCount": 1,
@@ -819,39 +836,35 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "美国重点"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "b8d38a18d80c323ac59fefdc",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1d28ad717eb8588e56dab00c",
       "isContinuation": false,
-      "titleZh": "特朗普的“报复”可能包括将马尔维纳斯群岛作为对米莱的恩惠，并以此报复英国",
-      "summaryZh": "美国总统特朗普暗示可能支持阿根廷对马尔维纳斯群岛的主权主张。此举被视为其对阿根廷总统米莱的支持，同时也可能被解读为对英国的某种报复。",
-      "whyImportant": "若美国改变对马岛主权争议的立场，将对英美特殊关系及南美地缘政治产生重大冲击。",
+      "titleZh": "特朗普对英国心存不满，或在福克兰群岛问题上偏袒阿根廷总统米莱",
+      "summaryZh": "美国总统特朗普暗示可能支持其盟友、阿根廷总统米莱收回对争议岛屿的主权。这一表态反映了特朗普一贯的报复性政治风格，可能对英美关系造成潜在冲击。",
+      "whyImportant": "若美国在福克兰群岛主权争议上改变立场，将严重动摇英美特殊关系并引发国际外交风波。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0153c02ef0630c84",
-      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
+      "id": "0bda41ca8cf7bc37",
+      "title": "Cut the cameras: Flock surveillance cameras spur rare bipartisan backlash",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-      "publishedAt": "2026-09-04T13:50:43.000Z",
-      "summary": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags that he says contained the corpses of 23 “neutralised” guerrillas. De La Espriella took power last month vowing “all-out war” against illegal armed groups and he published the footage on Thursday in an apparent attempt to show he was fulfilling that pledge. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+      "publishedAt": "2026-09-05T14:00:37.000Z",
+      "summary": "Politicians on the right and left are pushing back against Flock as more Americans voice opposition to the tech Growing factions from both sides of the political aisle in the US are pushing back against surveillance cameras made by a single company, a rare response in a sharply divided country with a president pushing an unwaveringly pro-tech agenda. The bipartisan backlash against Flock Safety cameras resembles nationwide rage toward the construction of large datacenters that power artificial intelligence. Polling shows roughly 75% of Americans oppose new datacenter construction in their areas. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-          "publishedAt": "2026-09-04T13:50:43.000Z"
+          "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+          "publishedAt": "2026-09-05T14:00:37.000Z"
         }
       ],
       "sourceCount": 1,
@@ -861,37 +874,35 @@
       "tags": [
         "美国重点",
         "军事与安全",
-        "专题·美国政策与全球影响"
+        "科技"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "2318344860a60be95ad48127",
+      "score": 51,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "815e0a78e4ed6e53915be082",
       "isContinuation": false,
-      "titleZh": "哥伦比亚总统与“恐怖分子”尸体合影引发厌恶",
-      "summaryZh": "哥伦比亚总统阿韦拉多·德拉埃斯皮耶拉在社交媒体发布视频，展示其走过23具被“消灭”的游击队员尸体。此举旨在展示其履行打击非法武装团体的承诺，但引发了公众的强烈抗议。",
-      "whyImportant": "该事件反映了美洲地区民粹主义政治风格的激进化趋势，引发了关于政治领导人行为准则的伦理争议。",
+      "titleZh": "叫停监控：Flock监控摄像头引发罕见的跨党派抵制",
+      "summaryZh": "美国两党政客正联合抵制Flock Safety公司的监控摄像头，民众对该技术的反对声浪日益高涨。这种跨党派的抵制行动与近期针对人工智能数据中心建设的全国性抗议趋势相呼应。",
+      "whyImportant": "这一现象反映了美国社会对隐私保护和科技扩张的担忧已超越党派分歧，成为重要的公共议题。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d9be8a7648a13535",
-      "title": "How US military presence spurred Pattaya’s rise into Thailand’s city of pleasure",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366424/how-us-military-presence-spurred-pattayas-rise-thailands-city-pleasure?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T11:32:45.000Z",
-      "summary": "The Amazon deliveries stopped reaching the USS Abraham Lincoln in February as it entered the conflict zone with Iran. A few weeks later – much to the chagrin of the sailors on board – even that most American of meals, the hamburger, was compromised by supply shortages when burger buns ran out. But as they unwind on their first shore leave in 286 days, the 5,000 crew of the Nimitz-class aircraft carrier are finding out what tens of thousands of their forebears already knew: Pattaya will...",
+      "id": "3618626621247755",
+      "title": "Lindsay Clancy murder trial ends in dramatic deadlock – what comes next?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial",
+      "publishedAt": "2026-09-05T12:00:36.000Z",
+      "summary": "District attorney must decide whether to retry case after jury’s failure to reach verdict despite hours of deliberation Lindsay Clancy, prosecutors, defense lawyers, the judge and millions watching on are back where they started after her five-week trial over the murder of her three children ended in a mistrial. America’s saddest case has ceased for the moment, but the legal wrangling is not over, and a second trial could now be on the horizon, prolonging and repeating an agonizing spectacle that has gripped America and the world. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366424/how-us-military-presence-spurred-pattayas-rise-thailands-city-pleasure?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T11:32:45.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial",
+          "publishedAt": "2026-09-05T12:00:36.000Z"
         }
       ],
       "sourceCount": 1,
@@ -900,122 +911,37 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
+        "军事与安全"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "4c6810e0ff8a28e466e88bf3",
+      "score": 50,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c2326f71d528d473416d18f4",
       "isContinuation": false,
-      "titleZh": "美国军事存在如何推动芭堤雅成为泰国的“享乐之城”",
-      "summaryZh": "在海上执行任务近300天后，美国“亚伯拉罕·林肯”号航母的5000名船员抵达芭堤雅进行休整。芭堤雅作为美军长期以来的度假胜地，其城市发展深受美军消费和文化的影响。",
-      "whyImportant": "文章探讨了军事部署与当地旅游经济及社会文化演变之间的长期历史联系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e12ef7fbad742346",
-      "title": "Lunar Occultation of Venus",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-      "publishedAt": "2026-09-04T14:14:57.000Z",
-      "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "NASA",
-          "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-          "publishedAt": "2026-09-04T14:14:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "cb8295934ee1bcc411e501a8",
-      "isContinuation": false,
-      "titleZh": "月掩金星天象",
-      "summaryZh": "6月17日，美国和加拿大等地的天文爱好者观测到了一次罕见的白昼月掩金星现象。当月球运行至地球与金星之间时，金星被月球短暂遮挡。",
-      "whyImportant": "这是一次重要的天文观测事件，为科学研究和公众科普提供了难得的机会。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1e55f7f035c54e04",
-      "title": "South Korea weighs ‘contributions’ to Hormuz as US pressure mounts",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3366370/south-korea-weighs-contributions-hormuz-us-pressure-mounts?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T08:19:29.000Z",
-      "summary": "South Korea is moving towards the possible deployment of naval assets to the Strait of Hormuz under mounting pressure from Washington, potentially making it one of the first US allies to contribute militarily to the strategically vital waterway, observers have said. The government has reportedly drawn up plans to deploy military assets, including a naval logistics support ship and P-8A maritime patrol aircraft, to the strait. If carried out, the deployment would mark South Korea’s first dispatch...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3366370/south-korea-weighs-contributions-hormuz-us-pressure-mounts?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T08:19:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 54,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "6a1ef4373550f588614a86df",
-      "isContinuation": false,
-      "titleZh": "在美方压力下，韩国考虑向霍尔木兹海峡派遣军事力量",
-      "summaryZh": "受美国压力影响，韩国正计划向霍尔木兹海峡派遣海军后勤支援舰和海上巡逻机。若计划实施，这将是韩国首次向该战略要地派遣军事资产。",
-      "whyImportant": "此举标志着韩国在地区安全事务中可能采取更积极的军事参与姿态，并可能影响其与中东及美国的关系。",
+      "titleZh": "林赛·克兰西谋杀案审判陷入僵局，后续走向成谜",
+      "summaryZh": "由于陪审团未能达成一致，林赛·克兰西杀害三名子女案的审判以流审告终。检方目前需决定是否重新提起诉讼，这起备受关注的案件法律程序仍未结束。",
+      "whyImportant": "该案的流审延长了公众对这一悲剧性案件的关注，并引发了关于司法公正与心理健康法律定义的持续讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "8e9bc2d2e64dbbde",
-      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T04:03:51.000Z",
-      "summary": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
+      "id": "5af7fa98d9483358",
+      "title": "Cold comfort: Japan’s Hokkaido battles cockroach surge amid global warming",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366338/cold-comfort-japans-hokkaido-battles-cockroach-surge-amid-global-warming?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T04:00:07.000Z",
+      "summary": "In all his five decades of living in Hokkaido, Makoto Watanabe cannot recall ever being confronted by a cockroach. But he admits being alarmed by reports that the despised insects are taking advantage of global warming to gain a foothold in a part of Japan where winters were previously considered too hostile for large colonies to emerge. “When I was a university student in Tokyo 30 years ago, I used to see them in my accommodation and I absolutely hated them,” Watanabe told This Week in...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-05T04:03:51.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366338/cold-comfort-japans-hokkaido-battles-cockroach-surge-amid-global-warming?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T04:00:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1026,325 +952,360 @@
         "全球焦点",
         "军事与安全"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a4fec4ef9223fdcfa8a43f92",
+      "fingerprint": "d42996ad1409b243ebb2ccc2",
       "isContinuation": false,
-      "titleZh": "俄罗斯在西非是保护盟友比打击敌人更有效吗？",
-      "summaryZh": "俄罗斯军队进入尼日尔旨在打击圣战分子，但其主要作用也包括保护当地的军事领导层。外界质疑其在反恐与维护政权稳定之间的侧重点。",
-      "whyImportant": "该问题揭示了俄罗斯在非洲地区军事干预的复杂动机及其对当地政治格局的影响。",
+      "titleZh": "寒冷不再：全球变暖导致日本北海道蟑螂激增",
+      "summaryZh": "全球变暖使得原本因冬季严寒而不适合蟑螂生存的北海道，如今也面临蟑螂泛滥的问题。当地居民对这种昆虫的出现感到担忧，认为气候变化正在改变当地的生态环境。",
+      "whyImportant": "这一现象是全球气候变暖对区域生态和居民生活产生直接影响的典型案例。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ab71a63a663d81d9",
-      "title": "Investigations launched into polling firm at centre of Reform UK allegations",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/sep/04/investigation-polling-firm-reform-uk-allegations",
-      "publishedAt": "2026-09-04T16:14:46.000Z",
-      "summary": "British Polling Council and Market Research Society announce inquiries into JL Partners, which has been accused of breaking transparency rules What is the latest finance scandal facing Reform UK? A polling firm at the centre of allegations that Reform UK breached electoral law is being investigated by two industry bodies. JL Partners, which is run by former Conservative aides, has been accused of breaking transparency rules by failing to declare that three separate polls had been commissioned by the party. Continue reading...",
+      "id": "4598b791349c7ca0",
+      "title": "Signalling fault disrupts Hong Kong high-speed rail service, delaying 15 trains",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3366514/signalling-fault-disrupts-hong-kong-high-speed-rail-service-delaying-15-trains?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T02:35:28.000Z",
+      "summary": "At least 15 high-speed cross-border train services were delayed after a signalling fault prompted a 45-minute disruption of northbound services in Hong Kong on Sunday morning. The Transport Department said at around 8.30am that the MTR Corporation had notified authorities that high-speed rail services would be delayed due to a “signal fault”. At around 9.15am, the department said the MTR had resolved the signal issues, and high-speed rail services were gradually resuming normally. It said...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/sep/04/investigation-polling-firm-reform-uk-allegations",
-          "publishedAt": "2026-09-04T16:14:46.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3366514/signalling-fault-disrupts-hong-kong-high-speed-rail-service-delaying-15-trains?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T02:35:28.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "金融"
+        "中国重点"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "6ea026c91310e08077ff78e2",
+      "fingerprint": "ed6e31d1dccf1e58cbfad1fe",
       "isContinuation": false,
-      "titleZh": "针对卷入英国改革党指控的民调公司展开调查",
-      "summaryZh": "英国民调委员会和市场研究协会正对JL Partners公司展开调查。该公司被指控在未披露委托方的情况下，为英国改革党进行了三次民调，违反了透明度规则。",
-      "whyImportant": "此调查涉及选举公正性和民调行业的透明度问题，可能对英国政治舆论环境产生影响。",
+      "titleZh": "信号故障扰乱香港高铁服务，导致15趟列车延误",
+      "summaryZh": "周日上午，香港高铁因信号故障导致北行服务中断约45分钟，至少15趟跨境列车受到延误影响。港铁公司随后修复了故障，服务已逐步恢复正常。",
+      "whyImportant": "此次故障影响了跨境交通效率，凸显了公共交通基础设施维护对维持城市运作的重要性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3699defcceb3927d",
-      "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-      "publishedAt": "2026-09-04T15:37:52.000Z",
-      "summary": "Volodymyr Zelenskyy says he has told SBU to deliver ‘appropriate, tangible response’ to Kyiv strike The head office of Ukraine’s SBU intelligence agency has been hit in a Russian drone attack, sending plumes of black smoke rising into the air in the heart of Kyiv. Ukraine’s president, Volodymyr Zelenskyy, said he had instructed the SBU to deliver an “appropriate, tangible response” to the strike, while the foreign minister, Andrii Sybiha, described it as a “major escalation”. Continue reading...",
+      "id": "5288e389d0e6eed7",
+      "title": "3 arrested for allegedly acting with seditious intent outside MTR station",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366468/3-arrested-over-allegedly-seditious-memorial-outside-prince-edward-mtr-station?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T07:42:48.000Z",
+      "summary": "Hong Kong national security police have arrested three people on suspicion of acting with seditious intent over a gathering outside Prince Edward MTR station to mark a 2019 protest flashpoint there. A police force spokesman said on Saturday that two men and a woman were arrested on Thursday, noting that some people were allegedly shouting seditious slogans and holding white flowers outside the station on August 31. “The people concerned were suspected of spreading false information and attacking...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-          "publishedAt": "2026-09-04T15:37:52.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366468/3-arrested-over-allegedly-seditious-memorial-outside-prince-edward-mtr-station?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T07:42:48.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
+        "中国重点",
         "突发",
-        "外交"
+        "军事与安全"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "fac9917b0ef95af15db7e69e",
+      "fingerprint": "4cfdc16578921d59c0be6738",
       "isContinuation": false,
-      "titleZh": "俄罗斯袭击乌克兰情报总部，局势“重大升级”",
-      "summaryZh": "俄罗斯无人机袭击了位于基辅市中心的乌克兰国家安全局总部。乌克兰总统泽连斯基已下令进行“实质性回应”，乌外长称此举为局势的重大升级。",
-      "whyImportant": "此次袭击直接针对乌克兰核心情报机构，标志着俄乌冲突在打击目标和烈度上的进一步升级。",
+      "titleZh": "3人因涉嫌在港铁站外具煽动意图被捕",
+      "summaryZh": "香港国安警察逮捕了三名男女，指控其在太子站外纪念2019年抗议活动期间涉嫌具煽动意图。警方称被捕者在现场高喊煽动性口号并散布虚假信息。",
+      "whyImportant": "此举显示香港执法部门持续依据相关法律对涉及公共秩序和国家安全的行为进行严厉管控。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 145,
-    "deduplicated": 143,
+    "fetched": 123,
+    "deduplicated": 118,
     "selected": 23,
     "translated": 23,
     "untranslated": 0,
     "minimumRequired": 21,
-    "featured": 5,
+    "featured": 3,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "50b8cc60bf303416",
-      "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "publishedAt": "2026-09-04T20:21:52.000Z",
-      "summary": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House. It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time. Continue reading...",
+      "id": "e3de1981f2811777",
+      "title": "Tesla to exhibit Cybercab robotaxi in China: can it spark buzz amid slow sales?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T04:00:09.000Z",
+      "summary": "Tesla is facing weaker sales in China this year, but the American electric vehicle (EV) manufacturer is looking to generate a buzz in its second-largest market by exhibiting its new self-driving vehicle, the Cybercab. The robotaxi – which operates entirely without a steering wheel, pedals or rear-view mirrors – would debut in major Chinese cities, including Beijing and Shanghai, starting mid-September in a showcase of product design and technological sophistication, according to Tesla...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-          "publishedAt": "2026-09-04T20:21:52.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T04:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "market",
+        "金融"
+      ],
+      "fingerprint": "89dde38896f556fcc5bda45f",
+      "isContinuation": false,
+      "titleZh": "特斯拉将在中国展示Cybercab无人驾驶出租车：能否在销量疲软中激起热度？",
+      "summaryZh": "面对中国市场销量下滑的压力，特斯拉计划从9月中旬起在北京、上海等主要城市展示其无方向盘、无踏板的Cybercab无人驾驶出租车。此举旨在通过展示前沿设计和技术实力，重振品牌在华市场的影响力。",
+      "whyImportant": "特斯拉试图通过技术创新展示来应对中国电动汽车市场日益激烈的竞争和销量增长放缓的问题。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a35efc0f8b53f68c",
+      "title": "US strikes 3 Iranian oil tankers after warships targeted, military says",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366498/us-disables-or-destroys-3-iran-oil-tankers-after-warships-targeted?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T14:59:57.000Z",
+      "summary": "US Central Command (CENTCOM) said it hit three Iranian oil tankers on Saturday, including one off the coast of Kharg Island adjoining Iran’s major oil export hub. CENTCOM said the strikes were conducted after Iran’s Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles at a pair of US Navy ships. “Let the message to the IRGC be clear: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours,” said Admiral Brad Cooper, CENTCOM’s...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3366498/us-disables-or-destroys-3-iran-oil-tankers-after-warships-targeted?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T14:59:57.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "能源",
+        "专题·全球经济与金融"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "600acb130a848f7c21badb31",
+      "isContinuation": false,
+      "titleZh": "美军称在伊朗伊斯兰革命卫队袭击美舰后，打击了三艘伊朗油轮",
+      "summaryZh": "美国中央司令部表示，在伊朗伊斯兰革命卫队向两艘美国海军舰艇发射弹道导弹后，美军对三艘伊朗油轮实施了打击。美方称此举旨在通过经济手段回应针对美军的攻击。",
+      "whyImportant": "此次军事行动标志着美伊之间的紧张局势显著升级，增加了地区冲突扩大的风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "454475517d1a97e9",
+      "title": "Asia-Pacific media outlets forge new partnerships ahead of Shenzhen Apec summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3366482/asia-pacific-media-outlets-forge-new-partnerships-ahead-shenzhen-apec-summit?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T10:03:07.000Z",
+      "summary": "Media outlets across the Asia-Pacific region have gathered in Shenzhen to deepen collaboration on content, talent and technology ahead of the coming Asia-Pacific Economic Cooperation (Apec) summit in the southern Chinese city. Hundreds of media representatives witnessed the launch of several partnerships at the Asia-Pacific Media Forum, which opened in Shenzhen on Saturday after two days of sub-forums in other Guangdong cities as part of a series of events marking the 2026 Apec “China...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3366482/asia-pacific-media-outlets-forge-new-partnerships-ahead-shenzhen-apec-summit?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T10:03:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "经济",
+        "科技",
+        "专题·全球经济与金融"
       ],
       "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "white house",
-        "美国"
+        "经济"
       ],
-      "fingerprint": "b8d38a18d80c323ac59fefdc",
+      "fingerprint": "4873823229c9ac96e69dea64",
       "isContinuation": false,
-      "titleZh": "特朗普的“报复”可能包括将马尔维纳斯群岛作为对米莱的恩惠，并以此报复英国",
-      "summaryZh": "美国总统特朗普暗示可能支持阿根廷对马尔维纳斯群岛的主权主张。此举被视为其对阿根廷总统米莱的支持，同时也可能被解读为对英国的某种报复。",
-      "whyImportant": "若美国改变对马岛主权争议的立场，将对英美特殊关系及南美地缘政治产生重大冲击。",
+      "titleZh": "亚太媒体在深圳APEC峰会前建立新伙伴关系",
+      "summaryZh": "在深圳APEC峰会召开前夕，亚太地区多家媒体机构齐聚深圳，旨在深化内容、人才和技术方面的合作。此次论坛作为2026年APEC中国系列活动的一部分，旨在加强区域媒体间的交流与协作。",
+      "whyImportant": "媒体合作的深化有助于在APEC峰会期间提升区域信息传播的协同效应。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0153c02ef0630c84",
-      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
+      "id": "97c35dd12142b39d",
+      "title": "Australia news live: up to 6,000 tradies to get free qualifications under Labor scheme",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-      "publishedAt": "2026-09-04T13:50:43.000Z",
-      "summary": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags that he says contained the corpses of 23 “neutralised” guerrillas. De La Espriella took power last month vowing “all-out war” against illegal armed groups and he published the footage on Thursday in an apparent attempt to show he was fulfilling that pledge. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+      "publishedAt": "2026-09-06T04:25:37.000Z",
+      "summary": "Follow today’s news live Get our breaking news email, free app or daily news podcast Duniam targets ‘frivolous’ asylum seeker claims The opposition is “very close” to “having a full migration package”, Duniam says. He says they’re willing to work with the government and that illegal overstayers must be deported. We spend more per student per year than we ever have before and we’ve got declining standards across the board, and the problem with the curriculum is we have left foundations behind. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-          "publishedAt": "2026-09-04T13:50:43.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+          "publishedAt": "2026-09-06T04:25:37.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "突发"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "2318344860a60be95ad48127",
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c37de2e3b4d2c0639a99badd",
       "isContinuation": false,
-      "titleZh": "哥伦比亚总统与“恐怖分子”尸体合影引发厌恶",
-      "summaryZh": "哥伦比亚总统阿韦拉多·德拉埃斯皮耶拉在社交媒体发布视频，展示其走过23具被“消灭”的游击队员尸体。此举旨在展示其履行打击非法武装团体的承诺，但引发了公众的强烈抗议。",
-      "whyImportant": "该事件反映了美洲地区民粹主义政治风格的激进化趋势，引发了关于政治领导人行为准则的伦理争议。",
+      "titleZh": "澳大利亚新闻直播：工党计划为多达6000名技工提供免费资格认证",
+      "summaryZh": "澳大利亚工党推出一项新计划，旨在为多达6000名技工提供免费的职业资格认证。与此同时，反对党正致力于制定全面的移民政策，并强调必须驱逐非法逾期居留者。",
+      "whyImportant": "该计划旨在缓解劳动力短缺问题，同时引发了关于教育质量和移民政策的政治辩论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d9be8a7648a13535",
-      "title": "How US military presence spurred Pattaya’s rise into Thailand’s city of pleasure",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366424/how-us-military-presence-spurred-pattayas-rise-thailands-city-pleasure?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T11:32:45.000Z",
-      "summary": "The Amazon deliveries stopped reaching the USS Abraham Lincoln in February as it entered the conflict zone with Iran. A few weeks later – much to the chagrin of the sailors on board – even that most American of meals, the hamburger, was compromised by supply shortages when burger buns ran out. But as they unwind on their first shore leave in 286 days, the 5,000 crew of the Nimitz-class aircraft carrier are finding out what tens of thousands of their forebears already knew: Pattaya will...",
+      "id": "e471da62c27e0687",
+      "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+      "publishedAt": "2026-09-06T04:00:55.000Z",
+      "summary": "Serhii Beskrestnov says deadlock on frontline and increasing use of deep strikes is placing civilians and infrastructure at greater risk Russia and Ukraine are locked in an escalating war of long-range strikes with a growing risk to civilians in which neither side can entirely prevail, according to Volodymyr Zelenskyy’s defence technology adviser. Serhii Beskrestnov, widely known by his call sign, Flash, said he was worried about the prospects for Kyiv this winter, and suggested elderly people should be evacuated in case Russian bombing were to knock out the capital’s energy supply. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366424/how-us-military-presence-spurred-pattayas-rise-thailands-city-pleasure?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T11:32:45.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+          "publishedAt": "2026-09-06T04:00:55.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
+        "全球焦点",
         "军事与安全",
-        "专题·美国政策与全球影响"
+        "科技",
+        "能源"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "美国"
-      ],
-      "fingerprint": "4c6810e0ff8a28e466e88bf3",
+      "score": 61,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f56877a0d95f9de46476f25c",
       "isContinuation": false,
-      "titleZh": "美国军事存在如何推动芭堤雅成为泰国的“享乐之城”",
-      "summaryZh": "在海上执行任务近300天后，美国“亚伯拉罕·林肯”号航母的5000名船员抵达芭堤雅进行休整。芭堤雅作为美军长期以来的度假胜地，其城市发展深受美军消费和文化的影响。",
-      "whyImportant": "文章探讨了军事部署与当地旅游经济及社会文化演变之间的长期历史联系。",
+      "titleZh": "“没人会赢”：泽连斯基顾问警告称若俄乌战争持续将导致相互毁灭",
+      "summaryZh": "泽连斯基的国防技术顾问谢尔希·贝克雷斯特诺夫警告称，俄乌双方陷入远程打击的僵局，平民和基础设施面临巨大风险。他担忧基辅今冬的能源供应，并建议撤离老年人以应对可能的轰炸。",
+      "whyImportant": "此言论凸显了冲突升级对平民生存环境造成的严峻威胁，以及双方在军事上陷入僵局的现实。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e12ef7fbad742346",
-      "title": "Lunar Occultation of Venus",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-      "publishedAt": "2026-09-04T14:14:57.000Z",
-      "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "NASA",
-          "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-          "publishedAt": "2026-09-04T14:14:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "cb8295934ee1bcc411e501a8",
-      "isContinuation": false,
-      "titleZh": "月掩金星天象",
-      "summaryZh": "6月17日，美国和加拿大等地的天文爱好者观测到了一次罕见的白昼月掩金星现象。当月球运行至地球与金星之间时，金星被月球短暂遮挡。",
-      "whyImportant": "这是一次重要的天文观测事件，为科学研究和公众科普提供了难得的机会。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1e55f7f035c54e04",
-      "title": "South Korea weighs ‘contributions’ to Hormuz as US pressure mounts",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3366370/south-korea-weighs-contributions-hormuz-us-pressure-mounts?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T08:19:29.000Z",
-      "summary": "South Korea is moving towards the possible deployment of naval assets to the Strait of Hormuz under mounting pressure from Washington, potentially making it one of the first US allies to contribute militarily to the strategically vital waterway, observers have said. The government has reportedly drawn up plans to deploy military assets, including a naval logistics support ship and P-8A maritime patrol aircraft, to the strait. If carried out, the deployment would mark South Korea’s first dispatch...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3366370/south-korea-weighs-contributions-hormuz-us-pressure-mounts?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T08:19:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 54,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "6a1ef4373550f588614a86df",
-      "isContinuation": false,
-      "titleZh": "在美方压力下，韩国考虑向霍尔木兹海峡派遣军事力量",
-      "summaryZh": "受美国压力影响，韩国正计划向霍尔木兹海峡派遣海军后勤支援舰和海上巡逻机。若计划实施，这将是韩国首次向该战略要地派遣军事资产。",
-      "whyImportant": "此举标志着韩国在地区安全事务中可能采取更积极的军事参与姿态，并可能影响其与中东及美国的关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a61407df8ac94cdc",
-      "title": "Blasts at Bolivian military base kill at least 10, injure dozens",
+      "id": "ae94b0cf89202d1b",
+      "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
-      "publishedAt": "2026-09-05T03:56:16.000Z",
-      "summary": "Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.",
+      "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+      "publishedAt": "2026-09-06T02:56:31.000Z",
+      "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
-          "publishedAt": "2026-09-05T03:56:16.000Z"
+          "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+          "publishedAt": "2026-09-06T02:56:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6d3853f432e8804d907ffbcc",
+      "isContinuation": false,
+      "titleZh": "自2023年以来，以色列对黎巴嫩的袭击已造成近9000人死亡",
+      "summaryZh": "自2023年以来，以色列对黎巴嫩的军事行动已导致近9000人丧生。自3月2日以来，针对救护车队的袭击已超过179次，造成179名医护人员死亡。",
+      "whyImportant": "该数据揭示了冲突中针对医疗救援人员的袭击规模，引发了对人道主义危机的严重关切。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9036e9c935a05712",
+      "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+      "publishedAt": "2026-09-05T20:00:46.000Z",
+      "summary": "A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A man clad in a balaclava and brandishing a machete terrorises a worker at a petrol station before firebombing the building on the way out. A woman gives birth on the side of the road, unable to reach a hospital due to ambulance ramping and crater-like potholes, which also stop a fire truck in its tracks. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+          "publishedAt": "2026-09-05T20:00:46.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1354,18 +1315,100 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "科技",
+        "环境",
+        "国际组织"
       ],
-      "score": 66,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4f3a3b8b822936504baf3ef8",
+      "fingerprint": "f431aec73233615e20712ad6",
       "isContinuation": false,
-      "titleZh": "玻利维亚一军事基地发生爆炸，造成至少10人死亡，数十人受伤",
-      "summaryZh": "当局表示，在一处储存烟火材料的设施发生致命爆炸后，仍有七人失踪。救援工作正在进行中。",
-      "whyImportant": "此次爆炸事故造成了严重的人员伤亡，引发了对军事设施安全管理的关注。",
+      "titleZh": "维多利亚州选举前夕，令人震惊的AI广告充斥社交媒体。但幕后黑手是谁？",
+      "summaryZh": "在维多利亚州选举前夕，社交媒体上出现了大量由人工智能生成的暴力广告，内容涉及持刀抢劫和基础设施崩溃等场景。这些广告的支出超过了主要政党，引发了对选举操纵和虚假信息的担忧。",
+      "whyImportant": "AI生成的政治广告对选举公正性构成了挑战，并引发了公众对虚假信息传播渠道的警惕。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a248f2b5cd737ef0",
+      "title": "In an era of extreme summers, it’s time to look beyond air conditioning",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365989/era-extreme-summers-its-time-look-beyond-air-conditioning?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T01:30:07.000Z",
+      "summary": "The Labour Department recently upgraded its Heat Stress at Work Warning system, making it easier for higher-tier alerts to be sent out, so that employers and workers, especially those who have to work outdoors, can react quickly during very hot weather. Unfortunately, the most we seem to be able to do is issue warnings and recommend passive mitigation measures such as relaxing the work schedule, resting in the shade and staying hydrated. We are sitting ducks as temperatures peak year after...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365989/era-extreme-summers-its-time-look-beyond-air-conditioning?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T01:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ab0af70efcf1c35500d21159",
+      "isContinuation": false,
+      "titleZh": "在极端夏季时代，是时候超越空调的局限了",
+      "summaryZh": "尽管劳工部门升级了高温压力预警系统，但目前的应对措施仍局限于被动建议，如休息和补水。在极端高温频发的背景下，仅靠这些措施已难以保障户外工作者的安全。",
+      "whyImportant": "气候变化带来的极端高温对公共卫生和劳动保护提出了更迫切的系统性改革需求。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d31b4f8c9165c36d",
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T21:29:38.000Z",
+      "summary": "An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drugs case, official media reported on Saturday. The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concerning security and crime. The state-linked Al-Ahram newspaper said a Cairo court sentenced “Khalifa and 11 other defendants to death by hanging on charges of forming an organised criminal gang...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-05T21:29:38.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/africa/article/3366504/egypt-sentences-tv-presenter-11-others-death-drugs-case?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T17:38:14.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 58,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1030b441c889877323abbbc5",
+      "isContinuation": false,
+      "titleZh": "埃及毒品案：一名电视节目主持人被判死刑，共11人获刑",
+      "summaryZh": "埃及一家法院判处知名电视节目主持人萨拉·哈利法及其他11名被告死刑。他们被指控组建有组织犯罪团伙，从事毒品制造和贩运活动。",
+      "whyImportant": "知名媒体人卷入重大刑事案件并被判处极刑，在当地社会引发了广泛关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
@@ -1374,7 +1417,7 @@
       "title": "At least two dead in blast at Bolivia military barracks",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T02:59:40.000Z",
+      "publishedAt": "2026-09-05T15:22:41.000Z",
       "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "language": "",
       "region": "international",
@@ -1382,7 +1425,7 @@
         {
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-05T02:59:40.000Z"
+          "publishedAt": "2026-09-05T15:22:41.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1394,33 +1437,33 @@
         "突发",
         "军事与安全"
       ],
-      "score": 66,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
       "fingerprint": "7506966aa60e0aca6416cced",
       "isContinuation": false,
-      "titleZh": "玻利维亚一军事营地发生爆炸，至少两人死亡",
-      "summaryZh": "当局担心维亚查（Viacha）的死亡人数会进一步上升。由于存在后续爆炸风险，民众已被警告远离该营地。",
-      "whyImportant": "该事件凸显了军事设施周边地区的安全隐患及潜在的次生灾害风险。",
+      "titleZh": "玻利维亚一军事营房发生爆炸，至少两人死亡",
+      "summaryZh": "玻利维亚维亚查的一处军事营房发生爆炸，造成至少两人死亡。当局警告称死亡人数可能上升，并要求民众远离该区域以防发生二次爆炸。",
+      "whyImportant": "此次事故造成的人员伤亡和潜在的安全隐患引起了当地政府和公众的高度重视。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6d45043f8183bb02",
-      "title": "Sydney set to hit 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
+      "id": "59c93e7c75e2a3fa",
+      "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
-      "publishedAt": "2026-09-05T02:00:54.000Z",
-      "summary": "A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditions Get our breaking news email, free app or daily news podcast Summer heat is due to arrive early across much of eastern Australia with potentially record early September temperatures predicted for Brisbane and Sydney, while snow was expected in southern New South Wales. Maximum temperatures in Sydney during the first days of September were on track to match the city’s midsummer average of 26.4C, warmer than any other start to spring since the city’s Observatory Hill station opened in 1858. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+      "publishedAt": "2026-09-05T10:00:33.000Z",
+      "summary": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancer A man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would still be alive today if the Home Office had agreed to bring her and her family to Britain. Anwar, who lives in Glasgow, fled Gaza in 2020 and was granted refugee status in the UK in 2021. After the destruction of large areas of Gaza by Israeli forces following the Hamas attacks on Israel in October 2023, he applied to bring his brother Hassan, Hassan’s wife, Maryam, their two young children and other family members to the UK in October 2025. He said the Home Office rejected their application. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
-          "publishedAt": "2026-09-05T02:00:54.000Z"
+          "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+          "publishedAt": "2026-09-05T10:00:33.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1431,36 +1474,35 @@
         "全球焦点",
         "突发",
         "军事与安全",
-        "持续关注"
+        "国际组织"
       ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0955d69e030a765bcd3f5a37",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "悉尼气温预计将达33摄氏度，或迎19世纪中期以来最热春季开端，新南威尔士州南部则有降雪预报",
-      "summaryZh": "悉尼已发布全面禁火令，极端高温和大风天气加剧了火灾风险。与此同时，澳大利亚东部多地气温异常偏高，而新南威尔士州南部部分地区却预计出现降雪。",
-      "whyImportant": "极端天气模式的并存反映了气候变化对澳大利亚季节性气候的显著影响。",
+      "fingerprint": "739db4754ac08437a3865f37",
+      "isContinuation": false,
+      "titleZh": "加沙难民称，若英国内政部允许其嫂子入境，她本可活下来",
+      "summaryZh": "居住在格拉斯哥的安瓦尔表示，尽管他的嫂子玛丽亚姆患有癌症，但英国内政部仍拒绝了她的签证申请。安瓦尔认为，如果英国内政部当初批准其家人入境，玛丽亚姆本可以获得救治并存活至今。",
+      "whyImportant": "此事件引发了关于英国签证政策在处理人道主义危机时是否过于严苛的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ee1a1164e1ae975d",
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T02:13:21.000Z",
-      "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+      "id": "9f9e82af934b7aaf",
+      "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
+      "publishedAt": "2026-09-06T04:08:08.000Z",
+      "summary": "Anika Wells expected to release legislation creating a digital duty of care in parliament this week, but Coalition argues it is ‘attempt to censor the internet’ Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s Politics, really newsletter here Labor’s plan to crack down on social media algorithms faces significant opposition in federal parliament, with the opposition leader, Angus Taylor, warning against efforts by the government to “censor” free speech online. The communications minister, Anika Wells, is expected to release draft legislation creating a digital duty of care for social media users in Australia as parliament returns this week. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-05T02:13:21.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
+          "publishedAt": "2026-09-06T04:08:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1469,267 +1511,35 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "经济",
         "军事与安全"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a2f8f5931eabe9be8cbba185",
+      "fingerprint": "2c19464311fd0efbf7817ddc",
       "isContinuation": false,
-      "titleZh": "加拿大在与美国的贸易战中能有多少反击能力？",
-      "summaryZh": "尽管美国是加拿大更大的贸易伙伴，但在不断升级的贸易争端中，加拿大仍具备一定的应对能力。分析人士正在评估其反制手段的有效性。",
-      "whyImportant": "加美贸易关系的紧张态势对北美经济稳定及双边政策走向具有重要影响。",
+      "titleZh": "澳大利亚工党计划整顿社交媒体算法，反对党领袖泰勒表示“深表怀疑”",
+      "summaryZh": "澳大利亚工党政府计划在本周提交立法，要求社交媒体平台承担数字护理责任。反对党领袖安格斯·泰勒对此表示强烈反对，认为这是政府试图审查互联网言论自由的行为。",
+      "whyImportant": "该立法提案在澳大利亚政坛引发了关于政府监管权力与网络言论自由之间平衡的激烈争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5d5b2ca38cd5259a",
-      "title": "Australia’s housing prices are trending down. See which suburbs have had the biggest falls",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/05/house-prices-trending-down-sydney-melbourne-brisbane-perth-darwin",
-      "publishedAt": "2026-09-04T15:00:12.000Z",
-      "summary": "Cotality says prices have declined in most capital cities over winter. Search the data to see how they have changed in your area Get our breaking news email, free app or daily news podcast Australia’s property market is facing a rare price correction, as rising interest rates and less favourable tax settings for investors accelerate a downturn. Most capital cities recorded winter price falls, according to Cotality data, with Sydney leading the decline. That weakness is expected to continue, as higher inflation could lead to further interest rate hikes, denting demand. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/05/house-prices-trending-down-sydney-melbourne-brisbane-perth-darwin",
-          "publishedAt": "2026-09-04T15:00:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "金融"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "dc6d8647a6cfa69ccf44de21",
-      "isContinuation": false,
-      "titleZh": "澳大利亚房价呈下降趋势，查看哪些郊区跌幅最大",
-      "summaryZh": "数据显示，受利率上升和投资者税收政策调整影响，澳大利亚多数首府城市冬季房价出现下跌。悉尼领跌，且由于通胀压力可能导致进一步加息，市场疲软态势预计将持续。",
-      "whyImportant": "房地产市场的价格调整反映了宏观经济政策对居民财富和消费能力的直接冲击。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b9c8a23b4c415de0",
-      "title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-      "publishedAt": "2026-09-04T14:35:16.000Z",
-      "summary": "Russian and Ukrainian strikes in July killed more crew than in whole war to that month, preventing grain exports A summer of hostilities in the Black Sea proved deadly for seafarers, as Russia and Ukraine attacked each other’s ships and port infrastructure, preventing vital grain exports and prompting concerns that the conflict will push global food prices even higher. More crew were killed in the Black Sea in July than during the entirety of the war before that month as the conflict has intensified, making the body of water the most dangerous in the world for commercial shipping. This is despite the conflict between the US and Iran, with vessels still being targeted in the strait of Hormuz, Red Sea and Gulf of Aden. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-          "publishedAt": "2026-09-04T14:35:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "434ed18413cbc938982478b9",
-      "isContinuation": false,
-      "titleZh": "黑海袭击事件升级引发对食品价格进一步上涨的担忧",
-      "summaryZh": "俄乌双方在黑海的军事冲突导致7月份船员死亡人数激增，严重阻碍了粮食出口。黑海已成为全球商业航运最危险的区域，引发了对全球食品价格上涨的担忧。",
-      "whyImportant": "黑海航运安全受阻直接威胁全球粮食供应链，可能加剧国际通胀压力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d14173a2e07f7550",
-      "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
-      "source": "DW",
-      "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-09-04T19:31:00.000Z",
-      "summary": "Maltese businessman Yorgen Fenech has been found not guilty of complicity to murder journalist Daphne Caruana Galizia. Almost nine years after the attack, the question of who ordered her death remains unanswered.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-09-04T19:31:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f601fc7c97191a1ea6b3148d",
-      "isContinuation": false,
-      "titleZh": "马耳他大亨被判谋杀记者罪名不成立，引发众怒",
-      "summaryZh": "马耳他商人尤尔根·费内奇被判谋杀记者达芙妮·卡鲁阿纳·加利齐亚的共谋罪名不成立。在袭击发生近九年后，谁是幕后主使依然成谜。",
-      "whyImportant": "此判决引发了公众对司法公正和新闻自由保护的广泛质疑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a90c728e00337356",
-      "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168278",
-      "publishedAt": "2026-09-04T12:00:00.000Z",
-      "summary": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the UN agency said on Friday.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168278",
-          "publishedAt": "2026-09-04T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "290cb63e8508adc6b16c1ed0",
-      "isContinuation": false,
-      "titleZh": "世卫组织：乌克兰人道主义仓库屡遭袭击，重要医疗援助面临风险",
-      "summaryZh": "世界卫生组织表示，基辅地区的一处主要人道主义医疗物资仓库在夜间空袭中受损。此类袭击严重威胁了当地医疗援助的供应能力。",
-      "whyImportant": "针对人道主义设施的袭击阻碍了战区医疗救助工作，加剧了当地的人道主义危机。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "da99e973aa2c289a",
-      "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-      "publishedAt": "2026-09-05T00:00:21.000Z",
-      "summary": "The Israeli army had helped plan the delivery of food aid on 1 April 2024, but things went wrong from the beginning and ended in seven deaths • Exclusive: why seven international aid workers were killed in Israeli airstrike On the evening of 1 April 2024, a team of aid workers from World Central Kitchen (WCK) stood on Gaza’s Mediterranean shore overseeing the unloading of a barge full of desperately needed food on a makeshift jetty made of sand and rubble. The Gaza war had been raging for six months and Israel’s closure of land crossings had left the whole territory facing the threat of famine. WCK and local Palestinian contractors had constructed the jetty out of everything they could lay their hands on, including debris from the bombed house of one of the contractors, so that the pallets of humanitarian assistance could be delivered by boat from Cyprus. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-          "publishedAt": "2026-09-05T00:00:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "af722ce82446af46b4ca120e",
-      "isContinuation": false,
-      "titleZh": "拉法之路上的死亡：以色列国防军袭击世界中央厨房救援人员之夜",
-      "summaryZh": "2024年4月1日，尽管以色列军队参与了食品援助交付的规划，但行动最终导致七名世界中央厨房的救援人员丧生。这些救援人员当时正在加沙海岸监督通过临时码头卸载人道主义物资。",
-      "whyImportant": "此事件引发了国际社会对加沙地带人道主义救援安全及以色列军事行动透明度的严重关切。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2812aaa9cbdb1d51",
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T16:02:32.000Z",
-      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-04T16:02:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f3b825e84d2ceb3abeff57d9",
-      "isContinuation": false,
-      "titleZh": "泽连斯基称俄罗斯无人机袭击乌克兰安全总部",
-      "summaryZh": "一架无人驾驶飞行器在乌克兰首都中心地带发动了突袭。目前暂无更多细节披露。",
-      "whyImportant": "此次袭击显示乌克兰首都的安全局势依然脆弱，且俄乌冲突持续升级。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "035cd487d960446c",
-      "title": "Taiwan’s opposition parties split over mayoral race, threatening 2028 election alliance",
+      "id": "32300b79a3b8b4b1",
+      "title": "Gen Z is turning filial piety into a career path",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3366416/taiwans-opposition-parties-split-over-mayoral-race-threatening-2028-election-alliance?utm_source=rss_feed",
-      "publishedAt": "2026-09-05T04:00:09.000Z",
-      "summary": "A rupture between Taiwan’s two opposition parties over a mayoral race threatens to spill into November’s elections and erode the fragile trust underpinning their potential 2028 alliance. The main opposition Kuomintang (KMT) and smaller Taiwan People’s Party (TPP) have both registered candidates for mayor of Zhubei, the biggest city in Hsinchu county, after weeks of negotiations failed to produce a joint contender. The KMT has nominated Hsinchu county councillor Wu Hsu-chih, while the TPP’s Chiu...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365271/gen-z-turning-filial-piety-career-path?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T21:30:06.000Z",
+      "summary": "Hong Kong has always had a simple answer to what young people should do with their lives: study hard, get a job, work harder, buy a flat and eventually complain about the next generation. That formula is becoming harder to sell. A whole lexicon has grown up around Generation Z’s uneasy relationship with work. In mainland China, there are “full-time children”, young adults who stay home and receive an allowance from their parents in return for doing household chores and running errands....",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3366416/taiwans-opposition-parties-split-over-mayoral-race-threatening-2028-election-alliance?utm_source=rss_feed",
-          "publishedAt": "2026-09-05T04:00:09.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365271/gen-z-turning-filial-piety-career-path?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T21:30:06.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1737,35 +1547,73 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "国际组织"
       ],
       "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7bb4c1dd827ddc5de73c68df",
+      "fingerprint": "31389de860270b00ef5c447b",
       "isContinuation": false,
-      "titleZh": "台湾反对党在市长选举中分裂，威胁到2028年选举联盟",
-      "summaryZh": "国民党与民众党因新竹县竹北市市长候选人提名问题谈判破裂，双方各自推举人选。这一分歧可能削弱两党间脆弱的信任，并影响其在2028年大选中的合作前景。",
-      "whyImportant": "反对党阵营的内部分裂可能改变台湾地方选举格局，并对未来的政治联盟产生深远影响。",
+      "titleZh": "Z世代正在将“孝道”转化为职业道路",
+      "summaryZh": "传统的职业发展路径在当代年轻人中逐渐失去吸引力，一种新的生活方式正在兴起。在中国内地，许多年轻人选择成为“全职儿女”，通过承担家务和处理杂事来换取父母的经济支持。",
+      "whyImportant": "这一现象反映了当代年轻人对传统就业压力和生活模式的重新思考与适应。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d8ed3c665e308061",
-      "title": "After 66 years, Kau Kee’s first shop offers fish balls ‘every Hongkonger has eaten’",
+      "id": "e75a819167bc8525",
+      "title": "Red tape, high cost: can Hong Kong’s new yacht scheme chart a smoother course?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366433/after-66-years-kau-kees-first-shop-offers-fish-balls-every-hongkonger-has-eaten?utm_source=rss_feed",
-      "publishedAt": "2026-09-05T03:00:15.000Z",
-      "summary": "Anita Lee Yan-kwan grew up around a traditional business that supplied fish balls to Hong Kong’s street food stalls and eateries. But for decades, Kau Kee Food Factory’s signature product was known only among industry operators until Lee, a second-generation owner, opened the company’s first retail store late last year. Kau Kee has operated as a silent giant in the food industry for 66 years, supplying its fish balls to nearly 1,000 eateries and snack stalls across the city. But it finally...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366503/red-tape-high-cost-can-hong-kongs-new-yacht-scheme-chart-smoother-course?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T03:00:12.000Z",
+      "summary": "Retired harbour pilot Alex Yu Chi-leung sailed his 50-foot wooden yacht, Bowline, from Causeway Bay in Hong Kong to Dongao Island in Zhuhai under a new cross-border yachting scheme last week, but bureaucratic hurdles and shallow waters tempered the excitement of the leisure trip. It was Yu’s first voyage under the scheme, but it could also be his last unless mainland Chinese authorities improve certain requirements. “If the procedures are simplified – because right now they are too numerous,...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3366433/after-66-years-kau-kees-first-shop-offers-fish-balls-every-hongkonger-has-eaten?utm_source=rss_feed",
-          "publishedAt": "2026-09-05T03:00:15.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366503/red-tape-high-cost-can-hong-kongs-new-yacht-scheme-chart-smoother-course?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T03:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0bc6d2af72b10cf2a7614c53",
+      "isContinuation": false,
+      "titleZh": "繁文缛节与高昂成本：香港的新游艇计划能否航行得更顺畅？",
+      "summaryZh": "尽管香港推出了跨境游艇计划，但参与者在实际操作中仍面临繁琐的行政程序和水深限制等问题。参与者呼吁简化流程，否则该计划的吸引力将大打折扣。",
+      "whyImportant": "行政障碍的改善对于促进大湾区内跨境休闲旅游的便利化至关重要。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1a7b1081ec816394",
+      "title": "China begins mining iron from tailings, low-grade ore that can meet its demand for decades",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3366315/china-begins-mining-iron-tailings-low-grade-ore-can-meet-its-demand-decades?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T03:00:09.000Z",
+      "summary": "China has launched a world-first industrial-scale facility to extract iron from previously discarded mine tailings and ultra-low-grade ore, turning waste into a valuable resource that can reduce its dependency on overseas supply. According to the Chinese Academy of Sciences (CAS) last Tuesday, a production line capable of processing 5.56 million tonnes of refractory iron ore and tailings per year has passed official checks and is now running steadily. China is the world’s largest iron ore user,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3366315/china-begins-mining-iron-tailings-low-grade-ore-can-meet-its-demand-decades?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T03:00:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1776,32 +1624,255 @@
         "中国重点"
       ],
       "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f15477dc39835e75ede2427d",
+      "fingerprint": "c392815f3e02ca9592d1329c",
       "isContinuation": false,
-      "titleZh": "经营66年后，九记首家门店推出“每个香港人都吃过”的鱼蛋",
-      "summaryZh": "九记食品厂长期作为香港餐饮业的幕后供应商，为近千家食肆提供鱼蛋。第二代经营者李恩群于去年底开设了公司首家零售店，将这一传统品牌推向大众市场。",
-      "whyImportant": "此举标志着香港传统老字号从批发模式向零售模式转型，以适应市场变化。",
+      "titleZh": "中国开始从尾矿和低品位矿石中开采铁矿，可满足数十年需求",
+      "summaryZh": "中国已启动全球首个工业规模的设施，用于从废弃矿渣和超低品位矿石中提取铁矿。该生产线年处理能力达556万吨，旨在将废弃物转化为资源，从而降低对海外铁矿石供应的依赖。",
+      "whyImportant": "此项技术突破有助于提升中国在关键矿产资源方面的自主保障能力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b66eb60b0675e337",
-      "title": "Chinese food delivery platform sparks buzz after rider flies to Singapore for curry puff run",
+      "id": "e92475c83350f86a",
+      "title": "Robin Morgan, child star who became feminist, poet and editor, dies aged 85",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85",
+      "publishedAt": "2026-09-05T18:16:41.000Z",
+      "summary": "Leading second-wave feminist co-founded Women’s Media Center with Jane Fonda and Gloria Steinem Robin Morgan, a child star of the 1940s and 50s who grew up to become an all-American radical as a poet, essayist, editor and second-wave feminist, has died. She was 85. Morgan’s death was confirmed Saturday by the Women’s Media Center, an organization she co-founded with Jane Fonda and the celebrated author and activist Gloria Steinem, who died Wednesday. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85",
+          "publishedAt": "2026-09-05T18:16:41.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "国际组织"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c14ee32207b30b5f8f8ea8fc",
+      "isContinuation": false,
+      "titleZh": "童星出身、后成为女性主义者、诗人和编辑的罗宾·摩根去世，享年85岁",
+      "summaryZh": "曾是20世纪40至50年代童星的罗宾·摩根去世，享年85岁。她后来转型为激进的女性主义者、诗人和编辑，并与简·方达及格洛丽亚·斯泰纳姆共同创立了女性媒体中心。",
+      "whyImportant": "罗宾·摩根在推动女性权益和媒体话语权方面留下了深远的影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "400ba51621a43959",
+      "title": "Canada and China thaw continues as militaries hold first talks in 8 years amid US pressure",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366439/chinese-food-delivery-platform-sparks-buzz-after-rider-flies-singapore-curry-puff-run?utm_source=rss_feed",
-      "publishedAt": "2026-09-05T01:00:10.000Z",
-      "summary": "A Chinese man dressed in a food delivery uniform has sparked widespread curiosity online after he was seen in Singapore buying curry puffs for a customer in China to fulfil a “cross-border food order.” On August 31, Chloe, a Chinese woman living in Singapore, shared a video depicting the man in a Meituan uniform waiting at Hong Lim Curry Puff, a snack shop located in PLQ Mall, about a 17-minute drive from Changi Airport. Meituan is among China’s largest food delivery platforms. Chloe informed...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366477/canada-and-china-thaw-continues-militaries-hold-first-talks-8-years-amid-us-pressure?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T11:00:11.000Z",
+      "summary": "China and Canada’s armed forces held their first round of talks in eight years on Friday in the face of growing tensions with the United States. The Chinese defence ministry said there had been a candid and in-depth exchange of views on international and regional issues of common concern. “[Both sides] expressed willingness to strengthen practical exchanges and cooperation between the two militaries, and enhanced mutual understanding and trust,” the ministry added. It was the first meeting...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366439/chinese-food-delivery-platform-sparks-buzz-after-rider-flies-singapore-curry-puff-run?utm_source=rss_feed",
-          "publishedAt": "2026-09-05T01:00:10.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366477/canada-and-china-thaw-continues-militaries-hold-first-talks-8-years-amid-us-pressure?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T11:00:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9559b848485ee7fa43c49436",
+      "isContinuation": false,
+      "titleZh": "加拿大与中国关系回暖，两国军方举行八年来首次会谈",
+      "summaryZh": "面对与美国日益紧张的关系，中国与加拿大军方举行了八年来的首次会谈。双方就共同关心的国际和地区问题进行了坦诚深入的交流，并表达了加强务实合作与增进互信的意愿。",
+      "whyImportant": "此次会谈标志着中加两国在外交与军事层面的接触有所恢复，可能对两国关系走向产生积极影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "50b8cc60bf303416",
+      "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "publishedAt": "2026-09-05T22:19:40.000Z",
+      "summary": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House. It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+          "publishedAt": "2026-09-05T22:19:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1d28ad717eb8588e56dab00c",
+      "isContinuation": false,
+      "titleZh": "特朗普对英国心存不满，或在福克兰群岛问题上偏袒阿根廷总统米莱",
+      "summaryZh": "美国总统特朗普暗示可能支持其盟友、阿根廷总统米莱收回对争议岛屿的主权。这一表态反映了特朗普一贯的报复性政治风格，可能对英美关系造成潜在冲击。",
+      "whyImportant": "若美国在福克兰群岛主权争议上改变立场，将严重动摇英美特殊关系并引发国际外交风波。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0bda41ca8cf7bc37",
+      "title": "Cut the cameras: Flock surveillance cameras spur rare bipartisan backlash",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+      "publishedAt": "2026-09-05T14:00:37.000Z",
+      "summary": "Politicians on the right and left are pushing back against Flock as more Americans voice opposition to the tech Growing factions from both sides of the political aisle in the US are pushing back against surveillance cameras made by a single company, a rare response in a sharply divided country with a president pushing an unwaveringly pro-tech agenda. The bipartisan backlash against Flock Safety cameras resembles nationwide rage toward the construction of large datacenters that power artificial intelligence. Polling shows roughly 75% of Americans oppose new datacenter construction in their areas. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+          "publishedAt": "2026-09-05T14:00:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 51,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "815e0a78e4ed6e53915be082",
+      "isContinuation": false,
+      "titleZh": "叫停监控：Flock监控摄像头引发罕见的跨党派抵制",
+      "summaryZh": "美国两党政客正联合抵制Flock Safety公司的监控摄像头，民众对该技术的反对声浪日益高涨。这种跨党派的抵制行动与近期针对人工智能数据中心建设的全国性抗议趋势相呼应。",
+      "whyImportant": "这一现象反映了美国社会对隐私保护和科技扩张的担忧已超越党派分歧，成为重要的公共议题。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3618626621247755",
+      "title": "Lindsay Clancy murder trial ends in dramatic deadlock – what comes next?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial",
+      "publishedAt": "2026-09-05T12:00:36.000Z",
+      "summary": "District attorney must decide whether to retry case after jury’s failure to reach verdict despite hours of deliberation Lindsay Clancy, prosecutors, defense lawyers, the judge and millions watching on are back where they started after her five-week trial over the murder of her three children ended in a mistrial. America’s saddest case has ceased for the moment, but the legal wrangling is not over, and a second trial could now be on the horizon, prolonging and repeating an agonizing spectacle that has gripped America and the world. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial",
+          "publishedAt": "2026-09-05T12:00:36.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 50,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c2326f71d528d473416d18f4",
+      "isContinuation": false,
+      "titleZh": "林赛·克兰西谋杀案审判陷入僵局，后续走向成谜",
+      "summaryZh": "由于陪审团未能达成一致，林赛·克兰西杀害三名子女案的审判以流审告终。检方目前需决定是否重新提起诉讼，这起备受关注的案件法律程序仍未结束。",
+      "whyImportant": "该案的流审延长了公众对这一悲剧性案件的关注，并引发了关于司法公正与心理健康法律定义的持续讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5af7fa98d9483358",
+      "title": "Cold comfort: Japan’s Hokkaido battles cockroach surge amid global warming",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366338/cold-comfort-japans-hokkaido-battles-cockroach-surge-amid-global-warming?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T04:00:07.000Z",
+      "summary": "In all his five decades of living in Hokkaido, Makoto Watanabe cannot recall ever being confronted by a cockroach. But he admits being alarmed by reports that the despised insects are taking advantage of global warming to gain a foothold in a part of Japan where winters were previously considered too hostile for large colonies to emerge. “When I was a university student in Tokyo 30 years ago, I used to see them in my accommodation and I absolutely hated them,” Watanabe told This Week in...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366338/cold-comfort-japans-hokkaido-battles-cockroach-surge-amid-global-warming?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T04:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d42996ad1409b243ebb2ccc2",
+      "isContinuation": false,
+      "titleZh": "寒冷不再：全球变暖导致日本北海道蟑螂激增",
+      "summaryZh": "全球变暖使得原本因冬季严寒而不适合蟑螂生存的北海道，如今也面临蟑螂泛滥的问题。当地居民对这种昆虫的出现感到担忧，认为气候变化正在改变当地的生态环境。",
+      "whyImportant": "这一现象是全球气候变暖对区域生态和居民生活产生直接影响的典型案例。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4598b791349c7ca0",
+      "title": "Signalling fault disrupts Hong Kong high-speed rail service, delaying 15 trains",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3366514/signalling-fault-disrupts-hong-kong-high-speed-rail-service-delaying-15-trains?utm_source=rss_feed",
+      "publishedAt": "2026-09-06T02:35:28.000Z",
+      "summary": "At least 15 high-speed cross-border train services were delayed after a signalling fault prompted a 45-minute disruption of northbound services in Hong Kong on Sunday morning. The Transport Department said at around 8.30am that the MTR Corporation had notified authorities that high-speed rail services would be delayed due to a “signal fault”. At around 9.15am, the department said the MTR had resolved the signal issues, and high-speed rail services were gradually resuming normally. It said...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3366514/signalling-fault-disrupts-hong-kong-high-speed-rail-service-delaying-15-trains?utm_source=rss_feed",
+          "publishedAt": "2026-09-06T02:35:28.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1811,33 +1882,33 @@
       "tags": [
         "中国重点"
       ],
-      "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "274338110e08c97ed1b85400",
+      "fingerprint": "ed6e31d1dccf1e58cbfad1fe",
       "isContinuation": false,
-      "titleZh": "中国外卖平台骑手飞往新加坡购买咖喱角引发热议",
-      "summaryZh": "一名身穿美团制服的男子在新加坡购买咖喱角，据称是为了满足中国客户的“跨境食品订单”。这一视频在社交媒体上引发了广泛关注与好奇。",
-      "whyImportant": "该事件引发了公众对于跨境物流服务边界及网络营销真实性的讨论。",
+      "titleZh": "信号故障扰乱香港高铁服务，导致15趟列车延误",
+      "summaryZh": "周日上午，香港高铁因信号故障导致北行服务中断约45分钟，至少15趟跨境列车受到延误影响。港铁公司随后修复了故障，服务已逐步恢复正常。",
+      "whyImportant": "此次故障影响了跨境交通效率，凸显了公共交通基础设施维护对维持城市运作的重要性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e9b0a7aaf8db327c",
-      "title": "Why are fuel and petrochemical prices outpacing crude – and how long will it last?",
+      "id": "5288e389d0e6eed7",
+      "title": "3 arrested for allegedly acting with seditious intent outside MTR station",
       "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3366432/why-are-fuel-and-petrochemical-prices-outpacing-crude-and-how-long-will-it-last?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T13:00:08.000Z",
-      "summary": "This summer, David Chen, a Chinese national living in Japan, got an unexpected lesson in global industrial supply chains – delivered through a bag of potato chips. When popular Japanese snack brand Calbee replaced its signature colourful packaging with monochrome designs, Chen initially assumed it was a marketing gimmick. “Then news reports explained the switch stemmed from a naphtha supply crunch. I even looked up the word,” Chen said. Naphtha, a flammable liquid processed from crude oil, might...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366468/3-arrested-over-allegedly-seditious-memorial-outside-prince-edward-mtr-station?utm_source=rss_feed",
+      "publishedAt": "2026-09-05T07:42:48.000Z",
+      "summary": "Hong Kong national security police have arrested three people on suspicion of acting with seditious intent over a gathering outside Prince Edward MTR station to mark a 2019 protest flashpoint there. A police force spokesman said on Saturday that two men and a woman were arrested on Thursday, noting that some people were allegedly shouting seditious slogans and holding white flowers outside the station on August 31. “The people concerned were suspected of spreading false information and attacking...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/economy/global-economy/article/3366432/why-are-fuel-and-petrochemical-prices-outpacing-crude-and-how-long-will-it-last?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T13:00:08.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366468/3-arrested-over-allegedly-seditious-memorial-outside-prince-edward-mtr-station?utm_source=rss_feed",
+          "publishedAt": "2026-09-05T07:42:48.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1846,169 +1917,19 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "能源"
-      ],
-      "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "df33a1660c51b303e7fdd049",
-      "isContinuation": false,
-      "titleZh": "为何燃料和石化产品价格涨幅超过原油？这种情况会持续多久？",
-      "summaryZh": "日本零食品牌卡乐比因石化原料石脑油供应紧张而被迫更改包装设计。石脑油作为原油加工产品，其供应短缺已波及全球工业供应链。",
-      "whyImportant": "石化产品供应链的波动揭示了全球工业生产对特定原材料的高度依赖及其连锁反应。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ecc84a988a6afb18",
-      "title": "Why the EU is giving Arctic shipping the cold shoulder as China and Russia push ahead",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3366324/why-eu-giving-arctic-shipping-cold-shoulder-china-and-russia-push-ahead?utm_source=rss_feed",
-      "publishedAt": "2026-09-04T15:00:08.000Z",
-      "summary": "As Beijing and Moscow double down on the Arctic shipping route, Europe is hitting the brakes. Despite being the main destination for goods along the route and accounting for most of the world’s shipping giants, Europe opposes the commercialisation of Arctic transits, wary of fragile polar ecosystems and navigational risks amid rising anxiety over Russia and China’s closer polar collaboration. “In Europe, cooperation between China and Russia on container shipping is often viewed as another...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3366324/why-eu-giving-arctic-shipping-cold-shoulder-china-and-russia-push-ahead?utm_source=rss_feed",
-          "publishedAt": "2026-09-04T15:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
+        "突发",
         "军事与安全"
       ],
-      "score": 52,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "093b90d3a6e5f51b9e4d3425",
+      "fingerprint": "4cfdc16578921d59c0be6738",
       "isContinuation": false,
-      "titleZh": "为何欧盟对北极航线持冷淡态度，而中俄却积极推进？",
-      "summaryZh": "尽管欧洲是北极航线的主要目的地，但出于对生态环境和航行风险的担忧，欧洲反对北极航线的商业化。同时，欧洲对中俄在北极航运上的合作表现出警惕。",
-      "whyImportant": "北极航线的开发涉及地缘政治博弈、环境保护与全球贸易路线的重塑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8e9bc2d2e64dbbde",
-      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T04:03:51.000Z",
-      "summary": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-05T04:03:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a4fec4ef9223fdcfa8a43f92",
-      "isContinuation": false,
-      "titleZh": "俄罗斯在西非是保护盟友比打击敌人更有效吗？",
-      "summaryZh": "俄罗斯军队进入尼日尔旨在打击圣战分子，但其主要作用也包括保护当地的军事领导层。外界质疑其在反恐与维护政权稳定之间的侧重点。",
-      "whyImportant": "该问题揭示了俄罗斯在非洲地区军事干预的复杂动机及其对当地政治格局的影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ab71a63a663d81d9",
-      "title": "Investigations launched into polling firm at centre of Reform UK allegations",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/sep/04/investigation-polling-firm-reform-uk-allegations",
-      "publishedAt": "2026-09-04T16:14:46.000Z",
-      "summary": "British Polling Council and Market Research Society announce inquiries into JL Partners, which has been accused of breaking transparency rules What is the latest finance scandal facing Reform UK? A polling firm at the centre of allegations that Reform UK breached electoral law is being investigated by two industry bodies. JL Partners, which is run by former Conservative aides, has been accused of breaking transparency rules by failing to declare that three separate polls had been commissioned by the party. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/sep/04/investigation-polling-firm-reform-uk-allegations",
-          "publishedAt": "2026-09-04T16:14:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6ea026c91310e08077ff78e2",
-      "isContinuation": false,
-      "titleZh": "针对卷入英国改革党指控的民调公司展开调查",
-      "summaryZh": "英国民调委员会和市场研究协会正对JL Partners公司展开调查。该公司被指控在未披露委托方的情况下，为英国改革党进行了三次民调，违反了透明度规则。",
-      "whyImportant": "此调查涉及选举公正性和民调行业的透明度问题，可能对英国政治舆论环境产生影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3699defcceb3927d",
-      "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-      "publishedAt": "2026-09-04T15:37:52.000Z",
-      "summary": "Volodymyr Zelenskyy says he has told SBU to deliver ‘appropriate, tangible response’ to Kyiv strike The head office of Ukraine’s SBU intelligence agency has been hit in a Russian drone attack, sending plumes of black smoke rising into the air in the heart of Kyiv. Ukraine’s president, Volodymyr Zelenskyy, said he had instructed the SBU to deliver an “appropriate, tangible response” to the strike, while the foreign minister, Andrii Sybiha, described it as a “major escalation”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-          "publishedAt": "2026-09-04T15:37:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "fac9917b0ef95af15db7e69e",
-      "isContinuation": false,
-      "titleZh": "俄罗斯袭击乌克兰情报总部，局势“重大升级”",
-      "summaryZh": "俄罗斯无人机袭击了位于基辅市中心的乌克兰国家安全局总部。乌克兰总统泽连斯基已下令进行“实质性回应”，乌外长称此举为局势的重大升级。",
-      "whyImportant": "此次袭击直接针对乌克兰核心情报机构，标志着俄乌冲突在打击目标和烈度上的进一步升级。",
+      "titleZh": "3人因涉嫌在港铁站外具煽动意图被捕",
+      "summaryZh": "香港国安警察逮捕了三名男女，指控其在太子站外纪念2019年抗议活动期间涉嫌具煽动意图。警方称被捕者在现场高喊煽动性口号并散布虚假信息。",
+      "whyImportant": "此举显示香港执法部门持续依据相关法律对涉及公共秩序和国家安全的行为进行严厉管控。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
