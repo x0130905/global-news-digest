@@ -1,264 +1,42 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-07T04:38:27.423Z",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T04:33:11.932Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "security",
-    "name": "军事、安全与突发事件",
-    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
-    "query": "military security conflict breaking crisis",
+    "slug": "technology-energy",
+    "name": "科技、能源与产业",
+    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
+    "query": "technology artificial intelligence semiconductor energy industry",
     "keywords": [
-      "military",
-      "war",
-      "missile",
-      "security",
-      "attack",
-      "ceasefire",
-      "军事",
-      "战争",
-      "导弹",
-      "袭击",
-      "停火",
-      "突发"
+      "technology",
+      "artificial intelligence",
+      "semiconductor",
+      "space",
+      "energy",
+      "科技",
+      "人工智能",
+      "芯片",
+      "太空",
+      "能源"
     ],
-    "accent": "#f97316"
+    "accent": "#06b6d4"
   },
-  "overview": "今日专题“军事、安全与突发事件”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "08eb0e548fa4635c",
-      "title": "美重启穿梭外交 俄乌短暂停火 和平进程仍漫漫",
-      "source": "yangtse.com",
-      "url": "https://www.yangtse.com/news/txs/202609/t20260907_390130.html",
-      "publishedAt": "2026-09-07T03:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "yangtse.com",
-          "url": "https://www.yangtse.com/news/txs/202609/t20260907_390130.html",
-          "publishedAt": "2026-09-07T03:30:00.000Z"
-        },
-        {
-          "source": "news.hsw.cn",
-          "url": "https://news.hsw.cn/system/2026/0907/1957719.shtml",
-          "publishedAt": "2026-09-07T02:00:00.000Z"
-        },
-        {
-          "source": "bjnews.com.cn",
-          "url": "https://www.bjnews.com.cn/detail/1788737741129452.html",
-          "publishedAt": "2026-09-07T00:45:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 83,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "1a1b850c1a93a83c12a17438",
-      "isContinuation": false,
-      "titleZh": "美国重启穿梭外交，俄乌实现短暂停火，和平进程依然漫长",
-      "summaryZh": "美国近期重启穿梭外交，旨在推动俄乌冲突的调解。尽管双方实现了短暂停火，但整体和平进程仍面临诸多挑战。",
-      "whyImportant": "此举显示国际社会在调停俄乌冲突方面仍未放弃努力，但局势的复杂性决定了和平之路依然艰难。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d1f96c81d21783cd",
-      "title": "How China’s green tech is undercutting Trump’s ‘drill, baby, drill’ oil strategy in Africa",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3366527/how-chinas-green-tech-undercutting-trumps-drill-baby-drill-oil-strategy-africa?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T04:00:09.000Z",
-      "summary": "Cost appears to be a deciding factor for most African countries when it comes to energy as they observe the factors that influence US and Chinese policy decisions. In a sign of the contrasting energy strategies pursued by Washington and Beijing, US President Donald Trump says “drill, baby, drill” while China drives a leap towards renewable energy. With China’s advances in solar generation and battery technologies making acquisitions cheaper, a consensus is coalescing across the continent around...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3366527/how-chinas-green-tech-undercutting-trumps-drill-baby-drill-oil-strategy-africa?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T04:00:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "18561b38790903530a1f8be8",
-      "isContinuation": false,
-      "titleZh": "中国绿色技术如何削弱特朗普在非洲的“钻探”石油战略",
-      "summaryZh": "非洲国家在能源选择上更倾向于成本效益，中国在太阳能和电池技术方面的优势使其在非洲市场更具竞争力。相比之下，美国特朗普政府推行的石油开采战略在非洲面临挑战。",
-      "whyImportant": "这显示了中美两国在非洲能源领域竞争策略的差异，以及中国绿色技术在全球能源转型中的影响力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "77821006185bcd8f",
-      "title": "非常具有实质性 ！ 泽连斯基与特朗普女婿等人谈了3个小时 美国穿梭外交能否促成停火 ？ _ 东方财富网",
-      "source": "finance.eastmoney.com",
-      "url": "https://finance.eastmoney.com/a/202609073866202442.html",
-      "publishedAt": "2026-09-07T03:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "finance.eastmoney.com",
-          "url": "https://finance.eastmoney.com/a/202609073866202442.html",
-          "publishedAt": "2026-09-07T03:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 77,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "f6d74eeac92d39f0a85a8b05",
-      "isContinuation": false,
-      "titleZh": "非常具有实质性！泽连斯基与特朗普女婿等人谈了3个小时，美国穿梭外交能否促成停火？",
-      "summaryZh": "乌克兰总统泽连斯基与特朗普的女婿及相关人员进行了长达三小时的深入会谈。外界关注此次接触是否预示着美国将通过穿梭外交推动俄乌冲突的停火进程。",
-      "whyImportant": "此次高层会晤可能对俄乌冲突的未来走向及美国在其中的调停角色产生关键影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "581f75eeeb8981b4",
-      "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
-      "publishedAt": "2026-09-07T03:59:39.000Z",
-      "summary": "Manila defence chief says Washington gave 'definite assurances' that its commitments to the Philippines remain.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
-          "publishedAt": "2026-09-07T03:59:39.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "89b2d4cdb7bd5cf78f12d21a",
-      "isContinuation": false,
-      "titleZh": "菲律宾警告称美韩军演削减可能导致中国重新采取强硬立场",
-      "summaryZh": "菲律宾国防部长表示，尽管美国已给予明确承诺，但担心美韩军演规模的削减可能促使中国在地区事务中采取更强硬的姿态。马尼拉方面正密切关注地区安全动态。",
-      "whyImportant": "该表态凸显了菲律宾对地区军事平衡变化的担忧，以及对美国在该地区安全承诺可靠性的持续关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0d016180b2fa56dc",
-      "title": "Prabowo-Putin payoff: can bond between Indonesian, Russian leaders translate to gains?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3366585/prabowo-putin-payoff-can-bond-between-indonesian-russian-leaders-translate-gains?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T04:06:12.000Z",
-      "summary": "The rapport between Indonesian President Prabowo Subianto and his Russian counterpart, Vladimir Putin, was evident when the two met during the 11th Eastern Economic Forum (EEF) in Vladivostok last week. “My profound apologies for missing this important event due to urgent matters I needed to attend to back home but I’m now here to repay my debt,” Prabowo told Putin on Wednesday, referring to a missed invitation earlier to be the guest of honour at Russia’s National Day celebration on June...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3366585/prabowo-putin-payoff-can-bond-between-indonesian-russian-leaders-translate-gains?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T04:06:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "fe95de20e652c56e708ffbb7",
-      "isContinuation": false,
-      "titleZh": "普拉博沃与普京的互动：印尼与俄罗斯领导人的关系能否转化为实质利益？",
-      "summaryZh": "印尼总统普拉博沃在东方经济论坛期间与俄罗斯总统普京会面，并就此前缺席俄方活动表达歉意。双方展现出的良好互动引发外界关注，探讨这种个人关系是否能为两国带来实际合作成果。",
-      "whyImportant": "印尼作为重要的新兴经济体，其与俄罗斯的互动反映了全球南方国家在复杂地缘政治环境下的外交策略。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "33717643c9ec0b64",
-      "title": "Jean Nassif’s daughter tells court father ‘pressured’ her to falsify documents for $150m construction loan",
+      "id": "b23b07a359360c74",
+      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/07/jean-nassifs-daughter-court-father-pressured-her-falsify-documents-150m-construction-loan-ntwnfb",
-      "publishedAt": "2026-09-07T03:28:43.000Z",
-      "summary": "Ashlyn Nassif, daughter of Toplace boss who fled Australia in 2022, has pleaded guilty to providing false or misleading information to obtain loan from Westpac Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The daughter of a fugitive property developer succumbed to pressure from her father when she falsified documents for a $150m construction loan, a Sydney court has heard. Ashlyn Nassif, the daughter of Jean Nassif, pleaded guilty in June to providing false or misleading information to obtain the loan from Westpac, which was used to construct three apartment towers in Sydney’s north-west in 2021. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "publishedAt": "2026-09-08T04:00:27.000Z",
+      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia. Since late April there have been eight hijackings by Somali pirates, including two within the space of a fortnight in August: one targeting an oil tanker with ties to Iran, the other a Cameroon-flagged vessel, the Lutuf, carrying military equipment for Turkey. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/07/jean-nassifs-daughter-court-father-pressured-her-falsify-documents-150m-construction-loan-ntwnfb",
-          "publishedAt": "2026-09-07T03:28:43.000Z"
+          "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+          "publishedAt": "2026-09-08T04:00:27.000Z"
         }
       ],
       "sourceCount": 1,
@@ -267,137 +45,180 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "baee23891c4db4404983a811",
-      "isContinuation": false,
-      "titleZh": "让·纳西夫之女在法庭承认受父指使伪造文件以获取1.5亿澳元建筑贷款",
-      "summaryZh": "澳大利亚建筑商Toplace老板之女阿什琳·纳西夫承认，在父亲的压力下伪造文件，以获取西太平洋银行的1.5亿澳元贷款。该笔资金曾用于悉尼西北部的公寓楼建设。",
-      "whyImportant": "此案揭露了建筑行业内部的欺诈行为，并引发了对大型开发商合规性及贷款审批流程的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "29e96b676c529024",
-      "title": "美重啟穿梭外交 俄烏短暫停火 和平進程仍漫漫",
-      "source": "hkcd.com",
-      "url": "https://www.hkcd.com/hkcdweb/content/2026/09/07/content_8773606.html",
-      "publishedAt": "2026-09-07T03:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "hkcd.com",
-          "url": "https://www.hkcd.com/hkcdweb/content/2026/09/07/content_8773606.html",
-          "publishedAt": "2026-09-07T03:15:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
+        "军事与安全",
+        "科技",
+        "能源",
+        "专题·科技、能源与产业"
       ],
       "score": 71,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "停火",
-        "突发"
+        "space",
+        "科技",
+        "能源"
       ],
-      "fingerprint": "f4fef02cb638321c3f6339ce",
+      "fingerprint": "7f3c7ff43f9e67f45e71f85b",
       "isContinuation": false,
-      "titleZh": "美国重启穿梭外交，俄乌短暂停火，和平进程仍漫漫",
-      "summaryZh": "美国重启穿梭外交以寻求俄乌冲突的突破，目前双方已达成短暂停火。然而，由于双方立场分歧巨大，和平进程依然充满不确定性。",
-      "whyImportant": "外交斡旋的重启表明国际社会对冲突升级的担忧，但短期停火能否转化为长期和平仍有待观察。",
+      "titleZh": "海盗利用地区混乱重返索马里海域",
+      "summaryZh": "受美以与伊朗冲突导致的航运中断及索马里政局不稳影响，索马里海盗活动激增至十年来的最高水平。自四月下旬以来，已发生八起劫持事件，目标包括油轮及载有军事装备的货船。",
+      "whyImportant": "索马里海盗活动的复苏对全球航运安全和地区稳定构成了新的威胁。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "045499c018c2dd08",
-      "title": "Lebanon president appeals for US help as Israeli strikes kill 7",
+      "id": "a7cddb680793c24c",
+      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+      "publishedAt": "2026-09-07T21:17:12.000Z",
+      "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+          "publishedAt": "2026-09-07T21:17:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "9200680e0ca476f5c02b36cc",
+      "isContinuation": false,
+      "titleZh": "美伊在霍尔木兹海峡冲突加剧，油价飙升",
+      "summaryZh": "由于美伊双方在霍尔木兹海峡的冲突升级，导致航运受阻，国际油价已攀升至六周以来的最高水平。",
+      "whyImportant": "霍尔木兹海峡作为全球能源运输的关键通道，其局势动荡直接威胁全球能源供应安全并推高油价。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "02207ff2c3f2aa62",
+      "title": "Cross-sector push needed for youth facing ‘paradox of AI fluency’: minister",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366563/lebanons-president-appeals-us-help-israeli-strikes-kill-7?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T17:11:56.000Z",
-      "summary": "Lebanese President Joseph Aoun urged Washington and the international community to help stop Israeli attacks, which killed at least seven people on Sunday despite a truce and a framework deal aimed at halting the violence. Israel said it had targeted Hezbollah operatives and sites in response to a drone attack a day earlier by the Iran-backed group on its troops in the vicinity of a strategic south Lebanon ridge. It reported no casualties but accused Hezbollah of a “blatant violation”. Israel...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
+      "publishedAt": "2026-09-07T11:53:19.000Z",
+      "summary": "Hong Kong’s labour secretary has called for greater cross-sector efforts to help young people gain job experience amid disruption caused by artificial intelligence (AI), while Singapore’s trade minister has urged embracing a “continuous learning” mindset. Speaking at the Hong Kong Jockey Club’s PBC (Philanthropy for Better Cities) Forum 2026 on Monday, the city’s Secretary for Labour and Welfare Chris Sun Yuk-han said that higher education alone was no longer enough to ensure career success in...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3366563/lebanons-president-appeals-us-help-israeli-strikes-kill-7?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T17:11:56.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T11:53:19.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "突发",
-        "公共安全",
-        "专题·军事、安全与突发事件",
-        "持续关注"
+        "中国重点",
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 71,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
-        "突发"
+        "artificial intelligence",
+        "科技"
       ],
-      "fingerprint": "99cdf653d36c88a2053ee915",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "黎巴嫩总统呼吁美国提供援助，以色列空袭造成7人死亡",
-      "summaryZh": "黎巴嫩总统约瑟夫·奥恩呼吁华盛顿及国际社会协助制止以色列的袭击，尽管此前已达成停火协议，但周日的空袭仍造成至少7人死亡。以色列称此举是针对真主党前一日无人机袭击的回应，并指责真主党严重违反停火协议。",
-      "whyImportant": "此事件凸显了黎以边境停火协议的脆弱性，以及地区冲突升级对国际外交调停构成的严峻挑战。",
+      "fingerprint": "3caba8c5ec1e9f50825d91cd",
+      "isContinuation": false,
+      "titleZh": "部长呼吁跨部门协作，应对青年面临的“人工智能流利度悖论”",
+      "summaryZh": "香港劳工及福利局局长指出，仅靠高等教育已不足以确保职业成功，呼吁各界帮助青年积累工作经验。新加坡贸易部长则强调，面对人工智能带来的颠覆，应保持持续学习的心态。",
+      "whyImportant": "该讨论反映了全球劳动力市场在人工智能冲击下对人才培养模式的重新思考。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "08eb0e548fa4635c",
-      "title": "美重启穿梭外交 俄乌短暂停火 和平进程仍漫漫",
-      "source": "yangtse.com",
-      "url": "https://www.yangtse.com/news/txs/202609/t20260907_390130.html",
-      "publishedAt": "2026-09-07T03:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "b23b07a359360c74",
+      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "publishedAt": "2026-09-08T04:00:27.000Z",
+      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia. Since late April there have been eight hijackings by Somali pirates, including two within the space of a fortnight in August: one targeting an oil tanker with ties to Iran, the other a Cameroon-flagged vessel, the Lutuf, carrying military equipment for Turkey. Continue reading...",
+      "language": "",
+      "region": "international",
       "crossSources": [
         {
-          "source": "yangtse.com",
-          "url": "https://www.yangtse.com/news/txs/202609/t20260907_390130.html",
-          "publishedAt": "2026-09-07T03:30:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+          "publishedAt": "2026-09-08T04:00:27.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 71,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技",
+        "能源"
+      ],
+      "fingerprint": "7f3c7ff43f9e67f45e71f85b",
+      "isContinuation": false,
+      "titleZh": "海盗利用地区混乱重返索马里海域",
+      "summaryZh": "受美以与伊朗冲突导致的航运中断及索马里政局不稳影响，索马里海盗活动激增至十年来的最高水平。自四月下旬以来，已发生八起劫持事件，目标包括油轮及载有军事装备的货船。",
+      "whyImportant": "索马里海盗活动的复苏对全球航运安全和地区稳定构成了新的威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "01edd8a066573edf",
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T03:53:27.000Z",
+      "summary": "Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine Russia and North Korea have opened the first road bridge across their shared border, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine. The one-kilometre bridge spans the Tumen River between Khasan in Russia’s far east and Tumangang in North Korea, along a remote and sparsely populated stretch of the countries’ shared border just a few miles from the coast. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-08T03:53:27.000Z"
         },
         {
-          "source": "news.hsw.cn",
-          "url": "https://news.hsw.cn/system/2026/0907/1957719.shtml",
-          "publishedAt": "2026-09-07T02:00:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3366679/north-korea-russia-open-first-road-bridge-new-symbol-friendship?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T15:00:18.000Z"
         },
         {
-          "source": "bjnews.com.cn",
-          "url": "https://www.bjnews.com.cn/detail/1788737741129452.html",
-          "publishedAt": "2026-09-07T00:45:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
+          "publishedAt": "2026-09-07T09:53:53.000Z"
         }
       ],
       "sourceCount": 3,
@@ -406,40 +227,35 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
+        "军事与安全"
       ],
-      "score": 83,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "1a1b850c1a93a83c12a17438",
+      "score": 69,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "57f3ff1d0e98caa2524fc80b",
       "isContinuation": false,
-      "titleZh": "美国重启穿梭外交，俄乌实现短暂停火，和平进程依然漫长",
-      "summaryZh": "美国近期重启穿梭外交，旨在推动俄乌冲突的调解。尽管双方实现了短暂停火，但整体和平进程仍面临诸多挑战。",
-      "whyImportant": "此举显示国际社会在调停俄乌冲突方面仍未放弃努力，但局势的复杂性决定了和平之路依然艰难。",
+      "titleZh": "朝鲜与俄罗斯开通首座跨境公路桥",
+      "summaryZh": "俄罗斯与朝鲜在图们江上开通了首座公路桥，连接俄远东哈桑与朝鲜豆满江。这是自乌克兰战争爆发以来，两国关系迅速深化的最新迹象。",
+      "whyImportant": "此举标志着俄朝两国在边境基础设施建设上的合作，反映了双方战略关系的进一步紧密。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0d016180b2fa56dc",
-      "title": "Prabowo-Putin payoff: can bond between Indonesian, Russian leaders translate to gains?",
+      "id": "21e2ab7f4e1537ae",
+      "title": "Russia resumes strikes on Kyiv after pause for Trump envoys’ visit",
       "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3366585/prabowo-putin-payoff-can-bond-between-indonesian-russian-leaders-translate-gains?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T04:06:12.000Z",
-      "summary": "The rapport between Indonesian President Prabowo Subianto and his Russian counterpart, Vladimir Putin, was evident when the two met during the 11th Eastern Economic Forum (EEF) in Vladivostok last week. “My profound apologies for missing this important event due to urgent matters I needed to attend to back home but I’m now here to repay my debt,” Prabowo told Putin on Wednesday, referring to a missed invitation earlier to be the guest of honour at Russia’s National Day celebration on June...",
+      "url": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T03:59:14.000Z",
+      "summary": "A wave of strong explosions rang out in Kyiv early Tuesday as Russia resumed strikes on the Ukrainian capital after a three-day halt. Russian President Vladimir Putin had ordered the pause in attacks as US President Donald Trump’s envoys Steve Witkoff and Jared Kushner visited the Russian and Ukrainian capitals at the weekend. The fresh explosions triggered fires and car alarms in the city, and Kyiv’s mayor Vitali Klitschko said that six people were wounded. The Ukrainian army’s air force...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3366585/prabowo-putin-payoff-can-bond-between-indonesian-russian-leaders-translate-gains?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T04:06:12.000Z"
+          "url": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T03:59:14.000Z"
         }
       ],
       "sourceCount": 1,
@@ -449,300 +265,35 @@
       "tags": [
         "全球焦点",
         "突发",
-        "经济",
-        "专题·军事、安全与突发事件"
+        "军事与安全"
       ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "fe95de20e652c56e708ffbb7",
-      "isContinuation": false,
-      "titleZh": "普拉博沃与普京的互动：印尼与俄罗斯领导人的关系能否转化为实质利益？",
-      "summaryZh": "印尼总统普拉博沃在东方经济论坛期间与俄罗斯总统普京会面，并就此前缺席俄方活动表达歉意。双方展现出的良好互动引发外界关注，探讨这种个人关系是否能为两国带来实际合作成果。",
-      "whyImportant": "印尼作为重要的新兴经济体，其与俄罗斯的互动反映了全球南方国家在复杂地缘政治环境下的外交策略。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "33717643c9ec0b64",
-      "title": "Jean Nassif’s daughter tells court father ‘pressured’ her to falsify documents for $150m construction loan",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/07/jean-nassifs-daughter-court-father-pressured-her-falsify-documents-150m-construction-loan-ntwnfb",
-      "publishedAt": "2026-09-07T03:28:43.000Z",
-      "summary": "Ashlyn Nassif, daughter of Toplace boss who fled Australia in 2022, has pleaded guilty to providing false or misleading information to obtain loan from Westpac Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The daughter of a fugitive property developer succumbed to pressure from her father when she falsified documents for a $150m construction loan, a Sydney court has heard. Ashlyn Nassif, the daughter of Jean Nassif, pleaded guilty in June to providing false or misleading information to obtain the loan from Westpac, which was used to construct three apartment towers in Sydney’s north-west in 2021. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/07/jean-nassifs-daughter-court-father-pressured-her-falsify-documents-150m-construction-loan-ntwnfb",
-          "publishedAt": "2026-09-07T03:28:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "baee23891c4db4404983a811",
-      "isContinuation": false,
-      "titleZh": "让·纳西夫之女在法庭承认受父指使伪造文件以获取1.5亿澳元建筑贷款",
-      "summaryZh": "澳大利亚建筑商Toplace老板之女阿什琳·纳西夫承认，在父亲的压力下伪造文件，以获取西太平洋银行的1.5亿澳元贷款。该笔资金曾用于悉尼西北部的公寓楼建设。",
-      "whyImportant": "此案揭露了建筑行业内部的欺诈行为，并引发了对大型开发商合规性及贷款审批流程的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "29e96b676c529024",
-      "title": "美重啟穿梭外交 俄烏短暫停火 和平進程仍漫漫",
-      "source": "hkcd.com",
-      "url": "https://www.hkcd.com/hkcdweb/content/2026/09/07/content_8773606.html",
-      "publishedAt": "2026-09-07T03:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "hkcd.com",
-          "url": "https://www.hkcd.com/hkcdweb/content/2026/09/07/content_8773606.html",
-          "publishedAt": "2026-09-07T03:15:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 71,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "f4fef02cb638321c3f6339ce",
-      "isContinuation": false,
-      "titleZh": "美国重启穿梭外交，俄乌短暂停火，和平进程仍漫漫",
-      "summaryZh": "美国重启穿梭外交以寻求俄乌冲突的突破，目前双方已达成短暂停火。然而，由于双方立场分歧巨大，和平进程依然充满不确定性。",
-      "whyImportant": "外交斡旋的重启表明国际社会对冲突升级的担忧，但短期停火能否转化为长期和平仍有待观察。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9ce244d39e2faa95",
-      "title": "More than 200 people stood down at embattled housing developer Bathla amid $3.4bn debt",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/07/more-than-200-people-stood-down-at-embattled-housing-developer-bathla",
-      "publishedAt": "2026-09-07T03:07:23.000Z",
-      "summary": "Sydney-headquartered group suspends work on some of its 45 construction sites affecting 60% of workforce Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast More than 200 workers at Sydney-headquartered Bathla Group have been stood down as administrators of the embattled property developer seek emergency funds to stave off a company-wide collapse. The insolvency advisory Teneo said on Monday that new short-term funding arrangements would only allow Bathla to continue construction on some of its 45 construction sites, though it did not identify which projects were being prioritised. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/07/more-than-200-people-stood-down-at-embattled-housing-developer-bathla",
-          "publishedAt": "2026-09-07T03:07:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "81776f9bae7095319a6c992d",
-      "isContinuation": false,
-      "titleZh": "深陷34亿澳元债务危机，建筑开发商Bathla裁员超200人",
-      "summaryZh": "总部位于悉尼的Bathla集团因面临34亿澳元债务危机，已暂停部分建筑工地施工并裁减了200多名员工。目前破产管理方正寻求紧急资金以避免公司全面倒闭。",
-      "whyImportant": "该事件凸显了澳大利亚建筑行业在债务压力下的脆弱性，可能对当地房地产市场和就业产生连锁反应。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "af28608005f2da39",
-      "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
-      "publishedAt": "2026-09-07T01:03:39.000Z",
-      "summary": "Lead candidate in Saxony-Anhalt welcomes further ‘strong’ cooperation with Musk as French minister says ‘we cannot forget our history’ AfD wins key German state election but falls just short of majority The candidate who led the far-right Alternative für Deutschland party to a historic state election victory in Germany has thanked Elon Musk for his support, as one French minister warned that this was a “serious moment” for Europe. The AfD more than doubled its support in the Saxony-Anhalt region and appears to be on the brink of becoming the first far-right party to gain power in Germany at state level since the second world war. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
-          "publishedAt": "2026-09-07T01:03:39.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件",
-        "持续关注"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "d756fe4d8d66179a4e84e388",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "德国极右翼政党AfD感谢埃隆·马斯克，法国警告其选举获胜是“严重时刻”",
-      "summaryZh": "德国极右翼政党“德国选择党”（AfD）在萨克森-安哈尔特州选举中取得历史性胜利，并对马斯克的支持表示感谢。法国政府对此表示担忧，称这是欧洲面临的“严重时刻”。",
-      "whyImportant": "AfD的崛起反映了欧洲政治版图的右倾趋势，引发了国际社会对欧洲政治稳定及历史教训的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "85137f9aca1b5925",
-      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-      "publishedAt": "2026-09-06T06:00:58.000Z",
-      "summary": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immediately, according to the Labour chair of the defence committee. Tan Dhesi said the comments by the Argentinian president this week show why the government should raise military spending to 3% of GDP by 2030. But he said Burnham’s plans remain mired in confusion after the prime minister appeared to reassure him that the 2030 target would be hit, only for Downing Street to later retreat. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-          "publishedAt": "2026-09-06T06:00:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "69cb8a27e8055c8db62bea3b",
-      "isContinuation": false,
-      "titleZh": "工党国防委员会主席：马尔维纳斯群岛争端凸显增加国防预算至3%的紧迫性",
-      "summaryZh": "工党国防委员会主席坦·德西表示，鉴于阿根廷总统米莱对马尔维纳斯群岛的威胁，英国必须立即将国防支出提高至GDP的3%。尽管首相曾做出承诺，但政府在具体执行目标上仍存在混乱。",
-      "whyImportant": "此议题反映了英国在应对地缘政治威胁与财政预算约束之间的矛盾，以及国防政策在政坛的敏感性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b66fd2efeddfd1b9",
-      "title": "埃及各界人士高度评价习近平主席国事访问",
-      "source": "yangtse.com",
-      "url": "https://www.yangtse.com/news/tt/202609/t20260907_390136.html",
-      "publishedAt": "2026-09-07T03:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "yangtse.com",
-          "url": "https://www.yangtse.com/news/tt/202609/t20260907_390136.html",
-          "publishedAt": "2026-09-07T03:30:00.000Z"
-        },
-        {
-          "source": "news.jxnews.com.cn",
-          "url": "https://news.jxnews.com.cn/system/2026/09/07/031237184.shtml",
-          "publishedAt": "2026-09-07T03:15:00.000Z"
-        },
-        {
-          "source": "focus.scol.com.cn",
-          "url": "https://focus.scol.com.cn/gcdt/202609/83317416.html",
-          "publishedAt": "2026-09-07T03:00:00.000Z"
-        },
-        {
-          "source": "northnews.cn",
-          "url": "https://www.northnews.cn/news/2026/0907/2519673.html",
-          "publishedAt": "2026-09-07T02:15:00.000Z"
-        }
-      ],
-      "sourceCount": 7,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ed5ade00425869450b870433",
+      "fingerprint": "42e27666cb853d770dbd76e1",
       "isContinuation": false,
-      "titleZh": "埃及各界人士高度评价习近平主席国事访问",
-      "summaryZh": "埃及各界人士对习近平主席的国事访问给予高度评价，认为此访深化了双边关系。各方期待双方在多领域开展更深层次的合作。",
-      "whyImportant": "此次访问进一步巩固了中埃全面战略伙伴关系，对推动中阿合作具有重要意义。",
+      "titleZh": "俄罗斯在特朗普特使访问结束后恢复对基辅的袭击",
+      "summaryZh": "在特朗普特使结束访问后的三天暂停期后，俄罗斯恢复了对基辅的空袭。此次袭击造成多人受伤，并引发了城市多处的火灾。",
+      "whyImportant": "袭击的恢复表明俄乌冲突的紧张局势并未因外交斡旋而得到实质性缓解。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "39d67e5113a56f03",
-      "title": "Far-right AfD wins key German state election but falls just short of majority",
+      "id": "dd048c311224a370",
+      "title": "Australia politics live: Labor unveils ‘my feed, my way’ rules to allow everyone to opt in or out of social media algorithms",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-      "publishedAt": "2026-09-07T02:42:09.000Z",
-      "summary": "Alternative für Deutschland surges to victory in Saxony-Anhalt as Friedrich Merz’s CDU slumps to disastrous result AfD thanks Elon Musk as France warns state election win a ‘serious moment’ The populist, far-right, anti-immigration Alternative für Deutschland (AfD) has surged to a resounding victory in a crucial state election in Germany, but fell just short of winning a majority in its quest to form the country’s first far-right state government since the second world war. The party of Germany’s unpopular chancellor Friedrich Merz, the Christian Democrats (CDU), slumped to a disastrous result in the eastern state of Saxony-Anhalt. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+      "publishedAt": "2026-09-08T04:07:30.000Z",
+      "summary": "Follow the day’s news live One Nation policy will leave people $25k worse off at retirement, Mulino says Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage. It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement. To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off. I’m deeply sceptical of giving any government, whether I was in charge, or Anika Wells is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-          "publishedAt": "2026-09-07T02:42:09.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+          "publishedAt": "2026-09-08T04:07:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -752,38 +303,223 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "bfc05a09943a039917a6e4cc",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "efb1c43021c49fa89baa3884",
       "isContinuation": false,
-      "titleZh": "德国极右翼政党AfD在关键州选举中获胜，但未获得多数席位",
-      "summaryZh": "德国选择党（AfD）在萨克森-安哈尔特州选举中取得重大胜利，而基民盟（CDU）表现惨淡。尽管AfD势头强劲，但未能获得多数席位以组建二战后德国首个极右翼州政府。",
-      "whyImportant": "此次选举结果反映了德国政治格局的剧烈变动及极右翼势力的持续扩张，对德国政坛稳定性产生深远影响。",
+      "titleZh": "澳大利亚工党推出“我的信息，我的方式”规则，允许用户自主选择社交媒体算法",
+      "summaryZh": "澳大利亚政府正推动社交媒体算法透明化，允许用户选择是否开启算法推荐。同时，政府对“单一民族党”提出的动用养老金支付房贷的建议表示强烈反对，认为这将严重损害民众的退休保障。",
+      "whyImportant": "该政策涉及数字平台监管与国民退休金制度的平衡，引发了关于政府干预权与个人财务自主权的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1035649f1862e732",
-      "title": "Iran to announce restricted zone outside Strait of Hormuz",
+      "id": "81ae8c6fd2a6497c",
+      "title": "‘Forced out with nowhere to go’: First Nations families face eviction as council sells homes over charity’s unpaid rates",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
+      "publishedAt": "2026-09-08T03:25:18.000Z",
+      "summary": "Mount Isa city council to auction off first of 24 homes after Aboriginal and Torres Strait Islander Corporation for Welfare Services accrues almost $1m in unpaid debts Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A rural Queensland council is auctioning off 24 homes to recover unpaid rates, potentially forcing First Nations families into homelessness. Residents claim they were left in the dark about the debt, which stretches back years, until five months ago. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
+          "publishedAt": "2026-09-08T03:25:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "660613910577392ca9c6a14b",
+      "isContinuation": false,
+      "titleZh": "“被迫流离失所”：因慈善机构拖欠税款，澳大利亚原住民家庭面临被驱逐",
+      "summaryZh": "昆士兰州一地方议会因原住民福利机构拖欠近百万美元税款，计划拍卖24处房产以追回债务。受影响的家庭此前对债务情况并不知情，目前面临无家可归的风险。",
+      "whyImportant": "此事件引发了关于地方政府债务追讨方式对弱势群体影响的社会争议。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a92acc79c5f99aec",
+      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T01:50:55.000Z",
+      "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-08T01:50:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f78f650b3337a3d0e0596582",
+      "isContinuation": false,
+      "titleZh": "英国政府预计将宣布限制与约旦河西岸定居点的贸易",
+      "summaryZh": "英国外交大臣米利班德预计将公布限制与约旦河西岸定居点贸易的提案。此举可能引发以色列方面的报复性回应。",
+      "whyImportant": "英国对定居点贸易的限制政策可能导致其与以色列的外交关系出现摩擦。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "da70b0e0306ea4df",
+      "title": "Burnham risks friction with Trump over Israeli West Bank settlement sanctions",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
+      "publishedAt": "2026-09-07T22:42:58.000Z",
+      "summary": "UK Prime Minister Andy Burnham’s government is expected to ban trade with Israeli settlements in the West Bank on Tuesday as he seeks to adopt a stronger policy on an issue that is important to his governing Labour Party but may anger US President Donald Trump. A new sanctions regime targeting Israel but limited to Jewish settlements in the West Bank will be announced by Foreign Secretary Ed Miliband, according to people familiar with the matter. Burnham and Trump spoke by phone on Monday,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T22:42:58.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "经济",
+        "金融"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f7d741a9dbd86476fe7b1217",
+      "isContinuation": false,
+      "titleZh": "伯纳姆因以色列约旦河西岸定居点制裁面临与特朗普产生摩擦的风险",
+      "summaryZh": "英国首相伯纳姆政府计划宣布对以色列约旦河西岸定居点实施贸易制裁。尽管此举符合工党政策，但可能引发美国总统特朗普的不满。",
+      "whyImportant": "该政策在满足国内政治诉求的同时，可能对英美双边关系带来外交挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1fea33a4ec475f2d",
+      "title": "Can Japan, South Korea move past the ‘comfort women’ issue?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T01:30:10.000Z",
+      "summary": "South Korean citizens’ groups have called for the abuse of wartime “comfort women” to be recognised by Unesco, as analysts say the ongoing feud between Seoul and Tokyo threatens to upset recent improvements in their relations. They also suggest that the two nations would benefit from working together at a time of unprecedented regional and global security and economic challenges, although they admit that may be impossible. On Sunday, a coalition of South Korean citizens’ groups called on the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T01:30:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "75e7231d73ea5002fe5dbce0",
+      "isContinuation": false,
+      "titleZh": "日本和韩国能否跨越“慰安妇”问题？",
+      "summaryZh": "韩国民间团体呼吁将“慰安妇”受害者记录列入联合国教科文组织名录，分析人士担忧此举将影响日韩近期改善的关系。尽管两国在安全与经济领域面临共同挑战，但历史遗留问题仍是双边合作的重大障碍。",
+      "whyImportant": "历史问题的持续发酵限制了日韩在地区安全与经济合作上的深度整合。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4893d42812308ad3",
+      "title": "Hong Kong families hit as volcanic ash strands up to 200 helpers in Indonesia",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T04:22:37.000Z",
+      "summary": "Up to 200 Hong Kong-bound domestic helpers remain stranded in Indonesia despite the reopening of several affected airports, as the city’s employment agencies association braces for possible further closures due to volcanic ash. The Indonesian transport ministry said Jakarta’s Soekarno-Hatta International Airport resumed operations on Tuesday after being shut for several days, following the eruption of Mount Anak Krakatoa on Saturday, which affected thousands of travellers. Among those stranded...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T04:22:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6ee9da72b98ba48e9d52994d",
+      "isContinuation": false,
+      "titleZh": "印尼火山灰导致航班中断，约200名赴港外佣滞留",
+      "summaryZh": "受喀拉喀托之子火山喷发影响，尽管部分机场已恢复运营，仍有约200名原定前往香港的外籍佣工滞留在印尼。香港就业中介协会正密切关注局势，以防火山灰导致进一步的机场关闭。",
+      "whyImportant": "此次事件影响了香港家庭的劳动力供应，并凸显了自然灾害对跨境人员流动的潜在干扰。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a7cddb680793c24c",
+      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-      "publishedAt": "2026-09-07T02:41:56.000Z",
-      "summary": "Iran's security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+      "publishedAt": "2026-09-07T21:17:12.000Z",
+      "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-          "publishedAt": "2026-09-07T02:41:56.000Z"
+          "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+          "publishedAt": "2026-09-07T21:17:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -792,126 +528,40 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "security",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "b76bcda11c1a42457243a0c3",
+      "fingerprint": "9200680e0ca476f5c02b36cc",
       "isContinuation": false,
-      "titleZh": "伊朗宣布将在霍尔木兹海峡外设立限制区",
-      "summaryZh": "伊朗安全部门负责人穆赫辛·雷扎伊表示，德黑兰方面将宣布在霍尔木兹海峡周边设立一个限制区。此举引发了外界对该地区航运安全的关注。",
-      "whyImportant": "霍尔木兹海峡是全球能源运输的关键咽喉，伊朗的这一举动可能加剧地区紧张局势并影响国际油价。",
+      "titleZh": "美伊在霍尔木兹海峡冲突加剧，油价飙升",
+      "summaryZh": "由于美伊双方在霍尔木兹海峡的冲突升级，导致航运受阻，国际油价已攀升至六周以来的最高水平。",
+      "whyImportant": "霍尔木兹海峡作为全球能源运输的关键通道，其局势动荡直接威胁全球能源供应安全并推高油价。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "d1f96c81d21783cd",
-      "title": "How China’s green tech is undercutting Trump’s ‘drill, baby, drill’ oil strategy in Africa",
+      "id": "ba74aa7be032448a",
+      "title": "Hong Kong a boon to Kazakhstan’s advanced manufacturing ambitions, ties to Europe: expert",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3366527/how-chinas-green-tech-undercutting-trumps-drill-baby-drill-oil-strategy-africa?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T04:00:09.000Z",
-      "summary": "Cost appears to be a deciding factor for most African countries when it comes to energy as they observe the factors that influence US and Chinese policy decisions. In a sign of the contrasting energy strategies pursued by Washington and Beijing, US President Donald Trump says “drill, baby, drill” while China drives a leap towards renewable energy. With China’s advances in solar generation and battery technologies making acquisitions cheaper, a consensus is coalescing across the continent around...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T04:00:13.000Z",
+      "summary": "Hong Kong firms could look to Kazakhstan as a base for advanced manufacturing and as a gateway to Europe, while the city’s robust capital markets could attract businesses in the Central Asian country, a diplomat and business adviser has said. Sabr Yessimbekov, adviser to the chairman of the presidium of the National Chamber of Entrepreneurs of the Republic of Kazakhstan, told the South China Morning Post on the sidelines of the inaugural China Conference: Central Asia 2026 that some projects in...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3366527/how-chinas-green-tech-undercutting-trumps-drill-baby-drill-oil-strategy-africa?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T04:00:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "18561b38790903530a1f8be8",
-      "isContinuation": false,
-      "titleZh": "中国绿色技术如何削弱特朗普在非洲的“钻探”石油战略",
-      "summaryZh": "非洲国家在能源选择上更倾向于成本效益，中国在太阳能和电池技术方面的优势使其在非洲市场更具竞争力。相比之下，美国特朗普政府推行的石油开采战略在非洲面临挑战。",
-      "whyImportant": "这显示了中美两国在非洲能源领域竞争策略的差异，以及中国绿色技术在全球能源转型中的影响力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "581f75eeeb8981b4",
-      "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
-      "publishedAt": "2026-09-07T03:59:39.000Z",
-      "summary": "Manila defence chief says Washington gave 'definite assurances' that its commitments to the Philippines remain.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
-          "publishedAt": "2026-09-07T03:59:39.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "89b2d4cdb7bd5cf78f12d21a",
-      "isContinuation": false,
-      "titleZh": "菲律宾警告称美韩军演削减可能导致中国重新采取强硬立场",
-      "summaryZh": "菲律宾国防部长表示，尽管美国已给予明确承诺，但担心美韩军演规模的削减可能促使中国在地区事务中采取更强硬的姿态。马尼拉方面正密切关注地区安全动态。",
-      "whyImportant": "该表态凸显了菲律宾对地区军事平衡变化的担忧，以及对美国在该地区安全承诺可靠性的持续关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "681db6f07567805b",
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T02:26:12.000Z",
-      "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-07T02:26:12.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T04:00:13.000Z"
         }
       ],
       "sourceCount": 1,
@@ -920,36 +570,161 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "经济",
         "金融"
       ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "06f20875a916deb2c78be5ba",
+      "fingerprint": "0a76bfd1ceb1854baab07d60",
       "isContinuation": false,
-      "titleZh": "中国将向国有银行和保险公司注资540亿美元以提振经济",
-      "summaryZh": "面对多重经济挑战，北京计划向国有金融机构注入540亿美元资金。此举旨在通过增强金融体系实力来推动经济结构调整与增长。",
-      "whyImportant": "这是中国政府为应对经济下行压力、稳定金融市场所采取的重大财政干预措施。",
+      "titleZh": "专家：香港可助力哈萨克斯坦发展先进制造业并加强与欧洲联系",
+      "summaryZh": "专家指出，哈萨克斯坦可利用香港作为先进制造业基地及通往欧洲的门户。同时，香港强大的资本市场有望吸引更多哈萨克斯坦企业寻求融资与合作。",
+      "whyImportant": "此举反映了“一带一路”沿线国家与香港在深化经贸合作及产业互补方面的战略意图。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4cb019a1fec0235b",
-      "title": "‘There are trade-offs’: how Hong Kong patients can use telemedicine wisely",
+      "id": "be380f52201413ee",
+      "title": "Chinese PLA aircraft to headline Egypt air show in display of export potential",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3366499/there-are-trade-offs-how-hong-kong-patients-can-use-telemedicine-wisely?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T11:00:07.000Z",
-      "summary": "In the fourth instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Lo Hoi-ying examines how telehealth is reshaping access to care, as practitioners warn it cannot fully replace in-person diagnosis. Hong Kong housewife Chan Ket-yee, nearly 60, has battled severe eczema on her neck and underarms for decades. Splitting her time between the United Kingdom and the city, Chan saw a dramatic improvement after visiting a Hong Kong public dermatologist, whose...",
+      "url": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T04:00:10.000Z",
+      "summary": "Fresh off a joint air drill, China will for the first time showcase several PLA Air Force aircraft overseas at an air show this week. The featured aircraft were selected for the air show in Egypt to demonstrate the air force’s integrated combat abilities and export potential, according to a military analyst. China’s armed forces on Tuesday posted pictures of Z-20, J-16, YY-20, and KJ-500 with its social media postings about the El Alamein International Airshow. The PLA Air Force said the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3366499/there-are-trade-offs-how-hong-kong-patients-can-use-telemedicine-wisely?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T11:00:07.000Z"
+          "url": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T04:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cec0200b9a3db8819e75de35",
+      "isContinuation": false,
+      "titleZh": "中国空军多型战机将亮相埃及航展，展示出口潜力",
+      "summaryZh": "中国空军将首次在海外航展上展示包括歼-16、运-20等在内的多型主力战机。军事分析人士认为，此举旨在展示中国空军的综合战斗能力及相关装备的出口潜力。",
+      "whyImportant": "这标志着中国军事外交与国防工业出口战略的进一步拓展，旨在提升中国制造在国际军贸市场的影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fc9bd9ae9a5c6228",
+      "title": "时代 · 人民 · 文明 中国元首外交的思想启迪 - 中国侨网",
+      "source": "chinaqw.com",
+      "url": "https://www.chinaqw.com/yw/2026/09-07/411108.shtml",
+      "publishedAt": "2026-09-07T12:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "chinaqw.com",
+          "url": "https://www.chinaqw.com/yw/2026/09-07/411108.shtml",
+          "publishedAt": "2026-09-07T12:45:00.000Z"
+        },
+        {
+          "source": "cqnews.net",
+          "url": "https://www.cqnews.net/web/content_1546538877895704576.html",
+          "publishedAt": "2026-09-07T09:30:00.000Z"
+        },
+        {
+          "source": "news.hangzhou.com.cn",
+          "url": "https://news.hangzhou.com.cn/szxw/content/content_9300999.htm",
+          "publishedAt": "2026-09-07T09:15:00.000Z"
+        },
+        {
+          "source": "news.sina.com.cn",
+          "url": "https://news.sina.com.cn/gov/xlxw/2026-09-07/doc-iniqyvru9532197.shtml",
+          "publishedAt": "2026-09-07T08:30:00.000Z"
+        }
+      ],
+      "sourceCount": 4,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0eb6381972722de1f27c0ac1",
+      "isContinuation": false,
+      "titleZh": "时代 · 人民 · 文明 中国元首外交的思想启迪",
+      "summaryZh": "文章探讨了中国元首外交在时代变迁、人民福祉及文明交流方面的核心思想。通过外交实践，阐述了中国对构建人类命运共同体的深刻理解与贡献。",
+      "whyImportant": "该文阐释了中国当前外交政策的理论基础及其对全球治理的指导意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7690493c55e16ce4",
+      "title": "In Gyirong Port, small items speak of the human cost of the China-Nepal disaster",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T03:13:40.000Z",
+      "summary": "“I do not want to stop [searching]. If I pause, I start thinking about my brothers and sisters and all the moments of my life here.” Gui Xinwei, deputy chief of the Gyirong Border Inspection Station, was speaking to Chinese state broadcaster CCTV from the ruins of his workplace, seven days after the devastating mudslide erased the port crossing where China and Nepal meet. “I just don’t want to stop.” Gui was away on holiday on August 26 when a glacier collapsed in Nepal, triggering a massive...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T03:13:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "公共安全"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "12a661f016a175fe0868cc17",
+      "isContinuation": false,
+      "titleZh": "吉隆口岸：中尼灾难背后的人文代价",
+      "summaryZh": "尼泊尔冰川崩塌引发的泥石流摧毁了中尼边境的吉隆口岸。边检站工作人员在废墟中坚持搜救，讲述了灾难给当地带来的深重创伤与人员损失。",
+      "whyImportant": "该报道通过个体视角展现了自然灾害对边境贸易枢纽及相关人员生活的毁灭性影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c8a2abae0e1966a2",
+      "title": "Kazakhstan aims to become education hub, but experts say jobs must match skills",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
+      "publishedAt": "2026-09-07T16:14:24.000Z",
+      "summary": "Kazakhstan is aiming to become an education powerhouse in Central Asia but efforts must also ensure young people have sufficient access to opportunities that match their skill sets amid the country’s rapid economic transformation, experts have said. Educators and advocates added that further collaboration with Hong Kong and mainland Chinese universities was in the pipeline, with growing demand for specialists who understood the business environments of both Kazakhstan and China. The comments...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T16:14:24.000Z"
         }
       ],
       "sourceCount": 1,
@@ -959,126 +734,127 @@
       "tags": [
         "中国重点",
         "经济",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "环境",
+        "国际组织"
       ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "e11cd17e5d06a6dbd7196047",
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8ac589b6bd2e4ac5b3db114e",
       "isContinuation": false,
-      "titleZh": "“有利有弊”：香港患者如何明智地使用远程医疗",
-      "summaryZh": "远程医疗在香港日益普及，为患者提供了便利的就医渠道。然而，医疗从业者提醒，远程医疗无法完全替代面对面的临床诊断。",
-      "whyImportant": "随着医疗数字化转型，如何平衡远程医疗的便捷性与诊疗的准确性成为公共卫生领域的重要议题。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "54aa8513bb5085c6",
-      "title": "Rewriting world history puts China’s image and ‘cultural security’ at risk: party journal",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3366546/rewriting-world-history-puts-chinas-image-and-cultural-security-risk-party-journal?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T16:00:07.000Z",
-      "summary": "Radically rewriting world and Chinese history without solid proof could threaten China’s international image and national identity, a leading Communist Party journal has warned. There has been a growing trend to promote a less Western-centric view of history in recent years, while Beijing has also been keen to promote the idea that Chinese civilisation has a long and continuous history. But at the same time, the so-called pseudo-historical school – which has cast doubt on the origins of Western...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3366546/rewriting-world-history-puts-chinas-image-and-cultural-security-risk-party-journal?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T16:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "security",
-        "军事"
-      ],
-      "fingerprint": "fe4adc0cbf905af5e6f5a727",
-      "isContinuation": false,
-      "titleZh": "党刊警告：重写世界历史可能损害中国形象与“文化安全”",
-      "summaryZh": "中国共产党的一份主要期刊警告称，在缺乏确凿证据的情况下激进重写历史，可能会威胁到中国的国际形象和国家认同。文章指出，应警惕盲目否定西方文明起源的“伪史学”倾向。",
-      "whyImportant": "这反映了中国在维护文化主权和历史叙事方面的高度重视，以及对学术严谨性的政治要求。",
+      "titleZh": "哈萨克斯坦力争成为教育中心，专家强调就业匹配至关重要",
+      "summaryZh": "哈萨克斯坦正致力于成为中亚教育强国，但专家提醒，必须确保年轻人的技能与市场需求相匹配。此外，哈萨克斯坦正寻求与中国及香港高校加强合作，以培养跨国商业人才。",
+      "whyImportant": "教育转型是哈萨克斯坦经济多元化的关键，其与中国教育资源的对接将促进区域人才流动与经济融合。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "77821006185bcd8f",
-      "title": "非常具有实质性 ！ 泽连斯基与特朗普女婿等人谈了3个小时 美国穿梭外交能否促成停火 ？ _ 东方财富网",
-      "source": "finance.eastmoney.com",
-      "url": "https://finance.eastmoney.com/a/202609073866202442.html",
-      "publishedAt": "2026-09-07T03:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "8c2872e4b8995f22",
+      "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+      "publishedAt": "2026-09-08T04:01:12.000Z",
+      "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between US president Donald Trump and Canadian prime minister Mark Carney. The tariffs took effect at 12.01am on Tuesday, and range from 15% to 50% and apply to products covering $20bn in imports from the US. The measures target sectors including steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics – industries that have been most affected by US tariffs. Continue reading...",
+      "language": "",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "finance.eastmoney.com",
-          "url": "https://finance.eastmoney.com/a/202609073866202442.html",
-          "publishedAt": "2026-09-07T03:00:00.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+          "publishedAt": "2026-09-08T04:01:12.000Z"
+        },
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+          "publishedAt": "2026-09-08T04:00:59.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366693/canada-set-hit-back-trump-tariffs-risking-wider-trade-war?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T20:08:51.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 3,
       "isChina": false,
       "isUsa": true,
       "isNoise": false,
       "tags": [
         "美国重点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
+        "经济"
       ],
-      "score": 77,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "f6d74eeac92d39f0a85a8b05",
+      "score": 74,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "54a1941095bfc83695aed2be",
       "isContinuation": false,
-      "titleZh": "非常具有实质性！泽连斯基与特朗普女婿等人谈了3个小时，美国穿梭外交能否促成停火？",
-      "summaryZh": "乌克兰总统泽连斯基与特朗普的女婿及相关人员进行了长达三小时的深入会谈。外界关注此次接触是否预示着美国将通过穿梭外交推动俄乌冲突的停火进程。",
-      "whyImportant": "此次高层会晤可能对俄乌冲突的未来走向及美国在其中的调停角色产生关键影响。",
+      "titleZh": "加拿大对价值200亿美元的美国商品实施报复性关税",
+      "summaryZh": "针对美国此前宣布的关税措施，加拿大正式对价值200亿美元的美国进口商品征收15%至50%的报复性关税。此次贸易争端涉及钢铁、乳制品及电子产品等多个行业。",
+      "whyImportant": "美加贸易摩擦的升级加剧了北美地区的经济不确定性，并可能对相关产业链造成深远影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "045499c018c2dd08",
-      "title": "Lebanon president appeals for US help as Israeli strikes kill 7",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366563/lebanons-president-appeals-us-help-israeli-strikes-kill-7?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T17:11:56.000Z",
-      "summary": "Lebanese President Joseph Aoun urged Washington and the international community to help stop Israeli attacks, which killed at least seven people on Sunday despite a truce and a framework deal aimed at halting the violence. Israel said it had targeted Hezbollah operatives and sites in response to a drone attack a day earlier by the Iran-backed group on its troops in the vicinity of a strategic south Lebanon ridge. It reported no casualties but accused Hezbollah of a “blatant violation”. Israel...",
+      "id": "590d5bd95a0ae82e",
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T01:32:56.000Z",
+      "summary": "The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot went on trial Monday, two years after their killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. They had been camping in a remote beachside area when they were attacked in April 2024. Their bodies...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-08T01:32:56.000Z"
+        },
+        {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3366563/lebanons-president-appeals-us-help-israeli-strikes-kill-7?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T17:11:56.000Z"
+          "url": "https://www.scmp.com/news/world/americas/article/3366691/alleged-killers-australian-us-surfers-go-trial-mexico?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T18:56:05.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发"
+      ],
+      "score": 72,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d4121bbc6c942afd693a3c3e",
+      "isContinuation": false,
+      "titleZh": "墨西哥审理两名澳大利亚冲浪者及一名美国人被杀案",
+      "summaryZh": "两年前，两名澳大利亚兄弟和一名美国友人在墨西哥下加利福尼亚州冲浪时遭抢劫并被枪杀。涉嫌谋杀这三人的嫌疑人已于周一正式受审。",
+      "whyImportant": "此案引发了国际社会对墨西哥旅游安全状况的持续关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a04e18730da01f49",
+      "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+      "publishedAt": "2026-09-08T03:08:28.000Z",
+      "summary": "US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+          "publishedAt": "2026-09-08T03:08:28.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1086,81 +862,71 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "突发",
-        "公共安全",
-        "专题·军事、安全与突发事件",
-        "持续关注"
+        "美国重点"
       ],
-      "score": 71,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "99cdf653d36c88a2053ee915",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "黎巴嫩总统呼吁美国提供援助，以色列空袭造成7人死亡",
-      "summaryZh": "黎巴嫩总统约瑟夫·奥恩呼吁华盛顿及国际社会协助制止以色列的袭击，尽管此前已达成停火协议，但周日的空袭仍造成至少7人死亡。以色列称此举是针对真主党前一日无人机袭击的回应，并指责真主党严重违反停火协议。",
-      "whyImportant": "此事件凸显了黎以边境停火协议的脆弱性，以及地区冲突升级对国际外交调停构成的严峻挑战。",
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ba0af44ab231c4ddae5afd82",
+      "isContinuation": false,
+      "titleZh": "美国特使访问期间暂停期结束，俄罗斯对基辅发动致命袭击",
+      "summaryZh": "在美方特使访问期间的短暂平静结束后，俄罗斯恢复了对基辅的袭击。美国官员表示，尽管局势紧张，但对后续的谈判进展仍持鼓励态度。",
+      "whyImportant": "袭击事件凸显了俄乌冲突的持续动荡及外交斡旋的复杂性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4317e555ce92db67",
-      "title": "‘A victim’: American Bully dies in surgery, owners question fighting dog rules",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366557/victim-american-bully-dies-surgery-owners-question-fighting-dog-rules?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T12:55:49.000Z",
-      "summary": "The owners of an American Bully are challenging the authorities’ classification of “fighting dogs” after their pet, a breed strictly controlled in Hong Kong, died during neutering, a procedure they undertook amid a crackdown on non-compliance. Monchiu, a female, died under anaesthesia during the operation at a veterinary clinic on Friday, her owners said on social media late on Saturday. They said the dog, who suffered from vision and hearing impairment, as well as skin problems, was unfit for...",
+      "id": "caac094df00161e4",
+      "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+      "publishedAt": "2026-09-08T02:00:24.000Z",
+      "summary": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3366557/victim-american-bully-dies-surgery-owners-question-fighting-dog-rules?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T12:55:49.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+          "publishedAt": "2026-09-08T02:00:24.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "美国重点",
-        "国际组织"
+        "美国重点"
       ],
       "score": 56,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b7c7f51ef2d1b5d6ab2e36ea",
+      "fingerprint": "c2cb6bc15c4daa254d3de99c",
       "isContinuation": false,
-      "titleZh": "“受害者”：美国恶霸犬手术中死亡，主人质疑斗犬法规",
-      "summaryZh": "一只在香港被列为受严格管控品种的美国恶霸犬在绝育手术中因麻醉意外死亡。其主人在社交媒体上发声，质疑当局对“斗犬”的分类标准，并指出该犬只本身患有多种健康问题，不适合进行此类手术。",
-      "whyImportant": "该事件引发了公众对于香港宠物管理法规合理性及执行细节的讨论与争议。",
+      "titleZh": "“我听到了很大的响声”：墨西哥开始审理涉嫌杀害澳大利亚冲浪者及美国友人的案件",
+      "summaryZh": "2024年，两名澳大利亚兄弟和一名美国友人在墨西哥冲浪时遇害，受害者家属出席了周一的庭审。三名被告被指控在抢劫过程中杀害了这三名受害者。",
+      "whyImportant": "该案件的审理过程受到国际媒体高度关注，涉及跨国犯罪的司法公正问题。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e670305d4c367882",
-      "title": "Alcaraz breezes into last eight at US Open",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
-      "publishedAt": "2026-09-06T21:46:08.000Z",
-      "summary": "Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.",
+      "id": "61f246e99846ca91",
+      "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
+      "publishedAt": "2026-09-07T19:59:07.000Z",
+      "summary": "Advocacy groups expand legal challenges and condemn president’s ‘self-serving attempts to take over midterms’ A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald Trump’s authoritarian executive orders on voting and other presidential actions they see as a “war” on the rule of law in the US. Heavy legal opposition to Trump’s two executive orders on elections to curb voting rights and supplant the authority of states on election matters has come from the Democracy Defenders Fund, the Campaign Legal Center, the American Civil Liberties Union and kindred groups. This article was updated on 7 September 2026 to reflect that members of the Democratic Attorneys General Association have filed suit, not the Daga itself. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
-          "publishedAt": "2026-09-06T21:46:08.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
+          "publishedAt": "2026-09-07T19:59:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1168,73 +934,123 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "军事与安全"
       ],
-      "score": 52,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "d24b9ce8480a2d5f0d709c69",
+      "fingerprint": "02c50d26b4c335373ae1ef65",
       "isContinuation": false,
-      "titleZh": "阿尔卡拉斯轻松晋级美网八强",
-      "summaryZh": "卡洛斯·阿尔卡拉斯直落三盘击败美国选手汤米·保罗，成功晋级美国网球公开赛四分之一决赛。",
-      "whyImportant": "作为网坛顶尖选手，阿尔卡拉斯的持续获胜进一步巩固了其在男子网坛的竞争地位。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "625aea0ff2c0288a",
-      "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
-      "publishedAt": "2026-09-06T19:45:36.000Z",
-      "summary": "Michigan Senate hopeful spoke about his faith and the experiences of Muslim Americans.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
-          "publishedAt": "2026-09-06T19:45:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 51,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0887a5f761685b85744b42c4",
-      "isContinuation": false,
-      "titleZh": "阿卜杜勒·埃尔-赛义德在演讲中探讨穆斯林信仰与美国身份",
-      "summaryZh": "密歇根州参议院候选人阿卜杜勒·埃尔-赛义德发表公开演讲，分享了其个人信仰经历以及穆斯林群体在美国社会中的身份认同。",
-      "whyImportant": "此举反映了美国政治中关于宗教多元化与少数族裔政治参与的持续讨论。",
+      "titleZh": "法律界资深人士联手反击特朗普对民主的“全面攻击”",
+      "summaryZh": "由资深律师、选举专家和前法官组成的倡导团体，正通过法律途径挑战特朗普关于选举的行政命令。他们认为这些命令旨在削弱投票权并干预州级选举权力，是对法治的破坏。",
+      "whyImportant": "此举反映了美国法律界与行政当局在选举制度和民主原则上的激烈对抗。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "9510c4fd6b7ec066",
-      "title": "Armed man arrested after charging towards Ohio governor candidate",
+      "id": "70261b63d135265d",
+      "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+      "source": "DW",
+      "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-09-07T15:03:00.000Z",
+      "summary": "Ratko Mladic, the Bosnian Serb commander who died while serving a life sentence for war crimes, was buried on Monday with military honours and crowds attending as Serbia defied European Union warnings against allowing public homage to the man found guilty of the continent’s first case of genocide since World War II. Thousands of mourners started arriving early at the small Serbian Orthodox Church of St. Luke in Belgrade to honour Mladic as his body lay in state. Mladic is still viewed as a hero...",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-09-07T15:03:00.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3366676/war-criminal-mladic-buried-military-honours-serbia-despite-eu-warnings?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T14:18:53.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "74351ae503d3dd0e2720cbcb",
+      "isContinuation": false,
+      "titleZh": "战犯拉特科·姆拉迪奇在塞尔维亚贝尔格莱德获军礼葬礼",
+      "summaryZh": "因战争罪被判终身监禁的波斯尼亚塞族指挥官拉特科·姆拉迪奇在贝尔格莱德下葬，现场举行了军事仪式。尽管欧盟发出警告，塞尔维亚仍允许为其举行公开悼念活动。",
+      "whyImportant": "此举引发了国际社会对巴尔干地区历史遗留问题及民族主义情绪的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "02207ff2c3f2aa62",
+      "title": "Cross-sector push needed for youth facing ‘paradox of AI fluency’: minister",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3366574/armed-man-arrested-after-charging-towards-ohio-governor-candidate?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T02:35:53.000Z",
-      "summary": "An armed assailant charged towards the Democratic candidate for Ohio governor, Amy Acton, on Sunday during a campaign stop at the Canfield Fair, injuring several people before he was stopped by troopers, the Ohio State Highway Patrol said. The Ohio State Highway Patrol said in a statement that a man it identified as Patrick Havas, 38, forced his way through a crowd, knocking over multiple members of the audience as he moved towards Acton, the state’s former public health director. He had a taser...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
+      "publishedAt": "2026-09-07T11:53:19.000Z",
+      "summary": "Hong Kong’s labour secretary has called for greater cross-sector efforts to help young people gain job experience amid disruption caused by artificial intelligence (AI), while Singapore’s trade minister has urged embracing a “continuous learning” mindset. Speaking at the Hong Kong Jockey Club’s PBC (Philanthropy for Better Cities) Forum 2026 on Monday, the city’s Secretary for Labour and Welfare Chris Sun Yuk-han said that higher education alone was no longer enough to ensure career success in...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366574/armed-man-arrested-after-charging-towards-ohio-governor-candidate?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T02:35:53.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T11:53:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "artificial intelligence",
+        "科技"
+      ],
+      "fingerprint": "3caba8c5ec1e9f50825d91cd",
+      "isContinuation": false,
+      "titleZh": "部长呼吁跨部门协作，应对青年面临的“人工智能流利度悖论”",
+      "summaryZh": "香港劳工及福利局局长指出，仅靠高等教育已不足以确保职业成功，呼吁各界帮助青年积累工作经验。新加坡贸易部长则强调，面对人工智能带来的颠覆，应保持持续学习的心态。",
+      "whyImportant": "该讨论反映了全球劳动力市场在人工智能冲击下对人才培养模式的重新思考。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3dde4a819a56591c",
+      "title": "Majority of Tory and Reform voters do not back cuts to disability benefits, survey finds",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
+      "publishedAt": "2026-09-08T04:00:26.000Z",
+      "summary": "Nearly half of respondents say spending on personal independence payments should be increased There is little appetite for cuts to disability benefits even among Conservative and Reform voters, and proposals to reduce spending could prove politically risky, according to an authoritative national survey. The British Social Attitudes (BSA) report found that while support for welfare spending as a whole had dipped sharply in recent years, just 7% of respondents backed cuts to disability benefits – and 49% said they should be increased. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
+          "publishedAt": "2026-09-08T04:00:26.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1243,1082 +1059,185 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "574e996cb42d18bd2baf927b",
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1a06cfc6c840a51ae987b144",
       "isContinuation": false,
-      "titleZh": "一名持械男子在冲向俄亥俄州州长候选人时被捕",
-      "summaryZh": "一名持械男子在俄亥俄州州长候选人艾米·阿克顿的竞选活动中强行冲向候选人，造成多名观众受伤。该男子随后被州公路巡警制服并逮捕。",
-      "whyImportant": "该事件引发了对竞选活动安全保障措施以及政治人物人身安全的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5f17cd7760961c0c",
-      "title": "Germany plans anti-sabotage shield after airport drone attack",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3366553/germany-plans-anti-sabotage-shield-after-airport-drone-attack?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T12:09:28.000Z",
-      "summary": "Germany is planning a broad package of measures to strengthen its defences against drone attacks, cyber intrusions and other forms of Russian sabotage after a failed airport drone attack ‌last month, an interior ministry spokesperson said on Sunday. Interior Minister Alexander Dobrindt told the Bild am Sonntag newspaper, which first reported the plans, that Russia’s hybrid attacks had become a part of daily reality. “These attacks will increase, but we can ⁠defend and protect ourselves,”...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3366553/germany-plans-anti-sabotage-shield-after-airport-drone-attack?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T12:09:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "951f34f4bf17122c871607aa",
-      "isContinuation": false,
-      "titleZh": "德国计划在机场无人机袭击后建立反破坏防御盾",
-      "summaryZh": "继上月发生机场无人机袭击事件后，德国政府计划采取一系列综合措施，以加强对无人机袭击、网络入侵及俄罗斯破坏活动的防御。内政部长亚历山大·多布林特表示，此类混合攻击已成为日常现实，政府必须提升防御能力。",
-      "whyImportant": "此举标志着德国在应对地缘政治紧张局势下，正大幅提升国家关键基础设施的安全防御等级。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7385dfdb1df9a518",
-      "title": "普京与美方会见超3小时 此前俄乌达成 三日停火 - 新华网",
-      "source": "xinhuanet.com",
-      "url": "http://www.xinhuanet.com/20260906/6899c01671dc4c589c9dbce3f4dbc2a0/c.html",
-      "publishedAt": "2026-09-06T08:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "xinhuanet.com",
-          "url": "http://www.xinhuanet.com/20260906/6899c01671dc4c589c9dbce3f4dbc2a0/c.html",
-          "publishedAt": "2026-09-06T08:45:00.000Z"
-        },
-        {
-          "source": "finance.eastmoney.com",
-          "url": "https://finance.eastmoney.com/a/202609063866068675.html",
-          "publishedAt": "2026-09-06T08:30:00.000Z"
-        },
-        {
-          "source": "yangtse.com",
-          "url": "https://www.yangtse.com/news/txs/202609/t20260906_389965.html",
-          "publishedAt": "2026-09-06T08:30:00.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "34401d6aab30533f969343f7",
-      "isContinuation": false,
-      "titleZh": "普京与美方会见超3小时 此前俄乌达成三日停火",
-      "summaryZh": "俄罗斯总统普京与美方代表进行了超过3小时的会晤。此前，俄乌双方已达成一项为期三天的停火协议。",
-      "whyImportant": "此次高层会晤及停火协议的达成，被视为缓解俄乌冲突紧张局势的重要外交尝试。",
+      "titleZh": "调查显示多数保守党和改革党选民不支持削减残疾人福利",
+      "summaryZh": "英国社会态度报告显示，即使在保守党和改革党选民中，支持削减残疾人福利的人数也极少。近半数受访者认为应增加对残疾人的个人独立津贴。",
+      "whyImportant": "调查结果表明，削减残疾人福利在英国政坛可能面临巨大的政治风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 306,
-    "deduplicated": 209,
+    "fetched": 172,
+    "deduplicated": 163,
     "selected": 23,
     "translated": 23,
     "untranslated": 0,
     "minimumRequired": 21,
-    "featured": 8,
+    "featured": 3,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "08eb0e548fa4635c",
-      "title": "美重启穿梭外交 俄乌短暂停火 和平进程仍漫漫",
-      "source": "yangtse.com",
-      "url": "https://www.yangtse.com/news/txs/202609/t20260907_390130.html",
-      "publishedAt": "2026-09-07T03:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "b23b07a359360c74",
+      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "publishedAt": "2026-09-08T04:00:27.000Z",
+      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia. Since late April there have been eight hijackings by Somali pirates, including two within the space of a fortnight in August: one targeting an oil tanker with ties to Iran, the other a Cameroon-flagged vessel, the Lutuf, carrying military equipment for Turkey. Continue reading...",
+      "language": "",
+      "region": "international",
       "crossSources": [
         {
-          "source": "yangtse.com",
-          "url": "https://www.yangtse.com/news/txs/202609/t20260907_390130.html",
-          "publishedAt": "2026-09-07T03:30:00.000Z"
-        },
-        {
-          "source": "news.hsw.cn",
-          "url": "https://news.hsw.cn/system/2026/0907/1957719.shtml",
-          "publishedAt": "2026-09-07T02:00:00.000Z"
-        },
-        {
-          "source": "bjnews.com.cn",
-          "url": "https://www.bjnews.com.cn/detail/1788737741129452.html",
-          "publishedAt": "2026-09-07T00:45:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+          "publishedAt": "2026-09-08T04:00:27.000Z"
         }
       ],
-      "sourceCount": 3,
+      "sourceCount": 1,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 83,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "1a1b850c1a93a83c12a17438",
-      "isContinuation": false,
-      "titleZh": "美国重启穿梭外交，俄乌实现短暂停火，和平进程依然漫长",
-      "summaryZh": "美国近期重启穿梭外交，旨在推动俄乌冲突的调解。尽管双方实现了短暂停火，但整体和平进程仍面临诸多挑战。",
-      "whyImportant": "此举显示国际社会在调停俄乌冲突方面仍未放弃努力，但局势的复杂性决定了和平之路依然艰难。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d1f96c81d21783cd",
-      "title": "How China’s green tech is undercutting Trump’s ‘drill, baby, drill’ oil strategy in Africa",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3366527/how-chinas-green-tech-undercutting-trumps-drill-baby-drill-oil-strategy-africa?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T04:00:09.000Z",
-      "summary": "Cost appears to be a deciding factor for most African countries when it comes to energy as they observe the factors that influence US and Chinese policy decisions. In a sign of the contrasting energy strategies pursued by Washington and Beijing, US President Donald Trump says “drill, baby, drill” while China drives a leap towards renewable energy. With China’s advances in solar generation and battery technologies making acquisitions cheaper, a consensus is coalescing across the continent around...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3366527/how-chinas-green-tech-undercutting-trumps-drill-baby-drill-oil-strategy-africa?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T04:00:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
         "军事与安全",
+        "科技",
         "能源",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 71,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "space",
+        "科技",
+        "能源"
       ],
-      "fingerprint": "18561b38790903530a1f8be8",
+      "fingerprint": "7f3c7ff43f9e67f45e71f85b",
       "isContinuation": false,
-      "titleZh": "中国绿色技术如何削弱特朗普在非洲的“钻探”石油战略",
-      "summaryZh": "非洲国家在能源选择上更倾向于成本效益，中国在太阳能和电池技术方面的优势使其在非洲市场更具竞争力。相比之下，美国特朗普政府推行的石油开采战略在非洲面临挑战。",
-      "whyImportant": "这显示了中美两国在非洲能源领域竞争策略的差异，以及中国绿色技术在全球能源转型中的影响力。",
+      "titleZh": "海盗利用地区混乱重返索马里海域",
+      "summaryZh": "受美以与伊朗冲突导致的航运中断及索马里政局不稳影响，索马里海盗活动激增至十年来的最高水平。自四月下旬以来，已发生八起劫持事件，目标包括油轮及载有军事装备的货船。",
+      "whyImportant": "索马里海盗活动的复苏对全球航运安全和地区稳定构成了新的威胁。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "77821006185bcd8f",
-      "title": "非常具有实质性 ！ 泽连斯基与特朗普女婿等人谈了3个小时 美国穿梭外交能否促成停火 ？ _ 东方财富网",
-      "source": "finance.eastmoney.com",
-      "url": "https://finance.eastmoney.com/a/202609073866202442.html",
-      "publishedAt": "2026-09-07T03:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "finance.eastmoney.com",
-          "url": "https://finance.eastmoney.com/a/202609073866202442.html",
-          "publishedAt": "2026-09-07T03:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 77,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "f6d74eeac92d39f0a85a8b05",
-      "isContinuation": false,
-      "titleZh": "非常具有实质性！泽连斯基与特朗普女婿等人谈了3个小时，美国穿梭外交能否促成停火？",
-      "summaryZh": "乌克兰总统泽连斯基与特朗普的女婿及相关人员进行了长达三小时的深入会谈。外界关注此次接触是否预示着美国将通过穿梭外交推动俄乌冲突的停火进程。",
-      "whyImportant": "此次高层会晤可能对俄乌冲突的未来走向及美国在其中的调停角色产生关键影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "581f75eeeb8981b4",
-      "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
+      "id": "a7cddb680793c24c",
+      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
-      "publishedAt": "2026-09-07T03:59:39.000Z",
-      "summary": "Manila defence chief says Washington gave 'definite assurances' that its commitments to the Philippines remain.",
+      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+      "publishedAt": "2026-09-07T21:17:12.000Z",
+      "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
-          "publishedAt": "2026-09-07T03:59:39.000Z"
+          "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+          "publishedAt": "2026-09-07T21:17:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "9200680e0ca476f5c02b36cc",
+      "isContinuation": false,
+      "titleZh": "美伊在霍尔木兹海峡冲突加剧，油价飙升",
+      "summaryZh": "由于美伊双方在霍尔木兹海峡的冲突升级，导致航运受阻，国际油价已攀升至六周以来的最高水平。",
+      "whyImportant": "霍尔木兹海峡作为全球能源运输的关键通道，其局势动荡直接威胁全球能源供应安全并推高油价。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "02207ff2c3f2aa62",
+      "title": "Cross-sector push needed for youth facing ‘paradox of AI fluency’: minister",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
+      "publishedAt": "2026-09-07T11:53:19.000Z",
+      "summary": "Hong Kong’s labour secretary has called for greater cross-sector efforts to help young people gain job experience amid disruption caused by artificial intelligence (AI), while Singapore’s trade minister has urged embracing a “continuous learning” mindset. Speaking at the Hong Kong Jockey Club’s PBC (Philanthropy for Better Cities) Forum 2026 on Monday, the city’s Secretary for Labour and Welfare Chris Sun Yuk-han said that higher education alone was no longer enough to ensure career success in...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T11:53:19.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "89b2d4cdb7bd5cf78f12d21a",
-      "isContinuation": false,
-      "titleZh": "菲律宾警告称美韩军演削减可能导致中国重新采取强硬立场",
-      "summaryZh": "菲律宾国防部长表示，尽管美国已给予明确承诺，但担心美韩军演规模的削减可能促使中国在地区事务中采取更强硬的姿态。马尼拉方面正密切关注地区安全动态。",
-      "whyImportant": "该表态凸显了菲律宾对地区军事平衡变化的担忧，以及对美国在该地区安全承诺可靠性的持续关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0d016180b2fa56dc",
-      "title": "Prabowo-Putin payoff: can bond between Indonesian, Russian leaders translate to gains?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3366585/prabowo-putin-payoff-can-bond-between-indonesian-russian-leaders-translate-gains?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T04:06:12.000Z",
-      "summary": "The rapport between Indonesian President Prabowo Subianto and his Russian counterpart, Vladimir Putin, was evident when the two met during the 11th Eastern Economic Forum (EEF) in Vladivostok last week. “My profound apologies for missing this important event due to urgent matters I needed to attend to back home but I’m now here to repay my debt,” Prabowo told Putin on Wednesday, referring to a missed invitation earlier to be the guest of honour at Russia’s National Day celebration on June...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3366585/prabowo-putin-payoff-can-bond-between-indonesian-russian-leaders-translate-gains?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T04:06:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
         "经济",
-        "专题·军事、安全与突发事件"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "突发"
+        "artificial intelligence",
+        "科技"
       ],
-      "fingerprint": "fe95de20e652c56e708ffbb7",
+      "fingerprint": "3caba8c5ec1e9f50825d91cd",
       "isContinuation": false,
-      "titleZh": "普拉博沃与普京的互动：印尼与俄罗斯领导人的关系能否转化为实质利益？",
-      "summaryZh": "印尼总统普拉博沃在东方经济论坛期间与俄罗斯总统普京会面，并就此前缺席俄方活动表达歉意。双方展现出的良好互动引发外界关注，探讨这种个人关系是否能为两国带来实际合作成果。",
-      "whyImportant": "印尼作为重要的新兴经济体，其与俄罗斯的互动反映了全球南方国家在复杂地缘政治环境下的外交策略。",
+      "titleZh": "部长呼吁跨部门协作，应对青年面临的“人工智能流利度悖论”",
+      "summaryZh": "香港劳工及福利局局长指出，仅靠高等教育已不足以确保职业成功，呼吁各界帮助青年积累工作经验。新加坡贸易部长则强调，面对人工智能带来的颠覆，应保持持续学习的心态。",
+      "whyImportant": "该讨论反映了全球劳动力市场在人工智能冲击下对人才培养模式的重新思考。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "33717643c9ec0b64",
-      "title": "Jean Nassif’s daughter tells court father ‘pressured’ her to falsify documents for $150m construction loan",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/07/jean-nassifs-daughter-court-father-pressured-her-falsify-documents-150m-construction-loan-ntwnfb",
-      "publishedAt": "2026-09-07T03:28:43.000Z",
-      "summary": "Ashlyn Nassif, daughter of Toplace boss who fled Australia in 2022, has pleaded guilty to providing false or misleading information to obtain loan from Westpac Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The daughter of a fugitive property developer succumbed to pressure from her father when she falsified documents for a $150m construction loan, a Sydney court has heard. Ashlyn Nassif, the daughter of Jean Nassif, pleaded guilty in June to providing false or misleading information to obtain the loan from Westpac, which was used to construct three apartment towers in Sydney’s north-west in 2021. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/07/jean-nassifs-daughter-court-father-pressured-her-falsify-documents-150m-construction-loan-ntwnfb",
-          "publishedAt": "2026-09-07T03:28:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "baee23891c4db4404983a811",
-      "isContinuation": false,
-      "titleZh": "让·纳西夫之女在法庭承认受父指使伪造文件以获取1.5亿澳元建筑贷款",
-      "summaryZh": "澳大利亚建筑商Toplace老板之女阿什琳·纳西夫承认，在父亲的压力下伪造文件，以获取西太平洋银行的1.5亿澳元贷款。该笔资金曾用于悉尼西北部的公寓楼建设。",
-      "whyImportant": "此案揭露了建筑行业内部的欺诈行为，并引发了对大型开发商合规性及贷款审批流程的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "29e96b676c529024",
-      "title": "美重啟穿梭外交 俄烏短暫停火 和平進程仍漫漫",
-      "source": "hkcd.com",
-      "url": "https://www.hkcd.com/hkcdweb/content/2026/09/07/content_8773606.html",
-      "publishedAt": "2026-09-07T03:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "hkcd.com",
-          "url": "https://www.hkcd.com/hkcdweb/content/2026/09/07/content_8773606.html",
-          "publishedAt": "2026-09-07T03:15:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 71,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
-        "突发"
-      ],
-      "fingerprint": "f4fef02cb638321c3f6339ce",
-      "isContinuation": false,
-      "titleZh": "美国重启穿梭外交，俄乌短暂停火，和平进程仍漫漫",
-      "summaryZh": "美国重启穿梭外交以寻求俄乌冲突的突破，目前双方已达成短暂停火。然而，由于双方立场分歧巨大，和平进程依然充满不确定性。",
-      "whyImportant": "外交斡旋的重启表明国际社会对冲突升级的担忧，但短期停火能否转化为长期和平仍有待观察。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "045499c018c2dd08",
-      "title": "Lebanon president appeals for US help as Israeli strikes kill 7",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366563/lebanons-president-appeals-us-help-israeli-strikes-kill-7?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T17:11:56.000Z",
-      "summary": "Lebanese President Joseph Aoun urged Washington and the international community to help stop Israeli attacks, which killed at least seven people on Sunday despite a truce and a framework deal aimed at halting the violence. Israel said it had targeted Hezbollah operatives and sites in response to a drone attack a day earlier by the Iran-backed group on its troops in the vicinity of a strategic south Lebanon ridge. It reported no casualties but accused Hezbollah of a “blatant violation”. Israel...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3366563/lebanons-president-appeals-us-help-israeli-strikes-kill-7?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T17:11:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "公共安全",
-        "专题·军事、安全与突发事件",
-        "持续关注"
-      ],
-      "score": 71,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "99cdf653d36c88a2053ee915",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "黎巴嫩总统呼吁美国提供援助，以色列空袭造成7人死亡",
-      "summaryZh": "黎巴嫩总统约瑟夫·奥恩呼吁华盛顿及国际社会协助制止以色列的袭击，尽管此前已达成停火协议，但周日的空袭仍造成至少7人死亡。以色列称此举是针对真主党前一日无人机袭击的回应，并指责真主党严重违反停火协议。",
-      "whyImportant": "此事件凸显了黎以边境停火协议的脆弱性，以及地区冲突升级对国际外交调停构成的严峻挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9ce244d39e2faa95",
-      "title": "More than 200 people stood down at embattled housing developer Bathla amid $3.4bn debt",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/07/more-than-200-people-stood-down-at-embattled-housing-developer-bathla",
-      "publishedAt": "2026-09-07T03:07:23.000Z",
-      "summary": "Sydney-headquartered group suspends work on some of its 45 construction sites affecting 60% of workforce Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast More than 200 workers at Sydney-headquartered Bathla Group have been stood down as administrators of the embattled property developer seek emergency funds to stave off a company-wide collapse. The insolvency advisory Teneo said on Monday that new short-term funding arrangements would only allow Bathla to continue construction on some of its 45 construction sites, though it did not identify which projects were being prioritised. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/07/more-than-200-people-stood-down-at-embattled-housing-developer-bathla",
-          "publishedAt": "2026-09-07T03:07:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "81776f9bae7095319a6c992d",
-      "isContinuation": false,
-      "titleZh": "深陷34亿澳元债务危机，建筑开发商Bathla裁员超200人",
-      "summaryZh": "总部位于悉尼的Bathla集团因面临34亿澳元债务危机，已暂停部分建筑工地施工并裁减了200多名员工。目前破产管理方正寻求紧急资金以避免公司全面倒闭。",
-      "whyImportant": "该事件凸显了澳大利亚建筑行业在债务压力下的脆弱性，可能对当地房地产市场和就业产生连锁反应。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "af28608005f2da39",
-      "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
-      "publishedAt": "2026-09-07T01:03:39.000Z",
-      "summary": "Lead candidate in Saxony-Anhalt welcomes further ‘strong’ cooperation with Musk as French minister says ‘we cannot forget our history’ AfD wins key German state election but falls just short of majority The candidate who led the far-right Alternative für Deutschland party to a historic state election victory in Germany has thanked Elon Musk for his support, as one French minister warned that this was a “serious moment” for Europe. The AfD more than doubled its support in the Saxony-Anhalt region and appears to be on the brink of becoming the first far-right party to gain power in Germany at state level since the second world war. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
-          "publishedAt": "2026-09-07T01:03:39.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件",
-        "持续关注"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "d756fe4d8d66179a4e84e388",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "德国极右翼政党AfD感谢埃隆·马斯克，法国警告其选举获胜是“严重时刻”",
-      "summaryZh": "德国极右翼政党“德国选择党”（AfD）在萨克森-安哈尔特州选举中取得历史性胜利，并对马斯克的支持表示感谢。法国政府对此表示担忧，称这是欧洲面临的“严重时刻”。",
-      "whyImportant": "AfD的崛起反映了欧洲政治版图的右倾趋势，引发了国际社会对欧洲政治稳定及历史教训的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "85137f9aca1b5925",
-      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-      "publishedAt": "2026-09-06T06:00:58.000Z",
-      "summary": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immediately, according to the Labour chair of the defence committee. Tan Dhesi said the comments by the Argentinian president this week show why the government should raise military spending to 3% of GDP by 2030. But he said Burnham’s plans remain mired in confusion after the prime minister appeared to reassure him that the 2030 target would be hit, only for Downing Street to later retreat. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-          "publishedAt": "2026-09-06T06:00:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "69cb8a27e8055c8db62bea3b",
-      "isContinuation": false,
-      "titleZh": "工党国防委员会主席：马尔维纳斯群岛争端凸显增加国防预算至3%的紧迫性",
-      "summaryZh": "工党国防委员会主席坦·德西表示，鉴于阿根廷总统米莱对马尔维纳斯群岛的威胁，英国必须立即将国防支出提高至GDP的3%。尽管首相曾做出承诺，但政府在具体执行目标上仍存在混乱。",
-      "whyImportant": "此议题反映了英国在应对地缘政治威胁与财政预算约束之间的矛盾，以及国防政策在政坛的敏感性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b66fd2efeddfd1b9",
-      "title": "埃及各界人士高度评价习近平主席国事访问",
-      "source": "yangtse.com",
-      "url": "https://www.yangtse.com/news/tt/202609/t20260907_390136.html",
-      "publishedAt": "2026-09-07T03:30:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "yangtse.com",
-          "url": "https://www.yangtse.com/news/tt/202609/t20260907_390136.html",
-          "publishedAt": "2026-09-07T03:30:00.000Z"
-        },
-        {
-          "source": "news.jxnews.com.cn",
-          "url": "https://news.jxnews.com.cn/system/2026/09/07/031237184.shtml",
-          "publishedAt": "2026-09-07T03:15:00.000Z"
-        },
-        {
-          "source": "focus.scol.com.cn",
-          "url": "https://focus.scol.com.cn/gcdt/202609/83317416.html",
-          "publishedAt": "2026-09-07T03:00:00.000Z"
-        },
-        {
-          "source": "northnews.cn",
-          "url": "https://www.northnews.cn/news/2026/0907/2519673.html",
-          "publishedAt": "2026-09-07T02:15:00.000Z"
-        }
-      ],
-      "sourceCount": 7,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ed5ade00425869450b870433",
-      "isContinuation": false,
-      "titleZh": "埃及各界人士高度评价习近平主席国事访问",
-      "summaryZh": "埃及各界人士对习近平主席的国事访问给予高度评价，认为此访深化了双边关系。各方期待双方在多领域开展更深层次的合作。",
-      "whyImportant": "此次访问进一步巩固了中埃全面战略伙伴关系，对推动中阿合作具有重要意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "39d67e5113a56f03",
-      "title": "Far-right AfD wins key German state election but falls just short of majority",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-      "publishedAt": "2026-09-07T02:42:09.000Z",
-      "summary": "Alternative für Deutschland surges to victory in Saxony-Anhalt as Friedrich Merz’s CDU slumps to disastrous result AfD thanks Elon Musk as France warns state election win a ‘serious moment’ The populist, far-right, anti-immigration Alternative für Deutschland (AfD) has surged to a resounding victory in a crucial state election in Germany, but fell just short of winning a majority in its quest to form the country’s first far-right state government since the second world war. The party of Germany’s unpopular chancellor Friedrich Merz, the Christian Democrats (CDU), slumped to a disastrous result in the eastern state of Saxony-Anhalt. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-          "publishedAt": "2026-09-07T02:42:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "bfc05a09943a039917a6e4cc",
-      "isContinuation": false,
-      "titleZh": "德国极右翼政党AfD在关键州选举中获胜，但未获得多数席位",
-      "summaryZh": "德国选择党（AfD）在萨克森-安哈尔特州选举中取得重大胜利，而基民盟（CDU）表现惨淡。尽管AfD势头强劲，但未能获得多数席位以组建二战后德国首个极右翼州政府。",
-      "whyImportant": "此次选举结果反映了德国政治格局的剧烈变动及极右翼势力的持续扩张，对德国政坛稳定性产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1035649f1862e732",
-      "title": "Iran to announce restricted zone outside Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-      "publishedAt": "2026-09-07T02:41:56.000Z",
-      "summary": "Iran's security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-          "publishedAt": "2026-09-07T02:41:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "security",
-        "军事"
-      ],
-      "fingerprint": "b76bcda11c1a42457243a0c3",
-      "isContinuation": false,
-      "titleZh": "伊朗宣布将在霍尔木兹海峡外设立限制区",
-      "summaryZh": "伊朗安全部门负责人穆赫辛·雷扎伊表示，德黑兰方面将宣布在霍尔木兹海峡周边设立一个限制区。此举引发了外界对该地区航运安全的关注。",
-      "whyImportant": "霍尔木兹海峡是全球能源运输的关键咽喉，伊朗的这一举动可能加剧地区紧张局势并影响国际油价。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "681db6f07567805b",
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "id": "01edd8a066573edf",
+      "title": "North Korea and Russia open first road bridge linking both countries",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T02:26:12.000Z",
-      "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T03:53:27.000Z",
+      "summary": "Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine Russia and North Korea have opened the first road bridge across their shared border, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine. The one-kilometre bridge spans the Tumen River between Khasan in Russia’s far east and Tumangang in North Korea, along a remote and sparsely populated stretch of the countries’ shared border just a few miles from the coast. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-07T02:26:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "金融"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "06f20875a916deb2c78be5ba",
-      "isContinuation": false,
-      "titleZh": "中国将向国有银行和保险公司注资540亿美元以提振经济",
-      "summaryZh": "面对多重经济挑战，北京计划向国有金融机构注入540亿美元资金。此举旨在通过增强金融体系实力来推动经济结构调整与增长。",
-      "whyImportant": "这是中国政府为应对经济下行压力、稳定金融市场所采取的重大财政干预措施。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4cb019a1fec0235b",
-      "title": "‘There are trade-offs’: how Hong Kong patients can use telemedicine wisely",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3366499/there-are-trade-offs-how-hong-kong-patients-can-use-telemedicine-wisely?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T11:00:07.000Z",
-      "summary": "In the fourth instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Lo Hoi-ying examines how telehealth is reshaping access to care, as practitioners warn it cannot fully replace in-person diagnosis. Hong Kong housewife Chan Ket-yee, nearly 60, has battled severe eczema on her neck and underarms for decades. Splitting her time between the United Kingdom and the city, Chan saw a dramatic improvement after visiting a Hong Kong public dermatologist, whose...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3366499/there-are-trade-offs-how-hong-kong-patients-can-use-telemedicine-wisely?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T11:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "e11cd17e5d06a6dbd7196047",
-      "isContinuation": false,
-      "titleZh": "“有利有弊”：香港患者如何明智地使用远程医疗",
-      "summaryZh": "远程医疗在香港日益普及，为患者提供了便利的就医渠道。然而，医疗从业者提醒，远程医疗无法完全替代面对面的临床诊断。",
-      "whyImportant": "随着医疗数字化转型，如何平衡远程医疗的便捷性与诊疗的准确性成为公共卫生领域的重要议题。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "54aa8513bb5085c6",
-      "title": "Rewriting world history puts China’s image and ‘cultural security’ at risk: party journal",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3366546/rewriting-world-history-puts-chinas-image-and-cultural-security-risk-party-journal?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T16:00:07.000Z",
-      "summary": "Radically rewriting world and Chinese history without solid proof could threaten China’s international image and national identity, a leading Communist Party journal has warned. There has been a growing trend to promote a less Western-centric view of history in recent years, while Beijing has also been keen to promote the idea that Chinese civilisation has a long and continuous history. But at the same time, the so-called pseudo-historical school – which has cast doubt on the origins of Western...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3366546/rewriting-world-history-puts-chinas-image-and-cultural-security-risk-party-journal?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T16:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "security",
-        "军事"
-      ],
-      "fingerprint": "fe4adc0cbf905af5e6f5a727",
-      "isContinuation": false,
-      "titleZh": "党刊警告：重写世界历史可能损害中国形象与“文化安全”",
-      "summaryZh": "中国共产党的一份主要期刊警告称，在缺乏确凿证据的情况下激进重写历史，可能会威胁到中国的国际形象和国家认同。文章指出，应警惕盲目否定西方文明起源的“伪史学”倾向。",
-      "whyImportant": "这反映了中国在维护文化主权和历史叙事方面的高度重视，以及对学术严谨性的政治要求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4317e555ce92db67",
-      "title": "‘A victim’: American Bully dies in surgery, owners question fighting dog rules",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366557/victim-american-bully-dies-surgery-owners-question-fighting-dog-rules?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T12:55:49.000Z",
-      "summary": "The owners of an American Bully are challenging the authorities’ classification of “fighting dogs” after their pet, a breed strictly controlled in Hong Kong, died during neutering, a procedure they undertook amid a crackdown on non-compliance. Monchiu, a female, died under anaesthesia during the operation at a veterinary clinic on Friday, her owners said on social media late on Saturday. They said the dog, who suffered from vision and hearing impairment, as well as skin problems, was unfit for...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3366557/victim-american-bully-dies-surgery-owners-question-fighting-dog-rules?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T12:55:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b7c7f51ef2d1b5d6ab2e36ea",
-      "isContinuation": false,
-      "titleZh": "“受害者”：美国恶霸犬手术中死亡，主人质疑斗犬法规",
-      "summaryZh": "一只在香港被列为受严格管控品种的美国恶霸犬在绝育手术中因麻醉意外死亡。其主人在社交媒体上发声，质疑当局对“斗犬”的分类标准，并指出该犬只本身患有多种健康问题，不适合进行此类手术。",
-      "whyImportant": "该事件引发了公众对于香港宠物管理法规合理性及执行细节的讨论与争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e670305d4c367882",
-      "title": "Alcaraz breezes into last eight at US Open",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
-      "publishedAt": "2026-09-06T21:46:08.000Z",
-      "summary": "Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
-          "publishedAt": "2026-09-06T21:46:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 52,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d24b9ce8480a2d5f0d709c69",
-      "isContinuation": false,
-      "titleZh": "阿尔卡拉斯轻松晋级美网八强",
-      "summaryZh": "卡洛斯·阿尔卡拉斯直落三盘击败美国选手汤米·保罗，成功晋级美国网球公开赛四分之一决赛。",
-      "whyImportant": "作为网坛顶尖选手，阿尔卡拉斯的持续获胜进一步巩固了其在男子网坛的竞争地位。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "625aea0ff2c0288a",
-      "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
-      "publishedAt": "2026-09-06T19:45:36.000Z",
-      "summary": "Michigan Senate hopeful spoke about his faith and the experiences of Muslim Americans.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
-          "publishedAt": "2026-09-06T19:45:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 51,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0887a5f761685b85744b42c4",
-      "isContinuation": false,
-      "titleZh": "阿卜杜勒·埃尔-赛义德在演讲中探讨穆斯林信仰与美国身份",
-      "summaryZh": "密歇根州参议院候选人阿卜杜勒·埃尔-赛义德发表公开演讲，分享了其个人信仰经历以及穆斯林群体在美国社会中的身份认同。",
-      "whyImportant": "此举反映了美国政治中关于宗教多元化与少数族裔政治参与的持续讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9510c4fd6b7ec066",
-      "title": "Armed man arrested after charging towards Ohio governor candidate",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3366574/armed-man-arrested-after-charging-towards-ohio-governor-candidate?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T02:35:53.000Z",
-      "summary": "An armed assailant charged towards the Democratic candidate for Ohio governor, Amy Acton, on Sunday during a campaign stop at the Canfield Fair, injuring several people before he was stopped by troopers, the Ohio State Highway Patrol said. The Ohio State Highway Patrol said in a statement that a man it identified as Patrick Havas, 38, forced his way through a crowd, knocking over multiple members of the audience as he moved towards Acton, the state’s former public health director. He had a taser...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366574/armed-man-arrested-after-charging-towards-ohio-governor-candidate?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T02:35:53.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "574e996cb42d18bd2baf927b",
-      "isContinuation": false,
-      "titleZh": "一名持械男子在冲向俄亥俄州州长候选人时被捕",
-      "summaryZh": "一名持械男子在俄亥俄州州长候选人艾米·阿克顿的竞选活动中强行冲向候选人，造成多名观众受伤。该男子随后被州公路巡警制服并逮捕。",
-      "whyImportant": "该事件引发了对竞选活动安全保障措施以及政治人物人身安全的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5f17cd7760961c0c",
-      "title": "Germany plans anti-sabotage shield after airport drone attack",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3366553/germany-plans-anti-sabotage-shield-after-airport-drone-attack?utm_source=rss_feed",
-      "publishedAt": "2026-09-06T12:09:28.000Z",
-      "summary": "Germany is planning a broad package of measures to strengthen its defences against drone attacks, cyber intrusions and other forms of Russian sabotage after a failed airport drone attack ‌last month, an interior ministry spokesperson said on Sunday. Interior Minister Alexander Dobrindt told the Bild am Sonntag newspaper, which first reported the plans, that Russia’s hybrid attacks had become a part of daily reality. “These attacks will increase, but we can ⁠defend and protect ourselves,”...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3366553/germany-plans-anti-sabotage-shield-after-airport-drone-attack?utm_source=rss_feed",
-          "publishedAt": "2026-09-06T12:09:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "951f34f4bf17122c871607aa",
-      "isContinuation": false,
-      "titleZh": "德国计划在机场无人机袭击后建立反破坏防御盾",
-      "summaryZh": "继上月发生机场无人机袭击事件后，德国政府计划采取一系列综合措施，以加强对无人机袭击、网络入侵及俄罗斯破坏活动的防御。内政部长亚历山大·多布林特表示，此类混合攻击已成为日常现实，政府必须提升防御能力。",
-      "whyImportant": "此举标志着德国在应对地缘政治紧张局势下，正大幅提升国家关键基础设施的安全防御等级。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7385dfdb1df9a518",
-      "title": "普京与美方会见超3小时 此前俄乌达成 三日停火 - 新华网",
-      "source": "xinhuanet.com",
-      "url": "http://www.xinhuanet.com/20260906/6899c01671dc4c589c9dbce3f4dbc2a0/c.html",
-      "publishedAt": "2026-09-06T08:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "xinhuanet.com",
-          "url": "http://www.xinhuanet.com/20260906/6899c01671dc4c589c9dbce3f4dbc2a0/c.html",
-          "publishedAt": "2026-09-06T08:45:00.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-08T03:53:27.000Z"
         },
         {
-          "source": "finance.eastmoney.com",
-          "url": "https://finance.eastmoney.com/a/202609063866068675.html",
-          "publishedAt": "2026-09-06T08:30:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3366679/north-korea-russia-open-first-road-bridge-new-symbol-friendship?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T15:00:18.000Z"
         },
         {
-          "source": "yangtse.com",
-          "url": "https://www.yangtse.com/news/txs/202609/t20260906_389965.html",
-          "publishedAt": "2026-09-06T08:30:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
+          "publishedAt": "2026-09-07T09:53:53.000Z"
         }
       ],
       "sourceCount": 3,
@@ -2327,22 +1246,762 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "军事与安全"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "停火",
+      "score": 69,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "57f3ff1d0e98caa2524fc80b",
+      "isContinuation": false,
+      "titleZh": "朝鲜与俄罗斯开通首座跨境公路桥",
+      "summaryZh": "俄罗斯与朝鲜在图们江上开通了首座公路桥，连接俄远东哈桑与朝鲜豆满江。这是自乌克兰战争爆发以来，两国关系迅速深化的最新迹象。",
+      "whyImportant": "此举标志着俄朝两国在边境基础设施建设上的合作，反映了双方战略关系的进一步紧密。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "21e2ab7f4e1537ae",
+      "title": "Russia resumes strikes on Kyiv after pause for Trump envoys’ visit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T03:59:14.000Z",
+      "summary": "A wave of strong explosions rang out in Kyiv early Tuesday as Russia resumed strikes on the Ukrainian capital after a three-day halt. Russian President Vladimir Putin had ordered the pause in attacks as US President Donald Trump’s envoys Steve Witkoff and Jared Kushner visited the Russian and Ukrainian capitals at the weekend. The fresh explosions triggered fires and car alarms in the city, and Kyiv’s mayor Vitali Klitschko said that six people were wounded. The Ukrainian army’s air force...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T03:59:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "42e27666cb853d770dbd76e1",
+      "isContinuation": false,
+      "titleZh": "俄罗斯在特朗普特使访问结束后恢复对基辅的袭击",
+      "summaryZh": "在特朗普特使结束访问后的三天暂停期后，俄罗斯恢复了对基辅的空袭。此次袭击造成多人受伤，并引发了城市多处的火灾。",
+      "whyImportant": "袭击的恢复表明俄乌冲突的紧张局势并未因外交斡旋而得到实质性缓解。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "dd048c311224a370",
+      "title": "Australia politics live: Labor unveils ‘my feed, my way’ rules to allow everyone to opt in or out of social media algorithms",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+      "publishedAt": "2026-09-08T04:07:30.000Z",
+      "summary": "Follow the day’s news live One Nation policy will leave people $25k worse off at retirement, Mulino says Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage. It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement. To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off. I’m deeply sceptical of giving any government, whether I was in charge, or Anika Wells is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+          "publishedAt": "2026-09-08T04:07:30.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "efb1c43021c49fa89baa3884",
+      "isContinuation": false,
+      "titleZh": "澳大利亚工党推出“我的信息，我的方式”规则，允许用户自主选择社交媒体算法",
+      "summaryZh": "澳大利亚政府正推动社交媒体算法透明化，允许用户选择是否开启算法推荐。同时，政府对“单一民族党”提出的动用养老金支付房贷的建议表示强烈反对，认为这将严重损害民众的退休保障。",
+      "whyImportant": "该政策涉及数字平台监管与国民退休金制度的平衡，引发了关于政府干预权与个人财务自主权的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "81ae8c6fd2a6497c",
+      "title": "‘Forced out with nowhere to go’: First Nations families face eviction as council sells homes over charity’s unpaid rates",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
+      "publishedAt": "2026-09-08T03:25:18.000Z",
+      "summary": "Mount Isa city council to auction off first of 24 homes after Aboriginal and Torres Strait Islander Corporation for Welfare Services accrues almost $1m in unpaid debts Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A rural Queensland council is auctioning off 24 homes to recover unpaid rates, potentially forcing First Nations families into homelessness. Residents claim they were left in the dark about the debt, which stretches back years, until five months ago. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
+          "publishedAt": "2026-09-08T03:25:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
         "突发"
       ],
-      "fingerprint": "34401d6aab30533f969343f7",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "660613910577392ca9c6a14b",
       "isContinuation": false,
-      "titleZh": "普京与美方会见超3小时 此前俄乌达成三日停火",
-      "summaryZh": "俄罗斯总统普京与美方代表进行了超过3小时的会晤。此前，俄乌双方已达成一项为期三天的停火协议。",
-      "whyImportant": "此次高层会晤及停火协议的达成，被视为缓解俄乌冲突紧张局势的重要外交尝试。",
+      "titleZh": "“被迫流离失所”：因慈善机构拖欠税款，澳大利亚原住民家庭面临被驱逐",
+      "summaryZh": "昆士兰州一地方议会因原住民福利机构拖欠近百万美元税款，计划拍卖24处房产以追回债务。受影响的家庭此前对债务情况并不知情，目前面临无家可归的风险。",
+      "whyImportant": "此事件引发了关于地方政府债务追讨方式对弱势群体影响的社会争议。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a92acc79c5f99aec",
+      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T01:50:55.000Z",
+      "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-08T01:50:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f78f650b3337a3d0e0596582",
+      "isContinuation": false,
+      "titleZh": "英国政府预计将宣布限制与约旦河西岸定居点的贸易",
+      "summaryZh": "英国外交大臣米利班德预计将公布限制与约旦河西岸定居点贸易的提案。此举可能引发以色列方面的报复性回应。",
+      "whyImportant": "英国对定居点贸易的限制政策可能导致其与以色列的外交关系出现摩擦。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "da70b0e0306ea4df",
+      "title": "Burnham risks friction with Trump over Israeli West Bank settlement sanctions",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
+      "publishedAt": "2026-09-07T22:42:58.000Z",
+      "summary": "UK Prime Minister Andy Burnham’s government is expected to ban trade with Israeli settlements in the West Bank on Tuesday as he seeks to adopt a stronger policy on an issue that is important to his governing Labour Party but may anger US President Donald Trump. A new sanctions regime targeting Israel but limited to Jewish settlements in the West Bank will be announced by Foreign Secretary Ed Miliband, according to people familiar with the matter. Burnham and Trump spoke by phone on Monday,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T22:42:58.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "经济",
+        "金融"
+      ],
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f7d741a9dbd86476fe7b1217",
+      "isContinuation": false,
+      "titleZh": "伯纳姆因以色列约旦河西岸定居点制裁面临与特朗普产生摩擦的风险",
+      "summaryZh": "英国首相伯纳姆政府计划宣布对以色列约旦河西岸定居点实施贸易制裁。尽管此举符合工党政策，但可能引发美国总统特朗普的不满。",
+      "whyImportant": "该政策在满足国内政治诉求的同时，可能对英美双边关系带来外交挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1fea33a4ec475f2d",
+      "title": "Can Japan, South Korea move past the ‘comfort women’ issue?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T01:30:10.000Z",
+      "summary": "South Korean citizens’ groups have called for the abuse of wartime “comfort women” to be recognised by Unesco, as analysts say the ongoing feud between Seoul and Tokyo threatens to upset recent improvements in their relations. They also suggest that the two nations would benefit from working together at a time of unprecedented regional and global security and economic challenges, although they admit that may be impossible. On Sunday, a coalition of South Korean citizens’ groups called on the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T01:30:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "75e7231d73ea5002fe5dbce0",
+      "isContinuation": false,
+      "titleZh": "日本和韩国能否跨越“慰安妇”问题？",
+      "summaryZh": "韩国民间团体呼吁将“慰安妇”受害者记录列入联合国教科文组织名录，分析人士担忧此举将影响日韩近期改善的关系。尽管两国在安全与经济领域面临共同挑战，但历史遗留问题仍是双边合作的重大障碍。",
+      "whyImportant": "历史问题的持续发酵限制了日韩在地区安全与经济合作上的深度整合。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4893d42812308ad3",
+      "title": "Hong Kong families hit as volcanic ash strands up to 200 helpers in Indonesia",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T04:22:37.000Z",
+      "summary": "Up to 200 Hong Kong-bound domestic helpers remain stranded in Indonesia despite the reopening of several affected airports, as the city’s employment agencies association braces for possible further closures due to volcanic ash. The Indonesian transport ministry said Jakarta’s Soekarno-Hatta International Airport resumed operations on Tuesday after being shut for several days, following the eruption of Mount Anak Krakatoa on Saturday, which affected thousands of travellers. Among those stranded...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T04:22:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6ee9da72b98ba48e9d52994d",
+      "isContinuation": false,
+      "titleZh": "印尼火山灰导致航班中断，约200名赴港外佣滞留",
+      "summaryZh": "受喀拉喀托之子火山喷发影响，尽管部分机场已恢复运营，仍有约200名原定前往香港的外籍佣工滞留在印尼。香港就业中介协会正密切关注局势，以防火山灰导致进一步的机场关闭。",
+      "whyImportant": "此次事件影响了香港家庭的劳动力供应，并凸显了自然灾害对跨境人员流动的潜在干扰。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ba74aa7be032448a",
+      "title": "Hong Kong a boon to Kazakhstan’s advanced manufacturing ambitions, ties to Europe: expert",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T04:00:13.000Z",
+      "summary": "Hong Kong firms could look to Kazakhstan as a base for advanced manufacturing and as a gateway to Europe, while the city’s robust capital markets could attract businesses in the Central Asian country, a diplomat and business adviser has said. Sabr Yessimbekov, adviser to the chairman of the presidium of the National Chamber of Entrepreneurs of the Republic of Kazakhstan, told the South China Morning Post on the sidelines of the inaugural China Conference: Central Asia 2026 that some projects in...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T04:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0a76bfd1ceb1854baab07d60",
+      "isContinuation": false,
+      "titleZh": "专家：香港可助力哈萨克斯坦发展先进制造业并加强与欧洲联系",
+      "summaryZh": "专家指出，哈萨克斯坦可利用香港作为先进制造业基地及通往欧洲的门户。同时，香港强大的资本市场有望吸引更多哈萨克斯坦企业寻求融资与合作。",
+      "whyImportant": "此举反映了“一带一路”沿线国家与香港在深化经贸合作及产业互补方面的战略意图。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "be380f52201413ee",
+      "title": "Chinese PLA aircraft to headline Egypt air show in display of export potential",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T04:00:10.000Z",
+      "summary": "Fresh off a joint air drill, China will for the first time showcase several PLA Air Force aircraft overseas at an air show this week. The featured aircraft were selected for the air show in Egypt to demonstrate the air force’s integrated combat abilities and export potential, according to a military analyst. China’s armed forces on Tuesday posted pictures of Z-20, J-16, YY-20, and KJ-500 with its social media postings about the El Alamein International Airshow. The PLA Air Force said the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T04:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cec0200b9a3db8819e75de35",
+      "isContinuation": false,
+      "titleZh": "中国空军多型战机将亮相埃及航展，展示出口潜力",
+      "summaryZh": "中国空军将首次在海外航展上展示包括歼-16、运-20等在内的多型主力战机。军事分析人士认为，此举旨在展示中国空军的综合战斗能力及相关装备的出口潜力。",
+      "whyImportant": "这标志着中国军事外交与国防工业出口战略的进一步拓展，旨在提升中国制造在国际军贸市场的影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fc9bd9ae9a5c6228",
+      "title": "时代 · 人民 · 文明 中国元首外交的思想启迪 - 中国侨网",
+      "source": "chinaqw.com",
+      "url": "https://www.chinaqw.com/yw/2026/09-07/411108.shtml",
+      "publishedAt": "2026-09-07T12:45:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "chinaqw.com",
+          "url": "https://www.chinaqw.com/yw/2026/09-07/411108.shtml",
+          "publishedAt": "2026-09-07T12:45:00.000Z"
+        },
+        {
+          "source": "cqnews.net",
+          "url": "https://www.cqnews.net/web/content_1546538877895704576.html",
+          "publishedAt": "2026-09-07T09:30:00.000Z"
+        },
+        {
+          "source": "news.hangzhou.com.cn",
+          "url": "https://news.hangzhou.com.cn/szxw/content/content_9300999.htm",
+          "publishedAt": "2026-09-07T09:15:00.000Z"
+        },
+        {
+          "source": "news.sina.com.cn",
+          "url": "https://news.sina.com.cn/gov/xlxw/2026-09-07/doc-iniqyvru9532197.shtml",
+          "publishedAt": "2026-09-07T08:30:00.000Z"
+        }
+      ],
+      "sourceCount": 4,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0eb6381972722de1f27c0ac1",
+      "isContinuation": false,
+      "titleZh": "时代 · 人民 · 文明 中国元首外交的思想启迪",
+      "summaryZh": "文章探讨了中国元首外交在时代变迁、人民福祉及文明交流方面的核心思想。通过外交实践，阐述了中国对构建人类命运共同体的深刻理解与贡献。",
+      "whyImportant": "该文阐释了中国当前外交政策的理论基础及其对全球治理的指导意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7690493c55e16ce4",
+      "title": "In Gyirong Port, small items speak of the human cost of the China-Nepal disaster",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T03:13:40.000Z",
+      "summary": "“I do not want to stop [searching]. If I pause, I start thinking about my brothers and sisters and all the moments of my life here.” Gui Xinwei, deputy chief of the Gyirong Border Inspection Station, was speaking to Chinese state broadcaster CCTV from the ruins of his workplace, seven days after the devastating mudslide erased the port crossing where China and Nepal meet. “I just don’t want to stop.” Gui was away on holiday on August 26 when a glacier collapsed in Nepal, triggering a massive...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T03:13:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "公共安全"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "12a661f016a175fe0868cc17",
+      "isContinuation": false,
+      "titleZh": "吉隆口岸：中尼灾难背后的人文代价",
+      "summaryZh": "尼泊尔冰川崩塌引发的泥石流摧毁了中尼边境的吉隆口岸。边检站工作人员在废墟中坚持搜救，讲述了灾难给当地带来的深重创伤与人员损失。",
+      "whyImportant": "该报道通过个体视角展现了自然灾害对边境贸易枢纽及相关人员生活的毁灭性影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c8a2abae0e1966a2",
+      "title": "Kazakhstan aims to become education hub, but experts say jobs must match skills",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
+      "publishedAt": "2026-09-07T16:14:24.000Z",
+      "summary": "Kazakhstan is aiming to become an education powerhouse in Central Asia but efforts must also ensure young people have sufficient access to opportunities that match their skill sets amid the country’s rapid economic transformation, experts have said. Educators and advocates added that further collaboration with Hong Kong and mainland Chinese universities was in the pipeline, with growing demand for specialists who understood the business environments of both Kazakhstan and China. The comments...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T16:14:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "环境",
+        "国际组织"
+      ],
+      "score": 58,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8ac589b6bd2e4ac5b3db114e",
+      "isContinuation": false,
+      "titleZh": "哈萨克斯坦力争成为教育中心，专家强调就业匹配至关重要",
+      "summaryZh": "哈萨克斯坦正致力于成为中亚教育强国，但专家提醒，必须确保年轻人的技能与市场需求相匹配。此外，哈萨克斯坦正寻求与中国及香港高校加强合作，以培养跨国商业人才。",
+      "whyImportant": "教育转型是哈萨克斯坦经济多元化的关键，其与中国教育资源的对接将促进区域人才流动与经济融合。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8c2872e4b8995f22",
+      "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+      "publishedAt": "2026-09-08T04:01:12.000Z",
+      "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between US president Donald Trump and Canadian prime minister Mark Carney. The tariffs took effect at 12.01am on Tuesday, and range from 15% to 50% and apply to products covering $20bn in imports from the US. The measures target sectors including steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics – industries that have been most affected by US tariffs. Continue reading...",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+          "publishedAt": "2026-09-08T04:01:12.000Z"
+        },
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+          "publishedAt": "2026-09-08T04:00:59.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366693/canada-set-hit-back-trump-tariffs-risking-wider-trade-war?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T20:08:51.000Z"
+        }
+      ],
+      "sourceCount": 3,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济"
+      ],
+      "score": 74,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "54a1941095bfc83695aed2be",
+      "isContinuation": false,
+      "titleZh": "加拿大对价值200亿美元的美国商品实施报复性关税",
+      "summaryZh": "针对美国此前宣布的关税措施，加拿大正式对价值200亿美元的美国进口商品征收15%至50%的报复性关税。此次贸易争端涉及钢铁、乳制品及电子产品等多个行业。",
+      "whyImportant": "美加贸易摩擦的升级加剧了北美地区的经济不确定性，并可能对相关产业链造成深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "590d5bd95a0ae82e",
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T01:32:56.000Z",
+      "summary": "The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot went on trial Monday, two years after their killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. They had been camping in a remote beachside area when they were attacked in April 2024. Their bodies...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-08T01:32:56.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/americas/article/3366691/alleged-killers-australian-us-surfers-go-trial-mexico?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T18:56:05.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发"
+      ],
+      "score": 72,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d4121bbc6c942afd693a3c3e",
+      "isContinuation": false,
+      "titleZh": "墨西哥审理两名澳大利亚冲浪者及一名美国人被杀案",
+      "summaryZh": "两年前，两名澳大利亚兄弟和一名美国友人在墨西哥下加利福尼亚州冲浪时遭抢劫并被枪杀。涉嫌谋杀这三人的嫌疑人已于周一正式受审。",
+      "whyImportant": "此案引发了国际社会对墨西哥旅游安全状况的持续关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a04e18730da01f49",
+      "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+      "publishedAt": "2026-09-08T03:08:28.000Z",
+      "summary": "US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+          "publishedAt": "2026-09-08T03:08:28.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ba0af44ab231c4ddae5afd82",
+      "isContinuation": false,
+      "titleZh": "美国特使访问期间暂停期结束，俄罗斯对基辅发动致命袭击",
+      "summaryZh": "在美方特使访问期间的短暂平静结束后，俄罗斯恢复了对基辅的袭击。美国官员表示，尽管局势紧张，但对后续的谈判进展仍持鼓励态度。",
+      "whyImportant": "袭击事件凸显了俄乌冲突的持续动荡及外交斡旋的复杂性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "caac094df00161e4",
+      "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+      "publishedAt": "2026-09-08T02:00:24.000Z",
+      "summary": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+          "publishedAt": "2026-09-08T02:00:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c2cb6bc15c4daa254d3de99c",
+      "isContinuation": false,
+      "titleZh": "“我听到了很大的响声”：墨西哥开始审理涉嫌杀害澳大利亚冲浪者及美国友人的案件",
+      "summaryZh": "2024年，两名澳大利亚兄弟和一名美国友人在墨西哥冲浪时遇害，受害者家属出席了周一的庭审。三名被告被指控在抢劫过程中杀害了这三名受害者。",
+      "whyImportant": "该案件的审理过程受到国际媒体高度关注，涉及跨国犯罪的司法公正问题。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "61f246e99846ca91",
+      "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
+      "publishedAt": "2026-09-07T19:59:07.000Z",
+      "summary": "Advocacy groups expand legal challenges and condemn president’s ‘self-serving attempts to take over midterms’ A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald Trump’s authoritarian executive orders on voting and other presidential actions they see as a “war” on the rule of law in the US. Heavy legal opposition to Trump’s two executive orders on elections to curb voting rights and supplant the authority of states on election matters has come from the Democracy Defenders Fund, the Campaign Legal Center, the American Civil Liberties Union and kindred groups. This article was updated on 7 September 2026 to reflect that members of the Democratic Attorneys General Association have filed suit, not the Daga itself. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
+          "publishedAt": "2026-09-07T19:59:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "02c50d26b4c335373ae1ef65",
+      "isContinuation": false,
+      "titleZh": "法律界资深人士联手反击特朗普对民主的“全面攻击”",
+      "summaryZh": "由资深律师、选举专家和前法官组成的倡导团体，正通过法律途径挑战特朗普关于选举的行政命令。他们认为这些命令旨在削弱投票权并干预州级选举权力，是对法治的破坏。",
+      "whyImportant": "此举反映了美国法律界与行政当局在选举制度和民主原则上的激烈对抗。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "70261b63d135265d",
+      "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+      "source": "DW",
+      "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-09-07T15:03:00.000Z",
+      "summary": "Ratko Mladic, the Bosnian Serb commander who died while serving a life sentence for war crimes, was buried on Monday with military honours and crowds attending as Serbia defied European Union warnings against allowing public homage to the man found guilty of the continent’s first case of genocide since World War II. Thousands of mourners started arriving early at the small Serbian Orthodox Church of St. Luke in Belgrade to honour Mladic as his body lay in state. Mladic is still viewed as a hero...",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-09-07T15:03:00.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3366676/war-criminal-mladic-buried-military-honours-serbia-despite-eu-warnings?utm_source=rss_feed",
+          "publishedAt": "2026-09-07T14:18:53.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 57,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "74351ae503d3dd0e2720cbcb",
+      "isContinuation": false,
+      "titleZh": "战犯拉特科·姆拉迪奇在塞尔维亚贝尔格莱德获军礼葬礼",
+      "summaryZh": "因战争罪被判终身监禁的波斯尼亚塞族指挥官拉特科·姆拉迪奇在贝尔格莱德下葬，现场举行了军事仪式。尽管欧盟发出警告，塞尔维亚仍允许为其举行公开悼念活动。",
+      "whyImportant": "此举引发了国际社会对巴尔干地区历史遗留问题及民族主义情绪的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3dde4a819a56591c",
+      "title": "Majority of Tory and Reform voters do not back cuts to disability benefits, survey finds",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
+      "publishedAt": "2026-09-08T04:00:26.000Z",
+      "summary": "Nearly half of respondents say spending on personal independence payments should be increased There is little appetite for cuts to disability benefits even among Conservative and Reform voters, and proposals to reduce spending could prove politically risky, according to an authoritative national survey. The British Social Attitudes (BSA) report found that while support for welfare spending as a whole had dipped sharply in recent years, just 7% of respondents backed cuts to disability benefits – and 49% said they should be increased. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
+          "publishedAt": "2026-09-08T04:00:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "国际组织"
+      ],
+      "score": 56,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1a06cfc6c840a51ae987b144",
+      "isContinuation": false,
+      "titleZh": "调查显示多数保守党和改革党选民不支持削减残疾人福利",
+      "summaryZh": "英国社会态度报告显示，即使在保守党和改革党选民中，支持削减残疾人福利的人数也极少。近半数受访者认为应增加对残疾人的个人独立津贴。",
+      "whyImportant": "调查结果表明，削减残疾人福利在英国政坛可能面临巨大的政治风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
