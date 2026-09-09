@@ -1,261 +1,171 @@
 {
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-08T04:33:11.932Z",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T04:39:36.467Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "technology-energy",
-    "name": "科技、能源与产业",
-    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
-    "query": "technology artificial intelligence semiconductor energy industry",
+    "slug": "climate-safety",
+    "name": "气候、环境与公共安全",
+    "description": "追踪极端天气、灾害、公共卫生与环境政策",
+    "query": "climate environment disaster public safety health emergency",
     "keywords": [
-      "technology",
-      "artificial intelligence",
-      "semiconductor",
-      "space",
-      "energy",
-      "科技",
-      "人工智能",
-      "芯片",
-      "太空",
-      "能源"
+      "climate",
+      "environment",
+      "wildfire",
+      "flood",
+      "disaster",
+      "health emergency",
+      "气候",
+      "环境",
+      "山火",
+      "洪水",
+      "灾害",
+      "公共安全"
     ],
-    "accent": "#06b6d4"
+    "accent": "#84cc16"
   },
-  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“气候、环境与公共安全”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "b23b07a359360c74",
-      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-      "publishedAt": "2026-09-08T04:00:27.000Z",
-      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia. Since late April there have been eight hijackings by Somali pirates, including two within the space of a fortnight in August: one targeting an oil tanker with ties to Iran, the other a Cameroon-flagged vessel, the Lutuf, carrying military equipment for Turkey. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-          "publishedAt": "2026-09-08T04:00:27.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "科技",
-        "能源",
-        "专题·科技、能源与产业"
-      ],
-      "score": 71,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "space",
-        "科技",
-        "能源"
-      ],
-      "fingerprint": "7f3c7ff43f9e67f45e71f85b",
-      "isContinuation": false,
-      "titleZh": "海盗利用地区混乱重返索马里海域",
-      "summaryZh": "受美以与伊朗冲突导致的航运中断及索马里政局不稳影响，索马里海盗活动激增至十年来的最高水平。自四月下旬以来，已发生八起劫持事件，目标包括油轮及载有军事装备的货船。",
-      "whyImportant": "索马里海盗活动的复苏对全球航运安全和地区稳定构成了新的威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a7cddb680793c24c",
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-      "publishedAt": "2026-09-07T21:17:12.000Z",
-      "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-          "publishedAt": "2026-09-07T21:17:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源",
-        "专题·科技、能源与产业"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "能源"
-      ],
-      "fingerprint": "9200680e0ca476f5c02b36cc",
-      "isContinuation": false,
-      "titleZh": "美伊在霍尔木兹海峡冲突加剧，油价飙升",
-      "summaryZh": "由于美伊双方在霍尔木兹海峡的冲突升级，导致航运受阻，国际油价已攀升至六周以来的最高水平。",
-      "whyImportant": "霍尔木兹海峡作为全球能源运输的关键通道，其局势动荡直接威胁全球能源供应安全并推高油价。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "02207ff2c3f2aa62",
-      "title": "Cross-sector push needed for youth facing ‘paradox of AI fluency’: minister",
+      "id": "b67d1e894892cb82",
+      "title": "Singapore police question 5 over racist comments on Nepal floods, Air India investment",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T11:53:19.000Z",
-      "summary": "Hong Kong’s labour secretary has called for greater cross-sector efforts to help young people gain job experience amid disruption caused by artificial intelligence (AI), while Singapore’s trade minister has urged embracing a “continuous learning” mindset. Speaking at the Hong Kong Jockey Club’s PBC (Philanthropy for Better Cities) Forum 2026 on Monday, the city’s Secretary for Labour and Welfare Chris Sun Yuk-han said that higher education alone was no longer enough to ensure career success in...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366861/singapore-police-question-5-over-racist-comments-nepal-floods-air-india-investment?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T03:48:25.000Z",
+      "summary": "The police have identified and interviewed five people over online comments relating to the Nepal floods and discussions surrounding Singapore Airlines’ (SIA) investment in Air India. Senior Minister K Shanmugam said on Saturday that the police were looking into “shameful” racist and xenophobic online comments about the Nepal-Tibet disaster and SIA’s investment in Air India. In response to media queries, the police on Wednesday confirmed they received police reports and are investigating certain...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T11:53:19.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366861/singapore-police-question-5-over-racist-comments-nepal-floods-air-india-investment?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T03:48:25.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "专题·科技、能源与产业"
+        "全球焦点",
+        "环境",
+        "公共安全",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 66,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": true,
       "topicKeywords": [
-        "artificial intelligence",
-        "科技"
+        "flood",
+        "disaster",
+        "环境",
+        "公共安全"
       ],
-      "fingerprint": "3caba8c5ec1e9f50825d91cd",
+      "fingerprint": "aeed0eb469a36a176b84fb44",
       "isContinuation": false,
-      "titleZh": "部长呼吁跨部门协作，应对青年面临的“人工智能流利度悖论”",
-      "summaryZh": "香港劳工及福利局局长指出，仅靠高等教育已不足以确保职业成功，呼吁各界帮助青年积累工作经验。新加坡贸易部长则强调，面对人工智能带来的颠覆，应保持持续学习的心态。",
-      "whyImportant": "该讨论反映了全球劳动力市场在人工智能冲击下对人才培养模式的重新思考。",
+      "titleZh": "新加坡警方就针对尼泊尔洪水和印度航空投资的种族主义言论传唤5人",
+      "summaryZh": "新加坡警方正在调查五名涉嫌在网上发表针对尼泊尔洪水及新加坡航空投资印度航空相关种族主义和仇外言论的人员。新加坡内政部长尚穆根谴责了这些言论，并确认警方已介入调查。",
+      "whyImportant": "此事件反映了新加坡政府对维护社会种族和谐与打击网络仇恨言论的零容忍态度。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7a81d0d8cf4b1304",
+      "title": "Cluster munitions kill, wound over 1,000 globally in 2025",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
+      "publishedAt": "2026-09-09T04:11:51.000Z",
+      "summary": "The 1,063 global casualties in 2025 one of the highest annual tolls on record, a report has found.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
+          "publishedAt": "2026-09-09T04:11:51.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "公共安全",
+        "专题·气候、环境与公共安全"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "公共安全"
+      ],
+      "fingerprint": "022ac8a4009e2a818ac6b8c6",
+      "isContinuation": false,
+      "titleZh": "2025年全球集束弹药造成超1000人伤亡",
+      "summaryZh": "一份最新报告显示，2025年全球共有1063人因集束弹药伤亡，创下历史最高纪录之一。该数据凸显了此类武器在冲突地区造成的严重人道主义后果。",
+      "whyImportant": "集束弹药造成的平民伤亡持续增加，引发了国际社会对加强武器管控和保护平民的呼吁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "acae49ae4d6f6835",
+      "title": "‘Flying doctor’ helicopter crash in Malaysia kills 5 people",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366852/flying-doctor-helicopter-crash-malaysia-kills-5-people?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T02:28:31.000Z",
+      "summary": "Five people, including medical ⁠staff, died after a “flying ⁠doctor” service helicopter crashed in Malaysia on Tuesday, authorities and state news agency reports said, as haze from wildfires complicated search efforts. Health Minister Dzulkefly Ahmad in a statement ‌said initial information showed a pilot and four ministry staff were aboard the chopper that crashed near Sarawak state’s Long Lellang short take-off and landing airport. Among them were a medical officer, an assistant medical...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366852/flying-doctor-helicopter-crash-malaysia-kills-5-people?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T02:28:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "环境",
+        "专题·气候、环境与公共安全"
+      ],
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "wildfire",
+        "环境"
+      ],
+      "fingerprint": "c3ba9d614fce153674cb1407",
+      "isContinuation": false,
+      "titleZh": "马来西亚一架“飞行医生”直升机坠毁，造成5人死亡",
+      "summaryZh": "马来西亚一架执行任务的“飞行医生”直升机在砂拉越州坠毁，机上5人全部遇难。受野火烟霾影响，搜救工作面临较大困难。",
+      "whyImportant": "此次空难造成医疗人员重大伤亡，并凸显了偏远地区医疗服务面临的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "b23b07a359360c74",
-      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-      "publishedAt": "2026-09-08T04:00:27.000Z",
-      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia. Since late April there have been eight hijackings by Somali pirates, including two within the space of a fortnight in August: one targeting an oil tanker with ties to Iran, the other a Cameroon-flagged vessel, the Lutuf, carrying military equipment for Turkey. Continue reading...",
+      "id": "ef9d82a7dbc9702a",
+      "title": "Iran war live: US, Iran attack oil tankers; crude heads to $100",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "summary": "Iran's IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-          "publishedAt": "2026-09-08T04:00:27.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "科技",
-        "能源",
-        "专题·科技、能源与产业"
-      ],
-      "score": 71,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "space",
-        "科技",
-        "能源"
-      ],
-      "fingerprint": "7f3c7ff43f9e67f45e71f85b",
-      "isContinuation": false,
-      "titleZh": "海盗利用地区混乱重返索马里海域",
-      "summaryZh": "受美以与伊朗冲突导致的航运中断及索马里政局不稳影响，索马里海盗活动激增至十年来的最高水平。自四月下旬以来，已发生八起劫持事件，目标包括油轮及载有军事装备的货船。",
-      "whyImportant": "索马里海盗活动的复苏对全球航运安全和地区稳定构成了新的威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "01edd8a066573edf",
-      "title": "North Korea and Russia open first road bridge linking both countries",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T03:53:27.000Z",
-      "summary": "Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine Russia and North Korea have opened the first road bridge across their shared border, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine. The one-kilometre bridge spans the Tumen River between Khasan in Russia’s far east and Tumangang in North Korea, along a remote and sparsely populated stretch of the countries’ shared border just a few miles from the coast. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-08T03:53:27.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3366679/north-korea-russia-open-first-road-bridge-new-symbol-friendship?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T15:00:18.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
-          "publishedAt": "2026-09-07T09:53:53.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 69,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "57f3ff1d0e98caa2524fc80b",
-      "isContinuation": false,
-      "titleZh": "朝鲜与俄罗斯开通首座跨境公路桥",
-      "summaryZh": "俄罗斯与朝鲜在图们江上开通了首座公路桥，连接俄远东哈桑与朝鲜豆满江。这是自乌克兰战争爆发以来，两国关系迅速深化的最新迹象。",
-      "whyImportant": "此举标志着俄朝两国在边境基础设施建设上的合作，反映了双方战略关系的进一步紧密。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "21e2ab7f4e1537ae",
-      "title": "Russia resumes strikes on Kyiv after pause for Trump envoys’ visit",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T03:59:14.000Z",
-      "summary": "A wave of strong explosions rang out in Kyiv early Tuesday as Russia resumed strikes on the Ukrainian capital after a three-day halt. Russian President Vladimir Putin had ordered the pause in attacks as US President Donald Trump’s envoys Steve Witkoff and Jared Kushner visited the Russian and Ukrainian capitals at the weekend. The fresh explosions triggered fires and car alarms in the city, and Kyiv’s mayor Vitali Klitschko said that six people were wounded. The Ukrainian army’s air force...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T03:59:14.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+          "publishedAt": "2026-09-09T00:00:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -265,35 +175,36 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "军事与安全",
+        "能源"
       ],
-      "score": 66,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 68,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "42e27666cb853d770dbd76e1",
+      "fingerprint": "e0a7a357151d6f01dd734865",
       "isContinuation": false,
-      "titleZh": "俄罗斯在特朗普特使访问结束后恢复对基辅的袭击",
-      "summaryZh": "在特朗普特使结束访问后的三天暂停期后，俄罗斯恢复了对基辅的空袭。此次袭击造成多人受伤，并引发了城市多处的火灾。",
-      "whyImportant": "袭击的恢复表明俄乌冲突的紧张局势并未因外交斡旋而得到实质性缓解。",
+      "titleZh": "伊朗战争直播：美伊互相攻击油轮，原油价格冲向100美元",
+      "summaryZh": "伊朗伊斯兰革命卫队警告科威特和巴林的油轮船员尽快撤离，并威胁称将对美国袭击后的船只进行报复。这一局势升级导致全球原油价格大幅上涨。",
+      "whyImportant": "中东地区紧张局势加剧可能引发全球能源供应危机并推高通胀。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "dd048c311224a370",
-      "title": "Australia politics live: Labor unveils ‘my feed, my way’ rules to allow everyone to opt in or out of social media algorithms",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-      "publishedAt": "2026-09-08T04:07:30.000Z",
-      "summary": "Follow the day’s news live One Nation policy will leave people $25k worse off at retirement, Mulino says Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage. It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement. To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off. I’m deeply sceptical of giving any government, whether I was in charge, or Anika Wells is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone. Continue reading...",
+      "id": "b67d1e894892cb82",
+      "title": "Singapore police question 5 over racist comments on Nepal floods, Air India investment",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366861/singapore-police-question-5-over-racist-comments-nepal-floods-air-india-investment?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T03:48:25.000Z",
+      "summary": "The police have identified and interviewed five people over online comments relating to the Nepal floods and discussions surrounding Singapore Airlines’ (SIA) investment in Air India. Senior Minister K Shanmugam said on Saturday that the police were looking into “shameful” racist and xenophobic online comments about the Nepal-Tibet disaster and SIA’s investment in Air India. In response to media queries, the police on Wednesday confirmed they received police reports and are investigating certain...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-          "publishedAt": "2026-09-08T04:07:30.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366861/singapore-police-question-5-over-racist-comments-nepal-floods-air-india-investment?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T03:48:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -302,36 +213,160 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "国际组织"
+        "环境",
+        "公共安全",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "efb1c43021c49fa89baa3884",
+      "score": 66,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "flood",
+        "disaster",
+        "环境",
+        "公共安全"
+      ],
+      "fingerprint": "aeed0eb469a36a176b84fb44",
       "isContinuation": false,
-      "titleZh": "澳大利亚工党推出“我的信息，我的方式”规则，允许用户自主选择社交媒体算法",
-      "summaryZh": "澳大利亚政府正推动社交媒体算法透明化，允许用户选择是否开启算法推荐。同时，政府对“单一民族党”提出的动用养老金支付房贷的建议表示强烈反对，认为这将严重损害民众的退休保障。",
-      "whyImportant": "该政策涉及数字平台监管与国民退休金制度的平衡，引发了关于政府干预权与个人财务自主权的讨论。",
+      "titleZh": "新加坡警方就针对尼泊尔洪水和印度航空投资的种族主义言论传唤5人",
+      "summaryZh": "新加坡警方正在调查五名涉嫌在网上发表针对尼泊尔洪水及新加坡航空投资印度航空相关种族主义和仇外言论的人员。新加坡内政部长尚穆根谴责了这些言论，并确认警方已介入调查。",
+      "whyImportant": "此事件反映了新加坡政府对维护社会种族和谐与打击网络仇恨言论的零容忍态度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "81ae8c6fd2a6497c",
-      "title": "‘Forced out with nowhere to go’: First Nations families face eviction as council sells homes over charity’s unpaid rates",
+      "id": "8700b40fc5c45181",
+      "title": "NDIS data may have ended up in Palantir’s analytics platform as part of efforts to curb fraud",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
-      "publishedAt": "2026-09-08T03:25:18.000Z",
-      "summary": "Mount Isa city council to auction off first of 24 homes after Aboriginal and Torres Strait Islander Corporation for Welfare Services accrues almost $1m in unpaid debts Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A rural Queensland council is auctioning off 24 homes to recover unpaid rates, potentially forcing First Nations families into homelessness. Residents claim they were left in the dark about the debt, which stretches back years, until five months ago. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/09/ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-to-curb",
+      "publishedAt": "2026-09-09T01:09:16.000Z",
+      "summary": "Exclusive: The Australian Criminal Intelligence Commission, which has access to NDIA data, used Palantir as part of a multi-agency fraud taskforce Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Personal information of national disability insurance scheme participants may have ended up in controversial software company Palantir’s analytics platform as part of a massive multi-agency sharing program investigating fraud, Guardian Australia can reveal. There have been calls to ban the use of Palantir’s software by the Australian government since May, after it implied some cultures are inferior to others in a manifesto described by one UK MP as the “ramblings of a supervillain”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
-          "publishedAt": "2026-09-08T03:25:18.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/sep/09/ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-to-curb",
+          "publishedAt": "2026-09-09T01:09:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "持续关注"
+      ],
+      "score": 64,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0a94025efb891ad60df2300f",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "澳大利亚国家残障保险计划（NDIS）数据或因反欺诈调查流入Palantir分析平台",
+      "summaryZh": "澳大利亚刑事情报委员会在打击欺诈的跨部门行动中，使用了Palantir的数据分析软件。由于Palantir公司此前曾引发争议，此次数据共享引发了关于个人隐私保护的担忧。",
+      "whyImportant": "政府机构使用第三方数据分析平台处理敏感个人信息引发了公众对数据安全和隐私权的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7a81d0d8cf4b1304",
+      "title": "Cluster munitions kill, wound over 1,000 globally in 2025",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
+      "publishedAt": "2026-09-09T04:11:51.000Z",
+      "summary": "The 1,063 global casualties in 2025 one of the highest annual tolls on record, a report has found.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
+          "publishedAt": "2026-09-09T04:11:51.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "公共安全",
+        "专题·气候、环境与公共安全"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "公共安全"
+      ],
+      "fingerprint": "022ac8a4009e2a818ac6b8c6",
+      "isContinuation": false,
+      "titleZh": "2025年全球集束弹药造成超1000人伤亡",
+      "summaryZh": "一份最新报告显示，2025年全球共有1063人因集束弹药伤亡，创下历史最高纪录之一。该数据凸显了此类武器在冲突地区造成的严重人道主义后果。",
+      "whyImportant": "集束弹药造成的平民伤亡持续增加，引发了国际社会对加强武器管控和保护平民的呼吁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0e9b964933994dca",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T03:03:32.000Z",
+      "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-09T03:03:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 61,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "13d02775066529dde562e6f0",
+      "isContinuation": false,
+      "titleZh": "美国对加拿大酒精、摩托车及其他商品实施进口禁令",
+      "summaryZh": "作为美加贸易战的最新升级，美国宣布对加拿大多种商品实施进口禁令。此举是在加拿大对美国商品征收报复性关税后采取的对等措施。",
+      "whyImportant": "美加贸易摩擦升级可能对两国相关产业供应链及经济关系产生负面影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e5bd1d92efe87400",
+      "title": "Record-breaking rain disrupts daily life in Nagoya, Japan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_record-breaking-rain-disrupts-daily-life-in-nagoya-080926?traffic_source=rss",
+      "publishedAt": "2026-09-09T02:23:43.000Z",
+      "summary": "Record-breaking rainfall swamped the Japanese city of Nagoya dumping an all-time high of 105 mm of rain in a single hour",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_record-breaking-rain-disrupts-daily-life-in-nagoya-080926?traffic_source=rss",
+          "publishedAt": "2026-09-09T02:23:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -342,148 +377,566 @@
         "全球焦点",
         "突发"
       ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "660613910577392ca9c6a14b",
+      "fingerprint": "e89dbef8662761f6622dc5d0",
       "isContinuation": false,
-      "titleZh": "“被迫流离失所”：因慈善机构拖欠税款，澳大利亚原住民家庭面临被驱逐",
-      "summaryZh": "昆士兰州一地方议会因原住民福利机构拖欠近百万美元税款，计划拍卖24处房产以追回债务。受影响的家庭此前对债务情况并不知情，目前面临无家可归的风险。",
-      "whyImportant": "此事件引发了关于地方政府债务追讨方式对弱势群体影响的社会争议。",
+      "titleZh": "破纪录降雨扰乱日本名古屋日常生活",
+      "summaryZh": "日本名古屋市遭遇破纪录强降雨，一小时内降雨量达到创纪录的105毫米。极端天气导致当地交通和日常生活受到严重影响。",
+      "whyImportant": "极端气候事件频发对城市基础设施的防灾能力提出了严峻挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a92acc79c5f99aec",
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "id": "eb4259918403d4df",
+      "title": "Chinese sisters’ 86-page expose accuses PhD supervisor of affair with dad, academic misconduct",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366842/chinese-sisters-86-page-expose-accuses-phd-supervisor-affair-dad-academic-misconduct?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T01:19:27.000Z",
+      "summary": "A pair of Chinese sisters, aged 20 and 15, have exposed a decade-long affair between their father, a former professor at the prestigious Wuhan University, and his student, who is now a professor at the same institution. Recently, they published an 86-page expose of this affair online, sparking heated discussions across social media platforms. The sisters are targeting their father, Fu Lei, a 47-year-old former professor and doctoral supervisor at Wuhan University’s College of Chemistry and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366842/chinese-sisters-86-page-expose-accuses-phd-supervisor-affair-dad-academic-misconduct?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T01:19:27.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c0d56addbd98a35725d5374b",
+      "isContinuation": false,
+      "titleZh": "中国姐妹发布86页举报信，指控博士生导师与父亲有染及学术不端",
+      "summaryZh": "两名中国姐妹在网上发布长达86页的举报材料，指控其父亲（武汉大学前教授）与一名现任教授存在长达十年的不正当关系及学术不端行为。该事件在社交媒体上引发了广泛关注与讨论。",
+      "whyImportant": "高校师德师风及学术诚信问题再次成为公众关注的焦点。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7d26a0fc28178a1f",
+      "title": "Huawei goes on trial in US for racketeering after nearly decade of litigation",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366831/huawei-goes-trial-us-racketeering-after-nearly-decade-litigation?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T18:57:10.000Z",
+      "summary": "Chinese tech giant Huawei Technologies went on trial on Tuesday in Brooklyn, New York, on criminal charges after eight years of legal wrangling with the US government. The Shenzhen-based company has pleaded not guilty to all 14 counts, including bank fraud, wire fraud, trade secret theft, and racketeering, with the alleged criminal activity dating back to 1999. Jury selection began on Tuesday, local time, with US District Judge Ann M. Donnelly of the Eastern District of New York instructing...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366831/huawei-goes-trial-us-racketeering-after-nearly-decade-litigation?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T18:57:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "金融"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "431beb91bb7b73767fa2f11e",
+      "isContinuation": false,
+      "titleZh": "华为在美国面临敲诈勒索指控，近十年诉讼案正式开庭",
+      "summaryZh": "经过八年的法律纠纷，华为公司在美国纽约就银行欺诈、窃取商业机密及敲诈勒索等14项刑事指控正式受审。华为方面对所有指控均表示不认罪，目前案件已进入陪审团遴选阶段。",
+      "whyImportant": "此案是中美科技与法律博弈的重要组成部分，其审判结果将对华为的国际业务产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e3eb0954862b4a37",
+      "title": "Mamdani releases 170,000 pages of records regarding impact on air quality of 9/11 attacks",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release",
+      "publishedAt": "2026-09-09T00:40:03.000Z",
+      "summary": "Documents available through an online portal launched three days before the 25th anniversary of September 11 New York City mayor Zohran Mamdani’s administration has released more than 170,000 pages of municipal records involving the impact of the September 11 attacks on air quality health, as well as the city’s response. Mamdani announced the documents and an online portal for accessing them on Tuesday. The release comes alongside the settlement of two lawsuits pursued by 9/11 Health Watch, which fought for access to these long-withheld documents. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release",
+          "publishedAt": "2026-09-09T00:40:03.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "70d5bba268b4d953792d85b1",
+      "isContinuation": false,
+      "titleZh": "曼达尼发布17万页关于9/11袭击对空气质量影响的记录",
+      "summaryZh": "在9/11事件25周年纪念日前夕，纽约市长曼达尼政府发布了超过17万页的市政记录，详细说明了袭击对空气质量及健康的影响。此次公开是两起诉讼达成和解的结果，旨在回应长期以来公众对相关信息的知情权要求。",
+      "whyImportant": "此举有助于公众更全面地了解9/11事件后的环境健康影响及政府应对措施。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "15c0f06a7e2e6d94",
+      "title": "Hong Kong agencies warn of lingering Jakarta flight delays after volcano eruption",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366820/hong-kong-agencies-warn-lingering-jakarta-flight-delays-after-volcano-eruption?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T00:30:07.000Z",
+      "summary": "Some Hong Kong employment and travel companies have warned that air traffic in Jakarta could continue to face disruptions even after the Indonesian capital’s international airport reopened following a volcanic eruption that spewed ash into the sky, as airlines work through a backlog. GLC (Manado) Employment Service founder and director Chu Shek-yin told the South China Morning Post that he would not rush to book an air ticket for his client’s helper despite the resumption of operations at all...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366820/hong-kong-agencies-warn-lingering-jakarta-flight-delays-after-volcano-eruption?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T00:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "59cc968d2fd7dd0355e576e1",
+      "isContinuation": false,
+      "titleZh": "香港机构警告：火山喷发后雅加达航班延误或将持续",
+      "summaryZh": "尽管雅加达国际机场在火山喷发后已恢复运营，但香港就业和旅游公司警告称，由于航空公司需处理积压的航班，航空交通中断的情况可能持续。相关机构建议旅客近期谨慎安排行程，避免因航班不确定性造成损失。",
+      "whyImportant": "该预警提醒了受火山活动影响的旅客关注后续航班动态，以规避潜在的出行风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "china": [
+    {
+      "id": "ceab4c93e63f8e12",
+      "title": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
+      "publishedAt": "2026-09-09T04:04:45.000Z",
+      "summary": "The United States remains Taiwan's main international backer and arms supplier despite lack of formal diplomatic ties.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
+          "publishedAt": "2026-09-09T04:04:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 73,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ffd83f0b19e0e4e59a1eee39",
+      "isContinuation": false,
+      "titleZh": "美国事实上的大使警告：台海冲突将是灾难性的",
+      "summaryZh": "尽管缺乏正式外交关系，美国仍是台湾主要的国际支持者和武器供应方。美方官员强调，台海地区的冲突将带来严重的后果。",
+      "whyImportant": "此表态重申了美国对台海局势的高度关注及其对地区和平稳定的立场。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3df3f2032f5937c2",
+      "title": "Hong Kong a ‘2-way springboard’ between mainland China and world: John Lee",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366864/hong-kong-2-way-springboard-between-mainland-china-and-world-john-lee?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T04:01:48.000Z",
+      "summary": "Hong Kong will continue to serve as a gateway linking belt and road economies with mainland China and global markets, the chief executive has said, underscoring the city’s role in bringing together capital, talent and businesses to advance the national initiative. Speaking at the opening of the annual Belt and Road Summit on Wednesday, John Lee Ka-chiu said more than 60 government and business agreements and memorandums of understanding (MOUs) would be signed during the event, with the total...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366864/hong-kong-2-way-springboard-between-mainland-china-and-world-john-lee?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T04:01:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "金融"
+      ],
+      "score": 67,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "36bc94da71a5b7978196af78",
+      "isContinuation": false,
+      "titleZh": "李家超：香港是连接中国内地与世界的“双向跳板”",
+      "summaryZh": "香港特区行政长官李家超在“一带一路”高峰论坛上表示，香港将继续发挥门户作用，连接内地与全球市场。论坛期间预计将签署超过60份政府及商业协议，进一步推动资本、人才与企业的交流。",
+      "whyImportant": "这凸显了香港在国家“一带一路”倡议中作为国际金融与贸易枢纽的关键地位。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "abd1bd3469dbb93d",
+      "title": "Taiwan waits for its new F-16s, still stuck in Hawaii after a fortnight’s delay",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3366858/taiwan-waits-its-new-f-16s-still-stuck-hawaii-after-fortnights-delay?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T03:58:30.000Z",
+      "summary": "The first two F-16 Block 70 fighters bought by Taipei from the United States have yet to reach Taiwan, after spending more than two weeks in Hawaii for reasons that remain unclear. The aircraft, which were expected to arrive at Taiwan’s Chihhang Air Base in late August, were spotted preparing for departure at Joint Base Pearl Harbour-Hickam on Monday, raising expectations that the fighters were finally about to resume their journey. But the two single-seat F-16Cs, numbered 6727 and 6728,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3366858/taiwan-waits-its-new-f-16s-still-stuck-hawaii-after-fortnights-delay?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T03:58:30.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 63,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ac252ee98176003ba91f6b1c",
+      "isContinuation": false,
+      "titleZh": "台湾等待新购F-16战机，在夏威夷滞留两周仍未交付",
+      "summaryZh": "台湾从美国购买的首批两架F-16 Block 70战机在夏威夷停留超过两周，具体原因尚不明确。尽管近日有迹象显示战机准备启程，但交付进度仍存在不确定性。",
+      "whyImportant": "战机交付的延迟引发了外界对台美军事合作及装备部署进度的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cf1a60808eed78e1",
+      "title": "US, China trials suggest a single nanodrug shot might stop bad cholesterol forever",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3366811/us-china-trials-suggest-single-nanodrug-shot-might-stop-bad-cholesterol-forever?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T03:00:09.000Z",
+      "summary": "Imagine swapping your daily cholesterol pill for a single injection that keeps “bad” cholesterol under control for a year, a decade – or even a lifetime. Two clinical trials, one in the United States and another in China, suggest that this one-and-done approach could become a reality. Low-density lipoprotein cholesterol (LDL-C), better known as “bad” cholesterol, is a major driver of heart disease – the leading cause of death worldwide. Triglycerides, another type of blood fat, add to the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3366811/us-china-trials-suggest-single-nanodrug-shot-might-stop-bad-cholesterol-forever?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T03:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "72d5982d284d70c951faeb2e",
+      "isContinuation": false,
+      "titleZh": "美中临床试验显示：单次纳米药物注射或可终身控制坏胆固醇",
+      "summaryZh": "美中两国的临床试验表明，一种新型纳米药物有望通过单次注射，长期甚至终身控制低密度脂蛋白胆固醇（坏胆固醇）。这一突破性疗法若成功，将彻底改变心血管疾病的预防和治疗方式。",
+      "whyImportant": "该技术若获应用，将大幅降低全球心血管疾病的死亡率并简化患者的治疗流程。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "237cc940dbeb9b38",
+      "title": "Humble leader and role model for a generation: Hong Kong’s Tung Chee-hwa mourned",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3366843/tributes-pour-hong-kong-mourns-death-tung-chee-hwa-first-chief-executive?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T02:07:50.000Z",
+      "summary": "Tung Chee-hwa, Hong Kong’s first chief executive who oversaw the city’s 1997 return to Chinese rule, has died. According to a statement from his office issued in the early hours on Wednesday, he died on Tuesday at the age of 89, surrounded by his loved ones. It is understood that he died at the Hong Kong Sanatorium & Hospital. Tung was also a vice-chairman of China’s top political advisory body, the Chinese People’s Political Consultative Conference. In this live blog, the South China Morning...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3366843/tributes-pour-hong-kong-mourns-death-tung-chee-hwa-first-chief-executive?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T02:07:50.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "32ecd0ddb9164ae87c85a5b8",
+      "isContinuation": false,
+      "titleZh": "香港首任特首董建华逝世，享年89岁",
+      "summaryZh": "香港特别行政区首任行政长官董建华于周二在香港养和医院逝世，享年89岁。董建华曾领导香港回归后的平稳过渡，并担任全国政协副主席。",
+      "whyImportant": "董建华作为香港回归后的首位领导人，其逝世标志着香港历史一个重要时代的结束。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "usa": [
+    {
+      "id": "68c83cb2b519b2b1",
+      "title": "Trump slams Australia’s social media crackdown as ‘extortion’",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3366867/trump-slams-australias-social-media-crackdown-extortion?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T04:16:42.000Z",
+      "summary": "US President Donald Trump has condemned Australia’s recent moves to clamp down on social media – predominantly run by American tech companies – as “a form of extortion”, hinting at more threats to come. “President Trump has unequivocally warned trading partners against imposing digital services taxes, fines, and other forms of extortion on America’s leading technology sector,” White House economics spokesman Kush Desai said on Tuesday night, as reported by news.com.au. “The administration...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3366867/trump-slams-australias-social-media-crackdown-extortion?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T04:16:42.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 67,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d6a051b90033ece6f3560432",
+      "isContinuation": false,
+      "titleZh": "特朗普抨击澳大利亚的社交媒体监管为“勒索”",
+      "summaryZh": "美国总统特朗普批评澳大利亚近期针对美国科技公司的社交媒体监管措施，称其为“勒索”。白宫发言人表示，美方将反对任何针对美国科技行业的数字服务税或罚款行为。",
+      "whyImportant": "此举反映了美澳在数字经济监管政策上的分歧，可能影响两国未来的贸易关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6571d38341d6c95d",
+      "title": "Trump bans some Canadian goods, raises tariffs on others as trade war escalates",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3366840/trump-bans-some-canada-goods-puts-50-tariffs-others?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T00:01:49.000Z",
+      "summary": "US President Donald Trump on Tuesday escalated his trade war against Canada, banning imports of alcohol and various products and raising tariffs on others, with the conflict showing no sign of abating. Canadian Prime Minister Mark Carney stood firm, acknowledging that reducing economic ties with the United States would come at a cost but saying the benefits would outweigh the pain. A range of Canadian products, from mattresses to motorboats and golf carts, will be subject to a 50 per cent...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366840/trump-bans-some-canada-goods-puts-50-tariffs-others?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T00:01:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 64,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5b94c71b50b40531550cac81",
+      "isContinuation": false,
+      "titleZh": "特朗普升级贸易战，禁止部分加拿大商品并提高关税",
+      "summaryZh": "美国总统特朗普进一步升级对加贸易战，宣布禁止进口酒精及多种产品，并对床垫、摩托艇等商品加征50%关税。加拿大总理马克·卡尼表示，尽管减少与美国的经济联系会带来代价，但长期来看利大于弊。",
+      "whyImportant": "此举标志着美加贸易摩擦显著加剧，可能对两国经济及供应链产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b8129f5e12bfdb77",
+      "title": "President Trump Honors 9/11 Heroes and Renews America’s Vow to Never Forget",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/",
+      "publishedAt": "2026-09-08T18:11:32.000Z",
+      "summary": "Today, President Donald J. Trump stood with first responders, Gold Star families, and the Tunnel to Towers Foundation to honor the Americans who ran toward the fire on September 11, 2001. At his side was a 21-foot steel beam recovered from the wreckage of the South Tower — carried more than 10,500 miles on Tunnel […] The post President Trump Honors 9/11 Heroes and Renews America’s Vow to Never Forget appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/",
+          "publishedAt": "2026-09-08T18:11:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "be9ac8f0c47a303664bb3168",
+      "isContinuation": false,
+      "titleZh": "特朗普总统纪念“9·11”英雄并重申美国永不遗忘的誓言",
+      "summaryZh": "特朗普总统与急救人员、金星家庭及隧道至塔楼基金会共同纪念“9·11”事件。现场展示了一根从南塔残骸中回收的21英尺钢梁，以缅怀当年的遇难者与英雄。",
+      "whyImportant": "该活动旨在通过国家仪式重申美国对反恐历史的铭记与对牺牲者的敬意。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5af94d8a6d96b9d9",
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T01:50:55.000Z",
-      "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:11:41.000Z",
+      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-08T01:50:55.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-08T23:11:41.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "经济",
-        "金融"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f78f650b3337a3d0e0596582",
-      "isContinuation": false,
-      "titleZh": "英国政府预计将宣布限制与约旦河西岸定居点的贸易",
-      "summaryZh": "英国外交大臣米利班德预计将公布限制与约旦河西岸定居点贸易的提案。此举可能引发以色列方面的报复性回应。",
-      "whyImportant": "英国对定居点贸易的限制政策可能导致其与以色列的外交关系出现摩擦。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "da70b0e0306ea4df",
-      "title": "Burnham risks friction with Trump over Israeli West Bank settlement sanctions",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T22:42:58.000Z",
-      "summary": "UK Prime Minister Andy Burnham’s government is expected to ban trade with Israeli settlements in the West Bank on Tuesday as he seeks to adopt a stronger policy on an issue that is important to his governing Labour Party but may anger US President Donald Trump. A new sanctions regime targeting Israel but limited to Jewish settlements in the West Bank will be announced by Foreign Secretary Ed Miliband, according to people familiar with the matter. Burnham and Trump spoke by phone on Monday,...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T22:42:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "经济",
-        "金融"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f7d741a9dbd86476fe7b1217",
-      "isContinuation": false,
-      "titleZh": "伯纳姆因以色列约旦河西岸定居点制裁面临与特朗普产生摩擦的风险",
-      "summaryZh": "英国首相伯纳姆政府计划宣布对以色列约旦河西岸定居点实施贸易制裁。尽管此举符合工党政策，但可能引发美国总统特朗普的不满。",
-      "whyImportant": "该政策在满足国内政治诉求的同时，可能对英美双边关系带来外交挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1fea33a4ec475f2d",
-      "title": "Can Japan, South Korea move past the ‘comfort women’ issue?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T01:30:10.000Z",
-      "summary": "South Korean citizens’ groups have called for the abuse of wartime “comfort women” to be recognised by Unesco, as analysts say the ongoing feud between Seoul and Tokyo threatens to upset recent improvements in their relations. They also suggest that the two nations would benefit from working together at a time of unprecedented regional and global security and economic challenges, although they admit that may be impossible. On Sunday, a coalition of South Korean citizens’ groups called on the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T01:30:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
+        "美国重点",
         "军事与安全"
       ],
       "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "75e7231d73ea5002fe5dbce0",
+      "fingerprint": "a0d55e95e3579e835a21a7f6",
       "isContinuation": false,
-      "titleZh": "日本和韩国能否跨越“慰安妇”问题？",
-      "summaryZh": "韩国民间团体呼吁将“慰安妇”受害者记录列入联合国教科文组织名录，分析人士担忧此举将影响日韩近期改善的关系。尽管两国在安全与经济领域面临共同挑战，但历史遗留问题仍是双边合作的重大障碍。",
-      "whyImportant": "历史问题的持续发酵限制了日韩在地区安全与经济合作上的深度整合。",
+      "titleZh": "海格塞斯正在重塑五角大楼，但代价几何？",
+      "summaryZh": "随着美国卷入战争，国防部长海格塞斯对五角大楼进行的重大调整引发关注。外界分析认为，这种军事层面的动荡可能会对特朗普的第二个任期产生深远影响。",
+      "whyImportant": "五角大楼的人事与政策变动直接关系到美国当前的军事战略及政府的政治遗产。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4893d42812308ad3",
-      "title": "Hong Kong families hit as volcanic ash strands up to 200 helpers in Indonesia",
+      "id": "edf74b595b7412bc",
+      "title": "Singapore man Malone Lam pleads guilty after massive US bitcoin heist and spending spree",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T04:22:37.000Z",
-      "summary": "Up to 200 Hong Kong-bound domestic helpers remain stranded in Indonesia despite the reopening of several affected airports, as the city’s employment agencies association braces for possible further closures due to volcanic ash. The Indonesian transport ministry said Jakarta’s Soekarno-Hatta International Airport resumed operations on Tuesday after being shut for several days, following the eruption of Mount Anak Krakatoa on Saturday, which affected thousands of travellers. Among those stranded...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366830/singapore-man-malone-lam-pleads-guilty-after-massive-us-bitcoin-heist-and-spending-spree?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T18:31:00.000Z",
+      "summary": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington resident – one of the largest cryptocurrency thefts in US history – and then embarking on a wild spending spree with the laundered proceeds. Malone Lam, an eighth-grade dropout who came to the US from Singapore, faces a maximum prison sentence of 20 years after pleading guilty to a federal racketeering conspiracy charge. US District Judge Colleen...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T04:22:37.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366830/singapore-man-malone-lam-pleads-guilty-after-massive-us-bitcoin-heist-and-spending-spree?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T18:31:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "金融",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a1f28d3fefa1d25e850d8b93",
+      "isContinuation": false,
+      "titleZh": "新加坡男子马龙·林承认参与大规模比特币盗窃及挥霍案",
+      "summaryZh": "22岁的新加坡籍男子马龙·林承认参与了美国历史上最大的加密货币盗窃案之一，涉案金额近2.5亿美元。他因联邦敲诈勒索共谋罪面临最高20年的监禁。",
+      "whyImportant": "此案凸显了加密货币领域面临的安全威胁及跨国网络犯罪的严重性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "watch": [
+    {
+      "id": "bdfa36c6b7271e9b",
+      "title": "Hong Kong's first leader after British handover dies",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T04:24:30.000Z",
+      "summary": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-09T04:24:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -493,564 +946,69 @@
       "tags": [
         "中国重点"
       ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "6ee9da72b98ba48e9d52994d",
+      "fingerprint": "ba92f66d9ad2a12f6f5aa91c",
       "isContinuation": false,
-      "titleZh": "印尼火山灰导致航班中断，约200名赴港外佣滞留",
-      "summaryZh": "受喀拉喀托之子火山喷发影响，尽管部分机场已恢复运营，仍有约200名原定前往香港的外籍佣工滞留在印尼。香港就业中介协会正密切关注局势，以防火山灰导致进一步的机场关闭。",
-      "whyImportant": "此次事件影响了香港家庭的劳动力供应，并凸显了自然灾害对跨境人员流动的潜在干扰。",
+      "titleZh": "香港回归后首任行政长官逝世",
+      "summaryZh": "香港回归后的首任行政长官董建华逝世。他在任期间，香港经历了多次重大危机与社会抗议活动。",
+      "whyImportant": "董建华作为“一国两制”在港实施的首位领导人，其离世标志着香港历史一个重要时期的结束。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a7cddb680793c24c",
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-      "publishedAt": "2026-09-07T21:17:12.000Z",
-      "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+      "id": "21251e682bc859c3",
+      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides",
+      "publishedAt": "2026-09-09T04:20:59.000Z",
+      "summary": "The president’s substantial holiday gifts to four White House aides were made public via financial disclosures released by the administration Donald Trump gave sizable holiday gifts to four White House aides, according to new financial disclosures released by the administration, including $45,000 to executive assistant Natalie Harp. Communications adviser Margo Martin and deputy director of Oval Office operations Chamberlain Harris also received $45,000, while director of Oval Office operations Walt Nauta received a $20,000 gift. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-          "publishedAt": "2026-09-07T21:17:12.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides",
+          "publishedAt": "2026-09-09T04:20:59.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "能源",
-        "专题·科技、能源与产业"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "能源"
-      ],
-      "fingerprint": "9200680e0ca476f5c02b36cc",
-      "isContinuation": false,
-      "titleZh": "美伊在霍尔木兹海峡冲突加剧，油价飙升",
-      "summaryZh": "由于美伊双方在霍尔木兹海峡的冲突升级，导致航运受阻，国际油价已攀升至六周以来的最高水平。",
-      "whyImportant": "霍尔木兹海峡作为全球能源运输的关键通道，其局势动荡直接威胁全球能源供应安全并推高油价。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "china": [
-    {
-      "id": "ba74aa7be032448a",
-      "title": "Hong Kong a boon to Kazakhstan’s advanced manufacturing ambitions, ties to Europe: expert",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T04:00:13.000Z",
-      "summary": "Hong Kong firms could look to Kazakhstan as a base for advanced manufacturing and as a gateway to Europe, while the city’s robust capital markets could attract businesses in the Central Asian country, a diplomat and business adviser has said. Sabr Yessimbekov, adviser to the chairman of the presidium of the National Chamber of Entrepreneurs of the Republic of Kazakhstan, told the South China Morning Post on the sidelines of the inaugural China Conference: Central Asia 2026 that some projects in...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T04:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0a76bfd1ceb1854baab07d60",
-      "isContinuation": false,
-      "titleZh": "专家：香港可助力哈萨克斯坦发展先进制造业并加强与欧洲联系",
-      "summaryZh": "专家指出，哈萨克斯坦可利用香港作为先进制造业基地及通往欧洲的门户。同时，香港强大的资本市场有望吸引更多哈萨克斯坦企业寻求融资与合作。",
-      "whyImportant": "此举反映了“一带一路”沿线国家与香港在深化经贸合作及产业互补方面的战略意图。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "be380f52201413ee",
-      "title": "Chinese PLA aircraft to headline Egypt air show in display of export potential",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T04:00:10.000Z",
-      "summary": "Fresh off a joint air drill, China will for the first time showcase several PLA Air Force aircraft overseas at an air show this week. The featured aircraft were selected for the air show in Egypt to demonstrate the air force’s integrated combat abilities and export potential, according to a military analyst. China’s armed forces on Tuesday posted pictures of Z-20, J-16, YY-20, and KJ-500 with its social media postings about the El Alamein International Airshow. The PLA Air Force said the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T04:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cec0200b9a3db8819e75de35",
-      "isContinuation": false,
-      "titleZh": "中国空军多型战机将亮相埃及航展，展示出口潜力",
-      "summaryZh": "中国空军将首次在海外航展上展示包括歼-16、运-20等在内的多型主力战机。军事分析人士认为，此举旨在展示中国空军的综合战斗能力及相关装备的出口潜力。",
-      "whyImportant": "这标志着中国军事外交与国防工业出口战略的进一步拓展，旨在提升中国制造在国际军贸市场的影响力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fc9bd9ae9a5c6228",
-      "title": "时代 · 人民 · 文明 中国元首外交的思想启迪 - 中国侨网",
-      "source": "chinaqw.com",
-      "url": "https://www.chinaqw.com/yw/2026/09-07/411108.shtml",
-      "publishedAt": "2026-09-07T12:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "chinaqw.com",
-          "url": "https://www.chinaqw.com/yw/2026/09-07/411108.shtml",
-          "publishedAt": "2026-09-07T12:45:00.000Z"
-        },
-        {
-          "source": "cqnews.net",
-          "url": "https://www.cqnews.net/web/content_1546538877895704576.html",
-          "publishedAt": "2026-09-07T09:30:00.000Z"
-        },
-        {
-          "source": "news.hangzhou.com.cn",
-          "url": "https://news.hangzhou.com.cn/szxw/content/content_9300999.htm",
-          "publishedAt": "2026-09-07T09:15:00.000Z"
-        },
-        {
-          "source": "news.sina.com.cn",
-          "url": "https://news.sina.com.cn/gov/xlxw/2026-09-07/doc-iniqyvru9532197.shtml",
-          "publishedAt": "2026-09-07T08:30:00.000Z"
-        }
-      ],
-      "sourceCount": 4,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0eb6381972722de1f27c0ac1",
-      "isContinuation": false,
-      "titleZh": "时代 · 人民 · 文明 中国元首外交的思想启迪",
-      "summaryZh": "文章探讨了中国元首外交在时代变迁、人民福祉及文明交流方面的核心思想。通过外交实践，阐述了中国对构建人类命运共同体的深刻理解与贡献。",
-      "whyImportant": "该文阐释了中国当前外交政策的理论基础及其对全球治理的指导意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7690493c55e16ce4",
-      "title": "In Gyirong Port, small items speak of the human cost of the China-Nepal disaster",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T03:13:40.000Z",
-      "summary": "“I do not want to stop [searching]. If I pause, I start thinking about my brothers and sisters and all the moments of my life here.” Gui Xinwei, deputy chief of the Gyirong Border Inspection Station, was speaking to Chinese state broadcaster CCTV from the ruins of his workplace, seven days after the devastating mudslide erased the port crossing where China and Nepal meet. “I just don’t want to stop.” Gui was away on holiday on August 26 when a glacier collapsed in Nepal, triggering a massive...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T03:13:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "公共安全"
-      ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "12a661f016a175fe0868cc17",
-      "isContinuation": false,
-      "titleZh": "吉隆口岸：中尼灾难背后的人文代价",
-      "summaryZh": "尼泊尔冰川崩塌引发的泥石流摧毁了中尼边境的吉隆口岸。边检站工作人员在废墟中坚持搜救，讲述了灾难给当地带来的深重创伤与人员损失。",
-      "whyImportant": "该报道通过个体视角展现了自然灾害对边境贸易枢纽及相关人员生活的毁灭性影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c8a2abae0e1966a2",
-      "title": "Kazakhstan aims to become education hub, but experts say jobs must match skills",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T16:14:24.000Z",
-      "summary": "Kazakhstan is aiming to become an education powerhouse in Central Asia but efforts must also ensure young people have sufficient access to opportunities that match their skill sets amid the country’s rapid economic transformation, experts have said. Educators and advocates added that further collaboration with Hong Kong and mainland Chinese universities was in the pipeline, with growing demand for specialists who understood the business environments of both Kazakhstan and China. The comments...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T16:14:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "环境",
-        "国际组织"
+        "美国重点"
       ],
       "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8ac589b6bd2e4ac5b3db114e",
+      "fingerprint": "b4527f0df5b68977fe917941",
       "isContinuation": false,
-      "titleZh": "哈萨克斯坦力争成为教育中心，专家强调就业匹配至关重要",
-      "summaryZh": "哈萨克斯坦正致力于成为中亚教育强国，但专家提醒，必须确保年轻人的技能与市场需求相匹配。此外，哈萨克斯坦正寻求与中国及香港高校加强合作，以培养跨国商业人才。",
-      "whyImportant": "教育转型是哈萨克斯坦经济多元化的关键，其与中国教育资源的对接将促进区域人才流动与经济融合。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "usa": [
-    {
-      "id": "8c2872e4b8995f22",
-      "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-      "publishedAt": "2026-09-08T04:01:12.000Z",
-      "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between US president Donald Trump and Canadian prime minister Mark Carney. The tariffs took effect at 12.01am on Tuesday, and range from 15% to 50% and apply to products covering $20bn in imports from the US. The measures target sectors including steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics – industries that have been most affected by US tariffs. Continue reading...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-          "publishedAt": "2026-09-08T04:01:12.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-          "publishedAt": "2026-09-08T04:00:59.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366693/canada-set-hit-back-trump-tariffs-risking-wider-trade-war?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T20:08:51.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济"
-      ],
-      "score": 74,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "54a1941095bfc83695aed2be",
-      "isContinuation": false,
-      "titleZh": "加拿大对价值200亿美元的美国商品实施报复性关税",
-      "summaryZh": "针对美国此前宣布的关税措施，加拿大正式对价值200亿美元的美国进口商品征收15%至50%的报复性关税。此次贸易争端涉及钢铁、乳制品及电子产品等多个行业。",
-      "whyImportant": "美加贸易摩擦的升级加剧了北美地区的经济不确定性，并可能对相关产业链造成深远影响。",
+      "titleZh": "特朗普向娜塔莉·哈普等白宫助手赠送4.5万美元节日礼金",
+      "summaryZh": "根据白宫披露的财务报告，特朗普总统向四名白宫助手发放了数额可观的节日礼金。其中，执行助理娜塔莉·哈普、通讯顾问玛戈·马丁及副主任钱伯兰·哈里斯各获得4.5万美元。",
+      "whyImportant": "此举引发了公众对白宫内部财务往来及总统与核心幕僚之间利益关系的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "590d5bd95a0ae82e",
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T01:32:56.000Z",
-      "summary": "The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot went on trial Monday, two years after their killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. They had been camping in a remote beachside area when they were attacked in April 2024. Their bodies...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-08T01:32:56.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3366691/alleged-killers-australian-us-surfers-go-trial-mexico?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T18:56:05.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发"
-      ],
-      "score": 72,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d4121bbc6c942afd693a3c3e",
-      "isContinuation": false,
-      "titleZh": "墨西哥审理两名澳大利亚冲浪者及一名美国人被杀案",
-      "summaryZh": "两年前，两名澳大利亚兄弟和一名美国友人在墨西哥下加利福尼亚州冲浪时遭抢劫并被枪杀。涉嫌谋杀这三人的嫌疑人已于周一正式受审。",
-      "whyImportant": "此案引发了国际社会对墨西哥旅游安全状况的持续关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a04e18730da01f49",
-      "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
-      "publishedAt": "2026-09-08T03:08:28.000Z",
-      "summary": "US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
-          "publishedAt": "2026-09-08T03:08:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ba0af44ab231c4ddae5afd82",
-      "isContinuation": false,
-      "titleZh": "美国特使访问期间暂停期结束，俄罗斯对基辅发动致命袭击",
-      "summaryZh": "在美方特使访问期间的短暂平静结束后，俄罗斯恢复了对基辅的袭击。美国官员表示，尽管局势紧张，但对后续的谈判进展仍持鼓励态度。",
-      "whyImportant": "袭击事件凸显了俄乌冲突的持续动荡及外交斡旋的复杂性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "caac094df00161e4",
-      "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-      "publishedAt": "2026-09-08T02:00:24.000Z",
-      "summary": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-          "publishedAt": "2026-09-08T02:00:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 56,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c2cb6bc15c4daa254d3de99c",
-      "isContinuation": false,
-      "titleZh": "“我听到了很大的响声”：墨西哥开始审理涉嫌杀害澳大利亚冲浪者及美国友人的案件",
-      "summaryZh": "2024年，两名澳大利亚兄弟和一名美国友人在墨西哥冲浪时遇害，受害者家属出席了周一的庭审。三名被告被指控在抢劫过程中杀害了这三名受害者。",
-      "whyImportant": "该案件的审理过程受到国际媒体高度关注，涉及跨国犯罪的司法公正问题。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "61f246e99846ca91",
-      "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
-      "publishedAt": "2026-09-07T19:59:07.000Z",
-      "summary": "Advocacy groups expand legal challenges and condemn president’s ‘self-serving attempts to take over midterms’ A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald Trump’s authoritarian executive orders on voting and other presidential actions they see as a “war” on the rule of law in the US. Heavy legal opposition to Trump’s two executive orders on elections to curb voting rights and supplant the authority of states on election matters has come from the Democracy Defenders Fund, the Campaign Legal Center, the American Civil Liberties Union and kindred groups. This article was updated on 7 September 2026 to reflect that members of the Democratic Attorneys General Association have filed suit, not the Daga itself. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
-          "publishedAt": "2026-09-07T19:59:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "02c50d26b4c335373ae1ef65",
-      "isContinuation": false,
-      "titleZh": "法律界资深人士联手反击特朗普对民主的“全面攻击”",
-      "summaryZh": "由资深律师、选举专家和前法官组成的倡导团体，正通过法律途径挑战特朗普关于选举的行政命令。他们认为这些命令旨在削弱投票权并干预州级选举权力，是对法治的破坏。",
-      "whyImportant": "此举反映了美国法律界与行政当局在选举制度和民主原则上的激烈对抗。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "watch": [
-    {
-      "id": "70261b63d135265d",
-      "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
-      "source": "DW",
-      "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-09-07T15:03:00.000Z",
-      "summary": "Ratko Mladic, the Bosnian Serb commander who died while serving a life sentence for war crimes, was buried on Monday with military honours and crowds attending as Serbia defied European Union warnings against allowing public homage to the man found guilty of the continent’s first case of genocide since World War II. Thousands of mourners started arriving early at the small Serbian Orthodox Church of St. Luke in Belgrade to honour Mladic as his body lay in state. Mladic is still viewed as a hero...",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-09-07T15:03:00.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3366676/war-criminal-mladic-buried-military-honours-serbia-despite-eu-warnings?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T14:18:53.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "74351ae503d3dd0e2720cbcb",
-      "isContinuation": false,
-      "titleZh": "战犯拉特科·姆拉迪奇在塞尔维亚贝尔格莱德获军礼葬礼",
-      "summaryZh": "因战争罪被判终身监禁的波斯尼亚塞族指挥官拉特科·姆拉迪奇在贝尔格莱德下葬，现场举行了军事仪式。尽管欧盟发出警告，塞尔维亚仍允许为其举行公开悼念活动。",
-      "whyImportant": "此举引发了国际社会对巴尔干地区历史遗留问题及民族主义情绪的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "02207ff2c3f2aa62",
-      "title": "Cross-sector push needed for youth facing ‘paradox of AI fluency’: minister",
+      "id": "acae49ae4d6f6835",
+      "title": "‘Flying doctor’ helicopter crash in Malaysia kills 5 people",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T11:53:19.000Z",
-      "summary": "Hong Kong’s labour secretary has called for greater cross-sector efforts to help young people gain job experience amid disruption caused by artificial intelligence (AI), while Singapore’s trade minister has urged embracing a “continuous learning” mindset. Speaking at the Hong Kong Jockey Club’s PBC (Philanthropy for Better Cities) Forum 2026 on Monday, the city’s Secretary for Labour and Welfare Chris Sun Yuk-han said that higher education alone was no longer enough to ensure career success in...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366852/flying-doctor-helicopter-crash-malaysia-kills-5-people?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T02:28:31.000Z",
+      "summary": "Five people, including medical ⁠staff, died after a “flying ⁠doctor” service helicopter crashed in Malaysia on Tuesday, authorities and state news agency reports said, as haze from wildfires complicated search efforts. Health Minister Dzulkefly Ahmad in a statement ‌said initial information showed a pilot and four ministry staff were aboard the chopper that crashed near Sarawak state’s Long Lellang short take-off and landing airport. Among them were a medical officer, an assistant medical...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T11:53:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "artificial intelligence",
-        "科技"
-      ],
-      "fingerprint": "3caba8c5ec1e9f50825d91cd",
-      "isContinuation": false,
-      "titleZh": "部长呼吁跨部门协作，应对青年面临的“人工智能流利度悖论”",
-      "summaryZh": "香港劳工及福利局局长指出，仅靠高等教育已不足以确保职业成功，呼吁各界帮助青年积累工作经验。新加坡贸易部长则强调，面对人工智能带来的颠覆，应保持持续学习的心态。",
-      "whyImportant": "该讨论反映了全球劳动力市场在人工智能冲击下对人才培养模式的重新思考。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3dde4a819a56591c",
-      "title": "Majority of Tory and Reform voters do not back cuts to disability benefits, survey finds",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
-      "publishedAt": "2026-09-08T04:00:26.000Z",
-      "summary": "Nearly half of respondents say spending on personal independence payments should be increased There is little appetite for cuts to disability benefits even among Conservative and Reform voters, and proposals to reduce spending could prove politically risky, according to an authoritative national survey. The British Social Attitudes (BSA) report found that while support for welfare spending as a whole had dipped sharply in recent years, just 7% of respondents backed cuts to disability benefits – and 49% said they should be increased. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
-          "publishedAt": "2026-09-08T04:00:26.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366852/flying-doctor-helicopter-crash-malaysia-kills-5-people?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T02:28:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1059,26 +1017,30 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "环境",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 56,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1a06cfc6c840a51ae987b144",
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "wildfire",
+        "环境"
+      ],
+      "fingerprint": "c3ba9d614fce153674cb1407",
       "isContinuation": false,
-      "titleZh": "调查显示多数保守党和改革党选民不支持削减残疾人福利",
-      "summaryZh": "英国社会态度报告显示，即使在保守党和改革党选民中，支持削减残疾人福利的人数也极少。近半数受访者认为应增加对残疾人的个人独立津贴。",
-      "whyImportant": "调查结果表明，削减残疾人福利在英国政坛可能面临巨大的政治风险。",
+      "titleZh": "马来西亚一架“飞行医生”直升机坠毁，造成5人死亡",
+      "summaryZh": "马来西亚一架执行任务的“飞行医生”直升机在砂拉越州坠毁，机上5人全部遇难。受野火烟霾影响，搜救工作面临较大困难。",
+      "whyImportant": "此次空难造成医疗人员重大伤亡，并凸显了偏远地区医疗服务面临的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 172,
-    "deduplicated": 163,
+    "fetched": 156,
+    "deduplicated": 151,
     "selected": 23,
     "translated": 23,
     "untranslated": 0,
@@ -1089,19 +1051,19 @@
   },
   "items": [
     {
-      "id": "b23b07a359360c74",
-      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-      "publishedAt": "2026-09-08T04:00:27.000Z",
-      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia. Since late April there have been eight hijackings by Somali pirates, including two within the space of a fortnight in August: one targeting an oil tanker with ties to Iran, the other a Cameroon-flagged vessel, the Lutuf, carrying military equipment for Turkey. Continue reading...",
+      "id": "b67d1e894892cb82",
+      "title": "Singapore police question 5 over racist comments on Nepal floods, Air India investment",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366861/singapore-police-question-5-over-racist-comments-nepal-floods-air-india-investment?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T03:48:25.000Z",
+      "summary": "The police have identified and interviewed five people over online comments relating to the Nepal floods and discussions surrounding Singapore Airlines’ (SIA) investment in Air India. Senior Minister K Shanmugam said on Saturday that the police were looking into “shameful” racist and xenophobic online comments about the Nepal-Tibet disaster and SIA’s investment in Air India. In response to media queries, the police on Wednesday confirmed they received police reports and are investigating certain...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-          "publishedAt": "2026-09-08T04:00:27.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366861/singapore-police-question-5-over-racist-comments-nepal-floods-air-india-investment?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T03:48:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1110,42 +1072,42 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "科技",
-        "能源",
-        "专题·科技、能源与产业"
+        "环境",
+        "公共安全",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 71,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 66,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": true,
       "topicKeywords": [
-        "space",
-        "科技",
-        "能源"
+        "flood",
+        "disaster",
+        "环境",
+        "公共安全"
       ],
-      "fingerprint": "7f3c7ff43f9e67f45e71f85b",
+      "fingerprint": "aeed0eb469a36a176b84fb44",
       "isContinuation": false,
-      "titleZh": "海盗利用地区混乱重返索马里海域",
-      "summaryZh": "受美以与伊朗冲突导致的航运中断及索马里政局不稳影响，索马里海盗活动激增至十年来的最高水平。自四月下旬以来，已发生八起劫持事件，目标包括油轮及载有军事装备的货船。",
-      "whyImportant": "索马里海盗活动的复苏对全球航运安全和地区稳定构成了新的威胁。",
+      "titleZh": "新加坡警方就针对尼泊尔洪水和印度航空投资的种族主义言论传唤5人",
+      "summaryZh": "新加坡警方正在调查五名涉嫌在网上发表针对尼泊尔洪水及新加坡航空投资印度航空相关种族主义和仇外言论的人员。新加坡内政部长尚穆根谴责了这些言论，并确认警方已介入调查。",
+      "whyImportant": "此事件反映了新加坡政府对维护社会种族和谐与打击网络仇恨言论的零容忍态度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a7cddb680793c24c",
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+      "id": "7a81d0d8cf4b1304",
+      "title": "Cluster munitions kill, wound over 1,000 globally in 2025",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-      "publishedAt": "2026-09-07T21:17:12.000Z",
-      "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
+      "publishedAt": "2026-09-09T04:11:51.000Z",
+      "summary": "The 1,063 global casualties in 2025 one of the highest annual tolls on record, a report has found.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-          "publishedAt": "2026-09-07T21:17:12.000Z"
+          "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
+          "publishedAt": "2026-09-09T04:11:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1154,127 +1116,79 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "能源",
-        "专题·科技、能源与产业"
+        "公共安全",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": true,
       "topicKeywords": [
-        "能源"
+        "公共安全"
       ],
-      "fingerprint": "9200680e0ca476f5c02b36cc",
+      "fingerprint": "022ac8a4009e2a818ac6b8c6",
       "isContinuation": false,
-      "titleZh": "美伊在霍尔木兹海峡冲突加剧，油价飙升",
-      "summaryZh": "由于美伊双方在霍尔木兹海峡的冲突升级，导致航运受阻，国际油价已攀升至六周以来的最高水平。",
-      "whyImportant": "霍尔木兹海峡作为全球能源运输的关键通道，其局势动荡直接威胁全球能源供应安全并推高油价。",
+      "titleZh": "2025年全球集束弹药造成超1000人伤亡",
+      "summaryZh": "一份最新报告显示，2025年全球共有1063人因集束弹药伤亡，创下历史最高纪录之一。该数据凸显了此类武器在冲突地区造成的严重人道主义后果。",
+      "whyImportant": "集束弹药造成的平民伤亡持续增加，引发了国际社会对加强武器管控和保护平民的呼吁。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "02207ff2c3f2aa62",
-      "title": "Cross-sector push needed for youth facing ‘paradox of AI fluency’: minister",
+      "id": "acae49ae4d6f6835",
+      "title": "‘Flying doctor’ helicopter crash in Malaysia kills 5 people",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T11:53:19.000Z",
-      "summary": "Hong Kong’s labour secretary has called for greater cross-sector efforts to help young people gain job experience amid disruption caused by artificial intelligence (AI), while Singapore’s trade minister has urged embracing a “continuous learning” mindset. Speaking at the Hong Kong Jockey Club’s PBC (Philanthropy for Better Cities) Forum 2026 on Monday, the city’s Secretary for Labour and Welfare Chris Sun Yuk-han said that higher education alone was no longer enough to ensure career success in...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366852/flying-doctor-helicopter-crash-malaysia-kills-5-people?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T02:28:31.000Z",
+      "summary": "Five people, including medical ⁠staff, died after a “flying ⁠doctor” service helicopter crashed in Malaysia on Tuesday, authorities and state news agency reports said, as haze from wildfires complicated search efforts. Health Minister Dzulkefly Ahmad in a statement ‌said initial information showed a pilot and four ministry staff were aboard the chopper that crashed near Sarawak state’s Long Lellang short take-off and landing airport. Among them were a medical officer, an assistant medical...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T11:53:19.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366852/flying-doctor-helicopter-crash-malaysia-kills-5-people?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T02:28:31.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "专题·科技、能源与产业"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": true,
-      "topicKeywords": [
-        "artificial intelligence",
-        "科技"
-      ],
-      "fingerprint": "3caba8c5ec1e9f50825d91cd",
-      "isContinuation": false,
-      "titleZh": "部长呼吁跨部门协作，应对青年面临的“人工智能流利度悖论”",
-      "summaryZh": "香港劳工及福利局局长指出，仅靠高等教育已不足以确保职业成功，呼吁各界帮助青年积累工作经验。新加坡贸易部长则强调，面对人工智能带来的颠覆，应保持持续学习的心态。",
-      "whyImportant": "该讨论反映了全球劳动力市场在人工智能冲击下对人才培养模式的重新思考。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "01edd8a066573edf",
-      "title": "North Korea and Russia open first road bridge linking both countries",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T03:53:27.000Z",
-      "summary": "Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine Russia and North Korea have opened the first road bridge across their shared border, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine. The one-kilometre bridge spans the Tumen River between Khasan in Russia’s far east and Tumangang in North Korea, along a remote and sparsely populated stretch of the countries’ shared border just a few miles from the coast. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-08T03:53:27.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3366679/north-korea-russia-open-first-road-bridge-new-symbol-friendship?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T15:00:18.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
-          "publishedAt": "2026-09-07T09:53:53.000Z"
-        }
-      ],
-      "sourceCount": 3,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全"
+        "环境",
+        "专题·气候、环境与公共安全"
       ],
-      "score": 69,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "57f3ff1d0e98caa2524fc80b",
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": true,
+      "topicKeywords": [
+        "wildfire",
+        "环境"
+      ],
+      "fingerprint": "c3ba9d614fce153674cb1407",
       "isContinuation": false,
-      "titleZh": "朝鲜与俄罗斯开通首座跨境公路桥",
-      "summaryZh": "俄罗斯与朝鲜在图们江上开通了首座公路桥，连接俄远东哈桑与朝鲜豆满江。这是自乌克兰战争爆发以来，两国关系迅速深化的最新迹象。",
-      "whyImportant": "此举标志着俄朝两国在边境基础设施建设上的合作，反映了双方战略关系的进一步紧密。",
+      "titleZh": "马来西亚一架“飞行医生”直升机坠毁，造成5人死亡",
+      "summaryZh": "马来西亚一架执行任务的“飞行医生”直升机在砂拉越州坠毁，机上5人全部遇难。受野火烟霾影响，搜救工作面临较大困难。",
+      "whyImportant": "此次空难造成医疗人员重大伤亡，并凸显了偏远地区医疗服务面临的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "21e2ab7f4e1537ae",
-      "title": "Russia resumes strikes on Kyiv after pause for Trump envoys’ visit",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T03:59:14.000Z",
-      "summary": "A wave of strong explosions rang out in Kyiv early Tuesday as Russia resumed strikes on the Ukrainian capital after a three-day halt. Russian President Vladimir Putin had ordered the pause in attacks as US President Donald Trump’s envoys Steve Witkoff and Jared Kushner visited the Russian and Ukrainian capitals at the weekend. The fresh explosions triggered fires and car alarms in the city, and Kyiv’s mayor Vitali Klitschko said that six people were wounded. The Ukrainian army’s air force...",
+      "id": "ef9d82a7dbc9702a",
+      "title": "Iran war live: US, Iran attack oil tankers; crude heads to $100",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "summary": "Iran's IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T03:59:14.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+          "publishedAt": "2026-09-09T00:00:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1284,35 +1198,36 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "军事与安全",
+        "能源"
       ],
-      "score": 66,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 68,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "42e27666cb853d770dbd76e1",
+      "fingerprint": "e0a7a357151d6f01dd734865",
       "isContinuation": false,
-      "titleZh": "俄罗斯在特朗普特使访问结束后恢复对基辅的袭击",
-      "summaryZh": "在特朗普特使结束访问后的三天暂停期后，俄罗斯恢复了对基辅的空袭。此次袭击造成多人受伤，并引发了城市多处的火灾。",
-      "whyImportant": "袭击的恢复表明俄乌冲突的紧张局势并未因外交斡旋而得到实质性缓解。",
+      "titleZh": "伊朗战争直播：美伊互相攻击油轮，原油价格冲向100美元",
+      "summaryZh": "伊朗伊斯兰革命卫队警告科威特和巴林的油轮船员尽快撤离，并威胁称将对美国袭击后的船只进行报复。这一局势升级导致全球原油价格大幅上涨。",
+      "whyImportant": "中东地区紧张局势加剧可能引发全球能源供应危机并推高通胀。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "dd048c311224a370",
-      "title": "Australia politics live: Labor unveils ‘my feed, my way’ rules to allow everyone to opt in or out of social media algorithms",
+      "id": "8700b40fc5c45181",
+      "title": "NDIS data may have ended up in Palantir’s analytics platform as part of efforts to curb fraud",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-      "publishedAt": "2026-09-08T04:07:30.000Z",
-      "summary": "Follow the day’s news live One Nation policy will leave people $25k worse off at retirement, Mulino says Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage. It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement. To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off. I’m deeply sceptical of giving any government, whether I was in charge, or Anika Wells is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/09/ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-to-curb",
+      "publishedAt": "2026-09-09T01:09:16.000Z",
+      "summary": "Exclusive: The Australian Criminal Intelligence Commission, which has access to NDIA data, used Palantir as part of a multi-agency fraud taskforce Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Personal information of national disability insurance scheme participants may have ended up in controversial software company Palantir’s analytics platform as part of a massive multi-agency sharing program investigating fraud, Guardian Australia can reveal. There have been calls to ban the use of Palantir’s software by the Australian government since May, after it implied some cultures are inferior to others in a manifesto described by one UK MP as the “ramblings of a supervillain”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-          "publishedAt": "2026-09-08T04:07:30.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/sep/09/ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-to-curb",
+          "publishedAt": "2026-09-09T01:09:16.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1321,36 +1236,76 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "突发",
         "军事与安全",
-        "国际组织"
+        "持续关注"
       ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 64,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "efb1c43021c49fa89baa3884",
-      "isContinuation": false,
-      "titleZh": "澳大利亚工党推出“我的信息，我的方式”规则，允许用户自主选择社交媒体算法",
-      "summaryZh": "澳大利亚政府正推动社交媒体算法透明化，允许用户选择是否开启算法推荐。同时，政府对“单一民族党”提出的动用养老金支付房贷的建议表示强烈反对，认为这将严重损害民众的退休保障。",
-      "whyImportant": "该政策涉及数字平台监管与国民退休金制度的平衡，引发了关于政府干预权与个人财务自主权的讨论。",
+      "fingerprint": "0a94025efb891ad60df2300f",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "澳大利亚国家残障保险计划（NDIS）数据或因反欺诈调查流入Palantir分析平台",
+      "summaryZh": "澳大利亚刑事情报委员会在打击欺诈的跨部门行动中，使用了Palantir的数据分析软件。由于Palantir公司此前曾引发争议，此次数据共享引发了关于个人隐私保护的担忧。",
+      "whyImportant": "政府机构使用第三方数据分析平台处理敏感个人信息引发了公众对数据安全和隐私权的广泛讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "81ae8c6fd2a6497c",
-      "title": "‘Forced out with nowhere to go’: First Nations families face eviction as council sells homes over charity’s unpaid rates",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
-      "publishedAt": "2026-09-08T03:25:18.000Z",
-      "summary": "Mount Isa city council to auction off first of 24 homes after Aboriginal and Torres Strait Islander Corporation for Welfare Services accrues almost $1m in unpaid debts Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A rural Queensland council is auctioning off 24 homes to recover unpaid rates, potentially forcing First Nations families into homelessness. Residents claim they were left in the dark about the debt, which stretches back years, until five months ago. Continue reading...",
+      "id": "0e9b964933994dca",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T03:03:32.000Z",
+      "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
-          "publishedAt": "2026-09-08T03:25:18.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-09T03:03:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 61,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "13d02775066529dde562e6f0",
+      "isContinuation": false,
+      "titleZh": "美国对加拿大酒精、摩托车及其他商品实施进口禁令",
+      "summaryZh": "作为美加贸易战的最新升级，美国宣布对加拿大多种商品实施进口禁令。此举是在加拿大对美国商品征收报复性关税后采取的对等措施。",
+      "whyImportant": "美加贸易摩擦升级可能对两国相关产业供应链及经济关系产生负面影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e5bd1d92efe87400",
+      "title": "Record-breaking rain disrupts daily life in Nagoya, Japan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_record-breaking-rain-disrupts-daily-life-in-nagoya-080926?traffic_source=rss",
+      "publishedAt": "2026-09-09T02:23:43.000Z",
+      "summary": "Record-breaking rainfall swamped the Japanese city of Nagoya dumping an all-time high of 105 mm of rain in a single hour",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_record-breaking-rain-disrupts-daily-life-in-nagoya-080926?traffic_source=rss",
+          "publishedAt": "2026-09-09T02:23:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1361,148 +1316,560 @@
         "全球焦点",
         "突发"
       ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "660613910577392ca9c6a14b",
+      "fingerprint": "e89dbef8662761f6622dc5d0",
       "isContinuation": false,
-      "titleZh": "“被迫流离失所”：因慈善机构拖欠税款，澳大利亚原住民家庭面临被驱逐",
-      "summaryZh": "昆士兰州一地方议会因原住民福利机构拖欠近百万美元税款，计划拍卖24处房产以追回债务。受影响的家庭此前对债务情况并不知情，目前面临无家可归的风险。",
-      "whyImportant": "此事件引发了关于地方政府债务追讨方式对弱势群体影响的社会争议。",
+      "titleZh": "破纪录降雨扰乱日本名古屋日常生活",
+      "summaryZh": "日本名古屋市遭遇破纪录强降雨，一小时内降雨量达到创纪录的105毫米。极端天气导致当地交通和日常生活受到严重影响。",
+      "whyImportant": "极端气候事件频发对城市基础设施的防灾能力提出了严峻挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a92acc79c5f99aec",
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "id": "eb4259918403d4df",
+      "title": "Chinese sisters’ 86-page expose accuses PhD supervisor of affair with dad, academic misconduct",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366842/chinese-sisters-86-page-expose-accuses-phd-supervisor-affair-dad-academic-misconduct?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T01:19:27.000Z",
+      "summary": "A pair of Chinese sisters, aged 20 and 15, have exposed a decade-long affair between their father, a former professor at the prestigious Wuhan University, and his student, who is now a professor at the same institution. Recently, they published an 86-page expose of this affair online, sparking heated discussions across social media platforms. The sisters are targeting their father, Fu Lei, a 47-year-old former professor and doctoral supervisor at Wuhan University’s College of Chemistry and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366842/chinese-sisters-86-page-expose-accuses-phd-supervisor-affair-dad-academic-misconduct?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T01:19:27.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c0d56addbd98a35725d5374b",
+      "isContinuation": false,
+      "titleZh": "中国姐妹发布86页举报信，指控博士生导师与父亲有染及学术不端",
+      "summaryZh": "两名中国姐妹在网上发布长达86页的举报材料，指控其父亲（武汉大学前教授）与一名现任教授存在长达十年的不正当关系及学术不端行为。该事件在社交媒体上引发了广泛关注与讨论。",
+      "whyImportant": "高校师德师风及学术诚信问题再次成为公众关注的焦点。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7d26a0fc28178a1f",
+      "title": "Huawei goes on trial in US for racketeering after nearly decade of litigation",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366831/huawei-goes-trial-us-racketeering-after-nearly-decade-litigation?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T18:57:10.000Z",
+      "summary": "Chinese tech giant Huawei Technologies went on trial on Tuesday in Brooklyn, New York, on criminal charges after eight years of legal wrangling with the US government. The Shenzhen-based company has pleaded not guilty to all 14 counts, including bank fraud, wire fraud, trade secret theft, and racketeering, with the alleged criminal activity dating back to 1999. Jury selection began on Tuesday, local time, with US District Judge Ann M. Donnelly of the Eastern District of New York instructing...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366831/huawei-goes-trial-us-racketeering-after-nearly-decade-litigation?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T18:57:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "金融"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "431beb91bb7b73767fa2f11e",
+      "isContinuation": false,
+      "titleZh": "华为在美国面临敲诈勒索指控，近十年诉讼案正式开庭",
+      "summaryZh": "经过八年的法律纠纷，华为公司在美国纽约就银行欺诈、窃取商业机密及敲诈勒索等14项刑事指控正式受审。华为方面对所有指控均表示不认罪，目前案件已进入陪审团遴选阶段。",
+      "whyImportant": "此案是中美科技与法律博弈的重要组成部分，其审判结果将对华为的国际业务产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e3eb0954862b4a37",
+      "title": "Mamdani releases 170,000 pages of records regarding impact on air quality of 9/11 attacks",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release",
+      "publishedAt": "2026-09-09T00:40:03.000Z",
+      "summary": "Documents available through an online portal launched three days before the 25th anniversary of September 11 New York City mayor Zohran Mamdani’s administration has released more than 170,000 pages of municipal records involving the impact of the September 11 attacks on air quality health, as well as the city’s response. Mamdani announced the documents and an online portal for accessing them on Tuesday. The release comes alongside the settlement of two lawsuits pursued by 9/11 Health Watch, which fought for access to these long-withheld documents. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release",
+          "publishedAt": "2026-09-09T00:40:03.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "70d5bba268b4d953792d85b1",
+      "isContinuation": false,
+      "titleZh": "曼达尼发布17万页关于9/11袭击对空气质量影响的记录",
+      "summaryZh": "在9/11事件25周年纪念日前夕，纽约市长曼达尼政府发布了超过17万页的市政记录，详细说明了袭击对空气质量及健康的影响。此次公开是两起诉讼达成和解的结果，旨在回应长期以来公众对相关信息的知情权要求。",
+      "whyImportant": "此举有助于公众更全面地了解9/11事件后的环境健康影响及政府应对措施。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "15c0f06a7e2e6d94",
+      "title": "Hong Kong agencies warn of lingering Jakarta flight delays after volcano eruption",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366820/hong-kong-agencies-warn-lingering-jakarta-flight-delays-after-volcano-eruption?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T00:30:07.000Z",
+      "summary": "Some Hong Kong employment and travel companies have warned that air traffic in Jakarta could continue to face disruptions even after the Indonesian capital’s international airport reopened following a volcanic eruption that spewed ash into the sky, as airlines work through a backlog. GLC (Manado) Employment Service founder and director Chu Shek-yin told the South China Morning Post that he would not rush to book an air ticket for his client’s helper despite the resumption of operations at all...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366820/hong-kong-agencies-warn-lingering-jakarta-flight-delays-after-volcano-eruption?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T00:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "59cc968d2fd7dd0355e576e1",
+      "isContinuation": false,
+      "titleZh": "香港机构警告：火山喷发后雅加达航班延误或将持续",
+      "summaryZh": "尽管雅加达国际机场在火山喷发后已恢复运营，但香港就业和旅游公司警告称，由于航空公司需处理积压的航班，航空交通中断的情况可能持续。相关机构建议旅客近期谨慎安排行程，避免因航班不确定性造成损失。",
+      "whyImportant": "该预警提醒了受火山活动影响的旅客关注后续航班动态，以规避潜在的出行风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ceab4c93e63f8e12",
+      "title": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
+      "publishedAt": "2026-09-09T04:04:45.000Z",
+      "summary": "The United States remains Taiwan's main international backer and arms supplier despite lack of formal diplomatic ties.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
+          "publishedAt": "2026-09-09T04:04:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 73,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ffd83f0b19e0e4e59a1eee39",
+      "isContinuation": false,
+      "titleZh": "美国事实上的大使警告：台海冲突将是灾难性的",
+      "summaryZh": "尽管缺乏正式外交关系，美国仍是台湾主要的国际支持者和武器供应方。美方官员强调，台海地区的冲突将带来严重的后果。",
+      "whyImportant": "此表态重申了美国对台海局势的高度关注及其对地区和平稳定的立场。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3df3f2032f5937c2",
+      "title": "Hong Kong a ‘2-way springboard’ between mainland China and world: John Lee",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366864/hong-kong-2-way-springboard-between-mainland-china-and-world-john-lee?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T04:01:48.000Z",
+      "summary": "Hong Kong will continue to serve as a gateway linking belt and road economies with mainland China and global markets, the chief executive has said, underscoring the city’s role in bringing together capital, talent and businesses to advance the national initiative. Speaking at the opening of the annual Belt and Road Summit on Wednesday, John Lee Ka-chiu said more than 60 government and business agreements and memorandums of understanding (MOUs) would be signed during the event, with the total...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366864/hong-kong-2-way-springboard-between-mainland-china-and-world-john-lee?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T04:01:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "金融"
+      ],
+      "score": 67,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "36bc94da71a5b7978196af78",
+      "isContinuation": false,
+      "titleZh": "李家超：香港是连接中国内地与世界的“双向跳板”",
+      "summaryZh": "香港特区行政长官李家超在“一带一路”高峰论坛上表示，香港将继续发挥门户作用，连接内地与全球市场。论坛期间预计将签署超过60份政府及商业协议，进一步推动资本、人才与企业的交流。",
+      "whyImportant": "这凸显了香港在国家“一带一路”倡议中作为国际金融与贸易枢纽的关键地位。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "abd1bd3469dbb93d",
+      "title": "Taiwan waits for its new F-16s, still stuck in Hawaii after a fortnight’s delay",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3366858/taiwan-waits-its-new-f-16s-still-stuck-hawaii-after-fortnights-delay?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T03:58:30.000Z",
+      "summary": "The first two F-16 Block 70 fighters bought by Taipei from the United States have yet to reach Taiwan, after spending more than two weeks in Hawaii for reasons that remain unclear. The aircraft, which were expected to arrive at Taiwan’s Chihhang Air Base in late August, were spotted preparing for departure at Joint Base Pearl Harbour-Hickam on Monday, raising expectations that the fighters were finally about to resume their journey. But the two single-seat F-16Cs, numbered 6727 and 6728,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3366858/taiwan-waits-its-new-f-16s-still-stuck-hawaii-after-fortnights-delay?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T03:58:30.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 63,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ac252ee98176003ba91f6b1c",
+      "isContinuation": false,
+      "titleZh": "台湾等待新购F-16战机，在夏威夷滞留两周仍未交付",
+      "summaryZh": "台湾从美国购买的首批两架F-16 Block 70战机在夏威夷停留超过两周，具体原因尚不明确。尽管近日有迹象显示战机准备启程，但交付进度仍存在不确定性。",
+      "whyImportant": "战机交付的延迟引发了外界对台美军事合作及装备部署进度的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cf1a60808eed78e1",
+      "title": "US, China trials suggest a single nanodrug shot might stop bad cholesterol forever",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3366811/us-china-trials-suggest-single-nanodrug-shot-might-stop-bad-cholesterol-forever?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T03:00:09.000Z",
+      "summary": "Imagine swapping your daily cholesterol pill for a single injection that keeps “bad” cholesterol under control for a year, a decade – or even a lifetime. Two clinical trials, one in the United States and another in China, suggest that this one-and-done approach could become a reality. Low-density lipoprotein cholesterol (LDL-C), better known as “bad” cholesterol, is a major driver of heart disease – the leading cause of death worldwide. Triglycerides, another type of blood fat, add to the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3366811/us-china-trials-suggest-single-nanodrug-shot-might-stop-bad-cholesterol-forever?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T03:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 62,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "72d5982d284d70c951faeb2e",
+      "isContinuation": false,
+      "titleZh": "美中临床试验显示：单次纳米药物注射或可终身控制坏胆固醇",
+      "summaryZh": "美中两国的临床试验表明，一种新型纳米药物有望通过单次注射，长期甚至终身控制低密度脂蛋白胆固醇（坏胆固醇）。这一突破性疗法若成功，将彻底改变心血管疾病的预防和治疗方式。",
+      "whyImportant": "该技术若获应用，将大幅降低全球心血管疾病的死亡率并简化患者的治疗流程。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "237cc940dbeb9b38",
+      "title": "Humble leader and role model for a generation: Hong Kong’s Tung Chee-hwa mourned",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3366843/tributes-pour-hong-kong-mourns-death-tung-chee-hwa-first-chief-executive?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T02:07:50.000Z",
+      "summary": "Tung Chee-hwa, Hong Kong’s first chief executive who oversaw the city’s 1997 return to Chinese rule, has died. According to a statement from his office issued in the early hours on Wednesday, he died on Tuesday at the age of 89, surrounded by his loved ones. It is understood that he died at the Hong Kong Sanatorium & Hospital. Tung was also a vice-chairman of China’s top political advisory body, the Chinese People’s Political Consultative Conference. In this live blog, the South China Morning...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3366843/tributes-pour-hong-kong-mourns-death-tung-chee-hwa-first-chief-executive?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T02:07:50.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "32ecd0ddb9164ae87c85a5b8",
+      "isContinuation": false,
+      "titleZh": "香港首任特首董建华逝世，享年89岁",
+      "summaryZh": "香港特别行政区首任行政长官董建华于周二在香港养和医院逝世，享年89岁。董建华曾领导香港回归后的平稳过渡，并担任全国政协副主席。",
+      "whyImportant": "董建华作为香港回归后的首位领导人，其逝世标志着香港历史一个重要时代的结束。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "68c83cb2b519b2b1",
+      "title": "Trump slams Australia’s social media crackdown as ‘extortion’",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3366867/trump-slams-australias-social-media-crackdown-extortion?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T04:16:42.000Z",
+      "summary": "US President Donald Trump has condemned Australia’s recent moves to clamp down on social media – predominantly run by American tech companies – as “a form of extortion”, hinting at more threats to come. “President Trump has unequivocally warned trading partners against imposing digital services taxes, fines, and other forms of extortion on America’s leading technology sector,” White House economics spokesman Kush Desai said on Tuesday night, as reported by news.com.au. “The administration...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3366867/trump-slams-australias-social-media-crackdown-extortion?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T04:16:42.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 67,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d6a051b90033ece6f3560432",
+      "isContinuation": false,
+      "titleZh": "特朗普抨击澳大利亚的社交媒体监管为“勒索”",
+      "summaryZh": "美国总统特朗普批评澳大利亚近期针对美国科技公司的社交媒体监管措施，称其为“勒索”。白宫发言人表示，美方将反对任何针对美国科技行业的数字服务税或罚款行为。",
+      "whyImportant": "此举反映了美澳在数字经济监管政策上的分歧，可能影响两国未来的贸易关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6571d38341d6c95d",
+      "title": "Trump bans some Canadian goods, raises tariffs on others as trade war escalates",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3366840/trump-bans-some-canada-goods-puts-50-tariffs-others?utm_source=rss_feed",
+      "publishedAt": "2026-09-09T00:01:49.000Z",
+      "summary": "US President Donald Trump on Tuesday escalated his trade war against Canada, banning imports of alcohol and various products and raising tariffs on others, with the conflict showing no sign of abating. Canadian Prime Minister Mark Carney stood firm, acknowledging that reducing economic ties with the United States would come at a cost but saying the benefits would outweigh the pain. A range of Canadian products, from mattresses to motorboats and golf carts, will be subject to a 50 per cent...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366840/trump-bans-some-canada-goods-puts-50-tariffs-others?utm_source=rss_feed",
+          "publishedAt": "2026-09-09T00:01:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 64,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5b94c71b50b40531550cac81",
+      "isContinuation": false,
+      "titleZh": "特朗普升级贸易战，禁止部分加拿大商品并提高关税",
+      "summaryZh": "美国总统特朗普进一步升级对加贸易战，宣布禁止进口酒精及多种产品，并对床垫、摩托艇等商品加征50%关税。加拿大总理马克·卡尼表示，尽管减少与美国的经济联系会带来代价，但长期来看利大于弊。",
+      "whyImportant": "此举标志着美加贸易摩擦显著加剧，可能对两国经济及供应链产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b8129f5e12bfdb77",
+      "title": "President Trump Honors 9/11 Heroes and Renews America’s Vow to Never Forget",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/",
+      "publishedAt": "2026-09-08T18:11:32.000Z",
+      "summary": "Today, President Donald J. Trump stood with first responders, Gold Star families, and the Tunnel to Towers Foundation to honor the Americans who ran toward the fire on September 11, 2001. At his side was a 21-foot steel beam recovered from the wreckage of the South Tower — carried more than 10,500 miles on Tunnel […] The post President Trump Honors 9/11 Heroes and Renews America’s Vow to Never Forget appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/",
+          "publishedAt": "2026-09-08T18:11:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "be9ac8f0c47a303664bb3168",
+      "isContinuation": false,
+      "titleZh": "特朗普总统纪念“9·11”英雄并重申美国永不遗忘的誓言",
+      "summaryZh": "特朗普总统与急救人员、金星家庭及隧道至塔楼基金会共同纪念“9·11”事件。现场展示了一根从南塔残骸中回收的21英尺钢梁，以缅怀当年的遇难者与英雄。",
+      "whyImportant": "该活动旨在通过国家仪式重申美国对反恐历史的铭记与对牺牲者的敬意。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5af94d8a6d96b9d9",
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T01:50:55.000Z",
-      "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:11:41.000Z",
+      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-08T01:50:55.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-08T23:11:41.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "经济",
-        "金融"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f78f650b3337a3d0e0596582",
-      "isContinuation": false,
-      "titleZh": "英国政府预计将宣布限制与约旦河西岸定居点的贸易",
-      "summaryZh": "英国外交大臣米利班德预计将公布限制与约旦河西岸定居点贸易的提案。此举可能引发以色列方面的报复性回应。",
-      "whyImportant": "英国对定居点贸易的限制政策可能导致其与以色列的外交关系出现摩擦。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "da70b0e0306ea4df",
-      "title": "Burnham risks friction with Trump over Israeli West Bank settlement sanctions",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T22:42:58.000Z",
-      "summary": "UK Prime Minister Andy Burnham’s government is expected to ban trade with Israeli settlements in the West Bank on Tuesday as he seeks to adopt a stronger policy on an issue that is important to his governing Labour Party but may anger US President Donald Trump. A new sanctions regime targeting Israel but limited to Jewish settlements in the West Bank will be announced by Foreign Secretary Ed Miliband, according to people familiar with the matter. Burnham and Trump spoke by phone on Monday,...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T22:42:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "经济",
-        "金融"
-      ],
-      "score": 60,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f7d741a9dbd86476fe7b1217",
-      "isContinuation": false,
-      "titleZh": "伯纳姆因以色列约旦河西岸定居点制裁面临与特朗普产生摩擦的风险",
-      "summaryZh": "英国首相伯纳姆政府计划宣布对以色列约旦河西岸定居点实施贸易制裁。尽管此举符合工党政策，但可能引发美国总统特朗普的不满。",
-      "whyImportant": "该政策在满足国内政治诉求的同时，可能对英美双边关系带来外交挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1fea33a4ec475f2d",
-      "title": "Can Japan, South Korea move past the ‘comfort women’ issue?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T01:30:10.000Z",
-      "summary": "South Korean citizens’ groups have called for the abuse of wartime “comfort women” to be recognised by Unesco, as analysts say the ongoing feud between Seoul and Tokyo threatens to upset recent improvements in their relations. They also suggest that the two nations would benefit from working together at a time of unprecedented regional and global security and economic challenges, although they admit that may be impossible. On Sunday, a coalition of South Korean citizens’ groups called on the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T01:30:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
+        "美国重点",
         "军事与安全"
       ],
       "score": 59,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "75e7231d73ea5002fe5dbce0",
+      "fingerprint": "a0d55e95e3579e835a21a7f6",
       "isContinuation": false,
-      "titleZh": "日本和韩国能否跨越“慰安妇”问题？",
-      "summaryZh": "韩国民间团体呼吁将“慰安妇”受害者记录列入联合国教科文组织名录，分析人士担忧此举将影响日韩近期改善的关系。尽管两国在安全与经济领域面临共同挑战，但历史遗留问题仍是双边合作的重大障碍。",
-      "whyImportant": "历史问题的持续发酵限制了日韩在地区安全与经济合作上的深度整合。",
+      "titleZh": "海格塞斯正在重塑五角大楼，但代价几何？",
+      "summaryZh": "随着美国卷入战争，国防部长海格塞斯对五角大楼进行的重大调整引发关注。外界分析认为，这种军事层面的动荡可能会对特朗普的第二个任期产生深远影响。",
+      "whyImportant": "五角大楼的人事与政策变动直接关系到美国当前的军事战略及政府的政治遗产。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4893d42812308ad3",
-      "title": "Hong Kong families hit as volcanic ash strands up to 200 helpers in Indonesia",
+      "id": "edf74b595b7412bc",
+      "title": "Singapore man Malone Lam pleads guilty after massive US bitcoin heist and spending spree",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T04:22:37.000Z",
-      "summary": "Up to 200 Hong Kong-bound domestic helpers remain stranded in Indonesia despite the reopening of several affected airports, as the city’s employment agencies association braces for possible further closures due to volcanic ash. The Indonesian transport ministry said Jakarta’s Soekarno-Hatta International Airport resumed operations on Tuesday after being shut for several days, following the eruption of Mount Anak Krakatoa on Saturday, which affected thousands of travellers. Among those stranded...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366830/singapore-man-malone-lam-pleads-guilty-after-massive-us-bitcoin-heist-and-spending-spree?utm_source=rss_feed",
+      "publishedAt": "2026-09-08T18:31:00.000Z",
+      "summary": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington resident – one of the largest cryptocurrency thefts in US history – and then embarking on a wild spending spree with the laundered proceeds. Malone Lam, an eighth-grade dropout who came to the US from Singapore, faces a maximum prison sentence of 20 years after pleading guilty to a federal racketeering conspiracy charge. US District Judge Colleen...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T04:22:37.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366830/singapore-man-malone-lam-pleads-guilty-after-massive-us-bitcoin-heist-and-spending-spree?utm_source=rss_feed",
+          "publishedAt": "2026-09-08T18:31:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "金融",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a1f28d3fefa1d25e850d8b93",
+      "isContinuation": false,
+      "titleZh": "新加坡男子马龙·林承认参与大规模比特币盗窃及挥霍案",
+      "summaryZh": "22岁的新加坡籍男子马龙·林承认参与了美国历史上最大的加密货币盗窃案之一，涉案金额近2.5亿美元。他因联邦敲诈勒索共谋罪面临最高20年的监禁。",
+      "whyImportant": "此案凸显了加密货币领域面临的安全威胁及跨国网络犯罪的严重性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bdfa36c6b7271e9b",
+      "title": "Hong Kong's first leader after British handover dies",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T04:24:30.000Z",
+      "summary": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-09T04:24:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1512,496 +1879,52 @@
       "tags": [
         "中国重点"
       ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "score": 58,
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "6ee9da72b98ba48e9d52994d",
+      "fingerprint": "ba92f66d9ad2a12f6f5aa91c",
       "isContinuation": false,
-      "titleZh": "印尼火山灰导致航班中断，约200名赴港外佣滞留",
-      "summaryZh": "受喀拉喀托之子火山喷发影响，尽管部分机场已恢复运营，仍有约200名原定前往香港的外籍佣工滞留在印尼。香港就业中介协会正密切关注局势，以防火山灰导致进一步的机场关闭。",
-      "whyImportant": "此次事件影响了香港家庭的劳动力供应，并凸显了自然灾害对跨境人员流动的潜在干扰。",
+      "titleZh": "香港回归后首任行政长官逝世",
+      "summaryZh": "香港回归后的首任行政长官董建华逝世。他在任期间，香港经历了多次重大危机与社会抗议活动。",
+      "whyImportant": "董建华作为“一国两制”在港实施的首位领导人，其离世标志着香港历史一个重要时期的结束。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ba74aa7be032448a",
-      "title": "Hong Kong a boon to Kazakhstan’s advanced manufacturing ambitions, ties to Europe: expert",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T04:00:13.000Z",
-      "summary": "Hong Kong firms could look to Kazakhstan as a base for advanced manufacturing and as a gateway to Europe, while the city’s robust capital markets could attract businesses in the Central Asian country, a diplomat and business adviser has said. Sabr Yessimbekov, adviser to the chairman of the presidium of the National Chamber of Entrepreneurs of the Republic of Kazakhstan, told the South China Morning Post on the sidelines of the inaugural China Conference: Central Asia 2026 that some projects in...",
+      "id": "21251e682bc859c3",
+      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides",
+      "publishedAt": "2026-09-09T04:20:59.000Z",
+      "summary": "The president’s substantial holiday gifts to four White House aides were made public via financial disclosures released by the administration Donald Trump gave sizable holiday gifts to four White House aides, according to new financial disclosures released by the administration, including $45,000 to executive assistant Natalie Harp. Communications adviser Margo Martin and deputy director of Oval Office operations Chamberlain Harris also received $45,000, while director of Oval Office operations Walt Nauta received a $20,000 gift. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T04:00:13.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides",
+          "publishedAt": "2026-09-09T04:20:59.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
+      "isChina": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "金融"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0a76bfd1ceb1854baab07d60",
-      "isContinuation": false,
-      "titleZh": "专家：香港可助力哈萨克斯坦发展先进制造业并加强与欧洲联系",
-      "summaryZh": "专家指出，哈萨克斯坦可利用香港作为先进制造业基地及通往欧洲的门户。同时，香港强大的资本市场有望吸引更多哈萨克斯坦企业寻求融资与合作。",
-      "whyImportant": "此举反映了“一带一路”沿线国家与香港在深化经贸合作及产业互补方面的战略意图。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "be380f52201413ee",
-      "title": "Chinese PLA aircraft to headline Egypt air show in display of export potential",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T04:00:10.000Z",
-      "summary": "Fresh off a joint air drill, China will for the first time showcase several PLA Air Force aircraft overseas at an air show this week. The featured aircraft were selected for the air show in Egypt to demonstrate the air force’s integrated combat abilities and export potential, according to a military analyst. China’s armed forces on Tuesday posted pictures of Z-20, J-16, YY-20, and KJ-500 with its social media postings about the El Alamein International Airshow. The PLA Air Force said the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T04:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cec0200b9a3db8819e75de35",
-      "isContinuation": false,
-      "titleZh": "中国空军多型战机将亮相埃及航展，展示出口潜力",
-      "summaryZh": "中国空军将首次在海外航展上展示包括歼-16、运-20等在内的多型主力战机。军事分析人士认为，此举旨在展示中国空军的综合战斗能力及相关装备的出口潜力。",
-      "whyImportant": "这标志着中国军事外交与国防工业出口战略的进一步拓展，旨在提升中国制造在国际军贸市场的影响力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fc9bd9ae9a5c6228",
-      "title": "时代 · 人民 · 文明 中国元首外交的思想启迪 - 中国侨网",
-      "source": "chinaqw.com",
-      "url": "https://www.chinaqw.com/yw/2026/09-07/411108.shtml",
-      "publishedAt": "2026-09-07T12:45:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "chinaqw.com",
-          "url": "https://www.chinaqw.com/yw/2026/09-07/411108.shtml",
-          "publishedAt": "2026-09-07T12:45:00.000Z"
-        },
-        {
-          "source": "cqnews.net",
-          "url": "https://www.cqnews.net/web/content_1546538877895704576.html",
-          "publishedAt": "2026-09-07T09:30:00.000Z"
-        },
-        {
-          "source": "news.hangzhou.com.cn",
-          "url": "https://news.hangzhou.com.cn/szxw/content/content_9300999.htm",
-          "publishedAt": "2026-09-07T09:15:00.000Z"
-        },
-        {
-          "source": "news.sina.com.cn",
-          "url": "https://news.sina.com.cn/gov/xlxw/2026-09-07/doc-iniqyvru9532197.shtml",
-          "publishedAt": "2026-09-07T08:30:00.000Z"
-        }
-      ],
-      "sourceCount": 4,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交"
-      ],
-      "score": 62,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0eb6381972722de1f27c0ac1",
-      "isContinuation": false,
-      "titleZh": "时代 · 人民 · 文明 中国元首外交的思想启迪",
-      "summaryZh": "文章探讨了中国元首外交在时代变迁、人民福祉及文明交流方面的核心思想。通过外交实践，阐述了中国对构建人类命运共同体的深刻理解与贡献。",
-      "whyImportant": "该文阐释了中国当前外交政策的理论基础及其对全球治理的指导意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7690493c55e16ce4",
-      "title": "In Gyirong Port, small items speak of the human cost of the China-Nepal disaster",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
-      "publishedAt": "2026-09-08T03:13:40.000Z",
-      "summary": "“I do not want to stop [searching]. If I pause, I start thinking about my brothers and sisters and all the moments of my life here.” Gui Xinwei, deputy chief of the Gyirong Border Inspection Station, was speaking to Chinese state broadcaster CCTV from the ruins of his workplace, seven days after the devastating mudslide erased the port crossing where China and Nepal meet. “I just don’t want to stop.” Gui was away on holiday on August 26 when a glacier collapsed in Nepal, triggering a massive...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
-          "publishedAt": "2026-09-08T03:13:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "公共安全"
-      ],
-      "score": 61,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "12a661f016a175fe0868cc17",
-      "isContinuation": false,
-      "titleZh": "吉隆口岸：中尼灾难背后的人文代价",
-      "summaryZh": "尼泊尔冰川崩塌引发的泥石流摧毁了中尼边境的吉隆口岸。边检站工作人员在废墟中坚持搜救，讲述了灾难给当地带来的深重创伤与人员损失。",
-      "whyImportant": "该报道通过个体视角展现了自然灾害对边境贸易枢纽及相关人员生活的毁灭性影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c8a2abae0e1966a2",
-      "title": "Kazakhstan aims to become education hub, but experts say jobs must match skills",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
-      "publishedAt": "2026-09-07T16:14:24.000Z",
-      "summary": "Kazakhstan is aiming to become an education powerhouse in Central Asia but efforts must also ensure young people have sufficient access to opportunities that match their skill sets amid the country’s rapid economic transformation, experts have said. Educators and advocates added that further collaboration with Hong Kong and mainland Chinese universities was in the pipeline, with growing demand for specialists who understood the business environments of both Kazakhstan and China. The comments...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T16:14:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "环境",
-        "国际组织"
+        "美国重点"
       ],
       "score": 58,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
+      "topic": "climate-safety",
+      "topicName": "气候、环境与公共安全",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8ac589b6bd2e4ac5b3db114e",
+      "fingerprint": "b4527f0df5b68977fe917941",
       "isContinuation": false,
-      "titleZh": "哈萨克斯坦力争成为教育中心，专家强调就业匹配至关重要",
-      "summaryZh": "哈萨克斯坦正致力于成为中亚教育强国，但专家提醒，必须确保年轻人的技能与市场需求相匹配。此外，哈萨克斯坦正寻求与中国及香港高校加强合作，以培养跨国商业人才。",
-      "whyImportant": "教育转型是哈萨克斯坦经济多元化的关键，其与中国教育资源的对接将促进区域人才流动与经济融合。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8c2872e4b8995f22",
-      "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-      "publishedAt": "2026-09-08T04:01:12.000Z",
-      "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between US president Donald Trump and Canadian prime minister Mark Carney. The tariffs took effect at 12.01am on Tuesday, and range from 15% to 50% and apply to products covering $20bn in imports from the US. The measures target sectors including steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics – industries that have been most affected by US tariffs. Continue reading...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-          "publishedAt": "2026-09-08T04:01:12.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-          "publishedAt": "2026-09-08T04:00:59.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366693/canada-set-hit-back-trump-tariffs-risking-wider-trade-war?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T20:08:51.000Z"
-        }
-      ],
-      "sourceCount": 3,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济"
-      ],
-      "score": 74,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "54a1941095bfc83695aed2be",
-      "isContinuation": false,
-      "titleZh": "加拿大对价值200亿美元的美国商品实施报复性关税",
-      "summaryZh": "针对美国此前宣布的关税措施，加拿大正式对价值200亿美元的美国进口商品征收15%至50%的报复性关税。此次贸易争端涉及钢铁、乳制品及电子产品等多个行业。",
-      "whyImportant": "美加贸易摩擦的升级加剧了北美地区的经济不确定性，并可能对相关产业链造成深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "590d5bd95a0ae82e",
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T01:32:56.000Z",
-      "summary": "The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot went on trial Monday, two years after their killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. They had been camping in a remote beachside area when they were attacked in April 2024. Their bodies...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-08T01:32:56.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3366691/alleged-killers-australian-us-surfers-go-trial-mexico?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T18:56:05.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发"
-      ],
-      "score": 72,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d4121bbc6c942afd693a3c3e",
-      "isContinuation": false,
-      "titleZh": "墨西哥审理两名澳大利亚冲浪者及一名美国人被杀案",
-      "summaryZh": "两年前，两名澳大利亚兄弟和一名美国友人在墨西哥下加利福尼亚州冲浪时遭抢劫并被枪杀。涉嫌谋杀这三人的嫌疑人已于周一正式受审。",
-      "whyImportant": "此案引发了国际社会对墨西哥旅游安全状况的持续关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a04e18730da01f49",
-      "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
-      "publishedAt": "2026-09-08T03:08:28.000Z",
-      "summary": "US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
-          "publishedAt": "2026-09-08T03:08:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ba0af44ab231c4ddae5afd82",
-      "isContinuation": false,
-      "titleZh": "美国特使访问期间暂停期结束，俄罗斯对基辅发动致命袭击",
-      "summaryZh": "在美方特使访问期间的短暂平静结束后，俄罗斯恢复了对基辅的袭击。美国官员表示，尽管局势紧张，但对后续的谈判进展仍持鼓励态度。",
-      "whyImportant": "袭击事件凸显了俄乌冲突的持续动荡及外交斡旋的复杂性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "caac094df00161e4",
-      "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-      "publishedAt": "2026-09-08T02:00:24.000Z",
-      "summary": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-          "publishedAt": "2026-09-08T02:00:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 56,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c2cb6bc15c4daa254d3de99c",
-      "isContinuation": false,
-      "titleZh": "“我听到了很大的响声”：墨西哥开始审理涉嫌杀害澳大利亚冲浪者及美国友人的案件",
-      "summaryZh": "2024年，两名澳大利亚兄弟和一名美国友人在墨西哥冲浪时遇害，受害者家属出席了周一的庭审。三名被告被指控在抢劫过程中杀害了这三名受害者。",
-      "whyImportant": "该案件的审理过程受到国际媒体高度关注，涉及跨国犯罪的司法公正问题。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "61f246e99846ca91",
-      "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
-      "publishedAt": "2026-09-07T19:59:07.000Z",
-      "summary": "Advocacy groups expand legal challenges and condemn president’s ‘self-serving attempts to take over midterms’ A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald Trump’s authoritarian executive orders on voting and other presidential actions they see as a “war” on the rule of law in the US. Heavy legal opposition to Trump’s two executive orders on elections to curb voting rights and supplant the authority of states on election matters has come from the Democracy Defenders Fund, the Campaign Legal Center, the American Civil Liberties Union and kindred groups. This article was updated on 7 September 2026 to reflect that members of the Democratic Attorneys General Association have filed suit, not the Daga itself. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
-          "publishedAt": "2026-09-07T19:59:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "02c50d26b4c335373ae1ef65",
-      "isContinuation": false,
-      "titleZh": "法律界资深人士联手反击特朗普对民主的“全面攻击”",
-      "summaryZh": "由资深律师、选举专家和前法官组成的倡导团体，正通过法律途径挑战特朗普关于选举的行政命令。他们认为这些命令旨在削弱投票权并干预州级选举权力，是对法治的破坏。",
-      "whyImportant": "此举反映了美国法律界与行政当局在选举制度和民主原则上的激烈对抗。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "70261b63d135265d",
-      "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
-      "source": "DW",
-      "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-09-07T15:03:00.000Z",
-      "summary": "Ratko Mladic, the Bosnian Serb commander who died while serving a life sentence for war crimes, was buried on Monday with military honours and crowds attending as Serbia defied European Union warnings against allowing public homage to the man found guilty of the continent’s first case of genocide since World War II. Thousands of mourners started arriving early at the small Serbian Orthodox Church of St. Luke in Belgrade to honour Mladic as his body lay in state. Mladic is still viewed as a hero...",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-09-07T15:03:00.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3366676/war-criminal-mladic-buried-military-honours-serbia-despite-eu-warnings?utm_source=rss_feed",
-          "publishedAt": "2026-09-07T14:18:53.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "74351ae503d3dd0e2720cbcb",
-      "isContinuation": false,
-      "titleZh": "战犯拉特科·姆拉迪奇在塞尔维亚贝尔格莱德获军礼葬礼",
-      "summaryZh": "因战争罪被判终身监禁的波斯尼亚塞族指挥官拉特科·姆拉迪奇在贝尔格莱德下葬，现场举行了军事仪式。尽管欧盟发出警告，塞尔维亚仍允许为其举行公开悼念活动。",
-      "whyImportant": "此举引发了国际社会对巴尔干地区历史遗留问题及民族主义情绪的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3dde4a819a56591c",
-      "title": "Majority of Tory and Reform voters do not back cuts to disability benefits, survey finds",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
-      "publishedAt": "2026-09-08T04:00:26.000Z",
-      "summary": "Nearly half of respondents say spending on personal independence payments should be increased There is little appetite for cuts to disability benefits even among Conservative and Reform voters, and proposals to reduce spending could prove politically risky, according to an authoritative national survey. The British Social Attitudes (BSA) report found that while support for welfare spending as a whole had dipped sharply in recent years, just 7% of respondents backed cuts to disability benefits – and 49% said they should be increased. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
-          "publishedAt": "2026-09-08T04:00:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "technology-energy",
-      "topicName": "科技、能源与产业",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1a06cfc6c840a51ae987b144",
-      "isContinuation": false,
-      "titleZh": "调查显示多数保守党和改革党选民不支持削减残疾人福利",
-      "summaryZh": "英国社会态度报告显示，即使在保守党和改革党选民中，支持削减残疾人福利的人数也极少。近半数受访者认为应增加对残疾人的个人独立津贴。",
-      "whyImportant": "调查结果表明，削减残疾人福利在英国政坛可能面临巨大的政治风险。",
+      "titleZh": "特朗普向娜塔莉·哈普等白宫助手赠送4.5万美元节日礼金",
+      "summaryZh": "根据白宫披露的财务报告，特朗普总统向四名白宫助手发放了数额可观的节日礼金。其中，执行助理娜塔莉·哈普、通讯顾问玛戈·马丁及副主任钱伯兰·哈里斯各获得4.5万美元。",
+      "whyImportant": "此举引发了公众对白宫内部财务往来及总统与核心幕僚之间利益关系的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
