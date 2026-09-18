@@ -1,164 +1,366 @@
 {
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-17T04:50:44.256Z",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T04:41:17.800Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "global-governance",
-    "name": "全球治理与外交",
-    "description": "追踪国际组织、峰会、制裁、谈判与地缘关系变化",
-    "query": "diplomacy international relations summit sanctions United Nations",
+    "slug": "china",
+    "name": "中国与世界",
+    "description": "关注中国经济、外交、安全、产业链与海外利益",
+    "query": "China economy diplomacy security trade",
     "keywords": [
-      "diplomacy",
-      "summit",
-      "sanction",
-      "treaty",
-      "united nations",
-      "外交",
-      "峰会",
-      "制裁",
-      "条约",
-      "联合国"
+      "china",
+      "chinese",
+      "beijing",
+      "中国",
+      "北京",
+      "中美",
+      "人民币",
+      "产业链"
     ],
-    "accent": "#8b5cf6"
+    "accent": "#ef4444"
   },
-  "overview": "今日专题“全球治理与外交”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“中国与世界”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "b456df6fd6226e8b",
-      "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-      "publishedAt": "2026-09-16T23:26:27.000Z",
-      "summary": "Both sides agreed to expand air travel and resume direct commercial flights.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-          "publishedAt": "2026-09-16T23:26:27.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "b3cce23063de8f66f6f19946",
-      "isContinuation": false,
-      "titleZh": "以色列与摩洛哥同意互设大使馆，升级外交关系",
-      "summaryZh": "以色列与摩洛哥达成协议，双方将互设大使馆以提升外交关系。此外，两国还同意扩大航空合作并恢复直飞商业航班。",
-      "whyImportant": "此举标志着以色列与摩洛哥在外交正常化进程中迈出了实质性的一步。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1ad93e8f167a7a9e",
-      "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by the Secretary-General that calls for greater protection and accountability.",
+      "id": "18b9efcad5ddc067",
+      "title": "Paul Keating says Aukus locking Australia into a US war against China, which it would ‘certainly lose’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/18/paul-keating-aukus-locking-australia-into-us-china-war",
+      "publishedAt": "2026-09-18T04:06:31.000Z",
+      "summary": "Former prime minister says US would ‘scuttle itself back to San Diego’, leaving Australia to deal with retribution from China Follow our Australia news live blog for latest updates Get our new political email, free app or daily news podcast Aukus critic Paul Keating has said the submarine deal is locking Australia in to any future US conflict with China – “a war America would certainly lose” – and making Australia a target for retribution. The former prime minister seized on comments reported out of Washington this week from Republican congressman Michael McCaul – a China hawk and co-chair of the Congressional Friends of Australia caucus – who said “Australia is a target” for enemies of the US already. However, McCaul argued that greater integration with the US military would better protect Australia rather than leaving it more vulnerable. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
-          "publishedAt": "2026-09-16T12:00:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/18/paul-keating-aukus-locking-australia-into-us-china-war",
+          "publishedAt": "2026-09-18T04:06:31.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "军事与安全",
+        "国际组织",
+        "专题·中国与世界"
+      ],
+      "score": 81,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "5be2343c383af6a133c1c0f9",
+      "isContinuation": false,
+      "titleZh": "保罗·基廷称“奥库斯”将澳大利亚锁定在必败的对华战争中",
+      "summaryZh": "澳大利亚前总理保罗·基廷批评“奥库斯”潜艇协议，认为这使澳大利亚卷入美国与中国的潜在冲突，并使其成为报复目标。他警告称美国若战败将撤回本土，留下澳大利亚独自面对后果。",
+      "whyImportant": "此言论反映了澳大利亚国内对于深度参与美中地缘政治竞争所带来的安全风险的激烈辩论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "90a5b3cbbad64b31",
+      "title": "Can the new Pinglu Canal become China’s Yangtze of the southwest?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3367901/can-new-pinglu-canal-become-chinas-yangtze-southwest?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:00:05.000Z",
+      "summary": "The opening of China’s first new river-to-sea canal since 1949 – which will boost trade links with Southeast Asia – could transform the economy of the country’s landlocked southwestern interior in ways comparable to the Yangtze’s role in Shanghai’s rise, according to its operator. The 134.2km (83.4 mile) Pinglu Canal, which opened on Wednesday, links a major tributary of the Pearl River in the southern Guangxi Zhuang autonomous region with the Gulf of Tonkin, known as the Beibu Gulf in China,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3367901/can-new-pinglu-canal-become-chinas-yangtze-southwest?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:00:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·全球治理与外交"
+        "中国重点",
+        "经济",
+        "专题·中国与世界"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 69,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": true,
       "topicKeywords": [
-        "united nations"
+        "china",
+        "中国"
       ],
-      "fingerprint": "c71f7007760c90af4b6ddfc6",
+      "fingerprint": "8ee26ca89856158b02d656f9",
       "isContinuation": false,
-      "titleZh": "联合国报告警告称，与人权捍卫者合作的人员面临报复风险",
-      "summaryZh": "联合国秘书长发布最新报告指出，与联合国人权机构合作的活动人士和律师持续遭受恐吓与报复。报告呼吁国际社会加强对这些合作者的保护并追究相关责任。",
-      "whyImportant": "该报告凸显了全球范围内人权合作者面临的安全威胁及问责机制的必要性。",
+      "titleZh": "平陆运河能否成为中国西南部的“长江”？",
+      "summaryZh": "中国新开通的平陆运河连接了珠江支流与北部湾，旨在促进与东南亚的贸易往来。运营方认为，该运河有望像长江带动上海崛起一样，彻底改变中国内陆西南地区的经济格局。",
+      "whyImportant": "平陆运河的开通标志着中国在优化内陆水运物流与区域经济协同发展方面迈出重要一步。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f15d6ea2610a400d",
+      "title": "ByteDance spin-off Anew Labs raises US$290m as AI drug developers enjoy fundraising boom",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-business/article/3367926/bytedance-spin-anew-labs-raises-us290m-ai-drug-developers-enjoy-fundraising-boom?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:00:08.000Z",
+      "summary": "China is seeing a fresh fundraising boom for artificial intelligence-powered drug developers, with start-ups including a ByteDance spin-off raising hundreds of millions of dollars this week as investors rush to back domestic challengers to Anthropic and Isomorphic Labs. Anew Labs, a Shanghai-based AI drug discovery firm and former unit of Chinese tech giant ByteDance, has raised US$290 million at a valuation of US$1.5 billion, according to an informed source. Investors included prominent venture...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/china-business/article/3367926/bytedance-spin-anew-labs-raises-us290m-ai-drug-developers-enjoy-fundraising-boom?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·中国与世界"
+      ],
+      "score": 66,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "03c3a3890df7599f93d6be97",
+      "isContinuation": false,
+      "titleZh": "字节跳动分拆公司Anew Labs融资2.9亿美元，AI药物研发领域掀起融资热潮",
+      "summaryZh": "中国AI药物研发初创企业近期融资活跃，字节跳动旗下的Anew Labs以15亿美元估值筹集了2.9亿美元。投资者正积极布局，以支持本土企业挑战国际领先的AI制药公司。",
+      "whyImportant": "这显示了资本市场对中国AI驱动药物研发领域的信心，以及该行业在全球竞争中的快速崛起。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "131a51cdd6ffcab8",
+      "title": "Hongkongers pay tribute to late leader Tung Chee-hwa at community halls",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3367947/hongkongers-pay-tribute-late-leader-tung-chee-hwa-community-halls?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T04:12:54.000Z",
+      "summary": "Some residents have started paying tribute to Hong Kong’s first chief executive Tung Chee-hwa on Friday morning, bringing flowers and writing heartfelt messages in condolence books placed at three community halls across the city. The condolence signing is arranged for the public a day ahead of Tung’s vigil on Saturday, followed by a state funeral on Sunday. “Chief Executive Tung, you devoted yourself selflessly so that Hong Kong could make a smooth transition. Hong Kong people will remember you...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3367947/hongkongers-pay-tribute-late-leader-tung-chee-hwa-community-halls?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T04:12:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "5c9b30d3ff06776abeb5cd37",
+      "isContinuation": false,
+      "titleZh": "香港市民在社区会堂悼念前特首董建华",
+      "summaryZh": "香港市民周五前往各区社区会堂，通过献花和留言悼念首任行政长官董建华。官方安排了悼念册供公众签署，以纪念其为香港平稳过渡所作的贡献。",
+      "whyImportant": "此举体现了香港社会对首任特首历史地位的缅怀与尊重。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "41dcb331d1725d06",
+      "title": "China publicly names officials in ‘unprecedented’ hidden-debt crackdown. Can it work?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3367870/china-publicly-names-officials-unprecedented-hidden-debt-crackdown-can-it-work?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T01:30:08.000Z",
+      "summary": "A recently issued official circular has put China’s long-running problem with hidden local government debt back in the spotlight. Earlier this month, the Ministry of Finance (MoF) and the Central Commission for Discipline Inspection (CCDI) jointly outlined six typical cases spanning six provinces where local authorities had fallen short of targets to resolve unrecorded liabilities. “For hidden-debt penalty announcements, it is unprecedented to have the CCDI alongside the MoF,” said Qiao Yide,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3367870/china-publicly-names-officials-unprecedented-hidden-debt-crackdown-can-it-work?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T01:30:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "5ff79f9946ad5486e6529bd0",
+      "isContinuation": false,
+      "titleZh": "中国公开点名官员以打击隐性债务，此举能否奏效？",
+      "summaryZh": "中国财政部与中纪委联合发布通报，点名批评六省份在化解隐性债务方面未达标。这是官方首次联合行动，旨在通过纪律审查强化对地方政府债务的监管。",
+      "whyImportant": "此次联合行动显示了中央政府化解地方债务风险、维护金融稳定的决心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7d8706c801ce4eaf",
+      "title": "Ngong Ping 360 cable car opens in Hong Kong after typhoon delay - SCMP archive",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3367929/ngong-ping-360-cable-car-opens-hong-kong-after-typhoon-delay-scmp-archive?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:15:05.000Z",
+      "summary": "This article was first published on September 18, 2006. Breezy launch is on the cards By Dennis Eng The Ngong Ping 360 cable car will open today in one of the windiest months of the year, according to the Hong Kong Observatory. Windy conditions with gusts reaching 90km/h occur on 5.5 days for a total of 52 hours in September on average, according to measurements taken at Ngong Ping between 2002 and last year. June, July and August are typically the windiest months. The Observatory’s forecast...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3367929/ngong-ping-360-cable-car-opens-hong-kong-after-typhoon-delay-scmp-archive?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:15:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "8fce6b97e1454800841696a5",
+      "isContinuation": false,
+      "titleZh": "香港昂坪360缆车在台风延误后开通 - 南华早报存档",
+      "summaryZh": "本文回顾了2006年9月18日昂坪360缆车的开通情况。尽管当时正值多风季节，天文台数据显示九月份常有强风，但缆车仍按计划投入运营。",
+      "whyImportant": "该报道记录了香港重要交通基础设施投入使用时的历史背景与气象挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0bd2b78f98d310b9",
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T17:08:00.000Z",
+      "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-17T17:08:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织",
+        "专题·中国与世界"
+      ],
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "3cd368a00d5db28dc55a10fd",
+      "isContinuation": false,
+      "titleZh": "在华被捕美国学者的妻子请求特朗普在会见习近平期间提出此案",
+      "summaryZh": "随着特朗普即将接待中国领导人，多名在华被监禁人员的家属正寻求其帮助。其中包括被捕美国学者的妻子，她希望特朗普能在双边会晤中提及相关案件。",
+      "whyImportant": "家属的呼吁将个人案件置于中美外交议程的焦点，增加了双边会谈的复杂性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0cebdb6964b37130",
+      "title": "Factsheet series: Hong Kong’s debut 5-year plan and 2026 policy address",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/series/3367932/factsheet-series-hong-kongs-debut-5-year-plan-and-2026-policy-address?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T02:15:33.000Z",
+      "summary": "",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/series/3367932/factsheet-series-hong-kongs-debut-5-year-plan-and-2026-policy-address?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T02:15:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "49556c409b356252fdf69d53",
+      "isContinuation": false,
+      "titleZh": "事实核查系列：香港首个五年计划与2026年政策地址",
+      "summaryZh": "该系列文章旨在梳理香港首个五年计划的核心内容，并结合2026年政策地址进行分析。内容重点关注政府在未来发展规划中的政策导向。",
+      "whyImportant": "该系列为公众理解香港政府的长期战略规划与政策重点提供了参考依据。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "cc84cd2c0d4c3118",
-      "title": "Australian politics live: Burke warns cutting migration too much would ‘trash economy’ and hoses down accusations of tension with Albanese and Chalmers",
+      "id": "5f18a25997946cf3",
+      "title": "Australia news live: Home affairs warns AI enables foreign interference and hackers; BoM updates website to look like ‘old radar view’",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
-      "publishedAt": "2026-09-17T04:32:07.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Barnaby Joyce says Labor is copying and pasting One Nation’s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what Pauline Hanson is suggesting. Speaking to the Today show a little earlier, Joyce says Burke’s last minute cancellation at the press club was “the greatest no-show since Amelia Earhart”. [Burke] can’t possibly be about to announce One Nation’s policy. I mean, Tony’s a great guy, right? I like Tony, but honestly, he was the greatest no-show since Amelia Earhart when he didn’t turn up to the Press Club … What I’ve heard thus far is that it’s an exact replication, but not to the extent of what One Nation is doing. I will be watching this with absolute fascination and some trepidation, and I’ll be waiting for Jim Chalmers to explain his new budget. I was on polling booths with my colleagues like Sally Sitou. I was out there in Reid with her in those last weeks of the campaign, standing there for hours at a time. She would be surrounded by men a foot taller than her, stopping her physical",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+      "publishedAt": "2026-09-18T04:16:12.000Z",
+      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Australia needs to slow down its artificial intelligence use and create better security laws, the companies creating the technology have told the federal government. In a submission to an ongoing inquiry, OpenAI said national leaders had a responsibility to work with other countries to stop global security threats: Many of the most consequential risks will not stop at national borders, making international co-ordination increasingly important. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
-          "publishedAt": "2026-09-17T04:32:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "军事与安全"
-      ],
-      "score": 72,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "38329a5bf09e1aa9e17c8bdc",
-      "isContinuation": false,
-      "titleZh": "澳大利亚政治直播：伯克警告过度削减移民将“摧毁经济”，并平息与阿尔巴尼斯及查尔默斯关系紧张的指控",
-      "summaryZh": "澳大利亚内政部长伯克警告称，大幅削减移民数量将对国家经济造成严重损害。反对党成员巴纳比·乔伊斯批评工党在移民政策上效仿“单一民族党”，并对伯克缺席新闻发布会表示不满。",
-      "whyImportant": "此举反映了澳大利亚政府在应对移民压力与维持经济增长之间面临的政策平衡挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b15c0efec36d4e8b",
-      "title": "‘The bloody cap has been scrapped’: Jacqui Lambie celebrates Labor backdown on veterans’ health services cap",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/veterans-allied-health-care-cap-jacqui-lambie-labor-backdown",
-      "publishedAt": "2026-09-17T00:52:40.000Z",
-      "summary": "Independent senator had denounced as ‘cruel’ the plan to impose a $5,000 cap on allied health services for veterans Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Labor has backed down on plans to impose a $5,000 cap on health services for defence veterans, caving to growing political pressure after weeks of criticism. The government announced it would no longer pursue the cap for allied health services, which had been to come into force on 1 July 2027, after a weeks-long campaign by the opposition, veterans’ groups and independent senator Jacqui Lambie. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/17/veterans-allied-health-care-cap-jacqui-lambie-labor-backdown",
-          "publishedAt": "2026-09-17T00:52:40.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+          "publishedAt": "2026-09-18T04:16:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -169,35 +371,113 @@
         "全球焦点",
         "突发",
         "军事与安全",
-        "国际组织"
+        "科技"
       ],
-      "score": 69,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 66,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "d2834da7a7963237184f9341",
+      "fingerprint": "f8832ef1e46c30fbdcf38465",
       "isContinuation": false,
-      "titleZh": "“该死的上限被取消了”：杰基·兰比庆祝工党在退伍军人医疗服务上限问题上做出让步",
-      "summaryZh": "在面临反对党、退伍军人团体及独立参议员杰基·兰比的持续压力后，澳大利亚工党政府决定取消对退伍军人辅助医疗服务设定的5000澳元上限。此前该政策因被批评为“残酷”而引发广泛争议。",
-      "whyImportant": "政府的政策转向显示了外部舆论压力对退伍军人福利决策的直接影响。",
+      "titleZh": "澳大利亚新闻直播：内政部警告人工智能助长外国干预与黑客攻击；气象局更新网站恢复“旧雷达视图”",
+      "summaryZh": "澳大利亚联邦政府正面临科技公司建议，要求放缓人工智能应用并完善安全法规。OpenAI在提交的调查报告中指出，人工智能带来的全球安全威胁已超越国界，国际协作至关重要。",
+      "whyImportant": "此举反映了各国政府在应对人工智能带来的国家安全风险时，正寻求加强监管与国际合作。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "046a83a89315b9fd",
-      "title": "Prominent athlete tells Alan Jones trial he sent shirtless photo before unwanted kiss he wished ‘never happened’",
+      "id": "a8afc0d40c3f9f3c",
+      "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/alan-jones-trial-athlete-sent-shirtless-photo-before-unwanted-kiss-ntwnfb",
-      "publishedAt": "2026-09-17T03:50:08.000Z",
-      "summary": "Former 2GB and 2UE broadcaster has pleaded not guilty to 22 indecent assault and sexual touching charges Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast An alleged victim of Alan Jones has told a Sydney court that an unwanted kiss from the former shock jock more than a decade ago is seared in his memory and he wished it never happened. The ex-sportsman, known as complainant M, agreed during cross-examination by the defence that he sent Jones a shirtless photo of him in Paris some months before the alleged kiss. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
+      "publishedAt": "2026-09-18T04:04:57.000Z",
+      "summary": "The gift from Italy has sparked fierce debate among defence analysts and opposition politicians who question its true cost and purpose Indonesia has received its first aircraft carrier, a former Italian warship that the government says will strengthen the archipelagic nation’s maritime security and disaster response capabilities. The 41-year-old former ITS Giuseppe Garibaldi, with capacity for short takeoff and vertical landing aircraft and helicopters, arrived Friday morning at a naval base in North Jakarta’s Tanjung Priok port, where it was welcomed with a military ceremony. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/17/alan-jones-trial-athlete-sent-shirtless-photo-before-unwanted-kiss-ntwnfb",
-          "publishedAt": "2026-09-17T03:50:08.000Z"
+          "url": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
+          "publishedAt": "2026-09-18T04:04:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "公共安全",
+        "国际组织"
+      ],
+      "score": 64,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7bbb0fd3be225ebc6a7deb57",
+      "isContinuation": false,
+      "titleZh": "印尼接收首艘航空母舰，引发关于成本与军事野心的争论",
+      "summaryZh": "印度尼西亚接收了一艘由意大利赠送的退役军舰，政府称其将增强海上安全与救灾能力。然而，该舰的实际维护成本及其军事用途在当地引发了国防分析人士和反对派政客的激烈辩论。",
+      "whyImportant": "这标志着印尼海军力量的扩张，同时也凸显了该国在国防预算分配与战略目标上的内部矛盾。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7d8706c801ce4eaf",
+      "title": "Ngong Ping 360 cable car opens in Hong Kong after typhoon delay - SCMP archive",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3367929/ngong-ping-360-cable-car-opens-hong-kong-after-typhoon-delay-scmp-archive?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:15:05.000Z",
+      "summary": "This article was first published on September 18, 2006. Breezy launch is on the cards By Dennis Eng The Ngong Ping 360 cable car will open today in one of the windiest months of the year, according to the Hong Kong Observatory. Windy conditions with gusts reaching 90km/h occur on 5.5 days for a total of 52 hours in September on average, according to measurements taken at Ngong Ping between 2002 and last year. June, July and August are typically the windiest months. The Observatory’s forecast...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3367929/ngong-ping-360-cable-car-opens-hong-kong-after-typhoon-delay-scmp-archive?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:15:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "8fce6b97e1454800841696a5",
+      "isContinuation": false,
+      "titleZh": "香港昂坪360缆车在台风延误后开通 - 南华早报存档",
+      "summaryZh": "本文回顾了2006年9月18日昂坪360缆车的开通情况。尽管当时正值多风季节，天文台数据显示九月份常有强风，但缆车仍按计划投入运营。",
+      "whyImportant": "该报道记录了香港重要交通基础设施投入使用时的历史背景与气象挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8a5d075aa2f816f2",
+      "title": "Man who sprayed Ilhan Omar with vinegar sentenced to 14 months",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/man-sentenced-ilhan-omar-vinegar-minneapolis",
+      "publishedAt": "2026-09-17T22:48:57.000Z",
+      "summary": "Anthony Kazmierczak agreed plea deal over January town-hall attack that came amid Minneapolis ICE crackdown The man who sprayed vinegar at the Democratic US House member Ilhan Omar during a Minneapolis town hall was sentenced Thursday to 14 months in prison after reaching a deal with prosecutors. The sentencing of 56-year-old Anthony Kazmierczak came nearly eight months after the 27 January assault. At the time, Minneapolis was facing an immigration crackdown that led to angry protests, arrests and the killing of two US citizens by federal officers. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/17/man-sentenced-ilhan-omar-vinegar-minneapolis",
+          "publishedAt": "2026-09-17T22:48:57.000Z"
         }
       ],
       "sourceCount": 1,
@@ -207,72 +487,76 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "国际组织"
       ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "72b7d3ee3a4b4de2707454ac",
+      "fingerprint": "e7f726e1a2df169603f1a2c5",
       "isContinuation": false,
-      "titleZh": "知名运动员在艾伦·琼斯案审判中作证：称在遭受不想要的亲吻前曾发送过半裸照片，并表示希望“从未发生过”",
-      "summaryZh": "前广播员艾伦·琼斯面临多项猥亵和性接触指控，目前他已表示不认罪。一名受害者在法庭上作证称，十多年前曾遭到琼斯强吻，并承认在事发前曾向其发送过半裸照片。",
-      "whyImportant": "该案件因涉及知名媒体人的性侵指控而备受公众关注，对相关法律审判具有重要意义。",
+      "titleZh": "向伊尔汗·奥马尔喷洒醋的男子被判入狱14个月",
+      "summaryZh": "一名56岁男子因在明尼阿波利斯市政厅会议上向美国众议员伊尔汗·奥马尔喷洒醋，与检方达成认罪协议并被判处14个月监禁。该事件发生于当地移民执法引发抗议和骚乱的背景之下。",
+      "whyImportant": "此判决体现了美国司法系统对针对民选官员袭击行为的惩处力度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cccfd7344a119b65",
-      "title": "Teenage boys charged with murder after alleged mistaken identity shooting of Sydney student",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/teenage-boys-charged-with-murder-university-student-ntwnfb",
-      "publishedAt": "2026-09-17T00:42:05.000Z",
-      "summary": "Boys aged 14 and 16 charged after Marco Tapia, 23, was killed inside his family’s home in Glen Alpine Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Two teenage boys have been charged with murder after the shooting death of a university student in Sydney this month, which police say was a case of mistaken identity. Marco Tapia, 23, was shot inside his family’s home in Glen Alpine early on 1 September. Continue reading...",
+      "id": "0bd2b78f98d310b9",
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T17:08:00.000Z",
+      "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/17/teenage-boys-charged-with-murder-university-student-ntwnfb",
-          "publishedAt": "2026-09-17T00:42:05.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-17T17:08:00.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发"
+        "中国重点",
+        "国际组织",
+        "专题·中国与世界"
       ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4a00a592c722ec6ce01b067a",
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "3cd368a00d5db28dc55a10fd",
       "isContinuation": false,
-      "titleZh": "悉尼学生遭误杀，两名青少年被控谋杀",
-      "summaryZh": "悉尼一名23岁的大学生马可·塔皮亚于9月初在家中遭枪击身亡。警方调查显示这是一起误杀案件，目前两名分别为14岁和16岁的青少年已被控谋杀。",
-      "whyImportant": "该案件因涉及青少年暴力犯罪及误杀性质，引发了社会对公共安全和青少年犯罪问题的担忧。",
+      "titleZh": "在华被捕美国学者的妻子请求特朗普在会见习近平期间提出此案",
+      "summaryZh": "随着特朗普即将接待中国领导人，多名在华被监禁人员的家属正寻求其帮助。其中包括被捕美国学者的妻子，她希望特朗普能在双边会晤中提及相关案件。",
+      "whyImportant": "家属的呼吁将个人案件置于中美外交议程的焦点，增加了双边会谈的复杂性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b456df6fd6226e8b",
-      "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-      "publishedAt": "2026-09-16T23:26:27.000Z",
-      "summary": "Both sides agreed to expand air travel and resume direct commercial flights.",
+      "id": "ed322ee2cc3a7c26",
+      "title": "US to allow Iranian leaders to attend UN meeting in New York amid wartime stand-off",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367948/us-allow-iranian-leaders-attend-un-meeting-new-york-amid-wartime-stand?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T04:11:25.000Z",
+      "summary": "The Trump administration has approved visas for top Iranian officials, including the president and foreign minister, to attend next week’s UN General Assembly high-level meeting in New York even as the two countries are locked in a stalemated war. The State Department said Thursday that it had approved visas for Iran’s “core delegation”, along with essential staffers to participate in the UN meetings. The core delegation includes President Masoud Pezeshkian and Foreign Minister Abbas Araghchi,...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-          "publishedAt": "2026-09-16T23:26:27.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3367948/us-allow-iranian-leaders-attend-un-meeting-new-york-amid-wartime-stand?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T04:11:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -282,191 +566,35 @@
       "tags": [
         "全球焦点",
         "外交",
-        "专题·全球治理与外交"
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "b3cce23063de8f66f6f19946",
-      "isContinuation": false,
-      "titleZh": "以色列与摩洛哥同意互设大使馆，升级外交关系",
-      "summaryZh": "以色列与摩洛哥达成协议，双方将互设大使馆以提升外交关系。此外，两国还同意扩大航空合作并恢复直飞商业航班。",
-      "whyImportant": "此举标志着以色列与摩洛哥在外交正常化进程中迈出了实质性的一步。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "05819902a831907d",
-      "title": "US House holds billionaire Leon Black in contempt over Epstein probe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367807/us-house-holds-billionaire-leon-black-contempt-over-epstein-probe?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T03:48:49.000Z",
-      "summary": "The US House of Representatives held billionaire investor Leon Black in contempt of Congress on Wednesday for defying subpoenas issued in its investigation into notorious sex offender Jeffrey Epstein. The resolution was adopted by unanimous consent, without a recorded vote, a day after the House Oversight Committee unanimously recommended the action. The matter will now be referred to the Justice Department, which will decide whether to pursue criminal charges. “No one is above the law. Leon...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3367807/us-house-holds-billionaire-leon-black-contempt-over-epstein-probe?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T03:48:49.000Z"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-16T19:59:57.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7feec042342ce812c3210600",
+      "fingerprint": "3401232f0d7fecea669a6251",
       "isContinuation": false,
-      "titleZh": "美国众议院因爱泼斯坦调查传票问题裁定亿万富翁莱昂·布莱克藐视国会",
-      "summaryZh": "美国众议院一致通过决议，裁定亿万富翁投资者莱昂·布莱克藐视国会，因其拒绝配合针对杰弗里·爱泼斯坦案的调查传票。该案件将移交司法部，由其决定是否提起刑事诉讼。",
-      "whyImportant": "此举显示了国会在调查爱泼斯坦相关案件中对配合程度的强硬立场。",
+      "titleZh": "尽管处于战时对峙，美国仍允许伊朗领导人参加纽约联合国会议",
+      "summaryZh": "尽管美伊两国处于僵持的战争状态，特朗普政府仍批准了伊朗总统及外交部长等核心代表团成员的签证。此举旨在确保伊朗官员能够出席下周在纽约举行的联合国大会高级别会议。",
+      "whyImportant": "此决定显示了美国在处理敌对国家外交往来时，仍试图维持联合国作为国际对话平台的特殊地位。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "35bb4e8da06eefc4",
-      "title": "Climate crisis likely behind devastating Nepal-Tibet floods that killed more than 1,300, first study finds",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
-      "publishedAt": "2026-09-16T23:01:32.000Z",
-      "summary": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing hundreds of people in Nepal and Tibet last month, the first scientific study of the disaster has found. Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3,885 cu ft) of snow and ice into the valley below. This triggered flash floods on an almost unprecedented scale, hitting communities downstream without warning. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
-          "publishedAt": "2026-09-16T23:01:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "环境",
-        "公共安全"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a73cd9a38bc5a191eff8e6be",
-      "isContinuation": false,
-      "titleZh": "首项研究发现：气候危机可能是导致尼泊尔-西藏洪水造成1300多人死亡的背后原因",
-      "summaryZh": "一项最新科学研究指出，全球变暖导致冰川变得不稳定，是上个月尼泊尔和西藏发生灾难性洪水的主要诱因。异常高温导致冰川崩塌，引发了大规模的雪崩和突发洪水。",
-      "whyImportant": "该研究为气候变化与极端自然灾害之间的直接联系提供了新的科学证据。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8eea5136c3386b19",
-      "title": "Casino, not bakery: Philippine e-payment firms urged to improve merchant vetting",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367809/casino-not-bakery-philippine-e-payment-firms-urged-improve-merchant-vetting?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T04:20:14.000Z",
-      "summary": "Electronic payment providers need to be more diligent in vetting companies that use their platforms to protect people from fraud, the Philippine central bank said. The requirement came after Bangko Sentral ng Pilipinas found thousands of illegal businesses on the payment platforms, including many online casinos masquerading as more ordinary companies like beauty salons and bakeries. “We want to protect consumers from online fraud, illegal activities and also from money launderers,” Deputy...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367809/casino-not-bakery-philippine-e-payment-firms-urged-improve-merchant-vetting?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T04:20:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "金融"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "59ad9d6fb349fcfe7d2e1c42",
-      "isContinuation": false,
-      "titleZh": "菲律宾央行敦促电子支付公司加强商户审查，打击伪装成面包店的赌场",
-      "summaryZh": "菲律宾央行要求电子支付平台加强对商户的审查力度，以防范欺诈和洗钱活动。此前调查发现，许多非法在线赌场伪装成美容院或面包店等合法企业接入支付系统。",
-      "whyImportant": "此举旨在加强金融监管，保护消费者免受非法在线活动的侵害。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f500b17b7a00a95a",
-      "title": "Turkey detains dozens in crackdown on LGBTQ+ activists and journalists",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/global-development/2026/sep/17/turkey-raids-detains-dozens-crackdown-lgbtq-activists-journalists",
-      "publishedAt": "2026-09-17T04:00:38.000Z",
-      "summary": "Protesters teargassed as minister claims widespread raids and arrests under obscenity laws were to ‘protect families’ Turkish authorities have used accusations of obscenity to justify a wave of raids and arrests targeting the LGBTQ+ community, which has grown to include journalists as well as more than 150 arrested during protests against the raids. Starting in the early hours of Sunday, Turkish police carried out simultaneous raids on the offices of LGBTQ+ rights organisations and HIV-advocacy groups in the cities of Istanbul, the capital, Ankara, and the coastal city of İzmir, as well as the cities of Aydın and Mersin. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/global-development/2026/sep/17/turkey-raids-detains-dozens-crackdown-lgbtq-activists-journalists",
-          "publishedAt": "2026-09-17T04:00:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c01471e46d6926bdec24d5e3",
-      "isContinuation": false,
-      "titleZh": "土耳其在针对LGBTQ+活动人士和记者的镇压行动中拘留数十人",
-      "summaryZh": "土耳其当局以“保护家庭”和淫秽罪为由，对LGBTQ+组织及相关人士进行了大规模突袭和逮捕。此次行动波及多个城市，导致超过150名抗议者被捕，其中包括多名记者。",
-      "whyImportant": "此举引发了国际社会对土耳其人权状况及言论自由受到进一步压制的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "aa76e071ef7a0b11",
-      "title": "Yemeni forces target Houthis and a Saudi base as US rules out direct role",
+      "id": "73ea87fd0b415487",
+      "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
-      "publishedAt": "2026-09-17T03:26:56.000Z",
-      "summary": "Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+      "publishedAt": "2026-09-18T03:20:20.000Z",
+      "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
-          "publishedAt": "2026-09-17T03:26:56.000Z"
+          "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+          "publishedAt": "2026-09-18T03:20:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -475,74 +603,198 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全"
+        "经济",
+        "金融"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "67e437847e67ec1a38f76783",
+      "fingerprint": "906a04411612d58f3f8bc50b",
       "isContinuation": false,
-      "titleZh": "也门武装力量瞄准胡塞武装及沙特基地，美国排除直接参与可能",
-      "summaryZh": "由于自身拦截导弹库存减少，美国排除了直接介入冲突的可能。沙特阿拉伯已向盟友寻求导弹防御支持，以应对来自也门的威胁。",
-      "whyImportant": "该地区安全局势的升级凸显了中东防务资源分配的紧张与地缘政治的复杂性。",
+      "titleZh": "日本央行将利率上调至1.25%，创31年来新高以应对通胀",
+      "summaryZh": "日本央行宣布将基准利率从1%上调至1.25%。此举旨在通过紧缩货币政策来应对国内日益增长的通胀风险。",
+      "whyImportant": "日本央行的加息决策标志着其长期超宽松货币政策的进一步转向，对全球金融市场具有重要影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0cebdb6964b37130",
+      "title": "Factsheet series: Hong Kong’s debut 5-year plan and 2026 policy address",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/series/3367932/factsheet-series-hong-kongs-debut-5-year-plan-and-2026-policy-address?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T02:15:33.000Z",
+      "summary": "",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/series/3367932/factsheet-series-hong-kongs-debut-5-year-plan-and-2026-policy-address?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T02:15:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "49556c409b356252fdf69d53",
+      "isContinuation": false,
+      "titleZh": "事实核查系列：香港首个五年计划与2026年政策地址",
+      "summaryZh": "该系列文章旨在梳理香港首个五年计划的核心内容，并结合2026年政策地址进行分析。内容重点关注政府在未来发展规划中的政策导向。",
+      "whyImportant": "该系列为公众理解香港政府的长期战略规划与政策重点提供了参考依据。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "25bac855bb4c7dbc",
+      "title": "The need for speed as Hong Kong plugs in",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/presented/news/hong-kong/topics/need-charging-speed/article/3367850/need-speed-hong-kong-plugs?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T02:00:17.000Z",
+      "summary": "[The content of this article has been produced by our advertising partner.] Hong Kong is preparing for many more electric vehicles on its roads. The city’s First Five-Year Plan, announced alongside the Policy Address, calls for the steady electrification of vehicles and safe, efficient charging networks, with around 10,000 fast chargers expected by 2035 to support about 500,000 EVs. That longer-term target follows an updated EV roadmap released in February, which calls for fast chargers to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/presented/news/hong-kong/topics/need-charging-speed/article/3367850/need-speed-hong-kong-plugs?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T02:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "bf6debda099b1d434709bd7f",
+      "isContinuation": false,
+      "titleZh": "香港加速推进电动汽车充电网络建设",
+      "summaryZh": "香港正通过首个五年计划推动交通工具电动化，目标是到2035年部署约10,000个快速充电器，以支持约50万辆电动汽车。此举旨在落实最新的电动汽车路线图，确保城市充电网络的安全与高效。",
+      "whyImportant": "该计划将显著提升香港的电动汽车基础设施，对城市交通绿色转型具有重要意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b56ddccd688eaee0",
+      "title": "Like Shenzhen, the Northern Metropolis is animated by the spirit of experimentation",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367836/shenzhen-northern-metropolis-animated-spirit-experimentation?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T01:30:05.000Z",
+      "summary": "At the heart of Hong Kong’s first five-year plan lies the Northern Metropolis – a massive tract of land spanning roughly a third of our entire city. Much ink has been spilled over what this project represents and why it matters, but if I had to summarise it in a single sentence, I would call it the “Shenzhen of Hong Kong”. To me, Shenzhen stands as the most miraculous growth story on Earth. Forty-eight years ago, it was a sleepy fishing village with a single muddy main road and just tens of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367836/shenzhen-northern-metropolis-animated-spirit-experimentation?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T01:30:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "a6e3a3a151224b91e458ab61",
+      "isContinuation": false,
+      "titleZh": "北部都会区：以深圳精神驱动的实验性发展",
+      "summaryZh": "香港首个五年计划的核心在于北部都会区，该项目占地约全市三分之一。作者将其比作“香港的深圳”，强调其作为城市增长引擎的实验性与重要意义。",
+      "whyImportant": "北部都会区被视为香港未来经济增长与区域融合的关键战略空间。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "a7746279f069a77a",
-      "title": "Hong Kong’s first 5-year plan, John Lee’s 2026 policy address: everything you need to know",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/article/3367802/hong-kongs-first-5-year-plan-john-lees-2026-policy-address-everything-you-need-know?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T04:30:06.000Z",
-      "summary": "We have put together stories from our coverage of John Lee’s 2026 policy address. If you would like to see more of our reporting, please consider subscribing. 1. 14 key takeaways from John Lee’s policy address, Hong Kong’s first 5-year plan Hong Kong Chief Executive John Lee Ka-chiu has placed deepening integration with mainland China and developing new economic engines centre stage as he unveiled the city’s first-ever five-year plan alongside the last policy address of his term. 2. Hong Kong...",
+      "id": "18b9efcad5ddc067",
+      "title": "Paul Keating says Aukus locking Australia into a US war against China, which it would ‘certainly lose’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/18/paul-keating-aukus-locking-australia-into-us-china-war",
+      "publishedAt": "2026-09-18T04:06:31.000Z",
+      "summary": "Former prime minister says US would ‘scuttle itself back to San Diego’, leaving Australia to deal with retribution from China Follow our Australia news live blog for latest updates Get our new political email, free app or daily news podcast Aukus critic Paul Keating has said the submarine deal is locking Australia in to any future US conflict with China – “a war America would certainly lose” – and making Australia a target for retribution. The former prime minister seized on comments reported out of Washington this week from Republican congressman Michael McCaul – a China hawk and co-chair of the Congressional Friends of Australia caucus – who said “Australia is a target” for enemies of the US already. However, McCaul argued that greater integration with the US military would better protect Australia rather than leaving it more vulnerable. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/article/3367802/hong-kongs-first-5-year-plan-john-lees-2026-policy-address-everything-you-need-know?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T04:30:06.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/18/paul-keating-aukus-locking-australia-into-us-china-war",
+          "publishedAt": "2026-09-18T04:06:31.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "经济"
+        "美国重点",
+        "军事与安全",
+        "国际组织",
+        "专题·中国与世界"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "54d8884ca0e443ed3dba8e80",
+      "score": 81,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "5be2343c383af6a133c1c0f9",
       "isContinuation": false,
-      "titleZh": "香港首个五年规划与李家超2026年施政报告：你需要了解的一切",
-      "summaryZh": "香港行政长官李家超发布了任内最后一份施政报告，并首次提出了五年规划。报告重点强调了深化与中国内地的融合以及培育新的经济增长引擎。",
-      "whyImportant": "这份规划为香港未来的经济发展方向和与内地的整合程度设定了明确的政策基调。",
+      "titleZh": "保罗·基廷称“奥库斯”将澳大利亚锁定在必败的对华战争中",
+      "summaryZh": "澳大利亚前总理保罗·基廷批评“奥库斯”潜艇协议，认为这使澳大利亚卷入美国与中国的潜在冲突，并使其成为报复目标。他警告称美国若战败将撤回本土，留下澳大利亚独自面对后果。",
+      "whyImportant": "此言论反映了澳大利亚国内对于深度参与美中地缘政治竞争所带来的安全风险的激烈辩论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "95bbf36d6d1949bf",
-      "title": "China’s rocket boom has made Hainan a space hub. Can launches fuel wider growth?",
+      "id": "90a5b3cbbad64b31",
+      "title": "Can the new Pinglu Canal become China’s Yangtze of the southwest?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/policy/article/3367752/chinas-rocket-boom-turns-hainan-space-hub-can-launches-fuel-wider-growth?utm_source=rss_feed",
-      "publishedAt": "2026-09-16T22:00:08.000Z",
-      "summary": "As technological developments augur an era of renewed space exploration, China is aiming to become a major player. In the first part of this two-part series, Wency Chen and Mia Nurmamat examine how the southern island province of Hainan is betting on a growing aerospace cluster to rewrite its economic playbook beyond tourism. On Hainan’s northeastern coast, launch towers rise abruptly from a flat landscape of coconut palms and open sky. At Pad 1 of the commercial spaceport in Wenchang, an...",
+      "url": "https://www.scmp.com/economy/china-economy/article/3367901/can-new-pinglu-canal-become-chinas-yangtze-southwest?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:00:05.000Z",
+      "summary": "The opening of China’s first new river-to-sea canal since 1949 – which will boost trade links with Southeast Asia – could transform the economy of the country’s landlocked southwestern interior in ways comparable to the Yangtze’s role in Shanghai’s rise, according to its operator. The 134.2km (83.4 mile) Pinglu Canal, which opened on Wednesday, links a major tributary of the Pearl River in the southern Guangxi Zhuang autonomous region with the Gulf of Tonkin, known as the Beibu Gulf in China,...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/policy/article/3367752/chinas-rocket-boom-turns-hainan-space-hub-can-launches-fuel-wider-growth?utm_source=rss_feed",
-          "publishedAt": "2026-09-16T22:00:08.000Z"
+          "url": "https://www.scmp.com/economy/china-economy/article/3367901/can-new-pinglu-canal-become-chinas-yangtze-southwest?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:00:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -552,35 +804,38 @@
       "tags": [
         "中国重点",
         "经济",
-        "科技"
+        "专题·中国与世界"
       ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a61c6dfb158fb47543273e4a",
+      "score": 69,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "8ee26ca89856158b02d656f9",
       "isContinuation": false,
-      "titleZh": "中国火箭热潮使海南成为航天枢纽，发射活动能否推动更广泛的增长？",
-      "summaryZh": "中国正致力于成为航天强国，海南省正利用其航天产业集群优势，试图摆脱对旅游业的单一依赖。文昌商业航天发射场的发展，标志着该地区正积极布局高科技经济增长点。",
-      "whyImportant": "海南航天产业的发展反映了中国在商业航天领域寻求经济转型和技术自主的战略意图。",
+      "titleZh": "平陆运河能否成为中国西南部的“长江”？",
+      "summaryZh": "中国新开通的平陆运河连接了珠江支流与北部湾，旨在促进与东南亚的贸易往来。运营方认为，该运河有望像长江带动上海崛起一样，彻底改变中国内陆西南地区的经济格局。",
+      "whyImportant": "平陆运河的开通标志着中国在优化内陆水运物流与区域经济协同发展方面迈出重要一步。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "32ecb94ff231bfa0",
-      "title": "China airports climb global-connectivity ranking as international routes rise: OAG report",
+      "id": "f15d6ea2610a400d",
+      "title": "ByteDance spin-off Anew Labs raises US$290m as AI drug developers enjoy fundraising boom",
       "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3367718/china-airports-climb-global-connectivity-ranking-international-routes-rise-oag-report?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T03:00:10.000Z",
-      "summary": "Among the world’s most connected airports, Guangzhou’s hub has posted the fastest rise through the latest rankings, according to an annual list compiled by aviation data firm OAG. And overall, Chinese hubs stood out as carriers expanded their international networks with added flights. Guangzhou Baiyun International Airport in southern China jumped to 19th place, from 36th last year, in OAG’s Megahubs 2026 report, released on Wednesday. An OAG spokeswoman called its jump the biggest of any...",
+      "url": "https://www.scmp.com/business/china-business/article/3367926/bytedance-spin-anew-labs-raises-us290m-ai-drug-developers-enjoy-fundraising-boom?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:00:08.000Z",
+      "summary": "China is seeing a fresh fundraising boom for artificial intelligence-powered drug developers, with start-ups including a ByteDance spin-off raising hundreds of millions of dollars this week as investors rush to back domestic challengers to Anthropic and Isomorphic Labs. Anew Labs, a Shanghai-based AI drug discovery firm and former unit of Chinese tech giant ByteDance, has raised US$290 million at a valuation of US$1.5 billion, according to an informed source. Investors included prominent venture...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3367718/china-airports-climb-global-connectivity-ranking-international-routes-rise-oag-report?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T03:00:10.000Z"
+          "url": "https://www.scmp.com/business/china-business/article/3367926/bytedance-spin-anew-labs-raises-us290m-ai-drug-developers-enjoy-fundraising-boom?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:00:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -588,35 +843,244 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "科技",
+        "专题·中国与世界"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ef99316bd007912e45f11af3",
+      "score": 66,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "03c3a3890df7599f93d6be97",
       "isContinuation": false,
-      "titleZh": "OAG报告：随着国际航线增加，中国机场全球连通性排名上升",
-      "summaryZh": "根据航空数据公司OAG的最新报告，中国机场在全球连通性排名中表现突出。其中，广州白云国际机场排名大幅跃升，显示出中国航空枢纽在国际网络扩张方面的强劲势头。",
-      "whyImportant": "中国机场连通性的提升反映了中国民航业在后疫情时代国际业务的快速恢复与扩张。",
+      "titleZh": "字节跳动分拆公司Anew Labs融资2.9亿美元，AI药物研发领域掀起融资热潮",
+      "summaryZh": "中国AI药物研发初创企业近期融资活跃，字节跳动旗下的Anew Labs以15亿美元估值筹集了2.9亿美元。投资者正积极布局，以支持本土企业挑战国际领先的AI制药公司。",
+      "whyImportant": "这显示了资本市场对中国AI驱动药物研发领域的信心，以及该行业在全球竞争中的快速崛起。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a6e26f80f8d65948",
-      "title": "China mulls bid for Apec free-trade area to taunt US, tantalise Asia",
+      "id": "131a51cdd6ffcab8",
+      "title": "Hongkongers pay tribute to late leader Tung Chee-hwa at community halls",
       "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3367713/china-mulls-bid-apec-free-trade-area-taunt-us-tantalise-asia?utm_source=rss_feed",
-      "publishedAt": "2026-09-16T13:30:05.000Z",
-      "summary": "China is increasingly expected to push for a trade agreement binding a wide swathe of the Pacific Rim, including the US, when it hosts a forum of major Asia-Pacific economies in November, but a real deal may be hard to secure as Washington is likely to resist, according to analysts. The anticipated push for the Free Trade Area of the Asia-Pacific (FTAAP), covering all 21 members of the Asia-Pacific Economic Cooperation (Apec) forum, would – even if unsuccessful – earn Beijing goodwill from other...",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3367947/hongkongers-pay-tribute-late-leader-tung-chee-hwa-community-halls?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T04:12:54.000Z",
+      "summary": "Some residents have started paying tribute to Hong Kong’s first chief executive Tung Chee-hwa on Friday morning, bringing flowers and writing heartfelt messages in condolence books placed at three community halls across the city. The condolence signing is arranged for the public a day ahead of Tung’s vigil on Saturday, followed by a state funeral on Sunday. “Chief Executive Tung, you devoted yourself selflessly so that Hong Kong could make a smooth transition. Hong Kong people will remember you...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/economy/global-economy/article/3367713/china-mulls-bid-apec-free-trade-area-taunt-us-tantalise-asia?utm_source=rss_feed",
-          "publishedAt": "2026-09-16T13:30:05.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3367947/hongkongers-pay-tribute-late-leader-tung-chee-hwa-community-halls?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T04:12:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "5c9b30d3ff06776abeb5cd37",
+      "isContinuation": false,
+      "titleZh": "香港市民在社区会堂悼念前特首董建华",
+      "summaryZh": "香港市民周五前往各区社区会堂，通过献花和留言悼念首任行政长官董建华。官方安排了悼念册供公众签署，以纪念其为香港平稳过渡所作的贡献。",
+      "whyImportant": "此举体现了香港社会对首任特首历史地位的缅怀与尊重。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "41dcb331d1725d06",
+      "title": "China publicly names officials in ‘unprecedented’ hidden-debt crackdown. Can it work?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3367870/china-publicly-names-officials-unprecedented-hidden-debt-crackdown-can-it-work?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T01:30:08.000Z",
+      "summary": "A recently issued official circular has put China’s long-running problem with hidden local government debt back in the spotlight. Earlier this month, the Ministry of Finance (MoF) and the Central Commission for Discipline Inspection (CCDI) jointly outlined six typical cases spanning six provinces where local authorities had fallen short of targets to resolve unrecorded liabilities. “For hidden-debt penalty announcements, it is unprecedented to have the CCDI alongside the MoF,” said Qiao Yide,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3367870/china-publicly-names-officials-unprecedented-hidden-debt-crackdown-can-it-work?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T01:30:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "5ff79f9946ad5486e6529bd0",
+      "isContinuation": false,
+      "titleZh": "中国公开点名官员以打击隐性债务，此举能否奏效？",
+      "summaryZh": "中国财政部与中纪委联合发布通报，点名批评六省份在化解隐性债务方面未达标。这是官方首次联合行动，旨在通过纪律审查强化对地方政府债务的监管。",
+      "whyImportant": "此次联合行动显示了中央政府化解地方债务风险、维护金融稳定的决心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "usa": [
+    {
+      "id": "396a38130c682431",
+      "title": "New tiger cat species identified in Bolivia, first in over a century",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
+      "publishedAt": "2026-09-18T04:16:28.000Z",
+      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century. The cat, called tilcayo by local communities, is part of a group called tiger ⁠cats found across much of South ⁠America. It was found in Bolivia’s ​lush Yungas forest, a mountainous region where forests are often covered by clouds and surrounded by high humidity, according to researchers. It measures about 18in (46cm) long and weighs about 3lb (1.4kg), making it smaller than the average domestic ⁠cat. Continue reading...",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
+          "publishedAt": "2026-09-18T04:16:28.000Z"
+        },
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+          "publishedAt": "2026-09-17T20:43:38.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/americas/article/3367909/new-cat-species-identified-bolivia-first-over-century?utm_source=rss_feed",
+          "publishedAt": "2026-09-17T17:12:46.000Z"
+        }
+      ],
+      "sourceCount": 3,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "能源"
+      ],
+      "score": 74,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b5071bb37d34a763797234a1",
+      "isContinuation": false,
+      "titleZh": "玻利维亚发现新虎猫物种，为百年来首次",
+      "summaryZh": "研究人员在玻利维亚云雾森林中发现了一种名为“tilcayo”的新型野生猫科动物。这是百年来首次正式命名和描述的新猫科物种，其体型比普通家猫还要小。",
+      "whyImportant": "这一发现丰富了生物多样性记录，并强调了保护云雾森林生态系统的重要性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ae83d276e88e9cd9",
+      "title": "Could this economic squeeze sway US voters?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+      "publishedAt": "2026-09-18T04:27:25.000Z",
+      "summary": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+          "publishedAt": "2026-09-18T04:27:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d603407f90c9017ebde12ef9",
+      "isContinuation": false,
+      "titleZh": "这种经济紧缩会影响美国选民吗？",
+      "summaryZh": "美国低收入群体正承受着借贷成本上升和购买力下降的双重压力。这种经济困境可能对选民的投票倾向产生影响。",
+      "whyImportant": "经济状况的恶化往往是影响美国大选结果的关键变量。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3b3ab374198a7a85",
+      "title": "Is Trump’s AI obsession walking the world into disaster? – podcast",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
+      "publishedAt": "2026-09-18T04:00:08.000Z",
+      "summary": "Tech bosses have called for a slowdown in artificial intelligence and the creation of formal guardrails from the US government. But why is President Trump unmoved by the doomsday predictions, dismissing them as a ‘hoax’? What lies behind his embrace of the AI industry? Jonathan Freedland speaks to the Guardian US tech editor, Blake Montgomery Watch Jonathan Freedland on our new Politics Weekly YouTube channel Send your questions and feedback to politicsweeklyamerica@theguardian.com Listen to the latest season of Black Box Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
+          "publishedAt": "2026-09-18T04:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "科技",
+        "公共安全"
+      ],
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5c6975cbd65be4d7c7dfdb7d",
+      "isContinuation": false,
+      "titleZh": "特朗普对人工智能的痴迷是否正在将世界推向灾难？",
+      "summaryZh": "尽管科技界领袖呼吁对人工智能进行监管并设立护栏，但特朗普总统对此持怀疑态度，并将其斥为骗局。外界关注他为何如此坚定地支持人工智能产业发展。",
+      "whyImportant": "美国政府对人工智能的监管态度将直接影响全球科技发展的方向与安全风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "57ebb59352d73a6e",
+      "title": "Rare honour: Trump will greet Xi at Joint Base Andrews, not just White House",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3367905/rare-honour-trump-will-greet-xi-andrews-not-just-white-house?utm_source=rss_feed",
+      "publishedAt": "2026-09-17T15:13:49.000Z",
+      "summary": "US President Donald Trump will personally greet Chinese counterpart Xi Jinping on the tarmac at Joint Base Andrews when Xi lands in Washington next Wednesday, a rare airport reception, a US official confirmed on background. Trump will attend Xi’s arrival ceremony at Andrews, where the Chinese president’s aircraft is expected around 4pm local time on September 23. The president almost never meets visiting heads of state at the airfield. He typically waits at the White House. The gesture is not a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3367905/rare-honour-trump-will-greet-xi-andrews-not-just-white-house?utm_source=rss_feed",
+          "publishedAt": "2026-09-17T15:13:49.000Z"
         }
       ],
       "sourceCount": 1,
@@ -626,145 +1090,38 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "经济"
+        "专题·中国与世界"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c00ef4784d53eeeca09fbb97",
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "2102f16d6f01902ff714edc5",
       "isContinuation": false,
-      "titleZh": "中国考虑竞标亚太经合组织自由贸易区，意在挑战美国并吸引亚洲",
-      "summaryZh": "分析人士认为，中国计划在11月主办亚太经合组织会议期间推动亚太自由贸易区（FTAAP）协议。尽管华盛顿方面可能持抵制态度，但此举旨在加强中国与亚太地区的经济联系。",
-      "whyImportant": "此举显示中国试图通过区域贸易议程提升其在亚太地区的影响力，并与美国展开经济外交博弈。",
+      "titleZh": "罕见礼遇：特朗普将在安德鲁斯联合基地迎接习近平，而非仅在白宫会面",
+      "summaryZh": "美国官员证实，特朗普总统将于下周三亲自前往安德鲁斯联合基地迎接中国国家主席习近平。这种在机场直接迎接外国元首的做法在美国外交中极为罕见。",
+      "whyImportant": "这一高规格的接待安排显示了美中两国在外交礼仪上的特殊考量，可能预示着双方关系的微妙变化。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cb1de5b3100bb506",
-      "title": "Concert proposal in China stirs controversy when woman’s reaction blocks, angers spectators",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3367787/concert-proposal-china-stirs-controversy-when-womans-reaction-blocks-angers-spectators?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T01:15:05.000Z",
-      "summary": "A romantic marriage proposal at a concert in northern China attracted significant backlash after the couple blocked the view of other spectators, leading to numerous complaints. On September 12, Chinese folk singer Zhao Lei performed at Beijing’s National Stadium, known as the Bird’s Nest. As tens of thousands of fans sang along, a man in the front section of the audience stood up to propose to his partner. Videos circulating online featured the woman in a white wedding dress, complete with a...",
+      "id": "20c94f05d4c11ff3",
+      "title": "RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/rfk-jr-measles-anti-vaccine-organization",
+      "publishedAt": "2026-09-17T19:59:55.000Z",
+      "summary": "The US health secretary added that he would’ve made sweeping changes ‘on day one’ but he had to follow the law As the death toll from the worst measles outbreak in decades rises, Robert F Kennedy Jr headlined the Washington DC conference of the anti-vaccine organization Children’s Health Defense, which he led for nearly a decade. “Let me be clear. You have a strong and steadfast friend at the White House,” Kennedy, now serving as secretary of the US Department of Health and Human Services (HHS), told anti-vaccine activists at the conference in a nearly hour-and-a-half-long speech. He urged patience, saying that he would’ve made sweeping changes “on day one” but that he had to follow the law in order to make permanent change. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3367787/concert-proposal-china-stirs-controversy-when-womans-reaction-blocks-angers-spectators?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T01:15:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 55,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b19dd2457fff43ed6fd2cb5f",
-      "isContinuation": false,
-      "titleZh": "中国演唱会求婚引发争议，女子反应阻挡视线激怒观众",
-      "summaryZh": "在近日北京举行的一场演唱会上，一对情侣在观众席进行求婚，因阻挡了后排观众的视线引发不满。相关视频在网络传播后，引发了关于公共场合行为礼仪的广泛讨论。",
-      "whyImportant": "该事件反映了公众对于大型活动中个人行为边界与公共空间礼仪的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "usa": [
-    {
-      "id": "244caf499d6e440c",
-      "title": "Summer Goes Out With a Heat Dome",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
-      "publishedAt": "2026-09-17T04:01:00.000Z",
-      "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
-          "publishedAt": "2026-09-17T04:01:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9dc561db70c67b963eb428c4",
-      "isContinuation": false,
-      "titleZh": "夏季在热穹顶中结束",
-      "summaryZh": "随着秋分的临近，美国中部和南部地区的气温纪录被打破。极端高温天气持续笼罩这些地区，标志着夏季以异常高温收尾。",
-      "whyImportant": "持续的极端高温天气再次引发了公众对气候变化及其对季节性气候模式影响的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8f1ff29aa9263e7a",
-      "title": "US bars Palestinian president from attending UNGA for second year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
-      "publishedAt": "2026-09-17T04:35:52.000Z",
-      "summary": "The United States has declined to grant visas to Palestinian President Mahmoud Abbas.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
-          "publishedAt": "2026-09-17T04:35:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "627c8677b297ad835ae0230f",
-      "isContinuation": false,
-      "titleZh": "美国连续第二年拒绝巴勒斯坦总统出席联合国大会",
-      "summaryZh": "美国已拒绝向巴勒斯坦总统马哈茂德·阿巴斯发放签证。这是阿巴斯连续第二年无法出席联合国大会。",
-      "whyImportant": "此举反映了美国与巴勒斯坦领导层之间持续的外交紧张关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8833156eb805eea5",
-      "title": "Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
-      "publishedAt": "2026-09-16T20:25:19.000Z",
-      "summary": "IMPROVING WATER QUALITY OF THE CHESAPEAKE BAY: Today, President Donald J. Trump signed an Executive Order to remove unnecessary administrative costs and direct federal resources for the Chesapeake Bay toward projects that improve water quality, promoting a more efficient, accountable, and results-driven effort to improve the Chesapeake Bay. SUPPORTING CLEAN WATER WITHOUT INCREASED COSTS: The Trump Administration is committed to supporting […] The post Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
-          "publishedAt": "2026-09-16T20:25:19.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/17/rfk-jr-measles-anti-vaccine-organization",
+          "publishedAt": "2026-09-17T19:59:55.000Z"
         }
       ],
       "sourceCount": 1,
@@ -776,238 +1133,34 @@
         "军事与安全"
       ],
       "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "bf5964db37f5c9c2e82a8569",
+      "fingerprint": "113aa65887ce9f9db0657493",
       "isContinuation": false,
-      "titleZh": "情况说明书：唐纳德·J·特朗普总统通过协作和监督联邦支持，实现切萨皮克湾水质的实质性改善",
-      "summaryZh": "特朗普总统签署了一项行政命令，旨在通过削减不必要的行政成本，将联邦资源集中用于改善切萨皮克湾水质的项目。该政策强调提高效率和问责制，以实现更具成果的环保目标。",
-      "whyImportant": "该行政命令旨在通过行政改革优化联邦环保资金的使用效率。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ee3bbd3e20cf1807",
-      "title": "National POW/MIA Recognition Day, 2026",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/",
-      "publishedAt": "2026-09-16T20:05:04.000Z",
-      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION The glorious liberty that makes America the envy of the world has been secured and sustained by brave and selfless patriots from every war and conflict since the founding of our Republic. On National POW/MIA Recognition Day, we pause to pay everlasting tribute to […] The post National POW/MIA Recognition Day, 2026 appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/",
-          "publishedAt": "2026-09-16T20:05:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "495ad84eafb6843fbf05233c",
-      "isContinuation": false,
-      "titleZh": "2026年全国战俘/失踪人员纪念日",
-      "summaryZh": "美国总统发布公告，向自建国以来在历次战争和冲突中表现出勇敢与无私的爱国者致敬。该纪念日旨在铭记那些为维护美国自由而做出牺牲的战俘及失踪人员。",
-      "whyImportant": "此公告重申了美国政府对退伍军人及失踪服役人员的纪念与承诺。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ca02e443da5d207e",
-      "title": "British-American writer Bonnie Greer dies aged 77",
-      "source": "DW",
-      "url": "https://www.dw.com/en/british-american-writer-bonnie-greer-dies-aged-77/a-79293174?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-09-16T15:12:00.000Z",
-      "summary": "Chicago-born playwright Bonnie Greer, who became a familiar face in British political discourse later in life, has died. Her husband David Hutchins announced news of Greer's death.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/british-american-writer-bonnie-greer-dies-aged-77/a-79293174?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-09-16T15:12:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 52,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6677fe2ec9820eaf1d5eb0bf",
-      "isContinuation": false,
-      "titleZh": "英籍美裔作家邦妮·格里尔去世，享年77岁",
-      "summaryZh": "出生于芝加哥的剧作家邦妮·格里尔去世，其丈夫大卫·哈钦斯证实了这一消息。格里尔晚年活跃于英国政治讨论中，是公众熟知的评论人物。",
-      "whyImportant": "格里尔作为跨文化背景的作家和评论家，在英国公共舆论中具有一定影响力。",
+      "titleZh": "小罗伯特·肯尼迪在麻疹疫情期间承诺为反疫苗人士提供“白宫盟友”",
+      "summaryZh": "现任美国卫生与公众服务部部长的小罗伯特·肯尼迪在反疫苗组织会议上表示，他将是该群体的坚定盟友。尽管他承诺进行改革，但也强调必须依法行事以实现长期变革。",
+      "whyImportant": "作为卫生部门最高官员，其反疫苗立场引发了公众对公共卫生政策走向的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "1ad93e8f167a7a9e",
-      "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by the Secretary-General that calls for greater protection and accountability.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
-          "publishedAt": "2026-09-16T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·全球治理与外交"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united nations"
-      ],
-      "fingerprint": "c71f7007760c90af4b6ddfc6",
-      "isContinuation": false,
-      "titleZh": "联合国报告警告称，与人权捍卫者合作的人员面临报复风险",
-      "summaryZh": "联合国秘书长发布最新报告指出，与联合国人权机构合作的活动人士和律师持续遭受恐吓与报复。报告呼吁国际社会加强对这些合作者的保护并追究相关责任。",
-      "whyImportant": "该报告凸显了全球范围内人权合作者面临的安全威胁及问责机制的必要性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "509681f84eaaed69",
-      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168352",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a “pretext” to target “innocent seafarers”.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168352",
-          "publishedAt": "2026-09-16T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 55,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "92fa90b26e0bdf08a3864877",
-      "isContinuation": false,
-      "titleZh": "世界新闻简报：国际海事组织发布航运警报，尼加拉瓜民主消亡，政治“否认主义”引发警惕",
-      "summaryZh": "受美伊战争影响，中东关键水道的航运袭击事件频发。国际海事组织负责人强调，冲突不应成为针对无辜海员的借口。",
-      "whyImportant": "该警报反映了地区冲突对全球航运安全及海员人身安全的直接威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "aad0b981836a3121",
-      "title": "Risk of unrest in Asia as Iran war, El Nino threaten food supplies",
+      "id": "e722513cca34b93c",
+      "title": "Poland eyes deeper Philippines defence ties following Black Hawk deal",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/article/3367791/risk-unrest-asia-iran-war-el-nino-threaten-food-supplies?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T02:08:05.000Z",
-      "summary": "Severe weather disruptions will amplify food security risks in Asia, potentially triggering civil unrest and political instability in vulnerable countries such as India, Indonesia and the Philippines, according to consultancy Verisk Maplecroft. The warning comes as the war in Iran has already disrupted fuel and fertiliser supplies, both of which are key agricultural inputs. Now, weather extremes linked to a powerful El Nino are further threatening crops across the region. Indonesia, the world’s...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3367900/poland-eyes-deeper-philippines-defence-ties-following-black-hawk-deal?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T00:00:17.000Z",
+      "summary": "Poland’s delivery of Black Hawk helicopters to the Philippines has given Warsaw a foothold in Manila’s defence market as it seeks to expand exports from its growing defence industry, with analysts saying drones, air defence and potentially co-production could pave the way for a broader partnership. Polish deputy foreign minister Wladyslaw Bartoszewski said on Tuesday that Warsaw was keen to pursue further defence partnerships with the Philippines, as Poland poured US$50 billion into...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/article/3367791/risk-unrest-asia-iran-war-el-nino-threaten-food-supplies?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T02:08:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "69c1a07fa939ef8dcc65915c",
-      "isContinuation": false,
-      "titleZh": "伊朗战争与厄尔尼诺现象威胁粮食供应，亚洲面临动荡风险",
-      "summaryZh": "咨询公司Verisk Maplecroft警告称，伊朗战争导致的化肥和燃料供应中断，叠加厄尔尼诺现象引发的极端天气，正威胁亚洲的粮食安全。印度、印尼和菲律宾等国可能因此面临社会动荡和政治不稳定的风险。",
-      "whyImportant": "粮食供应危机可能成为引发亚洲多国社会动荡的导火索。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "more": [],
-  "metadata": {
-    "fetched": 169,
-    "deduplicated": 164,
-    "selected": 23,
-    "translated": 23,
-    "untranslated": 0,
-    "minimumRequired": 21,
-    "featured": 2,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
-    {
-      "id": "b456df6fd6226e8b",
-      "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-      "publishedAt": "2026-09-16T23:26:27.000Z",
-      "summary": "Both sides agreed to expand air travel and resume direct commercial flights.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-          "publishedAt": "2026-09-16T23:26:27.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3367900/poland-eyes-deeper-philippines-defence-ties-following-black-hawk-deal?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T00:00:17.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1017,37 +1170,36 @@
       "tags": [
         "全球焦点",
         "外交",
-        "专题·全球治理与外交"
+        "金融",
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "b3cce23063de8f66f6f19946",
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3aec105c780b5047db0de8ea",
       "isContinuation": false,
-      "titleZh": "以色列与摩洛哥同意互设大使馆，升级外交关系",
-      "summaryZh": "以色列与摩洛哥达成协议，双方将互设大使馆以提升外交关系。此外，两国还同意扩大航空合作并恢复直飞商业航班。",
-      "whyImportant": "此举标志着以色列与摩洛哥在外交正常化进程中迈出了实质性的一步。",
+      "titleZh": "继黑鹰直升机交易后，波兰寻求深化与菲律宾的防务关系",
+      "summaryZh": "波兰通过向菲律宾交付黑鹰直升机成功进入当地防务市场。波兰政府表示希望在无人机和防空系统等领域进一步扩大合作。",
+      "whyImportant": "波兰正积极拓展其国防工业出口，此举反映了其在全球防务市场中影响力的提升。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1ad93e8f167a7a9e",
-      "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by the Secretary-General that calls for greater protection and accountability.",
+      "id": "7dfb2cfd9319faec",
+      "title": "Amid claims of ‘mass migration’, Labor hopes a measured approach will take the hot air out of the debate",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/18/amid-claims-of-mass-migration-labor-hopes-a-measured-approach-will-take-the-hot-air-out-of-the-debate",
+      "publishedAt": "2026-09-17T15:00:53.000Z",
+      "summary": "The country’s migration settings have become a source of discontent – but will Tony Burke’s approach be seen as the right mix? Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Tony Burke has promised to make Labor’s existing migration policy work better rather than announcing a dramatic cut in numbers, arguing that populist promises to slash net overseas migration will “trash Australian services and trash the Australian economy”. The home affairs minister’s message was immediately endorsed by employer groups, who over recent days have made it clear that steps to arbitrarily slash migrant numbers would compound already severe skills shortages and hurt businesses, especially those in the regions. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
-          "publishedAt": "2026-09-16T12:00:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/18/amid-claims-of-mass-migration-labor-hopes-a-measured-approach-will-take-the-hot-air-out-of-the-debate",
+          "publishedAt": "2026-09-17T15:00:53.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1056,117 +1208,413 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "突发",
+        "经济",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f2d09c134422ff5c834639ca",
+      "isContinuation": false,
+      "titleZh": "在“大规模移民”的争议声中，工党希望通过审慎的政策平息辩论",
+      "summaryZh": "澳大利亚内政部长托尼·伯克承诺优化现有移民政策，而非采取激进的削减措施。雇主团体支持这一立场，认为大幅削减移民将加剧技能短缺并损害经济。",
+      "whyImportant": "移民政策的调整是澳大利亚当前政治辩论的核心，直接关系到劳动力市场和经济稳定。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1a93566ef14b360f",
+      "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+      "publishedAt": "2026-09-18T02:53:05.000Z",
+      "summary": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+          "publishedAt": "2026-09-18T02:53:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "71a6f0f04a235507b389c527",
+      "isContinuation": false,
+      "titleZh": "意大利将部署军舰保护曼德海峡的航运安全",
+      "summaryZh": "意大利国防部长警告称，如果曼德海峡无法通行，将对经济造成严重后果。意大利决定绕过欧盟的决策延迟，采取独立行动保护航运。",
+      "whyImportant": "此举凸显了关键海上贸易通道安全对欧洲经济的重要性，以及各国在应对地缘政治风险时的自主行动。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "more": [],
+  "metadata": {
+    "fetched": 153,
+    "deduplicated": 147,
+    "selected": 23,
+    "translated": 23,
+    "untranslated": 0,
+    "minimumRequired": 21,
+    "featured": 8,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
+    {
+      "id": "18b9efcad5ddc067",
+      "title": "Paul Keating says Aukus locking Australia into a US war against China, which it would ‘certainly lose’",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/18/paul-keating-aukus-locking-australia-into-us-china-war",
+      "publishedAt": "2026-09-18T04:06:31.000Z",
+      "summary": "Former prime minister says US would ‘scuttle itself back to San Diego’, leaving Australia to deal with retribution from China Follow our Australia news live blog for latest updates Get our new political email, free app or daily news podcast Aukus critic Paul Keating has said the submarine deal is locking Australia in to any future US conflict with China – “a war America would certainly lose” – and making Australia a target for retribution. The former prime minister seized on comments reported out of Washington this week from Republican congressman Michael McCaul – a China hawk and co-chair of the Congressional Friends of Australia caucus – who said “Australia is a target” for enemies of the US already. However, McCaul argued that greater integration with the US military would better protect Australia rather than leaving it more vulnerable. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/18/paul-keating-aukus-locking-australia-into-us-china-war",
+          "publishedAt": "2026-09-18T04:06:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
         "军事与安全",
         "国际组织",
-        "专题·全球治理与外交"
+        "专题·中国与世界"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 81,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": true,
       "topicKeywords": [
-        "united nations"
+        "china",
+        "中国"
       ],
-      "fingerprint": "c71f7007760c90af4b6ddfc6",
+      "fingerprint": "5be2343c383af6a133c1c0f9",
       "isContinuation": false,
-      "titleZh": "联合国报告警告称，与人权捍卫者合作的人员面临报复风险",
-      "summaryZh": "联合国秘书长发布最新报告指出，与联合国人权机构合作的活动人士和律师持续遭受恐吓与报复。报告呼吁国际社会加强对这些合作者的保护并追究相关责任。",
-      "whyImportant": "该报告凸显了全球范围内人权合作者面临的安全威胁及问责机制的必要性。",
+      "titleZh": "保罗·基廷称“奥库斯”将澳大利亚锁定在必败的对华战争中",
+      "summaryZh": "澳大利亚前总理保罗·基廷批评“奥库斯”潜艇协议，认为这使澳大利亚卷入美国与中国的潜在冲突，并使其成为报复目标。他警告称美国若战败将撤回本土，留下澳大利亚独自面对后果。",
+      "whyImportant": "此言论反映了澳大利亚国内对于深度参与美中地缘政治竞争所带来的安全风险的激烈辩论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cc84cd2c0d4c3118",
-      "title": "Australian politics live: Burke warns cutting migration too much would ‘trash economy’ and hoses down accusations of tension with Albanese and Chalmers",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
-      "publishedAt": "2026-09-17T04:32:07.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Barnaby Joyce says Labor is copying and pasting One Nation’s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what Pauline Hanson is suggesting. Speaking to the Today show a little earlier, Joyce says Burke’s last minute cancellation at the press club was “the greatest no-show since Amelia Earhart”. [Burke] can’t possibly be about to announce One Nation’s policy. I mean, Tony’s a great guy, right? I like Tony, but honestly, he was the greatest no-show since Amelia Earhart when he didn’t turn up to the Press Club … What I’ve heard thus far is that it’s an exact replication, but not to the extent of what One Nation is doing. I will be watching this with absolute fascination and some trepidation, and I’ll be waiting for Jim Chalmers to explain his new budget. I was on polling booths with my colleagues like Sally Sitou. I was out there in Reid with her in those last weeks of the campaign, standing there for hours at a time. She would be surrounded by men a foot taller than her, stopping her physical",
+      "id": "90a5b3cbbad64b31",
+      "title": "Can the new Pinglu Canal become China’s Yangtze of the southwest?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3367901/can-new-pinglu-canal-become-chinas-yangtze-southwest?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:00:05.000Z",
+      "summary": "The opening of China’s first new river-to-sea canal since 1949 – which will boost trade links with Southeast Asia – could transform the economy of the country’s landlocked southwestern interior in ways comparable to the Yangtze’s role in Shanghai’s rise, according to its operator. The 134.2km (83.4 mile) Pinglu Canal, which opened on Wednesday, links a major tributary of the Pearl River in the southern Guangxi Zhuang autonomous region with the Gulf of Tonkin, known as the Beibu Gulf in China,...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
-          "publishedAt": "2026-09-17T04:32:07.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3367901/can-new-pinglu-canal-become-chinas-yangtze-southwest?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:00:05.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
+        "中国重点",
         "经济",
-        "军事与安全"
-      ],
-      "score": 72,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "38329a5bf09e1aa9e17c8bdc",
-      "isContinuation": false,
-      "titleZh": "澳大利亚政治直播：伯克警告过度削减移民将“摧毁经济”，并平息与阿尔巴尼斯及查尔默斯关系紧张的指控",
-      "summaryZh": "澳大利亚内政部长伯克警告称，大幅削减移民数量将对国家经济造成严重损害。反对党成员巴纳比·乔伊斯批评工党在移民政策上效仿“单一民族党”，并对伯克缺席新闻发布会表示不满。",
-      "whyImportant": "此举反映了澳大利亚政府在应对移民压力与维持经济增长之间面临的政策平衡挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b15c0efec36d4e8b",
-      "title": "‘The bloody cap has been scrapped’: Jacqui Lambie celebrates Labor backdown on veterans’ health services cap",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/veterans-allied-health-care-cap-jacqui-lambie-labor-backdown",
-      "publishedAt": "2026-09-17T00:52:40.000Z",
-      "summary": "Independent senator had denounced as ‘cruel’ the plan to impose a $5,000 cap on allied health services for veterans Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Labor has backed down on plans to impose a $5,000 cap on health services for defence veterans, caving to growing political pressure after weeks of criticism. The government announced it would no longer pursue the cap for allied health services, which had been to come into force on 1 July 2027, after a weeks-long campaign by the opposition, veterans’ groups and independent senator Jacqui Lambie. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/17/veterans-allied-health-care-cap-jacqui-lambie-labor-backdown",
-          "publishedAt": "2026-09-17T00:52:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "国际组织"
+        "专题·中国与世界"
       ],
       "score": 69,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d2834da7a7963237184f9341",
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "8ee26ca89856158b02d656f9",
       "isContinuation": false,
-      "titleZh": "“该死的上限被取消了”：杰基·兰比庆祝工党在退伍军人医疗服务上限问题上做出让步",
-      "summaryZh": "在面临反对党、退伍军人团体及独立参议员杰基·兰比的持续压力后，澳大利亚工党政府决定取消对退伍军人辅助医疗服务设定的5000澳元上限。此前该政策因被批评为“残酷”而引发广泛争议。",
-      "whyImportant": "政府的政策转向显示了外部舆论压力对退伍军人福利决策的直接影响。",
+      "titleZh": "平陆运河能否成为中国西南部的“长江”？",
+      "summaryZh": "中国新开通的平陆运河连接了珠江支流与北部湾，旨在促进与东南亚的贸易往来。运营方认为，该运河有望像长江带动上海崛起一样，彻底改变中国内陆西南地区的经济格局。",
+      "whyImportant": "平陆运河的开通标志着中国在优化内陆水运物流与区域经济协同发展方面迈出重要一步。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "046a83a89315b9fd",
-      "title": "Prominent athlete tells Alan Jones trial he sent shirtless photo before unwanted kiss he wished ‘never happened’",
+      "id": "f15d6ea2610a400d",
+      "title": "ByteDance spin-off Anew Labs raises US$290m as AI drug developers enjoy fundraising boom",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-business/article/3367926/bytedance-spin-anew-labs-raises-us290m-ai-drug-developers-enjoy-fundraising-boom?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:00:08.000Z",
+      "summary": "China is seeing a fresh fundraising boom for artificial intelligence-powered drug developers, with start-ups including a ByteDance spin-off raising hundreds of millions of dollars this week as investors rush to back domestic challengers to Anthropic and Isomorphic Labs. Anew Labs, a Shanghai-based AI drug discovery firm and former unit of Chinese tech giant ByteDance, has raised US$290 million at a valuation of US$1.5 billion, according to an informed source. Investors included prominent venture...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/china-business/article/3367926/bytedance-spin-anew-labs-raises-us290m-ai-drug-developers-enjoy-fundraising-boom?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·中国与世界"
+      ],
+      "score": 66,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "03c3a3890df7599f93d6be97",
+      "isContinuation": false,
+      "titleZh": "字节跳动分拆公司Anew Labs融资2.9亿美元，AI药物研发领域掀起融资热潮",
+      "summaryZh": "中国AI药物研发初创企业近期融资活跃，字节跳动旗下的Anew Labs以15亿美元估值筹集了2.9亿美元。投资者正积极布局，以支持本土企业挑战国际领先的AI制药公司。",
+      "whyImportant": "这显示了资本市场对中国AI驱动药物研发领域的信心，以及该行业在全球竞争中的快速崛起。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "131a51cdd6ffcab8",
+      "title": "Hongkongers pay tribute to late leader Tung Chee-hwa at community halls",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3367947/hongkongers-pay-tribute-late-leader-tung-chee-hwa-community-halls?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T04:12:54.000Z",
+      "summary": "Some residents have started paying tribute to Hong Kong’s first chief executive Tung Chee-hwa on Friday morning, bringing flowers and writing heartfelt messages in condolence books placed at three community halls across the city. The condolence signing is arranged for the public a day ahead of Tung’s vigil on Saturday, followed by a state funeral on Sunday. “Chief Executive Tung, you devoted yourself selflessly so that Hong Kong could make a smooth transition. Hong Kong people will remember you...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3367947/hongkongers-pay-tribute-late-leader-tung-chee-hwa-community-halls?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T04:12:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "5c9b30d3ff06776abeb5cd37",
+      "isContinuation": false,
+      "titleZh": "香港市民在社区会堂悼念前特首董建华",
+      "summaryZh": "香港市民周五前往各区社区会堂，通过献花和留言悼念首任行政长官董建华。官方安排了悼念册供公众签署，以纪念其为香港平稳过渡所作的贡献。",
+      "whyImportant": "此举体现了香港社会对首任特首历史地位的缅怀与尊重。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "41dcb331d1725d06",
+      "title": "China publicly names officials in ‘unprecedented’ hidden-debt crackdown. Can it work?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3367870/china-publicly-names-officials-unprecedented-hidden-debt-crackdown-can-it-work?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T01:30:08.000Z",
+      "summary": "A recently issued official circular has put China’s long-running problem with hidden local government debt back in the spotlight. Earlier this month, the Ministry of Finance (MoF) and the Central Commission for Discipline Inspection (CCDI) jointly outlined six typical cases spanning six provinces where local authorities had fallen short of targets to resolve unrecorded liabilities. “For hidden-debt penalty announcements, it is unprecedented to have the CCDI alongside the MoF,” said Qiao Yide,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3367870/china-publicly-names-officials-unprecedented-hidden-debt-crackdown-can-it-work?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T01:30:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "5ff79f9946ad5486e6529bd0",
+      "isContinuation": false,
+      "titleZh": "中国公开点名官员以打击隐性债务，此举能否奏效？",
+      "summaryZh": "中国财政部与中纪委联合发布通报，点名批评六省份在化解隐性债务方面未达标。这是官方首次联合行动，旨在通过纪律审查强化对地方政府债务的监管。",
+      "whyImportant": "此次联合行动显示了中央政府化解地方债务风险、维护金融稳定的决心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7d8706c801ce4eaf",
+      "title": "Ngong Ping 360 cable car opens in Hong Kong after typhoon delay - SCMP archive",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3367929/ngong-ping-360-cable-car-opens-hong-kong-after-typhoon-delay-scmp-archive?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T03:15:05.000Z",
+      "summary": "This article was first published on September 18, 2006. Breezy launch is on the cards By Dennis Eng The Ngong Ping 360 cable car will open today in one of the windiest months of the year, according to the Hong Kong Observatory. Windy conditions with gusts reaching 90km/h occur on 5.5 days for a total of 52 hours in September on average, according to measurements taken at Ngong Ping between 2002 and last year. June, July and August are typically the windiest months. The Observatory’s forecast...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3367929/ngong-ping-360-cable-car-opens-hong-kong-after-typhoon-delay-scmp-archive?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T03:15:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "8fce6b97e1454800841696a5",
+      "isContinuation": false,
+      "titleZh": "香港昂坪360缆车在台风延误后开通 - 南华早报存档",
+      "summaryZh": "本文回顾了2006年9月18日昂坪360缆车的开通情况。尽管当时正值多风季节，天文台数据显示九月份常有强风，但缆车仍按计划投入运营。",
+      "whyImportant": "该报道记录了香港重要交通基础设施投入使用时的历史背景与气象挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0bd2b78f98d310b9",
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T17:08:00.000Z",
+      "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-17T17:08:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织",
+        "专题·中国与世界"
+      ],
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "china",
+        "中国"
+      ],
+      "fingerprint": "3cd368a00d5db28dc55a10fd",
+      "isContinuation": false,
+      "titleZh": "在华被捕美国学者的妻子请求特朗普在会见习近平期间提出此案",
+      "summaryZh": "随着特朗普即将接待中国领导人，多名在华被监禁人员的家属正寻求其帮助。其中包括被捕美国学者的妻子，她希望特朗普能在双边会晤中提及相关案件。",
+      "whyImportant": "家属的呼吁将个人案件置于中美外交议程的焦点，增加了双边会谈的复杂性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0cebdb6964b37130",
+      "title": "Factsheet series: Hong Kong’s debut 5-year plan and 2026 policy address",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/series/3367932/factsheet-series-hong-kongs-debut-5-year-plan-and-2026-policy-address?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T02:15:33.000Z",
+      "summary": "",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/series/3367932/factsheet-series-hong-kongs-debut-5-year-plan-and-2026-policy-address?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T02:15:33.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "49556c409b356252fdf69d53",
+      "isContinuation": false,
+      "titleZh": "事实核查系列：香港首个五年计划与2026年政策地址",
+      "summaryZh": "该系列文章旨在梳理香港首个五年计划的核心内容，并结合2026年政策地址进行分析。内容重点关注政府在未来发展规划中的政策导向。",
+      "whyImportant": "该系列为公众理解香港政府的长期战略规划与政策重点提供了参考依据。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5f18a25997946cf3",
+      "title": "Australia news live: Home affairs warns AI enables foreign interference and hackers; BoM updates website to look like ‘old radar view’",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/alan-jones-trial-athlete-sent-shirtless-photo-before-unwanted-kiss-ntwnfb",
-      "publishedAt": "2026-09-17T03:50:08.000Z",
-      "summary": "Former 2GB and 2UE broadcaster has pleaded not guilty to 22 indecent assault and sexual touching charges Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast An alleged victim of Alan Jones has told a Sydney court that an unwanted kiss from the former shock jock more than a decade ago is seared in his memory and he wished it never happened. The ex-sportsman, known as complainant M, agreed during cross-examination by the defence that he sent Jones a shirtless photo of him in Paris some months before the alleged kiss. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+      "publishedAt": "2026-09-18T04:16:12.000Z",
+      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Australia needs to slow down its artificial intelligence use and create better security laws, the companies creating the technology have told the federal government. In a submission to an ongoing inquiry, OpenAI said national leaders had a responsibility to work with other countries to stop global security threats: Many of the most consequential risks will not stop at national borders, making international co-ordination increasingly important. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/17/alan-jones-trial-athlete-sent-shirtless-photo-before-unwanted-kiss-ntwnfb",
-          "publishedAt": "2026-09-17T03:50:08.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+          "publishedAt": "2026-09-18T04:16:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1176,113 +1624,36 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "军事与安全",
+        "科技"
       ],
       "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "72b7d3ee3a4b4de2707454ac",
+      "fingerprint": "f8832ef1e46c30fbdcf38465",
       "isContinuation": false,
-      "titleZh": "知名运动员在艾伦·琼斯案审判中作证：称在遭受不想要的亲吻前曾发送过半裸照片，并表示希望“从未发生过”",
-      "summaryZh": "前广播员艾伦·琼斯面临多项猥亵和性接触指控，目前他已表示不认罪。一名受害者在法庭上作证称，十多年前曾遭到琼斯强吻，并承认在事发前曾向其发送过半裸照片。",
-      "whyImportant": "该案件因涉及知名媒体人的性侵指控而备受公众关注，对相关法律审判具有重要意义。",
+      "titleZh": "澳大利亚新闻直播：内政部警告人工智能助长外国干预与黑客攻击；气象局更新网站恢复“旧雷达视图”",
+      "summaryZh": "澳大利亚联邦政府正面临科技公司建议，要求放缓人工智能应用并完善安全法规。OpenAI在提交的调查报告中指出，人工智能带来的全球安全威胁已超越国界，国际协作至关重要。",
+      "whyImportant": "此举反映了各国政府在应对人工智能带来的国家安全风险时，正寻求加强监管与国际合作。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cccfd7344a119b65",
-      "title": "Teenage boys charged with murder after alleged mistaken identity shooting of Sydney student",
+      "id": "a8afc0d40c3f9f3c",
+      "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/teenage-boys-charged-with-murder-university-student-ntwnfb",
-      "publishedAt": "2026-09-17T00:42:05.000Z",
-      "summary": "Boys aged 14 and 16 charged after Marco Tapia, 23, was killed inside his family’s home in Glen Alpine Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Two teenage boys have been charged with murder after the shooting death of a university student in Sydney this month, which police say was a case of mistaken identity. Marco Tapia, 23, was shot inside his family’s home in Glen Alpine early on 1 September. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
+      "publishedAt": "2026-09-18T04:04:57.000Z",
+      "summary": "The gift from Italy has sparked fierce debate among defence analysts and opposition politicians who question its true cost and purpose Indonesia has received its first aircraft carrier, a former Italian warship that the government says will strengthen the archipelagic nation’s maritime security and disaster response capabilities. The 41-year-old former ITS Giuseppe Garibaldi, with capacity for short takeoff and vertical landing aircraft and helicopters, arrived Friday morning at a naval base in North Jakarta’s Tanjung Priok port, where it was welcomed with a military ceremony. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/17/teenage-boys-charged-with-murder-university-student-ntwnfb",
-          "publishedAt": "2026-09-17T00:42:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4a00a592c722ec6ce01b067a",
-      "isContinuation": false,
-      "titleZh": "悉尼学生遭误杀，两名青少年被控谋杀",
-      "summaryZh": "悉尼一名23岁的大学生马可·塔皮亚于9月初在家中遭枪击身亡。警方调查显示这是一起误杀案件，目前两名分别为14岁和16岁的青少年已被控谋杀。",
-      "whyImportant": "该案件因涉及青少年暴力犯罪及误杀性质，引发了社会对公共安全和青少年犯罪问题的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "05819902a831907d",
-      "title": "US House holds billionaire Leon Black in contempt over Epstein probe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367807/us-house-holds-billionaire-leon-black-contempt-over-epstein-probe?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T03:48:49.000Z",
-      "summary": "The US House of Representatives held billionaire investor Leon Black in contempt of Congress on Wednesday for defying subpoenas issued in its investigation into notorious sex offender Jeffrey Epstein. The resolution was adopted by unanimous consent, without a recorded vote, a day after the House Oversight Committee unanimously recommended the action. The matter will now be referred to the Justice Department, which will decide whether to pursue criminal charges. “No one is above the law. Leon...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3367807/us-house-holds-billionaire-leon-black-contempt-over-epstein-probe?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T03:48:49.000Z"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-16T19:59:57.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7feec042342ce812c3210600",
-      "isContinuation": false,
-      "titleZh": "美国众议院因爱泼斯坦调查传票问题裁定亿万富翁莱昂·布莱克藐视国会",
-      "summaryZh": "美国众议院一致通过决议，裁定亿万富翁投资者莱昂·布莱克藐视国会，因其拒绝配合针对杰弗里·爱泼斯坦案的调查传票。该案件将移交司法部，由其决定是否提起刑事诉讼。",
-      "whyImportant": "此举显示了国会在调查爱泼斯坦相关案件中对配合程度的强硬立场。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "35bb4e8da06eefc4",
-      "title": "Climate crisis likely behind devastating Nepal-Tibet floods that killed more than 1,300, first study finds",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
-      "publishedAt": "2026-09-16T23:01:32.000Z",
-      "summary": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing hundreds of people in Nepal and Tibet last month, the first scientific study of the disaster has found. Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3,885 cu ft) of snow and ice into the valley below. This triggered flash floods on an almost unprecedented scale, hitting communities downstream without warning. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
-          "publishedAt": "2026-09-16T23:01:32.000Z"
+          "url": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
+          "publishedAt": "2026-09-18T04:04:57.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1292,515 +1663,36 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "环境",
-        "公共安全"
+        "公共安全",
+        "国际组织"
       ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 64,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "a73cd9a38bc5a191eff8e6be",
+      "fingerprint": "7bbb0fd3be225ebc6a7deb57",
       "isContinuation": false,
-      "titleZh": "首项研究发现：气候危机可能是导致尼泊尔-西藏洪水造成1300多人死亡的背后原因",
-      "summaryZh": "一项最新科学研究指出，全球变暖导致冰川变得不稳定，是上个月尼泊尔和西藏发生灾难性洪水的主要诱因。异常高温导致冰川崩塌，引发了大规模的雪崩和突发洪水。",
-      "whyImportant": "该研究为气候变化与极端自然灾害之间的直接联系提供了新的科学证据。",
+      "titleZh": "印尼接收首艘航空母舰，引发关于成本与军事野心的争论",
+      "summaryZh": "印度尼西亚接收了一艘由意大利赠送的退役军舰，政府称其将增强海上安全与救灾能力。然而，该舰的实际维护成本及其军事用途在当地引发了国防分析人士和反对派政客的激烈辩论。",
+      "whyImportant": "这标志着印尼海军力量的扩张，同时也凸显了该国在国防预算分配与战略目标上的内部矛盾。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8eea5136c3386b19",
-      "title": "Casino, not bakery: Philippine e-payment firms urged to improve merchant vetting",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367809/casino-not-bakery-philippine-e-payment-firms-urged-improve-merchant-vetting?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T04:20:14.000Z",
-      "summary": "Electronic payment providers need to be more diligent in vetting companies that use their platforms to protect people from fraud, the Philippine central bank said. The requirement came after Bangko Sentral ng Pilipinas found thousands of illegal businesses on the payment platforms, including many online casinos masquerading as more ordinary companies like beauty salons and bakeries. “We want to protect consumers from online fraud, illegal activities and also from money launderers,” Deputy...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367809/casino-not-bakery-philippine-e-payment-firms-urged-improve-merchant-vetting?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T04:20:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "金融"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "59ad9d6fb349fcfe7d2e1c42",
-      "isContinuation": false,
-      "titleZh": "菲律宾央行敦促电子支付公司加强商户审查，打击伪装成面包店的赌场",
-      "summaryZh": "菲律宾央行要求电子支付平台加强对商户的审查力度，以防范欺诈和洗钱活动。此前调查发现，许多非法在线赌场伪装成美容院或面包店等合法企业接入支付系统。",
-      "whyImportant": "此举旨在加强金融监管，保护消费者免受非法在线活动的侵害。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f500b17b7a00a95a",
-      "title": "Turkey detains dozens in crackdown on LGBTQ+ activists and journalists",
+      "id": "8a5d075aa2f816f2",
+      "title": "Man who sprayed Ilhan Omar with vinegar sentenced to 14 months",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/global-development/2026/sep/17/turkey-raids-detains-dozens-crackdown-lgbtq-activists-journalists",
-      "publishedAt": "2026-09-17T04:00:38.000Z",
-      "summary": "Protesters teargassed as minister claims widespread raids and arrests under obscenity laws were to ‘protect families’ Turkish authorities have used accusations of obscenity to justify a wave of raids and arrests targeting the LGBTQ+ community, which has grown to include journalists as well as more than 150 arrested during protests against the raids. Starting in the early hours of Sunday, Turkish police carried out simultaneous raids on the offices of LGBTQ+ rights organisations and HIV-advocacy groups in the cities of Istanbul, the capital, Ankara, and the coastal city of İzmir, as well as the cities of Aydın and Mersin. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/man-sentenced-ilhan-omar-vinegar-minneapolis",
+      "publishedAt": "2026-09-17T22:48:57.000Z",
+      "summary": "Anthony Kazmierczak agreed plea deal over January town-hall attack that came amid Minneapolis ICE crackdown The man who sprayed vinegar at the Democratic US House member Ilhan Omar during a Minneapolis town hall was sentenced Thursday to 14 months in prison after reaching a deal with prosecutors. The sentencing of 56-year-old Anthony Kazmierczak came nearly eight months after the 27 January assault. At the time, Minneapolis was facing an immigration crackdown that led to angry protests, arrests and the killing of two US citizens by federal officers. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/global-development/2026/sep/17/turkey-raids-detains-dozens-crackdown-lgbtq-activists-journalists",
-          "publishedAt": "2026-09-17T04:00:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c01471e46d6926bdec24d5e3",
-      "isContinuation": false,
-      "titleZh": "土耳其在针对LGBTQ+活动人士和记者的镇压行动中拘留数十人",
-      "summaryZh": "土耳其当局以“保护家庭”和淫秽罪为由，对LGBTQ+组织及相关人士进行了大规模突袭和逮捕。此次行动波及多个城市，导致超过150名抗议者被捕，其中包括多名记者。",
-      "whyImportant": "此举引发了国际社会对土耳其人权状况及言论自由受到进一步压制的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "aa76e071ef7a0b11",
-      "title": "Yemeni forces target Houthis and a Saudi base as US rules out direct role",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
-      "publishedAt": "2026-09-17T03:26:56.000Z",
-      "summary": "Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
-          "publishedAt": "2026-09-17T03:26:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "67e437847e67ec1a38f76783",
-      "isContinuation": false,
-      "titleZh": "也门武装力量瞄准胡塞武装及沙特基地，美国排除直接参与可能",
-      "summaryZh": "由于自身拦截导弹库存减少，美国排除了直接介入冲突的可能。沙特阿拉伯已向盟友寻求导弹防御支持，以应对来自也门的威胁。",
-      "whyImportant": "该地区安全局势的升级凸显了中东防务资源分配的紧张与地缘政治的复杂性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a7746279f069a77a",
-      "title": "Hong Kong’s first 5-year plan, John Lee’s 2026 policy address: everything you need to know",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/article/3367802/hong-kongs-first-5-year-plan-john-lees-2026-policy-address-everything-you-need-know?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T04:30:06.000Z",
-      "summary": "We have put together stories from our coverage of John Lee’s 2026 policy address. If you would like to see more of our reporting, please consider subscribing. 1. 14 key takeaways from John Lee’s policy address, Hong Kong’s first 5-year plan Hong Kong Chief Executive John Lee Ka-chiu has placed deepening integration with mainland China and developing new economic engines centre stage as he unveiled the city’s first-ever five-year plan alongside the last policy address of his term. 2. Hong Kong...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/article/3367802/hong-kongs-first-5-year-plan-john-lees-2026-policy-address-everything-you-need-know?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T04:30:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济"
-      ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "54d8884ca0e443ed3dba8e80",
-      "isContinuation": false,
-      "titleZh": "香港首个五年规划与李家超2026年施政报告：你需要了解的一切",
-      "summaryZh": "香港行政长官李家超发布了任内最后一份施政报告，并首次提出了五年规划。报告重点强调了深化与中国内地的融合以及培育新的经济增长引擎。",
-      "whyImportant": "这份规划为香港未来的经济发展方向和与内地的整合程度设定了明确的政策基调。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "95bbf36d6d1949bf",
-      "title": "China’s rocket boom has made Hainan a space hub. Can launches fuel wider growth?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/policy/article/3367752/chinas-rocket-boom-turns-hainan-space-hub-can-launches-fuel-wider-growth?utm_source=rss_feed",
-      "publishedAt": "2026-09-16T22:00:08.000Z",
-      "summary": "As technological developments augur an era of renewed space exploration, China is aiming to become a major player. In the first part of this two-part series, Wency Chen and Mia Nurmamat examine how the southern island province of Hainan is betting on a growing aerospace cluster to rewrite its economic playbook beyond tourism. On Hainan’s northeastern coast, launch towers rise abruptly from a flat landscape of coconut palms and open sky. At Pad 1 of the commercial spaceport in Wenchang, an...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/policy/article/3367752/chinas-rocket-boom-turns-hainan-space-hub-can-launches-fuel-wider-growth?utm_source=rss_feed",
-          "publishedAt": "2026-09-16T22:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a61c6dfb158fb47543273e4a",
-      "isContinuation": false,
-      "titleZh": "中国火箭热潮使海南成为航天枢纽，发射活动能否推动更广泛的增长？",
-      "summaryZh": "中国正致力于成为航天强国，海南省正利用其航天产业集群优势，试图摆脱对旅游业的单一依赖。文昌商业航天发射场的发展，标志着该地区正积极布局高科技经济增长点。",
-      "whyImportant": "海南航天产业的发展反映了中国在商业航天领域寻求经济转型和技术自主的战略意图。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "32ecb94ff231bfa0",
-      "title": "China airports climb global-connectivity ranking as international routes rise: OAG report",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3367718/china-airports-climb-global-connectivity-ranking-international-routes-rise-oag-report?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T03:00:10.000Z",
-      "summary": "Among the world’s most connected airports, Guangzhou’s hub has posted the fastest rise through the latest rankings, according to an annual list compiled by aviation data firm OAG. And overall, Chinese hubs stood out as carriers expanded their international networks with added flights. Guangzhou Baiyun International Airport in southern China jumped to 19th place, from 36th last year, in OAG’s Megahubs 2026 report, released on Wednesday. An OAG spokeswoman called its jump the biggest of any...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3367718/china-airports-climb-global-connectivity-ranking-international-routes-rise-oag-report?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T03:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ef99316bd007912e45f11af3",
-      "isContinuation": false,
-      "titleZh": "OAG报告：随着国际航线增加，中国机场全球连通性排名上升",
-      "summaryZh": "根据航空数据公司OAG的最新报告，中国机场在全球连通性排名中表现突出。其中，广州白云国际机场排名大幅跃升，显示出中国航空枢纽在国际网络扩张方面的强劲势头。",
-      "whyImportant": "中国机场连通性的提升反映了中国民航业在后疫情时代国际业务的快速恢复与扩张。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a6e26f80f8d65948",
-      "title": "China mulls bid for Apec free-trade area to taunt US, tantalise Asia",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3367713/china-mulls-bid-apec-free-trade-area-taunt-us-tantalise-asia?utm_source=rss_feed",
-      "publishedAt": "2026-09-16T13:30:05.000Z",
-      "summary": "China is increasingly expected to push for a trade agreement binding a wide swathe of the Pacific Rim, including the US, when it hosts a forum of major Asia-Pacific economies in November, but a real deal may be hard to secure as Washington is likely to resist, according to analysts. The anticipated push for the Free Trade Area of the Asia-Pacific (FTAAP), covering all 21 members of the Asia-Pacific Economic Cooperation (Apec) forum, would – even if unsuccessful – earn Beijing goodwill from other...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/economy/global-economy/article/3367713/china-mulls-bid-apec-free-trade-area-taunt-us-tantalise-asia?utm_source=rss_feed",
-          "publishedAt": "2026-09-16T13:30:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "经济"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c00ef4784d53eeeca09fbb97",
-      "isContinuation": false,
-      "titleZh": "中国考虑竞标亚太经合组织自由贸易区，意在挑战美国并吸引亚洲",
-      "summaryZh": "分析人士认为，中国计划在11月主办亚太经合组织会议期间推动亚太自由贸易区（FTAAP）协议。尽管华盛顿方面可能持抵制态度，但此举旨在加强中国与亚太地区的经济联系。",
-      "whyImportant": "此举显示中国试图通过区域贸易议程提升其在亚太地区的影响力，并与美国展开经济外交博弈。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cb1de5b3100bb506",
-      "title": "Concert proposal in China stirs controversy when woman’s reaction blocks, angers spectators",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3367787/concert-proposal-china-stirs-controversy-when-womans-reaction-blocks-angers-spectators?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T01:15:05.000Z",
-      "summary": "A romantic marriage proposal at a concert in northern China attracted significant backlash after the couple blocked the view of other spectators, leading to numerous complaints. On September 12, Chinese folk singer Zhao Lei performed at Beijing’s National Stadium, known as the Bird’s Nest. As tens of thousands of fans sang along, a man in the front section of the audience stood up to propose to his partner. Videos circulating online featured the woman in a white wedding dress, complete with a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3367787/concert-proposal-china-stirs-controversy-when-womans-reaction-blocks-angers-spectators?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T01:15:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 55,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b19dd2457fff43ed6fd2cb5f",
-      "isContinuation": false,
-      "titleZh": "中国演唱会求婚引发争议，女子反应阻挡视线激怒观众",
-      "summaryZh": "在近日北京举行的一场演唱会上，一对情侣在观众席进行求婚，因阻挡了后排观众的视线引发不满。相关视频在网络传播后，引发了关于公共场合行为礼仪的广泛讨论。",
-      "whyImportant": "该事件反映了公众对于大型活动中个人行为边界与公共空间礼仪的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "244caf499d6e440c",
-      "title": "Summer Goes Out With a Heat Dome",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
-      "publishedAt": "2026-09-17T04:01:00.000Z",
-      "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
-          "publishedAt": "2026-09-17T04:01:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9dc561db70c67b963eb428c4",
-      "isContinuation": false,
-      "titleZh": "夏季在热穹顶中结束",
-      "summaryZh": "随着秋分的临近，美国中部和南部地区的气温纪录被打破。极端高温天气持续笼罩这些地区，标志着夏季以异常高温收尾。",
-      "whyImportant": "持续的极端高温天气再次引发了公众对气候变化及其对季节性气候模式影响的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8f1ff29aa9263e7a",
-      "title": "US bars Palestinian president from attending UNGA for second year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
-      "publishedAt": "2026-09-17T04:35:52.000Z",
-      "summary": "The United States has declined to grant visas to Palestinian President Mahmoud Abbas.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
-          "publishedAt": "2026-09-17T04:35:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "627c8677b297ad835ae0230f",
-      "isContinuation": false,
-      "titleZh": "美国连续第二年拒绝巴勒斯坦总统出席联合国大会",
-      "summaryZh": "美国已拒绝向巴勒斯坦总统马哈茂德·阿巴斯发放签证。这是阿巴斯连续第二年无法出席联合国大会。",
-      "whyImportant": "此举反映了美国与巴勒斯坦领导层之间持续的外交紧张关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8833156eb805eea5",
-      "title": "Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
-      "publishedAt": "2026-09-16T20:25:19.000Z",
-      "summary": "IMPROVING WATER QUALITY OF THE CHESAPEAKE BAY: Today, President Donald J. Trump signed an Executive Order to remove unnecessary administrative costs and direct federal resources for the Chesapeake Bay toward projects that improve water quality, promoting a more efficient, accountable, and results-driven effort to improve the Chesapeake Bay. SUPPORTING CLEAN WATER WITHOUT INCREASED COSTS: The Trump Administration is committed to supporting […] The post Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
-          "publishedAt": "2026-09-16T20:25:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bf5964db37f5c9c2e82a8569",
-      "isContinuation": false,
-      "titleZh": "情况说明书：唐纳德·J·特朗普总统通过协作和监督联邦支持，实现切萨皮克湾水质的实质性改善",
-      "summaryZh": "特朗普总统签署了一项行政命令，旨在通过削减不必要的行政成本，将联邦资源集中用于改善切萨皮克湾水质的项目。该政策强调提高效率和问责制，以实现更具成果的环保目标。",
-      "whyImportant": "该行政命令旨在通过行政改革优化联邦环保资金的使用效率。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ee3bbd3e20cf1807",
-      "title": "National POW/MIA Recognition Day, 2026",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/",
-      "publishedAt": "2026-09-16T20:05:04.000Z",
-      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION The glorious liberty that makes America the envy of the world has been secured and sustained by brave and selfless patriots from every war and conflict since the founding of our Republic. On National POW/MIA Recognition Day, we pause to pay everlasting tribute to […] The post National POW/MIA Recognition Day, 2026 appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/",
-          "publishedAt": "2026-09-16T20:05:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "495ad84eafb6843fbf05233c",
-      "isContinuation": false,
-      "titleZh": "2026年全国战俘/失踪人员纪念日",
-      "summaryZh": "美国总统发布公告，向自建国以来在历次战争和冲突中表现出勇敢与无私的爱国者致敬。该纪念日旨在铭记那些为维护美国自由而做出牺牲的战俘及失踪人员。",
-      "whyImportant": "此公告重申了美国政府对退伍军人及失踪服役人员的纪念与承诺。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ca02e443da5d207e",
-      "title": "British-American writer Bonnie Greer dies aged 77",
-      "source": "DW",
-      "url": "https://www.dw.com/en/british-american-writer-bonnie-greer-dies-aged-77/a-79293174?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-09-16T15:12:00.000Z",
-      "summary": "Chicago-born playwright Bonnie Greer, who became a familiar face in British political discourse later in life, has died. Her husband David Hutchins announced news of Greer's death.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/british-american-writer-bonnie-greer-dies-aged-77/a-79293174?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-09-16T15:12:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 52,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6677fe2ec9820eaf1d5eb0bf",
-      "isContinuation": false,
-      "titleZh": "英籍美裔作家邦妮·格里尔去世，享年77岁",
-      "summaryZh": "出生于芝加哥的剧作家邦妮·格里尔去世，其丈夫大卫·哈钦斯证实了这一消息。格里尔晚年活跃于英国政治讨论中，是公众熟知的评论人物。",
-      "whyImportant": "格里尔作为跨文化背景的作家和评论家，在英国公共舆论中具有一定影响力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "509681f84eaaed69",
-      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168352",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a “pretext” to target “innocent seafarers”.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168352",
-          "publishedAt": "2026-09-16T12:00:00.000Z"
+          "url": "https://www.theguardian.com/us-news/2026/sep/17/man-sentenced-ilhan-omar-vinegar-minneapolis",
+          "publishedAt": "2026-09-17T22:48:57.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1810,35 +1702,35 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "国际组织"
       ],
-      "score": 55,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "92fa90b26e0bdf08a3864877",
+      "fingerprint": "e7f726e1a2df169603f1a2c5",
       "isContinuation": false,
-      "titleZh": "世界新闻简报：国际海事组织发布航运警报，尼加拉瓜民主消亡，政治“否认主义”引发警惕",
-      "summaryZh": "受美伊战争影响，中东关键水道的航运袭击事件频发。国际海事组织负责人强调，冲突不应成为针对无辜海员的借口。",
-      "whyImportant": "该警报反映了地区冲突对全球航运安全及海员人身安全的直接威胁。",
+      "titleZh": "向伊尔汗·奥马尔喷洒醋的男子被判入狱14个月",
+      "summaryZh": "一名56岁男子因在明尼阿波利斯市政厅会议上向美国众议员伊尔汗·奥马尔喷洒醋，与检方达成认罪协议并被判处14个月监禁。该事件发生于当地移民执法引发抗议和骚乱的背景之下。",
+      "whyImportant": "此判决体现了美国司法系统对针对民选官员袭击行为的惩处力度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "aad0b981836a3121",
-      "title": "Risk of unrest in Asia as Iran war, El Nino threaten food supplies",
+      "id": "ed322ee2cc3a7c26",
+      "title": "US to allow Iranian leaders to attend UN meeting in New York amid wartime stand-off",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/article/3367791/risk-unrest-asia-iran-war-el-nino-threaten-food-supplies?utm_source=rss_feed",
-      "publishedAt": "2026-09-17T02:08:05.000Z",
-      "summary": "Severe weather disruptions will amplify food security risks in Asia, potentially triggering civil unrest and political instability in vulnerable countries such as India, Indonesia and the Philippines, according to consultancy Verisk Maplecroft. The warning comes as the war in Iran has already disrupted fuel and fertiliser supplies, both of which are key agricultural inputs. Now, weather extremes linked to a powerful El Nino are further threatening crops across the region. Indonesia, the world’s...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367948/us-allow-iranian-leaders-attend-un-meeting-new-york-amid-wartime-stand?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T04:11:25.000Z",
+      "summary": "The Trump administration has approved visas for top Iranian officials, including the president and foreign minister, to attend next week’s UN General Assembly high-level meeting in New York even as the two countries are locked in a stalemated war. The State Department said Thursday that it had approved visas for Iran’s “core delegation”, along with essential staffers to participate in the UN meetings. The core delegation includes President Masoud Pezeshkian and Foreign Minister Abbas Araghchi,...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/article/3367791/risk-unrest-asia-iran-war-el-nino-threaten-food-supplies?utm_source=rss_feed",
-          "publishedAt": "2026-09-17T02:08:05.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3367948/us-allow-iranian-leaders-attend-un-meeting-new-york-amid-wartime-stand?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T04:11:25.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1847,18 +1739,451 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "外交",
         "军事与安全"
       ],
-      "score": 54,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "69c1a07fa939ef8dcc65915c",
+      "fingerprint": "3401232f0d7fecea669a6251",
       "isContinuation": false,
-      "titleZh": "伊朗战争与厄尔尼诺现象威胁粮食供应，亚洲面临动荡风险",
-      "summaryZh": "咨询公司Verisk Maplecroft警告称，伊朗战争导致的化肥和燃料供应中断，叠加厄尔尼诺现象引发的极端天气，正威胁亚洲的粮食安全。印度、印尼和菲律宾等国可能因此面临社会动荡和政治不稳定的风险。",
-      "whyImportant": "粮食供应危机可能成为引发亚洲多国社会动荡的导火索。",
+      "titleZh": "尽管处于战时对峙，美国仍允许伊朗领导人参加纽约联合国会议",
+      "summaryZh": "尽管美伊两国处于僵持的战争状态，特朗普政府仍批准了伊朗总统及外交部长等核心代表团成员的签证。此举旨在确保伊朗官员能够出席下周在纽约举行的联合国大会高级别会议。",
+      "whyImportant": "此决定显示了美国在处理敌对国家外交往来时，仍试图维持联合国作为国际对话平台的特殊地位。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "73ea87fd0b415487",
+      "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+      "publishedAt": "2026-09-18T03:20:20.000Z",
+      "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+          "publishedAt": "2026-09-18T03:20:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "金融"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "906a04411612d58f3f8bc50b",
+      "isContinuation": false,
+      "titleZh": "日本央行将利率上调至1.25%，创31年来新高以应对通胀",
+      "summaryZh": "日本央行宣布将基准利率从1%上调至1.25%。此举旨在通过紧缩货币政策来应对国内日益增长的通胀风险。",
+      "whyImportant": "日本央行的加息决策标志着其长期超宽松货币政策的进一步转向，对全球金融市场具有重要影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "25bac855bb4c7dbc",
+      "title": "The need for speed as Hong Kong plugs in",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/presented/news/hong-kong/topics/need-charging-speed/article/3367850/need-speed-hong-kong-plugs?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T02:00:17.000Z",
+      "summary": "[The content of this article has been produced by our advertising partner.] Hong Kong is preparing for many more electric vehicles on its roads. The city’s First Five-Year Plan, announced alongside the Policy Address, calls for the steady electrification of vehicles and safe, efficient charging networks, with around 10,000 fast chargers expected by 2035 to support about 500,000 EVs. That longer-term target follows an updated EV roadmap released in February, which calls for fast chargers to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/presented/news/hong-kong/topics/need-charging-speed/article/3367850/need-speed-hong-kong-plugs?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T02:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "bf6debda099b1d434709bd7f",
+      "isContinuation": false,
+      "titleZh": "香港加速推进电动汽车充电网络建设",
+      "summaryZh": "香港正通过首个五年计划推动交通工具电动化，目标是到2035年部署约10,000个快速充电器，以支持约50万辆电动汽车。此举旨在落实最新的电动汽车路线图，确保城市充电网络的安全与高效。",
+      "whyImportant": "该计划将显著提升香港的电动汽车基础设施，对城市交通绿色转型具有重要意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b56ddccd688eaee0",
+      "title": "Like Shenzhen, the Northern Metropolis is animated by the spirit of experimentation",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367836/shenzhen-northern-metropolis-animated-spirit-experimentation?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T01:30:05.000Z",
+      "summary": "At the heart of Hong Kong’s first five-year plan lies the Northern Metropolis – a massive tract of land spanning roughly a third of our entire city. Much ink has been spilled over what this project represents and why it matters, but if I had to summarise it in a single sentence, I would call it the “Shenzhen of Hong Kong”. To me, Shenzhen stands as the most miraculous growth story on Earth. Forty-eight years ago, it was a sleepy fishing village with a single muddy main road and just tens of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367836/shenzhen-northern-metropolis-animated-spirit-experimentation?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T01:30:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "中国"
+      ],
+      "fingerprint": "a6e3a3a151224b91e458ab61",
+      "isContinuation": false,
+      "titleZh": "北部都会区：以深圳精神驱动的实验性发展",
+      "summaryZh": "香港首个五年计划的核心在于北部都会区，该项目占地约全市三分之一。作者将其比作“香港的深圳”，强调其作为城市增长引擎的实验性与重要意义。",
+      "whyImportant": "北部都会区被视为香港未来经济增长与区域融合的关键战略空间。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "396a38130c682431",
+      "title": "New tiger cat species identified in Bolivia, first in over a century",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
+      "publishedAt": "2026-09-18T04:16:28.000Z",
+      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century. The cat, called tilcayo by local communities, is part of a group called tiger ⁠cats found across much of South ⁠America. It was found in Bolivia’s ​lush Yungas forest, a mountainous region where forests are often covered by clouds and surrounded by high humidity, according to researchers. It measures about 18in (46cm) long and weighs about 3lb (1.4kg), making it smaller than the average domestic ⁠cat. Continue reading...",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
+          "publishedAt": "2026-09-18T04:16:28.000Z"
+        },
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+          "publishedAt": "2026-09-17T20:43:38.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/americas/article/3367909/new-cat-species-identified-bolivia-first-over-century?utm_source=rss_feed",
+          "publishedAt": "2026-09-17T17:12:46.000Z"
+        }
+      ],
+      "sourceCount": 3,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "能源"
+      ],
+      "score": 74,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b5071bb37d34a763797234a1",
+      "isContinuation": false,
+      "titleZh": "玻利维亚发现新虎猫物种，为百年来首次",
+      "summaryZh": "研究人员在玻利维亚云雾森林中发现了一种名为“tilcayo”的新型野生猫科动物。这是百年来首次正式命名和描述的新猫科物种，其体型比普通家猫还要小。",
+      "whyImportant": "这一发现丰富了生物多样性记录，并强调了保护云雾森林生态系统的重要性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ae83d276e88e9cd9",
+      "title": "Could this economic squeeze sway US voters?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+      "publishedAt": "2026-09-18T04:27:25.000Z",
+      "summary": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+          "publishedAt": "2026-09-18T04:27:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "经济"
+      ],
+      "score": 63,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d603407f90c9017ebde12ef9",
+      "isContinuation": false,
+      "titleZh": "这种经济紧缩会影响美国选民吗？",
+      "summaryZh": "美国低收入群体正承受着借贷成本上升和购买力下降的双重压力。这种经济困境可能对选民的投票倾向产生影响。",
+      "whyImportant": "经济状况的恶化往往是影响美国大选结果的关键变量。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3b3ab374198a7a85",
+      "title": "Is Trump’s AI obsession walking the world into disaster? – podcast",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
+      "publishedAt": "2026-09-18T04:00:08.000Z",
+      "summary": "Tech bosses have called for a slowdown in artificial intelligence and the creation of formal guardrails from the US government. But why is President Trump unmoved by the doomsday predictions, dismissing them as a ‘hoax’? What lies behind his embrace of the AI industry? Jonathan Freedland speaks to the Guardian US tech editor, Blake Montgomery Watch Jonathan Freedland on our new Politics Weekly YouTube channel Send your questions and feedback to politicsweeklyamerica@theguardian.com Listen to the latest season of Black Box Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
+          "publishedAt": "2026-09-18T04:00:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "科技",
+        "公共安全"
+      ],
+      "score": 62,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5c6975cbd65be4d7c7dfdb7d",
+      "isContinuation": false,
+      "titleZh": "特朗普对人工智能的痴迷是否正在将世界推向灾难？",
+      "summaryZh": "尽管科技界领袖呼吁对人工智能进行监管并设立护栏，但特朗普总统对此持怀疑态度，并将其斥为骗局。外界关注他为何如此坚定地支持人工智能产业发展。",
+      "whyImportant": "美国政府对人工智能的监管态度将直接影响全球科技发展的方向与安全风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "57ebb59352d73a6e",
+      "title": "Rare honour: Trump will greet Xi at Joint Base Andrews, not just White House",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3367905/rare-honour-trump-will-greet-xi-andrews-not-just-white-house?utm_source=rss_feed",
+      "publishedAt": "2026-09-17T15:13:49.000Z",
+      "summary": "US President Donald Trump will personally greet Chinese counterpart Xi Jinping on the tarmac at Joint Base Andrews when Xi lands in Washington next Wednesday, a rare airport reception, a US official confirmed on background. Trump will attend Xi’s arrival ceremony at Andrews, where the Chinese president’s aircraft is expected around 4pm local time on September 23. The president almost never meets visiting heads of state at the airfield. He typically waits at the White House. The gesture is not a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3367905/rare-honour-trump-will-greet-xi-andrews-not-just-white-house?utm_source=rss_feed",
+          "publishedAt": "2026-09-17T15:13:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "专题·中国与世界"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": true,
+      "topicKeywords": [
+        "chinese",
+        "中国"
+      ],
+      "fingerprint": "2102f16d6f01902ff714edc5",
+      "isContinuation": false,
+      "titleZh": "罕见礼遇：特朗普将在安德鲁斯联合基地迎接习近平，而非仅在白宫会面",
+      "summaryZh": "美国官员证实，特朗普总统将于下周三亲自前往安德鲁斯联合基地迎接中国国家主席习近平。这种在机场直接迎接外国元首的做法在美国外交中极为罕见。",
+      "whyImportant": "这一高规格的接待安排显示了美中两国在外交礼仪上的特殊考量，可能预示着双方关系的微妙变化。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "20c94f05d4c11ff3",
+      "title": "RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/rfk-jr-measles-anti-vaccine-organization",
+      "publishedAt": "2026-09-17T19:59:55.000Z",
+      "summary": "The US health secretary added that he would’ve made sweeping changes ‘on day one’ but he had to follow the law As the death toll from the worst measles outbreak in decades rises, Robert F Kennedy Jr headlined the Washington DC conference of the anti-vaccine organization Children’s Health Defense, which he led for nearly a decade. “Let me be clear. You have a strong and steadfast friend at the White House,” Kennedy, now serving as secretary of the US Department of Health and Human Services (HHS), told anti-vaccine activists at the conference in a nearly hour-and-a-half-long speech. He urged patience, saying that he would’ve made sweeping changes “on day one” but that he had to follow the law in order to make permanent change. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/17/rfk-jr-measles-anti-vaccine-organization",
+          "publishedAt": "2026-09-17T19:59:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "113aa65887ce9f9db0657493",
+      "isContinuation": false,
+      "titleZh": "小罗伯特·肯尼迪在麻疹疫情期间承诺为反疫苗人士提供“白宫盟友”",
+      "summaryZh": "现任美国卫生与公众服务部部长的小罗伯特·肯尼迪在反疫苗组织会议上表示，他将是该群体的坚定盟友。尽管他承诺进行改革，但也强调必须依法行事以实现长期变革。",
+      "whyImportant": "作为卫生部门最高官员，其反疫苗立场引发了公众对公共卫生政策走向的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e722513cca34b93c",
+      "title": "Poland eyes deeper Philippines defence ties following Black Hawk deal",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3367900/poland-eyes-deeper-philippines-defence-ties-following-black-hawk-deal?utm_source=rss_feed",
+      "publishedAt": "2026-09-18T00:00:17.000Z",
+      "summary": "Poland’s delivery of Black Hawk helicopters to the Philippines has given Warsaw a foothold in Manila’s defence market as it seeks to expand exports from its growing defence industry, with analysts saying drones, air defence and potentially co-production could pave the way for a broader partnership. Polish deputy foreign minister Wladyslaw Bartoszewski said on Tuesday that Warsaw was keen to pursue further defence partnerships with the Philippines, as Poland poured US$50 billion into...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3367900/poland-eyes-deeper-philippines-defence-ties-following-black-hawk-deal?utm_source=rss_feed",
+          "publishedAt": "2026-09-18T00:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "金融",
+        "军事与安全"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3aec105c780b5047db0de8ea",
+      "isContinuation": false,
+      "titleZh": "继黑鹰直升机交易后，波兰寻求深化与菲律宾的防务关系",
+      "summaryZh": "波兰通过向菲律宾交付黑鹰直升机成功进入当地防务市场。波兰政府表示希望在无人机和防空系统等领域进一步扩大合作。",
+      "whyImportant": "波兰正积极拓展其国防工业出口，此举反映了其在全球防务市场中影响力的提升。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7dfb2cfd9319faec",
+      "title": "Amid claims of ‘mass migration’, Labor hopes a measured approach will take the hot air out of the debate",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/18/amid-claims-of-mass-migration-labor-hopes-a-measured-approach-will-take-the-hot-air-out-of-the-debate",
+      "publishedAt": "2026-09-17T15:00:53.000Z",
+      "summary": "The country’s migration settings have become a source of discontent – but will Tony Burke’s approach be seen as the right mix? Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Tony Burke has promised to make Labor’s existing migration policy work better rather than announcing a dramatic cut in numbers, arguing that populist promises to slash net overseas migration will “trash Australian services and trash the Australian economy”. The home affairs minister’s message was immediately endorsed by employer groups, who over recent days have made it clear that steps to arbitrarily slash migrant numbers would compound already severe skills shortages and hurt businesses, especially those in the regions. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/18/amid-claims-of-mass-migration-labor-hopes-a-measured-approach-will-take-the-hot-air-out-of-the-debate",
+          "publishedAt": "2026-09-17T15:00:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "经济",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f2d09c134422ff5c834639ca",
+      "isContinuation": false,
+      "titleZh": "在“大规模移民”的争议声中，工党希望通过审慎的政策平息辩论",
+      "summaryZh": "澳大利亚内政部长托尼·伯克承诺优化现有移民政策，而非采取激进的削减措施。雇主团体支持这一立场，认为大幅削减移民将加剧技能短缺并损害经济。",
+      "whyImportant": "移民政策的调整是澳大利亚当前政治辩论的核心，直接关系到劳动力市场和经济稳定。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1a93566ef14b360f",
+      "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+      "publishedAt": "2026-09-18T02:53:05.000Z",
+      "summary": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+          "publishedAt": "2026-09-18T02:53:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "china",
+      "topicName": "中国与世界",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "71a6f0f04a235507b389c527",
+      "isContinuation": false,
+      "titleZh": "意大利将部署军舰保护曼德海峡的航运安全",
+      "summaryZh": "意大利国防部长警告称，如果曼德海峡无法通行，将对经济造成严重后果。意大利决定绕过欧盟的决策延迟，采取独立行动保护航运。",
+      "whyImportant": "此举凸显了关键海上贸易通道安全对欧洲经济的重要性，以及各国在应对地缘政治风险时的自主行动。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
