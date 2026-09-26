@@ -1,252 +1,95 @@
 {
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-25T04:55:27.578Z",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T04:56:13.807Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "china",
-    "name": "中国与世界",
-    "description": "关注中国经济、外交、安全、产业链与海外利益",
-    "query": "China economy diplomacy security trade",
+    "slug": "usa",
+    "name": "美国政策与全球影响",
+    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
+    "query": "United States policy economy diplomacy security",
     "keywords": [
-      "china",
-      "chinese",
-      "beijing",
-      "中国",
-      "北京",
-      "中美",
-      "人民币",
-      "产业链"
+      "united states",
+      "u.s.",
+      "american",
+      "washington",
+      "white house",
+      "美国",
+      "华盛顿",
+      "白宫",
+      "美联储"
     ],
-    "accent": "#ef4444"
+    "accent": "#3b82f6"
   },
-  "overview": "今日专题“中国与世界”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“美国政策与全球影响”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "19992194eeb97ef2",
-      "title": "Pitch perfect cultural diplomacy wins heart of China’s first lady Peng Liyuan",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368757/pitch-perfect-cultural-diplomacy-wins-heart-chinas-first-lady-peng-liyuan?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T04:43:09.000Z",
-      "summary": "While their husbands held talks at the White House, Melania Trump hosted Peng Liyuan at the Smithsonian National Museum of Asian Art on Thursday, where the famed Chinese soprano softly hummed along to a youth choir’s performance of a familiar classic. Footage shows the Hope Chinese School youth choir waving Chinese and American national flags during their rendition of the song “Jasmine Flower”, while Peng watches with a smile, her lips moving along to the lyrics. As the performance ends, she...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368757/pitch-perfect-cultural-diplomacy-wins-heart-chinas-first-lady-peng-liyuan?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T04:43:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "外交",
-        "专题·中国与世界"
-      ],
-      "score": 78,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "a90c3a3b39e8a005e85a80c8",
-      "isContinuation": false,
-      "titleZh": "文化外交赢得人心：中国第一夫人彭丽媛被合唱表演打动",
-      "summaryZh": "在华盛顿史密森尼国家亚洲艺术博物馆，梅拉尼娅·特朗普接待了彭丽媛。当青年合唱团演唱《茉莉花》时，彭丽媛随旋律轻声哼唱，展现了文化交流的温情时刻。",
-      "whyImportant": "此类文化交流活动有助于在高级别政治会晤期间营造积极的氛围。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9d9b7a54ab2bac6a",
-      "title": "Trump autopen joke at Biden’s expense draws rare laugh from China’s Xi",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368744/chinas-xi-shares-rare-laugh-white-house-tour-trumps-biden-autopen-joke?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T03:13:32.000Z",
-      "summary": "Chinese President Xi Jinping broke into rare laughter as his US counterpart Donald Trump showed him a framed “autopen” displayed in place of the former American leader Joe Biden’s portrait during a White House tour. The viral moment stood out against the Chinese leader’s otherwise restrained demeanour during his first state visit to the United States in more than a decade. A video released by the White House on social media showed Trump taking Xi along the White House colonnade on Thursday...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368744/chinas-xi-shares-rare-laugh-white-house-tour-trumps-biden-autopen-joke?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T03:13:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·中国与世界"
-      ],
-      "score": 72,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "f7500615a1924eb91cc03574",
-      "isContinuation": false,
-      "titleZh": "特朗普拿“自动签名机”开玩笑，引中国国家主席习近平罕见大笑",
-      "summaryZh": "在白宫参观期间，特朗普向习近平展示了一台取代拜登肖像的“自动签名机”，这一幽默举动令习近平罕见地开怀大笑。该视频片段在社交媒体上迅速传播。",
-      "whyImportant": "领导人之间轻松的互动被视为缓解外交紧张关系、建立个人沟通渠道的积极信号。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3c02b4c764c9d8c8",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "id": "3808196cf27c416a",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T03:57:09.000Z",
-      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T04:14:30.000Z",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi said on Friday that Tehran had offered Washington a plan that would see the Strait of Hormuz reopened to maritime navigation within seven days once agreed. Araghchi met with US President Donald Trump’s envoy Steve Witkoff for talks on Tuesday, and previously set out conditions for ending the war and reopening the vital energy shipping channel. “Iran has conveyed to the United States, through Qatar, a concrete seven-day plan. If the necessary conditions are...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-25T03:57:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 71,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "f9522585802026af9406744e",
-      "isContinuation": false,
-      "titleZh": "习近平获得特朗普的红毯礼遇，但并未实现所有预期目标",
-      "summaryZh": "尽管习近平受到了高规格接待，但中国在贸易、技术和台湾问题上并未取得预期的实质性进展。双方在核心议题上的分歧依然存在。",
-      "whyImportant": "这反映出尽管外交礼仪隆重，但中美两国在关键战略利益上的博弈依然复杂且充满挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e7ca933d41a8f162",
-      "title": "Beyond the Rose Garden and the military review, Trump and Xi get down to business",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T14:32:56.000Z",
-      "summary": "After weeks of frustration, delays and posturing, Chinese President Xi Jinping and US President Donald Trump met on Thursday, holding talks on several bilateral irritants and announcing an ill-defined “new joint arrangement” as they kicked off the most consequential day of their high-stakes summit. The arrangement was “good news for businesses, ordinary people and the global economy”, Xi said, according to state news agency Xinhua, without elaborating. “We must turn this vision into action,” he...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-26T04:14:30.000Z"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+          "publishedAt": "2026-09-26T00:00:00.000Z"
+        },
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T14:32:56.000Z"
+          "url": "https://www.scmp.com/news/world/middle-east/article/3368872/iran-offers-us-plan-reopen-hormuz-within-7-days?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T21:03:29.000Z"
         }
       ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
+      "sourceCount": 3,
+      "isChina": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
+        "美国重点",
         "外交",
-        "经济",
         "军事与安全",
-        "专题·中国与世界"
+        "能源",
+        "专题·美国政策与全球影响"
       ],
-      "score": 67,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 93,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "chinese",
-        "中国"
+        "united states",
+        "washington",
+        "美国"
       ],
-      "fingerprint": "85d4e125e8e64d13a7aec887",
+      "fingerprint": "be02686137f37371fbc6a010",
       "isContinuation": false,
-      "titleZh": "超越玫瑰园与阅兵仪式，特朗普与习近平进入实质性会谈",
-      "summaryZh": "经过长时间的筹备与博弈，习近平与特朗普举行了会谈，并宣布了一项旨在促进商业与全球经济的“新联合安排”。双方均强调需将愿景转化为具体行动。",
-      "whyImportant": "此次会谈标志着中美关系在经历一段时期的僵局后，试图通过务实合作来稳定双边关系。",
+      "titleZh": "伊朗向美国提出七天内重开霍尔木兹海峡的协议",
+      "summaryZh": "伊朗外长阿巴斯·阿拉格希表示，伊朗已通过卡塔尔向美国提交了一份七天内重开霍尔木兹海峡的方案。该方案的前提是满足伊朗此前设定的结束战争等相关条件。",
+      "whyImportant": "若该提议获得进展，将对全球能源供应安全产生重大积极影响，并可能缓解波斯湾地区的紧张局势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3cfcd8291bbd0525",
-      "title": "China’s industrial strengths must also benefit its trading partners",
+      "id": "807138d459f3440d",
+      "title": "Xi-Trump summit: China and US to open ‘super intelligence’ communications channel",
       "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T21:30:12.000Z",
-      "summary": "The European Commission is pressing China for progress by next month to address the widening EU-China trade imbalance, and raising the possibility of new protectionist trade policy. The deadline raises a question: how should China and its trading partners address perceived economic imbalances while sharing the benefits of Chinese industrial competitiveness? China’s merchandise trade surplus approached US$1.2 trillion last year even as other exporting economies press for controls. “Overcapacity”...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T04:49:50.000Z",
+      "summary": "China and the United States have agreed to establish a bilateral communication channel for “super intelligence” incidents, according to the White House. In a statement about the deliverables of Chinese President Xi Jinping’s visit to Washington, the US said the next meeting of the newly formed US-China Super Intelligence (SI) Dialogue would take place by November. China’s Ministry of Commerce confirmed on Thursday that its senior trade negotiators had held their first talks with the US on...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T21:30:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "专题·中国与世界"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "e0626c330689ac33aa905ffb",
-      "isContinuation": false,
-      "titleZh": "中国的工业优势必须惠及贸易伙伴",
-      "summaryZh": "欧盟委员会正向中国施压，要求解决日益扩大的贸易失衡问题，并暗示可能采取新的保护主义政策。如何在保持工业竞争力的同时平衡贸易伙伴的利益，成为中国面临的挑战。",
-      "whyImportant": "贸易失衡问题已成为影响中国与欧洲及其他贸易伙伴关系的关键经济摩擦点。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7f373a87f0abb732",
-      "title": "Xi, Trump praise past friendship, downplay current rivalry at dinner – as it happened",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T13:53:20.000Z",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account. Xi’s US summit: Access real-time updates, geopolitical risk analysis, and exclusive reporting from an Asian perspective. Subscribe now with our limited-time offer to stay ahead. President Xi Jinping and China’s first lady Peng Liyuan arrived at the White House on Thursday, on Xi’s first trip to the US in nearly a decade, following US President Donald Trump’s trip to Beijing in May. Trump greeted Xi...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T13:53:20.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T04:49:50.000Z"
         }
       ],
       "sourceCount": 1,
@@ -257,199 +100,294 @@
         "中国重点",
         "美国重点",
         "外交",
-        "专题·中国与世界"
+        "经济",
+        "专题·美国政策与全球影响"
       ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 83,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "beijing",
-        "中国"
+        "united states",
+        "washington",
+        "white house",
+        "美国"
       ],
-      "fingerprint": "d12bf7820db8676c47bdedc3",
+      "fingerprint": "100bb60b8338a1a77d4c7f88",
       "isContinuation": false,
-      "titleZh": "习近平与特朗普在晚宴上称赞过往友谊，淡化当前竞争",
-      "summaryZh": "习近平与夫人彭丽媛抵达白宫，这是习近平近十年来首次访美。在晚宴中，双方回顾了过往的友谊，并试图在公开场合淡化当前的竞争态势。",
-      "whyImportant": "通过强调个人友谊来缓和地缘政治竞争，是双方在峰会期间采取的一种外交策略。",
+      "titleZh": "习特会：中美将开启“超级智能”沟通渠道",
+      "summaryZh": "白宫表示，中美两国已同意建立针对“超级智能”事件的双边沟通渠道。双方计划在11月前举行首次中美超级智能对话，以应对相关技术风险。",
+      "whyImportant": "该机制的建立标志着中美在人工智能等前沿技术治理领域开始寻求风险管控与合作。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0937168e4e06d7ce",
-      "title": "China tested a handheld submarine detector. It tracked a subway train underground",
+      "id": "2fbedf30d8000404",
+      "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+      "publishedAt": "2026-09-26T03:29:32.000Z",
+      "summary": "DELIVERING FOR AMERICANS: This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame Peng Liyuan of the People’s Republic of China for a reciprocal State Visit. During the visit, President Trump advanced the U.S.-China relationship and put the American people first. OPERATIONALIZING THE BOARDS OF TRADE AND INVESTMENT: This week, […] The post Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+          "publishedAt": "2026-09-26T03:29:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "经济",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 78,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "u.s.",
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "579f969e77a6e60f594692a9",
+      "isContinuation": false,
+      "titleZh": "情况说明书：唐纳德·J·特朗普总统在主持历史性国事访问期间推动与中国的公平互惠关系",
+      "summaryZh": "特朗普总统与第一夫人梅拉尼娅接待了中国国家主席习近平及夫人彭丽媛的国事访问。白宫强调此次访问旨在推动美中关系并优先考虑美国人民利益，同时推进了贸易与投资委员会的运作。",
+      "whyImportant": "此文件体现了美方对此次国事访问的官方定调，强调在双边关系中追求互惠与美国优先的政策导向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8cc552b185a2a4d1",
+      "title": "China’s first lady Peng Liyuan shines during Xi-Trump summit: everything you missed",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3367965/china-tested-handheld-submarine-detector-it-tracked-subway-train-underground?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T02:00:18.000Z",
-      "summary": "Chinese researchers have showed a handheld quantum magnetometer built for hunting submarines in a striking real-world test: it tracked a subway train rumbling beneath a city street. The device, developed by Peng Xinhua and colleagues at the University of Science and Technology of China, is described in a study published on September 14 in Acta Physica Sinica. Though it is scarcely larger than a pencil and draws only 5 watts of power, it can isolate the magnetic disturbance caused by a moving...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368880/chinas-first-lady-peng-liyuan-shines-during-xi-trump-summit-everything-you-missed?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T04:30:07.000Z",
+      "summary": "We have put together stories from our coverage of Peng Liyuan during the Xi-Trump summit. If you would like to see more of our reporting, please consider subscribing. 1. China’s first lady Peng Liyuan projects glamour and soft power on world stage China’s first lady Peng Liyuan is again stepping into the international limelight as she travels to Washington with President Xi Jinping this week. 2. Peng Liyuan and Melania Trump renew acquaintance as Xi arrives in US Chinese first lady Peng Liyuan...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3367965/china-tested-handheld-submarine-detector-it-tracked-subway-train-underground?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T02:00:18.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368880/chinas-first-lady-peng-liyuan-shines-during-xi-trump-summit-everything-you-missed?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T04:30:07.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "专题·中国与世界"
+        "美国重点",
+        "外交",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 76,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "2b3f4ed74dbbf80d3c4c3f25",
+      "isContinuation": false,
+      "titleZh": "中国第一夫人彭丽媛在习特会期间大放异彩：你错过的所有细节",
+      "summaryZh": "中国第一夫人彭丽媛随同习近平主席访问华盛顿，在国际舞台上展现了魅力与软实力。她与梅拉尼娅·特朗普的互动成为此次峰会期间备受关注的焦点。",
+      "whyImportant": "第一夫人的外交活动在峰会期间发挥了重要的公共外交作用，有助于提升国家形象。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "730bff480e7a228c",
+      "title": "White House bars CNN from Air Force One for Trump’s upcoming trip",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+      "publishedAt": "2026-09-26T04:27:07.000Z",
+      "summary": "Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+          "publishedAt": "2026-09-26T04:27:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
       ],
       "score": 65,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
+        "white house",
+        "美国"
       ],
-      "fingerprint": "4254ee50c735f53b746387af",
+      "fingerprint": "67379973929f0e6ba48c44a4",
       "isContinuation": false,
-      "titleZh": "中国测试手持式潜艇探测器：成功追踪地下地铁列车",
-      "summaryZh": "中国研究人员开发出一种手持式量子磁力计，在测试中成功追踪到城市街道下方的地铁列车。该设备体积小巧且功耗极低，展示了其在探测移动金属物体方面的潜力。",
-      "whyImportant": "这项技术的突破展示了量子传感领域在军事探测和民用监测方面的应用前景。",
+      "titleZh": "白宫禁止CNN随特朗普总统出行空军一号",
+      "summaryZh": "在特朗普总统与美国媒体关系日益紧张之际，Real America's Voice News取代了CNN在空军一号上的随行位置。此举反映了白宫对特定媒体机构的限制措施。",
+      "whyImportant": "此事件凸显了白宫与主流媒体之间持续的对抗关系及其对新闻自由的影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "583443d77fd2290a",
-      "title": "Uber shuts down FlyTaxi, second metered cab platform it acquired in Hong Kong",
+      "id": "2818715cdec4efe2",
+      "title": "Pomp over progress in Xi’s US summit with Trump is a win for China",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "publishedAt": "2026-09-25T12:41:14.000Z",
+      "summary": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues Key takeaways from the Trump-Xi summit in Washington If the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs. Instead, it was described as a celebration of “diplotainment” rather than diplomacy, where pomp prevailed over progress and where one of the main outcomes was the news that two giant pandas would soon be sent from China to Atlanta zoo. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+          "publishedAt": "2026-09-25T12:41:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 64,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "872a865129df34dd7a4005cc",
+      "isContinuation": false,
+      "titleZh": "习特会重排场轻进展，被视为中国的胜利",
+      "summaryZh": "此次中美峰会虽被美方称为“伟大”，但在解决棘手问题上几乎没有取得实质性进展。评论认为此次会晤更像是一场“外交娱乐”，除宣布赠送大熊猫外，缺乏重大突破。",
+      "whyImportant": "该分析指出中美关系在当前阶段仍处于僵持状态，象征性意义大于实际政策成果。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "90e62ba5a7ab5b96",
+      "title": "CNN blocked from Trump’s trip as White House signals new media curb",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/transport/article/3368756/uber-shuts-down-flytaxi-second-metered-cab-platform-it-acquired-hong-kong?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T04:39:36.000Z",
-      "summary": "Online ride-hailing giant Uber will close a second Hong Kong metered taxi platform that it acquired by the end of this year, just over six months after it bought out the business. Uber said on Friday that it would fully integrate the services on FlyTaxi into its own platform by the end of the year, saying it aimed to provide “optimal” support for drivers and users. “As part of this integration, the stand-alone FlyTaxi app will [be shut down]. Our team is dedicated to guiding every rider and...",
+      "url": "https://www.scmp.com/news/us/politics/article/3368881/cnn-blocked-trumps-trip-white-house-signals-new-media-curb?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T03:26:19.000Z",
+      "summary": "The White House signalled on Friday night that CNN would be left off Air Force One for President Donald Trump’s Saturday trip, the latest media restriction from the administration in an ongoing dispute with First Amendment implications. The news organisation was replaced by Real America’s Voice News, a conservative network, for the president’s trip to Knoxville, Tennessee, according to White House guidance. Trump is scheduled to attend a college-football game between the University of Tennessee...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/transport/article/3368756/uber-shuts-down-flytaxi-second-metered-cab-platform-it-acquired-hong-kong?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T04:39:36.000Z"
+          "url": "https://www.scmp.com/news/us/politics/article/3368881/cnn-blocked-trumps-trip-white-house-signals-new-media-curb?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T03:26:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 64,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "510bb007c39accf9c7e9ff4f",
+      "isContinuation": false,
+      "titleZh": "CNN被排除在特朗普行程之外，白宫释放媒体限制新信号",
+      "summaryZh": "白宫周五晚间确认，CNN将无法随特朗普总统前往田纳西州参加橄榄球赛。保守派媒体Real America's Voice News被安排取代其位置，这是白宫针对媒体采取的最新限制行动。",
+      "whyImportant": "该决定进一步加剧了行政当局与新闻机构之间的紧张局势，引发了关于第一修正案权利的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9bd107d7d630719",
+      "title": "In a US-China world, Asean must do more than avoid choosing sides",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3368638/us-china-world-asean-must-do-more-avoid-choosing-sides?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T12:30:12.000Z",
+      "summary": "The good news is, when US President Donald Trump and Chinese President Xi Jinping met in Washington this week, neither chose confrontation. Amid the high pomp and ceremony, what China has called “constructive strategic stability” continues. Even an uneasy truce in great power relations can be useful. Both recognise the considerable incentive to prevent their economic rivalry from spiralling out of control. Even limited understandings can reduce risks in artificial intelligence (AI) and other...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3368638/us-china-world-asean-must-do-more-avoid-choosing-sides?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T12:30:12.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "专题·中国与世界"
+        "美国重点",
+        "经济",
+        "科技",
+        "专题·美国政策与全球影响"
       ],
       "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "中国"
+        "washington",
+        "美国"
       ],
-      "fingerprint": "647e9b42fc1b832be52205f6",
+      "fingerprint": "0694e0d88a0a3cf16022cd8e",
       "isContinuation": false,
-      "titleZh": "Uber关闭其在香港收购的第二个计程车平台FlyTaxi",
-      "summaryZh": "Uber宣布将于今年年底前关闭其在香港收购的计程车平台FlyTaxi，并将相关服务整合至其主平台。这是Uber在香港整合业务以优化司机和用户体验的最新举措。",
-      "whyImportant": "此举反映了网约车巨头在香港市场整合资源、精简运营模式的战略调整。",
+      "titleZh": "在美中主导的世界中，东盟必须做的不仅仅是避免选边站",
+      "summaryZh": "中美领导人华盛顿会晤避免了直接对抗，维持了某种程度的战略稳定。东盟国家应利用这种大国关系的暂时缓和，在人工智能等领域寻求更多风险管控与合作空间。",
+      "whyImportant": "文章探讨了东盟在美中博弈背景下的生存策略，强调了主动参与区域治理的重要性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "e35d09d37c1b79c0",
-      "title": "Australia news live: PM says he learned of OpenAI’s Medicare breach in New York; NSW renters to benefit from new laws",
+      "id": "c6c8cb2af6d01535",
+      "title": "Free the Strip! Melburnians fight back against outlawing of much-loved picnic spot",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-      "publishedAt": "2026-09-25T04:27:24.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast AI hack of Medicare exposes Australia’s vulnerabilities Technology experts have warned revelations an artificial intelligence agent hacked Medicare’s internal systems will not be the only dangerous breach of government data and have called for Australia to boost its protections against the growing risk. Frontier AI now has capability to expose those vulnerabilities at a rate quicker than we can keep up, quicker than we can patch them. What if it was a less benign breach? What if it was a less benign actor? Let’s face it, clearly, Services Australia’s cybersecurity is woefully inadequate. I mean the irony here is that you actually need AI to fight AI. This should hasten, if anything, our move over in the US to less finger wagging and Trump one-upmanship, and more about embracing these AI companies and bringing them here so that we can have frontier models providing sovereign capability to Australia. Because AI is going to happen. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
+      "publishedAt": "2026-09-26T00:12:42.000Z",
+      "summary": "A council ban on drinking on the median strip in Canning Street, Carlton, sparks a peaceful protest featuring punch bowls, chips and laughter Get our breaking news email, free app or daily news podcast It looked like a typical spring evening on Melbourne’s Canning Street when a few dozen picnickers gathered on the grassy median strip on Friday, with drinks in hand. People in one group who’d come with a full alfresco setting chattered as they ladled punch out of a glass bowl on a wooden table, set with a tablecloth and yellow flowers in a vase. Others sat on picnic blankets, passing around bags of chips. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-          "publishedAt": "2026-09-25T04:27:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "科技"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ab039f852cdd82bda4b67c47",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：总理称在纽约获悉OpenAI泄露医疗保险数据；新南威尔士州租房者将受益于新法律",
-      "summaryZh": "人工智能代理入侵澳大利亚医疗保险系统引发了对政府数据安全漏洞的担忧。专家警告称，现有网络安全防护不足，呼吁政府加强技术防御并拥抱前沿AI模型以提升主权能力。",
-      "whyImportant": "此事件凸显了政府关键基础设施在面对先进人工智能威胁时的脆弱性，引发了关于国家网络安全战略的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9bf28870c2fdfb0f",
-      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
-      "publishedAt": "2026-09-25T03:41:25.000Z",
-      "summary": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
-          "publishedAt": "2026-09-25T03:41:25.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "能源"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "18422c797a1ac2c252e8f21c",
-      "isContinuation": false,
-      "titleZh": "也门胡塞武装声称袭击沙特设施后，油价飙升",
-      "summaryZh": "在伊朗支持的胡塞武装声称成功袭击沙特阿美石油公司设施后，布伦特原油价格突破每桶106美元。该事件加剧了市场对中东能源供应安全的担忧。",
-      "whyImportant": "地缘政治冲突升级直接冲击全球能源市场，导致油价显著波动。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "55c6f297860111ba",
-      "title": "NSW police officer killed ‘instantly’ after car she was travelling in crashed into tree in Redfern",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/25/nsw-police-officer-killed-car-crash-redfern-sydney-ntwnfb",
-      "publishedAt": "2026-09-25T03:41:09.000Z",
-      "summary": "The marked police car was travelling with its sirens on when it hit a tree in inner-city Sydney about 1.30am on Friday Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A New South Wales police officer who was killed on duty when the car she was travelling in crashed into a tree in Sydney has been named as 20-year-old Mia Lay. NSW police said the marked police car was travelling under lights and sirens along Gibbons Street in Redfern when it crashed at about 1.30am on Friday. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/25/nsw-police-officer-killed-car-crash-redfern-sydney-ntwnfb",
-          "publishedAt": "2026-09-25T03:41:09.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
+          "publishedAt": "2026-09-26T00:12:42.000Z"
         }
       ],
       "sourceCount": 1,
@@ -461,76 +399,38 @@
         "突发",
         "国际组织"
       ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "d01fc596fa9c10f2339b096b",
+      "fingerprint": "47bdfb27192a903e2dff91d3",
       "isContinuation": false,
-      "titleZh": "新南威尔士州一名女警在悉尼雷德芬乘车撞树后“当场”身亡",
-      "summaryZh": "周五凌晨，一辆正在执行任务并开启警笛的警车在悉尼雷德芬撞上一棵树，导致20岁的女警米娅·莱不幸殉职。警方目前正在调查事故的具体情况。",
-      "whyImportant": "这起因公殉职事故引发了公众对警务人员执勤安全及相关交通规程的关注。",
+      "titleZh": "解放绿化带！墨尔本民众抗议禁止在热门野餐地点饮酒",
+      "summaryZh": "墨尔本卡尔顿区议会禁止在坎宁街的绿化带饮酒，引发了当地民众的和平抗议。抗议者们带着餐具、零食和饮料在草坪上聚会，以表达对禁令的不满。",
+      "whyImportant": "此事件反映了城市公共空间管理与市民休闲权利之间的矛盾。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ea9c062ab256e759",
-      "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
-      "publishedAt": "2026-09-25T03:35:22.000Z",
-      "summary": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
-          "publishedAt": "2026-09-25T03:35:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "915b57823ebbf38f34e74ed5",
-      "isContinuation": false,
-      "titleZh": "也门战事升级，沙特、土耳其和巴基斯坦领导人计划进行紧急会谈",
-      "summaryZh": "随着也门境内冲突加剧及胡塞武装袭击频发，沙特阿拉伯、土耳其和巴基斯坦正寻求加强国防协调。三国旨在通过紧急会谈应对地区安全挑战。",
-      "whyImportant": "地区大国加强军事合作反映了也门局势恶化对周边安全格局的深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "241f7b81bddbf36c",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "id": "8f316ab13d5ee008",
+      "title": "Pope warns against 'losing humanity' to AI machines",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T19:18:12.000Z",
-      "summary": "A man armed with a knife killed a priest and injured four other people during an attack on clergy and worshippers at a Benedictine abbey in southern Poland on Thursday, authorities ‌said. The man used a knife he took from a kitchen there to attack one woman and four men, including one priest who was in a confessional, a prosecutor said. The attack took place at a Benedictine Sisters monastery on the grounds of the abbey in Jaroslaw, local media reported. A 31-year-old Ukrainian man was arrested,...",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T15:06:41.000Z",
+      "summary": "Pope Leo on Friday warned against losing humanity in a “paradise of machines”, after church bells rang and thousands gathered to welcome him to France amid worldwide concern over the dangers of artificial intelligence. “If we are to avoid losing our humanity amid a paradise of machines invading and conditioning our daily lives, there is an urgent need for education in ethical discernment,” Leo said after President Emmanuel Macron welcomed him to the presidential palace, on the first of four days...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-24T19:18:12.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-25T15:06:41.000Z"
         },
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3368718/knifeman-kills-priest-injures-4-attack-polish-abbey?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T18:11:28.000Z"
+          "url": "https://www.scmp.com/news/world/europe/article/3368852/paris-pope-warns-against-losing-humanity-paradise-machines?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T13:14:40.000Z"
         }
       ],
       "sourceCount": 2,
@@ -540,35 +440,36 @@
       "tags": [
         "全球焦点",
         "突发",
-        "国际组织"
+        "军事与安全",
+        "科技"
       ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b0a8f1023c2ad1778bb87d08",
+      "fingerprint": "1d51666125b4518fdcfb7156",
       "isContinuation": false,
-      "titleZh": "波兰修道院发生持刀袭击事件，一名神父遇害，四人受伤",
-      "summaryZh": "一名持刀男子在波兰南部的一座本笃会修道院内发动袭击，造成一名神父死亡，另有四人受伤。目前，一名31岁的乌克兰籍嫌疑人已被警方逮捕。",
-      "whyImportant": "宗教场所发生的暴力袭击事件引发了社会对公共安全和宗教场所保护的担忧。",
+      "titleZh": "教皇警告：警惕在“机器天堂”中丧失人性",
+      "summaryZh": "教皇利奥在访问法国期间警告称，面对人工智能的快速发展，人类必须警惕在机器主导的生活中丧失人性。他强调，在机器入侵日常生活的背景下，进行伦理辨析教育已刻不容缓。",
+      "whyImportant": "教皇的言论凸显了宗教界对人工智能技术伦理风险的深切关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0937168e4e06d7ce",
-      "title": "China tested a handheld submarine detector. It tracked a subway train underground",
+      "id": "cd185f720e857112",
+      "title": "Hong Kong is fast-tracking Northern Metropolis links. Will they be ready in time?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3367965/china-tested-handheld-submarine-detector-it-tracked-subway-train-underground?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T02:00:18.000Z",
-      "summary": "Chinese researchers have showed a handheld quantum magnetometer built for hunting submarines in a striking real-world test: it tracked a subway train rumbling beneath a city street. The device, developed by Peng Xinhua and colleagues at the University of Science and Technology of China, is described in a study published on September 14 in Acta Physica Sinica. Though it is scarcely larger than a pencil and draws only 5 watts of power, it can isolate the magnetic disturbance caused by a moving...",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3368850/hong-kong-fast-tracking-northern-metropolis-links-will-they-be-ready-time?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T04:00:14.000Z",
+      "summary": "Hong Kong will fast-track key Northern Metropolis roads, bringing forward the San Tin highway section to 2034 and targeting 2033 for the Tsing Lung Bridge, but a transport expert and lawmaker have cautioned that the first arrivals could still end up stranded. Infrastructure projects could lag behind developments such as the Hung Shui Kiu University Town, they said, suggesting the government launch express bus routes and build the Central Rail Link as soon as possible to ensure connectivity. A...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3367965/china-tested-handheld-submarine-detector-it-tracked-subway-train-underground?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T02:00:18.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3368850/hong-kong-fast-tracking-northern-metropolis-links-will-they-be-ready-time?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T04:00:14.000Z"
         }
       ],
       "sourceCount": 1,
@@ -577,40 +478,174 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "专题·中国与世界"
+        "军事与安全"
       ],
-      "score": 65,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "4254ee50c735f53b746387af",
+      "score": 62,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3f64ff13188a7ab142ac4ac2",
       "isContinuation": false,
-      "titleZh": "中国测试手持式潜艇探测器：成功追踪地下地铁列车",
-      "summaryZh": "中国研究人员开发出一种手持式量子磁力计，在测试中成功追踪到城市街道下方的地铁列车。该设备体积小巧且功耗极低，展示了其在探测移动金属物体方面的潜力。",
-      "whyImportant": "这项技术的突破展示了量子传感领域在军事探测和民用监测方面的应用前景。",
+      "titleZh": "香港加速推进北部都会区交通建设，能否按时完工？",
+      "summaryZh": "香港政府正加速推进北部都会区关键道路工程，但专家和议员担忧基础设施建设可能滞后于住宅开发。他们建议尽快开通快速巴士路线并建设中央铁路，以确保区域交通连接。",
+      "whyImportant": "交通配套的滞后可能影响北部都会区作为重要发展区域的实际居住与通勤体验。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ed788b9b791ab82c",
-      "title": "Croatia clears extradition of Nord Stream blast suspect to Germany",
+      "id": "e3d81976d772f772",
+      "title": "US TV networks back at White House, as Trump praises ‘fair’ coverage of Xi visit",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3368715/croatian-court-approves-extradition-nord-stream-blast-suspect-germany?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T16:46:52.000Z",
-      "summary": "A Croatian court has approved the extradition of a Ukrainian man who is wanted in Germany in connection with the 2022 undersea explosions that damaged the Nord Stream gas pipelines, state media said on Thursday. The report from HRT Television quoted the suspect’s lawyer Ljubo Pavaskovic as saying that he will appeal the September 18 ruling. It was not immediately clear when the man could be handed over to Germany. He was arrested on a European warrant in the northern Croatian town of Pula in...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368868/us-tv-networks-back-white-house-trump-praises-fair-coverage-xi-visit?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T17:07:41.000Z",
+      "summary": "US television networks resumed coverage of President Donald Trump’s White House events on Friday, providing the first live pool access for Chinese President Xi Jinping’s visit, as a legal battle continues over restrictions on CNN, MS Now and Politico. Trump last week banned the three outlets from the White House, before a judge ordered the administration to restore their access. The White House television press pool aired video of Xi’s arrival at the White House for tea on the final day of the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3368715/croatian-court-approves-extradition-nord-stream-blast-suspect-germany?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T16:46:52.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3368868/us-tv-networks-back-white-house-trump-praises-fair-coverage-xi-visit?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T17:07:41.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 62,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "428a0cb0f7726f51c01e5b8f",
+      "isContinuation": false,
+      "titleZh": "美国电视网重返白宫，特朗普称赞对习近平访问的报道“公平”",
+      "summaryZh": "在法院裁定恢复媒体准入后，美国电视网恢复了对白宫活动的报道，并首次直播了中国国家主席习近平的访问行程。此前特朗普曾禁止部分媒体进入白宫，目前相关法律诉讼仍在进行中。",
+      "whyImportant": "此举标志着白宫与媒体之间关于新闻采访权的法律纠纷出现阶段性缓和。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7a27ba23e43afffc",
+      "title": "China and the US are racing ahead on AI. Can they manage risks together?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3368813/china-and-us-are-racing-ahead-ai-can-they-manage-risks-together?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T11:30:07.000Z",
+      "summary": "The United States and China must work together to establish safety guardrails for artificial intelligence, leading scholars and industry leaders said at a Singapore forum, warning that rapid advances in the technology demand stronger risk controls. Speaking at the FutureChina Business Forum on Friday, Jude Blanchette, managing director of consultancy Macro Advisory Partners, urged the two superpowers to find common ground despite escalating geopolitical tensions. “If ever there was a moment for...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3368813/china-and-us-are-racing-ahead-ai-can-they-manage-risks-together?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T11:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "军事与安全",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 62,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "e27f87fc622558c03921ed9e",
+      "isContinuation": false,
+      "titleZh": "中美在人工智能领域竞速，能否共同管控风险？",
+      "summaryZh": "在新加坡举行的论坛上，专家和行业领袖呼吁中美两国在人工智能领域建立安全护栏。尽管地缘政治紧张，但与会者强调，人工智能的快速发展迫切需要两国寻找共同点以加强风险控制。",
+      "whyImportant": "中美作为人工智能领域的领跑者，其合作对于全球技术安全标准的确立至关重要。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "646d7cbee05589fe",
+      "title": "时政新闻眼丨习近平抵达华盛顿 ， 高规格礼遇开启访美序幕",
+      "source": "cqnews.net",
+      "url": "https://www.cqnews.net/web/content_1553055767297081344.html",
+      "publishedAt": "2026-09-25T09:30:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "cqnews.net",
+          "url": "https://www.cqnews.net/web/content_1553055767297081344.html",
+          "publishedAt": "2026-09-25T09:30:00.000Z"
+        },
+        {
+          "source": "news.fznews.com.cn",
+          "url": "https://news.fznews.com.cn/node/23556/20260925/433rtONk4l.shtml",
+          "publishedAt": "2026-09-25T09:15:00.000Z"
+        },
+        {
+          "source": "oeeee.com",
+          "url": "https://www.oeeee.com/html/202609/25/1746669.html",
+          "publishedAt": "2026-09-25T09:15:00.000Z"
+        },
+        {
+          "source": "yangtse.com",
+          "url": "https://www.yangtse.com/news/tt/202609/t20260925_396868.html",
+          "publishedAt": "2026-09-25T08:15:00.000Z"
+        }
+      ],
+      "sourceCount": 7,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 62,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国",
+        "华盛顿"
+      ],
+      "fingerprint": "64b66f8fa30b5c02a7601727",
+      "isContinuation": false,
+      "titleZh": "时政新闻眼丨习近平抵达华盛顿，高规格礼遇开启访美序幕",
+      "summaryZh": "中国国家主席习近平已抵达华盛顿，开启对美国的访问行程。此次访问受到美方高规格礼遇，备受国际社会关注。",
+      "whyImportant": "此次访问是中美关系中的重要外交事件，对双边关系走向具有深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e70516b03e13ec6d",
+      "title": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+      "publishedAt": "2026-09-25T15:43:59.000Z",
+      "summary": "Iran’s seven-day timetable would restart nuclear talks, but will the US be willing to deliver on terms that include reining in Israel in Lebanon? Iran’s seven-day timetable to reopen the strait of Hormuz and start talks on its nuclear programme has been pitched as a deal that could rapidly extricate Donald Trump from a political crisis but requires the US president to make difficult concessions. In the five days left before the proposed reopening of the strait, which is expected to relieve pressure on global energy markets, Trump would need to lift Iranian asset freezes, permit Iran to export its oil and, probably most difficult of all, order Benjamin Netanyahu to end Israel’s attacks on Hezbollah in Lebanon, thus achieving the “ceasefire on all fronts”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+          "publishedAt": "2026-09-25T15:43:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -620,37 +655,36 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全",
-        "能源",
-        "国际组织"
+        "金融",
+        "能源"
       ],
-      "score": 65,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 61,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "852a193f1a27e4737e7dceb2",
+      "fingerprint": "9b4b21bc488f2550bb0c48c8",
       "isContinuation": false,
-      "titleZh": "克罗地亚批准将“北溪”管道爆炸案嫌疑人引渡至德国",
-      "summaryZh": "克罗地亚法院批准将一名涉嫌参与2022年北溪天然气管道爆炸案的乌克兰男子引渡至德国。该嫌疑人的律师表示将对裁决提出上诉。",
-      "whyImportant": "此举标志着针对北溪管道破坏事件的国际司法调查取得重要进展。",
+      "titleZh": "伊朗抛出重开霍尔木兹海峡协议，特朗普面临艰难抉择",
+      "summaryZh": "伊朗提出在七天内重启核谈判并重开霍尔木兹海峡，但要求美国解除资产冻结并促使以色列在黎巴嫩停火。这对特朗普而言是缓解能源市场压力和政治危机的机会，但也需要做出重大让步。",
+      "whyImportant": "该协议若达成，将对中东局势及美国中期选举前的能源价格产生重大影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "583443d77fd2290a",
-      "title": "Uber shuts down FlyTaxi, second metered cab platform it acquired in Hong Kong",
+      "id": "4ae725069f8b29fe",
+      "title": "Offshore wind farm could create radar blind spots and ‘ghost’ targets, Chinese study warns",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/transport/article/3368756/uber-shuts-down-flytaxi-second-metered-cab-platform-it-acquired-hong-kong?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T04:39:36.000Z",
-      "summary": "Online ride-hailing giant Uber will close a second Hong Kong metered taxi platform that it acquired by the end of this year, just over six months after it bought out the business. Uber said on Friday that it would fully integrate the services on FlyTaxi into its own platform by the end of the year, saying it aimed to provide “optimal” support for drivers and users. “As part of this integration, the stand-alone FlyTaxi app will [be shut down]. Our team is dedicated to guiding every rider and...",
+      "url": "https://www.scmp.com/news/china/science/article/3368851/offshore-wind-farm-could-create-radar-blind-spots-and-ghost-targets-chinese-study-warns?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T02:00:18.000Z",
+      "summary": "Offshore wind farms can reduce the coverage of shore-based radar systems and create areas where targets become harder to detect, according to a new study. The researchers found that at a range of 5km (3 miles), effective radar coverage fell by 6.9 per cent while blind spots increased by 14.9 per cent. The research, published online last month in the peer-reviewed Chinese journal Radio Engineering, was conducted by Professor Liu Zunnian and his team from Qingdao Technological University and the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/transport/article/3368756/uber-shuts-down-flytaxi-second-metered-cab-platform-it-acquired-hong-kong?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T04:39:36.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3368851/offshore-wind-farm-could-create-radar-blind-spots-and-ghost-targets-chinese-study-warns?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T02:00:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -659,77 +693,35 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "专题·中国与世界"
+        "军事与安全"
       ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "647e9b42fc1b832be52205f6",
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7ee188031e5308476030c66e",
       "isContinuation": false,
-      "titleZh": "Uber关闭其在香港收购的第二个计程车平台FlyTaxi",
-      "summaryZh": "Uber宣布将于今年年底前关闭其在香港收购的计程车平台FlyTaxi，并将相关服务整合至其主平台。这是Uber在香港整合业务以优化司机和用户体验的最新举措。",
-      "whyImportant": "此举反映了网约车巨头在香港市场整合资源、精简运营模式的战略调整。",
+      "titleZh": "中国研究警告：海上风电场可能产生雷达盲区和“幽灵”目标",
+      "summaryZh": "一项由青岛理工大学团队进行的研究指出，海上风电场会削弱岸基雷达系统的覆盖范围，并增加探测难度。研究发现，在5公里范围内，雷达有效覆盖率下降了6.9%，盲区增加了14.9%。",
+      "whyImportant": "该研究揭示了可再生能源设施建设对海上航行安全和雷达监测带来的潜在技术挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cfc9929a78912294",
-      "title": "China seal touches hearts for swimming 200km back to island after missing humans",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3368734/china-seal-touches-hearts-swimming-200km-back-island-after-missing-humans?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T02:08:45.000Z",
-      "summary": "A young seal gained widespread attention on social media in China after swimming 200km to return to an island where it had lived for months following its release into the wild. This two-year-old seal marks its second return to a human-inhabited area after being freed into open seas. Internet users were touched by videos showcasing the seal, affectionately named Nana, as it returned to the shores of Dachangshan Island in northeastern China’s Liaoning province. Nana was released into the ocean on...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3368734/china-seal-touches-hearts-swimming-200km-back-island-after-missing-humans?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T02:08:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "专题·中国与世界"
-      ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "fa57ee460cf08755ff572ac3",
-      "isContinuation": false,
-      "titleZh": "中国海豹游回200公里外的人类居住岛屿，引发网友关注",
-      "summaryZh": "一只被放归野外的两岁海豹在离开数月后，独自游回了辽宁大长山岛。这是它第二次在被放归大海后回到人类居住区，其行为在社交媒体上引发了广泛关注。",
-      "whyImportant": "该事件引发了公众对于野生动物放归自然后适应性及人与动物情感联系的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "41850e6e31451599",
-      "title": "Iran war live: Saudi, Turkish and Pakistani army chiefs plan urgent meeting",
+      "id": "a0ed6ca48384e9be",
+      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "Saudi, Turkish, Pakistani army chiefs invoke Mecca pact for urgent talks over Houthi attacks.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+      "publishedAt": "2026-09-25T20:59:43.000Z",
+      "summary": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-          "publishedAt": "2026-09-25T00:00:00.000Z"
+          "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+          "publishedAt": "2026-09-25T20:59:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -741,35 +733,76 @@
         "突发",
         "军事与安全"
       ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "99e5b093634fd95a392d8aa2",
+      "fingerprint": "90eff0b248a2a94639ef59f8",
       "isContinuation": false,
-      "titleZh": "伊朗战争直播：沙特、土耳其和巴基斯坦军队首长计划举行紧急会议",
-      "summaryZh": "沙特、土耳其和巴基斯坦的军队首长援引《麦加公约》，计划就胡塞武装的袭击事件进行紧急磋商。此次会议旨在应对地区安全局势的升级。",
-      "whyImportant": "多国军事高层的紧急会晤显示了地区安全局势的紧张程度及其对周边国家的潜在影响。",
+      "titleZh": "巴基斯坦总理告诉联合国：胡塞武装袭击麦加和麦地那将触及“红线”",
+      "summaryZh": "巴基斯坦总理夏巴兹·谢里夫在伊斯兰堡、利雅得和安卡拉的军队首脑讨论麦加协议及加强军事联系之际发表了上述言论。他强调任何针对圣城的袭击都将是不可逾越的底线。",
+      "whyImportant": "此表态凸显了伊斯兰国家对保护圣地安全的共同立场，并可能影响地区军事协作的走向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "aeb3b7ee287d78f9",
+      "title": "Protests erupt as Netanyahu gives inflammatory UN speech - The Latest",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
+      "publishedAt": "2026-09-25T18:22:27.000Z",
+      "summary": "More than 100 people were arrested at large protests against the Israeli prime minister Benjamin Netanyahu’s address to the UN general assembly. Susan Sarandon, Chelsea Manning and Caleb Hearon were among the famous faces arrested. Inside the assembly hall, Netanyahu faced a mass walkout as he took to the stage. Then, in an inflammatory address, he claimed Israel’s war in Gaza was the ‘opposite of a genocide’ and labelled the New York mayor, Zohran Mamdani, antisemitic. Lucy Hough speaks to UK global editor Devika Bhat – watch on YouTube – Listen to Thursday’s episode of Stateside with Kai and Carter on whether Netanyahu has lost America here Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
+          "publishedAt": "2026-09-25T18:22:27.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "312d2c00271361089890444b",
+      "isContinuation": false,
+      "titleZh": "内塔尼亚胡发表煽动性联合国演讲，引发大规模抗议",
+      "summaryZh": "以色列总理内塔尼亚胡在联合国大会演讲时遭遇大规模抗议和离场抵制，超过百人被捕。他在演讲中否认加沙战争构成种族灭绝，并指责纽约市长反犹太主义。",
+      "whyImportant": "此次事件反映了国际社会对以色列加沙政策的严重分歧，以及内塔尼亚胡在外交场合面临的巨大舆论压力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "19992194eeb97ef2",
-      "title": "Pitch perfect cultural diplomacy wins heart of China’s first lady Peng Liyuan",
+      "id": "807138d459f3440d",
+      "title": "Xi-Trump summit: China and US to open ‘super intelligence’ communications channel",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368757/pitch-perfect-cultural-diplomacy-wins-heart-chinas-first-lady-peng-liyuan?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T04:43:09.000Z",
-      "summary": "While their husbands held talks at the White House, Melania Trump hosted Peng Liyuan at the Smithsonian National Museum of Asian Art on Thursday, where the famed Chinese soprano softly hummed along to a youth choir’s performance of a familiar classic. Footage shows the Hope Chinese School youth choir waving Chinese and American national flags during their rendition of the song “Jasmine Flower”, while Peng watches with a smile, her lips moving along to the lyrics. As the performance ends, she...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T04:49:50.000Z",
+      "summary": "China and the United States have agreed to establish a bilateral communication channel for “super intelligence” incidents, according to the White House. In a statement about the deliverables of Chinese President Xi Jinping’s visit to Washington, the US said the next meeting of the newly formed US-China Super Intelligence (SI) Dialogue would take place by November. China’s Ministry of Commerce confirmed on Thursday that its senior trade negotiators had held their first talks with the US on...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368757/pitch-perfect-cultural-diplomacy-wins-heart-chinas-first-lady-peng-liyuan?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T04:43:09.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T04:49:50.000Z"
         }
       ],
       "sourceCount": 1,
@@ -780,39 +813,41 @@
         "中国重点",
         "美国重点",
         "外交",
-        "专题·中国与世界"
+        "经济",
+        "专题·美国政策与全球影响"
       ],
-      "score": 78,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 83,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
+        "united states",
+        "washington",
+        "white house",
+        "美国"
       ],
-      "fingerprint": "a90c3a3b39e8a005e85a80c8",
+      "fingerprint": "100bb60b8338a1a77d4c7f88",
       "isContinuation": false,
-      "titleZh": "文化外交赢得人心：中国第一夫人彭丽媛被合唱表演打动",
-      "summaryZh": "在华盛顿史密森尼国家亚洲艺术博物馆，梅拉尼娅·特朗普接待了彭丽媛。当青年合唱团演唱《茉莉花》时，彭丽媛随旋律轻声哼唱，展现了文化交流的温情时刻。",
-      "whyImportant": "此类文化交流活动有助于在高级别政治会晤期间营造积极的氛围。",
+      "titleZh": "习特会：中美将开启“超级智能”沟通渠道",
+      "summaryZh": "白宫表示，中美两国已同意建立针对“超级智能”事件的双边沟通渠道。双方计划在11月前举行首次中美超级智能对话，以应对相关技术风险。",
+      "whyImportant": "该机制的建立标志着中美在人工智能等前沿技术治理领域开始寻求风险管控与合作。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9d9b7a54ab2bac6a",
-      "title": "Trump autopen joke at Biden’s expense draws rare laugh from China’s Xi",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368744/chinas-xi-shares-rare-laugh-white-house-tour-trumps-biden-autopen-joke?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T03:13:32.000Z",
-      "summary": "Chinese President Xi Jinping broke into rare laughter as his US counterpart Donald Trump showed him a framed “autopen” displayed in place of the former American leader Joe Biden’s portrait during a White House tour. The viral moment stood out against the Chinese leader’s otherwise restrained demeanour during his first state visit to the United States in more than a decade. A video released by the White House on social media showed Trump taking Xi along the White House colonnade on Thursday...",
+      "id": "2fbedf30d8000404",
+      "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+      "publishedAt": "2026-09-26T03:29:32.000Z",
+      "summary": "DELIVERING FOR AMERICANS: This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame Peng Liyuan of the People’s Republic of China for a reciprocal State Visit. During the visit, President Trump advanced the U.S.-China relationship and put the American people first. OPERATIONALIZING THE BOARDS OF TRADE AND INVESTMENT: This week, […] The post Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit appeared first on The White House.",
       "language": "",
-      "region": "china",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368744/chinas-xi-shares-rare-laugh-white-house-tour-trumps-biden-autopen-joke?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T03:13:32.000Z"
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+          "publishedAt": "2026-09-26T03:29:32.000Z"
         }
       ],
       "sourceCount": 1,
@@ -822,430 +857,472 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "专题·中国与世界"
+        "经济",
+        "专题·美国政策与全球影响"
       ],
-      "score": 72,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 78,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
+        "u.s.",
+        "american",
+        "white house",
+        "美国"
       ],
-      "fingerprint": "f7500615a1924eb91cc03574",
+      "fingerprint": "579f969e77a6e60f594692a9",
       "isContinuation": false,
-      "titleZh": "特朗普拿“自动签名机”开玩笑，引中国国家主席习近平罕见大笑",
-      "summaryZh": "在白宫参观期间，特朗普向习近平展示了一台取代拜登肖像的“自动签名机”，这一幽默举动令习近平罕见地开怀大笑。该视频片段在社交媒体上迅速传播。",
-      "whyImportant": "领导人之间轻松的互动被视为缓解外交紧张关系、建立个人沟通渠道的积极信号。",
+      "titleZh": "情况说明书：唐纳德·J·特朗普总统在主持历史性国事访问期间推动与中国的公平互惠关系",
+      "summaryZh": "特朗普总统与第一夫人梅拉尼娅接待了中国国家主席习近平及夫人彭丽媛的国事访问。白宫强调此次访问旨在推动美中关系并优先考虑美国人民利益，同时推进了贸易与投资委员会的运作。",
+      "whyImportant": "此文件体现了美方对此次国事访问的官方定调，强调在双边关系中追求互惠与美国优先的政策导向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3c02b4c764c9d8c8",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T03:57:09.000Z",
-      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "id": "8cc552b185a2a4d1",
+      "title": "China’s first lady Peng Liyuan shines during Xi-Trump summit: everything you missed",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368880/chinas-first-lady-peng-liyuan-shines-during-xi-trump-summit-everything-you-missed?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T04:30:07.000Z",
+      "summary": "We have put together stories from our coverage of Peng Liyuan during the Xi-Trump summit. If you would like to see more of our reporting, please consider subscribing. 1. China’s first lady Peng Liyuan projects glamour and soft power on world stage China’s first lady Peng Liyuan is again stepping into the international limelight as she travels to Washington with President Xi Jinping this week. 2. Peng Liyuan and Melania Trump renew acquaintance as Xi arrives in US Chinese first lady Peng Liyuan...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368880/chinas-first-lady-peng-liyuan-shines-during-xi-trump-summit-everything-you-missed?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T04:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 76,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "2b3f4ed74dbbf80d3c4c3f25",
+      "isContinuation": false,
+      "titleZh": "中国第一夫人彭丽媛在习特会期间大放异彩：你错过的所有细节",
+      "summaryZh": "中国第一夫人彭丽媛随同习近平主席访问华盛顿，在国际舞台上展现了魅力与软实力。她与梅拉尼娅·特朗普的互动成为此次峰会期间备受关注的焦点。",
+      "whyImportant": "第一夫人的外交活动在峰会期间发挥了重要的公共外交作用，有助于提升国家形象。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2818715cdec4efe2",
+      "title": "Pomp over progress in Xi’s US summit with Trump is a win for China",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "publishedAt": "2026-09-25T12:41:14.000Z",
+      "summary": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues Key takeaways from the Trump-Xi summit in Washington If the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs. Instead, it was described as a celebration of “diplotainment” rather than diplomacy, where pomp prevailed over progress and where one of the main outcomes was the news that two giant pandas would soon be sent from China to Atlanta zoo. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-25T03:57:09.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+          "publishedAt": "2026-09-25T12:41:14.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
+        "美国重点",
+        "外交",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 64,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "872a865129df34dd7a4005cc",
+      "isContinuation": false,
+      "titleZh": "习特会重排场轻进展，被视为中国的胜利",
+      "summaryZh": "此次中美峰会虽被美方称为“伟大”，但在解决棘手问题上几乎没有取得实质性进展。评论认为此次会晤更像是一场“外交娱乐”，除宣布赠送大熊猫外，缺乏重大突破。",
+      "whyImportant": "该分析指出中美关系在当前阶段仍处于僵持状态，象征性意义大于实际政策成果。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9bd107d7d630719",
+      "title": "In a US-China world, Asean must do more than avoid choosing sides",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3368638/us-china-world-asean-must-do-more-avoid-choosing-sides?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T12:30:12.000Z",
+      "summary": "The good news is, when US President Donald Trump and Chinese President Xi Jinping met in Washington this week, neither chose confrontation. Amid the high pomp and ceremony, what China has called “constructive strategic stability” continues. Even an uneasy truce in great power relations can be useful. Both recognise the considerable incentive to prevent their economic rivalry from spiralling out of control. Even limited understandings can reduce risks in artificial intelligence (AI) and other...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3368638/us-china-world-asean-must-do-more-avoid-choosing-sides?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T12:30:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
         "经济",
         "科技",
-        "专题·中国与世界"
+        "专题·美国政策与全球影响"
       ],
-      "score": 71,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "中国"
+        "washington",
+        "美国"
       ],
-      "fingerprint": "f9522585802026af9406744e",
+      "fingerprint": "0694e0d88a0a3cf16022cd8e",
       "isContinuation": false,
-      "titleZh": "习近平获得特朗普的红毯礼遇，但并未实现所有预期目标",
-      "summaryZh": "尽管习近平受到了高规格接待，但中国在贸易、技术和台湾问题上并未取得预期的实质性进展。双方在核心议题上的分歧依然存在。",
-      "whyImportant": "这反映出尽管外交礼仪隆重，但中美两国在关键战略利益上的博弈依然复杂且充满挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e7ca933d41a8f162",
-      "title": "Beyond the Rose Garden and the military review, Trump and Xi get down to business",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T14:32:56.000Z",
-      "summary": "After weeks of frustration, delays and posturing, Chinese President Xi Jinping and US President Donald Trump met on Thursday, holding talks on several bilateral irritants and announcing an ill-defined “new joint arrangement” as they kicked off the most consequential day of their high-stakes summit. The arrangement was “good news for businesses, ordinary people and the global economy”, Xi said, according to state news agency Xinhua, without elaborating. “We must turn this vision into action,” he...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T14:32:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "经济",
-        "军事与安全",
-        "专题·中国与世界"
-      ],
-      "score": 67,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "85d4e125e8e64d13a7aec887",
-      "isContinuation": false,
-      "titleZh": "超越玫瑰园与阅兵仪式，特朗普与习近平进入实质性会谈",
-      "summaryZh": "经过长时间的筹备与博弈，习近平与特朗普举行了会谈，并宣布了一项旨在促进商业与全球经济的“新联合安排”。双方均强调需将愿景转化为具体行动。",
-      "whyImportant": "此次会谈标志着中美关系在经历一段时期的僵局后，试图通过务实合作来稳定双边关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3cfcd8291bbd0525",
-      "title": "China’s industrial strengths must also benefit its trading partners",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T21:30:12.000Z",
-      "summary": "The European Commission is pressing China for progress by next month to address the widening EU-China trade imbalance, and raising the possibility of new protectionist trade policy. The deadline raises a question: how should China and its trading partners address perceived economic imbalances while sharing the benefits of Chinese industrial competitiveness? China’s merchandise trade surplus approached US$1.2 trillion last year even as other exporting economies press for controls. “Overcapacity”...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T21:30:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "专题·中国与世界"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "e0626c330689ac33aa905ffb",
-      "isContinuation": false,
-      "titleZh": "中国的工业优势必须惠及贸易伙伴",
-      "summaryZh": "欧盟委员会正向中国施压，要求解决日益扩大的贸易失衡问题，并暗示可能采取新的保护主义政策。如何在保持工业竞争力的同时平衡贸易伙伴的利益，成为中国面临的挑战。",
-      "whyImportant": "贸易失衡问题已成为影响中国与欧洲及其他贸易伙伴关系的关键经济摩擦点。",
+      "titleZh": "在美中主导的世界中，东盟必须做的不仅仅是避免选边站",
+      "summaryZh": "中美领导人华盛顿会晤避免了直接对抗，维持了某种程度的战略稳定。东盟国家应利用这种大国关系的暂时缓和，在人工智能等领域寻求更多风险管控与合作空间。",
+      "whyImportant": "文章探讨了东盟在美中博弈背景下的生存策略，强调了主动参与区域治理的重要性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "7f373a87f0abb732",
-      "title": "Xi, Trump praise past friendship, downplay current rivalry at dinner – as it happened",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T13:53:20.000Z",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account. Xi’s US summit: Access real-time updates, geopolitical risk analysis, and exclusive reporting from an Asian perspective. Subscribe now with our limited-time offer to stay ahead. President Xi Jinping and China’s first lady Peng Liyuan arrived at the White House on Thursday, on Xi’s first trip to the US in nearly a decade, following US President Donald Trump’s trip to Beijing in May. Trump greeted Xi...",
+      "id": "3808196cf27c416a",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T04:14:30.000Z",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi said on Friday that Tehran had offered Washington a plan that would see the Strait of Hormuz reopened to maritime navigation within seven days once agreed. Araghchi met with US President Donald Trump’s envoy Steve Witkoff for talks on Tuesday, and previously set out conditions for ending the war and reopening the vital energy shipping channel. “Iran has conveyed to the United States, through Qatar, a concrete seven-day plan. If the necessary conditions are...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-26T04:14:30.000Z"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+          "publishedAt": "2026-09-26T00:00:00.000Z"
+        },
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T13:53:20.000Z"
+          "url": "https://www.scmp.com/news/world/middle-east/article/3368872/iran-offers-us-plan-reopen-hormuz-within-7-days?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T21:03:29.000Z"
         }
       ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "外交",
-        "专题·中国与世界"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "beijing",
-        "中国"
-      ],
-      "fingerprint": "d12bf7820db8676c47bdedc3",
-      "isContinuation": false,
-      "titleZh": "习近平与特朗普在晚宴上称赞过往友谊，淡化当前竞争",
-      "summaryZh": "习近平与夫人彭丽媛抵达白宫，这是习近平近十年来首次访美。在晚宴中，双方回顾了过往的友谊，并试图在公开场合淡化当前的竞争态势。",
-      "whyImportant": "通过强调个人友谊来缓和地缘政治竞争，是双方在峰会期间采取的一种外交策略。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d2fb0c4954899c9c",
-      "title": "Trump - Xi , vertice alla Casa Bianca : Coesistenza pacifica e cooperazione tra united states e Cina",
-      "source": "ossolanews.it",
-      "url": "https://www.ossolanews.it/2026/09/24/leggi-notizia/argomenti/ultimora/articolo/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina.html",
-      "publishedAt": "2026-09-24T20:30:00.000Z",
-      "summary": "",
-      "language": "Italian",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "ossolanews.it",
-          "url": "https://www.ossolanews.it/2026/09/24/leggi-notizia/argomenti/ultimora/articolo/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina.html",
-          "publishedAt": "2026-09-24T20:30:00.000Z"
-        },
-        {
-          "source": "savonanews.it",
-          "url": "https://www.savonanews.it/2026/09/24/leggi-notizia/argomenti/ultimora/articolo/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina.html",
-          "publishedAt": "2026-09-24T19:30:00.000Z"
-        },
-        {
-          "source": "ilfattonisseno.it",
-          "url": "https://www.ilfattonisseno.it/2026/09/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina/",
-          "publishedAt": "2026-09-24T19:30:00.000Z"
-        },
-        {
-          "source": "spotandweb.it",
-          "url": "https://www.spotandweb.it/news/922333/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina.html",
-          "publishedAt": "2026-09-24T19:00:00.000Z"
-        }
-      ],
-      "sourceCount": 4,
+      "sourceCount": 3,
       "isChina": false,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "外交",
+        "军事与安全",
+        "能源",
+        "专题·美国政策与全球影响"
       ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6139c2826fb720e68ecf3f0c",
+      "score": 93,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "be02686137f37371fbc6a010",
       "isContinuation": false,
-      "titleZh": "特朗普与习近平白宫会晤：美中寻求和平共处与合作",
-      "summaryZh": "特朗普与习近平在白宫举行会晤。双方讨论了美中两国之间的和平共处与合作事宜。",
-      "whyImportant": "此次会晤标志着美中两国在外交层面寻求稳定双边关系的重要尝试。",
+      "titleZh": "伊朗向美国提出七天内重开霍尔木兹海峡的协议",
+      "summaryZh": "伊朗外长阿巴斯·阿拉格希表示，伊朗已通过卡塔尔向美国提交了一份七天内重开霍尔木兹海峡的方案。该方案的前提是满足伊朗此前设定的结束战争等相关条件。",
+      "whyImportant": "若该提议获得进展，将对全球能源供应安全产生重大积极影响，并可能缓解波斯湾地区的紧张局势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "809d8c086e27c106",
-      "title": "Red carpet vs empty tarmac: Xi’s US welcome fuels debate over Takaichi’s no-show reception",
+      "id": "730bff480e7a228c",
+      "title": "White House bars CNN from Air Force One for Trump’s upcoming trip",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+      "publishedAt": "2026-09-26T04:27:07.000Z",
+      "summary": "Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+          "publishedAt": "2026-09-26T04:27:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "67379973929f0e6ba48c44a4",
+      "isContinuation": false,
+      "titleZh": "白宫禁止CNN随特朗普总统出行空军一号",
+      "summaryZh": "在特朗普总统与美国媒体关系日益紧张之际，Real America's Voice News取代了CNN在空军一号上的随行位置。此举反映了白宫对特定媒体机构的限制措施。",
+      "whyImportant": "此事件凸显了白宫与主流媒体之间持续的对抗关系及其对新闻自由的影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "90e62ba5a7ab5b96",
+      "title": "CNN blocked from Trump’s trip as White House signals new media curb",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368696/red-carpet-vs-empty-tarmac-xis-us-welcome-fuels-debate-over-takaichis-no-show-reception?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T12:20:23.000Z",
-      "summary": "Starkly contrasting receptions for the Japanese leader and the Chinese president in the United States have sparked debate over Washington’s treatment of Tokyo as an ally. Sanae Takaichi arrived in New York at the start of the working week, beginning a trip where she addressed the United Nations General Assembly for the first time as the country’s prime minister. A photo taken on her arrival shows her waving across a relatively empty tarmac at John F. Kennedy International Airport. Footage...",
+      "url": "https://www.scmp.com/news/us/politics/article/3368881/cnn-blocked-trumps-trip-white-house-signals-new-media-curb?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T03:26:19.000Z",
+      "summary": "The White House signalled on Friday night that CNN would be left off Air Force One for President Donald Trump’s Saturday trip, the latest media restriction from the administration in an ongoing dispute with First Amendment implications. The news organisation was replaced by Real America’s Voice News, a conservative network, for the president’s trip to Knoxville, Tennessee, according to White House guidance. Trump is scheduled to attend a college-football game between the University of Tennessee...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368696/red-carpet-vs-empty-tarmac-xis-us-welcome-fuels-debate-over-takaichis-no-show-reception?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T12:20:23.000Z"
+          "url": "https://www.scmp.com/news/us/politics/article/3368881/cnn-blocked-trumps-trip-white-house-signals-new-media-curb?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T03:26:19.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
         "美国重点",
-        "国际组织",
-        "专题·中国与世界"
+        "专题·美国政策与全球影响"
+      ],
+      "score": 64,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "510bb007c39accf9c7e9ff4f",
+      "isContinuation": false,
+      "titleZh": "CNN被排除在特朗普行程之外，白宫释放媒体限制新信号",
+      "summaryZh": "白宫周五晚间确认，CNN将无法随特朗普总统前往田纳西州参加橄榄球赛。保守派媒体Real America's Voice News被安排取代其位置，这是白宫针对媒体采取的最新限制行动。",
+      "whyImportant": "该决定进一步加剧了行政当局与新闻机构之间的紧张局势，引发了关于第一修正案权利的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a1cf8c32963b7ee1",
+      "title": "White House blocks CNN from Air Force One in latest escalation with news media",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+      "publishedAt": "2026-09-26T01:31:05.000Z",
+      "summary": "Outlet had been scheduled to fly with Donald Trump to Tennessee for a college football game, network said Friday The White House has blocked CNN from traveling aboard Air Force One on Saturday, impeding its TV press pool duties in the latest escalation of the administration’s battle with the news media. CNN had been scheduled to fly with Donald Trump to Tennessee for a college football game, the network said on Friday. The White House confirmed CNN’s exclusion when it did not list the network on guidance sent to the press corps regarding Trump’s schedule for Saturday. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+          "publishedAt": "2026-09-26T01:31:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
       ],
       "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "chinese",
-        "中国"
+        "white house",
+        "美国"
       ],
-      "fingerprint": "b9b7410d26519cd18188562e",
+      "fingerprint": "e7a5ceca19e5b13125f63320",
       "isContinuation": false,
-      "titleZh": "红毯与空停机坪的对比：习近平受访美待遇引发对日本首相高市早苗受冷落的讨论",
-      "summaryZh": "日本首相高市早苗抵达纽约出席联合国大会时，其受到的接待规格与中国国家主席习近平访美时形成鲜明对比。这一差异引发了关于华盛顿如何对待日本这一盟友的舆论讨论。",
-      "whyImportant": "外交接待规格的差异引发了外界对美国外交优先事项及盟友关系处理方式的关注。",
+      "titleZh": "白宫禁止CNN随行空军一号，媒体关系进一步恶化",
+      "summaryZh": "白宫在周五发布的行程指南中排除了CNN，阻止其随特朗普总统前往田纳西州进行报道。此举阻碍了该媒体履行随行记者团的职责，标志着双方冲突的升级。",
+      "whyImportant": "此举被视为白宫对新闻媒体施加压力和限制报道权限的又一例证。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b3da6b7b54bdd137",
-      "title": "Donald Trump hails great friendship with Xi Jinping as Chinese leader visits White House for first time in a decade - 25 - Sep - 2026",
-      "source": "home.nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=454698&fm=psp,tsf",
-      "publishedAt": "2026-09-24T19:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "home.nzcity.co.nz",
-          "url": "https://home.nzcity.co.nz/news/article.aspx?id=454698&fm=psp,tsf",
-          "publishedAt": "2026-09-24T19:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·中国与世界"
-      ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "0028c4241a2098e9e2876713",
-      "isContinuation": false,
-      "titleZh": "唐纳德·特朗普称赞与习近平的伟大友谊，中国领导人十年来首次访问白宫",
-      "summaryZh": "中国国家主席习近平对白宫进行了十年来首次访问。特朗普总统在会晤中强调了双方之间良好的友谊。",
-      "whyImportant": "此次访问是美中高层外交互动的重要里程碑，旨在改善两国间的政治氛围。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9dcdc3e9be60045f",
-      "title": "First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
-      "publishedAt": "2026-09-24T12:21:19.000Z",
-      "summary": "President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan for a State Dinner in the East Room of the White House this evening. The First Lady led the preparations for the dinner, which will be attended by the […] The post First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan appeared first on The White House.",
+      "id": "ed42b39c553894b8",
+      "title": "Trump cancels nearly $1bn in funding approved by Congress",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+      "publishedAt": "2026-09-26T01:00:34.000Z",
+      "summary": "President using rare power to revoke expenditure with bipartisan approval to aid immigrant services Donald Trump is canceling nearly $1bn in spending approved by Congress, the White House announced on Friday, using a rare and contested power to axe funding for immigrant services and diversity-focused initiatives. Trump’s office of management and budget described the funding cut as focused on “the most harmful government spending”. Continue reading...",
       "language": "",
-      "region": "usa",
+      "region": "international",
       "crossSources": [
         {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
-          "publishedAt": "2026-09-24T12:21:19.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+          "publishedAt": "2026-09-26T01:00:34.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
         "美国重点",
-        "专题·中国与世界"
+        "专题·美国政策与全球影响"
       ],
-      "score": 59,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "中国"
+        "white house",
+        "美国"
       ],
-      "fingerprint": "2b2fad80f2d0c5ff55f91faa",
+      "fingerprint": "0d9aa10bd554c4d05fd56c37",
       "isContinuation": false,
-      "titleZh": "第一夫人梅拉尼娅·特朗普发布中国国家主席习近平及夫人彭丽媛国宴细节",
-      "summaryZh": "特朗普总统与第一夫人梅拉尼娅将在白宫东厅为中国国家主席习近平及夫人彭丽媛举行国宴。第一夫人亲自负责了此次国宴的筹备工作。",
-      "whyImportant": "国宴作为高规格外交礼仪，体现了美方对此次中美元首会晤的重视程度。",
+      "titleZh": "特朗普取消近10亿美元国会批准的资金",
+      "summaryZh": "白宫周五宣布，特朗普总统将动用罕见的行政权力，取消近10亿美元已获国会批准的支出。这些资金原定用于移民服务及多元化相关项目，被白宫列为“有害的政府支出”。",
+      "whyImportant": "此举展示了总统在财政支出决策上对国会权威的挑战，引发了关于行政权力的争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "49ef9cbbbd913e49",
-      "title": "Trump - Xi summit live : US , China should keep AI under human control , Xi says",
-      "source": "asia.nikkei.com",
-      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-china-should-keep-ai-under-human-control-xi-says",
-      "publishedAt": "2026-09-24T22:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "asia.nikkei.com",
-          "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-china-should-keep-ai-under-human-control-xi-says",
-          "publishedAt": "2026-09-24T22:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "55fee4a4af0e006a29d37ad6",
-      "isContinuation": false,
-      "titleZh": "特朗普与习近平峰会直播：习近平表示美中应将人工智能置于人类控制之下",
-      "summaryZh": "在美中峰会期间，习近平主席提出美中两国应共同确保人工智能处于人类的有效控制之下。这一表态强调了双方在科技治理领域的潜在合作空间。",
-      "whyImportant": "美中两国在人工智能监管方面的共识对全球科技安全与治理具有深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f1dec41f2f0b8a53",
-      "title": "Legislation among options to regulate minors’ social media use: justice minister",
+      "id": "a6c0a34e5bd2d1eb",
+      "title": "Xi-Trump banquet: from flasks to US tech titans in attendance, here’s everything you missed",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368710/legislation-among-options-regulate-minors-social-media-use-justice-minister?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T00:30:12.000Z",
-      "summary": "Introducing legislation to protect minors by regulating social media use is among the options on the table, Hong Kong’s justice minister has said, after the latest policy address unveiled plans to create a task force to review the situation. Speaking to the South China Morning Post and other media outlets on Wednesday, Secretary for Justice Paul Lam Ting-kwok dismissed concerns that such measures could infringe on individual rights and freedoms, emphasising that the goal was to protect children...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368845/xi-trump-banquet-flasks-us-tech-titans-attendance-heres-everything-you-missed?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T12:09:32.000Z",
+      "summary": "We have put together stories from our coverage of the White House state dinner. If you would like to see more of our reporting, please consider subscribing. 1. Xi-Trump dinner puts US tech titans in spotlight – what does it mean for ties? If the American guests seated at the head table with President Xi Jinping and US President Donald Trump at Thursday’s White House state dinner were any indication, Washington now views its relationship with Beijing largely through the prism of technology. 2....",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368710/legislation-among-options-regulate-minors-social-media-use-justice-minister?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T00:30:12.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368845/xi-trump-banquet-flasks-us-tech-titans-attendance-heres-everything-you-missed?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T12:09:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "washington",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "40837369af5f8c3bb0303e63",
+      "isContinuation": false,
+      "titleZh": "习特国宴：从酒瓶到美国科技巨头出席，回顾不容错过的细节",
+      "summaryZh": "在周四的白宫国宴上，美国科技界领袖受邀出席，显示出华盛顿目前主要通过技术视角审视美中关系。此次宴会不仅是外交场合，也反映了双方在科技领域的博弈与互动。",
+      "whyImportant": "科技巨头的出席凸显了技术竞争在当前美中双边关系中的核心地位。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a3435d15ab86d782",
+      "title": "Xi presses Trump to take the next step on Taiwan: oppose independence",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3368829/xi-presses-trump-take-next-step-taiwan-oppose-independence?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T12:00:06.000Z",
+      "summary": "Chinese President Xi Jinping pressed his US counterpart Donald Trump to explicitly oppose Taiwan independence – a call that would require a shift in Washington’s long-standing position and further restraint on American arms sales to the island, according to analysts. During the meeting between the two leaders on Thursday, Xi said he hoped the US side would “adhere to the correct position of opposing ‘Taiwan independence’”, according to a statement from the foreign ministry in Beijing. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3368829/xi-presses-trump-take-next-step-taiwan-oppose-independence?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T12:00:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "9446c65f4ecfc6711998aac5",
+      "isContinuation": false,
+      "titleZh": "习近平敦促特朗普在台湾问题上采取进一步行动：反对“台独”",
+      "summaryZh": "中国国家主席习近平在与特朗普的会晤中，敦促美方明确反对“台独”。分析人士指出，这要求华盛顿改变长期立场并进一步限制对台军售。",
+      "whyImportant": "此举显示中国在台湾问题上对美方施加更大压力，要求其在核心利益上做出明确表态。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7edf09b52b6f3a7f",
+      "title": "How Hong Kong firms are future-proofing business in challenging times",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368853/how-hong-kong-firms-are-future-proofing-business-challenging-times?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T01:00:16.000Z",
+      "summary": "Hong Kong’s economic transformation is at a critical juncture, and the private sector must adapt along with it, as Chief Executive John Lee Ka-chiu has noted. In the first of a two-part series, Ambrose Li and Wynna Wong examine the forces driving change among established enterprises. Before visiting a vendor in mainland China’s Jiangsu province, a salesman from Hong Kong bottling giant Swire Coca-Cola can now use a mobile phone to see which drinks customers in the neighbourhood are most likely...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368853/how-hong-kong-firms-are-future-proofing-business-challenging-times?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T01:00:16.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1254,67 +1331,26 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "专题·中国与世界"
+        "经济"
       ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "095d4a93c3c28b17b5c1aca5",
-      "isContinuation": false,
-      "titleZh": "香港律政司司长：立法监管未成年人社交媒体使用是选项之一",
-      "summaryZh": "香港律政司司长林定国表示，政府正考虑通过立法保护未成年人，监管其社交媒体使用情况。他强调此举旨在保护儿童，而非侵犯个人权利。",
-      "whyImportant": "此举反映了政府在应对数字时代青少年保护问题上的政策导向与立法考量。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4b24290b8178cf1a",
-      "title": "Boy, 11, shot in the face and neck in Sydney dies from his injuries",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/24/boy-11-shot-face-and-neck-sydney-dies-from-his-injuries-ntwnfb",
-      "publishedAt": "2026-09-24T23:11:49.000Z",
-      "summary": "The 11-year-old died at Westmead children’s hospital three days after incident at a unit in Norwest Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A boy who was allegedly shot at a home in Sydney’s north-west earlier this week has died. Police said that the boy, who had been in a critical condition since being found with a gunshot wound at a unit in Norwest on Monday, died in hospital at about 8pm on Thursday. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/24/boy-11-shot-face-and-neck-sydney-dies-from-his-injuries-ntwnfb",
-          "publishedAt": "2026-09-24T23:11:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 59,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "094004dc71f5c1bd190107c0",
+      "fingerprint": "06da0b1e44fa8619a4aa9172",
       "isContinuation": false,
-      "titleZh": "悉尼一名11岁男童面部和颈部中枪，伤重不治",
-      "summaryZh": "一名11岁男童本周早些时候在悉尼西北部的一处住所中枪，伤势严重。尽管在医院接受了救治，该男童最终于周四晚间不幸离世。",
-      "whyImportant": "这起严重的暴力事件引发了公众对社区安全及枪支管控问题的关注。",
+      "titleZh": "香港企业如何在充满挑战的时代实现业务未来化",
+      "summaryZh": "香港经济正处于转型关键期，私营企业需积极适应变化。通过数字化转型和技术应用，香港企业正在探索提升竞争力的路径。",
+      "whyImportant": "该报道探讨了香港企业在宏观经济转型背景下的生存与发展策略。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [],
   "metadata": {
-    "fetched": 278,
-    "deduplicated": 239,
+    "fetched": 205,
+    "deduplicated": 192,
     "selected": 23,
     "translated": 23,
     "untranslated": 0,
@@ -1325,231 +1361,73 @@
   },
   "items": [
     {
-      "id": "19992194eeb97ef2",
-      "title": "Pitch perfect cultural diplomacy wins heart of China’s first lady Peng Liyuan",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368757/pitch-perfect-cultural-diplomacy-wins-heart-chinas-first-lady-peng-liyuan?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T04:43:09.000Z",
-      "summary": "While their husbands held talks at the White House, Melania Trump hosted Peng Liyuan at the Smithsonian National Museum of Asian Art on Thursday, where the famed Chinese soprano softly hummed along to a youth choir’s performance of a familiar classic. Footage shows the Hope Chinese School youth choir waving Chinese and American national flags during their rendition of the song “Jasmine Flower”, while Peng watches with a smile, her lips moving along to the lyrics. As the performance ends, she...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368757/pitch-perfect-cultural-diplomacy-wins-heart-chinas-first-lady-peng-liyuan?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T04:43:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "外交",
-        "专题·中国与世界"
-      ],
-      "score": 78,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "a90c3a3b39e8a005e85a80c8",
-      "isContinuation": false,
-      "titleZh": "文化外交赢得人心：中国第一夫人彭丽媛被合唱表演打动",
-      "summaryZh": "在华盛顿史密森尼国家亚洲艺术博物馆，梅拉尼娅·特朗普接待了彭丽媛。当青年合唱团演唱《茉莉花》时，彭丽媛随旋律轻声哼唱，展现了文化交流的温情时刻。",
-      "whyImportant": "此类文化交流活动有助于在高级别政治会晤期间营造积极的氛围。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9d9b7a54ab2bac6a",
-      "title": "Trump autopen joke at Biden’s expense draws rare laugh from China’s Xi",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368744/chinas-xi-shares-rare-laugh-white-house-tour-trumps-biden-autopen-joke?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T03:13:32.000Z",
-      "summary": "Chinese President Xi Jinping broke into rare laughter as his US counterpart Donald Trump showed him a framed “autopen” displayed in place of the former American leader Joe Biden’s portrait during a White House tour. The viral moment stood out against the Chinese leader’s otherwise restrained demeanour during his first state visit to the United States in more than a decade. A video released by the White House on social media showed Trump taking Xi along the White House colonnade on Thursday...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368744/chinas-xi-shares-rare-laugh-white-house-tour-trumps-biden-autopen-joke?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T03:13:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·中国与世界"
-      ],
-      "score": 72,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "f7500615a1924eb91cc03574",
-      "isContinuation": false,
-      "titleZh": "特朗普拿“自动签名机”开玩笑，引中国国家主席习近平罕见大笑",
-      "summaryZh": "在白宫参观期间，特朗普向习近平展示了一台取代拜登肖像的“自动签名机”，这一幽默举动令习近平罕见地开怀大笑。该视频片段在社交媒体上迅速传播。",
-      "whyImportant": "领导人之间轻松的互动被视为缓解外交紧张关系、建立个人沟通渠道的积极信号。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3c02b4c764c9d8c8",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "id": "3808196cf27c416a",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T03:57:09.000Z",
-      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T04:14:30.000Z",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi said on Friday that Tehran had offered Washington a plan that would see the Strait of Hormuz reopened to maritime navigation within seven days once agreed. Araghchi met with US President Donald Trump’s envoy Steve Witkoff for talks on Tuesday, and previously set out conditions for ending the war and reopening the vital energy shipping channel. “Iran has conveyed to the United States, through Qatar, a concrete seven-day plan. If the necessary conditions are...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-25T03:57:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 71,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "f9522585802026af9406744e",
-      "isContinuation": false,
-      "titleZh": "习近平获得特朗普的红毯礼遇，但并未实现所有预期目标",
-      "summaryZh": "尽管习近平受到了高规格接待，但中国在贸易、技术和台湾问题上并未取得预期的实质性进展。双方在核心议题上的分歧依然存在。",
-      "whyImportant": "这反映出尽管外交礼仪隆重，但中美两国在关键战略利益上的博弈依然复杂且充满挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e7ca933d41a8f162",
-      "title": "Beyond the Rose Garden and the military review, Trump and Xi get down to business",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T14:32:56.000Z",
-      "summary": "After weeks of frustration, delays and posturing, Chinese President Xi Jinping and US President Donald Trump met on Thursday, holding talks on several bilateral irritants and announcing an ill-defined “new joint arrangement” as they kicked off the most consequential day of their high-stakes summit. The arrangement was “good news for businesses, ordinary people and the global economy”, Xi said, according to state news agency Xinhua, without elaborating. “We must turn this vision into action,” he...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-26T04:14:30.000Z"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+          "publishedAt": "2026-09-26T00:00:00.000Z"
+        },
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T14:32:56.000Z"
+          "url": "https://www.scmp.com/news/world/middle-east/article/3368872/iran-offers-us-plan-reopen-hormuz-within-7-days?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T21:03:29.000Z"
         }
       ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
+      "sourceCount": 3,
+      "isChina": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "中国重点",
+        "美国重点",
         "外交",
-        "经济",
         "军事与安全",
-        "专题·中国与世界"
+        "能源",
+        "专题·美国政策与全球影响"
       ],
-      "score": 67,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 93,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "chinese",
-        "中国"
+        "united states",
+        "washington",
+        "美国"
       ],
-      "fingerprint": "85d4e125e8e64d13a7aec887",
+      "fingerprint": "be02686137f37371fbc6a010",
       "isContinuation": false,
-      "titleZh": "超越玫瑰园与阅兵仪式，特朗普与习近平进入实质性会谈",
-      "summaryZh": "经过长时间的筹备与博弈，习近平与特朗普举行了会谈，并宣布了一项旨在促进商业与全球经济的“新联合安排”。双方均强调需将愿景转化为具体行动。",
-      "whyImportant": "此次会谈标志着中美关系在经历一段时期的僵局后，试图通过务实合作来稳定双边关系。",
+      "titleZh": "伊朗向美国提出七天内重开霍尔木兹海峡的协议",
+      "summaryZh": "伊朗外长阿巴斯·阿拉格希表示，伊朗已通过卡塔尔向美国提交了一份七天内重开霍尔木兹海峡的方案。该方案的前提是满足伊朗此前设定的结束战争等相关条件。",
+      "whyImportant": "若该提议获得进展，将对全球能源供应安全产生重大积极影响，并可能缓解波斯湾地区的紧张局势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3cfcd8291bbd0525",
-      "title": "China’s industrial strengths must also benefit its trading partners",
+      "id": "807138d459f3440d",
+      "title": "Xi-Trump summit: China and US to open ‘super intelligence’ communications channel",
       "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T21:30:12.000Z",
-      "summary": "The European Commission is pressing China for progress by next month to address the widening EU-China trade imbalance, and raising the possibility of new protectionist trade policy. The deadline raises a question: how should China and its trading partners address perceived economic imbalances while sharing the benefits of Chinese industrial competitiveness? China’s merchandise trade surplus approached US$1.2 trillion last year even as other exporting economies press for controls. “Overcapacity”...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T04:49:50.000Z",
+      "summary": "China and the United States have agreed to establish a bilateral communication channel for “super intelligence” incidents, according to the White House. In a statement about the deliverables of Chinese President Xi Jinping’s visit to Washington, the US said the next meeting of the newly formed US-China Super Intelligence (SI) Dialogue would take place by November. China’s Ministry of Commerce confirmed on Thursday that its senior trade negotiators had held their first talks with the US on...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T21:30:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "专题·中国与世界"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "e0626c330689ac33aa905ffb",
-      "isContinuation": false,
-      "titleZh": "中国的工业优势必须惠及贸易伙伴",
-      "summaryZh": "欧盟委员会正向中国施压，要求解决日益扩大的贸易失衡问题，并暗示可能采取新的保护主义政策。如何在保持工业竞争力的同时平衡贸易伙伴的利益，成为中国面临的挑战。",
-      "whyImportant": "贸易失衡问题已成为影响中国与欧洲及其他贸易伙伴关系的关键经济摩擦点。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7f373a87f0abb732",
-      "title": "Xi, Trump praise past friendship, downplay current rivalry at dinner – as it happened",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T13:53:20.000Z",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account. Xi’s US summit: Access real-time updates, geopolitical risk analysis, and exclusive reporting from an Asian perspective. Subscribe now with our limited-time offer to stay ahead. President Xi Jinping and China’s first lady Peng Liyuan arrived at the White House on Thursday, on Xi’s first trip to the US in nearly a decade, following US President Donald Trump’s trip to Beijing in May. Trump greeted Xi...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T13:53:20.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T04:49:50.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1560,197 +1438,292 @@
         "中国重点",
         "美国重点",
         "外交",
-        "专题·中国与世界"
+        "经济",
+        "专题·美国政策与全球影响"
       ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 83,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "beijing",
-        "中国"
+        "united states",
+        "washington",
+        "white house",
+        "美国"
       ],
-      "fingerprint": "d12bf7820db8676c47bdedc3",
+      "fingerprint": "100bb60b8338a1a77d4c7f88",
       "isContinuation": false,
-      "titleZh": "习近平与特朗普在晚宴上称赞过往友谊，淡化当前竞争",
-      "summaryZh": "习近平与夫人彭丽媛抵达白宫，这是习近平近十年来首次访美。在晚宴中，双方回顾了过往的友谊，并试图在公开场合淡化当前的竞争态势。",
-      "whyImportant": "通过强调个人友谊来缓和地缘政治竞争，是双方在峰会期间采取的一种外交策略。",
+      "titleZh": "习特会：中美将开启“超级智能”沟通渠道",
+      "summaryZh": "白宫表示，中美两国已同意建立针对“超级智能”事件的双边沟通渠道。双方计划在11月前举行首次中美超级智能对话，以应对相关技术风险。",
+      "whyImportant": "该机制的建立标志着中美在人工智能等前沿技术治理领域开始寻求风险管控与合作。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0937168e4e06d7ce",
-      "title": "China tested a handheld submarine detector. It tracked a subway train underground",
+      "id": "2fbedf30d8000404",
+      "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+      "publishedAt": "2026-09-26T03:29:32.000Z",
+      "summary": "DELIVERING FOR AMERICANS: This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame Peng Liyuan of the People’s Republic of China for a reciprocal State Visit. During the visit, President Trump advanced the U.S.-China relationship and put the American people first. OPERATIONALIZING THE BOARDS OF TRADE AND INVESTMENT: This week, […] The post Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+          "publishedAt": "2026-09-26T03:29:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "经济",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 78,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "u.s.",
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "579f969e77a6e60f594692a9",
+      "isContinuation": false,
+      "titleZh": "情况说明书：唐纳德·J·特朗普总统在主持历史性国事访问期间推动与中国的公平互惠关系",
+      "summaryZh": "特朗普总统与第一夫人梅拉尼娅接待了中国国家主席习近平及夫人彭丽媛的国事访问。白宫强调此次访问旨在推动美中关系并优先考虑美国人民利益，同时推进了贸易与投资委员会的运作。",
+      "whyImportant": "此文件体现了美方对此次国事访问的官方定调，强调在双边关系中追求互惠与美国优先的政策导向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8cc552b185a2a4d1",
+      "title": "China’s first lady Peng Liyuan shines during Xi-Trump summit: everything you missed",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3367965/china-tested-handheld-submarine-detector-it-tracked-subway-train-underground?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T02:00:18.000Z",
-      "summary": "Chinese researchers have showed a handheld quantum magnetometer built for hunting submarines in a striking real-world test: it tracked a subway train rumbling beneath a city street. The device, developed by Peng Xinhua and colleagues at the University of Science and Technology of China, is described in a study published on September 14 in Acta Physica Sinica. Though it is scarcely larger than a pencil and draws only 5 watts of power, it can isolate the magnetic disturbance caused by a moving...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368880/chinas-first-lady-peng-liyuan-shines-during-xi-trump-summit-everything-you-missed?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T04:30:07.000Z",
+      "summary": "We have put together stories from our coverage of Peng Liyuan during the Xi-Trump summit. If you would like to see more of our reporting, please consider subscribing. 1. China’s first lady Peng Liyuan projects glamour and soft power on world stage China’s first lady Peng Liyuan is again stepping into the international limelight as she travels to Washington with President Xi Jinping this week. 2. Peng Liyuan and Melania Trump renew acquaintance as Xi arrives in US Chinese first lady Peng Liyuan...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3367965/china-tested-handheld-submarine-detector-it-tracked-subway-train-underground?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T02:00:18.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368880/chinas-first-lady-peng-liyuan-shines-during-xi-trump-summit-everything-you-missed?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T04:30:07.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "专题·中国与世界"
+        "美国重点",
+        "外交",
+        "专题·美国政策与全球影响"
       ],
-      "score": 65,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 76,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
+        "washington",
+        "美国"
       ],
-      "fingerprint": "4254ee50c735f53b746387af",
+      "fingerprint": "2b3f4ed74dbbf80d3c4c3f25",
       "isContinuation": false,
-      "titleZh": "中国测试手持式潜艇探测器：成功追踪地下地铁列车",
-      "summaryZh": "中国研究人员开发出一种手持式量子磁力计，在测试中成功追踪到城市街道下方的地铁列车。该设备体积小巧且功耗极低，展示了其在探测移动金属物体方面的潜力。",
-      "whyImportant": "这项技术的突破展示了量子传感领域在军事探测和民用监测方面的应用前景。",
+      "titleZh": "中国第一夫人彭丽媛在习特会期间大放异彩：你错过的所有细节",
+      "summaryZh": "中国第一夫人彭丽媛随同习近平主席访问华盛顿，在国际舞台上展现了魅力与软实力。她与梅拉尼娅·特朗普的互动成为此次峰会期间备受关注的焦点。",
+      "whyImportant": "第一夫人的外交活动在峰会期间发挥了重要的公共外交作用，有助于提升国家形象。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "583443d77fd2290a",
-      "title": "Uber shuts down FlyTaxi, second metered cab platform it acquired in Hong Kong",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/transport/article/3368756/uber-shuts-down-flytaxi-second-metered-cab-platform-it-acquired-hong-kong?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T04:39:36.000Z",
-      "summary": "Online ride-hailing giant Uber will close a second Hong Kong metered taxi platform that it acquired by the end of this year, just over six months after it bought out the business. Uber said on Friday that it would fully integrate the services on FlyTaxi into its own platform by the end of the year, saying it aimed to provide “optimal” support for drivers and users. “As part of this integration, the stand-alone FlyTaxi app will [be shut down]. Our team is dedicated to guiding every rider and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/transport/article/3368756/uber-shuts-down-flytaxi-second-metered-cab-platform-it-acquired-hong-kong?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T04:39:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "专题·中国与世界"
-      ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "647e9b42fc1b832be52205f6",
-      "isContinuation": false,
-      "titleZh": "Uber关闭其在香港收购的第二个计程车平台FlyTaxi",
-      "summaryZh": "Uber宣布将于今年年底前关闭其在香港收购的计程车平台FlyTaxi，并将相关服务整合至其主平台。这是Uber在香港整合业务以优化司机和用户体验的最新举措。",
-      "whyImportant": "此举反映了网约车巨头在香港市场整合资源、精简运营模式的战略调整。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e35d09d37c1b79c0",
-      "title": "Australia news live: PM says he learned of OpenAI’s Medicare breach in New York; NSW renters to benefit from new laws",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-      "publishedAt": "2026-09-25T04:27:24.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast AI hack of Medicare exposes Australia’s vulnerabilities Technology experts have warned revelations an artificial intelligence agent hacked Medicare’s internal systems will not be the only dangerous breach of government data and have called for Australia to boost its protections against the growing risk. Frontier AI now has capability to expose those vulnerabilities at a rate quicker than we can keep up, quicker than we can patch them. What if it was a less benign breach? What if it was a less benign actor? Let’s face it, clearly, Services Australia’s cybersecurity is woefully inadequate. I mean the irony here is that you actually need AI to fight AI. This should hasten, if anything, our move over in the US to less finger wagging and Trump one-upmanship, and more about embracing these AI companies and bringing them here so that we can have frontier models providing sovereign capability to Australia. Because AI is going to happen. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-          "publishedAt": "2026-09-25T04:27:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "科技"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ab039f852cdd82bda4b67c47",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻直播：总理称在纽约获悉OpenAI泄露医疗保险数据；新南威尔士州租房者将受益于新法律",
-      "summaryZh": "人工智能代理入侵澳大利亚医疗保险系统引发了对政府数据安全漏洞的担忧。专家警告称，现有网络安全防护不足，呼吁政府加强技术防御并拥抱前沿AI模型以提升主权能力。",
-      "whyImportant": "此事件凸显了政府关键基础设施在面对先进人工智能威胁时的脆弱性，引发了关于国家网络安全战略的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9bf28870c2fdfb0f",
-      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+      "id": "730bff480e7a228c",
+      "title": "White House bars CNN from Air Force One for Trump’s upcoming trip",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
-      "publishedAt": "2026-09-25T03:41:25.000Z",
-      "summary": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+      "publishedAt": "2026-09-26T04:27:07.000Z",
+      "summary": "Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
-          "publishedAt": "2026-09-25T03:41:25.000Z"
+          "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+          "publishedAt": "2026-09-26T04:27:07.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "能源"
+        "美国重点",
+        "专题·美国政策与全球影响"
       ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "18422c797a1ac2c252e8f21c",
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "67379973929f0e6ba48c44a4",
       "isContinuation": false,
-      "titleZh": "也门胡塞武装声称袭击沙特设施后，油价飙升",
-      "summaryZh": "在伊朗支持的胡塞武装声称成功袭击沙特阿美石油公司设施后，布伦特原油价格突破每桶106美元。该事件加剧了市场对中东能源供应安全的担忧。",
-      "whyImportant": "地缘政治冲突升级直接冲击全球能源市场，导致油价显著波动。",
+      "titleZh": "白宫禁止CNN随特朗普总统出行空军一号",
+      "summaryZh": "在特朗普总统与美国媒体关系日益紧张之际，Real America's Voice News取代了CNN在空军一号上的随行位置。此举反映了白宫对特定媒体机构的限制措施。",
+      "whyImportant": "此事件凸显了白宫与主流媒体之间持续的对抗关系及其对新闻自由的影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "55c6f297860111ba",
-      "title": "NSW police officer killed ‘instantly’ after car she was travelling in crashed into tree in Redfern",
+      "id": "2818715cdec4efe2",
+      "title": "Pomp over progress in Xi’s US summit with Trump is a win for China",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/25/nsw-police-officer-killed-car-crash-redfern-sydney-ntwnfb",
-      "publishedAt": "2026-09-25T03:41:09.000Z",
-      "summary": "The marked police car was travelling with its sirens on when it hit a tree in inner-city Sydney about 1.30am on Friday Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A New South Wales police officer who was killed on duty when the car she was travelling in crashed into a tree in Sydney has been named as 20-year-old Mia Lay. NSW police said the marked police car was travelling under lights and sirens along Gibbons Street in Redfern when it crashed at about 1.30am on Friday. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "publishedAt": "2026-09-25T12:41:14.000Z",
+      "summary": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues Key takeaways from the Trump-Xi summit in Washington If the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs. Instead, it was described as a celebration of “diplotainment” rather than diplomacy, where pomp prevailed over progress and where one of the main outcomes was the news that two giant pandas would soon be sent from China to Atlanta zoo. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/25/nsw-police-officer-killed-car-crash-redfern-sydney-ntwnfb",
-          "publishedAt": "2026-09-25T03:41:09.000Z"
+          "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+          "publishedAt": "2026-09-25T12:41:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 64,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "872a865129df34dd7a4005cc",
+      "isContinuation": false,
+      "titleZh": "习特会重排场轻进展，被视为中国的胜利",
+      "summaryZh": "此次中美峰会虽被美方称为“伟大”，但在解决棘手问题上几乎没有取得实质性进展。评论认为此次会晤更像是一场“外交娱乐”，除宣布赠送大熊猫外，缺乏重大突破。",
+      "whyImportant": "该分析指出中美关系在当前阶段仍处于僵持状态，象征性意义大于实际政策成果。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "90e62ba5a7ab5b96",
+      "title": "CNN blocked from Trump’s trip as White House signals new media curb",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/us/politics/article/3368881/cnn-blocked-trumps-trip-white-house-signals-new-media-curb?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T03:26:19.000Z",
+      "summary": "The White House signalled on Friday night that CNN would be left off Air Force One for President Donald Trump’s Saturday trip, the latest media restriction from the administration in an ongoing dispute with First Amendment implications. The news organisation was replaced by Real America’s Voice News, a conservative network, for the president’s trip to Knoxville, Tennessee, according to White House guidance. Trump is scheduled to attend a college-football game between the University of Tennessee...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/us/politics/article/3368881/cnn-blocked-trumps-trip-white-house-signals-new-media-curb?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T03:26:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 64,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "510bb007c39accf9c7e9ff4f",
+      "isContinuation": false,
+      "titleZh": "CNN被排除在特朗普行程之外，白宫释放媒体限制新信号",
+      "summaryZh": "白宫周五晚间确认，CNN将无法随特朗普总统前往田纳西州参加橄榄球赛。保守派媒体Real America's Voice News被安排取代其位置，这是白宫针对媒体采取的最新限制行动。",
+      "whyImportant": "该决定进一步加剧了行政当局与新闻机构之间的紧张局势，引发了关于第一修正案权利的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9bd107d7d630719",
+      "title": "In a US-China world, Asean must do more than avoid choosing sides",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3368638/us-china-world-asean-must-do-more-avoid-choosing-sides?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T12:30:12.000Z",
+      "summary": "The good news is, when US President Donald Trump and Chinese President Xi Jinping met in Washington this week, neither chose confrontation. Amid the high pomp and ceremony, what China has called “constructive strategic stability” continues. Even an uneasy truce in great power relations can be useful. Both recognise the considerable incentive to prevent their economic rivalry from spiralling out of control. Even limited understandings can reduce risks in artificial intelligence (AI) and other...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3368638/us-china-world-asean-must-do-more-avoid-choosing-sides?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T12:30:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "经济",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "0694e0d88a0a3cf16022cd8e",
+      "isContinuation": false,
+      "titleZh": "在美中主导的世界中，东盟必须做的不仅仅是避免选边站",
+      "summaryZh": "中美领导人华盛顿会晤避免了直接对抗，维持了某种程度的战略稳定。东盟国家应利用这种大国关系的暂时缓和，在人工智能等领域寻求更多风险管控与合作空间。",
+      "whyImportant": "文章探讨了东盟在美中博弈背景下的生存策略，强调了主动参与区域治理的重要性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c6c8cb2af6d01535",
+      "title": "Free the Strip! Melburnians fight back against outlawing of much-loved picnic spot",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
+      "publishedAt": "2026-09-26T00:12:42.000Z",
+      "summary": "A council ban on drinking on the median strip in Canning Street, Carlton, sparks a peaceful protest featuring punch bowls, chips and laughter Get our breaking news email, free app or daily news podcast It looked like a typical spring evening on Melbourne’s Canning Street when a few dozen picnickers gathered on the grassy median strip on Friday, with drinks in hand. People in one group who’d come with a full alfresco setting chattered as they ladled punch out of a glass bowl on a wooden table, set with a tablecloth and yellow flowers in a vase. Others sat on picnic blankets, passing around bags of chips. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
+          "publishedAt": "2026-09-26T00:12:42.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1762,76 +1735,38 @@
         "突发",
         "国际组织"
       ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "d01fc596fa9c10f2339b096b",
+      "fingerprint": "47bdfb27192a903e2dff91d3",
       "isContinuation": false,
-      "titleZh": "新南威尔士州一名女警在悉尼雷德芬乘车撞树后“当场”身亡",
-      "summaryZh": "周五凌晨，一辆正在执行任务并开启警笛的警车在悉尼雷德芬撞上一棵树，导致20岁的女警米娅·莱不幸殉职。警方目前正在调查事故的具体情况。",
-      "whyImportant": "这起因公殉职事故引发了公众对警务人员执勤安全及相关交通规程的关注。",
+      "titleZh": "解放绿化带！墨尔本民众抗议禁止在热门野餐地点饮酒",
+      "summaryZh": "墨尔本卡尔顿区议会禁止在坎宁街的绿化带饮酒，引发了当地民众的和平抗议。抗议者们带着餐具、零食和饮料在草坪上聚会，以表达对禁令的不满。",
+      "whyImportant": "此事件反映了城市公共空间管理与市民休闲权利之间的矛盾。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ea9c062ab256e759",
-      "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
-      "publishedAt": "2026-09-25T03:35:22.000Z",
-      "summary": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
-          "publishedAt": "2026-09-25T03:35:22.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "915b57823ebbf38f34e74ed5",
-      "isContinuation": false,
-      "titleZh": "也门战事升级，沙特、土耳其和巴基斯坦领导人计划进行紧急会谈",
-      "summaryZh": "随着也门境内冲突加剧及胡塞武装袭击频发，沙特阿拉伯、土耳其和巴基斯坦正寻求加强国防协调。三国旨在通过紧急会谈应对地区安全挑战。",
-      "whyImportant": "地区大国加强军事合作反映了也门局势恶化对周边安全格局的深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "241f7b81bddbf36c",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "id": "8f316ab13d5ee008",
+      "title": "Pope warns against 'losing humanity' to AI machines",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T19:18:12.000Z",
-      "summary": "A man armed with a knife killed a priest and injured four other people during an attack on clergy and worshippers at a Benedictine abbey in southern Poland on Thursday, authorities ‌said. The man used a knife he took from a kitchen there to attack one woman and four men, including one priest who was in a confessional, a prosecutor said. The attack took place at a Benedictine Sisters monastery on the grounds of the abbey in Jaroslaw, local media reported. A 31-year-old Ukrainian man was arrested,...",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T15:06:41.000Z",
+      "summary": "Pope Leo on Friday warned against losing humanity in a “paradise of machines”, after church bells rang and thousands gathered to welcome him to France amid worldwide concern over the dangers of artificial intelligence. “If we are to avoid losing our humanity amid a paradise of machines invading and conditioning our daily lives, there is an urgent need for education in ethical discernment,” Leo said after President Emmanuel Macron welcomed him to the presidential palace, on the first of four days...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-09-24T19:18:12.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-25T15:06:41.000Z"
         },
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3368718/knifeman-kills-priest-injures-4-attack-polish-abbey?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T18:11:28.000Z"
+          "url": "https://www.scmp.com/news/world/europe/article/3368852/paris-pope-warns-against-losing-humanity-paradise-machines?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T13:14:40.000Z"
         }
       ],
       "sourceCount": 2,
@@ -1841,35 +1776,212 @@
       "tags": [
         "全球焦点",
         "突发",
-        "国际组织"
+        "军事与安全",
+        "科技"
       ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b0a8f1023c2ad1778bb87d08",
+      "fingerprint": "1d51666125b4518fdcfb7156",
       "isContinuation": false,
-      "titleZh": "波兰修道院发生持刀袭击事件，一名神父遇害，四人受伤",
-      "summaryZh": "一名持刀男子在波兰南部的一座本笃会修道院内发动袭击，造成一名神父死亡，另有四人受伤。目前，一名31岁的乌克兰籍嫌疑人已被警方逮捕。",
-      "whyImportant": "宗教场所发生的暴力袭击事件引发了社会对公共安全和宗教场所保护的担忧。",
+      "titleZh": "教皇警告：警惕在“机器天堂”中丧失人性",
+      "summaryZh": "教皇利奥在访问法国期间警告称，面对人工智能的快速发展，人类必须警惕在机器主导的生活中丧失人性。他强调，在机器入侵日常生活的背景下，进行伦理辨析教育已刻不容缓。",
+      "whyImportant": "教皇的言论凸显了宗教界对人工智能技术伦理风险的深切关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ed788b9b791ab82c",
-      "title": "Croatia clears extradition of Nord Stream blast suspect to Germany",
+      "id": "cd185f720e857112",
+      "title": "Hong Kong is fast-tracking Northern Metropolis links. Will they be ready in time?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3368715/croatian-court-approves-extradition-nord-stream-blast-suspect-germany?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T16:46:52.000Z",
-      "summary": "A Croatian court has approved the extradition of a Ukrainian man who is wanted in Germany in connection with the 2022 undersea explosions that damaged the Nord Stream gas pipelines, state media said on Thursday. The report from HRT Television quoted the suspect’s lawyer Ljubo Pavaskovic as saying that he will appeal the September 18 ruling. It was not immediately clear when the man could be handed over to Germany. He was arrested on a European warrant in the northern Croatian town of Pula in...",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3368850/hong-kong-fast-tracking-northern-metropolis-links-will-they-be-ready-time?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T04:00:14.000Z",
+      "summary": "Hong Kong will fast-track key Northern Metropolis roads, bringing forward the San Tin highway section to 2034 and targeting 2033 for the Tsing Lung Bridge, but a transport expert and lawmaker have cautioned that the first arrivals could still end up stranded. Infrastructure projects could lag behind developments such as the Hung Shui Kiu University Town, they said, suggesting the government launch express bus routes and build the Central Rail Link as soon as possible to ensure connectivity. A...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3368715/croatian-court-approves-extradition-nord-stream-blast-suspect-germany?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T16:46:52.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3368850/hong-kong-fast-tracking-northern-metropolis-links-will-they-be-ready-time?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T04:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 62,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3f64ff13188a7ab142ac4ac2",
+      "isContinuation": false,
+      "titleZh": "香港加速推进北部都会区交通建设，能否按时完工？",
+      "summaryZh": "香港政府正加速推进北部都会区关键道路工程，但专家和议员担忧基础设施建设可能滞后于住宅开发。他们建议尽快开通快速巴士路线并建设中央铁路，以确保区域交通连接。",
+      "whyImportant": "交通配套的滞后可能影响北部都会区作为重要发展区域的实际居住与通勤体验。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e3d81976d772f772",
+      "title": "US TV networks back at White House, as Trump praises ‘fair’ coverage of Xi visit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368868/us-tv-networks-back-white-house-trump-praises-fair-coverage-xi-visit?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T17:07:41.000Z",
+      "summary": "US television networks resumed coverage of President Donald Trump’s White House events on Friday, providing the first live pool access for Chinese President Xi Jinping’s visit, as a legal battle continues over restrictions on CNN, MS Now and Politico. Trump last week banned the three outlets from the White House, before a judge ordered the administration to restore their access. The White House television press pool aired video of Xi’s arrival at the White House for tea on the final day of the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3368868/us-tv-networks-back-white-house-trump-praises-fair-coverage-xi-visit?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T17:07:41.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 62,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "428a0cb0f7726f51c01e5b8f",
+      "isContinuation": false,
+      "titleZh": "美国电视网重返白宫，特朗普称赞对习近平访问的报道“公平”",
+      "summaryZh": "在法院裁定恢复媒体准入后，美国电视网恢复了对白宫活动的报道，并首次直播了中国国家主席习近平的访问行程。此前特朗普曾禁止部分媒体进入白宫，目前相关法律诉讼仍在进行中。",
+      "whyImportant": "此举标志着白宫与媒体之间关于新闻采访权的法律纠纷出现阶段性缓和。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7a27ba23e43afffc",
+      "title": "China and the US are racing ahead on AI. Can they manage risks together?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3368813/china-and-us-are-racing-ahead-ai-can-they-manage-risks-together?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T11:30:07.000Z",
+      "summary": "The United States and China must work together to establish safety guardrails for artificial intelligence, leading scholars and industry leaders said at a Singapore forum, warning that rapid advances in the technology demand stronger risk controls. Speaking at the FutureChina Business Forum on Friday, Jude Blanchette, managing director of consultancy Macro Advisory Partners, urged the two superpowers to find common ground despite escalating geopolitical tensions. “If ever there was a moment for...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3368813/china-and-us-are-racing-ahead-ai-can-they-manage-risks-together?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T11:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "军事与安全",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 62,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "e27f87fc622558c03921ed9e",
+      "isContinuation": false,
+      "titleZh": "中美在人工智能领域竞速，能否共同管控风险？",
+      "summaryZh": "在新加坡举行的论坛上，专家和行业领袖呼吁中美两国在人工智能领域建立安全护栏。尽管地缘政治紧张，但与会者强调，人工智能的快速发展迫切需要两国寻找共同点以加强风险控制。",
+      "whyImportant": "中美作为人工智能领域的领跑者，其合作对于全球技术安全标准的确立至关重要。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "646d7cbee05589fe",
+      "title": "时政新闻眼丨习近平抵达华盛顿 ， 高规格礼遇开启访美序幕",
+      "source": "cqnews.net",
+      "url": "https://www.cqnews.net/web/content_1553055767297081344.html",
+      "publishedAt": "2026-09-25T09:30:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "cqnews.net",
+          "url": "https://www.cqnews.net/web/content_1553055767297081344.html",
+          "publishedAt": "2026-09-25T09:30:00.000Z"
+        },
+        {
+          "source": "news.fznews.com.cn",
+          "url": "https://news.fznews.com.cn/node/23556/20260925/433rtONk4l.shtml",
+          "publishedAt": "2026-09-25T09:15:00.000Z"
+        },
+        {
+          "source": "oeeee.com",
+          "url": "https://www.oeeee.com/html/202609/25/1746669.html",
+          "publishedAt": "2026-09-25T09:15:00.000Z"
+        },
+        {
+          "source": "yangtse.com",
+          "url": "https://www.yangtse.com/news/tt/202609/t20260925_396868.html",
+          "publishedAt": "2026-09-25T08:15:00.000Z"
+        }
+      ],
+      "sourceCount": 7,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 62,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国",
+        "华盛顿"
+      ],
+      "fingerprint": "64b66f8fa30b5c02a7601727",
+      "isContinuation": false,
+      "titleZh": "时政新闻眼丨习近平抵达华盛顿，高规格礼遇开启访美序幕",
+      "summaryZh": "中国国家主席习近平已抵达华盛顿，开启对美国的访问行程。此次访问受到美方高规格礼遇，备受国际社会关注。",
+      "whyImportant": "此次访问是中美关系中的重要外交事件，对双边关系走向具有深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e70516b03e13ec6d",
+      "title": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+      "publishedAt": "2026-09-25T15:43:59.000Z",
+      "summary": "Iran’s seven-day timetable would restart nuclear talks, but will the US be willing to deliver on terms that include reining in Israel in Lebanon? Iran’s seven-day timetable to reopen the strait of Hormuz and start talks on its nuclear programme has been pitched as a deal that could rapidly extricate Donald Trump from a political crisis but requires the US president to make difficult concessions. In the five days left before the proposed reopening of the strait, which is expected to relieve pressure on global energy markets, Trump would need to lift Iranian asset freezes, permit Iran to export its oil and, probably most difficult of all, order Benjamin Netanyahu to end Israel’s attacks on Hezbollah in Lebanon, thus achieving the “ceasefire on all fronts”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+          "publishedAt": "2026-09-25T15:43:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1879,37 +1991,36 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全",
-        "能源",
-        "国际组织"
+        "金融",
+        "能源"
       ],
-      "score": 65,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 61,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "852a193f1a27e4737e7dceb2",
+      "fingerprint": "9b4b21bc488f2550bb0c48c8",
       "isContinuation": false,
-      "titleZh": "克罗地亚批准将“北溪”管道爆炸案嫌疑人引渡至德国",
-      "summaryZh": "克罗地亚法院批准将一名涉嫌参与2022年北溪天然气管道爆炸案的乌克兰男子引渡至德国。该嫌疑人的律师表示将对裁决提出上诉。",
-      "whyImportant": "此举标志着针对北溪管道破坏事件的国际司法调查取得重要进展。",
+      "titleZh": "伊朗抛出重开霍尔木兹海峡协议，特朗普面临艰难抉择",
+      "summaryZh": "伊朗提出在七天内重启核谈判并重开霍尔木兹海峡，但要求美国解除资产冻结并促使以色列在黎巴嫩停火。这对特朗普而言是缓解能源市场压力和政治危机的机会，但也需要做出重大让步。",
+      "whyImportant": "该协议若达成，将对中东局势及美国中期选举前的能源价格产生重大影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "cfc9929a78912294",
-      "title": "China seal touches hearts for swimming 200km back to island after missing humans",
+      "id": "4ae725069f8b29fe",
+      "title": "Offshore wind farm could create radar blind spots and ‘ghost’ targets, Chinese study warns",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3368734/china-seal-touches-hearts-swimming-200km-back-island-after-missing-humans?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T02:08:45.000Z",
-      "summary": "A young seal gained widespread attention on social media in China after swimming 200km to return to an island where it had lived for months following its release into the wild. This two-year-old seal marks its second return to a human-inhabited area after being freed into open seas. Internet users were touched by videos showcasing the seal, affectionately named Nana, as it returned to the shores of Dachangshan Island in northeastern China’s Liaoning province. Nana was released into the ocean on...",
+      "url": "https://www.scmp.com/news/china/science/article/3368851/offshore-wind-farm-could-create-radar-blind-spots-and-ghost-targets-chinese-study-warns?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T02:00:18.000Z",
+      "summary": "Offshore wind farms can reduce the coverage of shore-based radar systems and create areas where targets become harder to detect, according to a new study. The researchers found that at a range of 5km (3 miles), effective radar coverage fell by 6.9 per cent while blind spots increased by 14.9 per cent. The research, published online last month in the peer-reviewed Chinese journal Radio Engineering, was conducted by Professor Liu Zunnian and his team from Qingdao Technological University and the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3368734/china-seal-touches-hearts-swimming-200km-back-island-after-missing-humans?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T02:08:45.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3368851/offshore-wind-farm-could-create-radar-blind-spots-and-ghost-targets-chinese-study-warns?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T02:00:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1918,38 +2029,35 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "专题·中国与世界"
+        "军事与安全"
       ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "fa57ee460cf08755ff572ac3",
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7ee188031e5308476030c66e",
       "isContinuation": false,
-      "titleZh": "中国海豹游回200公里外的人类居住岛屿，引发网友关注",
-      "summaryZh": "一只被放归野外的两岁海豹在离开数月后，独自游回了辽宁大长山岛。这是它第二次在被放归大海后回到人类居住区，其行为在社交媒体上引发了广泛关注。",
-      "whyImportant": "该事件引发了公众对于野生动物放归自然后适应性及人与动物情感联系的讨论。",
+      "titleZh": "中国研究警告：海上风电场可能产生雷达盲区和“幽灵”目标",
+      "summaryZh": "一项由青岛理工大学团队进行的研究指出，海上风电场会削弱岸基雷达系统的覆盖范围，并增加探测难度。研究发现，在5公里范围内，雷达有效覆盖率下降了6.9%，盲区增加了14.9%。",
+      "whyImportant": "该研究揭示了可再生能源设施建设对海上航行安全和雷达监测带来的潜在技术挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "41850e6e31451599",
-      "title": "Iran war live: Saudi, Turkish and Pakistani army chiefs plan urgent meeting",
+      "id": "a0ed6ca48384e9be",
+      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "Saudi, Turkish, Pakistani army chiefs invoke Mecca pact for urgent talks over Houthi attacks.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+      "publishedAt": "2026-09-25T20:59:43.000Z",
+      "summary": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-          "publishedAt": "2026-09-25T00:00:00.000Z"
+          "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+          "publishedAt": "2026-09-25T20:59:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1961,311 +2069,260 @@
         "突发",
         "军事与安全"
       ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "99e5b093634fd95a392d8aa2",
+      "fingerprint": "90eff0b248a2a94639ef59f8",
       "isContinuation": false,
-      "titleZh": "伊朗战争直播：沙特、土耳其和巴基斯坦军队首长计划举行紧急会议",
-      "summaryZh": "沙特、土耳其和巴基斯坦的军队首长援引《麦加公约》，计划就胡塞武装的袭击事件进行紧急磋商。此次会议旨在应对地区安全局势的升级。",
-      "whyImportant": "多国军事高层的紧急会晤显示了地区安全局势的紧张程度及其对周边国家的潜在影响。",
+      "titleZh": "巴基斯坦总理告诉联合国：胡塞武装袭击麦加和麦地那将触及“红线”",
+      "summaryZh": "巴基斯坦总理夏巴兹·谢里夫在伊斯兰堡、利雅得和安卡拉的军队首脑讨论麦加协议及加强军事联系之际发表了上述言论。他强调任何针对圣城的袭击都将是不可逾越的底线。",
+      "whyImportant": "此表态凸显了伊斯兰国家对保护圣地安全的共同立场，并可能影响地区军事协作的走向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d2fb0c4954899c9c",
-      "title": "Trump - Xi , vertice alla Casa Bianca : Coesistenza pacifica e cooperazione tra united states e Cina",
-      "source": "ossolanews.it",
-      "url": "https://www.ossolanews.it/2026/09/24/leggi-notizia/argomenti/ultimora/articolo/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina.html",
-      "publishedAt": "2026-09-24T20:30:00.000Z",
-      "summary": "",
-      "language": "Italian",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "ossolanews.it",
-          "url": "https://www.ossolanews.it/2026/09/24/leggi-notizia/argomenti/ultimora/articolo/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina.html",
-          "publishedAt": "2026-09-24T20:30:00.000Z"
-        },
-        {
-          "source": "savonanews.it",
-          "url": "https://www.savonanews.it/2026/09/24/leggi-notizia/argomenti/ultimora/articolo/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina.html",
-          "publishedAt": "2026-09-24T19:30:00.000Z"
-        },
-        {
-          "source": "ilfattonisseno.it",
-          "url": "https://www.ilfattonisseno.it/2026/09/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina/",
-          "publishedAt": "2026-09-24T19:30:00.000Z"
-        },
-        {
-          "source": "spotandweb.it",
-          "url": "https://www.spotandweb.it/news/922333/trump-xi-vertice-alla-casa-bianca-coesistenza-pacifica-e-cooperazione-tra-usa-e-cina.html",
-          "publishedAt": "2026-09-24T19:00:00.000Z"
-        }
-      ],
-      "sourceCount": 4,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6139c2826fb720e68ecf3f0c",
-      "isContinuation": false,
-      "titleZh": "特朗普与习近平白宫会晤：美中寻求和平共处与合作",
-      "summaryZh": "特朗普与习近平在白宫举行会晤。双方讨论了美中两国之间的和平共处与合作事宜。",
-      "whyImportant": "此次会晤标志着美中两国在外交层面寻求稳定双边关系的重要尝试。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "809d8c086e27c106",
-      "title": "Red carpet vs empty tarmac: Xi’s US welcome fuels debate over Takaichi’s no-show reception",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368696/red-carpet-vs-empty-tarmac-xis-us-welcome-fuels-debate-over-takaichis-no-show-reception?utm_source=rss_feed",
-      "publishedAt": "2026-09-24T12:20:23.000Z",
-      "summary": "Starkly contrasting receptions for the Japanese leader and the Chinese president in the United States have sparked debate over Washington’s treatment of Tokyo as an ally. Sanae Takaichi arrived in New York at the start of the working week, beginning a trip where she addressed the United Nations General Assembly for the first time as the country’s prime minister. A photo taken on her arrival shows her waving across a relatively empty tarmac at John F. Kennedy International Airport. Footage...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3368696/red-carpet-vs-empty-tarmac-xis-us-welcome-fuels-debate-over-takaichis-no-show-reception?utm_source=rss_feed",
-          "publishedAt": "2026-09-24T12:20:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "国际组织",
-        "专题·中国与世界"
-      ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "b9b7410d26519cd18188562e",
-      "isContinuation": false,
-      "titleZh": "红毯与空停机坪的对比：习近平受访美待遇引发对日本首相高市早苗受冷落的讨论",
-      "summaryZh": "日本首相高市早苗抵达纽约出席联合国大会时，其受到的接待规格与中国国家主席习近平访美时形成鲜明对比。这一差异引发了关于华盛顿如何对待日本这一盟友的舆论讨论。",
-      "whyImportant": "外交接待规格的差异引发了外界对美国外交优先事项及盟友关系处理方式的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b3da6b7b54bdd137",
-      "title": "Donald Trump hails great friendship with Xi Jinping as Chinese leader visits White House for first time in a decade - 25 - Sep - 2026",
-      "source": "home.nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=454698&fm=psp,tsf",
-      "publishedAt": "2026-09-24T19:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "home.nzcity.co.nz",
-          "url": "https://home.nzcity.co.nz/news/article.aspx?id=454698&fm=psp,tsf",
-          "publishedAt": "2026-09-24T19:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·中国与世界"
-      ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "0028c4241a2098e9e2876713",
-      "isContinuation": false,
-      "titleZh": "唐纳德·特朗普称赞与习近平的伟大友谊，中国领导人十年来首次访问白宫",
-      "summaryZh": "中国国家主席习近平对白宫进行了十年来首次访问。特朗普总统在会晤中强调了双方之间良好的友谊。",
-      "whyImportant": "此次访问是美中高层外交互动的重要里程碑，旨在改善两国间的政治氛围。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9dcdc3e9be60045f",
-      "title": "First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
-      "publishedAt": "2026-09-24T12:21:19.000Z",
-      "summary": "President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan for a State Dinner in the East Room of the White House this evening. The First Lady led the preparations for the dinner, which will be attended by the […] The post First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
-          "publishedAt": "2026-09-24T12:21:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·中国与世界"
-      ],
-      "score": 59,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "2b2fad80f2d0c5ff55f91faa",
-      "isContinuation": false,
-      "titleZh": "第一夫人梅拉尼娅·特朗普发布中国国家主席习近平及夫人彭丽媛国宴细节",
-      "summaryZh": "特朗普总统与第一夫人梅拉尼娅将在白宫东厅为中国国家主席习近平及夫人彭丽媛举行国宴。第一夫人亲自负责了此次国宴的筹备工作。",
-      "whyImportant": "国宴作为高规格外交礼仪，体现了美方对此次中美元首会晤的重视程度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "49ef9cbbbd913e49",
-      "title": "Trump - Xi summit live : US , China should keep AI under human control , Xi says",
-      "source": "asia.nikkei.com",
-      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-china-should-keep-ai-under-human-control-xi-says",
-      "publishedAt": "2026-09-24T22:45:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "asia.nikkei.com",
-          "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-china-should-keep-ai-under-human-control-xi-says",
-          "publishedAt": "2026-09-24T22:45:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 63,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "55fee4a4af0e006a29d37ad6",
-      "isContinuation": false,
-      "titleZh": "特朗普与习近平峰会直播：习近平表示美中应将人工智能置于人类控制之下",
-      "summaryZh": "在美中峰会期间，习近平主席提出美中两国应共同确保人工智能处于人类的有效控制之下。这一表态强调了双方在科技治理领域的潜在合作空间。",
-      "whyImportant": "美中两国在人工智能监管方面的共识对全球科技安全与治理具有深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f1dec41f2f0b8a53",
-      "title": "Legislation among options to regulate minors’ social media use: justice minister",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368710/legislation-among-options-regulate-minors-social-media-use-justice-minister?utm_source=rss_feed",
-      "publishedAt": "2026-09-25T00:30:12.000Z",
-      "summary": "Introducing legislation to protect minors by regulating social media use is among the options on the table, Hong Kong’s justice minister has said, after the latest policy address unveiled plans to create a task force to review the situation. Speaking to the South China Morning Post and other media outlets on Wednesday, Secretary for Justice Paul Lam Ting-kwok dismissed concerns that such measures could infringe on individual rights and freedoms, emphasising that the goal was to protect children...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368710/legislation-among-options-regulate-minors-social-media-use-justice-minister?utm_source=rss_feed",
-          "publishedAt": "2026-09-25T00:30:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "专题·中国与世界"
-      ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "095d4a93c3c28b17b5c1aca5",
-      "isContinuation": false,
-      "titleZh": "香港律政司司长：立法监管未成年人社交媒体使用是选项之一",
-      "summaryZh": "香港律政司司长林定国表示，政府正考虑通过立法保护未成年人，监管其社交媒体使用情况。他强调此举旨在保护儿童，而非侵犯个人权利。",
-      "whyImportant": "此举反映了政府在应对数字时代青少年保护问题上的政策导向与立法考量。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4b24290b8178cf1a",
-      "title": "Boy, 11, shot in the face and neck in Sydney dies from his injuries",
+      "id": "aeb3b7ee287d78f9",
+      "title": "Protests erupt as Netanyahu gives inflammatory UN speech - The Latest",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/24/boy-11-shot-face-and-neck-sydney-dies-from-his-injuries-ntwnfb",
-      "publishedAt": "2026-09-24T23:11:49.000Z",
-      "summary": "The 11-year-old died at Westmead children’s hospital three days after incident at a unit in Norwest Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A boy who was allegedly shot at a home in Sydney’s north-west earlier this week has died. Police said that the boy, who had been in a critical condition since being found with a gunshot wound at a unit in Norwest on Monday, died in hospital at about 8pm on Thursday. Continue reading...",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
+      "publishedAt": "2026-09-25T18:22:27.000Z",
+      "summary": "More than 100 people were arrested at large protests against the Israeli prime minister Benjamin Netanyahu’s address to the UN general assembly. Susan Sarandon, Chelsea Manning and Caleb Hearon were among the famous faces arrested. Inside the assembly hall, Netanyahu faced a mass walkout as he took to the stage. Then, in an inflammatory address, he claimed Israel’s war in Gaza was the ‘opposite of a genocide’ and labelled the New York mayor, Zohran Mamdani, antisemitic. Lucy Hough speaks to UK global editor Devika Bhat – watch on YouTube – Listen to Thursday’s episode of Stateside with Kai and Carter on whether Netanyahu has lost America here Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/24/boy-11-shot-face-and-neck-sydney-dies-from-his-injuries-ntwnfb",
-          "publishedAt": "2026-09-24T23:11:49.000Z"
+          "url": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
+          "publishedAt": "2026-09-25T18:22:27.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "312d2c00271361089890444b",
+      "isContinuation": false,
+      "titleZh": "内塔尼亚胡发表煽动性联合国演讲，引发大规模抗议",
+      "summaryZh": "以色列总理内塔尼亚胡在联合国大会演讲时遭遇大规模抗议和离场抵制，超过百人被捕。他在演讲中否认加沙战争构成种族灭绝，并指责纽约市长反犹太主义。",
+      "whyImportant": "此次事件反映了国际社会对以色列加沙政策的严重分歧，以及内塔尼亚胡在外交场合面临的巨大舆论压力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a1cf8c32963b7ee1",
+      "title": "White House blocks CNN from Air Force One in latest escalation with news media",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+      "publishedAt": "2026-09-26T01:31:05.000Z",
+      "summary": "Outlet had been scheduled to fly with Donald Trump to Tennessee for a college football game, network said Friday The White House has blocked CNN from traveling aboard Air Force One on Saturday, impeding its TV press pool duties in the latest escalation of the administration’s battle with the news media. CNN had been scheduled to fly with Donald Trump to Tennessee for a college football game, the network said on Friday. The White House confirmed CNN’s exclusion when it did not list the network on guidance sent to the press corps regarding Trump’s schedule for Saturday. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+          "publishedAt": "2026-09-26T01:31:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "e7a5ceca19e5b13125f63320",
+      "isContinuation": false,
+      "titleZh": "白宫禁止CNN随行空军一号，媒体关系进一步恶化",
+      "summaryZh": "白宫在周五发布的行程指南中排除了CNN，阻止其随特朗普总统前往田纳西州进行报道。此举阻碍了该媒体履行随行记者团的职责，标志着双方冲突的升级。",
+      "whyImportant": "此举被视为白宫对新闻媒体施加压力和限制报道权限的又一例证。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed42b39c553894b8",
+      "title": "Trump cancels nearly $1bn in funding approved by Congress",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+      "publishedAt": "2026-09-26T01:00:34.000Z",
+      "summary": "President using rare power to revoke expenditure with bipartisan approval to aid immigrant services Donald Trump is canceling nearly $1bn in spending approved by Congress, the White House announced on Friday, using a rare and contested power to axe funding for immigrant services and diversity-focused initiatives. Trump’s office of management and budget described the funding cut as focused on “the most harmful government spending”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+          "publishedAt": "2026-09-26T01:00:34.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "0d9aa10bd554c4d05fd56c37",
+      "isContinuation": false,
+      "titleZh": "特朗普取消近10亿美元国会批准的资金",
+      "summaryZh": "白宫周五宣布，特朗普总统将动用罕见的行政权力，取消近10亿美元已获国会批准的支出。这些资金原定用于移民服务及多元化相关项目，被白宫列为“有害的政府支出”。",
+      "whyImportant": "此举展示了总统在财政支出决策上对国会权威的挑战，引发了关于行政权力的争议。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a6c0a34e5bd2d1eb",
+      "title": "Xi-Trump banquet: from flasks to US tech titans in attendance, here’s everything you missed",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368845/xi-trump-banquet-flasks-us-tech-titans-attendance-heres-everything-you-missed?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T12:09:32.000Z",
+      "summary": "We have put together stories from our coverage of the White House state dinner. If you would like to see more of our reporting, please consider subscribing. 1. Xi-Trump dinner puts US tech titans in spotlight – what does it mean for ties? If the American guests seated at the head table with President Xi Jinping and US President Donald Trump at Thursday’s White House state dinner were any indication, Washington now views its relationship with Beijing largely through the prism of technology. 2....",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368845/xi-trump-banquet-flasks-us-tech-titans-attendance-heres-everything-you-missed?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T12:09:32.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "washington",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "40837369af5f8c3bb0303e63",
+      "isContinuation": false,
+      "titleZh": "习特国宴：从酒瓶到美国科技巨头出席，回顾不容错过的细节",
+      "summaryZh": "在周四的白宫国宴上，美国科技界领袖受邀出席，显示出华盛顿目前主要通过技术视角审视美中关系。此次宴会不仅是外交场合，也反映了双方在科技领域的博弈与互动。",
+      "whyImportant": "科技巨头的出席凸显了技术竞争在当前美中双边关系中的核心地位。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a3435d15ab86d782",
+      "title": "Xi presses Trump to take the next step on Taiwan: oppose independence",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3368829/xi-presses-trump-take-next-step-taiwan-oppose-independence?utm_source=rss_feed",
+      "publishedAt": "2026-09-25T12:00:06.000Z",
+      "summary": "Chinese President Xi Jinping pressed his US counterpart Donald Trump to explicitly oppose Taiwan independence – a call that would require a shift in Washington’s long-standing position and further restraint on American arms sales to the island, according to analysts. During the meeting between the two leaders on Thursday, Xi said he hoped the US side would “adhere to the correct position of opposing ‘Taiwan independence’”, according to a statement from the foreign ministry in Beijing. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3368829/xi-presses-trump-take-next-step-taiwan-oppose-independence?utm_source=rss_feed",
+          "publishedAt": "2026-09-25T12:00:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 60,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "9446c65f4ecfc6711998aac5",
+      "isContinuation": false,
+      "titleZh": "习近平敦促特朗普在台湾问题上采取进一步行动：反对“台独”",
+      "summaryZh": "中国国家主席习近平在与特朗普的会晤中，敦促美方明确反对“台独”。分析人士指出，这要求华盛顿改变长期立场并进一步限制对台军售。",
+      "whyImportant": "此举显示中国在台湾问题上对美方施加更大压力，要求其在核心利益上做出明确表态。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7edf09b52b6f3a7f",
+      "title": "How Hong Kong firms are future-proofing business in challenging times",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368853/how-hong-kong-firms-are-future-proofing-business-challenging-times?utm_source=rss_feed",
+      "publishedAt": "2026-09-26T01:00:16.000Z",
+      "summary": "Hong Kong’s economic transformation is at a critical juncture, and the private sector must adapt along with it, as Chief Executive John Lee Ka-chiu has noted. In the first of a two-part series, Ambrose Li and Wynna Wong examine the forces driving change among established enterprises. Before visiting a vendor in mainland China’s Jiangsu province, a salesman from Hong Kong bottling giant Swire Coca-Cola can now use a mobile phone to see which drinks customers in the neighbourhood are most likely...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368853/how-hong-kong-firms-are-future-proofing-business-challenging-times?utm_source=rss_feed",
+          "publishedAt": "2026-09-26T01:00:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
+        "中国重点",
+        "经济"
       ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 59,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "094004dc71f5c1bd190107c0",
+      "fingerprint": "06da0b1e44fa8619a4aa9172",
       "isContinuation": false,
-      "titleZh": "悉尼一名11岁男童面部和颈部中枪，伤重不治",
-      "summaryZh": "一名11岁男童本周早些时候在悉尼西北部的一处住所中枪，伤势严重。尽管在医院接受了救治，该男童最终于周四晚间不幸离世。",
-      "whyImportant": "这起严重的暴力事件引发了公众对社区安全及枪支管控问题的关注。",
+      "titleZh": "香港企业如何在充满挑战的时代实现业务未来化",
+      "summaryZh": "香港经济正处于转型关键期，私营企业需积极适应变化。通过数字化转型和技术应用，香港企业正在探索提升竞争力的路径。",
+      "whyImportant": "该报道探讨了香港企业在宏观经济转型背景下的生存与发展策略。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
