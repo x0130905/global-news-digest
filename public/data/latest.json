@@ -1,86 +1,385 @@
 {
-  "date": "2026-10-01",
-  "generatedAt": "2026-10-01T05:49:44.680Z",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T05:16:23.814Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "global-governance",
-    "name": "全球治理与外交",
-    "description": "追踪国际组织、峰会、制裁、谈判与地缘关系变化",
-    "query": "diplomacy international relations summit sanctions United Nations",
+    "slug": "usa",
+    "name": "美国政策与全球影响",
+    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
+    "query": "United States policy economy diplomacy security",
     "keywords": [
-      "diplomacy",
-      "summit",
-      "sanction",
-      "treaty",
-      "united nations",
-      "外交",
-      "峰会",
-      "制裁",
-      "条约",
-      "联合国"
+      "united states",
+      "u.s.",
+      "american",
+      "washington",
+      "white house",
+      "美国",
+      "华盛顿",
+      "白宫",
+      "美联储"
     ],
-    "accent": "#8b5cf6"
+    "accent": "#3b82f6"
   },
-  "overview": "今日专题“全球治理与外交”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“美国政策与全球影响”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "0d67d4435f0f6339",
-      "title": "Netanyahu says too early to tell who was behind plane incident as flydubai halts all flights to Israel",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-      "publishedAt": "2026-10-01T04:55:41.000Z",
-      "summary": "Israeli prime minister cautions against early conclusions when asked if there were any signs of Iranian involvement Benjamin Netanyahu has said it was too early to tell who was ultimately behind the apparent attempt to crash a ⁠Tel Aviv-bound flydubai flight, even as Israel’s ambassador to the United Nations called the incident a “terror attack”, without apportioning blame. Danny Danon told Fox News on Wednesday night that Israel had “no doubt that it was a terror attack from a radical individual. We still cannot link it to a terror state or terror organisation, but for sure we know there was an intention to bring that plane down.” Continue reading...",
+      "id": "d1b37a3af806d38f",
+      "title": "US blast simulation targets China’s alleged secret nuclear testing",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T22:38:41.000Z",
+      "summary": "The US has conducted a non-nuclear underground experiment to enhance its ability to detect low-yield nuclear explosions that it explicitly linked with a test that Washington suspects China carried out in 2020 – an accusation Beijing denies. The US Department of Energy announced on Wednesday that the National Nuclear Security Administration (NNSA) conducted a “subsurface, non-nuclear chemical high-explosive” experiment at the Nevada National Security Site, which it said aimed to “increase the...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-          "publishedAt": "2026-10-01T04:55:41.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T22:38:41.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "突发",
+        "军事与安全",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 86,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "b17fea98829fff36fbc0fa81",
+      "isContinuation": false,
+      "titleZh": "美国进行爆炸模拟，针对中国涉嫌的秘密核试验",
+      "summaryZh": "美国能源部在内华达州进行了非核地下化学高爆实验，旨在提升探测低当量核爆炸的能力。美方明确将此举与华盛顿怀疑中国在2020年进行的核试验联系起来，但北京方面对此予以否认。",
+      "whyImportant": "此举反映了美中两国在核军控与透明度问题上的持续互不信任，可能加剧双边紧张关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "eefc6793ccd54e41",
+      "title": "‘No retreat’: key Trump ally urges continued US-China engagement on rare earths",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369505/no-retreat-key-trump-ally-urges-continued-us-china-engagement-rare-earths?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T22:00:09.000Z",
+      "summary": "US Republican Senator Steve Daines, a close aide to President Donald Trump and a key interlocutor between Washington and Beijing, has called on the two capitals to stay engaged and “not retreat” over differences on issues including rare earth supply chains. Daines told the South China Morning Post that both sides still had issues that predated Chinese President Xi Jinping’s state visit to Washington last week and that they would continue working on them after the summit. “So that’s again why...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369505/no-retreat-key-trump-ally-urges-continued-us-china-engagement-rare-earths?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T22:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "国际组织",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 76,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "09642bc8df66f4206d7acdd2",
+      "isContinuation": false,
+      "titleZh": "“绝不退缩”：特朗普关键盟友敦促美中在稀土问题上保持接触",
+      "summaryZh": "特朗普总统的亲密助手、共和党参议员史蒂夫·戴恩斯呼吁美中两国在稀土供应链等分歧问题上保持接触，不要退缩。他表示，双方在习近平主席上周访问华盛顿之前就存在问题，并将继续在峰会后进行磋商。",
+      "whyImportant": "该表态显示出美国政界在对华强硬政策中仍保留了寻求务实沟通的渠道。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d4a810c583ee3de5",
+      "title": "China has dominated tungsten for decades. Can US cash in Central Asia loosen its grip?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3369599/china-has-dominated-tungsten-decades-can-us-cash-central-asia-loosen-its-grip?utm_source=rss_feed",
+      "publishedAt": "2026-10-03T01:00:14.000Z",
+      "summary": "The race to loosen China’s grip on tungsten is moving to Kazakhstan, where United States-backed mining projects are attempting to compete in an industry where Chinese investment already has an operating foothold. Global tungsten prices have surged more than 200 per cent since May 2025, according to commodity and energy information provider Argus Media, adding urgency to efforts to develop alternative supplies. The soaring costs followed Beijing’s export controls on selected tungsten products...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3369599/china-has-dominated-tungsten-decades-can-us-cash-central-asia-loosen-its-grip?utm_source=rss_feed",
+          "publishedAt": "2026-10-03T01:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 73,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "e5870f03fe973870e73429e6",
+      "isContinuation": false,
+      "titleZh": "中国垄断钨矿数十年，美国在哈萨克斯坦的投资能否打破这一局面？",
+      "summaryZh": "美国支持的采矿项目正进入哈萨克斯坦，试图在钨矿领域与中国竞争。受北京出口管制影响，全球钨价自2025年5月以来飙升超过200%，促使各国寻求替代供应源。",
+      "whyImportant": "关键矿产供应链的竞争已成为大国博弈的核心，各国正加速布局以减少对单一市场的依赖。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c860f440936a787b",
+      "title": "Taiwan hails F-16V delivery as sign US support holds after Xi-Trump summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3369584/taiwan-hails-f-16v-delivery-sign-us-support-holds-after-xi-trump-summit?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T10:00:48.000Z",
+      "summary": "Taiwan has hailed the much-delayed arrival of two F-16V fighter jets as a demonstration of continuing American military support, despite a US presidential hold put on a separate multibilllion-dollar arms package. The two single-seat aircraft, which reached Chihhang Air Base in the eastern county of Taitung on Friday, are the first new F-16s received by the island since deliveries of its original F-16A/B fleet began in 1997. Compared with the earlier versions, the F-16V configuration incorporates...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3369584/taiwan-hails-f-16v-delivery-sign-us-support-holds-after-xi-trump-summit?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T10:00:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "军事与安全",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 66,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "美国"
+      ],
+      "fingerprint": "a385354089df441c7ec291cc",
+      "isContinuation": false,
+      "titleZh": "台湾接收F-16V战机，称此举证明美方支持在习特会后依然稳固",
+      "summaryZh": "尽管美国总统对另一项数十亿美元的军售计划采取了搁置态度，但台湾仍接收了两架F-16V战斗机。这是自1997年以来台湾首次接收新型F-16战机，台方将其视为美方军事支持持续的信号。",
+      "whyImportant": "此举在美中台三方关系敏感时期，被视为美国对台军事承诺的象征性体现。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bc389681c0c9f3e3",
+      "title": "Brazil’s Lula hails ‘bold’ Chinese investors as rival pitches rare earths to Trump",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T21:04:21.000Z",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva named China as a possible partner in his critical minerals plans, three days before Sunday’s closely fought election. Lula told Flow, one of the country’s most-watched podcasts, on Thursday evening that Brazil should stop shipping out raw ore. “We want to transform them here in Brazil,” he said of the minerals. Asked whether China fit into his plans, Lula said it could be a partner “bringing technology to us”, as could the United States. “[Donald]...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T21:04:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "f71986b4eb1c1472bb4a0c2f",
+      "isContinuation": false,
+      "titleZh": "巴西总统卢拉称赞中国投资者“大胆”，同时向特朗普推销稀土",
+      "summaryZh": "巴西总统卢拉在选举前夕表示，中国可以作为合作伙伴为巴西带来矿产加工技术。同时，他也对美国表达了合作意愿，强调巴西希望改变仅出口原材料的现状。",
+      "whyImportant": "巴西在关键矿产资源开发上寻求多元化合作，反映了全球南方国家在资源开发中争取更高附加值的战略意图。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6ff10422c1f95681",
+      "title": "National Manufacturing Day, 2026",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+      "publishedAt": "2026-10-02T19:29:58.000Z",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION For 250 years, American workers have been the driving force behind our Nation’s strength, prosperity, and industrial might. Their skill, ingenuity, and determination have fueled our economy and carried American manufacturing to new heights. On National Manufacturing Day, we honor the men and women […] The post National Manufacturing Day, 2026 appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+          "publishedAt": "2026-10-02T19:29:58.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "科技",
-        "国际组织",
-        "专题·全球治理与外交"
+        "美国重点",
+        "经济",
+        "专题·美国政策与全球影响"
       ],
-      "score": 72,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "united nations"
+        "united states",
+        "american",
+        "white house",
+        "美国"
       ],
-      "fingerprint": "502e0273134660f30c946f20",
+      "fingerprint": "6fe9e6eda0cb7e58d94f529a",
       "isContinuation": false,
-      "titleZh": "内塔尼亚胡称断定迪拜航空客机事件幕后黑手尚早，迪拜航空暂停所有飞往以色列的航班",
-      "summaryZh": "以色列总理内塔尼亚胡表示，目前判断迪拜航空飞往特拉维夫的航班遇袭事件背后的主使者为时尚早。尽管以色列驻联合国大使称此事件为恐怖袭击，但尚未将其归咎于特定国家或组织。",
-      "whyImportant": "该事件引发了对航空安全及地区局势的担忧，导致迪拜航空暂停了相关航线。",
+      "titleZh": "2026年国家制造业日",
+      "summaryZh": "美国总统发布公告，纪念国家制造业日。公告强调了美国工人在过去250年里对国家工业实力和经济繁荣所做出的贡献。",
+      "whyImportant": "此举旨在重申美国政府对本土制造业复兴的重视，并以此提振国内工业信心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "afa97951d7de0551",
+      "title": "Presidential Message on National Cybersecurity Awareness Month",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+      "publishedAt": "2026-10-02T18:28:12.000Z",
+      "summary": "In an age of rapid digital advancement, cyberspace has emerged as the new frontier of American innovation, prosperity, and strength. As new technologies open doors to discovery and opportunity that were once unimaginable, a secure cyberspace is essential to ensuring that America continues to lead the world in finance, military power, emerging technology, and manufacturing. […] The post Presidential Message on National Cybersecurity Awareness Month appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+          "publishedAt": "2026-10-02T18:28:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "bd514dd4444b64bd38747190",
+      "isContinuation": false,
+      "titleZh": "总统关于国家网络安全意识月的致辞",
+      "summaryZh": "在数字技术飞速发展的时代，网络空间已成为美国创新与实力的前沿阵地。确保网络安全对于维护美国在金融、军事及制造业等领域的全球领先地位至关重要。",
+      "whyImportant": "此举强调了美国政府将网络安全视为国家战略核心，旨在应对日益复杂的数字安全挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "95f1a33dc534962f",
+      "title": "Donald Trump is planning trip to the Philippines for Asean summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369624/donald-trump-planning-trip-philippines-asean-summit?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T14:38:46.000Z",
+      "summary": "US President Donald Trump is planning to attend the Asean summit next month, the South China Morning Post understands, as Washington vies with Beijing for influence in the region. If the trip happens, Trump’s appearance at the Association of Southeast Asian Nations meeting, expected to run from November 16-18 in Manila, will be his second consecutive appearance at the gathering during this term. Trump was in Kuala Lumpur for Asean last year and in Manila for the meeting in 2017. Sources told the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369624/donald-trump-planning-trip-philippines-asean-summit?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T14:38:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "de701a507173b6e4cfc8f065",
+      "isContinuation": false,
+      "titleZh": "唐纳德·特朗普计划前往菲律宾参加东盟峰会",
+      "summaryZh": "据报道，美国总统特朗普计划出席下个月在马尼拉举行的东盟峰会。此举正值华盛顿与北京在地区影响力方面展开激烈竞争之际。",
+      "whyImportant": "特朗普的出席反映了美国试图加强在东南亚地区的外交存在，以平衡中国在该地区日益增长的影响力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "0d67d4435f0f6339",
-      "title": "Netanyahu says too early to tell who was behind plane incident as flydubai halts all flights to Israel",
+      "id": "1306da6ec538c313",
+      "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-      "publishedAt": "2026-10-01T04:55:41.000Z",
-      "summary": "Israeli prime minister cautions against early conclusions when asked if there were any signs of Iranian involvement Benjamin Netanyahu has said it was too early to tell who was ultimately behind the apparent attempt to crash a ⁠Tel Aviv-bound flydubai flight, even as Israel’s ambassador to the United Nations called the incident a “terror attack”, without apportioning blame. Danny Danon told Fox News on Wednesday night that Israel had “no doubt that it was a terror attack from a radical individual. We still cannot link it to a terror state or terror organisation, but for sure we know there was an intention to bring that plane down.” Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+      "publishedAt": "2026-10-03T02:00:46.000Z",
+      "summary": "With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east Asia Bangkok is used to absorbing the sudden afternoon downpours that inundate the city during the rainy season. Even streets in many central high-rise districts can briefly turn into rivers, with rats and cockroaches racing out of sewers and taking temporary refuge on trees and buildings as the subterranean world is flushed out. But every city has a breaking point, and this year rain fell so fast and so hard that whole neighbourhoods of the Thai capital have been transformed, not into rivers, but stagnant lakes. In parts of the city, roughly 300mm of rain – the equivalent of half a year of average rainfall in London – fell in about two days. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-          "publishedAt": "2026-10-01T04:55:41.000Z"
+          "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+          "publishedAt": "2026-10-03T02:00:46.000Z"
         }
       ],
       "sourceCount": 1,
@@ -90,82 +389,39 @@
       "tags": [
         "全球焦点",
         "突发",
-        "科技",
-        "国际组织",
-        "专题·全球治理与外交"
-      ],
-      "score": 72,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united nations"
-      ],
-      "fingerprint": "502e0273134660f30c946f20",
-      "isContinuation": false,
-      "titleZh": "内塔尼亚胡称断定迪拜航空客机事件幕后黑手尚早，迪拜航空暂停所有飞往以色列的航班",
-      "summaryZh": "以色列总理内塔尼亚胡表示，目前判断迪拜航空飞往特拉维夫的航班遇袭事件背后的主使者为时尚早。尽管以色列驻联合国大使称此事件为恐怖袭击，但尚未将其归咎于特定国家或组织。",
-      "whyImportant": "该事件引发了对航空安全及地区局势的担忧，导致迪拜航空暂停了相关航线。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "97056dc6b04e817b",
-      "title": "Australia at risk from major global financial shock, Reserve Bank warns",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
-      "publishedAt": "2026-10-01T03:32:38.000Z",
-      "summary": "Warning comes as central bank estimates fewer than one in 100 borrowers owe more on their home than its worth Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Reserve Bank says households are well placed to weather the twin storm of rising interest rates and plunging property prices, but warned that Australia would not be immune to a sudden collapse of the global AI investment boom. The central bank’s latest financial stability review – a biannual assessment of the financial system – said the “threats to global financial stability continue to mount”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
-          "publishedAt": "2026-10-01T03:32:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融",
         "军事与安全",
         "科技",
         "环境",
-        "持续关注"
+        "公共安全",
+        "国际组织"
       ],
-      "score": 70,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 72,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "51f760bf929a0500638d4cf1",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "澳大利亚储备银行警告：全球金融冲击风险加剧",
-      "summaryZh": "澳大利亚储备银行在最新的金融稳定评估中指出，全球人工智能投资热潮若突然崩溃，将对澳大利亚构成风险。尽管目前家庭财务状况尚能应对利率上升和房价下跌，但全球金融稳定面临的威胁正在增加。",
-      "whyImportant": "此警告凸显了澳大利亚经济在面对全球市场波动时的脆弱性。",
+      "fingerprint": "ae286370525370fd7707fd97",
+      "isContinuation": false,
+      "titleZh": "曼谷处于崩溃边缘：洪水将街道变成死水湖",
+      "summaryZh": "曼谷遭遇极端降雨，全市50个区宣布进入灾难状态，已造成40人死亡。短时间内降下的巨量雨水导致城市部分地区积水严重，形成大面积死水湖。",
+      "whyImportant": "此次极端天气凸显了东南亚城市在面对气候变化引发的洪涝灾害时，基础设施承受能力已达到极限。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "59ae0a38c03f62e6",
-      "title": "Indian pride swells as flydubai pilot who saved 174 lives hailed as ‘absolute hero’",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/people/article/3369424/indian-pride-swells-flydubai-pilot-who-saved-174-lives-hailed-absolute-hero?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T05:18:44.000Z",
-      "summary": "An Indian pilot’s extraordinary bravery during an apparent mid-air hijack attempt has ignited a wave of national pride, with Prime Minister Narendra Modi hailing the pilot as a hero for saving 174 lives on a flydubai plane – adding a dramatic chapter to a career that began almost by chance. Captain Smit Machchhar was critically injured after taking the brunt of a knife attack on Wednesday, but managed to open the cockpit door so crew and passengers could overpower the attacker. “Captain Smit...",
+      "id": "70f2a3c6121d0593",
+      "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+      "publishedAt": "2026-10-03T01:56:33.000Z",
+      "summary": "This live blog is now closed. Sign up for the Breaking News US email Send us your questions on how the Iran war will affect US voters in the midterms And as we bring you the latest on how the jobs report stands to impact voter sentiment ahead of the November midterms, my colleagues have done all the hard work in mapping out the battle for Congress and the key states, candidates and districts that will ultimately decide the balance of power on Capitol Hill. Many indicators of voter sentiment suggest the Democrats are favored to take back control of the House of Representatives, and potentially the Senate. Winning either would be a significant victory for the party and give it the power to block Trump’s legislative agenda and more aggressively investigate his administration. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/people/article/3369424/indian-pride-swells-flydubai-pilot-who-saved-174-lives-hailed-absolute-hero?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T05:18:44.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+          "publishedAt": "2026-10-03T01:56:33.000Z"
         }
       ],
       "sourceCount": 1,
@@ -175,36 +431,167 @@
       "tags": [
         "全球焦点",
         "突发",
-        "科技",
-        "国际组织"
+        "经济",
+        "军事与安全",
+        "能源"
       ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 72,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "fb1647e599b7a9b057c34441",
+      "fingerprint": "17309c829a1cb8c52eb0afcf",
       "isContinuation": false,
-      "titleZh": "印度飞行员拯救174名乘客被誉为“绝对英雄”，印度国内倍感自豪",
-      "summaryZh": "在迪拜航空客机遭遇劫机企图时，印度籍飞行员斯米特·马赫查尔在身受重伤的情况下，仍设法打开驾驶舱门，协助机组人员和乘客制服了袭击者。这一英勇行为挽救了174名乘客的生命，受到印度总理莫迪的赞扬。",
-      "whyImportant": "该飞行员的英勇事迹在印度引发了广泛的民族自豪感，并成为国际关注焦点。",
+      "titleZh": "特朗普威胁称，如果韩国不支付阿拉斯加天然气管道费用，将对其加倍征收关税",
+      "summaryZh": "特朗普政府对韩国提出能源基础设施费用要求，并以关税作为威胁手段。与此同时，美国国内正聚焦于中期选举，民调显示民主党有望夺回国会控制权。",
+      "whyImportant": "此举反映了特朗普政府在外交政策中将能源利益与贸易保护主义挂钩的强硬立场，可能影响美国中期选举的选情。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "58fca97d859ead1d",
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "id": "1d86a5b40dcf8ba4",
+      "title": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
+      "publishedAt": "2026-10-02T20:54:49.000Z",
+      "summary": "The Indian airline captain who helped thwart an apparent attempt to crash a Flydubai flight described on Friday how he fought for his life in the minutes after his co-pilot stabbed him and the plane began a steep descent. Captain Smit Machchhar, recovering in an Abu Dhabi hospital, told Indian Prime Minister Narendra Modi in a televised video call that he knew he had to get back on his feet to save his passengers. “I had so many wounds. I had fallen down,” he said from the hospital, his head...",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
+          "publishedAt": "2026-10-02T20:54:49.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3369612/indian-pilot-hailed-hero-recalls-flydubai-cockpit-attack?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T12:14:13.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "科技",
+        "国际组织"
+      ],
+      "score": 71,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "049ee355d76b45f61ef019c1",
+      "isContinuation": false,
+      "titleZh": "FlyDubai飞行员被誉为“民族英雄”，讲述遇袭经过",
+      "summaryZh": "一名印度籍机长在副驾驶持刀袭击并导致飞机急剧下降时，奋力反抗并成功挽救了乘客。目前该机长正在医院接受治疗，并向印度总理讲述了事发经过。",
+      "whyImportant": "该事件引发了对航空安全及飞行员背景审查机制的广泛关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "55bcc68635643929",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T03:43:06.000Z",
-      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T04:38:31.000Z",
+      "summary": "Group ⁠of Seven countries agreed on Friday to release 100 million barrels of diesel and crude oil from emergency reserves and pledged to refrain from energy export restrictions after pressure from US President Donald Trump. The US led a pressure campaign on the European Union to draw down emergency diesel inventories, with the Trump administration warning that failure to act could lead to a US ban on diesel exports. Such a ban could sharply reduce supplies to Europe, which has become...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-01T03:43:06.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-03T04:38:31.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3369626/trump-says-europe-agrees-release-diesel-stocks?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T14:51:04.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 68,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1c9289b4fed9ab00601295fc",
+      "isContinuation": false,
+      "titleZh": "在特朗普威胁后，七国集团将释放数百万桶石油和柴油储备",
+      "summaryZh": "在特朗普政府的压力下，七国集团同意释放1.05亿桶柴油和原油储备，并承诺不限制能源出口。此前美国曾警告若不配合，将对欧洲实施柴油出口禁令。",
+      "whyImportant": "此举显示了美国利用能源供应作为地缘政治筹码，迫使盟友在能源政策上与其保持一致。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bfffca8534fd9b6b",
+      "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+      "publishedAt": "2026-10-03T03:56:10.000Z",
+      "summary": "Man, most likely in Iran, was in contact with men arrested on the eve of Yom Kippur, police say Two Iranian men have been charged in relation to an alleged terror plot targeting Manchester’s Jewish community. ​Police say another man, most likely in Iran, was in contact with them as part of a plot to get a bomb to attack Jewish targets. Continue reading...",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+          "publishedAt": "2026-10-03T03:56:10.000Z"
+        },
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community",
+          "publishedAt": "2026-10-02T22:52:01.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 67,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a1fc2186128a22afcf86ece2",
+      "isContinuation": false,
+      "titleZh": "两名伊朗人因涉嫌针对英国犹太社区的阴谋被起诉",
+      "summaryZh": "英国警方逮捕了两名涉嫌策划袭击曼彻斯特犹太社区的男子。调查显示，两人与一名身处伊朗的嫌疑人保持联系，企图获取炸弹进行袭击。",
+      "whyImportant": "该案件加剧了英国国内对宗教仇恨犯罪和跨国恐怖主义威胁的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6b867a6c1ca76deb",
+      "title": "Flydubai plane attack: co-pilot previously barred from flying by Oman over extremist views",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3369644/flydubai-plane-attack-co-pilot-previously-barred-flying-oman-over-extremist-views?utm_source=rss_feed",
+      "publishedAt": "2026-10-03T04:53:37.000Z",
+      "summary": "The Flydubai co-pilot who officials said nearly crashed a Tel Aviv-bound flight with 182 people aboard was barred from flying by his native Oman over concerns he had adopted extremist views, a person familiar with the matter said on Saturday. The co-pilot was subsequently hired by the United Arab Emirates-based airline, the person said, speaking on the condition of anonymity to discuss the ongoing investigation. It was not immediately clear to what extent he was vetted when he was hired in the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3369644/flydubai-plane-attack-co-pilot-previously-barred-flying-oman-over-extremist-views?utm_source=rss_feed",
+          "publishedAt": "2026-10-03T04:53:37.000Z"
         }
       ],
       "sourceCount": 1,
@@ -214,35 +601,36 @@
       "tags": [
         "全球焦点",
         "突发",
+        "科技",
         "国际组织"
       ],
       "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "030b443f08b576517ff00032",
+      "fingerprint": "24c2a04da21f9077cea8dc7e",
       "isContinuation": false,
-      "titleZh": "以色列总理称，现在判断迪拜至特拉维夫航班袭击动机尚早",
-      "summaryZh": "以色列总理内塔尼亚胡表示，目前正在沙特阿拉伯对一名在飞往以色列的航班上刺伤另一名飞行员的嫌疑人进行调查。关于袭击的具体动机，目前尚无定论。",
-      "whyImportant": "此事件的调查进展对评估航空安全威胁及地区安全局势具有重要意义。",
+      "titleZh": "Flydubai飞机袭击事件：副驾驶曾因极端观点被阿曼禁止飞行",
+      "summaryZh": "据知情人士透露，此前试图制造坠机事故的Flydubai副驾驶，曾因持有极端观点被阿曼禁止飞行。目前尚不清楚该航空公司在招聘时对其进行了何种背景调查。",
+      "whyImportant": "该事件暴露了航空公司在飞行员背景审查和跨国信息共享方面存在的严重漏洞。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "623d60856de78119",
-      "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
-      "publishedAt": "2026-10-01T04:00:30.000Z",
-      "summary": "Some on streets of Jerusalem pledge their support to prime minister while others hope for change On the streets of Jerusalem, crowded with secular and ultra-Orthodox Jews, religious nationalists, settlers, Palestinians, and soldiers returning from deployments, uncertainty hangs over an election less than a month away that could mark a turning point for a country profoundly changed after the Hamas attacks of 7 October 2023 and nearly three years of war in Gaza, Lebanon and Iran. The political battle remains on a knife-edge. Continue reading...",
+      "id": "ad54c8b9b852b0b7",
+      "title": "Israeli air attack on Gaza City apartment kills at least five",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+      "publishedAt": "2026-10-03T02:25:23.000Z",
+      "summary": "No warning was given before the deadly Israeli attack hit Remal, one of Gaza City's most crowded neighbourhoods.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
-          "publishedAt": "2026-10-01T04:00:30.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+          "publishedAt": "2026-10-03T02:25:23.000Z"
         }
       ],
       "sourceCount": 1,
@@ -255,146 +643,32 @@
         "军事与安全"
       ],
       "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "42b415c155a7bd641ec9e29b",
+      "fingerprint": "c039c40fb09c8ab71f957591",
       "isContinuation": false,
-      "titleZh": "以色列大选临近，内塔尼亚胡面临下台风险，社会分歧加剧",
-      "summaryZh": "以色列距离可能导致内塔尼亚胡下台的大选仅剩不到一个月。在经历了长期的战争后，以色列社会在政治立场上呈现出严重的分裂状态。",
-      "whyImportant": "此次选举被视为以色列在经历多年冲突后的关键转折点，结果将深刻影响国家未来走向。",
+      "titleZh": "以色列空袭加沙城公寓，造成至少五人死亡",
+      "summaryZh": "以色列在未发出预警的情况下，对加沙城人口稠密的雷马尔社区发动了空袭。此次袭击导致一栋公寓楼被毁，造成至少五人死亡。",
+      "whyImportant": "此次袭击进一步加剧了加沙地区的人道主义危机，并引发了国际社会对平民伤亡的强烈关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "934c0dc97aee657e",
-      "title": "New Google Maps images reveal massive scale of devastation in Gaza",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
-      "publishedAt": "2026-10-01T04:00:28.000Z",
-      "summary": "Satellite imagery shows further destruction of homes, businesses and places of worship since fragile ceasefire An update to Google Maps has revealed the extent of devastation during the three-year Gaza war and the severity of the continuing humanitarian crisis faced by the territory’s 2.3 million inhabitants. The images were taken in June this year and show further destruction of homes, businesses, places of worship and infrastructure since a fragile ceasefire came into effect almost 12 months ago. Continue reading...",
+      "id": "b59cb0325f424630",
+      "title": "No more welcome mat? Japan’s tough visa rules spur foreign businesses to look elsewhere",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3369608/no-more-welcome-mat-japans-tough-visa-rules-spur-foreign-businesses-look-elsewhere?utm_source=rss_feed",
+      "publishedAt": "2026-10-03T04:00:11.000Z",
+      "summary": "Five years ago, Sarah and her husband were optimistic about Japan’s economic future and were expanding their small businesses across several sectors. Today, that optimism has been replaced by concern over a sense of hostility towards two hard-working foreigners who feel they have contributed to the society that they have worked hard to fit into. New regulations that took effect on Thursday mean the two Britons, who have been in Japan for more than 10 years, now face significantly higher costs...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
-          "publishedAt": "2026-10-01T04:00:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "54b6da6e9a977313a299d4c2",
-      "isContinuation": false,
-      "titleZh": "谷歌地图最新影像揭示加沙地带破坏规模巨大",
-      "summaryZh": "谷歌地图的最新卫星影像显示，在长达三年的加沙战争中，当地的房屋、企业、宗教场所及基础设施遭受了严重破坏。即使在停火协议生效近一年后，当地230万居民仍面临严峻的人道主义危机。",
-      "whyImportant": "这些影像直观地展示了战争对加沙地带造成的长期且深远的破坏。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4c8347fe6279063c",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
-      "publishedAt": "2026-10-01T04:00:27.000Z",
-      "summary": "Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollution Switzerland has lost almost one-fifth of its ice in just five years, research has found, in a dramatic reshaping of the Alpine country whose big white glaciers have been reduced to moonlike rock deserts, scientists say. Swiss glaciers shrank by 5.5% in the first eight months of 2026, according to an annual monitoring report, after a summer of scorching heatwaves that followed a winter with little snow. The reduction in ice volume falls just shy of the record set in 2022 and brings the total loss of glacier ice since 2021 to 19.4%. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
-          "publishedAt": "2026-10-01T04:00:27.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "79f755ca1b6bca1d3e08f013",
-      "isContinuation": false,
-      "titleZh": "“融化速度爆发”：瑞士冰川五年内消失20%",
-      "summaryZh": "研究显示，受气候变化和极端热浪影响，瑞士冰川在过去五年中损失了近五分之一的冰量。今年夏季的持续高温进一步加剧了冰川的消融，使部分地区景观发生剧变。",
-      "whyImportant": "冰川的快速消融是全球气候变暖的直接证据，对生态环境和水资源管理构成长期挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "97eb3656b72a7144",
-      "title": "Kyiv Independent editor: ‘Our readers want Russia to suffer but we can’t be propagandists’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
-      "publishedAt": "2026-10-01T04:00:26.000Z",
-      "summary": "Olga Rudenko says news site has duty to report on Russian military gains and Ukrainian corruption even if subjects are not so well read Readers of Ukraine’s leading English news site “really want Russia to suffer” but that should not lead the title to downplay the military and political problems facing Kyiv, its editor has said. Speaking to the Guardian before an event to London, Olga Rudenko said many of the Kyiv Independent’s most-read stories described Ukrainian deep strike attacks into Russia, potentially distorting its coverage. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
-          "publishedAt": "2026-10-01T04:00:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f9c6879ac7d916cdb26a15d9",
-      "isContinuation": false,
-      "titleZh": "《基辅独立报》编辑：读者希望俄罗斯受苦，但我们不能成为宣传工具",
-      "summaryZh": "《基辅独立报》编辑奥尔加·鲁坚科表示，尽管读者渴望看到俄罗斯受挫，但媒体有责任如实报道乌克兰面临的军事和政治问题。她强调，媒体不能为了迎合读者情绪而掩盖乌克兰内部的腐败或军事困境。",
-      "whyImportant": "此言论反映了战时新闻媒体在平衡民族情绪与客观报道之间所面临的职业挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "aa3821036d451e80",
-      "title": "Healey urged to offer energy support in budget as bills rise 4%",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/money/2026/oct/01/john-healey-uk-energy-bills-rise-support-budget-great-britain",
-      "publishedAt": "2026-10-01T05:00:29.000Z",
-      "summary": "Millions of people in Great Britain face increase from Thursday to an average of £1,723 a year for a typical home John Healey is under growing pressure to offer fresh energy support for households in next month’s budget as millions face a 4% rise in charges from Thursday to an average of £1,723 a year for a typical home. In his speech at Labour’s conference in Liverpool this week, the chancellor warned that the government had limited resources to cushion the worldwide economic shocks hitting Britain, while arguing his budget would have fiscal discipline at its core. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/money/2026/oct/01/john-healey-uk-energy-bills-rise-support-budget-great-britain",
-          "publishedAt": "2026-10-01T05:00:29.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3369608/no-more-welcome-mat-japans-tough-visa-rules-spur-foreign-businesses-look-elsewhere?utm_source=rss_feed",
+          "publishedAt": "2026-10-03T04:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -405,35 +679,35 @@
         "全球焦点",
         "经济",
         "军事与安全",
-        "能源"
+        "国际组织"
       ],
-      "score": 64,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "07f4f3e7060904e35fd06d50",
+      "fingerprint": "5e6eb4832e7377787d3687b6",
       "isContinuation": false,
-      "titleZh": "英国能源账单上涨4%，希利面临提供预算支持的压力",
-      "summaryZh": "从周四起，英国普通家庭的年均能源账单将上涨至1723英镑。财政大臣希利面临越来越大的压力，要求其在下个月的预算中提供新的能源补贴，尽管他强调政府财政资源有限。",
-      "whyImportant": "能源价格上涨将加剧英国民众的生活成本压力，考验政府在财政纪律与民生保障之间的平衡能力。",
+      "titleZh": "不再受欢迎？日本严苛的签证规定促使外国企业另寻他处",
+      "summaryZh": "日本近期实施的新签证法规大幅增加了长期居住外国人的成本，导致许多在日外籍人士感到被排斥。这一政策变化正促使部分外国企业和人才考虑离开日本市场。",
+      "whyImportant": "日本在试图吸引外资的同时收紧移民政策，可能对其经济增长和国际竞争力产生负面影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5979a75892caaf5c",
-      "title": "Australia news live: Anika Wells named in Time’s ‘influential rising stars’; NSW seeks to join Queensland in ‘from the river to the sea’ ban case",
+      "id": "c7e23b6250420fd8",
+      "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-      "publishedAt": "2026-10-01T05:30:06.000Z",
-      "summary": "Follow the day’s news live. Get our breaking news email, free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will provide supports to children up to 8 years old with mild to moderate autism or developmental delays. They will be made ineligible for federal aid through the NDIS in 2028. This scheme is helping Australians, particularly young Australians, get their foot in the door and achieve the dream of home ownership. When it comes to housing challenges, we’re tackling it from every angle – making it easier for first home buyers, boosting supply and helping renters get a better deal. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
+      "publishedAt": "2026-10-03T00:23:49.000Z",
+      "summary": "The epicentre was at Leongatha, 130km south-east of Melbourne, with residents reporting houses shaking just after 2am Get our breaking news email, free app or daily news podcast A magnitude 4.8 earthquake struck Victoria in the early hours of Saturday morning, shaking Melbourne and waking people across the whole region. Geoscience Australia said it detected an earthquake with a preliminary magnitude of 4.8 at 2.01am near Leongatha, 130km south-east of Melbourne, with the tremors felt across the city’s eastern suburbs. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-          "publishedAt": "2026-10-01T05:30:06.000Z"
+          "url": "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
+          "publishedAt": "2026-10-03T00:23:49.000Z"
         }
       ],
       "sourceCount": 1,
@@ -442,225 +716,292 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "突发",
+        "国际组织"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ce9cf87c2ac7b9d08eb30777",
+      "fingerprint": "6eafda91382566d33ba8aab4",
       "isContinuation": false,
-      "titleZh": "澳大利亚新闻：阿尼卡·威尔斯入选《时代》周刊“最具影响力新星”；新南威尔士州寻求加入昆士兰州的“从河流到海洋”禁令诉讼",
-      "summaryZh": "昆士兰州政府错过了加入联邦政府“茁壮成长儿童”计划的截止日期，该计划旨在为患有自闭症或发育迟缓的儿童提供支持。此外，澳大利亚政府正多管齐下应对住房挑战，以帮助首次购房者和租房者。",
-      "whyImportant": "该报道涵盖了澳大利亚在儿童福利政策执行及住房市场调控方面的最新进展，反映了政府面临的社会民生挑战。",
+      "titleZh": "维多利亚州发生4.8级地震，墨尔本震感明显",
+      "summaryZh": "维多利亚州于周六凌晨发生4.8级地震，震中位于墨尔本东南130公里的利昂加萨。当地居民在凌晨2点后感受到房屋震动，墨尔本东部郊区震感尤为明显。",
+      "whyImportant": "此次地震引发了当地居民的恐慌，并促使相关部门对震区基础设施进行安全评估。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2a19ba1cac4c609d",
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "publishedAt": "2026-10-03T00:00:00.000Z",
+      "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+          "publishedAt": "2026-10-03T00:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f53103a8c08aff1b5e28c885",
+      "isContinuation": false,
+      "titleZh": "伊朗战争直播：也门战斗升级，数百人伤亡",
+      "summaryZh": "也门境内冲突加剧，军方报告称在过去24小时内进行了474次袭击。此次行动导致1540名胡塞武装人员伤亡。",
+      "whyImportant": "也门战事的升级加剧了地区局势的不稳定性，并可能对中东地缘政治产生连锁反应。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "e74430756e897347",
-      "title": "Hong Kong’s 5-year plan underlines ‘DNA’ as a global city, market economy: John Lee",
+      "id": "d1b37a3af806d38f",
+      "title": "US blast simulation targets China’s alleged secret nuclear testing",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3369412/hong-kongs-5-year-plan-underlines-dna-global-city-market-economy-john-lee?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T04:03:58.000Z",
-      "summary": "Hong Kong’s inaugural five-year plan highlighted its DNA as an international city while emphasising the market economy, the chief executive has said. Speaking at a National Day reception on Thursday, Chief Executive John Lee Ka-chiu said the city needed a blueprint with strategic vision amid the rapidly changing geopolitical landscape and accelerated growth of AI, as he highlighted three features of the plan that was unveiled last month. “[It] adheres to the ‘one country, two systems’ principle....",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T22:38:41.000Z",
+      "summary": "The US has conducted a non-nuclear underground experiment to enhance its ability to detect low-yield nuclear explosions that it explicitly linked with a test that Washington suspects China carried out in 2020 – an accusation Beijing denies. The US Department of Energy announced on Wednesday that the National Nuclear Security Administration (NNSA) conducted a “subsurface, non-nuclear chemical high-explosive” experiment at the Nevada National Security Site, which it said aimed to “increase the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3369412/hong-kongs-5-year-plan-underlines-dna-global-city-market-economy-john-lee?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T04:03:58.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T22:38:41.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "经济",
-        "金融"
+        "美国重点",
+        "突发",
+        "军事与安全",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 86,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "b17fea98829fff36fbc0fa81",
+      "isContinuation": false,
+      "titleZh": "美国进行爆炸模拟，针对中国涉嫌的秘密核试验",
+      "summaryZh": "美国能源部在内华达州进行了非核地下化学高爆实验，旨在提升探测低当量核爆炸的能力。美方明确将此举与华盛顿怀疑中国在2020年进行的核试验联系起来，但北京方面对此予以否认。",
+      "whyImportant": "此举反映了美中两国在核军控与透明度问题上的持续互不信任，可能加剧双边紧张关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "eefc6793ccd54e41",
+      "title": "‘No retreat’: key Trump ally urges continued US-China engagement on rare earths",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369505/no-retreat-key-trump-ally-urges-continued-us-china-engagement-rare-earths?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T22:00:09.000Z",
+      "summary": "US Republican Senator Steve Daines, a close aide to President Donald Trump and a key interlocutor between Washington and Beijing, has called on the two capitals to stay engaged and “not retreat” over differences on issues including rare earth supply chains. Daines told the South China Morning Post that both sides still had issues that predated Chinese President Xi Jinping’s state visit to Washington last week and that they would continue working on them after the summit. “So that’s again why...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369505/no-retreat-key-trump-ally-urges-continued-us-china-engagement-rare-earths?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T22:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "国际组织",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 76,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "09642bc8df66f4206d7acdd2",
+      "isContinuation": false,
+      "titleZh": "“绝不退缩”：特朗普关键盟友敦促美中在稀土问题上保持接触",
+      "summaryZh": "特朗普总统的亲密助手、共和党参议员史蒂夫·戴恩斯呼吁美中两国在稀土供应链等分歧问题上保持接触，不要退缩。他表示，双方在习近平主席上周访问华盛顿之前就存在问题，并将继续在峰会后进行磋商。",
+      "whyImportant": "该表态显示出美国政界在对华强硬政策中仍保留了寻求务实沟通的渠道。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d4a810c583ee3de5",
+      "title": "China has dominated tungsten for decades. Can US cash in Central Asia loosen its grip?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3369599/china-has-dominated-tungsten-decades-can-us-cash-central-asia-loosen-its-grip?utm_source=rss_feed",
+      "publishedAt": "2026-10-03T01:00:14.000Z",
+      "summary": "The race to loosen China’s grip on tungsten is moving to Kazakhstan, where United States-backed mining projects are attempting to compete in an industry where Chinese investment already has an operating foothold. Global tungsten prices have surged more than 200 per cent since May 2025, according to commodity and energy information provider Argus Media, adding urgency to efforts to develop alternative supplies. The soaring costs followed Beijing’s export controls on selected tungsten products...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3369599/china-has-dominated-tungsten-decades-can-us-cash-central-asia-loosen-its-grip?utm_source=rss_feed",
+          "publishedAt": "2026-10-03T01:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 73,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "e5870f03fe973870e73429e6",
+      "isContinuation": false,
+      "titleZh": "中国垄断钨矿数十年，美国在哈萨克斯坦的投资能否打破这一局面？",
+      "summaryZh": "美国支持的采矿项目正进入哈萨克斯坦，试图在钨矿领域与中国竞争。受北京出口管制影响，全球钨价自2025年5月以来飙升超过200%，促使各国寻求替代供应源。",
+      "whyImportant": "关键矿产供应链的竞争已成为大国博弈的核心，各国正加速布局以减少对单一市场的依赖。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c860f440936a787b",
+      "title": "Taiwan hails F-16V delivery as sign US support holds after Xi-Trump summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3369584/taiwan-hails-f-16v-delivery-sign-us-support-holds-after-xi-trump-summit?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T10:00:48.000Z",
+      "summary": "Taiwan has hailed the much-delayed arrival of two F-16V fighter jets as a demonstration of continuing American military support, despite a US presidential hold put on a separate multibilllion-dollar arms package. The two single-seat aircraft, which reached Chihhang Air Base in the eastern county of Taitung on Friday, are the first new F-16s received by the island since deliveries of its original F-16A/B fleet began in 1997. Compared with the earlier versions, the F-16V configuration incorporates...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3369584/taiwan-hails-f-16v-delivery-sign-us-support-holds-after-xi-trump-summit?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T10:00:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "军事与安全",
+        "专题·美国政策与全球影响"
       ],
       "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "079e53aae26c51cd629181c0",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "美国"
+      ],
+      "fingerprint": "a385354089df441c7ec291cc",
       "isContinuation": false,
-      "titleZh": "李家超：香港五年规划凸显其作为国际城市和市场经济的“基因”",
-      "summaryZh": "香港行政长官李家超在国庆招待会上表示，香港的首个五年规划强调了其作为国际城市的定位及市场经济属性。他指出，面对地缘政治变化和人工智能的快速发展，香港需要具备战略愿景的蓝图。",
-      "whyImportant": "此规划旨在明确香港在复杂国际环境下的发展方向，对维持其国际金融中心地位具有战略意义。",
+      "titleZh": "台湾接收F-16V战机，称此举证明美方支持在习特会后依然稳固",
+      "summaryZh": "尽管美国总统对另一项数十亿美元的军售计划采取了搁置态度，但台湾仍接收了两架F-16V战斗机。这是自1997年以来台湾首次接收新型F-16战机，台方将其视为美方军事支持持续的信号。",
+      "whyImportant": "此举在美中台三方关系敏感时期，被视为美国对台军事承诺的象征性体现。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4c538ad368459c3a",
-      "title": "Shows, tours and film as China marks 90 years since the end of the Long March",
+      "id": "bc389681c0c9f3e3",
+      "title": "Brazil’s Lula hails ‘bold’ Chinese investors as rival pitches rare earths to Trump",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3369418/shows-tours-and-film-china-marks-90-years-end-long-march?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T04:59:40.000Z",
-      "summary": "China’s ruling Communist Party is marking 90 years since the end of the Long March with exhibitions, tours, film and television productions as it tries to mobilise the nation to contribute to its vision for the future. Ahead of the October 22 anniversary, commemorative activities are under way to promote the history of the Long March and revive its “spirit”. The Long March was an epic retreat between 1934 and 1936 by the party’s Red Army to evade Kuomintang, or Nationalist, forces during the...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T21:04:21.000Z",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva named China as a possible partner in his critical minerals plans, three days before Sunday’s closely fought election. Lula told Flow, one of the country’s most-watched podcasts, on Thursday evening that Brazil should stop shipping out raw ore. “We want to transform them here in Brazil,” he said of the minerals. Asked whether China fit into his plans, Lula said it could be a partner “bringing technology to us”, as could the United States. “[Donald]...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3369418/shows-tours-and-film-china-marks-90-years-end-long-march?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T04:59:40.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T21:04:21.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全"
+        "美国重点",
+        "科技",
+        "专题·美国政策与全球影响"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "73174ce372873ae303abe970",
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "f71986b4eb1c1472bb4a0c2f",
       "isContinuation": false,
-      "titleZh": "中国举办展览、巡演和影视活动纪念长征胜利90周年",
-      "summaryZh": "中国共产党正通过多种文化活动纪念长征胜利90周年，旨在动员全国力量实现未来愿景。相关纪念活动旨在重温长征历史并弘扬“长征精神”。",
-      "whyImportant": "通过纪念历史事件，中国政府旨在加强民族凝聚力，并为当前的国家发展目标提供精神动力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "eafdd12afdf5ac33",
-      "title": "How China became the world’s gold superpower",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3369170/how-china-became-worlds-gold-superpower?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T01:00:07.000Z",
-      "summary": "Perhaps no story illustrates the secret of China’s industrial success better than its rise as the world’s gold superpower. China has revered the metal for millennia, yet it has never had a gold-based economy. Its own deposits were simply too scarce. In 1975, as China began its economic modernisation, it desperately needed gold to fund reform and build up foreign reserves. Despite its best efforts, it produced a meagre 13.8 metric tons a year. South Africa, then the undisputed king of gold,...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3369170/how-china-became-worlds-gold-superpower?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T01:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "89f4606152fccda145fdaa7d",
-      "isContinuation": false,
-      "titleZh": "中国如何成为世界黄金超级大国",
-      "summaryZh": "中国在1975年经济现代化初期黄金产量极低，但随后通过产业发展迅速崛起。如今中国已成为全球黄金生产和消费的超级大国，这一过程反映了其工业化成功的秘诀。",
-      "whyImportant": "中国黄金产业的崛起是其经济转型和工业化进程的一个缩影，展示了国家资源整合与经济发展的能力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "87647c38e45b278b",
-      "title": "Australian man arrested in Hong Kong for allegedly carrying imitation gun",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369421/australian-man-arrested-hong-kong-allegedly-carrying-imitation-gun?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T04:54:40.000Z",
-      "summary": "Hong Kong police have arrested a foreign man at a bar in Yau Ma Tei on suspicion of possessing an imitation firearm. The 36-year-old Australian was arrested a second time on Wednesday night for criminal damage after he allegedly vandalised the detention facility while in police custody. Police were first alerted at 10.14pm on Wednesday when a passer-by reported a person behaving suspiciously near an alley at 213 Shanghai Street while carrying a gun-like object. The suspect subsequently entered a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369421/australian-man-arrested-hong-kong-allegedly-carrying-imitation-gun?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T04:54:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5db3f41dfd5409bb8963c35e",
-      "isContinuation": false,
-      "titleZh": "一名澳大利亚男子在香港因涉嫌携带仿制枪支被捕",
-      "summaryZh": "香港警方在油麻地逮捕了一名36岁的澳大利亚男子，其涉嫌携带仿制枪支。该男子在被拘留期间还因涉嫌破坏警署设施而再次被捕。",
-      "whyImportant": "该事件涉及公共安全及法律秩序，引发了对在港外籍人士行为规范的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ae0f99b97c11baf6",
-      "title": "Hong Kong journalist arrested on sedition charge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-      "publishedAt": "2026-09-30T22:16:01.000Z",
-      "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-          "publishedAt": "2026-09-30T22:16:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7689e2672551eaa8c468a082",
-      "isContinuation": false,
-      "titleZh": "香港一名记者因煽动罪被捕",
-      "summaryZh": "当局拘留了一名媒体创始人，原因涉及一段关于太子站冲突的视频。此举引发了新闻自由组织对当地媒体环境的担忧。",
-      "whyImportant": "此案涉及新闻自由与法律监管的界限，在社会舆论中引发了关于言论空间和法律执行的讨论。",
+      "titleZh": "巴西总统卢拉称赞中国投资者“大胆”，同时向特朗普推销稀土",
+      "summaryZh": "巴西总统卢拉在选举前夕表示，中国可以作为合作伙伴为巴西带来矿产加工技术。同时，他也对美国表达了合作意愿，强调巴西希望改变仅出口原材料的现状。",
+      "whyImportant": "巴西在关键矿产资源开发上寻求多元化合作，反映了全球南方国家在资源开发中争取更高附加值的战略意图。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "8959e0b84ae79e3d",
-      "title": "Religion for Thee , Not for Me : What Secularists Need to Understand about America Framers",
-      "source": "secularhumanism.org",
-      "url": "https://secularhumanism.org/2022/10/religion-for-thee-not-for-me-what-secularists-need-to-understand-about-americas-framers/",
-      "publishedAt": "2026-10-01T04:30:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
+      "id": "6ff10422c1f95681",
+      "title": "National Manufacturing Day, 2026",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+      "publishedAt": "2026-10-02T19:29:58.000Z",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION For 250 years, American workers have been the driving force behind our Nation’s strength, prosperity, and industrial might. Their skill, ingenuity, and determination have fueled our economy and carried American manufacturing to new heights. On National Manufacturing Day, we honor the men and women […] The post National Manufacturing Day, 2026 appeared first on The White House.",
+      "language": "",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "secularhumanism.org",
-          "url": "https://secularhumanism.org/2022/10/religion-for-thee-not-for-me-what-secularists-need-to-understand-about-americas-framers/",
-          "publishedAt": "2026-10-01T04:30:00.000Z"
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+          "publishedAt": "2026-10-02T19:29:58.000Z"
         }
       ],
       "sourceCount": 1,
@@ -668,35 +1009,85 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "经济",
+        "专题·美国政策与全球影响"
       ],
-      "score": 54,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b8b7f5fbdbfa86ad3c5a120d",
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "6fe9e6eda0cb7e58d94f529a",
       "isContinuation": false,
-      "titleZh": "“宗教是你们的，不是我的”：世俗主义者需要了解美国开国元勋的哪些观点",
-      "summaryZh": "本文探讨了美国开国元勋在宗教与世俗主义问题上的复杂立场。文章旨在分析世俗主义者在理解美国建国原则时常被忽视的历史背景。",
-      "whyImportant": "深入探讨美国建国者的宗教观有助于理解当代美国政治中宗教与国家关系的争论。",
+      "titleZh": "2026年国家制造业日",
+      "summaryZh": "美国总统发布公告，纪念国家制造业日。公告强调了美国工人在过去250年里对国家工业实力和经济繁荣所做出的贡献。",
+      "whyImportant": "此举旨在重申美国政府对本土制造业复兴的重视，并以此提振国内工业信心。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "40c112ae08135e43",
-      "title": "战争第七个月 ： 革命卫队给美国写26页长信 ， 伊朗一边等待美国答复一边说狠话 ， 中国使馆国庆招待会见证中伊联系如何延续",
-      "source": "original.ifeng.com",
-      "url": "https://original.ifeng.com/c/8wqQr12iu8E",
-      "publishedAt": "2026-09-30T11:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "afa97951d7de0551",
+      "title": "Presidential Message on National Cybersecurity Awareness Month",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+      "publishedAt": "2026-10-02T18:28:12.000Z",
+      "summary": "In an age of rapid digital advancement, cyberspace has emerged as the new frontier of American innovation, prosperity, and strength. As new technologies open doors to discovery and opportunity that were once unimaginable, a secure cyberspace is essential to ensuring that America continues to lead the world in finance, military power, emerging technology, and manufacturing. […] The post Presidential Message on National Cybersecurity Awareness Month appeared first on The White House.",
+      "language": "",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "original.ifeng.com",
-          "url": "https://original.ifeng.com/c/8wqQr12iu8E",
-          "publishedAt": "2026-09-30T11:15:00.000Z"
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+          "publishedAt": "2026-10-02T18:28:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "bd514dd4444b64bd38747190",
+      "isContinuation": false,
+      "titleZh": "总统关于国家网络安全意识月的致辞",
+      "summaryZh": "在数字技术飞速发展的时代，网络空间已成为美国创新与实力的前沿阵地。确保网络安全对于维护美国在金融、军事及制造业等领域的全球领先地位至关重要。",
+      "whyImportant": "此举强调了美国政府将网络安全视为国家战略核心，旨在应对日益复杂的数字安全挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "95f1a33dc534962f",
+      "title": "Donald Trump is planning trip to the Philippines for Asean summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369624/donald-trump-planning-trip-philippines-asean-summit?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T14:38:46.000Z",
+      "summary": "US President Donald Trump is planning to attend the Asean summit next month, the South China Morning Post understands, as Washington vies with Beijing for influence in the region. If the trip happens, Trump’s appearance at the Association of Southeast Asian Nations meeting, expected to run from November 16-18 in Manila, will be his second consecutive appearance at the gathering during this term. Trump was in Kuala Lumpur for Asean last year and in Manila for the meeting in 2017. Sources told the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369624/donald-trump-planning-trip-philippines-asean-summit?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T14:38:46.000Z"
         }
       ],
       "sourceCount": 1,
@@ -706,71 +1097,82 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "军事与安全"
+        "外交",
+        "专题·美国政策与全球影响"
       ],
-      "score": 51,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b10cdc4f2d7419e630e7d1b7",
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "de701a507173b6e4cfc8f065",
       "isContinuation": false,
-      "titleZh": "战争第七个月：革命卫队致信美国，伊朗在等待答复的同时发表强硬言论，中国使馆国庆招待会见证中伊关系延续",
-      "summaryZh": "在冲突进入第七个月之际，伊朗革命卫队向美国发送了一封长达26页的信件。伊朗方面在等待美方回应的同时，继续对外发表强硬立场，并借中国国庆招待会强调中伊关系的持续性。",
-      "whyImportant": "此举反映了伊朗在当前地缘政治紧张局势下，试图通过外交与强硬姿态并行的策略来应对美国压力，并巩固与中国的战略联系。",
+      "titleZh": "唐纳德·特朗普计划前往菲律宾参加东盟峰会",
+      "summaryZh": "据报道，美国总统特朗普计划出席下个月在马尼拉举行的东盟峰会。此举正值华盛顿与北京在地区影响力方面展开激烈竞争之际。",
+      "whyImportant": "特朗普的出席反映了美国试图加强在东南亚地区的外交存在，以平衡中国在该地区日益增长的影响力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "59d202033388e55b",
-      "title": "Americas Shield : Investments at the Expense of Chile Sovereignty",
-      "source": "elciudadano.com",
-      "url": "https://www.elciudadano.com/en/americas-shield-investments-at-the-expense-of-chiles-sovereignty/09/30/",
-      "publishedAt": "2026-09-30T21:30:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
+      "id": "f2ee3db7db7d3050",
+      "title": "China’s C919 jet faces further delivery delays amid US export chill: analysts",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3369588/chinas-c919-jet-faces-further-delivery-delays-amid-us-export-chill-analysts?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T13:00:09.000Z",
+      "summary": "A reported move by the United States to restrict exports of aircraft parts to China would place another speed bump on production of the C919 – a Chinese passenger jet designed to compete with Airbus and Boeing – as alternative sources of critical components for the plane are not readily available, according to analysts. The US Commerce Department has slowed export licensing for civilian aeroplane parts to China in recent weeks to strengthen Washington’s position in trade talks with Beijing,...",
+      "language": "",
+      "region": "china",
       "crossSources": [
         {
-          "source": "elciudadano.com",
-          "url": "https://www.elciudadano.com/en/americas-shield-investments-at-the-expense-of-chiles-sovereignty/09/30/",
-          "publishedAt": "2026-09-30T21:30:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3369588/chinas-c919-jet-faces-further-delivery-delays-amid-us-export-chill-analysts?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T13:00:09.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "中国重点",
+        "美国重点",
+        "经济",
+        "专题·美国政策与全球影响"
       ],
-      "score": 48,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "db1f8f2f94a0e6f25140f450",
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "64da48f06b0f161f90e4cd4a",
       "isContinuation": false,
-      "titleZh": "美国的盾牌：以牺牲智利主权为代价的投资",
-      "summaryZh": "该报道探讨了美国在智利的投资活动，并对其是否损害了智利国家主权提出了质疑。文章分析了外国资本介入对当地政治与经济自主权可能产生的影响。",
-      "whyImportant": "这引发了关于跨国投资与国家主权之间平衡的讨论，反映了拉美国家对外部经济影响力日益增长的担忧。",
+      "titleZh": "分析人士：受美国出口限制影响，中国C919客机交付面临进一步延误",
+      "summaryZh": "美国近期放缓了对华民用飞机零部件的出口许可审批，这给中国C919客机的生产带来了阻碍。由于缺乏现成的替代零部件来源，该机型的交付进度可能受到影响。",
+      "whyImportant": "此举显示了美国利用贸易政策作为谈判筹码，对中国航空制造业的供应链稳定性构成了直接挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8a0a96ab357b237b",
-      "title": "ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa",
+      "id": "6f70b946f18d8e9a",
+      "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors",
       "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
-      "publishedAt": "2026-09-30T17:10:17.000Z",
-      "summary": "President Donald J. Trump announced a $15 billion Mesabi Metallics steel complex is coming to Iowa — the largest steel plant ever built in the United States as more industrial capacity comes home. The project will create 1,750 new, permanent jobs, support up to 6,000 construction jobs, and generate an estimated $95 billion in U.S. […] The post ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa appeared first on The White House.",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
+      "publishedAt": "2026-10-03T03:01:43.000Z",
+      "summary": "IMPROVING MEDICARE FOR SENIORS: Today, President Donald J. Trump announced that the federal government will be making one-time payments of $90 per person to help more than 20 million enrollees pay for their Medicare Part B premiums. HISTORIC ACTION TO HELP SENIOR CITIZENS: With this action, President Trump is the first President to ever use the Medicare […] The post Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors appeared first on The White House.",
       "language": "",
       "region": "usa",
       "crossSources": [
         {
           "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
-          "publishedAt": "2026-09-30T17:10:17.000Z"
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
+          "publishedAt": "2026-10-03T03:01:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -778,815 +1180,41 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "专题·美国政策与全球影响"
       ],
-      "score": 48,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c487020209d8cae467b790f9",
+      "score": 64,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "15cb5e8811a88b3d739b1757",
       "isContinuation": false,
-      "titleZh": "特朗普总统宣布美国史上最大的钢铁厂落户艾奥瓦州",
-      "summaryZh": "特朗普总统宣布投资150亿美元在艾奥瓦州建设Mesabi Metallics钢铁综合体，这将是美国有史以来规模最大的钢铁厂。该项目预计将创造1750个永久性就业岗位，并支持多达6000个建筑岗位。",
-      "whyImportant": "此举旨在通过推动工业产能回流美国，以促进国内就业增长和经济发展。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7d6869a86016972e",
-      "title": "Congressional Bill S. 2398 Signed into Law",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
-      "publishedAt": "2026-09-30T16:17:26.000Z",
-      "summary": "On Wednesday, September 30, 2026, the President signed into law: S. 2398, the “Kay Hagan Tick Reauthorization Act,” which reauthorizes through Fiscal Year 2030, activities to address vector-borne diseases. The post Congressional Bill S. 2398 Signed into Law appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
-          "publishedAt": "2026-09-30T16:17:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 47,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9523009e9747663b41b3dd95",
-      "isContinuation": false,
-      "titleZh": "国会法案 S. 2398 正式签署成为法律",
-      "summaryZh": "美国总统签署了《凯·哈根蜱虫防治再授权法案》（S. 2398），该法案将相关防治媒介传播疾病的活动授权延长至2030财年。此举旨在确保持续应对公共卫生领域的威胁。",
-      "whyImportant": "该法案的签署为美国应对蜱虫等媒介传播疾病提供了长期的法律保障和资金支持。",
+      "titleZh": "情况说明书：唐纳德·特朗普总统宣布为老年人提供医疗保险改善基金支付",
+      "summaryZh": "特朗普总统宣布联邦政府将向超过2000万名医疗保险受益人每人发放90美元，以帮助支付医疗保险B部分的保费。这是美国历史上首次动用该基金直接补贴老年人。",
+      "whyImportant": "此政策旨在通过直接经济补贴减轻老年人的医疗负担，具有显著的民生与政治意义。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "f9039bf9dcb11db4",
-      "title": "Australian couple among passengers on diverted flydubai flight to Israel, embassy says",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
-      "publishedAt": "2026-10-01T05:14:08.000Z",
-      "summary": "Israeli embassy says the Sydney couple were on board flight that was dramatically diverted after one pilot allegedly stabbed the other Two Australian citizens were onboard a flight to Tel Aviv that was diverted after one of the pilots allegedly stabbed the other in an attack, according to the Israeli embassy. The passengers are a Jewish couple from Sydney, the embassy in Australia confirmed to the Guardian on Thursday. No further details were provided. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
-          "publishedAt": "2026-10-01T05:14:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "科技"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e0c50b4dd3128f9d834d9d38",
-      "isContinuation": false,
-      "titleZh": "以色列大使馆称，一对澳大利亚夫妇在飞往以色列的改道航班上",
-      "summaryZh": "一架飞往特拉维夫的迪拜航空航班因一名飞行员涉嫌刺伤另一名飞行员而被迫改道。以色列大使馆证实，一对来自悉尼的犹太夫妇当时在机上。",
-      "whyImportant": "这起罕见的飞行安全事件引发了国际关注，并对航空安全管理提出了严峻挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "673568cf6776cc15",
-      "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
+      "id": "7b43b81ea2a8e6f5",
+      "title": "Latin America sees China as more positive global influence than US: Poll",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
-      "publishedAt": "2026-10-01T04:16:19.000Z",
-      "summary": "Kabul says the strikes on Kunar and Helmand provinces killed nine women and children.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss",
+      "publishedAt": "2026-10-02T20:52:29.000Z",
+      "summary": "Annual Latinobarometro survey finds views of China’s influence improving as perceptions of US influence worsen.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
-          "publishedAt": "2026-10-01T04:16:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "625e322aef7bed7d84949105",
-      "isContinuation": false,
-      "titleZh": "巴基斯坦称在对阿富汗的空袭中击毙22名武装分子",
-      "summaryZh": "巴基斯坦对阿富汗库纳尔省和赫尔曼德省发动了空袭，声称击毙了22名武装分子。喀布尔方面则指责这些袭击造成了9名妇女和儿童死亡。",
-      "whyImportant": "此次跨境军事行动加剧了巴基斯坦与阿富汗塔利班政府之间的紧张关系，并引发了关于平民伤亡的人道主义担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4cb6451c6afda435",
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T05:34:41.000Z",
-      "summary": "Christa Pike, sentenced to death over 1995 murder, was heard snoring 40 minutes after lethal doses administered, witnesses said Tennessee officials were unable to carry out the execution of Christa Pike despite her being administered two doses of a lethal injection drug, her lawyers said, adding that she had been taken to hospital in an ambulance. Her attorneys told a local news station “this has turned into agony and a violation of Pike’s right to be executed free of cruel and unusual punishment.” Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-01T05:34:41.000Z"
-        },
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
-          "publishedAt": "2026-10-01T03:53:11.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9a2201e6390423e73182a124",
-      "isContinuation": false,
-      "titleZh": "律师称美国死囚克里斯塔·派克在两次注射死刑后幸存并被送往医院",
-      "summaryZh": "因1995年谋杀案被判死刑的克里斯塔·派克在接受两次致命注射后仍有生命迹象，随后被送往医院。其律师认为执行过程出现严重失误，构成了残酷且不寻常的惩罚。",
-      "whyImportant": "该事件引发了关于死刑执行程序合法性及人道主义标准的广泛争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "more": [],
-  "metadata": {
-    "fetched": 252,
-    "deduplicated": 224,
-    "selected": 23,
-    "translated": 23,
-    "untranslated": 0,
-    "minimumRequired": 21,
-    "featured": 1,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
-    {
-      "id": "0d67d4435f0f6339",
-      "title": "Netanyahu says too early to tell who was behind plane incident as flydubai halts all flights to Israel",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-      "publishedAt": "2026-10-01T04:55:41.000Z",
-      "summary": "Israeli prime minister cautions against early conclusions when asked if there were any signs of Iranian involvement Benjamin Netanyahu has said it was too early to tell who was ultimately behind the apparent attempt to crash a ⁠Tel Aviv-bound flydubai flight, even as Israel’s ambassador to the United Nations called the incident a “terror attack”, without apportioning blame. Danny Danon told Fox News on Wednesday night that Israel had “no doubt that it was a terror attack from a radical individual. We still cannot link it to a terror state or terror organisation, but for sure we know there was an intention to bring that plane down.” Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-          "publishedAt": "2026-10-01T04:55:41.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "科技",
-        "国际组织",
-        "专题·全球治理与外交"
-      ],
-      "score": 72,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united nations"
-      ],
-      "fingerprint": "502e0273134660f30c946f20",
-      "isContinuation": false,
-      "titleZh": "内塔尼亚胡称断定迪拜航空客机事件幕后黑手尚早，迪拜航空暂停所有飞往以色列的航班",
-      "summaryZh": "以色列总理内塔尼亚胡表示，目前判断迪拜航空飞往特拉维夫的航班遇袭事件背后的主使者为时尚早。尽管以色列驻联合国大使称此事件为恐怖袭击，但尚未将其归咎于特定国家或组织。",
-      "whyImportant": "该事件引发了对航空安全及地区局势的担忧，导致迪拜航空暂停了相关航线。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "97056dc6b04e817b",
-      "title": "Australia at risk from major global financial shock, Reserve Bank warns",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
-      "publishedAt": "2026-10-01T03:32:38.000Z",
-      "summary": "Warning comes as central bank estimates fewer than one in 100 borrowers owe more on their home than its worth Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Reserve Bank says households are well placed to weather the twin storm of rising interest rates and plunging property prices, but warned that Australia would not be immune to a sudden collapse of the global AI investment boom. The central bank’s latest financial stability review – a biannual assessment of the financial system – said the “threats to global financial stability continue to mount”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
-          "publishedAt": "2026-10-01T03:32:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融",
-        "军事与安全",
-        "科技",
-        "环境",
-        "持续关注"
-      ],
-      "score": 70,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "51f760bf929a0500638d4cf1",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "澳大利亚储备银行警告：全球金融冲击风险加剧",
-      "summaryZh": "澳大利亚储备银行在最新的金融稳定评估中指出，全球人工智能投资热潮若突然崩溃，将对澳大利亚构成风险。尽管目前家庭财务状况尚能应对利率上升和房价下跌，但全球金融稳定面临的威胁正在增加。",
-      "whyImportant": "此警告凸显了澳大利亚经济在面对全球市场波动时的脆弱性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "59ae0a38c03f62e6",
-      "title": "Indian pride swells as flydubai pilot who saved 174 lives hailed as ‘absolute hero’",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/people/article/3369424/indian-pride-swells-flydubai-pilot-who-saved-174-lives-hailed-absolute-hero?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T05:18:44.000Z",
-      "summary": "An Indian pilot’s extraordinary bravery during an apparent mid-air hijack attempt has ignited a wave of national pride, with Prime Minister Narendra Modi hailing the pilot as a hero for saving 174 lives on a flydubai plane – adding a dramatic chapter to a career that began almost by chance. Captain Smit Machchhar was critically injured after taking the brunt of a knife attack on Wednesday, but managed to open the cockpit door so crew and passengers could overpower the attacker. “Captain Smit...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/people/article/3369424/indian-pride-swells-flydubai-pilot-who-saved-174-lives-hailed-absolute-hero?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T05:18:44.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "科技",
-        "国际组织"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "fb1647e599b7a9b057c34441",
-      "isContinuation": false,
-      "titleZh": "印度飞行员拯救174名乘客被誉为“绝对英雄”，印度国内倍感自豪",
-      "summaryZh": "在迪拜航空客机遭遇劫机企图时，印度籍飞行员斯米特·马赫查尔在身受重伤的情况下，仍设法打开驾驶舱门，协助机组人员和乘客制服了袭击者。这一英勇行为挽救了174名乘客的生命，受到印度总理莫迪的赞扬。",
-      "whyImportant": "该飞行员的英勇事迹在印度引发了广泛的民族自豪感，并成为国际关注焦点。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "58fca97d859ead1d",
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T03:43:06.000Z",
-      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-01T03:43:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "030b443f08b576517ff00032",
-      "isContinuation": false,
-      "titleZh": "以色列总理称，现在判断迪拜至特拉维夫航班袭击动机尚早",
-      "summaryZh": "以色列总理内塔尼亚胡表示，目前正在沙特阿拉伯对一名在飞往以色列的航班上刺伤另一名飞行员的嫌疑人进行调查。关于袭击的具体动机，目前尚无定论。",
-      "whyImportant": "此事件的调查进展对评估航空安全威胁及地区安全局势具有重要意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "623d60856de78119",
-      "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
-      "publishedAt": "2026-10-01T04:00:30.000Z",
-      "summary": "Some on streets of Jerusalem pledge their support to prime minister while others hope for change On the streets of Jerusalem, crowded with secular and ultra-Orthodox Jews, religious nationalists, settlers, Palestinians, and soldiers returning from deployments, uncertainty hangs over an election less than a month away that could mark a turning point for a country profoundly changed after the Hamas attacks of 7 October 2023 and nearly three years of war in Gaza, Lebanon and Iran. The political battle remains on a knife-edge. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
-          "publishedAt": "2026-10-01T04:00:30.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "42b415c155a7bd641ec9e29b",
-      "isContinuation": false,
-      "titleZh": "以色列大选临近，内塔尼亚胡面临下台风险，社会分歧加剧",
-      "summaryZh": "以色列距离可能导致内塔尼亚胡下台的大选仅剩不到一个月。在经历了长期的战争后，以色列社会在政治立场上呈现出严重的分裂状态。",
-      "whyImportant": "此次选举被视为以色列在经历多年冲突后的关键转折点，结果将深刻影响国家未来走向。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "934c0dc97aee657e",
-      "title": "New Google Maps images reveal massive scale of devastation in Gaza",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
-      "publishedAt": "2026-10-01T04:00:28.000Z",
-      "summary": "Satellite imagery shows further destruction of homes, businesses and places of worship since fragile ceasefire An update to Google Maps has revealed the extent of devastation during the three-year Gaza war and the severity of the continuing humanitarian crisis faced by the territory’s 2.3 million inhabitants. The images were taken in June this year and show further destruction of homes, businesses, places of worship and infrastructure since a fragile ceasefire came into effect almost 12 months ago. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
-          "publishedAt": "2026-10-01T04:00:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "54b6da6e9a977313a299d4c2",
-      "isContinuation": false,
-      "titleZh": "谷歌地图最新影像揭示加沙地带破坏规模巨大",
-      "summaryZh": "谷歌地图的最新卫星影像显示，在长达三年的加沙战争中，当地的房屋、企业、宗教场所及基础设施遭受了严重破坏。即使在停火协议生效近一年后，当地230万居民仍面临严峻的人道主义危机。",
-      "whyImportant": "这些影像直观地展示了战争对加沙地带造成的长期且深远的破坏。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4c8347fe6279063c",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
-      "publishedAt": "2026-10-01T04:00:27.000Z",
-      "summary": "Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollution Switzerland has lost almost one-fifth of its ice in just five years, research has found, in a dramatic reshaping of the Alpine country whose big white glaciers have been reduced to moonlike rock deserts, scientists say. Swiss glaciers shrank by 5.5% in the first eight months of 2026, according to an annual monitoring report, after a summer of scorching heatwaves that followed a winter with little snow. The reduction in ice volume falls just shy of the record set in 2022 and brings the total loss of glacier ice since 2021 to 19.4%. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
-          "publishedAt": "2026-10-01T04:00:27.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "国际组织"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "79f755ca1b6bca1d3e08f013",
-      "isContinuation": false,
-      "titleZh": "“融化速度爆发”：瑞士冰川五年内消失20%",
-      "summaryZh": "研究显示，受气候变化和极端热浪影响，瑞士冰川在过去五年中损失了近五分之一的冰量。今年夏季的持续高温进一步加剧了冰川的消融，使部分地区景观发生剧变。",
-      "whyImportant": "冰川的快速消融是全球气候变暖的直接证据，对生态环境和水资源管理构成长期挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "97eb3656b72a7144",
-      "title": "Kyiv Independent editor: ‘Our readers want Russia to suffer but we can’t be propagandists’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
-      "publishedAt": "2026-10-01T04:00:26.000Z",
-      "summary": "Olga Rudenko says news site has duty to report on Russian military gains and Ukrainian corruption even if subjects are not so well read Readers of Ukraine’s leading English news site “really want Russia to suffer” but that should not lead the title to downplay the military and political problems facing Kyiv, its editor has said. Speaking to the Guardian before an event to London, Olga Rudenko said many of the Kyiv Independent’s most-read stories described Ukrainian deep strike attacks into Russia, potentially distorting its coverage. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
-          "publishedAt": "2026-10-01T04:00:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f9c6879ac7d916cdb26a15d9",
-      "isContinuation": false,
-      "titleZh": "《基辅独立报》编辑：读者希望俄罗斯受苦，但我们不能成为宣传工具",
-      "summaryZh": "《基辅独立报》编辑奥尔加·鲁坚科表示，尽管读者渴望看到俄罗斯受挫，但媒体有责任如实报道乌克兰面临的军事和政治问题。她强调，媒体不能为了迎合读者情绪而掩盖乌克兰内部的腐败或军事困境。",
-      "whyImportant": "此言论反映了战时新闻媒体在平衡民族情绪与客观报道之间所面临的职业挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "aa3821036d451e80",
-      "title": "Healey urged to offer energy support in budget as bills rise 4%",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/money/2026/oct/01/john-healey-uk-energy-bills-rise-support-budget-great-britain",
-      "publishedAt": "2026-10-01T05:00:29.000Z",
-      "summary": "Millions of people in Great Britain face increase from Thursday to an average of £1,723 a year for a typical home John Healey is under growing pressure to offer fresh energy support for households in next month’s budget as millions face a 4% rise in charges from Thursday to an average of £1,723 a year for a typical home. In his speech at Labour’s conference in Liverpool this week, the chancellor warned that the government had limited resources to cushion the worldwide economic shocks hitting Britain, while arguing his budget would have fiscal discipline at its core. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/money/2026/oct/01/john-healey-uk-energy-bills-rise-support-budget-great-britain",
-          "publishedAt": "2026-10-01T05:00:29.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "能源"
-      ],
-      "score": 64,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "07f4f3e7060904e35fd06d50",
-      "isContinuation": false,
-      "titleZh": "英国能源账单上涨4%，希利面临提供预算支持的压力",
-      "summaryZh": "从周四起，英国普通家庭的年均能源账单将上涨至1723英镑。财政大臣希利面临越来越大的压力，要求其在下个月的预算中提供新的能源补贴，尽管他强调政府财政资源有限。",
-      "whyImportant": "能源价格上涨将加剧英国民众的生活成本压力，考验政府在财政纪律与民生保障之间的平衡能力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5979a75892caaf5c",
-      "title": "Australia news live: Anika Wells named in Time’s ‘influential rising stars’; NSW seeks to join Queensland in ‘from the river to the sea’ ban case",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-      "publishedAt": "2026-10-01T05:30:06.000Z",
-      "summary": "Follow the day’s news live. Get our breaking news email, free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will provide supports to children up to 8 years old with mild to moderate autism or developmental delays. They will be made ineligible for federal aid through the NDIS in 2028. This scheme is helping Australians, particularly young Australians, get their foot in the door and achieve the dream of home ownership. When it comes to housing challenges, we’re tackling it from every angle – making it easier for first home buyers, boosting supply and helping renters get a better deal. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-          "publishedAt": "2026-10-01T05:30:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ce9cf87c2ac7b9d08eb30777",
-      "isContinuation": false,
-      "titleZh": "澳大利亚新闻：阿尼卡·威尔斯入选《时代》周刊“最具影响力新星”；新南威尔士州寻求加入昆士兰州的“从河流到海洋”禁令诉讼",
-      "summaryZh": "昆士兰州政府错过了加入联邦政府“茁壮成长儿童”计划的截止日期，该计划旨在为患有自闭症或发育迟缓的儿童提供支持。此外，澳大利亚政府正多管齐下应对住房挑战，以帮助首次购房者和租房者。",
-      "whyImportant": "该报道涵盖了澳大利亚在儿童福利政策执行及住房市场调控方面的最新进展，反映了政府面临的社会民生挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e74430756e897347",
-      "title": "Hong Kong’s 5-year plan underlines ‘DNA’ as a global city, market economy: John Lee",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3369412/hong-kongs-5-year-plan-underlines-dna-global-city-market-economy-john-lee?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T04:03:58.000Z",
-      "summary": "Hong Kong’s inaugural five-year plan highlighted its DNA as an international city while emphasising the market economy, the chief executive has said. Speaking at a National Day reception on Thursday, Chief Executive John Lee Ka-chiu said the city needed a blueprint with strategic vision amid the rapidly changing geopolitical landscape and accelerated growth of AI, as he highlighted three features of the plan that was unveiled last month. “[It] adheres to the ‘one country, two systems’ principle....",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3369412/hong-kongs-5-year-plan-underlines-dna-global-city-market-economy-john-lee?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T04:03:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "金融"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "079e53aae26c51cd629181c0",
-      "isContinuation": false,
-      "titleZh": "李家超：香港五年规划凸显其作为国际城市和市场经济的“基因”",
-      "summaryZh": "香港行政长官李家超在国庆招待会上表示，香港的首个五年规划强调了其作为国际城市的定位及市场经济属性。他指出，面对地缘政治变化和人工智能的快速发展，香港需要具备战略愿景的蓝图。",
-      "whyImportant": "此规划旨在明确香港在复杂国际环境下的发展方向，对维持其国际金融中心地位具有战略意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4c538ad368459c3a",
-      "title": "Shows, tours and film as China marks 90 years since the end of the Long March",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3369418/shows-tours-and-film-china-marks-90-years-end-long-march?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T04:59:40.000Z",
-      "summary": "China’s ruling Communist Party is marking 90 years since the end of the Long March with exhibitions, tours, film and television productions as it tries to mobilise the nation to contribute to its vision for the future. Ahead of the October 22 anniversary, commemorative activities are under way to promote the history of the Long March and revive its “spirit”. The Long March was an epic retreat between 1934 and 1936 by the party’s Red Army to evade Kuomintang, or Nationalist, forces during the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3369418/shows-tours-and-film-china-marks-90-years-end-long-march?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T04:59:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "73174ce372873ae303abe970",
-      "isContinuation": false,
-      "titleZh": "中国举办展览、巡演和影视活动纪念长征胜利90周年",
-      "summaryZh": "中国共产党正通过多种文化活动纪念长征胜利90周年，旨在动员全国力量实现未来愿景。相关纪念活动旨在重温长征历史并弘扬“长征精神”。",
-      "whyImportant": "通过纪念历史事件，中国政府旨在加强民族凝聚力，并为当前的国家发展目标提供精神动力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "eafdd12afdf5ac33",
-      "title": "How China became the world’s gold superpower",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3369170/how-china-became-worlds-gold-superpower?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T01:00:07.000Z",
-      "summary": "Perhaps no story illustrates the secret of China’s industrial success better than its rise as the world’s gold superpower. China has revered the metal for millennia, yet it has never had a gold-based economy. Its own deposits were simply too scarce. In 1975, as China began its economic modernisation, it desperately needed gold to fund reform and build up foreign reserves. Despite its best efforts, it produced a meagre 13.8 metric tons a year. South Africa, then the undisputed king of gold,...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3369170/how-china-became-worlds-gold-superpower?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T01:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "89f4606152fccda145fdaa7d",
-      "isContinuation": false,
-      "titleZh": "中国如何成为世界黄金超级大国",
-      "summaryZh": "中国在1975年经济现代化初期黄金产量极低，但随后通过产业发展迅速崛起。如今中国已成为全球黄金生产和消费的超级大国，这一过程反映了其工业化成功的秘诀。",
-      "whyImportant": "中国黄金产业的崛起是其经济转型和工业化进程的一个缩影，展示了国家资源整合与经济发展的能力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "87647c38e45b278b",
-      "title": "Australian man arrested in Hong Kong for allegedly carrying imitation gun",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369421/australian-man-arrested-hong-kong-allegedly-carrying-imitation-gun?utm_source=rss_feed",
-      "publishedAt": "2026-10-01T04:54:40.000Z",
-      "summary": "Hong Kong police have arrested a foreign man at a bar in Yau Ma Tei on suspicion of possessing an imitation firearm. The 36-year-old Australian was arrested a second time on Wednesday night for criminal damage after he allegedly vandalised the detention facility while in police custody. Police were first alerted at 10.14pm on Wednesday when a passer-by reported a person behaving suspiciously near an alley at 213 Shanghai Street while carrying a gun-like object. The suspect subsequently entered a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369421/australian-man-arrested-hong-kong-allegedly-carrying-imitation-gun?utm_source=rss_feed",
-          "publishedAt": "2026-10-01T04:54:40.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5db3f41dfd5409bb8963c35e",
-      "isContinuation": false,
-      "titleZh": "一名澳大利亚男子在香港因涉嫌携带仿制枪支被捕",
-      "summaryZh": "香港警方在油麻地逮捕了一名36岁的澳大利亚男子，其涉嫌携带仿制枪支。该男子在被拘留期间还因涉嫌破坏警署设施而再次被捕。",
-      "whyImportant": "该事件涉及公共安全及法律秩序，引发了对在港外籍人士行为规范的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ae0f99b97c11baf6",
-      "title": "Hong Kong journalist arrested on sedition charge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-      "publishedAt": "2026-09-30T22:16:01.000Z",
-      "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-          "publishedAt": "2026-09-30T22:16:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7689e2672551eaa8c468a082",
-      "isContinuation": false,
-      "titleZh": "香港一名记者因煽动罪被捕",
-      "summaryZh": "当局拘留了一名媒体创始人，原因涉及一段关于太子站冲突的视频。此举引发了新闻自由组织对当地媒体环境的担忧。",
-      "whyImportant": "此案涉及新闻自由与法律监管的界限，在社会舆论中引发了关于言论空间和法律执行的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8959e0b84ae79e3d",
-      "title": "Religion for Thee , Not for Me : What Secularists Need to Understand about America Framers",
-      "source": "secularhumanism.org",
-      "url": "https://secularhumanism.org/2022/10/religion-for-thee-not-for-me-what-secularists-need-to-understand-about-americas-framers/",
-      "publishedAt": "2026-10-01T04:30:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "secularhumanism.org",
-          "url": "https://secularhumanism.org/2022/10/religion-for-thee-not-for-me-what-secularists-need-to-understand-about-americas-framers/",
-          "publishedAt": "2026-10-01T04:30:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 54,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b8b7f5fbdbfa86ad3c5a120d",
-      "isContinuation": false,
-      "titleZh": "“宗教是你们的，不是我的”：世俗主义者需要了解美国开国元勋的哪些观点",
-      "summaryZh": "本文探讨了美国开国元勋在宗教与世俗主义问题上的复杂立场。文章旨在分析世俗主义者在理解美国建国原则时常被忽视的历史背景。",
-      "whyImportant": "深入探讨美国建国者的宗教观有助于理解当代美国政治中宗教与国家关系的争论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "40c112ae08135e43",
-      "title": "战争第七个月 ： 革命卫队给美国写26页长信 ， 伊朗一边等待美国答复一边说狠话 ， 中国使馆国庆招待会见证中伊联系如何延续",
-      "source": "original.ifeng.com",
-      "url": "https://original.ifeng.com/c/8wqQr12iu8E",
-      "publishedAt": "2026-09-30T11:15:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "original.ifeng.com",
-          "url": "https://original.ifeng.com/c/8wqQr12iu8E",
-          "publishedAt": "2026-09-30T11:15:00.000Z"
+          "url": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss",
+          "publishedAt": "2026-10-02T20:52:29.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1596,35 +1224,37 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "军事与安全"
+        "专题·美国政策与全球影响"
       ],
-      "score": 51,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b10cdc4f2d7419e630e7d1b7",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "bef679bd8b6a66164961a0c9",
       "isContinuation": false,
-      "titleZh": "战争第七个月：革命卫队致信美国，伊朗在等待答复的同时发表强硬言论，中国使馆国庆招待会见证中伊关系延续",
-      "summaryZh": "在冲突进入第七个月之际，伊朗革命卫队向美国发送了一封长达26页的信件。伊朗方面在等待美方回应的同时，继续对外发表强硬立场，并借中国国庆招待会强调中伊关系的持续性。",
-      "whyImportant": "此举反映了伊朗在当前地缘政治紧张局势下，试图通过外交与强硬姿态并行的策略来应对美国压力，并巩固与中国的战略联系。",
+      "titleZh": "民调显示：拉美地区认为中国比美国具有更积极的全球影响力",
+      "summaryZh": "年度拉丁美洲晴雨表调查显示，拉美民众对中国影响力的看法有所改善，而对美国影响力的评价则有所下降。",
+      "whyImportant": "该民调反映了拉美地区地缘政治认知的转变，可能影响未来美国在该地区的战略布局。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "59d202033388e55b",
-      "title": "Americas Shield : Investments at the Expense of Chile Sovereignty",
-      "source": "elciudadano.com",
-      "url": "https://www.elciudadano.com/en/americas-shield-investments-at-the-expense-of-chiles-sovereignty/09/30/",
-      "publishedAt": "2026-09-30T21:30:00.000Z",
-      "summary": "",
-      "language": "English",
-      "region": "",
+      "id": "634d9ef7566d633f",
+      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+      "publishedAt": "2026-10-02T19:54:54.000Z",
+      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]",
+      "language": "",
+      "region": "usa",
       "crossSources": [
         {
-          "source": "elciudadano.com",
-          "url": "https://www.elciudadano.com/en/americas-shield-investments-at-the-expense-of-chiles-sovereignty/09/30/",
-          "publishedAt": "2026-09-30T21:30:00.000Z"
+          "source": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+          "publishedAt": "2026-10-02T19:54:54.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1632,35 +1262,309 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "科技",
+        "国际组织",
+        "专题·美国政策与全球影响"
       ],
-      "score": 48,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "db1f8f2f94a0e6f25140f450",
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "5f7e104d258017900de270d2",
       "isContinuation": false,
-      "titleZh": "美国的盾牌：以牺牲智利主权为代价的投资",
-      "summaryZh": "该报道探讨了美国在智利的投资活动，并对其是否损害了智利国家主权提出了质疑。文章分析了外国资本介入对当地政治与经济自主权可能产生的影响。",
-      "whyImportant": "这引发了关于跨国投资与国家主权之间平衡的讨论，反映了拉美国家对外部经济影响力日益增长的担忧。",
+      "titleZh": "NASA宇航员克里斯蒂娜·科赫将与费城NFL球迷见面",
+      "summaryZh": "作为NASA“灵感之旅”的一部分，宇航员克里斯蒂娜·科赫将在费城老鹰队对阵洛杉矶公羊队的比赛中亮相。她将借此机会展示美国在太空探索和航空创新方面的成就。",
+      "whyImportant": "通过体育赛事进行科普宣传，是NASA提升公众对航天事业关注度与支持度的重要手段。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8a0a96ab357b237b",
-      "title": "ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa",
+      "id": "dedd7983eb179744",
+      "title": "Panama auditor targets ex-port regulators and CK Hutchison’s executives in canal probe",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369635/panama-auditor-targets-ex-port-regulators-and-hong-kong-firms-executives-canal-probe?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T19:10:10.000Z",
+      "summary": "Panama’s comptroller general said on Friday that his office would send prosecutors more audit material on former executives of CK Hutchison’s local subsidiary next week, as part of a criminal investigation into the Hong Kong conglomerate’s annulled Panama Canal ports concession. Speaking at the Atlantic Council in Washington, Anel Flores said prosecutors had requested documents concerning Panama Ports Company (PPC), the operator of the Balboa and Cristobal terminals at either end of the canal...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369635/panama-auditor-targets-ex-port-regulators-and-hong-kong-firms-executives-canal-probe?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T19:10:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "d54743162b2e9dd034a41ff1",
+      "isContinuation": false,
+      "titleZh": "巴拿马审计机构针对前港口监管机构及长江和记高管展开运河调查",
+      "summaryZh": "巴拿马审计长表示，将向检察官提交更多关于长江和记当地子公司前高管的审计材料。此举是针对该港口特许经营权被撤销一案的刑事调查的一部分。",
+      "whyImportant": "此项调查涉及跨国企业的海外运营合规性，可能对相关企业的国际声誉及后续业务产生法律影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "more": [],
+  "metadata": {
+    "fetched": 188,
+    "deduplicated": 161,
+    "selected": 23,
+    "translated": 23,
+    "untranslated": 0,
+    "minimumRequired": 21,
+    "featured": 8,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
+    {
+      "id": "d1b37a3af806d38f",
+      "title": "US blast simulation targets China’s alleged secret nuclear testing",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T22:38:41.000Z",
+      "summary": "The US has conducted a non-nuclear underground experiment to enhance its ability to detect low-yield nuclear explosions that it explicitly linked with a test that Washington suspects China carried out in 2020 – an accusation Beijing denies. The US Department of Energy announced on Wednesday that the National Nuclear Security Administration (NNSA) conducted a “subsurface, non-nuclear chemical high-explosive” experiment at the Nevada National Security Site, which it said aimed to “increase the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T22:38:41.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "突发",
+        "军事与安全",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 86,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "b17fea98829fff36fbc0fa81",
+      "isContinuation": false,
+      "titleZh": "美国进行爆炸模拟，针对中国涉嫌的秘密核试验",
+      "summaryZh": "美国能源部在内华达州进行了非核地下化学高爆实验，旨在提升探测低当量核爆炸的能力。美方明确将此举与华盛顿怀疑中国在2020年进行的核试验联系起来，但北京方面对此予以否认。",
+      "whyImportant": "此举反映了美中两国在核军控与透明度问题上的持续互不信任，可能加剧双边紧张关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "eefc6793ccd54e41",
+      "title": "‘No retreat’: key Trump ally urges continued US-China engagement on rare earths",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369505/no-retreat-key-trump-ally-urges-continued-us-china-engagement-rare-earths?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T22:00:09.000Z",
+      "summary": "US Republican Senator Steve Daines, a close aide to President Donald Trump and a key interlocutor between Washington and Beijing, has called on the two capitals to stay engaged and “not retreat” over differences on issues including rare earth supply chains. Daines told the South China Morning Post that both sides still had issues that predated Chinese President Xi Jinping’s state visit to Washington last week and that they would continue working on them after the summit. “So that’s again why...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369505/no-retreat-key-trump-ally-urges-continued-us-china-engagement-rare-earths?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T22:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "国际组织",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 76,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "09642bc8df66f4206d7acdd2",
+      "isContinuation": false,
+      "titleZh": "“绝不退缩”：特朗普关键盟友敦促美中在稀土问题上保持接触",
+      "summaryZh": "特朗普总统的亲密助手、共和党参议员史蒂夫·戴恩斯呼吁美中两国在稀土供应链等分歧问题上保持接触，不要退缩。他表示，双方在习近平主席上周访问华盛顿之前就存在问题，并将继续在峰会后进行磋商。",
+      "whyImportant": "该表态显示出美国政界在对华强硬政策中仍保留了寻求务实沟通的渠道。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d4a810c583ee3de5",
+      "title": "China has dominated tungsten for decades. Can US cash in Central Asia loosen its grip?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3369599/china-has-dominated-tungsten-decades-can-us-cash-central-asia-loosen-its-grip?utm_source=rss_feed",
+      "publishedAt": "2026-10-03T01:00:14.000Z",
+      "summary": "The race to loosen China’s grip on tungsten is moving to Kazakhstan, where United States-backed mining projects are attempting to compete in an industry where Chinese investment already has an operating foothold. Global tungsten prices have surged more than 200 per cent since May 2025, according to commodity and energy information provider Argus Media, adding urgency to efforts to develop alternative supplies. The soaring costs followed Beijing’s export controls on selected tungsten products...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3369599/china-has-dominated-tungsten-decades-can-us-cash-central-asia-loosen-its-grip?utm_source=rss_feed",
+          "publishedAt": "2026-10-03T01:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 73,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "e5870f03fe973870e73429e6",
+      "isContinuation": false,
+      "titleZh": "中国垄断钨矿数十年，美国在哈萨克斯坦的投资能否打破这一局面？",
+      "summaryZh": "美国支持的采矿项目正进入哈萨克斯坦，试图在钨矿领域与中国竞争。受北京出口管制影响，全球钨价自2025年5月以来飙升超过200%，促使各国寻求替代供应源。",
+      "whyImportant": "关键矿产供应链的竞争已成为大国博弈的核心，各国正加速布局以减少对单一市场的依赖。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c860f440936a787b",
+      "title": "Taiwan hails F-16V delivery as sign US support holds after Xi-Trump summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3369584/taiwan-hails-f-16v-delivery-sign-us-support-holds-after-xi-trump-summit?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T10:00:48.000Z",
+      "summary": "Taiwan has hailed the much-delayed arrival of two F-16V fighter jets as a demonstration of continuing American military support, despite a US presidential hold put on a separate multibilllion-dollar arms package. The two single-seat aircraft, which reached Chihhang Air Base in the eastern county of Taitung on Friday, are the first new F-16s received by the island since deliveries of its original F-16A/B fleet began in 1997. Compared with the earlier versions, the F-16V configuration incorporates...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3369584/taiwan-hails-f-16v-delivery-sign-us-support-holds-after-xi-trump-summit?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T10:00:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "军事与安全",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 66,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "美国"
+      ],
+      "fingerprint": "a385354089df441c7ec291cc",
+      "isContinuation": false,
+      "titleZh": "台湾接收F-16V战机，称此举证明美方支持在习特会后依然稳固",
+      "summaryZh": "尽管美国总统对另一项数十亿美元的军售计划采取了搁置态度，但台湾仍接收了两架F-16V战斗机。这是自1997年以来台湾首次接收新型F-16战机，台方将其视为美方军事支持持续的信号。",
+      "whyImportant": "此举在美中台三方关系敏感时期，被视为美国对台军事承诺的象征性体现。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bc389681c0c9f3e3",
+      "title": "Brazil’s Lula hails ‘bold’ Chinese investors as rival pitches rare earths to Trump",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T21:04:21.000Z",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva named China as a possible partner in his critical minerals plans, three days before Sunday’s closely fought election. Lula told Flow, one of the country’s most-watched podcasts, on Thursday evening that Brazil should stop shipping out raw ore. “We want to transform them here in Brazil,” he said of the minerals. Asked whether China fit into his plans, Lula said it could be a partner “bringing technology to us”, as could the United States. “[Donald]...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T21:04:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "f71986b4eb1c1472bb4a0c2f",
+      "isContinuation": false,
+      "titleZh": "巴西总统卢拉称赞中国投资者“大胆”，同时向特朗普推销稀土",
+      "summaryZh": "巴西总统卢拉在选举前夕表示，中国可以作为合作伙伴为巴西带来矿产加工技术。同时，他也对美国表达了合作意愿，强调巴西希望改变仅出口原材料的现状。",
+      "whyImportant": "巴西在关键矿产资源开发上寻求多元化合作，反映了全球南方国家在资源开发中争取更高附加值的战略意图。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6ff10422c1f95681",
+      "title": "National Manufacturing Day, 2026",
       "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
-      "publishedAt": "2026-09-30T17:10:17.000Z",
-      "summary": "President Donald J. Trump announced a $15 billion Mesabi Metallics steel complex is coming to Iowa — the largest steel plant ever built in the United States as more industrial capacity comes home. The project will create 1,750 new, permanent jobs, support up to 6,000 construction jobs, and generate an estimated $95 billion in U.S. […] The post ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa appeared first on The White House.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+      "publishedAt": "2026-10-02T19:29:58.000Z",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION For 250 years, American workers have been the driving force behind our Nation’s strength, prosperity, and industrial might. Their skill, ingenuity, and determination have fueled our economy and carried American manufacturing to new heights. On National Manufacturing Day, we honor the men and women […] The post National Manufacturing Day, 2026 appeared first on The White House.",
       "language": "",
       "region": "usa",
       "crossSources": [
         {
           "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
-          "publishedAt": "2026-09-30T17:10:17.000Z"
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+          "publishedAt": "2026-10-02T19:29:58.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1668,35 +1572,42 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "经济",
+        "专题·美国政策与全球影响"
       ],
-      "score": 48,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c487020209d8cae467b790f9",
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "6fe9e6eda0cb7e58d94f529a",
       "isContinuation": false,
-      "titleZh": "特朗普总统宣布美国史上最大的钢铁厂落户艾奥瓦州",
-      "summaryZh": "特朗普总统宣布投资150亿美元在艾奥瓦州建设Mesabi Metallics钢铁综合体，这将是美国有史以来规模最大的钢铁厂。该项目预计将创造1750个永久性就业岗位，并支持多达6000个建筑岗位。",
-      "whyImportant": "此举旨在通过推动工业产能回流美国，以促进国内就业增长和经济发展。",
+      "titleZh": "2026年国家制造业日",
+      "summaryZh": "美国总统发布公告，纪念国家制造业日。公告强调了美国工人在过去250年里对国家工业实力和经济繁荣所做出的贡献。",
+      "whyImportant": "此举旨在重申美国政府对本土制造业复兴的重视，并以此提振国内工业信心。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7d6869a86016972e",
-      "title": "Congressional Bill S. 2398 Signed into Law",
+      "id": "afa97951d7de0551",
+      "title": "Presidential Message on National Cybersecurity Awareness Month",
       "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
-      "publishedAt": "2026-09-30T16:17:26.000Z",
-      "summary": "On Wednesday, September 30, 2026, the President signed into law: S. 2398, the “Kay Hagan Tick Reauthorization Act,” which reauthorizes through Fiscal Year 2030, activities to address vector-borne diseases. The post Congressional Bill S. 2398 Signed into Law appeared first on The White House.",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+      "publishedAt": "2026-10-02T18:28:12.000Z",
+      "summary": "In an age of rapid digital advancement, cyberspace has emerged as the new frontier of American innovation, prosperity, and strength. As new technologies open doors to discovery and opportunity that were once unimaginable, a secure cyberspace is essential to ensuring that America continues to lead the world in finance, military power, emerging technology, and manufacturing. […] The post Presidential Message on National Cybersecurity Awareness Month appeared first on The White House.",
       "language": "",
       "region": "usa",
       "crossSources": [
         {
           "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
-          "publishedAt": "2026-09-30T16:17:26.000Z"
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+          "publishedAt": "2026-10-02T18:28:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1704,35 +1615,84 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "军事与安全",
+        "科技",
+        "专题·美国政策与全球影响"
       ],
-      "score": 47,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9523009e9747663b41b3dd95",
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "bd514dd4444b64bd38747190",
       "isContinuation": false,
-      "titleZh": "国会法案 S. 2398 正式签署成为法律",
-      "summaryZh": "美国总统签署了《凯·哈根蜱虫防治再授权法案》（S. 2398），该法案将相关防治媒介传播疾病的活动授权延长至2030财年。此举旨在确保持续应对公共卫生领域的威胁。",
-      "whyImportant": "该法案的签署为美国应对蜱虫等媒介传播疾病提供了长期的法律保障和资金支持。",
+      "titleZh": "总统关于国家网络安全意识月的致辞",
+      "summaryZh": "在数字技术飞速发展的时代，网络空间已成为美国创新与实力的前沿阵地。确保网络安全对于维护美国在金融、军事及制造业等领域的全球领先地位至关重要。",
+      "whyImportant": "此举强调了美国政府将网络安全视为国家战略核心，旨在应对日益复杂的数字安全挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "f9039bf9dcb11db4",
-      "title": "Australian couple among passengers on diverted flydubai flight to Israel, embassy says",
+      "id": "95f1a33dc534962f",
+      "title": "Donald Trump is planning trip to the Philippines for Asean summit",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369624/donald-trump-planning-trip-philippines-asean-summit?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T14:38:46.000Z",
+      "summary": "US President Donald Trump is planning to attend the Asean summit next month, the South China Morning Post understands, as Washington vies with Beijing for influence in the region. If the trip happens, Trump’s appearance at the Association of Southeast Asian Nations meeting, expected to run from November 16-18 in Manila, will be his second consecutive appearance at the gathering during this term. Trump was in Kuala Lumpur for Asean last year and in Manila for the meeting in 2017. Sources told the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369624/donald-trump-planning-trip-philippines-asean-summit?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T14:38:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "de701a507173b6e4cfc8f065",
+      "isContinuation": false,
+      "titleZh": "唐纳德·特朗普计划前往菲律宾参加东盟峰会",
+      "summaryZh": "据报道，美国总统特朗普计划出席下个月在马尼拉举行的东盟峰会。此举正值华盛顿与北京在地区影响力方面展开激烈竞争之际。",
+      "whyImportant": "特朗普的出席反映了美国试图加强在东南亚地区的外交存在，以平衡中国在该地区日益增长的影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1306da6ec538c313",
+      "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
-      "publishedAt": "2026-10-01T05:14:08.000Z",
-      "summary": "Israeli embassy says the Sydney couple were on board flight that was dramatically diverted after one pilot allegedly stabbed the other Two Australian citizens were onboard a flight to Tel Aviv that was diverted after one of the pilots allegedly stabbed the other in an attack, according to the Israeli embassy. The passengers are a Jewish couple from Sydney, the embassy in Australia confirmed to the Guardian on Thursday. No further details were provided. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+      "publishedAt": "2026-10-03T02:00:46.000Z",
+      "summary": "With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east Asia Bangkok is used to absorbing the sudden afternoon downpours that inundate the city during the rainy season. Even streets in many central high-rise districts can briefly turn into rivers, with rats and cockroaches racing out of sewers and taking temporary refuge on trees and buildings as the subterranean world is flushed out. But every city has a breaking point, and this year rain fell so fast and so hard that whole neighbourhoods of the Thai capital have been transformed, not into rivers, but stagnant lakes. In parts of the city, roughly 300mm of rain – the equivalent of half a year of average rainfall in London – fell in about two days. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
-          "publishedAt": "2026-10-01T05:14:08.000Z"
+          "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+          "publishedAt": "2026-10-03T02:00:46.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1742,35 +1702,39 @@
       "tags": [
         "全球焦点",
         "突发",
-        "科技"
+        "军事与安全",
+        "科技",
+        "环境",
+        "公共安全",
+        "国际组织"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 72,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "e0c50b4dd3128f9d834d9d38",
+      "fingerprint": "ae286370525370fd7707fd97",
       "isContinuation": false,
-      "titleZh": "以色列大使馆称，一对澳大利亚夫妇在飞往以色列的改道航班上",
-      "summaryZh": "一架飞往特拉维夫的迪拜航空航班因一名飞行员涉嫌刺伤另一名飞行员而被迫改道。以色列大使馆证实，一对来自悉尼的犹太夫妇当时在机上。",
-      "whyImportant": "这起罕见的飞行安全事件引发了国际关注，并对航空安全管理提出了严峻挑战。",
+      "titleZh": "曼谷处于崩溃边缘：洪水将街道变成死水湖",
+      "summaryZh": "曼谷遭遇极端降雨，全市50个区宣布进入灾难状态，已造成40人死亡。短时间内降下的巨量雨水导致城市部分地区积水严重，形成大面积死水湖。",
+      "whyImportant": "此次极端天气凸显了东南亚城市在面对气候变化引发的洪涝灾害时，基础设施承受能力已达到极限。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "673568cf6776cc15",
-      "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
-      "publishedAt": "2026-10-01T04:16:19.000Z",
-      "summary": "Kabul says the strikes on Kunar and Helmand provinces killed nine women and children.",
+      "id": "70f2a3c6121d0593",
+      "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+      "publishedAt": "2026-10-03T01:56:33.000Z",
+      "summary": "This live blog is now closed. Sign up for the Breaking News US email Send us your questions on how the Iran war will affect US voters in the midterms And as we bring you the latest on how the jobs report stands to impact voter sentiment ahead of the November midterms, my colleagues have done all the hard work in mapping out the battle for Congress and the key states, candidates and districts that will ultimately decide the balance of power on Capitol Hill. Many indicators of voter sentiment suggest the Democrats are favored to take back control of the House of Representatives, and potentially the Senate. Winning either would be a significant victory for the party and give it the power to block Trump’s legislative agenda and more aggressively investigate his administration. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
-          "publishedAt": "2026-10-01T04:16:19.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+          "publishedAt": "2026-10-03T01:56:33.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1779,40 +1743,43 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "突发",
+        "经济",
+        "军事与安全",
+        "能源"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 72,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "625e322aef7bed7d84949105",
+      "fingerprint": "17309c829a1cb8c52eb0afcf",
       "isContinuation": false,
-      "titleZh": "巴基斯坦称在对阿富汗的空袭中击毙22名武装分子",
-      "summaryZh": "巴基斯坦对阿富汗库纳尔省和赫尔曼德省发动了空袭，声称击毙了22名武装分子。喀布尔方面则指责这些袭击造成了9名妇女和儿童死亡。",
-      "whyImportant": "此次跨境军事行动加剧了巴基斯坦与阿富汗塔利班政府之间的紧张关系，并引发了关于平民伤亡的人道主义担忧。",
+      "titleZh": "特朗普威胁称，如果韩国不支付阿拉斯加天然气管道费用，将对其加倍征收关税",
+      "summaryZh": "特朗普政府对韩国提出能源基础设施费用要求，并以关税作为威胁手段。与此同时，美国国内正聚焦于中期选举，民调显示民主党有望夺回国会控制权。",
+      "whyImportant": "此举反映了特朗普政府在外交政策中将能源利益与贸易保护主义挂钩的强硬立场，可能影响美国中期选举的选情。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4cb6451c6afda435",
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T05:34:41.000Z",
-      "summary": "Christa Pike, sentenced to death over 1995 murder, was heard snoring 40 minutes after lethal doses administered, witnesses said Tennessee officials were unable to carry out the execution of Christa Pike despite her being administered two doses of a lethal injection drug, her lawyers said, adding that she had been taken to hospital in an ambulance. Her attorneys told a local news station “this has turned into agony and a violation of Pike’s right to be executed free of cruel and unusual punishment.” Continue reading...",
+      "id": "1d86a5b40dcf8ba4",
+      "title": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
+      "publishedAt": "2026-10-02T20:54:49.000Z",
+      "summary": "The Indian airline captain who helped thwart an apparent attempt to crash a Flydubai flight described on Friday how he fought for his life in the minutes after his co-pilot stabbed him and the plane began a steep descent. Captain Smit Machchhar, recovering in an Abu Dhabi hospital, told Indian Prime Minister Narendra Modi in a televised video call that he knew he had to get back on his feet to save his passengers. “I had so many wounds. I had fallen down,” he said from the hospital, his head...",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-01T05:34:41.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
+          "publishedAt": "2026-10-02T20:54:49.000Z"
         },
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
-          "publishedAt": "2026-10-01T03:53:11.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3369612/indian-pilot-hailed-hero-recalls-flydubai-cockpit-attack?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T12:14:13.000Z"
         }
       ],
       "sourceCount": 2,
@@ -1820,18 +1787,504 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点"
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "科技",
+        "国际组织"
       ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 71,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9a2201e6390423e73182a124",
+      "fingerprint": "049ee355d76b45f61ef019c1",
       "isContinuation": false,
-      "titleZh": "律师称美国死囚克里斯塔·派克在两次注射死刑后幸存并被送往医院",
-      "summaryZh": "因1995年谋杀案被判死刑的克里斯塔·派克在接受两次致命注射后仍有生命迹象，随后被送往医院。其律师认为执行过程出现严重失误，构成了残酷且不寻常的惩罚。",
-      "whyImportant": "该事件引发了关于死刑执行程序合法性及人道主义标准的广泛争议。",
+      "titleZh": "FlyDubai飞行员被誉为“民族英雄”，讲述遇袭经过",
+      "summaryZh": "一名印度籍机长在副驾驶持刀袭击并导致飞机急剧下降时，奋力反抗并成功挽救了乘客。目前该机长正在医院接受治疗，并向印度总理讲述了事发经过。",
+      "whyImportant": "该事件引发了对航空安全及飞行员背景审查机制的广泛关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "55bcc68635643929",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T04:38:31.000Z",
+      "summary": "Group ⁠of Seven countries agreed on Friday to release 100 million barrels of diesel and crude oil from emergency reserves and pledged to refrain from energy export restrictions after pressure from US President Donald Trump. The US led a pressure campaign on the European Union to draw down emergency diesel inventories, with the Trump administration warning that failure to act could lead to a US ban on diesel exports. Such a ban could sharply reduce supplies to Europe, which has become...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-03T04:38:31.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3369626/trump-says-europe-agrees-release-diesel-stocks?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T14:51:04.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 68,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1c9289b4fed9ab00601295fc",
+      "isContinuation": false,
+      "titleZh": "在特朗普威胁后，七国集团将释放数百万桶石油和柴油储备",
+      "summaryZh": "在特朗普政府的压力下，七国集团同意释放1.05亿桶柴油和原油储备，并承诺不限制能源出口。此前美国曾警告若不配合，将对欧洲实施柴油出口禁令。",
+      "whyImportant": "此举显示了美国利用能源供应作为地缘政治筹码，迫使盟友在能源政策上与其保持一致。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bfffca8534fd9b6b",
+      "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+      "publishedAt": "2026-10-03T03:56:10.000Z",
+      "summary": "Man, most likely in Iran, was in contact with men arrested on the eve of Yom Kippur, police say Two Iranian men have been charged in relation to an alleged terror plot targeting Manchester’s Jewish community. ​Police say another man, most likely in Iran, was in contact with them as part of a plot to get a bomb to attack Jewish targets. Continue reading...",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+          "publishedAt": "2026-10-03T03:56:10.000Z"
+        },
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community",
+          "publishedAt": "2026-10-02T22:52:01.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 67,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a1fc2186128a22afcf86ece2",
+      "isContinuation": false,
+      "titleZh": "两名伊朗人因涉嫌针对英国犹太社区的阴谋被起诉",
+      "summaryZh": "英国警方逮捕了两名涉嫌策划袭击曼彻斯特犹太社区的男子。调查显示，两人与一名身处伊朗的嫌疑人保持联系，企图获取炸弹进行袭击。",
+      "whyImportant": "该案件加剧了英国国内对宗教仇恨犯罪和跨国恐怖主义威胁的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6b867a6c1ca76deb",
+      "title": "Flydubai plane attack: co-pilot previously barred from flying by Oman over extremist views",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3369644/flydubai-plane-attack-co-pilot-previously-barred-flying-oman-over-extremist-views?utm_source=rss_feed",
+      "publishedAt": "2026-10-03T04:53:37.000Z",
+      "summary": "The Flydubai co-pilot who officials said nearly crashed a Tel Aviv-bound flight with 182 people aboard was barred from flying by his native Oman over concerns he had adopted extremist views, a person familiar with the matter said on Saturday. The co-pilot was subsequently hired by the United Arab Emirates-based airline, the person said, speaking on the condition of anonymity to discuss the ongoing investigation. It was not immediately clear to what extent he was vetted when he was hired in the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3369644/flydubai-plane-attack-co-pilot-previously-barred-flying-oman-over-extremist-views?utm_source=rss_feed",
+          "publishedAt": "2026-10-03T04:53:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "科技",
+        "国际组织"
+      ],
+      "score": 66,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "24c2a04da21f9077cea8dc7e",
+      "isContinuation": false,
+      "titleZh": "Flydubai飞机袭击事件：副驾驶曾因极端观点被阿曼禁止飞行",
+      "summaryZh": "据知情人士透露，此前试图制造坠机事故的Flydubai副驾驶，曾因持有极端观点被阿曼禁止飞行。目前尚不清楚该航空公司在招聘时对其进行了何种背景调查。",
+      "whyImportant": "该事件暴露了航空公司在飞行员背景审查和跨国信息共享方面存在的严重漏洞。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ad54c8b9b852b0b7",
+      "title": "Israeli air attack on Gaza City apartment kills at least five",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+      "publishedAt": "2026-10-03T02:25:23.000Z",
+      "summary": "No warning was given before the deadly Israeli attack hit Remal, one of Gaza City's most crowded neighbourhoods.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+          "publishedAt": "2026-10-03T02:25:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c039c40fb09c8ab71f957591",
+      "isContinuation": false,
+      "titleZh": "以色列空袭加沙城公寓，造成至少五人死亡",
+      "summaryZh": "以色列在未发出预警的情况下，对加沙城人口稠密的雷马尔社区发动了空袭。此次袭击导致一栋公寓楼被毁，造成至少五人死亡。",
+      "whyImportant": "此次袭击进一步加剧了加沙地区的人道主义危机，并引发了国际社会对平民伤亡的强烈关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b59cb0325f424630",
+      "title": "No more welcome mat? Japan’s tough visa rules spur foreign businesses to look elsewhere",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3369608/no-more-welcome-mat-japans-tough-visa-rules-spur-foreign-businesses-look-elsewhere?utm_source=rss_feed",
+      "publishedAt": "2026-10-03T04:00:11.000Z",
+      "summary": "Five years ago, Sarah and her husband were optimistic about Japan’s economic future and were expanding their small businesses across several sectors. Today, that optimism has been replaced by concern over a sense of hostility towards two hard-working foreigners who feel they have contributed to the society that they have worked hard to fit into. New regulations that took effect on Thursday mean the two Britons, who have been in Japan for more than 10 years, now face significantly higher costs...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3369608/no-more-welcome-mat-japans-tough-visa-rules-spur-foreign-businesses-look-elsewhere?utm_source=rss_feed",
+          "publishedAt": "2026-10-03T04:00:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5e6eb4832e7377787d3687b6",
+      "isContinuation": false,
+      "titleZh": "不再受欢迎？日本严苛的签证规定促使外国企业另寻他处",
+      "summaryZh": "日本近期实施的新签证法规大幅增加了长期居住外国人的成本，导致许多在日外籍人士感到被排斥。这一政策变化正促使部分外国企业和人才考虑离开日本市场。",
+      "whyImportant": "日本在试图吸引外资的同时收紧移民政策，可能对其经济增长和国际竞争力产生负面影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c7e23b6250420fd8",
+      "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
+      "publishedAt": "2026-10-03T00:23:49.000Z",
+      "summary": "The epicentre was at Leongatha, 130km south-east of Melbourne, with residents reporting houses shaking just after 2am Get our breaking news email, free app or daily news podcast A magnitude 4.8 earthquake struck Victoria in the early hours of Saturday morning, shaking Melbourne and waking people across the whole region. Geoscience Australia said it detected an earthquake with a preliminary magnitude of 4.8 at 2.01am near Leongatha, 130km south-east of Melbourne, with the tremors felt across the city’s eastern suburbs. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
+          "publishedAt": "2026-10-03T00:23:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6eafda91382566d33ba8aab4",
+      "isContinuation": false,
+      "titleZh": "维多利亚州发生4.8级地震，墨尔本震感明显",
+      "summaryZh": "维多利亚州于周六凌晨发生4.8级地震，震中位于墨尔本东南130公里的利昂加萨。当地居民在凌晨2点后感受到房屋震动，墨尔本东部郊区震感尤为明显。",
+      "whyImportant": "此次地震引发了当地居民的恐慌，并促使相关部门对震区基础设施进行安全评估。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2a19ba1cac4c609d",
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "publishedAt": "2026-10-03T00:00:00.000Z",
+      "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+          "publishedAt": "2026-10-03T00:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f53103a8c08aff1b5e28c885",
+      "isContinuation": false,
+      "titleZh": "伊朗战争直播：也门战斗升级，数百人伤亡",
+      "summaryZh": "也门境内冲突加剧，军方报告称在过去24小时内进行了474次袭击。此次行动导致1540名胡塞武装人员伤亡。",
+      "whyImportant": "也门战事的升级加剧了地区局势的不稳定性，并可能对中东地缘政治产生连锁反应。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f2ee3db7db7d3050",
+      "title": "China’s C919 jet faces further delivery delays amid US export chill: analysts",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3369588/chinas-c919-jet-faces-further-delivery-delays-amid-us-export-chill-analysts?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T13:00:09.000Z",
+      "summary": "A reported move by the United States to restrict exports of aircraft parts to China would place another speed bump on production of the C919 – a Chinese passenger jet designed to compete with Airbus and Boeing – as alternative sources of critical components for the plane are not readily available, according to analysts. The US Commerce Department has slowed export licensing for civilian aeroplane parts to China in recent weeks to strengthen Washington’s position in trade talks with Beijing,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3369588/chinas-c919-jet-faces-further-delivery-delays-amid-us-export-chill-analysts?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T13:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "经济",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 65,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "64da48f06b0f161f90e4cd4a",
+      "isContinuation": false,
+      "titleZh": "分析人士：受美国出口限制影响，中国C919客机交付面临进一步延误",
+      "summaryZh": "美国近期放缓了对华民用飞机零部件的出口许可审批，这给中国C919客机的生产带来了阻碍。由于缺乏现成的替代零部件来源，该机型的交付进度可能受到影响。",
+      "whyImportant": "此举显示了美国利用贸易政策作为谈判筹码，对中国航空制造业的供应链稳定性构成了直接挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6f70b946f18d8e9a",
+      "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
+      "publishedAt": "2026-10-03T03:01:43.000Z",
+      "summary": "IMPROVING MEDICARE FOR SENIORS: Today, President Donald J. Trump announced that the federal government will be making one-time payments of $90 per person to help more than 20 million enrollees pay for their Medicare Part B premiums. HISTORIC ACTION TO HELP SENIOR CITIZENS: With this action, President Trump is the first President to ever use the Medicare […] The post Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
+          "publishedAt": "2026-10-03T03:01:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 64,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "15cb5e8811a88b3d739b1757",
+      "isContinuation": false,
+      "titleZh": "情况说明书：唐纳德·特朗普总统宣布为老年人提供医疗保险改善基金支付",
+      "summaryZh": "特朗普总统宣布联邦政府将向超过2000万名医疗保险受益人每人发放90美元，以帮助支付医疗保险B部分的保费。这是美国历史上首次动用该基金直接补贴老年人。",
+      "whyImportant": "此政策旨在通过直接经济补贴减轻老年人的医疗负担，具有显著的民生与政治意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7b43b81ea2a8e6f5",
+      "title": "Latin America sees China as more positive global influence than US: Poll",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss",
+      "publishedAt": "2026-10-02T20:52:29.000Z",
+      "summary": "Annual Latinobarometro survey finds views of China’s influence improving as perceptions of US influence worsen.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss",
+          "publishedAt": "2026-10-02T20:52:29.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "bef679bd8b6a66164961a0c9",
+      "isContinuation": false,
+      "titleZh": "民调显示：拉美地区认为中国比美国具有更积极的全球影响力",
+      "summaryZh": "年度拉丁美洲晴雨表调查显示，拉美民众对中国影响力的看法有所改善，而对美国影响力的评价则有所下降。",
+      "whyImportant": "该民调反映了拉美地区地缘政治认知的转变，可能影响未来美国在该地区的战略布局。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "634d9ef7566d633f",
+      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+      "publishedAt": "2026-10-02T19:54:54.000Z",
+      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+          "publishedAt": "2026-10-02T19:54:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "科技",
+        "国际组织",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "5f7e104d258017900de270d2",
+      "isContinuation": false,
+      "titleZh": "NASA宇航员克里斯蒂娜·科赫将与费城NFL球迷见面",
+      "summaryZh": "作为NASA“灵感之旅”的一部分，宇航员克里斯蒂娜·科赫将在费城老鹰队对阵洛杉矶公羊队的比赛中亮相。她将借此机会展示美国在太空探索和航空创新方面的成就。",
+      "whyImportant": "通过体育赛事进行科普宣传，是NASA提升公众对航天事业关注度与支持度的重要手段。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "dedd7983eb179744",
+      "title": "Panama auditor targets ex-port regulators and CK Hutchison’s executives in canal probe",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369635/panama-auditor-targets-ex-port-regulators-and-hong-kong-firms-executives-canal-probe?utm_source=rss_feed",
+      "publishedAt": "2026-10-02T19:10:10.000Z",
+      "summary": "Panama’s comptroller general said on Friday that his office would send prosecutors more audit material on former executives of CK Hutchison’s local subsidiary next week, as part of a criminal investigation into the Hong Kong conglomerate’s annulled Panama Canal ports concession. Speaking at the Atlantic Council in Washington, Anel Flores said prosecutors had requested documents concerning Panama Ports Company (PPC), the operator of the Balboa and Cristobal terminals at either end of the canal...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369635/panama-auditor-targets-ex-port-regulators-and-hong-kong-firms-executives-canal-probe?utm_source=rss_feed",
+          "publishedAt": "2026-10-02T19:10:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 63,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "washington",
+        "美国"
+      ],
+      "fingerprint": "d54743162b2e9dd034a41ff1",
+      "isContinuation": false,
+      "titleZh": "巴拿马审计机构针对前港口监管机构及长江和记高管展开运河调查",
+      "summaryZh": "巴拿马审计长表示，将向检察官提交更多关于长江和记当地子公司前高管的审计材料。此举是针对该港口特许经营权被撤销一案的刑事调查的一部分。",
+      "whyImportant": "此项调查涉及跨国企业的海外运营合规性，可能对相关企业的国际声誉及后续业务产生法律影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
