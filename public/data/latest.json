@@ -1,177 +1,518 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T05:43:50.474Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T05:54:20.728Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "economy-finance",
-    "name": "全球经济与金融",
-    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
-    "query": "global economy finance trade inflation interest rates",
+    "slug": "security",
+    "name": "军事、安全与突发事件",
+    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
+    "query": "military security conflict breaking crisis",
     "keywords": [
-      "economy",
-      "trade",
-      "tariff",
-      "inflation",
-      "market",
-      "bank",
-      "interest rate",
-      "经济",
-      "贸易",
-      "通胀",
-      "金融",
-      "利率"
+      "military",
+      "war",
+      "missile",
+      "security",
+      "attack",
+      "ceasefire",
+      "军事",
+      "战争",
+      "导弹",
+      "袭击",
+      "停火",
+      "突发"
     ],
-    "accent": "#10b981"
+    "accent": "#f97316"
   },
-  "overview": "今日专题“全球经济与金融”。共筛选 22 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“军事、安全与突发事件”。共筛选 21 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "c2ab2d0f18554902",
-      "title": "Can China’s dancing robots swing some new business partners in Africa?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3370299/can-chinas-dancing-robots-swing-some-new-business-partners-africa?utm_source=rss_feed",
-      "publishedAt": "2026-10-10T08:00:07.000Z",
-      "summary": "At events marking China’s National Day in Africa on October 1, robots provided the entertainment. In Luanda, Angola, dancing robots amused guests and ambassador Zhang Bin called the industry “a small snapshot of the Chinese economy’s move towards innovation and higher-quality development”. In Brazzaville, Congo, nearly 400 guests – including Congolese officials and Chinese business representatives – watched on as a robot dog performed. Guests also interacted with a robot dog at a Chinese New...",
+      "id": "78bbd4b4601b3082",
+      "title": "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+      "publishedAt": "2026-10-12T04:55:40.000Z",
+      "summary": "MyCentre leader Samir Mohtadi, who also goes by Abu Hamza, refers to Islamic texts on the virtues of staying silent Get our breaking news email, free app or daily news podcast A leader of a Melbourne Islamic centre allegedly linked to the accused Flydubai hijacker has released a video extolling the virtues of staying silent, without directly commenting on the accusations from prosecutors in the United Arab Emirates. Dr Hamad Saif al-Shamsi, the attorney general of the UAE, on the weekend said that investigators had traced the ideological and professional background of the 29-year-old suspect and that their findings indicated his “drift towards extremism and terrorism” began while he was studying at RMIT University in Melbourne in 2017. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3370299/can-chinas-dancing-robots-swing-some-new-business-partners-africa?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T08:00:07.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+          "publishedAt": "2026-10-12T04:55:40.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "经济",
+        "全球焦点",
+        "突发",
         "军事与安全",
-        "专题·全球经济与金融"
+        "科技",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 58,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 81,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "economy",
-        "经济"
+        "war",
+        "军事",
+        "突发"
       ],
-      "fingerprint": "c555c119ff24913385588cd5",
+      "fingerprint": "accdeb7d11e99ba7614f1a04",
       "isContinuation": false,
-      "titleZh": "中国的跳舞机器人能否在非洲开拓新商机？",
-      "summaryZh": "在非洲举行的中国国庆庆祝活动中，跳舞机器人和机器狗成为焦点，展示了中国制造业的创新成果。中国外交官借此强调了中国经济向高质量发展转型的趋势。",
-      "whyImportant": "通过科技展示，中国正试图在非洲市场推广其高科技产品并加强双边经贸合作。",
+      "titleZh": "墨尔本伊斯兰教领袖在Facebook视频中对该中心涉嫌与迪拜航空劫机者有关联一事保持沉默",
+      "summaryZh": "墨尔本一伊斯兰中心负责人萨米尔·莫塔迪发布视频，强调保持沉默的价值，但未直接回应阿联酋检察官关于该中心与一名劫机嫌疑人有关联的指控。阿联酋总检察长指出，该嫌疑人曾在墨尔本皇家理工大学留学期间走向极端化。",
+      "whyImportant": "此事件引发了关于澳大利亚境内宗教机构与极端主义关联的调查及社会关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "04867a019168bd44",
-      "title": "127 arrested as Hong Kong police bust Vietnamese-led loan-sharking syndicate",
+      "id": "562edc058b937437",
+      "title": "Joyce likens US public execution to ‘Roman amphitheatre’ – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+      "publishedAt": "2026-10-12T04:57:52.000Z",
+      "summary": "This blog is now closed Get our breaking news email, free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour. These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government’s review, these changes to trust taxation have been called for. I think he’s getting that from lots of corners. People are saying that the Liberal party needs to do better. The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there’s something existential about the threat that I think the party now faces. Look, I certainly haven’t closed the door, but I don’t",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+          "publishedAt": "2026-10-12T04:57:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 76,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "c96694357c46abf7eb0ac51a",
+      "isContinuation": false,
+      "titleZh": "乔伊斯将美国公开处决比作“罗马圆形竞技场”",
+      "summaryZh": "澳大利亚助理财政部长丹尼尔·穆利诺重申，工党不会削弱对可支配信托基金征收30%最低税的计划。该政策旨在实现税收公平，并更好地平衡劳动收入与信托收入的税负。",
+      "whyImportant": "该税收改革引发了关于澳大利亚税制公平性及政治影响的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9aacce126464680a",
+      "title": "US can choose to deport Hongkongers under Deferred Enforced Departure scheme",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
-      "publishedAt": "2026-10-10T12:02:09.000Z",
-      "summary": "Hong Kong police have arrested 127 people in a six-month undercover operation against a Vietnamese-led crime syndicate accused of running loan-sharking rackets charging interest rates of up to 3,700 per cent, as well as illegal gambling and unlicensed bars in West Kowloon. The syndicate is also alleged to have helped illegal immigrants find shelter and work, with police raiding eight premises on October 8 and 9. Among those arrested were 10 alleged core members, including the suspected leader, a...",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T05:42:57.000Z",
+      "summary": "United States authorities could deport Hong Kong residents granted extended stay under the Deferred Enforced Departure (DED) programme and have not ruled out the option of doing so after a dozen were reportedly detained at local airports. “The Department of Homeland Security (DHS) is not precluded from placing aliens with such temporary administrative designation into removal proceedings, nor is it currently removing them,” a department spokesman said in a reply to the South China Morning Post...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T12:02:09.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T05:42:57.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "专题·全球经济与金融"
+        "美国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 76,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "interest rate",
-        "金融"
+        "security",
+        "军事"
       ],
-      "fingerprint": "a581de74661619efeaf359e1",
+      "fingerprint": "723bf009f04092a1fcc5eb43",
       "isContinuation": false,
-      "titleZh": "香港警方破获越南裔高利贷团伙，127人被捕",
-      "summaryZh": "香港警方经过六个月的卧底行动，捣毁了一个由越南裔主导的犯罪团伙。该团伙涉嫌经营高利贷、非法赌博及无牌酒吧，并协助非法移民寻找住所和工作。",
-      "whyImportant": "此次大规模执法行动有效打击了涉及非法移民及高利贷的跨境犯罪活动，维护了社区治安。",
+      "titleZh": "美国称可选择驱逐受“延期强制离境”计划保护的香港居民",
+      "summaryZh": "美国国土安全部表示，尽管目前未进行驱逐，但并未排除将受“延期强制离境”（DED）计划保护的香港居民纳入遣返程序的可能性。此前有报道称，已有十余名相关人士在机场被扣留。",
+      "whyImportant": "此表态引发了外界对在美港人居留权稳定性的担忧，并可能影响美港之间的相关政策走向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "edf5e3e9dfb9710d",
+      "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+      "publishedAt": "2026-10-12T05:49:11.000Z",
+      "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures. As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+          "publishedAt": "2026-10-12T05:49:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "1ad01bfe57946a0fbfbcbdf0",
+      "isContinuation": false,
+      "titleZh": "英国财政研究所：若无明确计划填补350亿英镑支出缺口，预算案将是“虚构作品”",
+      "summaryZh": "英国财政研究所警告称，除非政府制定明确计划以应对350亿英镑的支出压力，否则即将出台的预算案将缺乏现实基础。受通胀和中东局势影响，财政大臣面临增加拨款或实施深度削减的艰难选择。",
+      "whyImportant": "这凸显了英国政府在应对财政赤字与公共服务需求之间的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a0be79c793eaf566",
+      "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+      "publishedAt": "2026-10-12T05:00:47.000Z",
+      "summary": "Mark Rowley says inclusivity is crucial for the force and he refuses to be ‘blown off course’ by critics Sir Mark Rowley: I will have more police officers of colour in the UK capital – and the culture wars won’t stop me doing it Mark Rowley has said the Metropolitan police must recruit more black and Asian officers in order to gain the trust of minority ethnic communities in London, and vowed not to be “blown off course by the culture wars”. The right has criticised drives for diversity, claiming they lead to lower standards. Rowley, who is commissioner of the Met and Britain’s top police officer, said that as a leader of a major organisation he was prepared to take a stand against the “toxicity” surrounding the diversity debate and criticised other leaders for “running away from the subject”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+          "publishedAt": "2026-10-12T05:00:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "45f81d652367d7f0ef614cba",
+      "isContinuation": false,
+      "titleZh": "伦敦警察厅厅长表示，围绕多元化、公平与包容（DEI）的“毒性”不会阻止他招募更多黑人和亚裔警官",
+      "summaryZh": "伦敦警察厅厅长马克·罗利誓言，尽管面临文化战争的批评，他仍将致力于招募更多少数族裔警官以提升社区信任。他批评其他领导人在面对多元化争议时选择退缩，并坚持认为包容性对警队至关重要。",
+      "whyImportant": "此举反映了英国警务系统在推动种族多元化与应对社会舆论压力之间的矛盾。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "892540aa2558fb9c",
+      "title": "Burnham to urge MPs to embrace closer ties with EU",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+      "publishedAt": "2026-10-12T05:00:46.000Z",
+      "summary": "Post-recess statement will focus on damage caused by Brexit and the need to cooperate on immigration and trade Andy Burnham will put Brexit back on the Commons agenda as MPs return from recess, warning that failing to pursue a better deal with the EU would be a “major dereliction of duty”. The prime minister will use a statement to the Commons on the first day back after the party conference break to urge MPs to face up to the damage caused by Brexit, and embrace closer ties with the EU to increase economic growth and tackle illegal immigration. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+          "publishedAt": "2026-10-12T05:00:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "f41b29dddabc5b46740100ad",
+      "isContinuation": false,
+      "titleZh": "伯纳姆将敦促议员们加强与欧盟的联系",
+      "summaryZh": "英国首相安迪·伯纳姆计划在议会复会时强调脱欧带来的负面影响，并呼吁加强与欧盟的合作。他认为寻求更好的对欧协议对于促进经济增长和解决非法移民问题至关重要。",
+      "whyImportant": "这标志着英国政府在脱欧后政策方向上可能寻求更务实的对欧关系调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3566ee1decd066e1",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T17:27:24.000Z",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-11T17:27:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "112aa474d1098669b8c1bdf5",
+      "isContinuation": false,
+      "titleZh": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
+      "summaryZh": "波兰警方收到可靠情报，称有人计划对总理唐纳德·图斯克及其国防部长发动袭击。目前相关嫌疑人已被拘留。",
+      "whyImportant": "针对国家领导人的暗杀威胁引发了波兰国内对政治安全局势的高度警惕。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7a25d6204cd6f042",
+      "title": "Republican and Democrat senators want Trump to reverse course on Russian diesel deal",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
+      "publishedAt": "2026-10-11T17:15:37.000Z",
+      "summary": "Republican and Democratic US senators called on President Donald ⁠Trump on Sunday to “reverse course” on his diesel supply deal with Russia, saying it runs counter to US law barring imports of energy until Russia ends its aggression against Ukraine. “Congress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing (Russian President Vladimir) Putin’s brutal war against Ukraine,” the seven senators – four of Trump’s fellow Republicans and three Democrats – said...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
+          "publishedAt": "2026-10-11T17:15:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "能源",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "9dca944c503450860690aac8",
+      "isContinuation": false,
+      "titleZh": "共和党与民主党参议员要求特朗普撤销与俄罗斯的柴油协议",
+      "summaryZh": "七名美国参议员联名要求特朗普总统撤销与俄罗斯达成的柴油供应协议。他们认为该协议违反了美国禁止进口俄罗斯能源以制裁其对乌克兰战争的法律规定。",
+      "whyImportant": "此举显示了美国国会两党在对俄制裁问题上对行政部门施加的压力，以及能源政策与外交政策之间的冲突。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "e4256e6327a70194",
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T03:57:22.000Z",
-      "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels The latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than 300 others, civil aviation authorities said early Sunday, with some in a critical condition. A Saudi-led coalition blamed Iran-backed Houthi rebels in neighbouring Yemen. A missile struck a King Khalid international airport complex housing terminals 3 and 4 for domestic flights, a regional official said, speaking on condition of anonymity because they weren’t authorised to speak to the media. Continue reading...",
+      "id": "78bbd4b4601b3082",
+      "title": "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+      "publishedAt": "2026-10-12T04:55:40.000Z",
+      "summary": "MyCentre leader Samir Mohtadi, who also goes by Abu Hamza, refers to Islamic texts on the virtues of staying silent Get our breaking news email, free app or daily news podcast A leader of a Melbourne Islamic centre allegedly linked to the accused Flydubai hijacker has released a video extolling the virtues of staying silent, without directly commenting on the accusations from prosecutors in the United Arab Emirates. Dr Hamad Saif al-Shamsi, the attorney general of the UAE, on the weekend said that investigators had traced the ideological and professional background of the 29-year-old suspect and that their findings indicated his “drift towards extremism and terrorism” began while he was studying at RMIT University in Melbourne in 2017. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T03:57:22.000Z"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-          "publishedAt": "2026-10-11T01:02:07.000Z"
-        },
-        {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-          "publishedAt": "2026-10-10T23:37:27.000Z"
+          "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+          "publishedAt": "2026-10-12T04:55:40.000Z"
         }
       ],
-      "sourceCount": 3,
+      "sourceCount": 1,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "军事与安全",
+        "科技",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 78,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a6c3686f52ef042ed979bc52",
+      "score": 81,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "accdeb7d11e99ba7614f1a04",
       "isContinuation": false,
-      "titleZh": "沙特首都利雅得机场遭袭，造成12人死亡、300人受伤",
-      "summaryZh": "沙特首都利雅得的哈立德国王国际机场遭到导弹袭击，导致12人死亡，300多人受伤，部分伤者情况危急。沙特领导的联军指责也门胡塞武装发动了此次袭击。",
-      "whyImportant": "此次袭击加剧了沙特与也门胡塞武装之间的紧张局势，并引发了关于美国是否应介入冲突的讨论。",
+      "titleZh": "墨尔本伊斯兰教领袖在Facebook视频中对该中心涉嫌与迪拜航空劫机者有关联一事保持沉默",
+      "summaryZh": "墨尔本一伊斯兰中心负责人萨米尔·莫塔迪发布视频，强调保持沉默的价值，但未直接回应阿联酋检察官关于该中心与一名劫机嫌疑人有关联的指控。阿联酋总检察长指出，该嫌疑人曾在墨尔本皇家理工大学留学期间走向极端化。",
+      "whyImportant": "此事件引发了关于澳大利亚境内宗教机构与极端主义关联的调查及社会关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "dd64015355e53f30",
-      "title": "Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan",
+      "id": "562edc058b937437",
+      "title": "Joyce likens US public execution to ‘Roman amphitheatre’ – as it happened",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb",
-      "publishedAt": "2026-10-11T05:27:24.000Z",
-      "summary": "Anthony Albanese speaks at Australian War Memorial event commemorating 25th anniversary of country’s involvement in the conflict Anthony Albanese has honoured Australian troops who served in Afghanistan, using the 25th anniversary of the country’s involvement in the conflict to describe their heroism as a fight for “who we are as a people”. The prime minister joined hundreds of veterans, family members and dignitaries at a commemoration of the start of the campaign in Canberra on Sunday, with nation’s most decorated living soldier and accused war criminal Ben Roberts-Smith among the crowd at the Australian War Memorial. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+      "publishedAt": "2026-10-12T04:57:52.000Z",
+      "summary": "This blog is now closed Get our breaking news email, free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour. These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government’s review, these changes to trust taxation have been called for. I think he’s getting that from lots of corners. People are saying that the Liberal party needs to do better. The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there’s something existential about the threat that I think the party now faces. Look, I certainly haven’t closed the door, but I don’t",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb",
-          "publishedAt": "2026-10-11T05:27:24.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+          "publishedAt": "2026-10-12T04:57:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 76,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "c96694357c46abf7eb0ac51a",
+      "isContinuation": false,
+      "titleZh": "乔伊斯将美国公开处决比作“罗马圆形竞技场”",
+      "summaryZh": "澳大利亚助理财政部长丹尼尔·穆利诺重申，工党不会削弱对可支配信托基金征收30%最低税的计划。该政策旨在实现税收公平，并更好地平衡劳动收入与信托收入的税负。",
+      "whyImportant": "该税收改革引发了关于澳大利亚税制公平性及政治影响的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "edf5e3e9dfb9710d",
+      "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+      "publishedAt": "2026-10-12T05:49:11.000Z",
+      "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures. As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+          "publishedAt": "2026-10-12T05:49:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "1ad01bfe57946a0fbfbcbdf0",
+      "isContinuation": false,
+      "titleZh": "英国财政研究所：若无明确计划填补350亿英镑支出缺口，预算案将是“虚构作品”",
+      "summaryZh": "英国财政研究所警告称，除非政府制定明确计划以应对350亿英镑的支出压力，否则即将出台的预算案将缺乏现实基础。受通胀和中东局势影响，财政大臣面临增加拨款或实施深度削减的艰难选择。",
+      "whyImportant": "这凸显了英国政府在应对财政赤字与公共服务需求之间的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a0be79c793eaf566",
+      "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+      "publishedAt": "2026-10-12T05:00:47.000Z",
+      "summary": "Mark Rowley says inclusivity is crucial for the force and he refuses to be ‘blown off course’ by critics Sir Mark Rowley: I will have more police officers of colour in the UK capital – and the culture wars won’t stop me doing it Mark Rowley has said the Metropolitan police must recruit more black and Asian officers in order to gain the trust of minority ethnic communities in London, and vowed not to be “blown off course by the culture wars”. The right has criticised drives for diversity, claiming they lead to lower standards. Rowley, who is commissioner of the Met and Britain’s top police officer, said that as a leader of a major organisation he was prepared to take a stand against the “toxicity” surrounding the diversity debate and criticised other leaders for “running away from the subject”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+          "publishedAt": "2026-10-12T05:00:47.000Z"
         }
       ],
       "sourceCount": 1,
@@ -181,40 +522,211 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 62,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5eb8ebc8a74e4d1f9b9e08c3",
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "45f81d652367d7f0ef614cba",
       "isContinuation": false,
-      "titleZh": "本·罗伯茨-史密斯出席堪培拉活动，纪念在阿富汗服役的澳大利亚军队",
-      "summaryZh": "澳大利亚总理阿尔巴尼斯在堪培拉举行的纪念活动上，向在阿富汗服役的澳大利亚士兵致敬，称赞他们的英勇表现。备受争议的退伍军人本·罗伯茨-史密斯也出席了此次纪念澳大利亚参与该冲突25周年的活动。",
-      "whyImportant": "该活动旨在纪念澳大利亚的军事历史，但因涉嫌战争罪的罗伯茨-史密斯的出席而引发了公众关注。",
+      "titleZh": "伦敦警察厅厅长表示，围绕多元化、公平与包容（DEI）的“毒性”不会阻止他招募更多黑人和亚裔警官",
+      "summaryZh": "伦敦警察厅厅长马克·罗利誓言，尽管面临文化战争的批评，他仍将致力于招募更多少数族裔警官以提升社区信任。他批评其他领导人在面对多元化争议时选择退缩，并坚持认为包容性对警队至关重要。",
+      "whyImportant": "此举反映了英国警务系统在推动种族多元化与应对社会舆论压力之间的矛盾。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0d14b45cb5d1a1bd",
-      "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+      "id": "892540aa2558fb9c",
+      "title": "Burnham to urge MPs to embrace closer ties with EU",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+      "publishedAt": "2026-10-12T05:00:46.000Z",
+      "summary": "Post-recess statement will focus on damage caused by Brexit and the need to cooperate on immigration and trade Andy Burnham will put Brexit back on the Commons agenda as MPs return from recess, warning that failing to pursue a better deal with the EU would be a “major dereliction of duty”. The prime minister will use a statement to the Commons on the first day back after the party conference break to urge MPs to face up to the damage caused by Brexit, and embrace closer ties with the EU to increase economic growth and tackle illegal immigration. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+          "publishedAt": "2026-10-12T05:00:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "f41b29dddabc5b46740100ad",
+      "isContinuation": false,
+      "titleZh": "伯纳姆将敦促议员们加强与欧盟的联系",
+      "summaryZh": "英国首相安迪·伯纳姆计划在议会复会时强调脱欧带来的负面影响，并呼吁加强与欧盟的合作。他认为寻求更好的对欧协议对于促进经济增长和解决非法移民问题至关重要。",
+      "whyImportant": "这标志着英国政府在脱欧后政策方向上可能寻求更务实的对欧关系调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3566ee1decd066e1",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T17:27:24.000Z",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-11T17:27:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "112aa474d1098669b8c1bdf5",
+      "isContinuation": false,
+      "titleZh": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
+      "summaryZh": "波兰警方收到可靠情报，称有人计划对总理唐纳德·图斯克及其国防部长发动袭击。目前相关嫌疑人已被拘留。",
+      "whyImportant": "针对国家领导人的暗杀威胁引发了波兰国内对政治安全局势的高度警惕。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ef25b116d8d627fb",
+      "title": "Ministers preparing to slash heat pump subsidies to fund defence spending",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+      "publishedAt": "2026-10-12T05:00:47.000Z",
+      "summary": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources say Ministers are preparing to slash the amount of money available to subsidise heat pumps as they look for ways to fund higher defence spending, sources have told the Guardian. Miatta Fahnbulleh, the energy secretary, has been tasked with finding more than £2bn in savings from her budget to help pay for defence investment under a plan drawn up by the previous government. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+          "publishedAt": "2026-10-12T05:00:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "军事"
+      ],
+      "fingerprint": "e466eda5db2f3e82621bc5e5",
+      "isContinuation": false,
+      "titleZh": "部长们准备削减热泵补贴以资助国防支出",
+      "summaryZh": "据报道，英国政府计划从能源预算中削减约20亿英镑，其中包括削减锅炉升级计划中的热泵补贴。此举旨在为增加国防开支腾出资金。",
+      "whyImportant": "该决策反映了英国政府在能源转型目标与国防预算需求之间的财政博弈。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "80f6961bccad23fd",
+      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
-      "publishedAt": "2026-10-11T04:28:51.000Z",
-      "summary": "Four people died after Hurricane Isaias made landfall early on Saturday, and about 670,000 residents in Florida, Alabama, Georgia and Mississippi were still without power as the storm weakened to a post-tropical cyclone, according to local authorities and electricity monitoring services. Two of the deaths resulted ‌from trees falling on homes, according to local media and authorities. Authorities in Florida had received no search and rescue requests shortly after landfall in a sign of limited...",
+      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "publishedAt": "2026-10-12T02:11:21.000Z",
+      "summary": "Sunday's strike on King Khalid International airport kills a Pakistani national.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
-          "publishedAt": "2026-10-11T04:28:51.000Z"
-        },
+          "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+          "publishedAt": "2026-10-12T02:11:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "52f6d447081beaf0dcdb34ea",
+      "isContinuation": false,
+      "titleZh": "沙特阿拉伯称利雅得机场再次遇袭，造成1人死亡、11人受伤",
+      "summaryZh": "周日，哈立德国王国际机场遭到袭击，导致一名巴基斯坦籍人员死亡，另有11人受伤。目前相关调查正在进行中。",
+      "whyImportant": "针对沙特关键基础设施的袭击加剧了地区安全局势的紧张。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5543b04e9315b169",
+      "title": "At least 139 migrants dead, dozens missing after boat capsizes off Djibouti",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T01:05:42.000Z",
+      "summary": "At least 139 migrants died, including 15 children, and 84 went missing when an overcrowded boat sank while heading from Djibouti to Yemen, a UN agency said on Sunday. The vessel was carrying 305 people, most of them Ethiopian, when it capsized north of the Djibouti town of Obock on the night of October 8-9, the International Organization for Migration (IOM) said in a statement. “Survivors told me that the boat started to sink backwards as soon as they got in it,” Alexandre Coissac, IOM chief of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T20:29:50.000Z"
+          "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T01:05:42.000Z"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-11T15:32:23.000Z"
         }
       ],
       "sourceCount": 2,
@@ -223,35 +735,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "环境"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bd2f27e00bddfa6381baf0c9",
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "8296ed6b96804b57d9061ba0",
       "isContinuation": false,
-      "titleZh": "飓风“伊萨亚斯”造成4人死亡，佛罗里达州65万人断电",
-      "summaryZh": "飓风“伊萨亚斯”登陆后已减弱为后热带气旋，但仍造成4人死亡。佛罗里达州及周边地区约67万人受灾断电，部分死亡事故由树木倒塌引发。",
-      "whyImportant": "此次飓风对美国东南部基础设施造成了严重破坏，并引发了对灾后救援和电力恢复的关注。",
+      "titleZh": "吉布提附近海域发生沉船事故，至少139名移民遇难，数十人失踪",
+      "summaryZh": "一艘载有305人的移民船在从吉布提前往也门的途中倾覆，造成至少139人死亡，其中包括15名儿童，另有84人失踪。幸存者表示，船只在登船后不久便开始向后倾斜并沉没。",
+      "whyImportant": "此事件凸显了非法移民在穿越危险海域时面临的极端安全风险与人道主义危机。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c9c6ff257cce5af8",
-      "title": "Who rules Negeri Sembilan? Royal row tests Malaysia’s constitutional order",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3370365/who-rules-negeri-sembilan-royal-row-tests-malaysias-constitutional-order?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T00:00:10.000Z",
-      "summary": "The dust has yet to settle in Malaysia’s Negeri Sembilan, where a royal row has led to the fall of a state government and left the public wondering who, exactly, is in charge. Observers warn that the months-long constitutional crisis could create ripple effects well beyond the state’s borders, testing the entire nation’s systems of monarchy and government. The dispute centres on which of two men: the incumbent, Tuanku Muhriz Tuanku Munawir, or his intended replacement, Tunku Nadzaruddin Tuanku...",
+      "id": "a3b4ebd015cbc859",
+      "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+      "publishedAt": "2026-10-12T04:24:18.000Z",
+      "summary": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3370365/who-rules-negeri-sembilan-royal-row-tests-malaysias-constitutional-order?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T00:00:10.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+          "publishedAt": "2026-10-12T04:24:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -261,263 +777,42 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
+        "科技",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "894767b954aae235ec9d4ae9",
-      "isContinuation": false,
-      "titleZh": "谁在统治森美兰州？王室纠纷考验马来西亚宪政秩序",
-      "summaryZh": "马来西亚森美兰州因王室内部纠纷导致州政府倒台，引发了关于谁拥有实际统治权的宪政危机。观察人士警告，这场争端可能对马来西亚的君主立宪制度产生深远影响。",
-      "whyImportant": "该事件暴露了马来西亚地方政治与王室权力之间的潜在冲突，对国家的宪政稳定性构成了挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a19c2aa7e4062078",
-      "title": "Two Carlton players treated in hospital after needing care for ‘separate circumstances’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
-      "publishedAt": "2026-10-11T05:05:45.000Z",
-      "summary": "Club issues brief statement about Lachie Cowan and Will Hayward, saying latter suffered minor cut to head after a fall Carlton football club has said two of its players, Lachie Cowan and Will Hayward, required treatment in hospital on Sunday morning in “separate circumstances”. The club released a statement on Sunday after reports in several media outlets that unnamed players had been taken to hospital by ambulance after a night out. Guardian Australia contacted Carlton seeking comment on the reports. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
-          "publishedAt": "2026-10-11T05:05:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3cec9b32126cbbcdf6ebe28b",
-      "isContinuation": false,
-      "titleZh": "两名卡尔顿队球员因“不同情况”在医院接受治疗",
-      "summaryZh": "卡尔顿足球俱乐部证实，球员拉奇·考恩和威尔·海沃德因不同原因在周日早晨入院治疗。俱乐部回应了关于球员在夜间外出后被送往医院的媒体报道，并确认海沃德因跌倒导致头部轻微割伤。",
-      "whyImportant": "作为职业体育俱乐部，球员的健康状况和场外行为受到公众和媒体的密切关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5028b77c1e143b2e",
-      "title": "Christian nationalism in Britain driven by people who seldom go to church, says report",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
-      "publishedAt": "2026-10-11T05:00:17.000Z",
-      "summary": "Research challenges the notion that the growing visibility of crosses and other symbols reflects a revival of Christianity Christian nationalism in Britain is being driven largely by people who rarely attend church and are more concerned with defending the country’s Christian heritage, according to research. The report, by the thinktank Theos, identified five different groups within the UK in a survey that looked at their attitudes to Christianity and Britishness. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
-          "publishedAt": "2026-10-11T05:00:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e40919fa1d8325cd9cbc70ef",
-      "isContinuation": false,
-      "titleZh": "报告称英国的基督教民族主义主要由极少去教堂的人推动",
-      "summaryZh": "智库Theos的一项研究指出，英国基督教民族主义的抬头并非源于宗教复兴，而是由那些很少参加教会活动、更关注捍卫国家基督教传统的人所驱动。研究识别了英国社会中对基督教和英国身份认同持不同态度的五个群体。",
-      "whyImportant": "该研究挑战了关于宗教符号可见度增加即代表宗教信仰复兴的传统观点，揭示了文化身份认同在现代政治中的作用。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "701fb6328049281b",
-      "title": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike",
-      "publishedAt": "2026-10-11T05:00:16.000Z",
-      "summary": "Trump has used the full might of the presidency to supercharge executions, but an avalanche of mishaps has put the system’s flaws in the spotlight It took more than an hour to establish the two intravenous lines through which Christa Pike would be injected with a giant and normally lethal dose of the sedative pentobarbital, and in that time she did everything she could to assist those who were attempting to kill her. “Please try here,” she said over and over again to Tennessee’s execution team, pointing to specific parts of her body where she thought they might find a vein as they repeatedly stabbed her with needles. “Please try here, I think it will be OK. Please try up on my shoulder, higher.” Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike",
-          "publishedAt": "2026-10-11T05:00:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cf76964a536279f1afc9f178",
-      "isContinuation": false,
-      "titleZh": "美国死刑执行激增，但在克里斯塔·派克执行失败后，其未来何去何从？",
-      "summaryZh": "尽管美国政府近期加大了死刑执行力度，但克里斯塔·派克在执行过程中遭遇的严重失误引发了对死刑制度缺陷的质疑。执行团队在寻找静脉注射点时多次失败，导致过程极其痛苦且漫长。",
-      "whyImportant": "执行过程中的失误再次引发了关于死刑人道性及制度合理性的激烈社会辩论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e874cb89fc7000a7",
-      "title": "How a museum masterpiece’s life-size replica sparked rare US-China collaboration",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed",
-      "publishedAt": "2026-10-10T22:00:12.000Z",
-      "summary": "For anyone who has visited the Chinese galleries at the Metropolitan Museum of Art in New York, there is one work that stops them in their tracks. Stepping into Gallery 206, home to Chinese Buddhist art, visitors are met by a monumental wall – over 15 metres wide and 7.5 metres tall (nearly 50 feet by 25 feet) – covered in a Buddhist assembly so vast and majestic that it momentarily erases the Manhattan bustle outside. Here stands the Medicine Buddha, a 14th century Yuan dynasty (1279-1368)...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T22:00:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7176e0940082e62a3c6f9d6e",
-      "isContinuation": false,
-      "titleZh": "博物馆杰作的等身复制品如何促成美中罕见合作",
-      "summaryZh": "纽约大都会艺术博物馆收藏的元代药师佛壁画因其宏伟壮观而备受瞩目。为了展示这一杰作，博物馆通过与中国的合作，制作了等身复制品，促进了文化交流。",
-      "whyImportant": "这一合作项目展示了通过艺术保护和复制技术，美中两国在文化遗产领域可以实现积极的互动与交流。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "04867a019168bd44",
-      "title": "127 arrested as Hong Kong police bust Vietnamese-led loan-sharking syndicate",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
-      "publishedAt": "2026-10-10T12:02:09.000Z",
-      "summary": "Hong Kong police have arrested 127 people in a six-month undercover operation against a Vietnamese-led crime syndicate accused of running loan-sharking rackets charging interest rates of up to 3,700 per cent, as well as illegal gambling and unlicensed bars in West Kowloon. The syndicate is also alleged to have helped illegal immigrants find shelter and work, with police raiding eight premises on October 8 and 9. Among those arrested were 10 alleged core members, including the suspected leader, a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T12:02:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "专题·全球经济与金融"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "interest rate",
-        "金融"
+        "military",
+        "war",
+        "军事"
       ],
-      "fingerprint": "a581de74661619efeaf359e1",
+      "fingerprint": "2a3ca384f6556985ce728fe9",
       "isContinuation": false,
-      "titleZh": "香港警方破获越南裔高利贷团伙，127人被捕",
-      "summaryZh": "香港警方经过六个月的卧底行动，捣毁了一个由越南裔主导的犯罪团伙。该团伙涉嫌经营高利贷、非法赌博及无牌酒吧，并协助非法移民寻找住所和工作。",
-      "whyImportant": "此次大规模执法行动有效打击了涉及非法移民及高利贷的跨境犯罪活动，维护了社区治安。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "51b5894cf6391297",
-      "title": "Unsung turtle conservation heroes in Malaysia’s Sabah unite to fight poachers",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/health-environment/article/3370466/unsung-turtle-conservation-heroes-malaysias-sabah-unite-fight-poachers?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:00:28.000Z",
-      "summary": "Roziah Jelali has a tip or two on catching a turtle poacher: carrying a pair of binoculars and having patience in spades are key to doing the job well. The 36-year-old Malaysian volunteer ranger once spent three months in Sabah tracking a man whom she suspected of illegally capturing protected turtles. Once thriving off the azure seas of Omadal Island in the Malaysian state, many turtles had been hunted down, killed and sold for their meat, according to conservation experts. Recounting the 2023...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/health-environment/article/3370466/unsung-turtle-conservation-heroes-malaysias-sabah-unite-fight-poachers?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:00:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "092ee69636ac2f511930964f",
-      "isContinuation": false,
-      "titleZh": "马来西亚沙巴州的无名海龟保护英雄联合打击偷猎者",
-      "summaryZh": "马来西亚沙巴州的志愿者们通过耐心蹲守和观察，积极打击非法捕杀受保护海龟的偷猎者。当地海龟曾因被猎杀用于肉类贸易而数量锐减，保护工作对生态恢复至关重要。",
-      "whyImportant": "民间志愿者的参与对于保护濒危物种及维护当地海洋生态平衡具有积极意义。",
+      "titleZh": "内塔尼亚胡要求调查获奖加沙纪录片《NAZA》的消息来源",
+      "summaryZh": "一部纪录片引用了24名匿名以色列消息人士的证词，指控以军在加沙地带利用人工智能系统杀害巴勒斯坦人。内塔尼亚胡政府对此表示不满，并要求彻查该片的信息来源。",
+      "whyImportant": "该事件反映了以色列政府对涉及军事行动负面报道的敏感性以及对信息安全的高度关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "935bbda116f204c5",
-      "title": "Nanotechnology expert Antonio Facchetti joins HKUST from Georgia Tech in the US",
+      "id": "9aacce126464680a",
+      "title": "US can choose to deport Hongkongers under Deferred Enforced Departure scheme",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3370290/nanotechnology-expert-antonio-facchetti-joins-hkust-georgia-tech-us?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:00:13.000Z",
-      "summary": "Materials scientist and chemist Antonio Facchetti, formerly of the Georgia Institute of Technology in the United States, has joined the Hong Kong University of Science and Technology as a chair professor in its newly established department of materials. Facchetti, who was elected to the US National Academy of Engineering last year for his “contributions to the engineering of commercially viable electronic materials and devices”, researches semiconductors, dielectrics for thin-film and...",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T05:42:57.000Z",
+      "summary": "United States authorities could deport Hong Kong residents granted extended stay under the Deferred Enforced Departure (DED) programme and have not ruled out the option of doing so after a dozen were reportedly detained at local airports. “The Department of Homeland Security (DHS) is not precluded from placing aliens with such temporary administrative designation into removal proceedings, nor is it currently removing them,” a department spokesman said in a reply to the South China Morning Post...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3370290/nanotechnology-expert-antonio-facchetti-joins-hkust-georgia-tech-us?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:00:13.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T05:42:57.000Z"
         }
       ],
       "sourceCount": 1,
@@ -527,36 +822,39 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "科技",
-        "国际组织"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 67,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0f394eb5673cb8b3f34fcbea",
+      "score": 76,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "723bf009f04092a1fcc5eb43",
       "isContinuation": false,
-      "titleZh": "纳米技术专家安东尼奥·法切蒂从美国佐治亚理工学院加入香港科技大学",
-      "summaryZh": "美国国家工程院院士、材料科学家安东尼奥·法切蒂已加入香港科技大学，担任新成立的材料系讲座教授。他此前在电子材料和器件工程领域贡献卓著，未来将致力于相关科研工作。",
-      "whyImportant": "顶尖科研人才的引进有助于提升香港在材料科学领域的国际学术地位与创新能力。",
+      "titleZh": "美国称可选择驱逐受“延期强制离境”计划保护的香港居民",
+      "summaryZh": "美国国土安全部表示，尽管目前未进行驱逐，但并未排除将受“延期强制离境”（DED）计划保护的香港居民纳入遣返程序的可能性。此前有报道称，已有十余名相关人士在机场被扣留。",
+      "whyImportant": "此表态引发了外界对在美港人居留权稳定性的担忧，并可能影响美港之间的相关政策走向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c2ab2d0f18554902",
-      "title": "Can China’s dancing robots swing some new business partners in Africa?",
+      "id": "84da184d48f3de38",
+      "title": "Beijing moves to steady A-share market after sharp tech sell-off",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3370299/can-chinas-dancing-robots-swing-some-new-business-partners-africa?utm_source=rss_feed",
-      "publishedAt": "2026-10-10T08:00:07.000Z",
-      "summary": "At events marking China’s National Day in Africa on October 1, robots provided the entertainment. In Luanda, Angola, dancing robots amused guests and ambassador Zhang Bin called the industry “a small snapshot of the Chinese economy’s move towards innovation and higher-quality development”. In Brazzaville, Congo, nearly 400 guests – including Congolese officials and Chinese business representatives – watched on as a robot dog performed. Guests also interacted with a robot dog at a Chinese New...",
+      "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T01:00:19.000Z",
+      "summary": "China’s top securities regulator has signalled fresh support for the domestic A-share market, convening a symposium over the weekend as authorities sought to shore up sentiment following a sharp sell-off in technology shares driven by concerns over US sanctions. The China Securities Regulatory Commission (CSRC) brought together executives from listed companies and experts from securities firms and fund managers at a meeting in Beijing on Saturday to “discuss the country’s capital markets and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3370299/can-chinas-dancing-robots-swing-some-new-business-partners-africa?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T08:00:07.000Z"
+          "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T01:00:19.000Z"
         }
       ],
       "sourceCount": 1,
@@ -565,40 +863,37 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "经济",
-        "军事与安全",
-        "专题·全球经济与金融"
+        "外交",
+        "金融",
+        "科技"
       ],
-      "score": 58,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "economy",
-        "经济"
-      ],
-      "fingerprint": "c555c119ff24913385588cd5",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "076372337b98f8755876814c",
       "isContinuation": false,
-      "titleZh": "中国的跳舞机器人能否在非洲开拓新商机？",
-      "summaryZh": "在非洲举行的中国国庆庆祝活动中，跳舞机器人和机器狗成为焦点，展示了中国制造业的创新成果。中国外交官借此强调了中国经济向高质量发展转型的趋势。",
-      "whyImportant": "通过科技展示，中国正试图在非洲市场推广其高科技产品并加强双边经贸合作。",
+      "titleZh": "北京采取行动稳定A股市场，应对科技股大幅抛售",
+      "summaryZh": "受美国制裁担忧影响，中国科技股近期出现大幅抛售。中国证监会为此召开座谈会，听取上市公司及金融机构意见，旨在提振市场信心并稳定资本市场。",
+      "whyImportant": "监管层的介入显示了中国政府在面对外部压力时，致力于维护金融市场稳定与投资者信心的决心。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "494656ac844e9da8",
-      "title": "Huanggang Port a ‘milestone’ for integrating Hong Kong, Greater Bay Area: John Lee",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370474/huanggang-port-milestone-integrating-hong-kong-greater-bay-area-john-lee?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T05:08:51.000Z",
-      "summary": "The revamped Huanggang checkpoint is a “critical milestone” for the connectivity of the Greater Bay Area, Hong Kong’s leader has said, as the city and Shenzhen count down to its launch on Monday. Speaking at a ceremony on Sunday, Chief Executive John Lee-Ka Chiu said the Huanggang control point was a “landmark project” built and shared through the joint efforts of Hong Kong and Shenzhen. “Hong Kong unveiled its first five-year plan last month to proactively align with the national 15th five-year...",
+      "id": "c689170425a4b6fc",
+      "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+      "publishedAt": "2026-10-12T04:58:01.000Z",
+      "summary": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370474/huanggang-port-milestone-integrating-hong-kong-greater-bay-area-john-lee?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T05:08:51.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+          "publishedAt": "2026-10-12T04:58:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -606,35 +901,36 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "外交"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "659816d781e889122a6e4441",
+      "fingerprint": "23a4d7332721669addbe08de",
       "isContinuation": false,
-      "titleZh": "李家超：皇岗口岸是香港融入大湾区的里程碑",
-      "summaryZh": "香港特区行政长官李家超表示，即将启用的皇岗口岸是深港合作的标志性项目，对大湾区互联互通具有重要意义。此举旨在配合国家五年规划，进一步深化区域融合。",
-      "whyImportant": "新口岸的启用将显著提升深港两地的交通效率，促进大湾区内的人员与经济流动。",
+      "titleZh": "中国制裁巴拉圭和伯利兹官员，因其与台湾保持关系",
+      "summaryZh": "中国外交部宣布对巴拉圭和伯利兹的相关官员实施制裁。中方表示，此举是基于维护国家主权及反对台湾分裂活动的立场。",
+      "whyImportant": "此举进一步体现了中国在外交层面严厉打击“台独”势力及其外部支持者的坚定立场。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b104d82ab504e1d4",
-      "title": "Paul Chan highlights 4 priorities ahead of Apec finance ministers’ meeting this month",
+      "id": "6f74cb7a0ee4690f",
+      "title": "Minibus driver hospitalised, 18 others injured, after collision with goods truck",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370472/hong-kong-finance-chief-highlights-4-priorities-ahead-apec-meeting-month?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:22:33.000Z",
-      "summary": "The Apec finance ministers’ meeting in Hong Kong this month will focus on fiscal policies that support livelihoods, digital infrastructure financing, inclusive finance and young financial talent, underlining the city’s role as an international financial centre, the finance chief said. “These four priorities are areas of strength for Hong Kong and fields in which we can make an active contribution,” Financial Secretary Paul Chan Mo-po wrote in his weekly blog on Sunday. “Hosting the finance...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370539/minibus-driver-hospitalised-18-others-injured-after-collision-goods-truck?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T04:40:16.000Z",
+      "summary": "A minibus driver has been hospitalised after her vehicle collided with a medium goods truck in Hong Kong, causing injuries to 18 others. Police said the accident occurred at around 9.22am on Monday, when a green minibus and a medium goods truck collided on San Tin Highway on the Yuen Long-bound side of the road near Fairview Park. According to police, a total of nine men and 10 women were injured in the crash. The accident prompted authorities to close two lanes of the road, leading to severe...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370472/hong-kong-finance-chief-highlights-4-priorities-ahead-apec-meeting-month?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:22:33.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370539/minibus-driver-hospitalised-18-others-injured-after-collision-goods-truck?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T04:40:16.000Z"
         }
       ],
       "sourceCount": 1,
@@ -642,35 +938,36 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "公共安全"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "e9c00886de6291a604738785",
+      "fingerprint": "79e63bc9e8feba2aa7aab52e",
       "isContinuation": false,
-      "titleZh": "陈茂波强调本月亚太经合组织财长会议的四大优先事项",
-      "summaryZh": "香港财政司司长陈茂波表示，即将举行的亚太经合组织财长会议将聚焦民生财政政策、数字基础设施融资、普惠金融及青年金融人才培养。他强调这些领域是香港的优势所在。",
-      "whyImportant": "作为东道主，香港通过设定会议议程展示了其作为国际金融中心的专业影响力。",
+      "titleZh": "香港发生小巴与货车相撞事故，司机送医，另有18人受伤",
+      "summaryZh": "一辆绿色小巴与一辆中型货车在香港新田公路发生碰撞，导致小巴司机送医，另有18名乘客受伤。事故造成现场部分车道封闭，交通严重受阻。",
+      "whyImportant": "该交通事故造成多人受伤并引发交通拥堵，再次引发公众对道路交通安全的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9bbb9f475caeb731",
-      "title": "Admission scores fall for Hong Kong physiotherapy courses amid jobs crunch",
+      "id": "ffdff2062e44d57a",
+      "title": "Chinese desalination plant cuts 60% energy use, turns waste brine into industrial salt",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3370461/admission-scores-fall-hong-kong-physiotherapy-courses-amid-jobs-crunch?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:00:20.000Z",
-      "summary": "Admission scores for physiotherapy degree programmes at three Hong Kong tertiary institutions fell by as much as 10 per cent this year compared with 2025, amid gloomy career prospects in the sector, the latest data shows. The decline prompted the professional body for physiotherapists to call on the government to halt healthcare funding cuts in the next budget, saying they had contributed to a jobs crunch in the sector. Across four institutions, 23 per cent of students admitted to physiotherapy...",
+      "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T04:15:34.000Z",
+      "summary": "A large desalination plant on Bohai Bay has achieved an energy efficiency breakthrough, slashing electricity consumption by more than half while converting millions of tonnes of toxic waste brine into high-value chemical salt. Situated in the Caofeidian industrial zone of Tangshan, Hebei province, the facility recently entered its trial production stage, the state-run Science and Technology Daily reported last month. This technology provides a viable pathway to solving the global challenge of...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3370461/admission-scores-fall-hong-kong-physiotherapy-courses-amid-jobs-crunch?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:00:20.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T04:15:34.000Z"
         }
       ],
       "sourceCount": 1,
@@ -678,37 +975,39 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "科技",
+        "能源"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "b00326df50ce4fbf3b9adb39",
+      "fingerprint": "63315e6a25ad8e848e354642",
       "isContinuation": false,
-      "titleZh": "受就业市场紧缩影响，香港物理治疗课程录取分数下降",
-      "summaryZh": "数据显示，香港三所高校的物理治疗学位课程录取分数较去年下降了10%。专业团体指出，医疗资金削减导致行业就业困难，呼吁政府在预算中予以重视。",
-      "whyImportant": "教育录取门槛的变化反映了相关行业就业前景的波动，引发了对医疗人才培养政策的讨论。",
+      "titleZh": "中国海水淡化厂能耗降低60%，并将废盐水转化为工业盐",
+      "summaryZh": "位于河北唐山的一家海水淡化厂通过技术突破，将电力消耗降低了一半以上，并成功将有毒废盐水转化为高价值的工业化学盐。该项目已进入试生产阶段，为解决全球淡化水处理难题提供了新路径。",
+      "whyImportant": "该技术的应用有望显著降低海水淡化成本，并减少环境污染，具有重要的环保与经济意义。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "21d75e612ec01126",
-      "title": "Denuclearising North Korea would ‘defy history’ as US, allies missed the boat",
+      "id": "7a25d6204cd6f042",
+      "title": "Republican and Democrat senators want Trump to reverse course on Russian diesel deal",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3370470/denuclearising-north-korea-would-defy-history-us-allies-missed-boat?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:00:19.000Z",
-      "summary": "The denuclearisation of North Korea has become an “increasingly improbable” goal and the United States and its allies should move beyond it to devote their diplomatic efforts to talks on arms limitations and crisis communication, the director of the US-based North Korean analysis website 38 North said. Recalling the 20 years since North Korea carried out its first nuclear test on October 9, 2006, Jenny Town said in a written interview that “a pivotal moment” in Pyongyang’s weapons development...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
+      "publishedAt": "2026-10-11T17:15:37.000Z",
+      "summary": "Republican and Democratic US senators called on President Donald ⁠Trump on Sunday to “reverse course” on his diesel supply deal with Russia, saying it runs counter to US law barring imports of energy until Russia ends its aggression against Ukraine. “Congress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing (Russian President Vladimir) Putin’s brutal war against Ukraine,” the seven senators – four of Trump’s fellow Republicans and three Democrats – said...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3370470/denuclearising-north-korea-would-defy-history-us-allies-missed-boat?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:00:19.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
+          "publishedAt": "2026-10-11T17:15:37.000Z"
         }
       ],
       "sourceCount": 1,
@@ -717,36 +1016,41 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "外交",
-        "能源"
+        "军事与安全",
+        "能源",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 66,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "47ba0053ee2ef9730fb6b4a3",
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "9dca944c503450860690aac8",
       "isContinuation": false,
-      "titleZh": "专家称朝鲜无核化已“违背历史”，美及其盟友应转向军控谈判",
-      "summaryZh": "美国智库专家指出，朝鲜无核化目标已变得极难实现，建议美国及其盟友将外交重点转向军备限制和危机沟通。朝鲜自2006年首次核试验以来，其武器开发已进入新阶段。",
-      "whyImportant": "该观点挑战了传统的对朝政策，反映了国际社会对朝鲜半岛局势长期僵持的担忧。",
+      "titleZh": "共和党与民主党参议员要求特朗普撤销与俄罗斯的柴油协议",
+      "summaryZh": "七名美国参议员联名要求特朗普总统撤销与俄罗斯达成的柴油供应协议。他们认为该协议违反了美国禁止进口俄罗斯能源以制裁其对乌克兰战争的法律规定。",
+      "whyImportant": "此举显示了美国国会两党在对俄制裁问题上对行政部门施加的压力，以及能源政策与外交政策之间的冲突。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d69958fb8dcf1b1c",
-      "title": "US opens antitrust probe into TV networks halting Trump coverage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-      "publishedAt": "2026-10-11T04:30:10.000Z",
-      "summary": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
+      "id": "3ed512f2643207e0",
+      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+      "publishedAt": "2026-10-11T07:45:31.000Z",
+      "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast An Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said. Jordan Yap, 30, last made contact with friends and family on 14 September ahead of a planned 10-day solo trek along Peru’s Huayhuash mountain range, 400km north-east of Lima. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-          "publishedAt": "2026-10-11T04:30:10.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+          "publishedAt": "2026-10-11T07:45:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -754,35 +1058,40 @@
       "isUsa": true,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "美国重点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0132dd3e839c6153ae976ece",
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "78e5009f71e7766a4e44838f",
       "isContinuation": false,
-      "titleZh": "美国对电视网络中断特朗普报道的行为展开反垄断调查",
-      "summaryZh": "美国司法部表示，正在调查白宫记者团中断特朗普报道的决定是否违反了反垄断法。该调查旨在评估媒体机构的行为是否涉及不正当竞争。",
-      "whyImportant": "此举引发了关于媒体独立性与政府监管权力边界的广泛讨论。",
+      "titleZh": "在秘鲁偏远步道失踪的澳大利亚徒步旅行者乔丹·亚普被发现死亡",
+      "summaryZh": "一名30岁的墨尔本男子乔丹·亚普在秘鲁瓦伊瓦什山脉进行为期10天的单人徒步旅行时失踪，其家人证实他已被发现死亡。他最后一次与亲友联系是在9月14日。",
+      "whyImportant": "此事件引发了对海外徒步旅行安全及搜救工作的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d04c1567476d9d81",
-      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+      "id": "09d644374a110cd8",
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T09:17:36.000Z",
-      "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:13:51.000Z",
+      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-10T09:17:36.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-11T23:13:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -792,327 +1101,118 @@
       "tags": [
         "美国重点"
       ],
-      "score": 42,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 53,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "366e7bcc7e9933c089a670d5",
+      "fingerprint": "ca55395d1e112d781540de84",
       "isContinuation": false,
-      "titleZh": "美国公开处决已停止近一个世纪，为何现在恢复？",
-      "summaryZh": "五角大楼宣布将直播胡德堡枪击案凶手尼达尔·哈桑的处决过程。专家认为，政府此举可能误判了公众对恢复公开处决的接受程度。",
-      "whyImportant": "这一决定挑战了美国长期以来的司法伦理标准，引发了关于刑事司法透明度与人权的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "07079819a9ad2bdf",
-      "title": "How the trial of murdered Australian brothers and US friend unfolded",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T06:04:35.000Z",
-      "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-10T06:04:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 40,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "46e6a6386df1cc9e197c2197",
-      "isContinuation": false,
-      "titleZh": "两名澳大利亚兄弟及其美国朋友遇害案的审判过程回顾",
-      "summaryZh": "两年前在墨西哥遇害的两名澳大利亚冲浪者及其美国朋友的母亲表示，追究责任至关重要。该案件的审判过程引发了国际社会对跨国犯罪司法公正的关注。",
-      "whyImportant": "该案件凸显了在处理跨国暴力犯罪时，受害者家属对司法问责的迫切诉求。",
+      "titleZh": "美国牧场主在成本飙升与对特朗普的忠诚之间挣扎",
+      "summaryZh": "在中期选举临近之际，许多支持特朗普的州份的农民正面临严重的经济压力。尽管成本不断上涨，但这些牧场主仍在权衡其政治立场与经济困境之间的关系。",
+      "whyImportant": "该报道反映了美国农业群体在经济压力下的政治态度及其对选举的影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "e78a225efef0d279",
-      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
-      "publishedAt": "2026-10-11T03:13:53.000Z",
-      "summary": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
-          "publishedAt": "2026-10-11T03:13:53.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "861c4174b04d628b07ebe1b8",
-      "isContinuation": false,
-      "titleZh": "美军在阿曼湾拦截一艘“试图突破”伊朗封锁的船只",
-      "summaryZh": "美国中央司令部表示，美军战机对一艘商用货船的船尾进行了打击，并未造成船员伤亡。该船被指试图突破伊朗的封锁线。",
-      "whyImportant": "此事件加剧了波斯湾地区的紧张局势，并引发了对海上航行安全与地缘政治冲突的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ca9a4a6ca812ce9",
-      "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T03:04:32.000Z",
-      "summary": "Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese operations in less than four months as artificial intelligence drives demand for more sophisticated semiconductors. The Tokyo-based company said on Friday that it would add production lines for mould underfill (MUF) materials and compression-moulding granules at its facilities in Suzhou, eastern...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T03:04:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "41dbe576fbbdcdf99e58fdb1",
-      "isContinuation": false,
-      "titleZh": "受人工智能热潮推动，日本住友电木扩大在华芯片封装材料产能",
-      "summaryZh": "日本半导体材料巨头住友电木计划扩大其在中国和新加坡的先进芯片封装材料生产。这是该公司四个月内第二次宣布扩大在华业务，以满足人工智能领域对高性能半导体的需求。",
-      "whyImportant": "此举反映了全球半导体供应链在人工智能驱动下，正持续向中国市场进行产能布局。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f14f76a3acf65d28",
-      "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "publishedAt": "2026-10-10T21:02:49.000Z",
-      "summary": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-          "publishedAt": "2026-10-10T21:02:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "933ca4f0846ce5c06e02f2b4",
-      "isContinuation": false,
-      "titleZh": "也门胡塞武装发布针对政府军的无人机袭击视频",
-      "summaryZh": "也门胡塞武装发布了一段视频，声称展示了其对沙特支持的也门政府军发动的无人机袭击。该视频旨在展示其军事打击能力。",
-      "whyImportant": "此类袭击进一步破坏了也门脆弱的停火局势，增加了地区冲突升级的风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "more": [],
-  "metadata": {
-    "fetched": 126,
-    "deduplicated": 119,
-    "selected": 22,
-    "translated": 22,
-    "untranslated": 0,
-    "minimumRequired": 21,
-    "featured": 2,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
-    {
-      "id": "c2ab2d0f18554902",
-      "title": "Can China’s dancing robots swing some new business partners in Africa?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3370299/can-chinas-dancing-robots-swing-some-new-business-partners-africa?utm_source=rss_feed",
-      "publishedAt": "2026-10-10T08:00:07.000Z",
-      "summary": "At events marking China’s National Day in Africa on October 1, robots provided the entertainment. In Luanda, Angola, dancing robots amused guests and ambassador Zhang Bin called the industry “a small snapshot of the Chinese economy’s move towards innovation and higher-quality development”. In Brazzaville, Congo, nearly 400 guests – including Congolese officials and Chinese business representatives – watched on as a robot dog performed. Guests also interacted with a robot dog at a Chinese New...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3370299/can-chinas-dancing-robots-swing-some-new-business-partners-africa?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T08:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "军事与安全",
-        "专题·全球经济与金融"
-      ],
-      "score": 58,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "economy",
-        "经济"
-      ],
-      "fingerprint": "c555c119ff24913385588cd5",
-      "isContinuation": false,
-      "titleZh": "中国的跳舞机器人能否在非洲开拓新商机？",
-      "summaryZh": "在非洲举行的中国国庆庆祝活动中，跳舞机器人和机器狗成为焦点，展示了中国制造业的创新成果。中国外交官借此强调了中国经济向高质量发展转型的趋势。",
-      "whyImportant": "通过科技展示，中国正试图在非洲市场推广其高科技产品并加强双边经贸合作。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "04867a019168bd44",
-      "title": "127 arrested as Hong Kong police bust Vietnamese-led loan-sharking syndicate",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
-      "publishedAt": "2026-10-10T12:02:09.000Z",
-      "summary": "Hong Kong police have arrested 127 people in a six-month undercover operation against a Vietnamese-led crime syndicate accused of running loan-sharking rackets charging interest rates of up to 3,700 per cent, as well as illegal gambling and unlicensed bars in West Kowloon. The syndicate is also alleged to have helped illegal immigrants find shelter and work, with police raiding eight premises on October 8 and 9. Among those arrested were 10 alleged core members, including the suspected leader, a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T12:02:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "专题·全球经济与金融"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "interest rate",
-        "金融"
-      ],
-      "fingerprint": "a581de74661619efeaf359e1",
-      "isContinuation": false,
-      "titleZh": "香港警方破获越南裔高利贷团伙，127人被捕",
-      "summaryZh": "香港警方经过六个月的卧底行动，捣毁了一个由越南裔主导的犯罪团伙。该团伙涉嫌经营高利贷、非法赌博及无牌酒吧，并协助非法移民寻找住所和工作。",
-      "whyImportant": "此次大规模执法行动有效打击了涉及非法移民及高利贷的跨境犯罪活动，维护了社区治安。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e4256e6327a70194",
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T03:57:22.000Z",
-      "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels The latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than 300 others, civil aviation authorities said early Sunday, with some in a critical condition. A Saudi-led coalition blamed Iran-backed Houthi rebels in neighbouring Yemen. A missile struck a King Khalid international airport complex housing terminals 3 and 4 for domestic flights, a regional official said, speaking on condition of anonymity because they weren’t authorised to speak to the media. Continue reading...",
+      "id": "ed2293fa726beabc",
+      "title": "‘Absolutely senseless’: Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
+      "publishedAt": "2026-10-12T03:45:30.000Z",
+      "summary": "The 36-year-old victim had withdrawn cash to give to some young people when he was allegedly stabbed, according to police Get our breaking news email, free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s west on Friday. Emergency services were called to the suburb of Mount Druitt on Friday evening amid reports a man had been assaulted. This story was amended on 12 October 2026. An earlier version incorrectly stated the victim’s age as 30, rather than 36. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T03:57:22.000Z"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-          "publishedAt": "2026-10-11T01:02:07.000Z"
-        },
-        {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-          "publishedAt": "2026-10-10T23:37:27.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
+          "publishedAt": "2026-10-12T03:45:30.000Z"
         }
       ],
-      "sourceCount": 3,
+      "sourceCount": 1,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 78,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a6c3686f52ef042ed979bc52",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "3aacf3b36ba0009362e89ee8",
       "isContinuation": false,
-      "titleZh": "沙特首都利雅得机场遭袭，造成12人死亡、300人受伤",
-      "summaryZh": "沙特首都利雅得的哈立德国王国际机场遭到导弹袭击，导致12人死亡，300多人受伤，部分伤者情况危急。沙特领导的联军指责也门胡塞武装发动了此次袭击。",
-      "whyImportant": "此次袭击加剧了沙特与也门胡塞武装之间的紧张局势，并引发了关于美国是否应介入冲突的讨论。",
+      "titleZh": "“极其荒谬”：悉尼西部一名男子被刺身亡，一名13岁男孩被控谋杀",
+      "summaryZh": "悉尼西部一名36岁男子在向几名年轻人提供现金时遭刺身亡。警方已逮捕并起诉了一名13岁男孩，该案件引发了当地社区的震惊。",
+      "whyImportant": "此案涉及未成年人暴力犯罪，引发了社会对青少年犯罪及公共安全的广泛讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "dd64015355e53f30",
-      "title": "Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan",
+      "id": "1cba9a8063d19091",
+      "title": "Donald Tusk says man accused of plotting to kill him detained",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb",
-      "publishedAt": "2026-10-11T05:27:24.000Z",
-      "summary": "Anthony Albanese speaks at Australian War Memorial event commemorating 25th anniversary of country’s involvement in the conflict Anthony Albanese has honoured Australian troops who served in Afghanistan, using the 25th anniversary of the country’s involvement in the conflict to describe their heroism as a fight for “who we are as a people”. The prime minister joined hundreds of veterans, family members and dignitaries at a commemoration of the start of the campaign in Canberra on Sunday, with nation’s most decorated living soldier and accused war criminal Ben Roberts-Smith among the crowd at the Australian War Memorial. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+      "publishedAt": "2026-10-11T16:01:25.000Z",
+      "summary": "Polish PM praises police for ‘swift and decisive action’ after threat against him and defence minister revealed The Polish prime minister, Donald Tusk, said on Sunday that a man accused of plotting to assassinate him and his defence minister had been detained. “The man threatening an attack has been detained,” Tusk wrote on X, praising the police for their “swift and decisive action”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb",
-          "publishedAt": "2026-10-11T05:27:24.000Z"
+          "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+          "publishedAt": "2026-10-11T16:01:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "ef0c4bf88cbc63fd55ae3c6b",
+      "isContinuation": false,
+      "titleZh": "唐纳德·图斯克称一名密谋杀害他的男子已被拘留",
+      "summaryZh": "波兰总理唐纳德·图斯克周日宣布，一名涉嫌密谋暗杀他和国防部长的男子已被警方拘留。图斯克在社交媒体上赞扬了警方迅速果断的行动。",
+      "whyImportant": "针对国家领导人的暗杀阴谋对波兰的政治稳定构成了严重威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "94b811781f37e5f3",
+      "title": "North Korea fires multiple ballistic missiles towards the sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+      "publishedAt": "2026-10-12T03:37:12.000Z",
+      "summary": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+          "publishedAt": "2026-10-12T03:37:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1122,40 +1222,482 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 62,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5eb8ebc8a74e4d1f9b9e08c3",
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "missile",
+        "军事"
+      ],
+      "fingerprint": "2269ed4099e9d752162489a0",
       "isContinuation": false,
-      "titleZh": "本·罗伯茨-史密斯出席堪培拉活动，纪念在阿富汗服役的澳大利亚军队",
-      "summaryZh": "澳大利亚总理阿尔巴尼斯在堪培拉举行的纪念活动上，向在阿富汗服役的澳大利亚士兵致敬，称赞他们的英勇表现。备受争议的退伍军人本·罗伯茨-史密斯也出席了此次纪念澳大利亚参与该冲突25周年的活动。",
-      "whyImportant": "该活动旨在纪念澳大利亚的军事历史，但因涉嫌战争罪的罗伯茨-史密斯的出席而引发了公众关注。",
+      "titleZh": "朝鲜向海域发射多枚弹道导弹",
+      "summaryZh": "据首尔方面消息，朝鲜向海域发射了多枚弹道导弹。此次发射被视为对韩国此前进行高超音速导弹试射的一种武力展示。",
+      "whyImportant": "朝鲜的导弹活动加剧了朝鲜半岛的紧张局势，并引发了地区安全担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "more": [],
+  "metadata": {
+    "fetched": 130,
+    "deduplicated": 126,
+    "selected": 21,
+    "translated": 21,
+    "untranslated": 0,
+    "minimumRequired": 21,
+    "featured": 8,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
+    {
+      "id": "78bbd4b4601b3082",
+      "title": "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+      "publishedAt": "2026-10-12T04:55:40.000Z",
+      "summary": "MyCentre leader Samir Mohtadi, who also goes by Abu Hamza, refers to Islamic texts on the virtues of staying silent Get our breaking news email, free app or daily news podcast A leader of a Melbourne Islamic centre allegedly linked to the accused Flydubai hijacker has released a video extolling the virtues of staying silent, without directly commenting on the accusations from prosecutors in the United Arab Emirates. Dr Hamad Saif al-Shamsi, the attorney general of the UAE, on the weekend said that investigators had traced the ideological and professional background of the 29-year-old suspect and that their findings indicated his “drift towards extremism and terrorism” began while he was studying at RMIT University in Melbourne in 2017. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+          "publishedAt": "2026-10-12T04:55:40.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "科技",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 81,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "accdeb7d11e99ba7614f1a04",
+      "isContinuation": false,
+      "titleZh": "墨尔本伊斯兰教领袖在Facebook视频中对该中心涉嫌与迪拜航空劫机者有关联一事保持沉默",
+      "summaryZh": "墨尔本一伊斯兰中心负责人萨米尔·莫塔迪发布视频，强调保持沉默的价值，但未直接回应阿联酋检察官关于该中心与一名劫机嫌疑人有关联的指控。阿联酋总检察长指出，该嫌疑人曾在墨尔本皇家理工大学留学期间走向极端化。",
+      "whyImportant": "此事件引发了关于澳大利亚境内宗教机构与极端主义关联的调查及社会关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0d14b45cb5d1a1bd",
-      "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+      "id": "562edc058b937437",
+      "title": "Joyce likens US public execution to ‘Roman amphitheatre’ – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+      "publishedAt": "2026-10-12T04:57:52.000Z",
+      "summary": "This blog is now closed Get our breaking news email, free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour. These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government’s review, these changes to trust taxation have been called for. I think he’s getting that from lots of corners. People are saying that the Liberal party needs to do better. The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there’s something existential about the threat that I think the party now faces. Look, I certainly haven’t closed the door, but I don’t",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+          "publishedAt": "2026-10-12T04:57:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 76,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "c96694357c46abf7eb0ac51a",
+      "isContinuation": false,
+      "titleZh": "乔伊斯将美国公开处决比作“罗马圆形竞技场”",
+      "summaryZh": "澳大利亚助理财政部长丹尼尔·穆利诺重申，工党不会削弱对可支配信托基金征收30%最低税的计划。该政策旨在实现税收公平，并更好地平衡劳动收入与信托收入的税负。",
+      "whyImportant": "该税收改革引发了关于澳大利亚税制公平性及政治影响的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9aacce126464680a",
+      "title": "US can choose to deport Hongkongers under Deferred Enforced Departure scheme",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T05:42:57.000Z",
+      "summary": "United States authorities could deport Hong Kong residents granted extended stay under the Deferred Enforced Departure (DED) programme and have not ruled out the option of doing so after a dozen were reportedly detained at local airports. “The Department of Homeland Security (DHS) is not precluded from placing aliens with such temporary administrative designation into removal proceedings, nor is it currently removing them,” a department spokesman said in a reply to the South China Morning Post...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T05:42:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 76,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "723bf009f04092a1fcc5eb43",
+      "isContinuation": false,
+      "titleZh": "美国称可选择驱逐受“延期强制离境”计划保护的香港居民",
+      "summaryZh": "美国国土安全部表示，尽管目前未进行驱逐，但并未排除将受“延期强制离境”（DED）计划保护的香港居民纳入遣返程序的可能性。此前有报道称，已有十余名相关人士在机场被扣留。",
+      "whyImportant": "此表态引发了外界对在美港人居留权稳定性的担忧，并可能影响美港之间的相关政策走向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "edf5e3e9dfb9710d",
+      "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+      "publishedAt": "2026-10-12T05:49:11.000Z",
+      "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures. As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+          "publishedAt": "2026-10-12T05:49:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "1ad01bfe57946a0fbfbcbdf0",
+      "isContinuation": false,
+      "titleZh": "英国财政研究所：若无明确计划填补350亿英镑支出缺口，预算案将是“虚构作品”",
+      "summaryZh": "英国财政研究所警告称，除非政府制定明确计划以应对350亿英镑的支出压力，否则即将出台的预算案将缺乏现实基础。受通胀和中东局势影响，财政大臣面临增加拨款或实施深度削减的艰难选择。",
+      "whyImportant": "这凸显了英国政府在应对财政赤字与公共服务需求之间的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a0be79c793eaf566",
+      "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+      "publishedAt": "2026-10-12T05:00:47.000Z",
+      "summary": "Mark Rowley says inclusivity is crucial for the force and he refuses to be ‘blown off course’ by critics Sir Mark Rowley: I will have more police officers of colour in the UK capital – and the culture wars won’t stop me doing it Mark Rowley has said the Metropolitan police must recruit more black and Asian officers in order to gain the trust of minority ethnic communities in London, and vowed not to be “blown off course by the culture wars”. The right has criticised drives for diversity, claiming they lead to lower standards. Rowley, who is commissioner of the Met and Britain’s top police officer, said that as a leader of a major organisation he was prepared to take a stand against the “toxicity” surrounding the diversity debate and criticised other leaders for “running away from the subject”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+          "publishedAt": "2026-10-12T05:00:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "45f81d652367d7f0ef614cba",
+      "isContinuation": false,
+      "titleZh": "伦敦警察厅厅长表示，围绕多元化、公平与包容（DEI）的“毒性”不会阻止他招募更多黑人和亚裔警官",
+      "summaryZh": "伦敦警察厅厅长马克·罗利誓言，尽管面临文化战争的批评，他仍将致力于招募更多少数族裔警官以提升社区信任。他批评其他领导人在面对多元化争议时选择退缩，并坚持认为包容性对警队至关重要。",
+      "whyImportant": "此举反映了英国警务系统在推动种族多元化与应对社会舆论压力之间的矛盾。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "892540aa2558fb9c",
+      "title": "Burnham to urge MPs to embrace closer ties with EU",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+      "publishedAt": "2026-10-12T05:00:46.000Z",
+      "summary": "Post-recess statement will focus on damage caused by Brexit and the need to cooperate on immigration and trade Andy Burnham will put Brexit back on the Commons agenda as MPs return from recess, warning that failing to pursue a better deal with the EU would be a “major dereliction of duty”. The prime minister will use a statement to the Commons on the first day back after the party conference break to urge MPs to face up to the damage caused by Brexit, and embrace closer ties with the EU to increase economic growth and tackle illegal immigration. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+          "publishedAt": "2026-10-12T05:00:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "f41b29dddabc5b46740100ad",
+      "isContinuation": false,
+      "titleZh": "伯纳姆将敦促议员们加强与欧盟的联系",
+      "summaryZh": "英国首相安迪·伯纳姆计划在议会复会时强调脱欧带来的负面影响，并呼吁加强与欧盟的合作。他认为寻求更好的对欧协议对于促进经济增长和解决非法移民问题至关重要。",
+      "whyImportant": "这标志着英国政府在脱欧后政策方向上可能寻求更务实的对欧关系调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3566ee1decd066e1",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T17:27:24.000Z",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-11T17:27:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "112aa474d1098669b8c1bdf5",
+      "isContinuation": false,
+      "titleZh": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
+      "summaryZh": "波兰警方收到可靠情报，称有人计划对总理唐纳德·图斯克及其国防部长发动袭击。目前相关嫌疑人已被拘留。",
+      "whyImportant": "针对国家领导人的暗杀威胁引发了波兰国内对政治安全局势的高度警惕。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7a25d6204cd6f042",
+      "title": "Republican and Democrat senators want Trump to reverse course on Russian diesel deal",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
+      "publishedAt": "2026-10-11T17:15:37.000Z",
+      "summary": "Republican and Democratic US senators called on President Donald ⁠Trump on Sunday to “reverse course” on his diesel supply deal with Russia, saying it runs counter to US law barring imports of energy until Russia ends its aggression against Ukraine. “Congress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing (Russian President Vladimir) Putin’s brutal war against Ukraine,” the seven senators – four of Trump’s fellow Republicans and three Democrats – said...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
+          "publishedAt": "2026-10-11T17:15:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "能源",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 68,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "9dca944c503450860690aac8",
+      "isContinuation": false,
+      "titleZh": "共和党与民主党参议员要求特朗普撤销与俄罗斯的柴油协议",
+      "summaryZh": "七名美国参议员联名要求特朗普总统撤销与俄罗斯达成的柴油供应协议。他们认为该协议违反了美国禁止进口俄罗斯能源以制裁其对乌克兰战争的法律规定。",
+      "whyImportant": "此举显示了美国国会两党在对俄制裁问题上对行政部门施加的压力，以及能源政策与外交政策之间的冲突。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ef25b116d8d627fb",
+      "title": "Ministers preparing to slash heat pump subsidies to fund defence spending",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+      "publishedAt": "2026-10-12T05:00:47.000Z",
+      "summary": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources say Ministers are preparing to slash the amount of money available to subsidise heat pumps as they look for ways to fund higher defence spending, sources have told the Guardian. Miatta Fahnbulleh, the energy secretary, has been tasked with finding more than £2bn in savings from her budget to help pay for defence investment under a plan drawn up by the previous government. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+          "publishedAt": "2026-10-12T05:00:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "军事"
+      ],
+      "fingerprint": "e466eda5db2f3e82621bc5e5",
+      "isContinuation": false,
+      "titleZh": "部长们准备削减热泵补贴以资助国防支出",
+      "summaryZh": "据报道，英国政府计划从能源预算中削减约20亿英镑，其中包括削减锅炉升级计划中的热泵补贴。此举旨在为增加国防开支腾出资金。",
+      "whyImportant": "该决策反映了英国政府在能源转型目标与国防预算需求之间的财政博弈。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "80f6961bccad23fd",
+      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
-      "publishedAt": "2026-10-11T04:28:51.000Z",
-      "summary": "Four people died after Hurricane Isaias made landfall early on Saturday, and about 670,000 residents in Florida, Alabama, Georgia and Mississippi were still without power as the storm weakened to a post-tropical cyclone, according to local authorities and electricity monitoring services. Two of the deaths resulted ‌from trees falling on homes, according to local media and authorities. Authorities in Florida had received no search and rescue requests shortly after landfall in a sign of limited...",
+      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "publishedAt": "2026-10-12T02:11:21.000Z",
+      "summary": "Sunday's strike on King Khalid International airport kills a Pakistani national.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
-          "publishedAt": "2026-10-11T04:28:51.000Z"
-        },
+          "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+          "publishedAt": "2026-10-12T02:11:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "52f6d447081beaf0dcdb34ea",
+      "isContinuation": false,
+      "titleZh": "沙特阿拉伯称利雅得机场再次遇袭，造成1人死亡、11人受伤",
+      "summaryZh": "周日，哈立德国王国际机场遭到袭击，导致一名巴基斯坦籍人员死亡，另有11人受伤。目前相关调查正在进行中。",
+      "whyImportant": "针对沙特关键基础设施的袭击加剧了地区安全局势的紧张。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5543b04e9315b169",
+      "title": "At least 139 migrants dead, dozens missing after boat capsizes off Djibouti",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T01:05:42.000Z",
+      "summary": "At least 139 migrants died, including 15 children, and 84 went missing when an overcrowded boat sank while heading from Djibouti to Yemen, a UN agency said on Sunday. The vessel was carrying 305 people, most of them Ethiopian, when it capsized north of the Djibouti town of Obock on the night of October 8-9, the International Organization for Migration (IOM) said in a statement. “Survivors told me that the boat started to sink backwards as soon as they got in it,” Alexandre Coissac, IOM chief of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T20:29:50.000Z"
+          "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T01:05:42.000Z"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-11T15:32:23.000Z"
         }
       ],
       "sourceCount": 2,
@@ -1164,35 +1706,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "环境"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bd2f27e00bddfa6381baf0c9",
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "8296ed6b96804b57d9061ba0",
       "isContinuation": false,
-      "titleZh": "飓风“伊萨亚斯”造成4人死亡，佛罗里达州65万人断电",
-      "summaryZh": "飓风“伊萨亚斯”登陆后已减弱为后热带气旋，但仍造成4人死亡。佛罗里达州及周边地区约67万人受灾断电，部分死亡事故由树木倒塌引发。",
-      "whyImportant": "此次飓风对美国东南部基础设施造成了严重破坏，并引发了对灾后救援和电力恢复的关注。",
+      "titleZh": "吉布提附近海域发生沉船事故，至少139名移民遇难，数十人失踪",
+      "summaryZh": "一艘载有305人的移民船在从吉布提前往也门的途中倾覆，造成至少139人死亡，其中包括15名儿童，另有84人失踪。幸存者表示，船只在登船后不久便开始向后倾斜并沉没。",
+      "whyImportant": "此事件凸显了非法移民在穿越危险海域时面临的极端安全风险与人道主义危机。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c9c6ff257cce5af8",
-      "title": "Who rules Negeri Sembilan? Royal row tests Malaysia’s constitutional order",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3370365/who-rules-negeri-sembilan-royal-row-tests-malaysias-constitutional-order?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T00:00:10.000Z",
-      "summary": "The dust has yet to settle in Malaysia’s Negeri Sembilan, where a royal row has led to the fall of a state government and left the public wondering who, exactly, is in charge. Observers warn that the months-long constitutional crisis could create ripple effects well beyond the state’s borders, testing the entire nation’s systems of monarchy and government. The dispute centres on which of two men: the incumbent, Tuanku Muhriz Tuanku Munawir, or his intended replacement, Tunku Nadzaruddin Tuanku...",
+      "id": "a3b4ebd015cbc859",
+      "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+      "publishedAt": "2026-10-12T04:24:18.000Z",
+      "summary": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3370365/who-rules-negeri-sembilan-royal-row-tests-malaysias-constitutional-order?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T00:00:10.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+          "publishedAt": "2026-10-12T04:24:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1202,550 +1748,40 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "894767b954aae235ec9d4ae9",
-      "isContinuation": false,
-      "titleZh": "谁在统治森美兰州？王室纠纷考验马来西亚宪政秩序",
-      "summaryZh": "马来西亚森美兰州因王室内部纠纷导致州政府倒台，引发了关于谁拥有实际统治权的宪政危机。观察人士警告，这场争端可能对马来西亚的君主立宪制度产生深远影响。",
-      "whyImportant": "该事件暴露了马来西亚地方政治与王室权力之间的潜在冲突，对国家的宪政稳定性构成了挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a19c2aa7e4062078",
-      "title": "Two Carlton players treated in hospital after needing care for ‘separate circumstances’",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
-      "publishedAt": "2026-10-11T05:05:45.000Z",
-      "summary": "Club issues brief statement about Lachie Cowan and Will Hayward, saying latter suffered minor cut to head after a fall Carlton football club has said two of its players, Lachie Cowan and Will Hayward, required treatment in hospital on Sunday morning in “separate circumstances”. The club released a statement on Sunday after reports in several media outlets that unnamed players had been taken to hospital by ambulance after a night out. Guardian Australia contacted Carlton seeking comment on the reports. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
-          "publishedAt": "2026-10-11T05:05:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "3cec9b32126cbbcdf6ebe28b",
-      "isContinuation": false,
-      "titleZh": "两名卡尔顿队球员因“不同情况”在医院接受治疗",
-      "summaryZh": "卡尔顿足球俱乐部证实，球员拉奇·考恩和威尔·海沃德因不同原因在周日早晨入院治疗。俱乐部回应了关于球员在夜间外出后被送往医院的媒体报道，并确认海沃德因跌倒导致头部轻微割伤。",
-      "whyImportant": "作为职业体育俱乐部，球员的健康状况和场外行为受到公众和媒体的密切关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5028b77c1e143b2e",
-      "title": "Christian nationalism in Britain driven by people who seldom go to church, says report",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
-      "publishedAt": "2026-10-11T05:00:17.000Z",
-      "summary": "Research challenges the notion that the growing visibility of crosses and other symbols reflects a revival of Christianity Christian nationalism in Britain is being driven largely by people who rarely attend church and are more concerned with defending the country’s Christian heritage, according to research. The report, by the thinktank Theos, identified five different groups within the UK in a survey that looked at their attitudes to Christianity and Britishness. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
-          "publishedAt": "2026-10-11T05:00:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e40919fa1d8325cd9cbc70ef",
-      "isContinuation": false,
-      "titleZh": "报告称英国的基督教民族主义主要由极少去教堂的人推动",
-      "summaryZh": "智库Theos的一项研究指出，英国基督教民族主义的抬头并非源于宗教复兴，而是由那些很少参加教会活动、更关注捍卫国家基督教传统的人所驱动。研究识别了英国社会中对基督教和英国身份认同持不同态度的五个群体。",
-      "whyImportant": "该研究挑战了关于宗教符号可见度增加即代表宗教信仰复兴的传统观点，揭示了文化身份认同在现代政治中的作用。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "701fb6328049281b",
-      "title": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike",
-      "publishedAt": "2026-10-11T05:00:16.000Z",
-      "summary": "Trump has used the full might of the presidency to supercharge executions, but an avalanche of mishaps has put the system’s flaws in the spotlight It took more than an hour to establish the two intravenous lines through which Christa Pike would be injected with a giant and normally lethal dose of the sedative pentobarbital, and in that time she did everything she could to assist those who were attempting to kill her. “Please try here,” she said over and over again to Tennessee’s execution team, pointing to specific parts of her body where she thought they might find a vein as they repeatedly stabbed her with needles. “Please try here, I think it will be OK. Please try up on my shoulder, higher.” Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike",
-          "publishedAt": "2026-10-11T05:00:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cf76964a536279f1afc9f178",
-      "isContinuation": false,
-      "titleZh": "美国死刑执行激增，但在克里斯塔·派克执行失败后，其未来何去何从？",
-      "summaryZh": "尽管美国政府近期加大了死刑执行力度，但克里斯塔·派克在执行过程中遭遇的严重失误引发了对死刑制度缺陷的质疑。执行团队在寻找静脉注射点时多次失败，导致过程极其痛苦且漫长。",
-      "whyImportant": "执行过程中的失误再次引发了关于死刑人道性及制度合理性的激烈社会辩论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e874cb89fc7000a7",
-      "title": "How a museum masterpiece’s life-size replica sparked rare US-China collaboration",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed",
-      "publishedAt": "2026-10-10T22:00:12.000Z",
-      "summary": "For anyone who has visited the Chinese galleries at the Metropolitan Museum of Art in New York, there is one work that stops them in their tracks. Stepping into Gallery 206, home to Chinese Buddhist art, visitors are met by a monumental wall – over 15 metres wide and 7.5 metres tall (nearly 50 feet by 25 feet) – covered in a Buddhist assembly so vast and majestic that it momentarily erases the Manhattan bustle outside. Here stands the Medicine Buddha, a 14th century Yuan dynasty (1279-1368)...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed",
-          "publishedAt": "2026-10-10T22:00:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7176e0940082e62a3c6f9d6e",
-      "isContinuation": false,
-      "titleZh": "博物馆杰作的等身复制品如何促成美中罕见合作",
-      "summaryZh": "纽约大都会艺术博物馆收藏的元代药师佛壁画因其宏伟壮观而备受瞩目。为了展示这一杰作，博物馆通过与中国的合作，制作了等身复制品，促进了文化交流。",
-      "whyImportant": "这一合作项目展示了通过艺术保护和复制技术，美中两国在文化遗产领域可以实现积极的互动与交流。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "51b5894cf6391297",
-      "title": "Unsung turtle conservation heroes in Malaysia’s Sabah unite to fight poachers",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/health-environment/article/3370466/unsung-turtle-conservation-heroes-malaysias-sabah-unite-fight-poachers?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:00:28.000Z",
-      "summary": "Roziah Jelali has a tip or two on catching a turtle poacher: carrying a pair of binoculars and having patience in spades are key to doing the job well. The 36-year-old Malaysian volunteer ranger once spent three months in Sabah tracking a man whom she suspected of illegally capturing protected turtles. Once thriving off the azure seas of Omadal Island in the Malaysian state, many turtles had been hunted down, killed and sold for their meat, according to conservation experts. Recounting the 2023...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/health-environment/article/3370466/unsung-turtle-conservation-heroes-malaysias-sabah-unite-fight-poachers?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:00:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "092ee69636ac2f511930964f",
-      "isContinuation": false,
-      "titleZh": "马来西亚沙巴州的无名海龟保护英雄联合打击偷猎者",
-      "summaryZh": "马来西亚沙巴州的志愿者们通过耐心蹲守和观察，积极打击非法捕杀受保护海龟的偷猎者。当地海龟曾因被猎杀用于肉类贸易而数量锐减，保护工作对生态恢复至关重要。",
-      "whyImportant": "民间志愿者的参与对于保护濒危物种及维护当地海洋生态平衡具有积极意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "935bbda116f204c5",
-      "title": "Nanotechnology expert Antonio Facchetti joins HKUST from Georgia Tech in the US",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3370290/nanotechnology-expert-antonio-facchetti-joins-hkust-georgia-tech-us?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:00:13.000Z",
-      "summary": "Materials scientist and chemist Antonio Facchetti, formerly of the Georgia Institute of Technology in the United States, has joined the Hong Kong University of Science and Technology as a chair professor in its newly established department of materials. Facchetti, who was elected to the US National Academy of Engineering last year for his “contributions to the engineering of commercially viable electronic materials and devices”, researches semiconductors, dielectrics for thin-film and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3370290/nanotechnology-expert-antonio-facchetti-joins-hkust-georgia-tech-us?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
         "科技",
-        "国际组织"
-      ],
-      "score": 67,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0f394eb5673cb8b3f34fcbea",
-      "isContinuation": false,
-      "titleZh": "纳米技术专家安东尼奥·法切蒂从美国佐治亚理工学院加入香港科技大学",
-      "summaryZh": "美国国家工程院院士、材料科学家安东尼奥·法切蒂已加入香港科技大学，担任新成立的材料系讲座教授。他此前在电子材料和器件工程领域贡献卓著，未来将致力于相关科研工作。",
-      "whyImportant": "顶尖科研人才的引进有助于提升香港在材料科学领域的国际学术地位与创新能力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "494656ac844e9da8",
-      "title": "Huanggang Port a ‘milestone’ for integrating Hong Kong, Greater Bay Area: John Lee",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370474/huanggang-port-milestone-integrating-hong-kong-greater-bay-area-john-lee?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T05:08:51.000Z",
-      "summary": "The revamped Huanggang checkpoint is a “critical milestone” for the connectivity of the Greater Bay Area, Hong Kong’s leader has said, as the city and Shenzhen count down to its launch on Monday. Speaking at a ceremony on Sunday, Chief Executive John Lee-Ka Chiu said the Huanggang control point was a “landmark project” built and shared through the joint efforts of Hong Kong and Shenzhen. “Hong Kong unveiled its first five-year plan last month to proactively align with the national 15th five-year...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370474/huanggang-port-milestone-integrating-hong-kong-greater-bay-area-john-lee?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T05:08:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "659816d781e889122a6e4441",
-      "isContinuation": false,
-      "titleZh": "李家超：皇岗口岸是香港融入大湾区的里程碑",
-      "summaryZh": "香港特区行政长官李家超表示，即将启用的皇岗口岸是深港合作的标志性项目，对大湾区互联互通具有重要意义。此举旨在配合国家五年规划，进一步深化区域融合。",
-      "whyImportant": "新口岸的启用将显著提升深港两地的交通效率，促进大湾区内的人员与经济流动。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b104d82ab504e1d4",
-      "title": "Paul Chan highlights 4 priorities ahead of Apec finance ministers’ meeting this month",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370472/hong-kong-finance-chief-highlights-4-priorities-ahead-apec-meeting-month?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:22:33.000Z",
-      "summary": "The Apec finance ministers’ meeting in Hong Kong this month will focus on fiscal policies that support livelihoods, digital infrastructure financing, inclusive finance and young financial talent, underlining the city’s role as an international financial centre, the finance chief said. “These four priorities are areas of strength for Hong Kong and fields in which we can make an active contribution,” Financial Secretary Paul Chan Mo-po wrote in his weekly blog on Sunday. “Hosting the finance...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370472/hong-kong-finance-chief-highlights-4-priorities-ahead-apec-meeting-month?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:22:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e9c00886de6291a604738785",
-      "isContinuation": false,
-      "titleZh": "陈茂波强调本月亚太经合组织财长会议的四大优先事项",
-      "summaryZh": "香港财政司司长陈茂波表示，即将举行的亚太经合组织财长会议将聚焦民生财政政策、数字基础设施融资、普惠金融及青年金融人才培养。他强调这些领域是香港的优势所在。",
-      "whyImportant": "作为东道主，香港通过设定会议议程展示了其作为国际金融中心的专业影响力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9bbb9f475caeb731",
-      "title": "Admission scores fall for Hong Kong physiotherapy courses amid jobs crunch",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3370461/admission-scores-fall-hong-kong-physiotherapy-courses-amid-jobs-crunch?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:00:20.000Z",
-      "summary": "Admission scores for physiotherapy degree programmes at three Hong Kong tertiary institutions fell by as much as 10 per cent this year compared with 2025, amid gloomy career prospects in the sector, the latest data shows. The decline prompted the professional body for physiotherapists to call on the government to halt healthcare funding cuts in the next budget, saying they had contributed to a jobs crunch in the sector. Across four institutions, 23 per cent of students admitted to physiotherapy...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3370461/admission-scores-fall-hong-kong-physiotherapy-courses-amid-jobs-crunch?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:00:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b00326df50ce4fbf3b9adb39",
-      "isContinuation": false,
-      "titleZh": "受就业市场紧缩影响，香港物理治疗课程录取分数下降",
-      "summaryZh": "数据显示，香港三所高校的物理治疗学位课程录取分数较去年下降了10%。专业团体指出，医疗资金削减导致行业就业困难，呼吁政府在预算中予以重视。",
-      "whyImportant": "教育录取门槛的变化反映了相关行业就业前景的波动，引发了对医疗人才培养政策的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "21d75e612ec01126",
-      "title": "Denuclearising North Korea would ‘defy history’ as US, allies missed the boat",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3370470/denuclearising-north-korea-would-defy-history-us-allies-missed-boat?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T04:00:19.000Z",
-      "summary": "The denuclearisation of North Korea has become an “increasingly improbable” goal and the United States and its allies should move beyond it to devote their diplomatic efforts to talks on arms limitations and crisis communication, the director of the US-based North Korean analysis website 38 North said. Recalling the 20 years since North Korea carried out its first nuclear test on October 9, 2006, Jenny Town said in a written interview that “a pivotal moment” in Pyongyang’s weapons development...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3370470/denuclearising-north-korea-would-defy-history-us-allies-missed-boat?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T04:00:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "外交",
-        "能源"
+        "专题·军事、安全与突发事件"
       ],
       "score": 66,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "47ba0053ee2ef9730fb6b4a3",
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "war",
+        "军事"
+      ],
+      "fingerprint": "2a3ca384f6556985ce728fe9",
       "isContinuation": false,
-      "titleZh": "专家称朝鲜无核化已“违背历史”，美及其盟友应转向军控谈判",
-      "summaryZh": "美国智库专家指出，朝鲜无核化目标已变得极难实现，建议美国及其盟友将外交重点转向军备限制和危机沟通。朝鲜自2006年首次核试验以来，其武器开发已进入新阶段。",
-      "whyImportant": "该观点挑战了传统的对朝政策，反映了国际社会对朝鲜半岛局势长期僵持的担忧。",
+      "titleZh": "内塔尼亚胡要求调查获奖加沙纪录片《NAZA》的消息来源",
+      "summaryZh": "一部纪录片引用了24名匿名以色列消息人士的证词，指控以军在加沙地带利用人工智能系统杀害巴勒斯坦人。内塔尼亚胡政府对此表示不满，并要求彻查该片的信息来源。",
+      "whyImportant": "该事件反映了以色列政府对涉及军事行动负面报道的敏感性以及对信息安全的高度关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d69958fb8dcf1b1c",
-      "title": "US opens antitrust probe into TV networks halting Trump coverage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-      "publishedAt": "2026-10-11T04:30:10.000Z",
-      "summary": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-          "publishedAt": "2026-10-11T04:30:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0132dd3e839c6153ae976ece",
-      "isContinuation": false,
-      "titleZh": "美国对电视网络中断特朗普报道的行为展开反垄断调查",
-      "summaryZh": "美国司法部表示，正在调查白宫记者团中断特朗普报道的决定是否违反了反垄断法。该调查旨在评估媒体机构的行为是否涉及不正当竞争。",
-      "whyImportant": "此举引发了关于媒体独立性与政府监管权力边界的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d04c1567476d9d81",
-      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T09:17:36.000Z",
-      "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-10T09:17:36.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 42,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "366e7bcc7e9933c089a670d5",
-      "isContinuation": false,
-      "titleZh": "美国公开处决已停止近一个世纪，为何现在恢复？",
-      "summaryZh": "五角大楼宣布将直播胡德堡枪击案凶手尼达尔·哈桑的处决过程。专家认为，政府此举可能误判了公众对恢复公开处决的接受程度。",
-      "whyImportant": "这一决定挑战了美国长期以来的司法伦理标准，引发了关于刑事司法透明度与人权的争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "07079819a9ad2bdf",
-      "title": "How the trial of murdered Australian brothers and US friend unfolded",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T06:04:35.000Z",
-      "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-10T06:04:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 40,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "46e6a6386df1cc9e197c2197",
-      "isContinuation": false,
-      "titleZh": "两名澳大利亚兄弟及其美国朋友遇害案的审判过程回顾",
-      "summaryZh": "两年前在墨西哥遇害的两名澳大利亚冲浪者及其美国朋友的母亲表示，追究责任至关重要。该案件的审判过程引发了国际社会对跨国犯罪司法公正的关注。",
-      "whyImportant": "该案件凸显了在处理跨国暴力犯罪时，受害者家属对司法问责的迫切诉求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e78a225efef0d279",
-      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
-      "publishedAt": "2026-10-11T03:13:53.000Z",
-      "summary": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
-          "publishedAt": "2026-10-11T03:13:53.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "861c4174b04d628b07ebe1b8",
-      "isContinuation": false,
-      "titleZh": "美军在阿曼湾拦截一艘“试图突破”伊朗封锁的船只",
-      "summaryZh": "美国中央司令部表示，美军战机对一艘商用货船的船尾进行了打击，并未造成船员伤亡。该船被指试图突破伊朗的封锁线。",
-      "whyImportant": "此事件加剧了波斯湾地区的紧张局势，并引发了对海上航行安全与地缘政治冲突的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ca9a4a6ca812ce9",
-      "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
+      "id": "84da184d48f3de38",
+      "title": "Beijing moves to steady A-share market after sharp tech sell-off",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T03:04:32.000Z",
-      "summary": "Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese operations in less than four months as artificial intelligence drives demand for more sophisticated semiconductors. The Tokyo-based company said on Friday that it would add production lines for mould underfill (MUF) materials and compression-moulding granules at its facilities in Suzhou, eastern...",
+      "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T01:00:19.000Z",
+      "summary": "China’s top securities regulator has signalled fresh support for the domestic A-share market, convening a symposium over the weekend as authorities sought to shore up sentiment following a sharp sell-off in technology shares driven by concerns over US sanctions. The China Securities Regulatory Commission (CSRC) brought together executives from listed companies and experts from securities firms and fund managers at a meeting in Beijing on Saturday to “discuss the country’s capital markets and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T03:04:32.000Z"
+          "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T01:00:19.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1754,35 +1790,226 @@
       "isNoise": false,
       "tags": [
         "中国重点",
+        "外交",
+        "金融",
         "科技"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "41dbe576fbbdcdf99e58fdb1",
+      "fingerprint": "076372337b98f8755876814c",
       "isContinuation": false,
-      "titleZh": "受人工智能热潮推动，日本住友电木扩大在华芯片封装材料产能",
-      "summaryZh": "日本半导体材料巨头住友电木计划扩大其在中国和新加坡的先进芯片封装材料生产。这是该公司四个月内第二次宣布扩大在华业务，以满足人工智能领域对高性能半导体的需求。",
-      "whyImportant": "此举反映了全球半导体供应链在人工智能驱动下，正持续向中国市场进行产能布局。",
+      "titleZh": "北京采取行动稳定A股市场，应对科技股大幅抛售",
+      "summaryZh": "受美国制裁担忧影响，中国科技股近期出现大幅抛售。中国证监会为此召开座谈会，听取上市公司及金融机构意见，旨在提振市场信心并稳定资本市场。",
+      "whyImportant": "监管层的介入显示了中国政府在面对外部压力时，致力于维护金融市场稳定与投资者信心的决心。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "f14f76a3acf65d28",
-      "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
+      "id": "c689170425a4b6fc",
+      "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "publishedAt": "2026-10-10T21:02:49.000Z",
-      "summary": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+      "publishedAt": "2026-10-12T04:58:01.000Z",
+      "summary": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-          "publishedAt": "2026-10-10T21:02:49.000Z"
+          "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+          "publishedAt": "2026-10-12T04:58:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交"
+      ],
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "23a4d7332721669addbe08de",
+      "isContinuation": false,
+      "titleZh": "中国制裁巴拉圭和伯利兹官员，因其与台湾保持关系",
+      "summaryZh": "中国外交部宣布对巴拉圭和伯利兹的相关官员实施制裁。中方表示，此举是基于维护国家主权及反对台湾分裂活动的立场。",
+      "whyImportant": "此举进一步体现了中国在外交层面严厉打击“台独”势力及其外部支持者的坚定立场。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6f74cb7a0ee4690f",
+      "title": "Minibus driver hospitalised, 18 others injured, after collision with goods truck",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370539/minibus-driver-hospitalised-18-others-injured-after-collision-goods-truck?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T04:40:16.000Z",
+      "summary": "A minibus driver has been hospitalised after her vehicle collided with a medium goods truck in Hong Kong, causing injuries to 18 others. Police said the accident occurred at around 9.22am on Monday, when a green minibus and a medium goods truck collided on San Tin Highway on the Yuen Long-bound side of the road near Fairview Park. According to police, a total of nine men and 10 women were injured in the crash. The accident prompted authorities to close two lanes of the road, leading to severe...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370539/minibus-driver-hospitalised-18-others-injured-after-collision-goods-truck?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T04:40:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "公共安全"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "79e63bc9e8feba2aa7aab52e",
+      "isContinuation": false,
+      "titleZh": "香港发生小巴与货车相撞事故，司机送医，另有18人受伤",
+      "summaryZh": "一辆绿色小巴与一辆中型货车在香港新田公路发生碰撞，导致小巴司机送医，另有18名乘客受伤。事故造成现场部分车道封闭，交通严重受阻。",
+      "whyImportant": "该交通事故造成多人受伤并引发交通拥堵，再次引发公众对道路交通安全的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ffdff2062e44d57a",
+      "title": "Chinese desalination plant cuts 60% energy use, turns waste brine into industrial salt",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T04:15:34.000Z",
+      "summary": "A large desalination plant on Bohai Bay has achieved an energy efficiency breakthrough, slashing electricity consumption by more than half while converting millions of tonnes of toxic waste brine into high-value chemical salt. Situated in the Caofeidian industrial zone of Tangshan, Hebei province, the facility recently entered its trial production stage, the state-run Science and Technology Daily reported last month. This technology provides a viable pathway to solving the global challenge of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T04:15:34.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "能源"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "63315e6a25ad8e848e354642",
+      "isContinuation": false,
+      "titleZh": "中国海水淡化厂能耗降低60%，并将废盐水转化为工业盐",
+      "summaryZh": "位于河北唐山的一家海水淡化厂通过技术突破，将电力消耗降低了一半以上，并成功将有毒废盐水转化为高价值的工业化学盐。该项目已进入试生产阶段，为解决全球淡化水处理难题提供了新路径。",
+      "whyImportant": "该技术的应用有望显著降低海水淡化成本，并减少环境污染，具有重要的环保与经济意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3ed512f2643207e0",
+      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+      "publishedAt": "2026-10-11T07:45:31.000Z",
+      "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast An Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said. Jordan Yap, 30, last made contact with friends and family on 14 September ahead of a planned 10-day solo trek along Peru’s Huayhuash mountain range, 400km north-east of Lima. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+          "publishedAt": "2026-10-11T07:45:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "78e5009f71e7766a4e44838f",
+      "isContinuation": false,
+      "titleZh": "在秘鲁偏远步道失踪的澳大利亚徒步旅行者乔丹·亚普被发现死亡",
+      "summaryZh": "一名30岁的墨尔本男子乔丹·亚普在秘鲁瓦伊瓦什山脉进行为期10天的单人徒步旅行时失踪，其家人证实他已被发现死亡。他最后一次与亲友联系是在9月14日。",
+      "whyImportant": "此事件引发了对海外徒步旅行安全及搜救工作的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "09d644374a110cd8",
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:13:51.000Z",
+      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-11T23:13:51.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 53,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ca55395d1e112d781540de84",
+      "isContinuation": false,
+      "titleZh": "美国牧场主在成本飙升与对特朗普的忠诚之间挣扎",
+      "summaryZh": "在中期选举临近之际，许多支持特朗普的州份的农民正面临严重的经济压力。尽管成本不断上涨，但这些牧场主仍在权衡其政治立场与经济困境之间的关系。",
+      "whyImportant": "该报道反映了美国农业群体在经济压力下的政治态度及其对选举的影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed2293fa726beabc",
+      "title": "‘Absolutely senseless’: Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
+      "publishedAt": "2026-10-12T03:45:30.000Z",
+      "summary": "The 36-year-old victim had withdrawn cash to give to some young people when he was allegedly stabbed, according to police Get our breaking news email, free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s west on Friday. Emergency services were called to the suburb of Mount Druitt on Friday evening amid reports a man had been assaulted. This story was amended on 12 October 2026. An earlier version incorrectly stated the victim’s age as 30, rather than 36. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
+          "publishedAt": "2026-10-12T03:45:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1791,18 +2018,106 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
         "突发"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "933ca4f0846ce5c06e02f2b4",
+      "fingerprint": "3aacf3b36ba0009362e89ee8",
       "isContinuation": false,
-      "titleZh": "也门胡塞武装发布针对政府军的无人机袭击视频",
-      "summaryZh": "也门胡塞武装发布了一段视频，声称展示了其对沙特支持的也门政府军发动的无人机袭击。该视频旨在展示其军事打击能力。",
-      "whyImportant": "此类袭击进一步破坏了也门脆弱的停火局势，增加了地区冲突升级的风险。",
+      "titleZh": "“极其荒谬”：悉尼西部一名男子被刺身亡，一名13岁男孩被控谋杀",
+      "summaryZh": "悉尼西部一名36岁男子在向几名年轻人提供现金时遭刺身亡。警方已逮捕并起诉了一名13岁男孩，该案件引发了当地社区的震惊。",
+      "whyImportant": "此案涉及未成年人暴力犯罪，引发了社会对青少年犯罪及公共安全的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1cba9a8063d19091",
+      "title": "Donald Tusk says man accused of plotting to kill him detained",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+      "publishedAt": "2026-10-11T16:01:25.000Z",
+      "summary": "Polish PM praises police for ‘swift and decisive action’ after threat against him and defence minister revealed The Polish prime minister, Donald Tusk, said on Sunday that a man accused of plotting to assassinate him and his defence minister had been detained. “The man threatening an attack has been detained,” Tusk wrote on X, praising the police for their “swift and decisive action”. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+          "publishedAt": "2026-10-11T16:01:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "ef0c4bf88cbc63fd55ae3c6b",
+      "isContinuation": false,
+      "titleZh": "唐纳德·图斯克称一名密谋杀害他的男子已被拘留",
+      "summaryZh": "波兰总理唐纳德·图斯克周日宣布，一名涉嫌密谋暗杀他和国防部长的男子已被警方拘留。图斯克在社交媒体上赞扬了警方迅速果断的行动。",
+      "whyImportant": "针对国家领导人的暗杀阴谋对波兰的政治稳定构成了严重威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "94b811781f37e5f3",
+      "title": "North Korea fires multiple ballistic missiles towards the sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+      "publishedAt": "2026-10-12T03:37:12.000Z",
+      "summary": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+          "publishedAt": "2026-10-12T03:37:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "missile",
+        "军事"
+      ],
+      "fingerprint": "2269ed4099e9d752162489a0",
+      "isContinuation": false,
+      "titleZh": "朝鲜向海域发射多枚弹道导弹",
+      "summaryZh": "据首尔方面消息，朝鲜向海域发射了多枚弹道导弹。此次发射被视为对韩国此前进行高超音速导弹试射的一种武力展示。",
+      "whyImportant": "朝鲜的导弹活动加剧了朝鲜半岛的紧张局势，并引发了地区安全担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
