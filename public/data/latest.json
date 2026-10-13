@@ -1,44 +1,42 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T05:54:20.728Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T06:45:37.625Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "security",
-    "name": "军事、安全与突发事件",
-    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
-    "query": "military security conflict breaking crisis",
+    "slug": "technology-energy",
+    "name": "科技、能源与产业",
+    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
+    "query": "technology artificial intelligence semiconductor energy industry",
     "keywords": [
-      "military",
-      "war",
-      "missile",
-      "security",
-      "attack",
-      "ceasefire",
-      "军事",
-      "战争",
-      "导弹",
-      "袭击",
-      "停火",
-      "突发"
+      "technology",
+      "artificial intelligence",
+      "semiconductor",
+      "space",
+      "energy",
+      "科技",
+      "人工智能",
+      "芯片",
+      "太空",
+      "能源"
     ],
-    "accent": "#f97316"
+    "accent": "#06b6d4"
   },
-  "overview": "今日专题“军事、安全与突发事件”。共筛选 21 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“科技、能源与产业”。共筛选 21 个高价值事件，重点关注中国相关进展、全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "78bbd4b4601b3082",
-      "title": "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+      "id": "9e58dc30161bca32",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
-      "publishedAt": "2026-10-12T04:55:40.000Z",
-      "summary": "MyCentre leader Samir Mohtadi, who also goes by Abu Hamza, refers to Islamic texts on the virtues of staying silent Get our breaking news email, free app or daily news podcast A leader of a Melbourne Islamic centre allegedly linked to the accused Flydubai hijacker has released a video extolling the virtues of staying silent, without directly commenting on the accusations from prosecutors in the United Arab Emirates. Dr Hamad Saif al-Shamsi, the attorney general of the UAE, on the weekend said that investigators had traced the ideological and professional background of the 29-year-old suspect and that their findings indicated his “drift towards extremism and terrorism” began while he was studying at RMIT University in Melbourne in 2017. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "publishedAt": "2026-10-13T03:15:12.000Z",
+      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
-          "publishedAt": "2026-10-12T04:55:40.000Z"
+          "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+          "publishedAt": "2026-10-13T03:15:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -48,253 +46,167 @@
       "tags": [
         "全球焦点",
         "突发",
+        "经济",
+        "金融",
         "军事与安全",
         "科技",
         "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业",
+        "持续关注"
       ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 78,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
+        "科技"
       ],
-      "fingerprint": "accdeb7d11e99ba7614f1a04",
-      "isContinuation": false,
-      "titleZh": "墨尔本伊斯兰教领袖在Facebook视频中对该中心涉嫌与迪拜航空劫机者有关联一事保持沉默",
-      "summaryZh": "墨尔本一伊斯兰中心负责人萨米尔·莫塔迪发布视频，强调保持沉默的价值，但未直接回应阿联酋检察官关于该中心与一名劫机嫌疑人有关联的指控。阿联酋总检察长指出，该嫌疑人曾在墨尔本皇家理工大学留学期间走向极端化。",
-      "whyImportant": "此事件引发了关于澳大利亚境内宗教机构与极端主义关联的调查及社会关注。",
+      "fingerprint": "f73cda7a66e5d92b8195dfa9",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "国际货币基金组织：人工智能股票崩盘威胁全球金融稳定",
+      "summaryZh": "国际货币基金组织警告称，人工智能领域的高估值和债务积累正威胁全球金融稳定。该机构指出，全球经济可能很快面临韧性极限的考验，政府借贷和网络攻击风险也在增加。",
+      "whyImportant": "此警告凸显了当前科技行业泡沫对全球宏观经济潜在的系统性风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "562edc058b937437",
-      "title": "Joyce likens US public execution to ‘Roman amphitheatre’ – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-      "publishedAt": "2026-10-12T04:57:52.000Z",
-      "summary": "This blog is now closed Get our breaking news email, free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour. These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government’s review, these changes to trust taxation have been called for. I think he’s getting that from lots of corners. People are saying that the Liberal party needs to do better. The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there’s something existential about the threat that I think the party now faces. Look, I certainly haven’t closed the door, but I don’t",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-          "publishedAt": "2026-10-12T04:57:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "c96694357c46abf7eb0ac51a",
-      "isContinuation": false,
-      "titleZh": "乔伊斯将美国公开处决比作“罗马圆形竞技场”",
-      "summaryZh": "澳大利亚助理财政部长丹尼尔·穆利诺重申，工党不会削弱对可支配信托基金征收30%最低税的计划。该政策旨在实现税收公平，并更好地平衡劳动收入与信托收入的税负。",
-      "whyImportant": "该税收改革引发了关于澳大利亚税制公平性及政治影响的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9aacce126464680a",
-      "title": "US can choose to deport Hongkongers under Deferred Enforced Departure scheme",
+      "id": "e64cb1c8a2a2c46e",
+      "title": "Hong Kong group aims to cultivate a lasting future for rural Lantau communities",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T05:42:57.000Z",
-      "summary": "United States authorities could deport Hong Kong residents granted extended stay under the Deferred Enforced Departure (DED) programme and have not ruled out the option of doing so after a dozen were reportedly detained at local airports. “The Department of Homeland Security (DHS) is not precluded from placing aliens with such temporary administrative designation into removal proceedings, nor is it currently removing them,” a department spokesman said in a reply to the South China Morning Post...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3370693/hong-kong-group-aims-cultivate-lasting-future-rural-lantau-communities?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:18:47.000Z",
+      "summary": "Many rural projects in Hong Kong start with funding, run for a year or two, then disappear when the money runs out. Good Old Soil, a community organisation, is trying to take a different approach on Lantau. Supported by the non-profit Land Education Foundation, the organisation works with farmers, young people, restaurants, craftspeople and businesses to build a local economy that can sustain itself after individual grants end. Founded in 2022, Good Old Soil opened a shop in Mui Wo that same...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T05:42:57.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3370693/hong-kong-group-aims-cultivate-lasting-future-rural-lantau-communities?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:18:47.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "security",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "723bf009f04092a1fcc5eb43",
+      "fingerprint": "a6c38c3312d801bcc91f7647",
       "isContinuation": false,
-      "titleZh": "美国称可选择驱逐受“延期强制离境”计划保护的香港居民",
-      "summaryZh": "美国国土安全部表示，尽管目前未进行驱逐，但并未排除将受“延期强制离境”（DED）计划保护的香港居民纳入遣返程序的可能性。此前有报道称，已有十余名相关人士在机场被扣留。",
-      "whyImportant": "此表态引发了外界对在美港人居留权稳定性的担忧，并可能影响美港之间的相关政策走向。",
+      "titleZh": "香港团体旨在为大屿山农村社区培育可持续未来",
+      "summaryZh": "社区组织“好土”通过与农民、青年及企业合作，试图在大屿山建立一个不依赖短期资助的自给自足经济模式。该组织在梅窝开设了店铺，致力于实现农村项目的长期可持续发展。",
+      "whyImportant": "该模式为香港农村社区的长期发展提供了新的探索方向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "edf5e3e9dfb9710d",
-      "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
-      "publishedAt": "2026-10-12T05:49:11.000Z",
-      "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures. As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade. Continue reading...",
+      "id": "613d71bdb060ed93",
+      "title": "China-US astronomy team may have found possible relic of a recent ‘gold factory’",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3370141/china-us-astronomy-team-may-have-found-possible-relic-recent-gold-factory?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:00:08.000Z",
+      "summary": "A mysterious glow of high-energy light in our Milky Way galaxy could be the remains of an extremely rare cosmic “gold factory”, according to a new study by Chinese and US researchers. The collision of two orbiting neutron stars – dead stars so dense that a teaspoon of their matter would weigh a billion tonnes – may have shone as brightly as Jupiter in the sky, they wrote in a paper posted last week on the preprint server arXiv, which has yet to be peer-reviewed. The violent smash spewed out...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
-          "publishedAt": "2026-10-12T05:49:11.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3370141/china-us-astronomy-team-may-have-found-possible-relic-recent-gold-factory?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:00:08.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "能源",
+        "专题·科技、能源与产业"
       ],
       "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "energy",
+        "能源"
       ],
-      "fingerprint": "1ad01bfe57946a0fbfbcbdf0",
+      "fingerprint": "fc0a8515fcf0838f04321247",
       "isContinuation": false,
-      "titleZh": "英国财政研究所：若无明确计划填补350亿英镑支出缺口，预算案将是“虚构作品”",
-      "summaryZh": "英国财政研究所警告称，除非政府制定明确计划以应对350亿英镑的支出压力，否则即将出台的预算案将缺乏现实基础。受通胀和中东局势影响，财政大臣面临增加拨款或实施深度削减的艰难选择。",
-      "whyImportant": "这凸显了英国政府在应对财政赤字与公共服务需求之间的严峻挑战。",
+      "titleZh": "中美天文学家团队可能发现了近期“黄金工厂”的遗迹",
+      "summaryZh": "中美研究人员在银河系中发现了一处高能光芒，这可能是罕见的“黄金工厂”——中子星碰撞的遗迹。该研究指出，此次碰撞产生的亮度极高，相关论文已在预印本平台发布。",
+      "whyImportant": "这一发现有助于科学家进一步理解宇宙中重元素的起源。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a0be79c793eaf566",
-      "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
-      "publishedAt": "2026-10-12T05:00:47.000Z",
-      "summary": "Mark Rowley says inclusivity is crucial for the force and he refuses to be ‘blown off course’ by critics Sir Mark Rowley: I will have more police officers of colour in the UK capital – and the culture wars won’t stop me doing it Mark Rowley has said the Metropolitan police must recruit more black and Asian officers in order to gain the trust of minority ethnic communities in London, and vowed not to be “blown off course by the culture wars”. The right has criticised drives for diversity, claiming they lead to lower standards. Rowley, who is commissioner of the Met and Britain’s top police officer, said that as a leader of a major organisation he was prepared to take a stand against the “toxicity” surrounding the diversity debate and criticised other leaders for “running away from the subject”. Continue reading...",
+      "id": "5cdef61648f4f3e2",
+      "title": "Ex-Cyberport department head, 5 others, charged over HK$20 million tech subsidy fraud",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370695/ex-cyberport-department-head-5-others-charged-over-hk20-million-tech-subsidy-fraud?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:28:39.000Z",
+      "summary": "A former department head of Hong Kong’s fintech hub Cyberport has been granted bail after being charged with accepting bribes to help an artificial intelligence (AI) start-up secure HK$20 million in funding from a government-subsidised programme. Alice So Nga-lai, 59, former head of entrepreneurship of the Hong Kong Cyberport Management Company, was accused of receiving advantages such as flight tickets, one handbag, two tote bags, one coin purse and a mobile phone between October 2023 and...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
-          "publishedAt": "2026-10-12T05:00:47.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370695/ex-cyberport-department-head-5-others-charged-over-hk20-million-tech-subsidy-fraud?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:28:39.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "artificial intelligence",
+        "科技"
       ],
-      "fingerprint": "45f81d652367d7f0ef614cba",
+      "fingerprint": "6d95c90970f84f644e5e468b",
       "isContinuation": false,
-      "titleZh": "伦敦警察厅厅长表示，围绕多元化、公平与包容（DEI）的“毒性”不会阻止他招募更多黑人和亚裔警官",
-      "summaryZh": "伦敦警察厅厅长马克·罗利誓言，尽管面临文化战争的批评，他仍将致力于招募更多少数族裔警官以提升社区信任。他批评其他领导人在面对多元化争议时选择退缩，并坚持认为包容性对警队至关重要。",
-      "whyImportant": "此举反映了英国警务系统在推动种族多元化与应对社会舆论压力之间的矛盾。",
+      "titleZh": "前数码港部门主管等6人因涉嫌2000万港元科技补贴欺诈被控",
+      "summaryZh": "香港数码港前创业组主管苏雅丽被控收受贿赂，协助一家人工智能初创公司骗取2000万港元政府补贴。目前她已获准保释，案件涉及多项财物贿赂。",
+      "whyImportant": "此案揭露了政府资助项目在监管方面存在的潜在漏洞。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "892540aa2558fb9c",
-      "title": "Burnham to urge MPs to embrace closer ties with EU",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
-      "publishedAt": "2026-10-12T05:00:46.000Z",
-      "summary": "Post-recess statement will focus on damage caused by Brexit and the need to cooperate on immigration and trade Andy Burnham will put Brexit back on the Commons agenda as MPs return from recess, warning that failing to pursue a better deal with the EU would be a “major dereliction of duty”. The prime minister will use a statement to the Commons on the first day back after the party conference break to urge MPs to face up to the damage caused by Brexit, and embrace closer ties with the EU to increase economic growth and tackle illegal immigration. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
-          "publishedAt": "2026-10-12T05:00:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "f41b29dddabc5b46740100ad",
-      "isContinuation": false,
-      "titleZh": "伯纳姆将敦促议员们加强与欧盟的联系",
-      "summaryZh": "英国首相安迪·伯纳姆计划在议会复会时强调脱欧带来的负面影响，并呼吁加强与欧盟的合作。他认为寻求更好的对欧协议对于促进经济增长和解决非法移民问题至关重要。",
-      "whyImportant": "这标志着英国政府在脱欧后政策方向上可能寻求更务实的对欧关系调整。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3566ee1decd066e1",
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "id": "18a7416e9037f979",
+      "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T17:27:24.000Z",
-      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T15:51:30.000Z",
+      "summary": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T17:27:24.000Z"
+          "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-12T15:51:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -304,85 +216,170 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
+        "energy",
+        "能源"
       ],
-      "fingerprint": "112aa474d1098669b8c1bdf5",
+      "fingerprint": "8161607031c995185128fd5b",
       "isContinuation": false,
-      "titleZh": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
-      "summaryZh": "波兰警方收到可靠情报，称有人计划对总理唐纳德·图斯克及其国防部长发动袭击。目前相关嫌疑人已被拘留。",
-      "whyImportant": "针对国家领导人的暗杀威胁引发了波兰国内对政治安全局势的高度警惕。",
+      "titleZh": "视频：特朗普的能源停火协议对乌克兰意味着什么？",
+      "summaryZh": "BBC记者丹·约翰逊从基辅发回报道，当地乌克兰人正面临又一个电力中断的冬天。该报道探讨了特朗普提出的能源相关政策可能对乌克兰局势产生的影响。",
+      "whyImportant": "此议题涉及地缘政治变动对乌克兰能源安全及战时民生的潜在影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7a25d6204cd6f042",
-      "title": "Republican and Democrat senators want Trump to reverse course on Russian diesel deal",
+      "id": "364e4429819e9130",
+      "title": "Thailand’s deepening labour shortage roils harvest as unpicked fruits rot",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T17:15:37.000Z",
-      "summary": "Republican and Democratic US senators called on President Donald ⁠Trump on Sunday to “reverse course” on his diesel supply deal with Russia, saying it runs counter to US law barring imports of energy until Russia ends its aggression against Ukraine. “Congress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing (Russian President Vladimir) Putin’s brutal war against Ukraine,” the seven senators – four of Trump’s fellow Republicans and three Democrats – said...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370655/thailands-deepening-labour-shortage-roils-harvest-unpicked-fruits-rot?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T01:36:39.000Z",
+      "summary": "Ripe mangosteen and rambutan hang unpicked from trees in eastern Thailand, where a shortage of migrant workers is forcing growers to decide which crops are valuable enough to harvest and which will be left to rot. For Jomsak Putirattana, who also grows durian in Chanthaburi province, the departure of his five Cambodian workers after a border dispute disrupted crossings has intensified competition for labour. Daily wages have more than doubled in some cases, from about 350 baht to 400 baht (US$10...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T17:15:37.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370655/thailands-deepening-labour-shortage-roils-harvest-unpicked-fruits-rot?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T01:36:39.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全",
+        "全球焦点",
         "能源",
         "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "9dca944c503450860690aac8",
+      "fingerprint": "672fdabaed333b655f1eae44",
       "isContinuation": false,
-      "titleZh": "共和党与民主党参议员要求特朗普撤销与俄罗斯的柴油协议",
-      "summaryZh": "七名美国参议员联名要求特朗普总统撤销与俄罗斯达成的柴油供应协议。他们认为该协议违反了美国禁止进口俄罗斯能源以制裁其对乌克兰战争的法律规定。",
-      "whyImportant": "此举显示了美国国会两党在对俄制裁问题上对行政部门施加的压力，以及能源政策与外交政策之间的冲突。",
+      "titleZh": "泰国劳动力短缺加剧，导致农作物无人采摘腐烂",
+      "summaryZh": "泰国东部因外籍劳工短缺，导致山竹和红毛丹等水果无人采摘而腐烂。边境争端导致劳工流失，使得当地农场主面临工资成本飙升和作物损失的双重压力。",
+      "whyImportant": "劳动力短缺问题正直接威胁泰国的农业生产和出口经济。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d910557b1e94e8ab",
+      "title": "Not just about tax: why Australia’s tech entrepreneurs are moving to Singapore",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3370642/not-just-about-tax-why-australias-tech-entrepreneurs-are-moving-singapore?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T00:00:22.000Z",
+      "summary": "Investor Ben Lindsay relocated from Sydney to Singapore in March, with wife and dog in tow – his sights set on growing venture capital firm Investible from an Australian outfit into an Asia-Pacific one. Lindsay is among a growing number of investors, businessmen and tech founders from down under who are setting up bases and relocating to Singapore, Dubai and San Francisco to expand their company’s reach. For example, Australian billionaire Adrian Portelli, founder of savings and rewards platform...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3370642/not-just-about-tax-why-australias-tech-entrepreneurs-are-moving-singapore?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T00:00:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "科技"
+      ],
+      "fingerprint": "6a36d475331fa94807925040",
+      "isContinuation": false,
+      "titleZh": "不仅仅是税收：为什么澳大利亚科技创业者纷纷迁往新加坡",
+      "summaryZh": "越来越多的澳大利亚投资者和科技创业者选择迁往新加坡、迪拜或旧金山，以寻求更广阔的亚太市场。除了税收因素外，企业寻求国际化扩张是推动这一人才流动的核心动力。",
+      "whyImportant": "这一趋势反映了澳大利亚科技行业在寻求全球化发展过程中面临的本土市场局限性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "78bbd4b4601b3082",
-      "title": "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+      "id": "7f359cce243c93dc",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T06:26:05.000Z",
+      "summary": "Actor who played Walter White Jr on the acclaimed show and advocated for disability representation remembered by Bryan Cranston as ‘my sweet son’ RJ Mitte – a life in pictures The actor RJ Mitte, whose personal experience living with cerebral palsy informed his role as Walter White Jr in the landmark television series Breaking Bad, has died aged 34 in Brownsville, Texas. “It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,” Mitte’s representatives said in a statement. “Drawing from his own experience living with cerebral palsy, Mitte brought authenticity to the role and built a platform on disability awareness and inclusion.” Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-13T06:26:05.000Z"
+        },
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
+          "publishedAt": "2026-10-13T06:21:42.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织",
+        "持续关注"
+      ],
+      "score": 78,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e34d4f596843021e709cbe8d",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "《绝命毒师》演员RJ·米特去世，享年34岁",
+      "summaryZh": "曾在知名剧集《绝命毒师》中饰演小沃尔特·怀特的演员RJ·米特在得克萨斯州去世，年仅34岁。他本人患有脑瘫，在剧中展现了真实演技，并长期致力于倡导残疾人权利与包容性。",
+      "whyImportant": "该演员的离世引发了影视界对其在残疾人代表性方面所做贡献的缅怀。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9e58dc30161bca32",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
-      "publishedAt": "2026-10-12T04:55:40.000Z",
-      "summary": "MyCentre leader Samir Mohtadi, who also goes by Abu Hamza, refers to Islamic texts on the virtues of staying silent Get our breaking news email, free app or daily news podcast A leader of a Melbourne Islamic centre allegedly linked to the accused Flydubai hijacker has released a video extolling the virtues of staying silent, without directly commenting on the accusations from prosecutors in the United Arab Emirates. Dr Hamad Saif al-Shamsi, the attorney general of the UAE, on the weekend said that investigators had traced the ideological and professional background of the 29-year-old suspect and that their findings indicated his “drift towards extremism and terrorism” began while he was studying at RMIT University in Melbourne in 2017. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "publishedAt": "2026-10-13T03:15:12.000Z",
+      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
-          "publishedAt": "2026-10-12T04:55:40.000Z"
+          "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+          "publishedAt": "2026-10-13T03:15:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -392,42 +389,44 @@
       "tags": [
         "全球焦点",
         "突发",
+        "经济",
+        "金融",
         "军事与安全",
         "科技",
         "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业",
+        "持续关注"
       ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 78,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
+        "科技"
       ],
-      "fingerprint": "accdeb7d11e99ba7614f1a04",
-      "isContinuation": false,
-      "titleZh": "墨尔本伊斯兰教领袖在Facebook视频中对该中心涉嫌与迪拜航空劫机者有关联一事保持沉默",
-      "summaryZh": "墨尔本一伊斯兰中心负责人萨米尔·莫塔迪发布视频，强调保持沉默的价值，但未直接回应阿联酋检察官关于该中心与一名劫机嫌疑人有关联的指控。阿联酋总检察长指出，该嫌疑人曾在墨尔本皇家理工大学留学期间走向极端化。",
-      "whyImportant": "此事件引发了关于澳大利亚境内宗教机构与极端主义关联的调查及社会关注。",
+      "fingerprint": "f73cda7a66e5d92b8195dfa9",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "国际货币基金组织：人工智能股票崩盘威胁全球金融稳定",
+      "summaryZh": "国际货币基金组织警告称，人工智能领域的高估值和债务积累正威胁全球金融稳定。该机构指出，全球经济可能很快面临韧性极限的考验，政府借贷和网络攻击风险也在增加。",
+      "whyImportant": "此警告凸显了当前科技行业泡沫对全球宏观经济潜在的系统性风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "562edc058b937437",
-      "title": "Joyce likens US public execution to ‘Roman amphitheatre’ – as it happened",
+      "id": "2bbbf34e878c984e",
+      "title": "Australian politics live: Climate protester restrained after interrupting NSW parliament; Albanese says he’ll do whatever he can to stop ‘abhorrent’ US execution live stream",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-      "publishedAt": "2026-10-12T04:57:52.000Z",
-      "summary": "This blog is now closed Get our breaking news email, free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour. These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government’s review, these changes to trust taxation have been called for. I think he’s getting that from lots of corners. People are saying that the Liberal party needs to do better. The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there’s something existential about the threat that I think the party now faces. Look, I certainly haven’t closed the door, but I don’t",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+      "publishedAt": "2026-10-13T06:40:06.000Z",
+      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail. Pether and his Egyptian colleague Khalid Radwan were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting. We were innocent when we were taken on the 7th of April 2021, and we remain innocent today. I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq. She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can’t describe it. I mean, it’s been years. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-          "publishedAt": "2026-10-12T04:57:52.000Z"
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+          "publishedAt": "2026-10-13T06:40:06.000Z"
         }
       ],
       "sourceCount": 1,
@@ -437,250 +436,36 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "c96694357c46abf7eb0ac51a",
-      "isContinuation": false,
-      "titleZh": "乔伊斯将美国公开处决比作“罗马圆形竞技场”",
-      "summaryZh": "澳大利亚助理财政部长丹尼尔·穆利诺重申，工党不会削弱对可支配信托基金征收30%最低税的计划。该政策旨在实现税收公平，并更好地平衡劳动收入与信托收入的税负。",
-      "whyImportant": "该税收改革引发了关于澳大利亚税制公平性及政治影响的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "edf5e3e9dfb9710d",
-      "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
-      "publishedAt": "2026-10-12T05:49:11.000Z",
-      "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures. As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
-          "publishedAt": "2026-10-12T05:49:11.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "1ad01bfe57946a0fbfbcbdf0",
-      "isContinuation": false,
-      "titleZh": "英国财政研究所：若无明确计划填补350亿英镑支出缺口，预算案将是“虚构作品”",
-      "summaryZh": "英国财政研究所警告称，除非政府制定明确计划以应对350亿英镑的支出压力，否则即将出台的预算案将缺乏现实基础。受通胀和中东局势影响，财政大臣面临增加拨款或实施深度削减的艰难选择。",
-      "whyImportant": "这凸显了英国政府在应对财政赤字与公共服务需求之间的严峻挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a0be79c793eaf566",
-      "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
-      "publishedAt": "2026-10-12T05:00:47.000Z",
-      "summary": "Mark Rowley says inclusivity is crucial for the force and he refuses to be ‘blown off course’ by critics Sir Mark Rowley: I will have more police officers of colour in the UK capital – and the culture wars won’t stop me doing it Mark Rowley has said the Metropolitan police must recruit more black and Asian officers in order to gain the trust of minority ethnic communities in London, and vowed not to be “blown off course by the culture wars”. The right has criticised drives for diversity, claiming they lead to lower standards. Rowley, who is commissioner of the Met and Britain’s top police officer, said that as a leader of a major organisation he was prepared to take a stand against the “toxicity” surrounding the diversity debate and criticised other leaders for “running away from the subject”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
-          "publishedAt": "2026-10-12T05:00:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "45f81d652367d7f0ef614cba",
-      "isContinuation": false,
-      "titleZh": "伦敦警察厅厅长表示，围绕多元化、公平与包容（DEI）的“毒性”不会阻止他招募更多黑人和亚裔警官",
-      "summaryZh": "伦敦警察厅厅长马克·罗利誓言，尽管面临文化战争的批评，他仍将致力于招募更多少数族裔警官以提升社区信任。他批评其他领导人在面对多元化争议时选择退缩，并坚持认为包容性对警队至关重要。",
-      "whyImportant": "此举反映了英国警务系统在推动种族多元化与应对社会舆论压力之间的矛盾。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "892540aa2558fb9c",
-      "title": "Burnham to urge MPs to embrace closer ties with EU",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
-      "publishedAt": "2026-10-12T05:00:46.000Z",
-      "summary": "Post-recess statement will focus on damage caused by Brexit and the need to cooperate on immigration and trade Andy Burnham will put Brexit back on the Commons agenda as MPs return from recess, warning that failing to pursue a better deal with the EU would be a “major dereliction of duty”. The prime minister will use a statement to the Commons on the first day back after the party conference break to urge MPs to face up to the damage caused by Brexit, and embrace closer ties with the EU to increase economic growth and tackle illegal immigration. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
-          "publishedAt": "2026-10-12T05:00:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "f41b29dddabc5b46740100ad",
-      "isContinuation": false,
-      "titleZh": "伯纳姆将敦促议员们加强与欧盟的联系",
-      "summaryZh": "英国首相安迪·伯纳姆计划在议会复会时强调脱欧带来的负面影响，并呼吁加强与欧盟的合作。他认为寻求更好的对欧协议对于促进经济增长和解决非法移民问题至关重要。",
-      "whyImportant": "这标志着英国政府在脱欧后政策方向上可能寻求更务实的对欧关系调整。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3566ee1decd066e1",
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T17:27:24.000Z",
-      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T17:27:24.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "112aa474d1098669b8c1bdf5",
-      "isContinuation": false,
-      "titleZh": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
-      "summaryZh": "波兰警方收到可靠情报，称有人计划对总理唐纳德·图斯克及其国防部长发动袭击。目前相关嫌疑人已被拘留。",
-      "whyImportant": "针对国家领导人的暗杀威胁引发了波兰国内对政治安全局势的高度警惕。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ef25b116d8d627fb",
-      "title": "Ministers preparing to slash heat pump subsidies to fund defence spending",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
-      "publishedAt": "2026-10-12T05:00:47.000Z",
-      "summary": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources say Ministers are preparing to slash the amount of money available to subsidise heat pumps as they look for ways to fund higher defence spending, sources have told the Guardian. Miatta Fahnbulleh, the energy secretary, has been tasked with finding more than £2bn in savings from her budget to help pay for defence investment under a plan drawn up by the previous government. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
-          "publishedAt": "2026-10-12T05:00:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
+        "金融",
+        "环境"
       ],
       "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "e466eda5db2f3e82621bc5e5",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c97ce7211abce9b6c472c307",
       "isContinuation": false,
-      "titleZh": "部长们准备削减热泵补贴以资助国防支出",
-      "summaryZh": "据报道，英国政府计划从能源预算中削减约20亿英镑，其中包括削减锅炉升级计划中的热泵补贴。此举旨在为增加国防开支腾出资金。",
-      "whyImportant": "该决策反映了英国政府在能源转型目标与国防预算需求之间的财政博弈。",
+      "titleZh": "澳大利亚政治直播：气候抗议者扰乱新南威尔士州议会；阿尔巴尼斯誓言阻止美国执行死刑直播",
+      "summaryZh": "一名气候抗议者在新南威尔士州议会中断会议后被制服。此外，获释回国的澳大利亚工程师罗伯特·佩瑟讲述了他在伊拉克被监禁五年的经历，并坚称自己无罪。",
+      "whyImportant": "该报道涵盖了澳大利亚国内的抗议活动及备受关注的公民海外获释事件。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "80f6961bccad23fd",
-      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
-      "publishedAt": "2026-10-12T02:11:21.000Z",
-      "summary": "Sunday's strike on King Khalid International airport kills a Pakistani national.",
+      "id": "c8af05b0ccf7014d",
+      "title": "Card surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business",
+      "publishedAt": "2026-10-13T05:13:19.000Z",
+      "summary": "‘Round-up’ pricing in items such as coffee suggests increases are exceeding the typical 1.5% surcharge fee Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast Businesses are using the recent ban on credit card surcharges as “cover” to pass along much larger price increases to customers, experts say, as cafes and restaurants struggle to cope with climbing costs and rising interest rates. Credit card surcharges, typically worth about 1.5% of the transaction, were banned from 1 October, as part of a Reserve Bank-led reform aimed at improving transparency for customers and, ultimately, lowering bank fees. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
-          "publishedAt": "2026-10-12T02:11:21.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business",
+          "publishedAt": "2026-10-13T05:13:19.000Z"
         }
       ],
       "sourceCount": 1,
@@ -690,43 +475,40 @@
       "tags": [
         "全球焦点",
         "突发",
-        "专题·军事、安全与突发事件"
+        "金融"
       ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "52f6d447081beaf0dcdb34ea",
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d1f3404e08f387aeb675b2b9",
       "isContinuation": false,
-      "titleZh": "沙特阿拉伯称利雅得机场再次遇袭，造成1人死亡、11人受伤",
-      "summaryZh": "周日，哈立德国王国际机场遭到袭击，导致一名巴基斯坦籍人员死亡，另有11人受伤。目前相关调查正在进行中。",
-      "whyImportant": "针对沙特关键基础设施的袭击加剧了地区安全局势的紧张。",
+      "titleZh": "专家称澳大利亚企业利用信用卡附加费禁令作为涨价“掩护”",
+      "summaryZh": "自10月1日起，澳大利亚禁止收取信用卡附加费，旨在提高透明度并降低费用。然而专家指出，咖啡馆和餐馆正利用此机会进行远超原附加费比例的涨价，以应对经营成本上升。",
+      "whyImportant": "这一现象反映了政策改革在实际执行中可能产生的通胀转嫁效应。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "5543b04e9315b169",
-      "title": "At least 139 migrants dead, dozens missing after boat capsizes off Djibouti",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T01:05:42.000Z",
-      "summary": "At least 139 migrants died, including 15 children, and 84 went missing when an overcrowded boat sank while heading from Djibouti to Yemen, a UN agency said on Sunday. The vessel was carrying 305 people, most of them Ethiopian, when it capsized north of the Djibouti town of Obock on the night of October 8-9, the International Organization for Migration (IOM) said in a statement. “Survivors told me that the boat started to sink backwards as soon as they got in it,” Alexandre Coissac, IOM chief of...",
+      "id": "2d0da4ea999413ad",
+      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+      "publishedAt": "2026-10-13T04:29:46.000Z",
+      "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast, causing flooding that downed trees and electricity poles, blocked roads and inundated homes. Simon claimed the life of a 71-year-old man who died when a wall collapsed in Chilpancingo in the southern state of Guerrero, governor Evelyn Salgado said at a press conference. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T01:05:42.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+          "publishedAt": "2026-10-13T04:29:46.000Z"
         },
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T15:32:23.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/americas/article/3370651/2-dead-10-missing-hurricane-and-tropical-storm-hit-mexico?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T22:23:52.000Z"
         }
       ],
       "sourceCount": 2,
@@ -736,38 +518,36 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "环境",
+        "国际组织"
       ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8296ed6b96804b57d9061ba0",
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "242dec0a1fe05613cf66f570",
       "isContinuation": false,
-      "titleZh": "吉布提附近海域发生沉船事故，至少139名移民遇难，数十人失踪",
-      "summaryZh": "一艘载有305人的移民船在从吉布提前往也门的途中倾覆，造成至少139人死亡，其中包括15名儿童，另有84人失踪。幸存者表示，船只在登船后不久便开始向后倾斜并沉没。",
-      "whyImportant": "此事件凸显了非法移民在穿越危险海域时面临的极端安全风险与人道主义危机。",
+      "titleZh": "飓风“西蒙”和热带风暴“雷切尔”袭击墨西哥太平洋沿岸，造成五人死亡",
+      "summaryZh": "飓风“西蒙”与热带风暴“雷切尔”接连袭击墨西哥太平洋沿岸，引发洪水并导致基础设施受损。目前已造成至少五人死亡，救援人员正利用直升机疏散受灾民众。",
+      "whyImportant": "极端天气事件对当地民众生命安全及基础设施造成了严重破坏。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a3b4ebd015cbc859",
-      "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
-      "publishedAt": "2026-10-12T04:24:18.000Z",
-      "summary": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
+      "id": "69825a84dc16aa70",
+      "title": "Nato ‘ready to fight tonight’ if attacked, top commander says",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370653/natos-top-commander-says-alliance-does-not-want-war-ready-fight-tonight?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T23:25:50.000Z",
+      "summary": "Nato’s top military commander said the alliance is “ready to fight tonight” if it is attacked, as European officials warn Russia could test Nato’s defences with increased covert attacks or a limited military incursion. European nations have in recent months faced an escalation of covert Russian activity, including an arson attack on an Estonian defence company and a failed attempt to attack a Ukrainian aircraft at a German airport. If Russia decides to attack Nato, the alliance will respond by...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
-          "publishedAt": "2026-10-12T04:24:18.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370653/natos-top-commander-says-alliance-does-not-want-war-ready-fight-tonight?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T23:25:50.000Z"
         }
       ],
       "sourceCount": 1,
@@ -776,85 +556,234 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "突发",
         "军事与安全",
-        "科技",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
       "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "war",
-        "军事"
-      ],
-      "fingerprint": "2a3ca384f6556985ce728fe9",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "46fc9d5cb591b59049917d90",
       "isContinuation": false,
-      "titleZh": "内塔尼亚胡要求调查获奖加沙纪录片《NAZA》的消息来源",
-      "summaryZh": "一部纪录片引用了24名匿名以色列消息人士的证词，指控以军在加沙地带利用人工智能系统杀害巴勒斯坦人。内塔尼亚胡政府对此表示不满，并要求彻查该片的信息来源。",
-      "whyImportant": "该事件反映了以色列政府对涉及军事行动负面报道的敏感性以及对信息安全的高度关注。",
+      "titleZh": "北约最高指挥官称若遭攻击已“准备好今晚开战”",
+      "summaryZh": "北约最高军事指挥官表示，面对俄罗斯可能进行的隐蔽攻击或有限军事入侵，北约已做好随时应对的准备。近期欧洲多国已发生多起针对国防设施的破坏活动。",
+      "whyImportant": "此表态显示了北约在当前地缘政治紧张局势下对防御能力的强调。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2236b8296ba06a8f",
+      "title": "RJ Mitte, Breaking Bad star and disability rights advocate, dies at 34",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370652/breaking-bad-actor-and-disability-rights-champion-rj-mitte-dies-34?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T22:55:52.000Z",
+      "summary": "RJ Mitte, the young actor best known for playing Walter White Jnr in the award-winning TV series Breaking Bad, has died, his representatives said on Monday. He was 34. The cause of death for the actor, who lived with cerebral palsy, was not immediately revealed. “It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,” said a statement issued by Sean Reilly. A teenage Mitte first appeared in Breaking Bad...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370652/breaking-bad-actor-and-disability-rights-champion-rj-mitte-dies-34?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T22:55:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "65e1edbf84ab359d27247346",
+      "isContinuation": false,
+      "titleZh": "《绝命毒师》演员及残疾人权利倡导者RJ·米特去世，享年34岁",
+      "summaryZh": "曾在《绝命毒师》中饰演小沃尔特·怀特的演员RJ·米特去世，享年34岁，死因尚未公布。他不仅是一位演员，还是一位积极的残疾人权利倡导者。",
+      "whyImportant": "该演员的离世引起了公众对其演艺生涯及社会公益贡献的广泛关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "73ceaff0ab893aea",
+      "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+      "publishedAt": "2026-10-13T05:59:48.000Z",
+      "summary": "Iraq, Bahrain, Kuwait and Qatar face double-digit declines in GDP amid the fallout from the US-Israel war on Iran.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+          "publishedAt": "2026-10-13T05:59:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "eb70edcda9835694da78f340",
+      "isContinuation": false,
+      "titleZh": "国际货币基金组织：受战争影响，中东和中亚经济将在2026年萎缩",
+      "summaryZh": "受美国与以色列针对伊朗的战争影响，中东和中亚地区的经济前景恶化。伊拉克、巴林、科威特和卡塔尔的国内生产总值预计将出现两位数下滑。",
+      "whyImportant": "地区冲突对全球能源供应及区域经济稳定构成了严重威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d094080b83b3fb18",
+      "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+      "publishedAt": "2026-10-13T03:28:06.000Z",
+      "summary": "Actor, who allegedly punched one Delta attendant, bit another and tried to open plane door, was charged for two separate assaults after the plane landed The actor Selma Blair was arrested on Sunday at John F Kennedy airport in New York after she allegedly attacked two flight attendants on a Delta Air Lines flight, and separately charged with two counts of assault for allegedly kicking a police officer and a nurse after landing. Blair’s arrest happened at about 11pm, after Port Authority of New York and New Jersey officials said they responded to a call “about a physically abusive passenger aboard Delta Air Lines flight 938 which was parked at the gate” at JFK after arriving from Los Angeles. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+          "publishedAt": "2026-10-13T03:28:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "12f7004af64e06d2e93c2832",
+      "isContinuation": false,
+      "titleZh": "塞尔玛·布莱尔因涉嫌袭击空乘人员、警察和护士被控",
+      "summaryZh": "演员塞尔玛·布莱尔在达美航空航班上涉嫌袭击空乘人员，并在飞机降落后因踢伤警察和护士被控两项袭击罪。布莱尔在纽约肯尼迪机场被捕，目前正面临相关法律诉讼。",
+      "whyImportant": "该事件引发了公众对航空安全及名人行为规范的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b89180e908bcba4a",
+      "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+      "publishedAt": "2026-10-13T03:01:53.000Z",
+      "summary": "A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+          "publishedAt": "2026-10-13T03:01:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5cbbac26b84c41252e574e78",
+      "isContinuation": false,
+      "titleZh": "法国超市遭网络攻击，导致火灾及数百万损失",
+      "summaryZh": "针对法国超市制冷系统的网络攻击导致全国范围内货架空置。此次事件造成了严重的经济损失及火灾隐患。",
+      "whyImportant": "此事件凸显了关键基础设施在网络攻击面前的脆弱性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "9aacce126464680a",
-      "title": "US can choose to deport Hongkongers under Deferred Enforced Departure scheme",
+      "id": "e64cb1c8a2a2c46e",
+      "title": "Hong Kong group aims to cultivate a lasting future for rural Lantau communities",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T05:42:57.000Z",
-      "summary": "United States authorities could deport Hong Kong residents granted extended stay under the Deferred Enforced Departure (DED) programme and have not ruled out the option of doing so after a dozen were reportedly detained at local airports. “The Department of Homeland Security (DHS) is not precluded from placing aliens with such temporary administrative designation into removal proceedings, nor is it currently removing them,” a department spokesman said in a reply to the South China Morning Post...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3370693/hong-kong-group-aims-cultivate-lasting-future-rural-lantau-communities?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:18:47.000Z",
+      "summary": "Many rural projects in Hong Kong start with funding, run for a year or two, then disappear when the money runs out. Good Old Soil, a community organisation, is trying to take a different approach on Lantau. Supported by the non-profit Land Education Foundation, the organisation works with farmers, young people, restaurants, craftspeople and businesses to build a local economy that can sustain itself after individual grants end. Founded in 2022, Good Old Soil opened a shop in Mui Wo that same...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T05:42:57.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3370693/hong-kong-group-aims-cultivate-lasting-future-rural-lantau-communities?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:18:47.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "security",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "723bf009f04092a1fcc5eb43",
+      "fingerprint": "a6c38c3312d801bcc91f7647",
       "isContinuation": false,
-      "titleZh": "美国称可选择驱逐受“延期强制离境”计划保护的香港居民",
-      "summaryZh": "美国国土安全部表示，尽管目前未进行驱逐，但并未排除将受“延期强制离境”（DED）计划保护的香港居民纳入遣返程序的可能性。此前有报道称，已有十余名相关人士在机场被扣留。",
-      "whyImportant": "此表态引发了外界对在美港人居留权稳定性的担忧，并可能影响美港之间的相关政策走向。",
+      "titleZh": "香港团体旨在为大屿山农村社区培育可持续未来",
+      "summaryZh": "社区组织“好土”通过与农民、青年及企业合作，试图在大屿山建立一个不依赖短期资助的自给自足经济模式。该组织在梅窝开设了店铺，致力于实现农村项目的长期可持续发展。",
+      "whyImportant": "该模式为香港农村社区的长期发展提供了新的探索方向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "84da184d48f3de38",
-      "title": "Beijing moves to steady A-share market after sharp tech sell-off",
+      "id": "613d71bdb060ed93",
+      "title": "China-US astronomy team may have found possible relic of a recent ‘gold factory’",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T01:00:19.000Z",
-      "summary": "China’s top securities regulator has signalled fresh support for the domestic A-share market, convening a symposium over the weekend as authorities sought to shore up sentiment following a sharp sell-off in technology shares driven by concerns over US sanctions. The China Securities Regulatory Commission (CSRC) brought together executives from listed companies and experts from securities firms and fund managers at a meeting in Beijing on Saturday to “discuss the country’s capital markets and...",
+      "url": "https://www.scmp.com/news/china/science/article/3370141/china-us-astronomy-team-may-have-found-possible-relic-recent-gold-factory?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:00:08.000Z",
+      "summary": "A mysterious glow of high-energy light in our Milky Way galaxy could be the remains of an extremely rare cosmic “gold factory”, according to a new study by Chinese and US researchers. The collision of two orbiting neutron stars – dead stars so dense that a teaspoon of their matter would weigh a billion tonnes – may have shone as brightly as Jupiter in the sky, they wrote in a paper posted last week on the preprint server arXiv, which has yet to be peer-reviewed. The violent smash spewed out...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T01:00:19.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3370141/china-us-astronomy-team-may-have-found-possible-relic-recent-gold-factory?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:00:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -863,111 +792,39 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "外交",
-        "金融",
-        "科技"
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "076372337b98f8755876814c",
+      "score": 70,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "energy",
+        "能源"
+      ],
+      "fingerprint": "fc0a8515fcf0838f04321247",
       "isContinuation": false,
-      "titleZh": "北京采取行动稳定A股市场，应对科技股大幅抛售",
-      "summaryZh": "受美国制裁担忧影响，中国科技股近期出现大幅抛售。中国证监会为此召开座谈会，听取上市公司及金融机构意见，旨在提振市场信心并稳定资本市场。",
-      "whyImportant": "监管层的介入显示了中国政府在面对外部压力时，致力于维护金融市场稳定与投资者信心的决心。",
+      "titleZh": "中美天文学家团队可能发现了近期“黄金工厂”的遗迹",
+      "summaryZh": "中美研究人员在银河系中发现了一处高能光芒，这可能是罕见的“黄金工厂”——中子星碰撞的遗迹。该研究指出，此次碰撞产生的亮度极高，相关论文已在预印本平台发布。",
+      "whyImportant": "这一发现有助于科学家进一步理解宇宙中重元素的起源。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c689170425a4b6fc",
-      "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
-      "publishedAt": "2026-10-12T04:58:01.000Z",
-      "summary": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
-          "publishedAt": "2026-10-12T04:58:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "23a4d7332721669addbe08de",
-      "isContinuation": false,
-      "titleZh": "中国制裁巴拉圭和伯利兹官员，因其与台湾保持关系",
-      "summaryZh": "中国外交部宣布对巴拉圭和伯利兹的相关官员实施制裁。中方表示，此举是基于维护国家主权及反对台湾分裂活动的立场。",
-      "whyImportant": "此举进一步体现了中国在外交层面严厉打击“台独”势力及其外部支持者的坚定立场。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6f74cb7a0ee4690f",
-      "title": "Minibus driver hospitalised, 18 others injured, after collision with goods truck",
+      "id": "5cdef61648f4f3e2",
+      "title": "Ex-Cyberport department head, 5 others, charged over HK$20 million tech subsidy fraud",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370539/minibus-driver-hospitalised-18-others-injured-after-collision-goods-truck?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T04:40:16.000Z",
-      "summary": "A minibus driver has been hospitalised after her vehicle collided with a medium goods truck in Hong Kong, causing injuries to 18 others. Police said the accident occurred at around 9.22am on Monday, when a green minibus and a medium goods truck collided on San Tin Highway on the Yuen Long-bound side of the road near Fairview Park. According to police, a total of nine men and 10 women were injured in the crash. The accident prompted authorities to close two lanes of the road, leading to severe...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370695/ex-cyberport-department-head-5-others-charged-over-hk20-million-tech-subsidy-fraud?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:28:39.000Z",
+      "summary": "A former department head of Hong Kong’s fintech hub Cyberport has been granted bail after being charged with accepting bribes to help an artificial intelligence (AI) start-up secure HK$20 million in funding from a government-subsidised programme. Alice So Nga-lai, 59, former head of entrepreneurship of the Hong Kong Cyberport Management Company, was accused of receiving advantages such as flight tickets, one handbag, two tote bags, one coin purse and a mobile phone between October 2023 and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370539/minibus-driver-hospitalised-18-others-injured-after-collision-goods-truck?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T04:40:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "公共安全"
-      ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "79e63bc9e8feba2aa7aab52e",
-      "isContinuation": false,
-      "titleZh": "香港发生小巴与货车相撞事故，司机送医，另有18人受伤",
-      "summaryZh": "一辆绿色小巴与一辆中型货车在香港新田公路发生碰撞，导致小巴司机送医，另有18名乘客受伤。事故造成现场部分车道封闭，交通严重受阻。",
-      "whyImportant": "该交通事故造成多人受伤并引发交通拥堵，再次引发公众对道路交通安全的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ffdff2062e44d57a",
-      "title": "Chinese desalination plant cuts 60% energy use, turns waste brine into industrial salt",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T04:15:34.000Z",
-      "summary": "A large desalination plant on Bohai Bay has achieved an energy efficiency breakthrough, slashing electricity consumption by more than half while converting millions of tonnes of toxic waste brine into high-value chemical salt. Situated in the Caofeidian industrial zone of Tangshan, Hebei province, the facility recently entered its trial production stage, the state-run Science and Technology Daily reported last month. This technology provides a viable pathway to solving the global challenge of...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T04:15:34.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370695/ex-cyberport-department-head-5-others-charged-over-hk20-million-tech-subsidy-fraud?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:28:39.000Z"
         }
       ],
       "sourceCount": 1,
@@ -977,159 +834,318 @@
       "tags": [
         "中国重点",
         "科技",
-        "能源"
+        "专题·科技、能源与产业"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "63315e6a25ad8e848e354642",
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "artificial intelligence",
+        "科技"
+      ],
+      "fingerprint": "6d95c90970f84f644e5e468b",
       "isContinuation": false,
-      "titleZh": "中国海水淡化厂能耗降低60%，并将废盐水转化为工业盐",
-      "summaryZh": "位于河北唐山的一家海水淡化厂通过技术突破，将电力消耗降低了一半以上，并成功将有毒废盐水转化为高价值的工业化学盐。该项目已进入试生产阶段，为解决全球淡化水处理难题提供了新路径。",
-      "whyImportant": "该技术的应用有望显著降低海水淡化成本，并减少环境污染，具有重要的环保与经济意义。",
+      "titleZh": "前数码港部门主管等6人因涉嫌2000万港元科技补贴欺诈被控",
+      "summaryZh": "香港数码港前创业组主管苏雅丽被控收受贿赂，协助一家人工智能初创公司骗取2000万港元政府补贴。目前她已获准保释，案件涉及多项财物贿赂。",
+      "whyImportant": "此案揭露了政府资助项目在监管方面存在的潜在漏洞。",
       "summaryMode": "ai",
       "translationStatus": "translated"
-    }
-  ],
-  "usa": [
+    },
     {
-      "id": "7a25d6204cd6f042",
-      "title": "Republican and Democrat senators want Trump to reverse course on Russian diesel deal",
+      "id": "42977e8cbb290d84",
+      "title": "Why Haidilao’s US$14.9 million credit line to founder is fuelling China tax speculation",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T17:15:37.000Z",
-      "summary": "Republican and Democratic US senators called on President Donald ⁠Trump on Sunday to “reverse course” on his diesel supply deal with Russia, saying it runs counter to US law barring imports of energy until Russia ends its aggression against Ukraine. “Congress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing (Russian President Vladimir) Putin’s brutal war against Ukraine,” the seven senators – four of Trump’s fellow Republicans and three Democrats – said...",
+      "url": "https://www.scmp.com/business/china-business/article/3370680/why-haidilaos-us149-million-credit-line-founder-fuelling-china-tax-speculation?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:00:11.000Z",
+      "summary": "Haidilao International Holding has agreed to provide its founder, Zhang Yong, with a one-month loan of up to the Hong Kong dollar equivalent of 100 million yuan (US$14.9 million), a move that has raised market speculation as investors closely watch Beijing’s October 22 deadline for offshore trust taxation. The Hong Kong-listed hotpot chain said in a stock exchange filing on Monday night that it would fund the loan from internal resources and charge interest at 0.6 percentage points above the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T17:15:37.000Z"
+          "url": "https://www.scmp.com/business/china-business/article/3370680/why-haidilaos-us149-million-credit-line-founder-fuelling-china-tax-speculation?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:00:11.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全",
-        "能源",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "金融"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "9dca944c503450860690aac8",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d0e1792772886af723ca6e0b",
       "isContinuation": false,
-      "titleZh": "共和党与民主党参议员要求特朗普撤销与俄罗斯的柴油协议",
-      "summaryZh": "七名美国参议员联名要求特朗普总统撤销与俄罗斯达成的柴油供应协议。他们认为该协议违反了美国禁止进口俄罗斯能源以制裁其对乌克兰战争的法律规定。",
-      "whyImportant": "此举显示了美国国会两党在对俄制裁问题上对行政部门施加的压力，以及能源政策与外交政策之间的冲突。",
+      "titleZh": "海底捞向创始人提供1490万美元信贷额度为何引发中国税务猜测",
+      "summaryZh": "海底捞向创始人张勇提供约1亿港元的短期贷款，正值市场密切关注北京离岸信托税收政策截止日期之际。此举引发了投资者对税务合规及资金用途的广泛猜测。",
+      "whyImportant": "该贷款行为引发了市场对企业高管税务安排及监管合规性的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "3ed512f2643207e0",
-      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+      "id": "b04332a30515a1e6",
+      "title": "Therapy dogs in high demand: Hong Kong programme booked out until February 2027",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3370658/therapy-dogs-high-demand-hong-kong-programme-booked-out-until-february-2027?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T02:19:23.000Z",
+      "summary": "A Hong Kong therapy-dog programme run by one staff member and 65 volunteers with their dogs is fully booked until February 2027, as demand from schools, hospitals and elderly homes continues to outstrip the available visiting slots. Animals Asia’s Dr Dog and Professor Paws programmes rely on volunteers who give up their time, shoulder much of the cost of transporting their dogs and return regularly to venues across the city. “None of it would be possible without the volunteers,” said Karina...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3370658/therapy-dogs-high-demand-hong-kong-programme-booked-out-until-february-2027?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T02:19:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "132d4ded679015b7d0919d07",
+      "isContinuation": false,
+      "titleZh": "治疗犬需求激增：香港项目预约已排至2027年2月",
+      "summaryZh": "香港的治疗犬项目因学校、医院及养老院需求巨大，预约已排满至2027年2月。该项目完全依赖志愿者及其犬只的无偿服务。",
+      "whyImportant": "这反映了社会对动物辅助治疗服务的需求日益增长。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "usa": [],
+  "watch": [
+    {
+      "id": "73e6ff00840df297",
+      "title": "Bullet hole in door and DNA evidence scrutinised in Beau Lamarre-Condon double murder trial",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-      "publishedAt": "2026-10-11T07:45:31.000Z",
-      "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast An Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said. Jordan Yap, 30, last made contact with friends and family on 14 September ahead of a planned 10-day solo trek along Peru’s Huayhuash mountain range, 400km north-east of Lima. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/beau-lamarre-condon-double-trial-dna-evidence-scrutinised-bullet-hole-ntwnfb",
+      "publishedAt": "2026-10-13T02:52:47.000Z",
+      "summary": "Defence also cross-examines witness over postmortem examinations of Jesse Baird and Luke Davies Get our breaking news email, free app or daily news podcast A bullet hole left in a bedroom door and DNA found in the barrel of the firearm have been scrutinised in court as Beau Lamarre-Condon’s double murder trial continues in Sydney. Lamarre-Condon, 31, has been accused of fatally shooting Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-          "publishedAt": "2026-10-11T07:45:31.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/oct/13/beau-lamarre-condon-double-trial-dna-evidence-scrutinised-bullet-hole-ntwnfb",
+          "publishedAt": "2026-10-13T02:52:47.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
+        "全球焦点",
         "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "军事与安全"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "78e5009f71e7766a4e44838f",
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b18ea7bac715f8204cd4fbc5",
       "isContinuation": false,
-      "titleZh": "在秘鲁偏远步道失踪的澳大利亚徒步旅行者乔丹·亚普被发现死亡",
-      "summaryZh": "一名30岁的墨尔本男子乔丹·亚普在秘鲁瓦伊瓦什山脉进行为期10天的单人徒步旅行时失踪，其家人证实他已被发现死亡。他最后一次与亲友联系是在9月14日。",
-      "whyImportant": "此事件引发了对海外徒步旅行安全及搜救工作的关注。",
+      "titleZh": "悉尼双重谋杀案审判：法庭审查门上弹孔及DNA证据",
+      "summaryZh": "在博·拉马尔-康登的双重谋杀案审判中，法庭对卧室门上的弹孔及枪管内的DNA证据进行了详细审查。被告被控使用警用武器杀害了两名受害者。",
+      "whyImportant": "此案因涉及现役警察作为被告而受到社会高度关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "09d644374a110cd8",
-      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "id": "18a7416e9037f979",
+      "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T23:13:51.000Z",
-      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T15:51:30.000Z",
+      "summary": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T23:13:51.000Z"
+          "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-12T15:51:30.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "全球焦点",
+        "突发",
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 53,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "energy",
+        "能源"
+      ],
+      "fingerprint": "8161607031c995185128fd5b",
+      "isContinuation": false,
+      "titleZh": "视频：特朗普的能源停火协议对乌克兰意味着什么？",
+      "summaryZh": "BBC记者丹·约翰逊从基辅发回报道，当地乌克兰人正面临又一个电力中断的冬天。该报道探讨了特朗普提出的能源相关政策可能对乌克兰局势产生的影响。",
+      "whyImportant": "此议题涉及地缘政治变动对乌克兰能源安全及战时民生的潜在影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "364e4429819e9130",
+      "title": "Thailand’s deepening labour shortage roils harvest as unpicked fruits rot",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370655/thailands-deepening-labour-shortage-roils-harvest-unpicked-fruits-rot?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T01:36:39.000Z",
+      "summary": "Ripe mangosteen and rambutan hang unpicked from trees in eastern Thailand, where a shortage of migrant workers is forcing growers to decide which crops are valuable enough to harvest and which will be left to rot. For Jomsak Putirattana, who also grows durian in Chanthaburi province, the departure of his five Cambodian workers after a border dispute disrupted crossings has intensified competition for labour. Daily wages have more than doubled in some cases, from about 350 baht to 400 baht (US$10...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370655/thailands-deepening-labour-shortage-roils-harvest-unpicked-fruits-rot?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T01:36:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "672fdabaed333b655f1eae44",
+      "isContinuation": false,
+      "titleZh": "泰国劳动力短缺加剧，导致农作物无人采摘腐烂",
+      "summaryZh": "泰国东部因外籍劳工短缺，导致山竹和红毛丹等水果无人采摘而腐烂。边境争端导致劳工流失，使得当地农场主面临工资成本飙升和作物损失的双重压力。",
+      "whyImportant": "劳动力短缺问题正直接威胁泰国的农业生产和出口经济。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "more": [
+    {
+      "id": "d910557b1e94e8ab",
+      "title": "Not just about tax: why Australia’s tech entrepreneurs are moving to Singapore",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3370642/not-just-about-tax-why-australias-tech-entrepreneurs-are-moving-singapore?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T00:00:22.000Z",
+      "summary": "Investor Ben Lindsay relocated from Sydney to Singapore in March, with wife and dog in tow – his sights set on growing venture capital firm Investible from an Australian outfit into an Asia-Pacific one. Lindsay is among a growing number of investors, businessmen and tech founders from down under who are setting up bases and relocating to Singapore, Dubai and San Francisco to expand their company’s reach. For example, Australian billionaire Adrian Portelli, founder of savings and rewards platform...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3370642/not-just-about-tax-why-australias-tech-entrepreneurs-are-moving-singapore?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T00:00:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "科技"
+      ],
+      "fingerprint": "6a36d475331fa94807925040",
+      "isContinuation": false,
+      "titleZh": "不仅仅是税收：为什么澳大利亚科技创业者纷纷迁往新加坡",
+      "summaryZh": "越来越多的澳大利亚投资者和科技创业者选择迁往新加坡、迪拜或旧金山，以寻求更广阔的亚太市场。除了税收因素外，企业寻求国际化扩张是推动这一人才流动的核心动力。",
+      "whyImportant": "这一趋势反映了澳大利亚科技行业在寻求全球化发展过程中面临的本土市场局限性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "214ad1700a5567a5",
+      "title": "Same-sex couple sue over Slovakia’s refusal to register marriage",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/13/same-sex-couple-sue-slovakia-refusal-register-austrian-marriage-eu",
+      "publishedAt": "2026-10-13T06:00:16.000Z",
+      "summary": "Case of couple who wed legally in Austria exposes clash between EU court ruling and national restrictions A same-sex couple are suing authorities in Slovakia for refusing to register their Austrian marriage, testing whether a landmark EU court ruling can turn recognition abroad into legal security at home. Their fight exposes a clash between European obligations and national restrictions – and what that means for LGBTQ+ people living under Robert Fico’s populist-nationalist government. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/13/same-sex-couple-sue-slovakia-refusal-register-austrian-marriage-eu",
+          "publishedAt": "2026-10-13T06:00:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ca55395d1e112d781540de84",
+      "fingerprint": "b96d24f7e7f8330c1a4dbd5c",
       "isContinuation": false,
-      "titleZh": "美国牧场主在成本飙升与对特朗普的忠诚之间挣扎",
-      "summaryZh": "在中期选举临近之际，许多支持特朗普的州份的农民正面临严重的经济压力。尽管成本不断上涨，但这些牧场主仍在权衡其政治立场与经济困境之间的关系。",
-      "whyImportant": "该报道反映了美国农业群体在经济压力下的政治态度及其对选举的影响。",
+      "titleZh": "同性伴侣起诉斯洛伐克拒绝承认其婚姻登记",
+      "summaryZh": "一对在奥地利合法结婚的同性伴侣因斯洛伐克拒绝承认其婚姻而提起诉讼。此案旨在测试欧盟法院的裁决能否在斯洛伐克国内产生法律效力，凸显了欧盟义务与该国保守政策之间的冲突。",
+      "whyImportant": "该案件将考验欧盟法律在成员国国内对LGBTQ+权益保护的强制执行力。",
       "summaryMode": "ai",
       "translationStatus": "translated"
-    }
-  ],
-  "watch": [
+    },
     {
-      "id": "ed2293fa726beabc",
-      "title": "‘Absolutely senseless’: Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
+      "id": "7e6fb8e9f7e94f5c",
+      "title": "Tuesday briefing: Could Burnham take Britain back towards the EU?",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
-      "publishedAt": "2026-10-12T03:45:30.000Z",
-      "summary": "The 36-year-old victim had withdrawn cash to give to some young people when he was allegedly stabbed, according to police Get our breaking news email, free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s west on Friday. Emergency services were called to the suburb of Mount Druitt on Friday evening amid reports a man had been assaulted. This story was amended on 12 October 2026. An earlier version incorrectly stated the victim’s age as 30, rather than 36. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu",
+      "publishedAt": "2026-10-13T05:42:46.000Z",
+      "summary": "In today’s newsletter: The prime minister is calling for closer ties with the EU, but what could this actually amount to? Good morning. After a holiday spent contracting nursery bugs from an 11-month-old, it’s good to return. Yesterday, Andy Burnham marked his first day back after party conference by calling for a closer relationship with the EU and drawing a line under a decade of “drift and division”. On Sunday, he said it was “clear” the Kremlin had been involved with the 2016 Brexit referendum vote. Both statements mark a break, rhetorically at least, from his predecessors. Conservative governments long insisted there was no evidence of Russian interference in the Brexit vote. Keir Starmer attempted to put the entire issue of Brexit behind him, treating it as a historic event rather than a cause of economic pain. UK | Andy Burnham said Iran’s Islamic Revolutionary Guards Corps were “almost certainly” behind threats to RAF Fairford, the firmest attribution of responsibility made so far by the UK after an incident late last month. UK politics | A close adviser to Nigel Farage had an influential role at a national polling company despite not being publicly associated with the firm",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
-          "publishedAt": "2026-10-12T03:45:30.000Z"
+          "url": "https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu",
+          "publishedAt": "2026-10-13T05:42:46.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1138,137 +1154,49 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "军事与安全"
       ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "3aacf3b36ba0009362e89ee8",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "67fc92ecec2f2c6856df30c8",
       "isContinuation": false,
-      "titleZh": "“极其荒谬”：悉尼西部一名男子被刺身亡，一名13岁男孩被控谋杀",
-      "summaryZh": "悉尼西部一名36岁男子在向几名年轻人提供现金时遭刺身亡。警方已逮捕并起诉了一名13岁男孩，该案件引发了当地社区的震惊。",
-      "whyImportant": "此案涉及未成年人暴力犯罪，引发了社会对青少年犯罪及公共安全的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1cba9a8063d19091",
-      "title": "Donald Tusk says man accused of plotting to kill him detained",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-      "publishedAt": "2026-10-11T16:01:25.000Z",
-      "summary": "Polish PM praises police for ‘swift and decisive action’ after threat against him and defence minister revealed The Polish prime minister, Donald Tusk, said on Sunday that a man accused of plotting to assassinate him and his defence minister had been detained. “The man threatening an attack has been detained,” Tusk wrote on X, praising the police for their “swift and decisive action”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-          "publishedAt": "2026-10-11T16:01:25.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "ef0c4bf88cbc63fd55ae3c6b",
-      "isContinuation": false,
-      "titleZh": "唐纳德·图斯克称一名密谋杀害他的男子已被拘留",
-      "summaryZh": "波兰总理唐纳德·图斯克周日宣布，一名涉嫌密谋暗杀他和国防部长的男子已被警方拘留。图斯克在社交媒体上赞扬了警方迅速果断的行动。",
-      "whyImportant": "针对国家领导人的暗杀阴谋对波兰的政治稳定构成了严重威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "94b811781f37e5f3",
-      "title": "North Korea fires multiple ballistic missiles towards the sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-      "publishedAt": "2026-10-12T03:37:12.000Z",
-      "summary": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-          "publishedAt": "2026-10-12T03:37:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "missile",
-        "军事"
-      ],
-      "fingerprint": "2269ed4099e9d752162489a0",
-      "isContinuation": false,
-      "titleZh": "朝鲜向海域发射多枚弹道导弹",
-      "summaryZh": "据首尔方面消息，朝鲜向海域发射了多枚弹道导弹。此次发射被视为对韩国此前进行高超音速导弹试射的一种武力展示。",
-      "whyImportant": "朝鲜的导弹活动加剧了朝鲜半岛的紧张局势，并引发了地区安全担忧。",
+      "titleZh": "周二简报：安迪·伯纳姆能否带领英国重返欧盟？",
+      "summaryZh": "英国政界人士安迪·伯纳姆呼吁与欧盟建立更紧密的关系，并指责克里姆林宫干预了2016年脱欧公投。这些言论标志着英国政府在对欧政策及对俄立场上可能出现重大转变。",
+      "whyImportant": "英国对欧政策的潜在调整将对未来的英欧关系及地缘政治格局产生深远影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
-  "more": [],
   "metadata": {
-    "fetched": 130,
-    "deduplicated": 126,
+    "fetched": 151,
+    "deduplicated": 149,
     "selected": 21,
     "translated": 21,
     "untranslated": 0,
     "minimumRequired": 21,
-    "featured": 8,
+    "featured": 7,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "78bbd4b4601b3082",
-      "title": "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+      "id": "9e58dc30161bca32",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
-      "publishedAt": "2026-10-12T04:55:40.000Z",
-      "summary": "MyCentre leader Samir Mohtadi, who also goes by Abu Hamza, refers to Islamic texts on the virtues of staying silent Get our breaking news email, free app or daily news podcast A leader of a Melbourne Islamic centre allegedly linked to the accused Flydubai hijacker has released a video extolling the virtues of staying silent, without directly commenting on the accusations from prosecutors in the United Arab Emirates. Dr Hamad Saif al-Shamsi, the attorney general of the UAE, on the weekend said that investigators had traced the ideological and professional background of the 29-year-old suspect and that their findings indicated his “drift towards extremism and terrorism” began while he was studying at RMIT University in Melbourne in 2017. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "publishedAt": "2026-10-13T03:15:12.000Z",
+      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
-          "publishedAt": "2026-10-12T04:55:40.000Z"
+          "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+          "publishedAt": "2026-10-13T03:15:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1278,253 +1206,167 @@
       "tags": [
         "全球焦点",
         "突发",
+        "经济",
+        "金融",
         "军事与安全",
         "科技",
         "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业",
+        "持续关注"
       ],
-      "score": 81,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 78,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
+        "科技"
       ],
-      "fingerprint": "accdeb7d11e99ba7614f1a04",
-      "isContinuation": false,
-      "titleZh": "墨尔本伊斯兰教领袖在Facebook视频中对该中心涉嫌与迪拜航空劫机者有关联一事保持沉默",
-      "summaryZh": "墨尔本一伊斯兰中心负责人萨米尔·莫塔迪发布视频，强调保持沉默的价值，但未直接回应阿联酋检察官关于该中心与一名劫机嫌疑人有关联的指控。阿联酋总检察长指出，该嫌疑人曾在墨尔本皇家理工大学留学期间走向极端化。",
-      "whyImportant": "此事件引发了关于澳大利亚境内宗教机构与极端主义关联的调查及社会关注。",
+      "fingerprint": "f73cda7a66e5d92b8195dfa9",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "国际货币基金组织：人工智能股票崩盘威胁全球金融稳定",
+      "summaryZh": "国际货币基金组织警告称，人工智能领域的高估值和债务积累正威胁全球金融稳定。该机构指出，全球经济可能很快面临韧性极限的考验，政府借贷和网络攻击风险也在增加。",
+      "whyImportant": "此警告凸显了当前科技行业泡沫对全球宏观经济潜在的系统性风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "562edc058b937437",
-      "title": "Joyce likens US public execution to ‘Roman amphitheatre’ – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-      "publishedAt": "2026-10-12T04:57:52.000Z",
-      "summary": "This blog is now closed Get our breaking news email, free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour. These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government’s review, these changes to trust taxation have been called for. I think he’s getting that from lots of corners. People are saying that the Liberal party needs to do better. The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there’s something existential about the threat that I think the party now faces. Look, I certainly haven’t closed the door, but I don’t",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-          "publishedAt": "2026-10-12T04:57:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "c96694357c46abf7eb0ac51a",
-      "isContinuation": false,
-      "titleZh": "乔伊斯将美国公开处决比作“罗马圆形竞技场”",
-      "summaryZh": "澳大利亚助理财政部长丹尼尔·穆利诺重申，工党不会削弱对可支配信托基金征收30%最低税的计划。该政策旨在实现税收公平，并更好地平衡劳动收入与信托收入的税负。",
-      "whyImportant": "该税收改革引发了关于澳大利亚税制公平性及政治影响的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9aacce126464680a",
-      "title": "US can choose to deport Hongkongers under Deferred Enforced Departure scheme",
+      "id": "e64cb1c8a2a2c46e",
+      "title": "Hong Kong group aims to cultivate a lasting future for rural Lantau communities",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T05:42:57.000Z",
-      "summary": "United States authorities could deport Hong Kong residents granted extended stay under the Deferred Enforced Departure (DED) programme and have not ruled out the option of doing so after a dozen were reportedly detained at local airports. “The Department of Homeland Security (DHS) is not precluded from placing aliens with such temporary administrative designation into removal proceedings, nor is it currently removing them,” a department spokesman said in a reply to the South China Morning Post...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3370693/hong-kong-group-aims-cultivate-lasting-future-rural-lantau-communities?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:18:47.000Z",
+      "summary": "Many rural projects in Hong Kong start with funding, run for a year or two, then disappear when the money runs out. Good Old Soil, a community organisation, is trying to take a different approach on Lantau. Supported by the non-profit Land Education Foundation, the organisation works with farmers, young people, restaurants, craftspeople and businesses to build a local economy that can sustain itself after individual grants end. Founded in 2022, Good Old Soil opened a shop in Mui Wo that same...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3370546/us-can-choose-deport-hongkongers-under-deferred-enforced-departure-scheme?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T05:42:57.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3370693/hong-kong-group-aims-cultivate-lasting-future-rural-lantau-communities?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:18:47.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 76,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "security",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "723bf009f04092a1fcc5eb43",
+      "fingerprint": "a6c38c3312d801bcc91f7647",
       "isContinuation": false,
-      "titleZh": "美国称可选择驱逐受“延期强制离境”计划保护的香港居民",
-      "summaryZh": "美国国土安全部表示，尽管目前未进行驱逐，但并未排除将受“延期强制离境”（DED）计划保护的香港居民纳入遣返程序的可能性。此前有报道称，已有十余名相关人士在机场被扣留。",
-      "whyImportant": "此表态引发了外界对在美港人居留权稳定性的担忧，并可能影响美港之间的相关政策走向。",
+      "titleZh": "香港团体旨在为大屿山农村社区培育可持续未来",
+      "summaryZh": "社区组织“好土”通过与农民、青年及企业合作，试图在大屿山建立一个不依赖短期资助的自给自足经济模式。该组织在梅窝开设了店铺，致力于实现农村项目的长期可持续发展。",
+      "whyImportant": "该模式为香港农村社区的长期发展提供了新的探索方向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "edf5e3e9dfb9710d",
-      "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
-      "publishedAt": "2026-10-12T05:49:11.000Z",
-      "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures. As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade. Continue reading...",
+      "id": "613d71bdb060ed93",
+      "title": "China-US astronomy team may have found possible relic of a recent ‘gold factory’",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3370141/china-us-astronomy-team-may-have-found-possible-relic-recent-gold-factory?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:00:08.000Z",
+      "summary": "A mysterious glow of high-energy light in our Milky Way galaxy could be the remains of an extremely rare cosmic “gold factory”, according to a new study by Chinese and US researchers. The collision of two orbiting neutron stars – dead stars so dense that a teaspoon of their matter would weigh a billion tonnes – may have shone as brightly as Jupiter in the sky, they wrote in a paper posted last week on the preprint server arXiv, which has yet to be peer-reviewed. The violent smash spewed out...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
-          "publishedAt": "2026-10-12T05:49:11.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3370141/china-us-astronomy-team-may-have-found-possible-relic-recent-gold-factory?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:00:08.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "能源",
+        "专题·科技、能源与产业"
       ],
       "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "energy",
+        "能源"
       ],
-      "fingerprint": "1ad01bfe57946a0fbfbcbdf0",
+      "fingerprint": "fc0a8515fcf0838f04321247",
       "isContinuation": false,
-      "titleZh": "英国财政研究所：若无明确计划填补350亿英镑支出缺口，预算案将是“虚构作品”",
-      "summaryZh": "英国财政研究所警告称，除非政府制定明确计划以应对350亿英镑的支出压力，否则即将出台的预算案将缺乏现实基础。受通胀和中东局势影响，财政大臣面临增加拨款或实施深度削减的艰难选择。",
-      "whyImportant": "这凸显了英国政府在应对财政赤字与公共服务需求之间的严峻挑战。",
+      "titleZh": "中美天文学家团队可能发现了近期“黄金工厂”的遗迹",
+      "summaryZh": "中美研究人员在银河系中发现了一处高能光芒，这可能是罕见的“黄金工厂”——中子星碰撞的遗迹。该研究指出，此次碰撞产生的亮度极高，相关论文已在预印本平台发布。",
+      "whyImportant": "这一发现有助于科学家进一步理解宇宙中重元素的起源。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a0be79c793eaf566",
-      "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
-      "publishedAt": "2026-10-12T05:00:47.000Z",
-      "summary": "Mark Rowley says inclusivity is crucial for the force and he refuses to be ‘blown off course’ by critics Sir Mark Rowley: I will have more police officers of colour in the UK capital – and the culture wars won’t stop me doing it Mark Rowley has said the Metropolitan police must recruit more black and Asian officers in order to gain the trust of minority ethnic communities in London, and vowed not to be “blown off course by the culture wars”. The right has criticised drives for diversity, claiming they lead to lower standards. Rowley, who is commissioner of the Met and Britain’s top police officer, said that as a leader of a major organisation he was prepared to take a stand against the “toxicity” surrounding the diversity debate and criticised other leaders for “running away from the subject”. Continue reading...",
+      "id": "5cdef61648f4f3e2",
+      "title": "Ex-Cyberport department head, 5 others, charged over HK$20 million tech subsidy fraud",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370695/ex-cyberport-department-head-5-others-charged-over-hk20-million-tech-subsidy-fraud?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:28:39.000Z",
+      "summary": "A former department head of Hong Kong’s fintech hub Cyberport has been granted bail after being charged with accepting bribes to help an artificial intelligence (AI) start-up secure HK$20 million in funding from a government-subsidised programme. Alice So Nga-lai, 59, former head of entrepreneurship of the Hong Kong Cyberport Management Company, was accused of receiving advantages such as flight tickets, one handbag, two tote bags, one coin purse and a mobile phone between October 2023 and...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
-          "publishedAt": "2026-10-12T05:00:47.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370695/ex-cyberport-department-head-5-others-charged-over-hk20-million-tech-subsidy-fraud?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:28:39.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 65,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "artificial intelligence",
+        "科技"
       ],
-      "fingerprint": "45f81d652367d7f0ef614cba",
+      "fingerprint": "6d95c90970f84f644e5e468b",
       "isContinuation": false,
-      "titleZh": "伦敦警察厅厅长表示，围绕多元化、公平与包容（DEI）的“毒性”不会阻止他招募更多黑人和亚裔警官",
-      "summaryZh": "伦敦警察厅厅长马克·罗利誓言，尽管面临文化战争的批评，他仍将致力于招募更多少数族裔警官以提升社区信任。他批评其他领导人在面对多元化争议时选择退缩，并坚持认为包容性对警队至关重要。",
-      "whyImportant": "此举反映了英国警务系统在推动种族多元化与应对社会舆论压力之间的矛盾。",
+      "titleZh": "前数码港部门主管等6人因涉嫌2000万港元科技补贴欺诈被控",
+      "summaryZh": "香港数码港前创业组主管苏雅丽被控收受贿赂，协助一家人工智能初创公司骗取2000万港元政府补贴。目前她已获准保释，案件涉及多项财物贿赂。",
+      "whyImportant": "此案揭露了政府资助项目在监管方面存在的潜在漏洞。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "892540aa2558fb9c",
-      "title": "Burnham to urge MPs to embrace closer ties with EU",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
-      "publishedAt": "2026-10-12T05:00:46.000Z",
-      "summary": "Post-recess statement will focus on damage caused by Brexit and the need to cooperate on immigration and trade Andy Burnham will put Brexit back on the Commons agenda as MPs return from recess, warning that failing to pursue a better deal with the EU would be a “major dereliction of duty”. The prime minister will use a statement to the Commons on the first day back after the party conference break to urge MPs to face up to the damage caused by Brexit, and embrace closer ties with the EU to increase economic growth and tackle illegal immigration. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
-          "publishedAt": "2026-10-12T05:00:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 69,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "f41b29dddabc5b46740100ad",
-      "isContinuation": false,
-      "titleZh": "伯纳姆将敦促议员们加强与欧盟的联系",
-      "summaryZh": "英国首相安迪·伯纳姆计划在议会复会时强调脱欧带来的负面影响，并呼吁加强与欧盟的合作。他认为寻求更好的对欧协议对于促进经济增长和解决非法移民问题至关重要。",
-      "whyImportant": "这标志着英国政府在脱欧后政策方向上可能寻求更务实的对欧关系调整。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3566ee1decd066e1",
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "id": "18a7416e9037f979",
+      "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T17:27:24.000Z",
-      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T15:51:30.000Z",
+      "summary": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T17:27:24.000Z"
+          "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-12T15:51:30.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1534,170 +1376,250 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
+        "能源",
+        "专题·科技、能源与产业"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
+        "energy",
+        "能源"
       ],
-      "fingerprint": "112aa474d1098669b8c1bdf5",
+      "fingerprint": "8161607031c995185128fd5b",
       "isContinuation": false,
-      "titleZh": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
-      "summaryZh": "波兰警方收到可靠情报，称有人计划对总理唐纳德·图斯克及其国防部长发动袭击。目前相关嫌疑人已被拘留。",
-      "whyImportant": "针对国家领导人的暗杀威胁引发了波兰国内对政治安全局势的高度警惕。",
+      "titleZh": "视频：特朗普的能源停火协议对乌克兰意味着什么？",
+      "summaryZh": "BBC记者丹·约翰逊从基辅发回报道，当地乌克兰人正面临又一个电力中断的冬天。该报道探讨了特朗普提出的能源相关政策可能对乌克兰局势产生的影响。",
+      "whyImportant": "此议题涉及地缘政治变动对乌克兰能源安全及战时民生的潜在影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7a25d6204cd6f042",
-      "title": "Republican and Democrat senators want Trump to reverse course on Russian diesel deal",
+      "id": "364e4429819e9130",
+      "title": "Thailand’s deepening labour shortage roils harvest as unpicked fruits rot",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
-      "publishedAt": "2026-10-11T17:15:37.000Z",
-      "summary": "Republican and Democratic US senators called on President Donald ⁠Trump on Sunday to “reverse course” on his diesel supply deal with Russia, saying it runs counter to US law barring imports of energy until Russia ends its aggression against Ukraine. “Congress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing (Russian President Vladimir) Putin’s brutal war against Ukraine,” the seven senators – four of Trump’s fellow Republicans and three Democrats – said...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370655/thailands-deepening-labour-shortage-roils-harvest-unpicked-fruits-rot?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T01:36:39.000Z",
+      "summary": "Ripe mangosteen and rambutan hang unpicked from trees in eastern Thailand, where a shortage of migrant workers is forcing growers to decide which crops are valuable enough to harvest and which will be left to rot. For Jomsak Putirattana, who also grows durian in Chanthaburi province, the departure of his five Cambodian workers after a border dispute disrupted crossings has intensified competition for labour. Daily wages have more than doubled in some cases, from about 350 baht to 400 baht (US$10...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
-          "publishedAt": "2026-10-11T17:15:37.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370655/thailands-deepening-labour-shortage-roils-harvest-unpicked-fruits-rot?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T01:36:39.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全",
+        "全球焦点",
         "能源",
         "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 68,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "9dca944c503450860690aac8",
+      "fingerprint": "672fdabaed333b655f1eae44",
       "isContinuation": false,
-      "titleZh": "共和党与民主党参议员要求特朗普撤销与俄罗斯的柴油协议",
-      "summaryZh": "七名美国参议员联名要求特朗普总统撤销与俄罗斯达成的柴油供应协议。他们认为该协议违反了美国禁止进口俄罗斯能源以制裁其对乌克兰战争的法律规定。",
-      "whyImportant": "此举显示了美国国会两党在对俄制裁问题上对行政部门施加的压力，以及能源政策与外交政策之间的冲突。",
+      "titleZh": "泰国劳动力短缺加剧，导致农作物无人采摘腐烂",
+      "summaryZh": "泰国东部因外籍劳工短缺，导致山竹和红毛丹等水果无人采摘而腐烂。边境争端导致劳工流失，使得当地农场主面临工资成本飙升和作物损失的双重压力。",
+      "whyImportant": "劳动力短缺问题正直接威胁泰国的农业生产和出口经济。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ef25b116d8d627fb",
-      "title": "Ministers preparing to slash heat pump subsidies to fund defence spending",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
-      "publishedAt": "2026-10-12T05:00:47.000Z",
-      "summary": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources say Ministers are preparing to slash the amount of money available to subsidise heat pumps as they look for ways to fund higher defence spending, sources have told the Guardian. Miatta Fahnbulleh, the energy secretary, has been tasked with finding more than £2bn in savings from her budget to help pay for defence investment under a plan drawn up by the previous government. Continue reading...",
+      "id": "d910557b1e94e8ab",
+      "title": "Not just about tax: why Australia’s tech entrepreneurs are moving to Singapore",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3370642/not-just-about-tax-why-australias-tech-entrepreneurs-are-moving-singapore?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T00:00:22.000Z",
+      "summary": "Investor Ben Lindsay relocated from Sydney to Singapore in March, with wife and dog in tow – his sights set on growing venture capital firm Investible from an Australian outfit into an Asia-Pacific one. Lindsay is among a growing number of investors, businessmen and tech founders from down under who are setting up bases and relocating to Singapore, Dubai and San Francisco to expand their company’s reach. For example, Australian billionaire Adrian Portelli, founder of savings and rewards platform...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3370642/not-just-about-tax-why-australias-tech-entrepreneurs-are-moving-singapore?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T00:00:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "科技"
+      ],
+      "fingerprint": "6a36d475331fa94807925040",
+      "isContinuation": false,
+      "titleZh": "不仅仅是税收：为什么澳大利亚科技创业者纷纷迁往新加坡",
+      "summaryZh": "越来越多的澳大利亚投资者和科技创业者选择迁往新加坡、迪拜或旧金山，以寻求更广阔的亚太市场。除了税收因素外，企业寻求国际化扩张是推动这一人才流动的核心动力。",
+      "whyImportant": "这一趋势反映了澳大利亚科技行业在寻求全球化发展过程中面临的本土市场局限性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7f359cce243c93dc",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T06:26:05.000Z",
+      "summary": "Actor who played Walter White Jr on the acclaimed show and advocated for disability representation remembered by Bryan Cranston as ‘my sweet son’ RJ Mitte – a life in pictures The actor RJ Mitte, whose personal experience living with cerebral palsy informed his role as Walter White Jr in the landmark television series Breaking Bad, has died aged 34 in Brownsville, Texas. “It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,” Mitte’s representatives said in a statement. “Drawing from his own experience living with cerebral palsy, Mitte brought authenticity to the role and built a platform on disability awareness and inclusion.” Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
-          "publishedAt": "2026-10-12T05:00:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "e466eda5db2f3e82621bc5e5",
-      "isContinuation": false,
-      "titleZh": "部长们准备削减热泵补贴以资助国防支出",
-      "summaryZh": "据报道，英国政府计划从能源预算中削减约20亿英镑，其中包括削减锅炉升级计划中的热泵补贴。此举旨在为增加国防开支腾出资金。",
-      "whyImportant": "该决策反映了英国政府在能源转型目标与国防预算需求之间的财政博弈。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "80f6961bccad23fd",
-      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
-      "publishedAt": "2026-10-12T02:11:21.000Z",
-      "summary": "Sunday's strike on King Khalid International airport kills a Pakistani national.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
-          "publishedAt": "2026-10-12T02:11:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "52f6d447081beaf0dcdb34ea",
-      "isContinuation": false,
-      "titleZh": "沙特阿拉伯称利雅得机场再次遇袭，造成1人死亡、11人受伤",
-      "summaryZh": "周日，哈立德国王国际机场遭到袭击，导致一名巴基斯坦籍人员死亡，另有11人受伤。目前相关调查正在进行中。",
-      "whyImportant": "针对沙特关键基础设施的袭击加剧了地区安全局势的紧张。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5543b04e9315b169",
-      "title": "At least 139 migrants dead, dozens missing after boat capsizes off Djibouti",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T01:05:42.000Z",
-      "summary": "At least 139 migrants died, including 15 children, and 84 went missing when an overcrowded boat sank while heading from Djibouti to Yemen, a UN agency said on Sunday. The vessel was carrying 305 people, most of them Ethiopian, when it capsized north of the Djibouti town of Obock on the night of October 8-9, the International Organization for Migration (IOM) said in a statement. “Survivors told me that the boat started to sink backwards as soon as they got in it,” Alexandre Coissac, IOM chief of...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T01:05:42.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-13T06:26:05.000Z"
         },
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T15:32:23.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
+          "publishedAt": "2026-10-13T06:21:42.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织",
+        "持续关注"
+      ],
+      "score": 78,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e34d4f596843021e709cbe8d",
+      "isContinuation": true,
+      "hasNewDevelopment": true,
+      "titleZh": "《绝命毒师》演员RJ·米特去世，享年34岁",
+      "summaryZh": "曾在知名剧集《绝命毒师》中饰演小沃尔特·怀特的演员RJ·米特在得克萨斯州去世，年仅34岁。他本人患有脑瘫，在剧中展现了真实演技，并长期致力于倡导残疾人权利与包容性。",
+      "whyImportant": "该演员的离世引发了影视界对其在残疾人代表性方面所做贡献的缅怀。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2bbbf34e878c984e",
+      "title": "Australian politics live: Climate protester restrained after interrupting NSW parliament; Albanese says he’ll do whatever he can to stop ‘abhorrent’ US execution live stream",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+      "publishedAt": "2026-10-13T06:40:06.000Z",
+      "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail. Pether and his Egyptian colleague Khalid Radwan were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting. We were innocent when we were taken on the 7th of April 2021, and we remain innocent today. I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq. She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can’t describe it. I mean, it’s been years. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+          "publishedAt": "2026-10-13T06:40:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融",
+        "环境"
+      ],
+      "score": 67,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c97ce7211abce9b6c472c307",
+      "isContinuation": false,
+      "titleZh": "澳大利亚政治直播：气候抗议者扰乱新南威尔士州议会；阿尔巴尼斯誓言阻止美国执行死刑直播",
+      "summaryZh": "一名气候抗议者在新南威尔士州议会中断会议后被制服。此外，获释回国的澳大利亚工程师罗伯特·佩瑟讲述了他在伊拉克被监禁五年的经历，并坚称自己无罪。",
+      "whyImportant": "该报道涵盖了澳大利亚国内的抗议活动及备受关注的公民海外获释事件。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c8af05b0ccf7014d",
+      "title": "Card surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business",
+      "publishedAt": "2026-10-13T05:13:19.000Z",
+      "summary": "‘Round-up’ pricing in items such as coffee suggests increases are exceeding the typical 1.5% surcharge fee Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast Businesses are using the recent ban on credit card surcharges as “cover” to pass along much larger price increases to customers, experts say, as cafes and restaurants struggle to cope with climbing costs and rising interest rates. Credit card surcharges, typically worth about 1.5% of the transaction, were banned from 1 October, as part of a Reserve Bank-led reform aimed at improving transparency for customers and, ultimately, lowering bank fees. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business",
+          "publishedAt": "2026-10-13T05:13:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d1f3404e08f387aeb675b2b9",
+      "isContinuation": false,
+      "titleZh": "专家称澳大利亚企业利用信用卡附加费禁令作为涨价“掩护”",
+      "summaryZh": "自10月1日起，澳大利亚禁止收取信用卡附加费，旨在提高透明度并降低费用。然而专家指出，咖啡馆和餐馆正利用此机会进行远超原附加费比例的涨价，以应对经营成本上升。",
+      "whyImportant": "这一现象反映了政策改革在实际执行中可能产生的通胀转嫁效应。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2d0da4ea999413ad",
+      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+      "publishedAt": "2026-10-13T04:29:46.000Z",
+      "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast, causing flooding that downed trees and electricity poles, blocked roads and inundated homes. Simon claimed the life of a 71-year-old man who died when a wall collapsed in Chilpancingo in the southern state of Guerrero, governor Evelyn Salgado said at a press conference. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+          "publishedAt": "2026-10-13T04:29:46.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/americas/article/3370651/2-dead-10-missing-hurricane-and-tropical-storm-hit-mexico?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T22:23:52.000Z"
         }
       ],
       "sourceCount": 2,
@@ -1707,349 +1629,36 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8296ed6b96804b57d9061ba0",
-      "isContinuation": false,
-      "titleZh": "吉布提附近海域发生沉船事故，至少139名移民遇难，数十人失踪",
-      "summaryZh": "一艘载有305人的移民船在从吉布提前往也门的途中倾覆，造成至少139人死亡，其中包括15名儿童，另有84人失踪。幸存者表示，船只在登船后不久便开始向后倾斜并沉没。",
-      "whyImportant": "此事件凸显了非法移民在穿越危险海域时面临的极端安全风险与人道主义危机。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a3b4ebd015cbc859",
-      "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
-      "publishedAt": "2026-10-12T04:24:18.000Z",
-      "summary": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
-          "publishedAt": "2026-10-12T04:24:18.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "科技",
-        "专题·军事、安全与突发事件"
+        "环境",
+        "国际组织"
       ],
       "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "military",
-        "war",
-        "军事"
-      ],
-      "fingerprint": "2a3ca384f6556985ce728fe9",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "242dec0a1fe05613cf66f570",
       "isContinuation": false,
-      "titleZh": "内塔尼亚胡要求调查获奖加沙纪录片《NAZA》的消息来源",
-      "summaryZh": "一部纪录片引用了24名匿名以色列消息人士的证词，指控以军在加沙地带利用人工智能系统杀害巴勒斯坦人。内塔尼亚胡政府对此表示不满，并要求彻查该片的信息来源。",
-      "whyImportant": "该事件反映了以色列政府对涉及军事行动负面报道的敏感性以及对信息安全的高度关注。",
+      "titleZh": "飓风“西蒙”和热带风暴“雷切尔”袭击墨西哥太平洋沿岸，造成五人死亡",
+      "summaryZh": "飓风“西蒙”与热带风暴“雷切尔”接连袭击墨西哥太平洋沿岸，引发洪水并导致基础设施受损。目前已造成至少五人死亡，救援人员正利用直升机疏散受灾民众。",
+      "whyImportant": "极端天气事件对当地民众生命安全及基础设施造成了严重破坏。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "84da184d48f3de38",
-      "title": "Beijing moves to steady A-share market after sharp tech sell-off",
+      "id": "69825a84dc16aa70",
+      "title": "Nato ‘ready to fight tonight’ if attacked, top commander says",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T01:00:19.000Z",
-      "summary": "China’s top securities regulator has signalled fresh support for the domestic A-share market, convening a symposium over the weekend as authorities sought to shore up sentiment following a sharp sell-off in technology shares driven by concerns over US sanctions. The China Securities Regulatory Commission (CSRC) brought together executives from listed companies and experts from securities firms and fund managers at a meeting in Beijing on Saturday to “discuss the country’s capital markets and...",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370653/natos-top-commander-says-alliance-does-not-want-war-ready-fight-tonight?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T23:25:50.000Z",
+      "summary": "Nato’s top military commander said the alliance is “ready to fight tonight” if it is attacked, as European officials warn Russia could test Nato’s defences with increased covert attacks or a limited military incursion. European nations have in recent months faced an escalation of covert Russian activity, including an arson attack on an Estonian defence company and a failed attempt to attack a Ukrainian aircraft at a German airport. If Russia decides to attack Nato, the alliance will respond by...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T01:00:19.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "金融",
-        "科技"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "076372337b98f8755876814c",
-      "isContinuation": false,
-      "titleZh": "北京采取行动稳定A股市场，应对科技股大幅抛售",
-      "summaryZh": "受美国制裁担忧影响，中国科技股近期出现大幅抛售。中国证监会为此召开座谈会，听取上市公司及金融机构意见，旨在提振市场信心并稳定资本市场。",
-      "whyImportant": "监管层的介入显示了中国政府在面对外部压力时，致力于维护金融市场稳定与投资者信心的决心。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c689170425a4b6fc",
-      "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
-      "publishedAt": "2026-10-12T04:58:01.000Z",
-      "summary": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
-          "publishedAt": "2026-10-12T04:58:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "23a4d7332721669addbe08de",
-      "isContinuation": false,
-      "titleZh": "中国制裁巴拉圭和伯利兹官员，因其与台湾保持关系",
-      "summaryZh": "中国外交部宣布对巴拉圭和伯利兹的相关官员实施制裁。中方表示，此举是基于维护国家主权及反对台湾分裂活动的立场。",
-      "whyImportant": "此举进一步体现了中国在外交层面严厉打击“台独”势力及其外部支持者的坚定立场。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6f74cb7a0ee4690f",
-      "title": "Minibus driver hospitalised, 18 others injured, after collision with goods truck",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370539/minibus-driver-hospitalised-18-others-injured-after-collision-goods-truck?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T04:40:16.000Z",
-      "summary": "A minibus driver has been hospitalised after her vehicle collided with a medium goods truck in Hong Kong, causing injuries to 18 others. Police said the accident occurred at around 9.22am on Monday, when a green minibus and a medium goods truck collided on San Tin Highway on the Yuen Long-bound side of the road near Fairview Park. According to police, a total of nine men and 10 women were injured in the crash. The accident prompted authorities to close two lanes of the road, leading to severe...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370539/minibus-driver-hospitalised-18-others-injured-after-collision-goods-truck?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T04:40:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "公共安全"
-      ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "79e63bc9e8feba2aa7aab52e",
-      "isContinuation": false,
-      "titleZh": "香港发生小巴与货车相撞事故，司机送医，另有18人受伤",
-      "summaryZh": "一辆绿色小巴与一辆中型货车在香港新田公路发生碰撞，导致小巴司机送医，另有18名乘客受伤。事故造成现场部分车道封闭，交通严重受阻。",
-      "whyImportant": "该交通事故造成多人受伤并引发交通拥堵，再次引发公众对道路交通安全的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ffdff2062e44d57a",
-      "title": "Chinese desalination plant cuts 60% energy use, turns waste brine into industrial salt",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt?utm_source=rss_feed",
-      "publishedAt": "2026-10-12T04:15:34.000Z",
-      "summary": "A large desalination plant on Bohai Bay has achieved an energy efficiency breakthrough, slashing electricity consumption by more than half while converting millions of tonnes of toxic waste brine into high-value chemical salt. Situated in the Caofeidian industrial zone of Tangshan, Hebei province, the facility recently entered its trial production stage, the state-run Science and Technology Daily reported last month. This technology provides a viable pathway to solving the global challenge of...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt?utm_source=rss_feed",
-          "publishedAt": "2026-10-12T04:15:34.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "能源"
-      ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "63315e6a25ad8e848e354642",
-      "isContinuation": false,
-      "titleZh": "中国海水淡化厂能耗降低60%，并将废盐水转化为工业盐",
-      "summaryZh": "位于河北唐山的一家海水淡化厂通过技术突破，将电力消耗降低了一半以上，并成功将有毒废盐水转化为高价值的工业化学盐。该项目已进入试生产阶段，为解决全球淡化水处理难题提供了新路径。",
-      "whyImportant": "该技术的应用有望显著降低海水淡化成本，并减少环境污染，具有重要的环保与经济意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3ed512f2643207e0",
-      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-      "publishedAt": "2026-10-11T07:45:31.000Z",
-      "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast An Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said. Jordan Yap, 30, last made contact with friends and family on 14 September ahead of a planned 10-day solo trek along Peru’s Huayhuash mountain range, 400km north-east of Lima. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-          "publishedAt": "2026-10-11T07:45:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "突发",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "78e5009f71e7766a4e44838f",
-      "isContinuation": false,
-      "titleZh": "在秘鲁偏远步道失踪的澳大利亚徒步旅行者乔丹·亚普被发现死亡",
-      "summaryZh": "一名30岁的墨尔本男子乔丹·亚普在秘鲁瓦伊瓦什山脉进行为期10天的单人徒步旅行时失踪，其家人证实他已被发现死亡。他最后一次与亲友联系是在9月14日。",
-      "whyImportant": "此事件引发了对海外徒步旅行安全及搜救工作的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "09d644374a110cd8",
-      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T23:13:51.000Z",
-      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-11T23:13:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 53,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ca55395d1e112d781540de84",
-      "isContinuation": false,
-      "titleZh": "美国牧场主在成本飙升与对特朗普的忠诚之间挣扎",
-      "summaryZh": "在中期选举临近之际，许多支持特朗普的州份的农民正面临严重的经济压力。尽管成本不断上涨，但这些牧场主仍在权衡其政治立场与经济困境之间的关系。",
-      "whyImportant": "该报道反映了美国农业群体在经济压力下的政治态度及其对选举的影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ed2293fa726beabc",
-      "title": "‘Absolutely senseless’: Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
-      "publishedAt": "2026-10-12T03:45:30.000Z",
-      "summary": "The 36-year-old victim had withdrawn cash to give to some young people when he was allegedly stabbed, according to police Get our breaking news email, free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s west on Friday. Emergency services were called to the suburb of Mount Druitt on Friday evening amid reports a man had been assaulted. This story was amended on 12 October 2026. An earlier version incorrectly stated the victim’s age as 30, rather than 36. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
-          "publishedAt": "2026-10-12T03:45:30.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "3aacf3b36ba0009362e89ee8",
-      "isContinuation": false,
-      "titleZh": "“极其荒谬”：悉尼西部一名男子被刺身亡，一名13岁男孩被控谋杀",
-      "summaryZh": "悉尼西部一名36岁男子在向几名年轻人提供现金时遭刺身亡。警方已逮捕并起诉了一名13岁男孩，该案件引发了当地社区的震惊。",
-      "whyImportant": "此案涉及未成年人暴力犯罪，引发了社会对青少年犯罪及公共安全的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1cba9a8063d19091",
-      "title": "Donald Tusk says man accused of plotting to kill him detained",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-      "publishedAt": "2026-10-11T16:01:25.000Z",
-      "summary": "Polish PM praises police for ‘swift and decisive action’ after threat against him and defence minister revealed The Polish prime minister, Donald Tusk, said on Sunday that a man accused of plotting to assassinate him and his defence minister had been detained. “The man threatening an attack has been detained,” Tusk wrote on X, praising the police for their “swift and decisive action”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-          "publishedAt": "2026-10-11T16:01:25.000Z"
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370653/natos-top-commander-says-alliance-does-not-want-war-ready-fight-tonight?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T23:25:50.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2060,39 +1669,35 @@
         "全球焦点",
         "突发",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
       "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "ef0c4bf88cbc63fd55ae3c6b",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "46fc9d5cb591b59049917d90",
       "isContinuation": false,
-      "titleZh": "唐纳德·图斯克称一名密谋杀害他的男子已被拘留",
-      "summaryZh": "波兰总理唐纳德·图斯克周日宣布，一名涉嫌密谋暗杀他和国防部长的男子已被警方拘留。图斯克在社交媒体上赞扬了警方迅速果断的行动。",
-      "whyImportant": "针对国家领导人的暗杀阴谋对波兰的政治稳定构成了严重威胁。",
+      "titleZh": "北约最高指挥官称若遭攻击已“准备好今晚开战”",
+      "summaryZh": "北约最高军事指挥官表示，面对俄罗斯可能进行的隐蔽攻击或有限军事入侵，北约已做好随时应对的准备。近期欧洲多国已发生多起针对国防设施的破坏活动。",
+      "whyImportant": "此表态显示了北约在当前地缘政治紧张局势下对防御能力的强调。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "94b811781f37e5f3",
-      "title": "North Korea fires multiple ballistic missiles towards the sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-      "publishedAt": "2026-10-12T03:37:12.000Z",
-      "summary": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
+      "id": "2236b8296ba06a8f",
+      "title": "RJ Mitte, Breaking Bad star and disability rights advocate, dies at 34",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3370652/breaking-bad-actor-and-disability-rights-champion-rj-mitte-dies-34?utm_source=rss_feed",
+      "publishedAt": "2026-10-12T22:55:52.000Z",
+      "summary": "RJ Mitte, the young actor best known for playing Walter White Jnr in the award-winning TV series Breaking Bad, has died, his representatives said on Monday. He was 34. The cause of death for the actor, who lived with cerebral palsy, was not immediately revealed. “It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,” said a statement issued by Sean Reilly. A teenage Mitte first appeared in Breaking Bad...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-          "publishedAt": "2026-10-12T03:37:12.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370652/breaking-bad-actor-and-disability-rights-champion-rj-mitte-dies-34?utm_source=rss_feed",
+          "publishedAt": "2026-10-12T22:55:52.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2101,23 +1706,323 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
+        "突发",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
       "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "missile",
-        "军事"
-      ],
-      "fingerprint": "2269ed4099e9d752162489a0",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "65e1edbf84ab359d27247346",
       "isContinuation": false,
-      "titleZh": "朝鲜向海域发射多枚弹道导弹",
-      "summaryZh": "据首尔方面消息，朝鲜向海域发射了多枚弹道导弹。此次发射被视为对韩国此前进行高超音速导弹试射的一种武力展示。",
-      "whyImportant": "朝鲜的导弹活动加剧了朝鲜半岛的紧张局势，并引发了地区安全担忧。",
+      "titleZh": "《绝命毒师》演员及残疾人权利倡导者RJ·米特去世，享年34岁",
+      "summaryZh": "曾在《绝命毒师》中饰演小沃尔特·怀特的演员RJ·米特去世，享年34岁，死因尚未公布。他不仅是一位演员，还是一位积极的残疾人权利倡导者。",
+      "whyImportant": "该演员的离世引起了公众对其演艺生涯及社会公益贡献的广泛关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "73ceaff0ab893aea",
+      "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+      "publishedAt": "2026-10-13T05:59:48.000Z",
+      "summary": "Iraq, Bahrain, Kuwait and Qatar face double-digit declines in GDP amid the fallout from the US-Israel war on Iran.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+          "publishedAt": "2026-10-13T05:59:48.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "eb70edcda9835694da78f340",
+      "isContinuation": false,
+      "titleZh": "国际货币基金组织：受战争影响，中东和中亚经济将在2026年萎缩",
+      "summaryZh": "受美国与以色列针对伊朗的战争影响，中东和中亚地区的经济前景恶化。伊拉克、巴林、科威特和卡塔尔的国内生产总值预计将出现两位数下滑。",
+      "whyImportant": "地区冲突对全球能源供应及区域经济稳定构成了严重威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d094080b83b3fb18",
+      "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+      "publishedAt": "2026-10-13T03:28:06.000Z",
+      "summary": "Actor, who allegedly punched one Delta attendant, bit another and tried to open plane door, was charged for two separate assaults after the plane landed The actor Selma Blair was arrested on Sunday at John F Kennedy airport in New York after she allegedly attacked two flight attendants on a Delta Air Lines flight, and separately charged with two counts of assault for allegedly kicking a police officer and a nurse after landing. Blair’s arrest happened at about 11pm, after Port Authority of New York and New Jersey officials said they responded to a call “about a physically abusive passenger aboard Delta Air Lines flight 938 which was parked at the gate” at JFK after arriving from Los Angeles. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+          "publishedAt": "2026-10-13T03:28:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "国际组织"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "12f7004af64e06d2e93c2832",
+      "isContinuation": false,
+      "titleZh": "塞尔玛·布莱尔因涉嫌袭击空乘人员、警察和护士被控",
+      "summaryZh": "演员塞尔玛·布莱尔在达美航空航班上涉嫌袭击空乘人员，并在飞机降落后因踢伤警察和护士被控两项袭击罪。布莱尔在纽约肯尼迪机场被捕，目前正面临相关法律诉讼。",
+      "whyImportant": "该事件引发了公众对航空安全及名人行为规范的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b89180e908bcba4a",
+      "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+      "publishedAt": "2026-10-13T03:01:53.000Z",
+      "summary": "A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+          "publishedAt": "2026-10-13T03:01:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5cbbac26b84c41252e574e78",
+      "isContinuation": false,
+      "titleZh": "法国超市遭网络攻击，导致火灾及数百万损失",
+      "summaryZh": "针对法国超市制冷系统的网络攻击导致全国范围内货架空置。此次事件造成了严重的经济损失及火灾隐患。",
+      "whyImportant": "此事件凸显了关键基础设施在网络攻击面前的脆弱性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "42977e8cbb290d84",
+      "title": "Why Haidilao’s US$14.9 million credit line to founder is fuelling China tax speculation",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-business/article/3370680/why-haidilaos-us149-million-credit-line-founder-fuelling-china-tax-speculation?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T06:00:11.000Z",
+      "summary": "Haidilao International Holding has agreed to provide its founder, Zhang Yong, with a one-month loan of up to the Hong Kong dollar equivalent of 100 million yuan (US$14.9 million), a move that has raised market speculation as investors closely watch Beijing’s October 22 deadline for offshore trust taxation. The Hong Kong-listed hotpot chain said in a stock exchange filing on Monday night that it would fund the loan from internal resources and charge interest at 0.6 percentage points above the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/china-business/article/3370680/why-haidilaos-us149-million-credit-line-founder-fuelling-china-tax-speculation?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T06:00:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d0e1792772886af723ca6e0b",
+      "isContinuation": false,
+      "titleZh": "海底捞向创始人提供1490万美元信贷额度为何引发中国税务猜测",
+      "summaryZh": "海底捞向创始人张勇提供约1亿港元的短期贷款，正值市场密切关注北京离岸信托税收政策截止日期之际。此举引发了投资者对税务合规及资金用途的广泛猜测。",
+      "whyImportant": "该贷款行为引发了市场对企业高管税务安排及监管合规性的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b04332a30515a1e6",
+      "title": "Therapy dogs in high demand: Hong Kong programme booked out until February 2027",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3370658/therapy-dogs-high-demand-hong-kong-programme-booked-out-until-february-2027?utm_source=rss_feed",
+      "publishedAt": "2026-10-13T02:19:23.000Z",
+      "summary": "A Hong Kong therapy-dog programme run by one staff member and 65 volunteers with their dogs is fully booked until February 2027, as demand from schools, hospitals and elderly homes continues to outstrip the available visiting slots. Animals Asia’s Dr Dog and Professor Paws programmes rely on volunteers who give up their time, shoulder much of the cost of transporting their dogs and return regularly to venues across the city. “None of it would be possible without the volunteers,” said Karina...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3370658/therapy-dogs-high-demand-hong-kong-programme-booked-out-until-february-2027?utm_source=rss_feed",
+          "publishedAt": "2026-10-13T02:19:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "132d4ded679015b7d0919d07",
+      "isContinuation": false,
+      "titleZh": "治疗犬需求激增：香港项目预约已排至2027年2月",
+      "summaryZh": "香港的治疗犬项目因学校、医院及养老院需求巨大，预约已排满至2027年2月。该项目完全依赖志愿者及其犬只的无偿服务。",
+      "whyImportant": "这反映了社会对动物辅助治疗服务的需求日益增长。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "73e6ff00840df297",
+      "title": "Bullet hole in door and DNA evidence scrutinised in Beau Lamarre-Condon double murder trial",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/beau-lamarre-condon-double-trial-dna-evidence-scrutinised-bullet-hole-ntwnfb",
+      "publishedAt": "2026-10-13T02:52:47.000Z",
+      "summary": "Defence also cross-examines witness over postmortem examinations of Jesse Baird and Luke Davies Get our breaking news email, free app or daily news podcast A bullet hole left in a bedroom door and DNA found in the barrel of the firearm have been scrutinised in court as Beau Lamarre-Condon’s double murder trial continues in Sydney. Lamarre-Condon, 31, has been accused of fatally shooting Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/13/beau-lamarre-condon-double-trial-dna-evidence-scrutinised-bullet-hole-ntwnfb",
+          "publishedAt": "2026-10-13T02:52:47.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b18ea7bac715f8204cd4fbc5",
+      "isContinuation": false,
+      "titleZh": "悉尼双重谋杀案审判：法庭审查门上弹孔及DNA证据",
+      "summaryZh": "在博·拉马尔-康登的双重谋杀案审判中，法庭对卧室门上的弹孔及枪管内的DNA证据进行了详细审查。被告被控使用警用武器杀害了两名受害者。",
+      "whyImportant": "此案因涉及现役警察作为被告而受到社会高度关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "214ad1700a5567a5",
+      "title": "Same-sex couple sue over Slovakia’s refusal to register marriage",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/13/same-sex-couple-sue-slovakia-refusal-register-austrian-marriage-eu",
+      "publishedAt": "2026-10-13T06:00:16.000Z",
+      "summary": "Case of couple who wed legally in Austria exposes clash between EU court ruling and national restrictions A same-sex couple are suing authorities in Slovakia for refusing to register their Austrian marriage, testing whether a landmark EU court ruling can turn recognition abroad into legal security at home. Their fight exposes a clash between European obligations and national restrictions – and what that means for LGBTQ+ people living under Robert Fico’s populist-nationalist government. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/13/same-sex-couple-sue-slovakia-refusal-register-austrian-marriage-eu",
+          "publishedAt": "2026-10-13T06:00:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b96d24f7e7f8330c1a4dbd5c",
+      "isContinuation": false,
+      "titleZh": "同性伴侣起诉斯洛伐克拒绝承认其婚姻登记",
+      "summaryZh": "一对在奥地利合法结婚的同性伴侣因斯洛伐克拒绝承认其婚姻而提起诉讼。此案旨在测试欧盟法院的裁决能否在斯洛伐克国内产生法律效力，凸显了欧盟义务与该国保守政策之间的冲突。",
+      "whyImportant": "该案件将考验欧盟法律在成员国国内对LGBTQ+权益保护的强制执行力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7e6fb8e9f7e94f5c",
+      "title": "Tuesday briefing: Could Burnham take Britain back towards the EU?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu",
+      "publishedAt": "2026-10-13T05:42:46.000Z",
+      "summary": "In today’s newsletter: The prime minister is calling for closer ties with the EU, but what could this actually amount to? Good morning. After a holiday spent contracting nursery bugs from an 11-month-old, it’s good to return. Yesterday, Andy Burnham marked his first day back after party conference by calling for a closer relationship with the EU and drawing a line under a decade of “drift and division”. On Sunday, he said it was “clear” the Kremlin had been involved with the 2016 Brexit referendum vote. Both statements mark a break, rhetorically at least, from his predecessors. Conservative governments long insisted there was no evidence of Russian interference in the Brexit vote. Keir Starmer attempted to put the entire issue of Brexit behind him, treating it as a historic event rather than a cause of economic pain. UK | Andy Burnham said Iran’s Islamic Revolutionary Guards Corps were “almost certainly” behind threats to RAF Fairford, the firmest attribution of responsibility made so far by the UK after an incident late last month. UK politics | A close adviser to Nigel Farage had an influential role at a national polling company despite not being publicly associated with the firm",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu",
+          "publishedAt": "2026-10-13T05:42:46.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "67fc92ecec2f2c6856df30c8",
+      "isContinuation": false,
+      "titleZh": "周二简报：安迪·伯纳姆能否带领英国重返欧盟？",
+      "summaryZh": "英国政界人士安迪·伯纳姆呼吁与欧盟建立更紧密的关系，并指责克里姆林宫干预了2016年脱欧公投。这些言论标志着英国政府在对欧政策及对俄立场上可能出现重大转变。",
+      "whyImportant": "英国对欧政策的潜在调整将对未来的英欧关系及地缘政治格局产生深远影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
