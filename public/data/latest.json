@@ -1,207 +1,127 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T04:33:37.454Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T04:38:15.018Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "usa",
-    "name": "美国政策与全球影响",
-    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
-    "query": "United States policy economy diplomacy security",
+    "slug": "economy-finance",
+    "name": "全球经济与金融",
+    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
+    "query": "global economy finance trade inflation interest rates",
     "keywords": [
-      "united states",
-      "u.s.",
-      "american",
-      "washington",
-      "white house",
-      "美国",
-      "华盛顿",
-      "白宫",
-      "美联储"
+      "economy",
+      "trade",
+      "tariff",
+      "inflation",
+      "market",
+      "bank",
+      "interest rate",
+      "经济",
+      "贸易",
+      "通胀",
+      "金融",
+      "利率"
     ],
-    "accent": "#3b82f6"
+    "accent": "#10b981"
   },
-  "overview": "今日专题“美国政策与全球影响”。共筛选 22 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“全球经济与金融”。共筛选 21 个高价值事件，重点关注中国相关进展、全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "a7d5e780dadabf24",
-      "title": "Pentagon designates Confucius Institutes a national security threat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-      "publishedAt": "2026-10-24T03:38:20.000Z",
-      "summary": "Pete Hegseth says the Pentagon dismantled 80 ‘propaganda cells’ operating under new names at 30 universities.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-          "publishedAt": "2026-10-24T03:38:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 68,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "ee475aee5e2aabd203815bae",
-      "isContinuation": false,
-      "titleZh": "五角大楼将孔子学院定性为国家安全威胁",
-      "summaryZh": "皮特·赫格塞斯表示，五角大楼已在30所大学拆除了80个以新名称运作的“宣传单元”。美方将其视为国家安全威胁。",
-      "whyImportant": "此举反映了美方在学术交流与国家安全领域对华政策的进一步收紧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "81f856d9de5ff81c",
-      "title": "President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
-      "publishedAt": "2026-10-23T17:30:14.000Z",
-      "summary": "President Donald J. Trump returns to Florida today to highlight a clear record of results that puts hardworking Americans first. Under President Trump and Republican leadership, Floridians are seeing historic tax relief, a surge in private investment and job creation, stronger rural healthcare, accelerated infrastructure and environmental progress, expanded support for veterans, and safer communities. […] The post President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
-          "publishedAt": "2026-10-23T17:30:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "环境",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "14e2e1ee529dbd74330e8342",
-      "isContinuation": false,
-      "titleZh": "特朗普总统重返“阳光之州”，为工薪阶层、老年人和退伍军人带来重大成果",
-      "summaryZh": "特朗普总统今日重返佛罗里达州，强调其政府在税收减免、就业创造及基础设施建设等方面的政绩。该声明列举了其在医疗、环境及退伍军人支持方面取得的进展，旨在展示其政策对当地民众的积极影响。",
-      "whyImportant": "此举旨在巩固佛罗里达州的政治支持，并宣传其执政期间的经济与社会政策成果。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bb04b79a643d8b9e",
-      "title": "‘Opportunistic’: experts weigh Manila’s minilateral agenda ahead of Trump-Xi meeting",
+      "id": "d5bd488729dd5e20",
+      "title": "How competition between Chinese and Indian firms could reshape African drug markets",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371952/opportunistic-experts-weigh-manilas-minilateral-agenda-ahead-trump-xi-meeting",
-      "publishedAt": "2026-10-23T14:00:14.000Z",
-      "summary": "The Philippines’ dual push for stronger “minilateral” defence links and a more robust Asean security role is dividing analysts, with one calling the move “opportunistic”. Some experts view Manila’s advocacy for the “Squad” alliance as a strategic opportunity to deepen core security partnerships while chairing the Association of Southeast Asian Nations. Others question how much actual weight is carried by this informal defence grouping – comprising the United States, the Philippines, Japan and...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
+      "publishedAt": "2026-10-24T07:00:10.000Z",
+      "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.6 million for China. Separately, the study...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371952/opportunistic-experts-weigh-manilas-minilateral-agenda-ahead-trump-xi-meeting",
-          "publishedAt": "2026-10-23T14:00:14.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
+          "publishedAt": "2026-10-24T07:00:10.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
+        "中国重点",
+        "金融",
+        "专题·全球经济与金融"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "united states",
-        "美国"
+        "market",
+        "金融"
       ],
-      "fingerprint": "1e3fd66f742a1805198fc32c",
+      "fingerprint": "deadf294c387b67d17c2f74e",
       "isContinuation": false,
-      "titleZh": "“机会主义”：专家评估马尼拉在特朗普与习近平会晤前的“小多边”议程",
-      "summaryZh": "菲律宾近期推动加强“小多边”防务联系及东盟安全角色，引发分析人士对其动机的争议。部分专家认为此举是利用担任东盟轮值主席国的机会深化安全伙伴关系，但也有人质疑该非正式防务联盟的实际影响力。",
-      "whyImportant": "菲律宾的战略调整反映了地区国家在美中博弈背景下，试图通过多边机制平衡安全利益的复杂考量。",
+      "titleZh": "中印企业竞争如何重塑非洲药品市场",
+      "summaryZh": "最新研究显示，中国在非洲抗疟疾药物市场的份额正迅速增长，逐渐缩小与长期占据主导地位的印度之间的差距。中印两国在非洲医药领域的竞争日益激烈。",
+      "whyImportant": "这反映了中国在非洲公共卫生领域影响力的提升及全球医药供应链格局的变动。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9a7d5b46b0a6d0d1",
-      "title": "Presidential Message on the World Series",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
-      "publishedAt": "2026-10-23T12:22:50.000Z",
-      "summary": "This week, Americans across our great country are coming together to celebrate the 2026 World Series, the crown jewel of our Nation’s favorite pastime. Baseball has long held a cherished place in our culture, and now, the Fall Classic once again unites us around this storied game. For nearly two centuries, baseball has shaped the […] The post Presidential Message on the World Series appeared first on The White House.",
-      "language": "",
-      "region": "usa",
+      "id": "bbd544681eb903de",
+      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+      "source": "DW",
+      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-24T14:09:00.000Z",
+      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+      "language": "en",
+      "region": "europe",
       "crossSources": [
         {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
-          "publishedAt": "2026-10-23T12:22:50.000Z"
+          "source": "DW",
+          "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-10-24T14:09:00.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
       ],
-      "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
+        "经济"
       ],
-      "fingerprint": "55dbf073e1bdd74cee0ec0c9",
+      "fingerprint": "b524e84824807110b1a5d38a",
       "isContinuation": false,
-      "titleZh": "总统关于世界职业棒球大赛的致辞",
-      "summaryZh": "特朗普总统发表致辞，庆祝2026年世界职业棒球大赛的举行。他强调棒球作为美国文化的重要组成部分，在团结国民方面发挥了长期作用。",
-      "whyImportant": "总统通过体育赛事表达对国家文化传统的重视，旨在提升社会凝聚力。",
+      "titleZh": "土耳其与利比亚就地中海海上边界达成的新协议加剧了与希腊及欧盟的矛盾",
+      "summaryZh": "土耳其与利比亚计划通过新协议重划地中海海上边界以建立经济走廊。此举引发了希腊的强烈抗议，并导致欧盟被卷入该地区的领土争端中。",
+      "whyImportant": "该协议进一步加剧了地中海东部的地缘政治紧张局势，并考验着欧盟与土耳其的外交关系。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "b67d6f9477e0a88d",
-      "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
+      "id": "bbebda7471c6cf56",
+      "title": "Gulf economies accelerate diversification as recession looms over Iran war",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-      "publishedAt": "2026-10-24T04:30:10.000Z",
-      "summary": "Days ahead of close-fought Israeli elections, campaigns have gone into overdrive with poor-taste jibes and inflammatory attacks against candidates, sometimes crossing red lines. Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion. The electioneering has at times turned personal, with some candidates who...",
+      "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
+      "publishedAt": "2026-10-25T04:00:10.000Z",
+      "summary": "Before the outbreak of the war triggered by the US-Israeli attack on Iran in February, the Gulf monarchies were living the prosperity dream that was the envy of the world. Their hydrocarbon-fuelled economies were glitzy oases of growth, inoculated from the conflict in Gaza that had rocked other parts of the Middle East for several years. Underpinned by decades-old US security guarantees and conflict mediation by billionaire sheikhs, Saudi Arabia, the United Arab Emirates and Qatar cultivated...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-          "publishedAt": "2026-10-24T04:30:10.000Z"
+          "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
+          "publishedAt": "2026-10-25T04:00:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -211,151 +131,35 @@
       "tags": [
         "全球焦点",
         "突发",
-        "环境",
-        "国际组织"
-      ],
-      "score": 66,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "25760a51cf6ddf2d68609e74",
-      "isContinuation": false,
-      "titleZh": "以色列竞选活动因针对候选人的嘲讽和攻击而变得恶劣",
-      "summaryZh": "在以色列大选前夕，竞选活动愈演愈烈，出现了许多低俗的嘲讽和针对候选人的煽动性攻击。人工智能生成的虚假图像在社交媒体上泛滥，候选人利用刻板印象和恐惧心理来抹黑对手。",
-      "whyImportant": "竞选手段的恶化和虚假信息的传播加剧了社会分裂，可能对选举结果的公正性产生负面影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "71aeb37fecb01e21",
-      "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
-      "publishedAt": "2026-10-24T03:47:14.000Z",
-      "summary": "Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
-          "publishedAt": "2026-10-24T03:47:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "金融",
         "军事与安全"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 66,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5437929e4bb42e78769f6dea",
+      "fingerprint": "67f93d357437470b0bfedd90",
       "isContinuation": false,
-      "titleZh": "以色列突袭约旦河西岸城镇，拘留数十名巴勒斯坦人",
-      "summaryZh": "以色列军队对约旦河西岸北部的至少15个城镇进行了突袭行动。此次行动范围涵盖了纳布卢斯和杰宁等地。",
-      "whyImportant": "该地区紧张局势的升级进一步加剧了以色列与巴勒斯坦之间的冲突风险。",
+      "titleZh": "海湾国家加速经济多元化以应对伊朗战争带来的衰退风险",
+      "summaryZh": "在伊朗战争爆发前，海湾君主国曾享受着令人艳羡的繁荣。随着冲突阴影笼罩，这些依赖油气资源的经济体正加速推进多元化战略以抵御经济衰退。",
+      "whyImportant": "该地区经济转型对于维持中东地缘政治稳定及全球能源市场供应至关重要。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d2bf31cadca4d690",
-      "title": "Some Parisians buy pepper spray, tear gas for self-defence during protests",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3371994/some-parisians-buy-pepper-spray-tear-gas-self-defence-during-protests",
-      "publishedAt": "2026-10-24T03:30:17.000Z",
-      "summary": "Parisians are buying tear-gas canisters and pepper sprays to defend themselves and their property during protests, which are expected to continue over the weekend, the owner of a weapons shop in the French capital has said. France was hit by its worst social unrest in years last weekend as nationwide protests over high prices and declining public services erupted into riots. A town hall was torched, shops pillaged ‌and buildings covered in graffiti as violent groups clashed with police in cities...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3371994/some-parisians-buy-pepper-spray-tear-gas-self-defence-during-protests",
-          "publishedAt": "2026-10-24T03:30:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "能源"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "53b49c6c2ea1f2d5075670c8",
-      "isContinuation": false,
-      "titleZh": "部分巴黎市民购买胡椒喷雾和催泪瓦斯以在抗议期间自卫",
-      "summaryZh": "由于法国近期爆发了严重的社会动荡，巴黎市民开始购买催泪瓦斯和胡椒喷雾以保护自身及财产安全。抗议活动引发了骚乱，导致公共设施受损及暴力冲突。",
-      "whyImportant": "社会动荡引发的治安担忧反映了法国当前严峻的社会矛盾和民众的不安全感。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "19a6877444260be8",
-      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-      "publishedAt": "2026-10-23T12:00:00.000Z",
-      "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-          "publishedAt": "2026-10-23T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "能源"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "62a3d308ecf1392d2d5b269b",
-      "isContinuation": false,
-      "titleZh": "世界新闻简报：伊朗核查、约旦教堂遇袭、法希尔危机一周年",
-      "summaryZh": "国际原子能机构总干事拉斐尔·格罗西呼吁伊朗尽快允许核查人员返回。他警告称，全球核不扩散机制正变得日益脆弱。",
-      "whyImportant": "核查受阻增加了国际社会对核扩散风险的担忧，对全球安全局势构成挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "90a29d3e035aa77a",
-      "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+      "id": "771bd5e18c13cbd0",
+      "title": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-      "publishedAt": "2026-10-24T00:41:29.000Z",
-      "summary": "Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital Get our breaking news email, free app or daily news podcast Independent MP Helen Haines’s condition has been downgraded to serious but stable after she lost both legs following an alleged attack near her electorate office in north-east Victoria on Monday afternoon. The Alfred hospital in Melbourne provided an update on Haines’s condition on Saturday morning. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+      "publishedAt": "2026-10-25T03:54:43.000Z",
+      "summary": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email, free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’ rhetoric and threats and abuse being directed at leaders. The safety of elected representatives at all levels has been thrown into the spotlight after independent MP Helen Haines was allegedly deliberate attacked outside her Wangaratta electoral office. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-          "publishedAt": "2026-10-24T00:41:29.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+          "publishedAt": "2026-10-25T03:54:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -366,109 +170,33 @@
         "全球焦点",
         "突发"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 61,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5857615af6401211c47b7723",
+      "fingerprint": "b06be5af1685dda246420e3f",
       "isContinuation": false,
-      "titleZh": "海伦·海恩斯在遭受袭击失去双腿后，病情有所好转",
-      "summaryZh": "独立议员海伦·海恩斯在维多利亚州遭遇袭击并失去双腿后，目前病情已降级为严重但稳定。墨尔本阿尔弗雷德医院于周六发布了这一最新医疗状况更新。",
-      "whyImportant": "针对民选官员的暴力袭击事件引发了公众对政治人物安全保障的广泛关注。",
+      "titleZh": "澳大利亚联邦警察局长称政客激烈言论助长了针对议员的威胁",
+      "summaryZh": "澳大利亚联邦警察局长克里西·巴雷特指出，政客的煽动性言论与针对议员的暴力威胁之间存在直接联系。近期针对议员的袭击事件引发了对民选代表安全状况的广泛关注。",
+      "whyImportant": "此现象凸显了政治极化对民主制度运作及公共安全构成的严峻挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ed7adddd60cf5c94",
-      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-      "publishedAt": "2026-10-24T00:30:02.000Z",
-      "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war. The US secretary of state, in his social media post addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-          "publishedAt": "2026-10-24T00:30:02.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "15d90ca55a3a3a5c9fd7b692",
-      "isContinuation": false,
-      "titleZh": "卢比奥告诉古巴人“现在是行动时刻”，以寻求政治变革",
-      "summaryZh": "美国国务卿卢比奥敦促古巴民众抓住机会寻求政治变革，并建议与中情局建立联系。此前，特朗普在集会上暗示美国军舰可能在从伊朗战争返回途中干预古巴。",
-      "whyImportant": "美国高层官员的言论暗示了对古巴政策的强硬转向，可能引发地区地缘政治的剧烈波动。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "94eaec9459aca735",
-      "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-      "publishedAt": "2026-10-23T22:41:46.000Z",
-      "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email, free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo and its new leader’s handling of the issue in question. David Shoebridge’s first major challenge at the helm of the federal Greens came earlier this month when the Nine newspapers reported a three-page letter had been sent to him urging an independent investigation into Steele-John. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-          "publishedAt": "2026-10-23T22:41:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "00670e9f79b145eea8d98e2c",
-      "isContinuation": false,
-      "titleZh": "乔丹·斯蒂尔-约翰的职位悬而未决，绿党准备迎接聚光灯",
-      "summaryZh": "绿党参议员乔丹·斯蒂尔-约翰因被指控行为不当，其党内职位目前处于不确定状态。新任领导人大卫·舒布里奇正面临处理此项指控的巨大压力。",
-      "whyImportant": "党内丑闻的处理方式将考验绿党新领导层的治理能力及其对道德标准的承诺。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "19c82b02afb86268",
-      "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
+      "id": "7dcf5aaed44ce684",
+      "title": "Singapore tells suppliers to ‘honour commitments’ amid Indonesia’s gas cut",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-      "publishedAt": "2026-10-23T17:17:41.000Z",
-      "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got out of a vehicle and started shooting during a funeral procession, the public security directorate said in a statement, adding that a hunt was...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
+      "publishedAt": "2026-10-25T03:38:07.000Z",
+      "summary": "Singapore expects all parties who have signed commercial contracts for gas supplies to “honour their commitments”, said Prime Minister Lawrence Wong on Sunday after Indonesia cut its exports. Speaking at the People’s Action Party (PAP) convention, Wong added that Singapore’s gas importer will take the necessary steps to protect its rights and interests. Indonesia began reducing natural gas exports to Singapore on Saturday. Indonesia’s upstream oil and gas regulator SKK Migas said the move was to...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-          "publishedAt": "2026-10-23T17:17:41.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
+          "publishedAt": "2026-10-25T03:38:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -477,75 +205,36 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "军事与安全",
-        "环境"
+        "能源",
+        "国际组织"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 61,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9ea9f656a38f25e91f8bea78",
+      "fingerprint": "292bf6e2959afb15eff1a2ed",
       "isContinuation": false,
-      "titleZh": "武装分子在约旦教堂杀害7人，国王誓言报复",
-      "summaryZh": "约旦南部一座教堂周五发生枪击事件，造成至少7人死亡，多人受伤。约旦国王对这起针对基督徒的罕见袭击表示强烈谴责，并誓言进行报复。",
-      "whyImportant": "这起针对宗教场所的暴力袭击威胁到了约旦国内的宗教和谐与社会稳定。",
+      "titleZh": "印尼削减天然气出口，新加坡要求供应商“履行承诺”",
+      "summaryZh": "在印尼削减天然气出口后，新加坡总理黄循财表示，新加坡期望所有签署商业合同的供应商履行承诺。新加坡天然气进口商将采取必要措施以维护自身合法权益。",
+      "whyImportant": "能源供应的波动直接影响新加坡的能源安全及区域贸易关系的稳定性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7718246191f00e57",
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T15:37:07.000Z",
-      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-23T15:37:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e69b74cc532ab1bb24185dec",
-      "isContinuation": false,
-      "titleZh": "两名以色列士兵遭枪杀后，以军开始拆除希伯伦的巴勒斯坦建筑",
-      "summaryZh": "周五上午，两名巴勒斯坦枪手在西岸城市希伯伦外的一个检查站发动袭击，导致两名以色列士兵死亡。随后，以色列军队开始拆除该地区的巴勒斯坦建筑。",
-      "whyImportant": "此事件加剧了该地区的紧张局势，并引发了关于安全报复措施的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7ed915890f372abc",
-      "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+      "id": "8ff3510ef1d1e96b",
+      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
-      "publishedAt": "2026-10-24T03:51:58.000Z",
-      "summary": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+      "publishedAt": "2026-10-25T02:45:43.000Z",
+      "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
-          "publishedAt": "2026-10-24T03:51:58.000Z"
+          "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+          "publishedAt": "2026-10-25T02:45:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -556,35 +245,264 @@
         "全球焦点",
         "军事与安全"
       ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "aeeeae43fd20d497186c4880",
+      "fingerprint": "956cd4b143544fab894a2d9a",
       "isContinuation": false,
-      "titleZh": "阿根廷确认数十名“肮脏战争”受害者身份",
-      "summaryZh": "法医人类学家已确认了至少38名阿根廷末代军事独裁统治时期受害者的遗骸。这一进展为受害者家属提供了迟来的真相。",
-      "whyImportant": "此举有助于阿根廷继续处理其历史创伤并推进正义进程。",
+      "titleZh": "保加利亚在俄乌战争阴影下举行总统选举",
+      "summaryZh": "保加利亚总统大选在俄乌战争的背景下进行。两位主要候选人均谴责了黑海地区的无人机袭击，但在如何应对乌克兰战争的问题上立场存在分歧。",
+      "whyImportant": "选举结果将决定保加利亚在俄乌冲突中的外交立场及北约内部的政策走向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ad19948ea2995875",
+      "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+      "publishedAt": "2026-10-25T02:00:49.000Z",
+      "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “She still sounds certainly all there mentally, and physically she sounds strong,” Kim Aris said. “I don’t think she has anybody outside of the military or the police around her, so essentially she’s been held in solitary confinement from what I gather.” Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+          "publishedAt": "2026-10-25T02:00:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2f68f47805ecff6dcf95362b",
+      "isContinuation": false,
+      "titleZh": "昂山素季之子称其精神状态良好但处于孤立状态",
+      "summaryZh": "缅甸前民主领导人昂山素季的儿子表示，在五年多来的首次通话中，昂山素季听起来身体和精神状况尚好。然而，她目前处于近乎完全的隔离状态，身边几乎没有外界接触。",
+      "whyImportant": "昂山素季的处境持续引发国际社会对缅甸人权状况及军政府统治的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3dc7471b1a1d865f",
+      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+          "publishedAt": "2026-10-24T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "61a225fc45001f1a9663ccd0",
+      "isContinuation": false,
+      "titleZh": "苏丹妇女在围困中首当其冲，并成为一线响应者",
+      "summaryZh": "苏丹冲突爆发后，当地妇女不仅是战争的主要受害者，还积极投身于一线救援工作。她们在极度危险的环境中承担起社区支持和人道主义援助的重任。",
+      "whyImportant": "这反映了冲突中性别角色的转变以及妇女在战乱地区人道主义救援中的关键作用。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0043672a7d2de0f3",
+      "title": "Why more Japanese women are choosing ‘silver divorce’ after decades of marriage",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
+      "publishedAt": "2026-10-25T02:00:13.000Z",
+      "summary": "Ayumi lives alone in a spacious suburban house originally bought to raise a family, her two cats now her only full-time companions. Her two daughters have grown up and left home, and her husband of more than two decades moved out nearly a year ago as they finalise a divorce. For the 62-year-old Kawasaki resident, who spoke on condition that her surname be withheld, this was not how she envisioned her later years. “He worked very long hours, including on weekends, and I was always busy taking...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
+          "publishedAt": "2026-10-25T02:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "国际组织"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "bcad526c618d8c9cc671a9d5",
+      "isContinuation": false,
+      "titleZh": "为何更多日本女性在结婚数十年后选择“银发离婚”",
+      "summaryZh": "日本社会中，越来越多的中老年女性在子女成年后选择结束长达数十年的婚姻。这种被称为“银发离婚”的现象，反映了女性对晚年生活独立性和个人价值的重新追求。",
+      "whyImportant": "这一社会趋势揭示了日本人口结构变化下家庭观念与性别角色的深刻演变。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "32ee042ed7499943",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+      "publishedAt": "2026-10-25T00:34:43.000Z",
+      "summary": "Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+          "publishedAt": "2026-10-25T00:34:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e9d3baf2a804b3165be8e578",
+      "isContinuation": false,
+      "titleZh": "奥巴马在为民主党助选时抨击特朗普的“残忍与腐败”",
+      "summaryZh": "美国前总统奥巴马在竞选集会上批评特朗普做出了一系列错误决策。他特别强调了美国在伊朗战争问题上的处理方式，以此动员民主党选民。",
+      "whyImportant": "此举旨在通过对比外交政策立场来影响选民对现任政府及前总统政策的评价。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cbcf18a002202628",
+      "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+      "publishedAt": "2026-10-25T00:00:14.000Z",
+      "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that gained unauthorised access to files on an Australian government website earlier this year, raising questions over how quickly companies...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+          "publishedAt": "2026-10-25T00:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "d2c60333fb3f81f1823834fa",
+      "isContinuation": false,
+      "titleZh": "新加坡拥抱人工智能以加强网络防御，但有一个前提：违规透明度",
+      "summaryZh": "新加坡正寻求与大型科技公司合作以强化网络防御，同时要求其在安全漏洞方面保持更高透明度。此举反映了各国在利用人工智能的同时，需应对其带来的安全风险与监管挑战。",
+      "whyImportant": "该报道揭示了政府在引入先进技术与确保国家安全之间寻求平衡的复杂性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0c99717dd4e19eca",
+      "title": "German man detained after fire wrecks Hitler’s ‘Eagle’s Nest’ mountain retreat",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
+      "publishedAt": "2026-10-24T16:35:33.000Z",
+      "summary": "Firefighters battled on Saturday to put out flames that tore through Adolf Hitler’s “Eagle’s Nest” mountain retreat while police detained a suspect who investigators said may have psychiatric problems. The alarm was raised late on Friday at the former guest house for top Nazi officials, 1,834 metres (6,000 feet) high in the Bavarian Alps. As snow fell on the Alpine peak, the Eagle’s Nest was still engulfed in flames at dawn on Saturday, and fire chief Michael Brandl told a press conference the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
+          "publishedAt": "2026-10-24T16:35:33.000Z"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-24T15:21:44.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0c317cf2c1183791a638e82b",
+      "isContinuation": false,
+      "titleZh": "德国男子被捕，希特勒“鹰巢”度假地遭火灾损毁",
+      "summaryZh": "位于巴伐利亚阿尔卑斯山脉的希特勒“鹰巢”度假地发生火灾，消防人员在恶劣天气下进行扑救。警方已拘留一名疑似患有精神疾病的嫌疑人。",
+      "whyImportant": "这一历史遗迹的损毁引发了对文化遗产保护及公共安全问题的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "51e630777d1dbc32",
-      "title": "Crypto platform on alert lists opens Hong Kong office, prompting calls for scrutiny",
+      "id": "04a1826fcf1385b7",
+      "title": "Will China’s 4 peace principles for tackling African conflicts work?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371978/crypto-platform-alert-lists-opens-hong-kong-office-prompting-calls-scrutiny",
-      "publishedAt": "2026-10-24T04:00:16.000Z",
-      "summary": "A cryptocurrency trading platform on Hong Kong and Canadian regulators’ alert lists has opened an office in the city, prompting experts to urge closer scrutiny of how such firms promote themselves without undermining an open business environment. Experts told the South China Morning Post that inclusion on a regulator’s alert list did not necessarily mean a company had broken the law. But they urged authorities to step up oversight of how such firms marketed regulated financial products. Polar...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
+      "publishedAt": "2026-10-25T04:00:22.000Z",
+      "summary": "Beijing has a formula for tackling African conflicts and hot-button issues, and during a meeting this month with Togolese leader Faure Gnassingbe, Chinese President Xi Jinping outlined it in four principles linking peace to development. The principles entail focusing on African-led security free from outside intervention; upholding sovereignty and UN Charter principles; rejecting force and sanctions and favouring ceasefires through dialogue; and focusing on both immediate security concerns and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371978/crypto-platform-alert-lists-opens-hong-kong-office-prompting-calls-scrutiny",
-          "publishedAt": "2026-10-24T04:00:16.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
+          "publishedAt": "2026-10-25T04:00:22.000Z"
         }
       ],
       "sourceCount": 1,
@@ -593,112 +511,37 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "环境"
+        "突发",
+        "外交",
+        "军事与安全"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 77,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "61029d5e55dca17335d7656c",
+      "fingerprint": "9cfe43af71f7e2e371922b26",
       "isContinuation": false,
-      "titleZh": "加密货币平台在警示名单上仍开设香港办事处，引发监管呼吁",
-      "summaryZh": "一家被香港和加拿大监管机构列入警示名单的加密货币交易平台在香港开设了办事处。专家呼吁当局加强对此类公司营销行为的监管，以维护金融市场秩序。",
-      "whyImportant": "该事件凸显了在保持开放商业环境的同时，加强新兴金融领域监管的挑战。",
+      "titleZh": "中国解决非洲冲突的四项和平原则会奏效吗？",
+      "summaryZh": "中国国家主席习近平向多哥领导人阐述了解决非洲冲突的四项原则，强调将和平与发展挂钩。这些原则主张非洲主导安全事务、维护主权、拒绝武力制裁并推动对话。",
+      "whyImportant": "这体现了中国在非洲外交政策中对“发展促和平”模式的进一步推广。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0258491472d04436",
-      "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
-      "publishedAt": "2026-10-23T23:10:54.000Z",
-      "summary": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
-          "publishedAt": "2026-10-23T23:10:54.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "环境"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0c0e59b348a945e3a2fe9d4a",
-      "isContinuation": false,
-      "titleZh": "台风“蝉皮”袭击台湾，造成一人死亡，数百人受伤",
-      "summaryZh": "台风“蝉皮”过境台湾东北部，当局警告称风力具有破坏性，并敦促居民寻求避难。目前已造成一人死亡及数百人受伤。",
-      "whyImportant": "此次自然灾害对当地基础设施和民众生命安全造成了严重影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d23cde46b9da33e1",
-      "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+      "id": "34f133a14e5539bb",
+      "title": "Hong Kong needs a civil service fit for a changed world",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
-      "publishedAt": "2026-10-23T22:29:03.000Z",
-      "summary": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy School Institute of Politics event on Friday. “There is a full-blown strategic competition under way in every dimension of national political power and influence, militarily, economically, trade and investment and technology, in foreign policy, in ideology,” said Rudd, a noted China scholar. “It’s across the world,...",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
+      "publishedAt": "2026-10-25T01:30:09.000Z",
+      "summary": "Hong Kong’s civil service has long enjoyed a reputation for efficiency, professionalism and probity. It has also been a pillar of stability, particularly during the transition from British to Chinese rule. Outside the general and administrative grades, many civil servants spend much of their careers in relatively specialised areas of responsibility. This allows them to develop deep expertise and makes them dependable regulators and administrators. However, it can also make it harder to adapt...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
-          "publishedAt": "2026-10-23T22:29:03.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技"
-      ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "86b84df4d1447791232faaba",
-      "isContinuation": false,
-      "titleZh": "陆克文：美中战略竞争将持续升级，全球密切关注",
-      "summaryZh": "亚洲协会主席、澳大利亚前总理陆克文表示，美中两国在军事、经济、科技及意识形态等多个维度正进行全面的战略竞争。他认为这种竞争已演变为全球性的多维博弈。",
-      "whyImportant": "美中关系的持续紧张对全球地缘政治和经济格局具有深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9009e3caf6b34504",
-      "title": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
-      "publishedAt": "2026-10-24T04:00:11.000Z",
-      "summary": "Chinese researchers have mapped the complex geological evolution of Turkey’s Kizilcaoren deposit, offering fresh insights into the country’s most significant known rare earth reserve while dampening expectations over its commercial potential. Although the findings shed light on how rare earth elements accumulate in carbonatite-related formations, the researchers concluded that the site was unlikely to emerge as a major global alternative to existing producers any time soon. Lead scientist...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
-          "publishedAt": "2026-10-24T04:00:11.000Z"
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
+          "publishedAt": "2026-10-25T01:30:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -708,33 +551,72 @@
       "tags": [
         "中国重点"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "d397522d16542f1f47fd663e",
+      "fingerprint": "62355b61161ec40a236964de",
       "isContinuation": false,
-      "titleZh": "中国对土耳其最大稀土矿床进行深入调查",
-      "summaryZh": "中国研究人员对土耳其Kizilcaoren稀土矿床进行了地质演化测绘。研究结论认为，该矿床短期内难以成为全球稀土供应的主要替代来源。",
-      "whyImportant": "这项研究为评估全球稀土供应链的多元化潜力提供了科学依据。",
+      "titleZh": "香港需要一个适应变革世界的公务员队伍",
+      "summaryZh": "香港公务员队伍长期以高效和专业著称，但其高度专业化的分工模式在应对快速变化的全球环境时可能面临挑战。专家认为，公务员体系需要提升适应力以应对新时代的复杂需求。",
+      "whyImportant": "这反映了香港在转型期对行政效率与治理能力现代化的迫切需求。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "849f03ab9ada281a",
-      "title": "Rocket debris hitting US homeland is ‘embarrassing’ for China, says astronomer",
+      "id": "9bc4f5ed8b859fb7",
+      "title": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
-      "publishedAt": "2026-10-23T15:00:07.000Z",
-      "summary": "A scorched hunk of metal that turned up in a US farmer’s cornfield may have handed China an awkward moment and technically an “international incident”, according to a British astronomer who has tracked rocket launches for more than 30 years. The farmer found the bowl-shaped object, measuring about 3.35 metres (11 feet) across, while harvesting corn in west-central Minnesota on October 14. Online, some residents joked that aliens had landed, while Chinese internet users said it looked like a...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
+      "publishedAt": "2026-10-24T09:20:03.000Z",
+      "summary": "Just weeks before Donald Trump’s second trip to China this year and his third meeting with President Xi Jinping, whom he has called a “truly great” friend, his administration is intensifying its crackdown on Confucius Institutes – Beijing-backed centres that promote Chinese language and culture at universities abroad. Long viewed by critics as instruments of Beijing’s soft power and cultural diplomacy, the institutes are back in the crosshairs of US Defence Secretary Pete Hegseth, who says the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
-          "publishedAt": "2026-10-23T15:00:07.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
+          "publishedAt": "2026-10-24T09:20:03.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1c3e4d012e23d12ddffc6a10",
+      "isContinuation": false,
+      "titleZh": "“系统性拆除”：赫格塞斯对中国孔子学院发起新攻势",
+      "summaryZh": "尽管特朗普政府近期与中国保持高层互动，但美国国防部长赫格塞斯正加大对孔子学院的打击力度。美方长期将这些机构视为中国软实力的工具，并寻求进一步限制其在美活动。",
+      "whyImportant": "此举显示了美中在文化交流与教育合作领域持续存在的地缘政治摩擦。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "43d3564b0a6983b8",
+      "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
+      "publishedAt": "2026-10-24T12:00:14.000Z",
+      "summary": "Taiwan should not rely on a single foreign satellite provider for critical wartime communications, analysts have warned, after sudden restrictions on the use of Elon Musk’s Starlink disrupted Ukrainian drone operations. The episode has renewed debate in Taiwan over the risks of entrusting essential communications to foreign commercial operators whose services could be restricted for political, military or business reasons. Analysts said this was particularly relevant as Taipei was trying to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
+          "publishedAt": "2026-10-24T12:00:14.000Z"
         }
       ],
       "sourceCount": 1,
@@ -746,275 +628,113 @@
         "军事与安全",
         "国际组织"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "2bb8328b1b92fe5a0f74b329",
+      "fingerprint": "e144bb68250ca4104f254b7f",
       "isContinuation": false,
-      "titleZh": "天文学家称火箭残骸坠入美国本土对中国而言“令人尴尬”",
-      "summaryZh": "美国明尼苏达州的一位农民在玉米地中发现了一块巨大的金属残骸，据信来自中国火箭。专家指出，此类事件在国际层面引发了关注与讨论。",
-      "whyImportant": "该事件引发了关于航天残骸处理及国际空间安全责任的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "usa": [
-    {
-      "id": "a7d5e780dadabf24",
-      "title": "Pentagon designates Confucius Institutes a national security threat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-      "publishedAt": "2026-10-24T03:38:20.000Z",
-      "summary": "Pete Hegseth says the Pentagon dismantled 80 ‘propaganda cells’ operating under new names at 30 universities.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-          "publishedAt": "2026-10-24T03:38:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 68,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "ee475aee5e2aabd203815bae",
-      "isContinuation": false,
-      "titleZh": "五角大楼将孔子学院定性为国家安全威胁",
-      "summaryZh": "皮特·赫格塞斯表示，五角大楼已在30所大学拆除了80个以新名称运作的“宣传单元”。美方将其视为国家安全威胁。",
-      "whyImportant": "此举反映了美方在学术交流与国家安全领域对华政策的进一步收紧。",
+      "titleZh": "分析人士称，乌克兰的“星链”困境应为台湾敲响警钟",
+      "summaryZh": "乌克兰在战争中受限于“星链”服务，引发了台湾对依赖单一外国卫星供应商的担忧。分析人士建议台湾应警惕关键通信基础设施受制于外国商业运营商的风险。",
+      "whyImportant": "该事件凸显了地缘政治冲突中，关键通信技术自主权对国家安全的重要性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "81f856d9de5ff81c",
-      "title": "President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
-      "publishedAt": "2026-10-23T17:30:14.000Z",
-      "summary": "President Donald J. Trump returns to Florida today to highlight a clear record of results that puts hardworking Americans first. Under President Trump and Republican leadership, Floridians are seeing historic tax relief, a surge in private investment and job creation, stronger rural healthcare, accelerated infrastructure and environmental progress, expanded support for veterans, and safer communities. […] The post President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
-          "publishedAt": "2026-10-23T17:30:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "环境",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "14e2e1ee529dbd74330e8342",
-      "isContinuation": false,
-      "titleZh": "特朗普总统重返“阳光之州”，为工薪阶层、老年人和退伍军人带来重大成果",
-      "summaryZh": "特朗普总统今日重返佛罗里达州，强调其政府在税收减免、就业创造及基础设施建设等方面的政绩。该声明列举了其在医疗、环境及退伍军人支持方面取得的进展，旨在展示其政策对当地民众的积极影响。",
-      "whyImportant": "此举旨在巩固佛罗里达州的政治支持，并宣传其执政期间的经济与社会政策成果。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bb04b79a643d8b9e",
-      "title": "‘Opportunistic’: experts weigh Manila’s minilateral agenda ahead of Trump-Xi meeting",
+      "id": "d5bd488729dd5e20",
+      "title": "How competition between Chinese and Indian firms could reshape African drug markets",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371952/opportunistic-experts-weigh-manilas-minilateral-agenda-ahead-trump-xi-meeting",
-      "publishedAt": "2026-10-23T14:00:14.000Z",
-      "summary": "The Philippines’ dual push for stronger “minilateral” defence links and a more robust Asean security role is dividing analysts, with one calling the move “opportunistic”. Some experts view Manila’s advocacy for the “Squad” alliance as a strategic opportunity to deepen core security partnerships while chairing the Association of Southeast Asian Nations. Others question how much actual weight is carried by this informal defence grouping – comprising the United States, the Philippines, Japan and...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
+      "publishedAt": "2026-10-24T07:00:10.000Z",
+      "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.6 million for China. Separately, the study...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371952/opportunistic-experts-weigh-manilas-minilateral-agenda-ahead-trump-xi-meeting",
-          "publishedAt": "2026-10-23T14:00:14.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
+          "publishedAt": "2026-10-24T07:00:10.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
+        "中国重点",
+        "金融",
+        "专题·全球经济与金融"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "united states",
-        "美国"
+        "market",
+        "金融"
       ],
-      "fingerprint": "1e3fd66f742a1805198fc32c",
+      "fingerprint": "deadf294c387b67d17c2f74e",
       "isContinuation": false,
-      "titleZh": "“机会主义”：专家评估马尼拉在特朗普与习近平会晤前的“小多边”议程",
-      "summaryZh": "菲律宾近期推动加强“小多边”防务联系及东盟安全角色，引发分析人士对其动机的争议。部分专家认为此举是利用担任东盟轮值主席国的机会深化安全伙伴关系，但也有人质疑该非正式防务联盟的实际影响力。",
-      "whyImportant": "菲律宾的战略调整反映了地区国家在美中博弈背景下，试图通过多边机制平衡安全利益的复杂考量。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9a7d5b46b0a6d0d1",
-      "title": "Presidential Message on the World Series",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
-      "publishedAt": "2026-10-23T12:22:50.000Z",
-      "summary": "This week, Americans across our great country are coming together to celebrate the 2026 World Series, the crown jewel of our Nation’s favorite pastime. Baseball has long held a cherished place in our culture, and now, the Fall Classic once again unites us around this storied game. For nearly two centuries, baseball has shaped the […] The post Presidential Message on the World Series appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
-          "publishedAt": "2026-10-23T12:22:50.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "55dbf073e1bdd74cee0ec0c9",
-      "isContinuation": false,
-      "titleZh": "总统关于世界职业棒球大赛的致辞",
-      "summaryZh": "特朗普总统发表致辞，庆祝2026年世界职业棒球大赛的举行。他强调棒球作为美国文化的重要组成部分，在团结国民方面发挥了长期作用。",
-      "whyImportant": "总统通过体育赛事表达对国家文化传统的重视，旨在提升社会凝聚力。",
+      "titleZh": "中印企业竞争如何重塑非洲药品市场",
+      "summaryZh": "最新研究显示，中国在非洲抗疟疾药物市场的份额正迅速增长，逐渐缩小与长期占据主导地位的印度之间的差距。中印两国在非洲医药领域的竞争日益激烈。",
+      "whyImportant": "这反映了中国在非洲公共卫生领域影响力的提升及全球医药供应链格局的变动。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
+  "usa": [],
   "watch": [
     {
-      "id": "8988dbab806aab6a",
-      "title": "Revised law to maintain Japan’s imperial family size takes effect",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3371993/revised-law-maintain-japans-imperial-family-size-takes-effect",
-      "publishedAt": "2026-10-24T03:30:15.000Z",
-      "summary": "A revised Imperial House Law took effect on Saturday to address Japan’s shrinking imperial family while retaining the traditional male-only succession system despite public support for female emperors. The legislation, enacted in July in the first major revision of the 1947 law, allows the imperial family to adopt males aged 15 or older from 11 former imperial branch families who are descended from emperors through the male line. The revised law also allows female members to retain their...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3371993/revised-law-maintain-japans-imperial-family-size-takes-effect",
-          "publishedAt": "2026-10-24T03:30:15.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d1410d98ae8b496dd16f44e6",
-      "isContinuation": false,
-      "titleZh": "旨在维持日本皇室规模的修订法案生效",
-      "summaryZh": "日本修订后的《皇室典范》正式生效，旨在应对皇室成员减少的问题，同时维持传统的男性继承制。新法允许皇室收养前皇族男性后裔，并允许女性成员在婚后保留皇室身份。",
-      "whyImportant": "该法律的修订是日本为解决皇室继承危机而采取的重大制度调整，但仍保留了男性继承的传统限制。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3ff60fdafb9e9654",
-      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-      "publishedAt": "2026-10-23T21:27:32.000Z",
-      "summary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-          "publishedAt": "2026-10-23T21:27:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "19c90dbd3830203121ca0b7d",
-      "isContinuation": false,
-      "titleZh": "约旦教堂葬礼遭蒙面枪手袭击，造成七人死亡",
-      "summaryZh": "约旦卡拉克省一座教堂在举行葬礼时遭到两名蒙面枪手袭击。此次事件造成至少7人死亡，另有34人受伤。",
-      "whyImportant": "该暴力事件对约旦的社会安全与宗教和谐构成严重威胁，引发了国际社会的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "45f546718dbb40df",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "id": "0a5bd0ce690d5e0e",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T19:46:30.000Z",
-      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T04:16:52.000Z",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-23T19:46:30.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-25T04:16:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0ec775958418e724e9581b0e",
+      "isContinuation": false,
+      "titleZh": "法国爆发大规模抗议，冲突导致近千人被捕",
+      "summaryZh": "法国多地爆发大规模示威活动，并蔓延至其他欧洲国家。抗议过程中发生激烈冲突，导致近千人被警方逮捕。",
+      "whyImportant": "大规模社会动荡反映了当前欧洲面临的深层社会矛盾与民众不满。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8ee27145471478cd",
+      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+      "publishedAt": "2026-10-24T23:07:12.000Z",
+      "summary": "Prime minister is considering different options for new relationship with Brussels ahead of summit in November Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc. The prime minister has been open about his desire to revisit the relationship between Britain and Brussels. He has said a new deal could mean the UK goes “all the way” and rejoins the EU. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+          "publishedAt": "2026-10-24T23:07:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1023,213 +743,282 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "外交"
       ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "dd93487f3e662bd62c360b48",
+      "fingerprint": "ef707beaef1bba8acd473708",
       "isContinuation": false,
-      "titleZh": "官员称约旦教堂葬礼遭枪手袭击，七人中弹身亡",
-      "summaryZh": "约旦南部卡拉克省发生一起教堂葬礼枪击事件，导致7人死亡、34人受伤。目前当局正在对袭击者展开搜捕行动。",
-      "whyImportant": "此袭击事件造成重大伤亡，当地安全部门正全力追捕嫌疑人以维护地区稳定。",
+      "titleZh": "安迪·伯纳姆表示希望就与欧盟的“人员自由流动”进行诚实讨论",
+      "summaryZh": "英国首相正考虑在11月峰会前与欧盟建立新关系的各种方案。伯纳姆表示，希望就恢复英欧间人员自由流动的可能性与公众进行坦诚沟通，并暗示新协议可能涉及更深层次的合作。",
+      "whyImportant": "此举标志着英国政府在脱欧后重新审视与欧盟关系方面迈出了重要且具有争议的一步。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "65d78514c70d393e",
+      "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
+      "publishedAt": "2026-10-24T22:40:08.000Z",
+      "summary": "Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday Amber weather warnings have come into force as the worst of Storm Boelo could be set to hit parts of the UK. Storm Boelo’s winds will peak from Saturday evening, leaving areas in the warning zone, including Scotland, parts of Northern Ireland and the far north of England, braced for gusts of 60-70mph and even 80mph in exposed coastal spots, the Met Office said. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
+          "publishedAt": "2026-10-24T22:40:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0f5cc7666edc7858ff6a2495",
+      "isContinuation": false,
+      "titleZh": "博洛风暴：英国遭遇大风大雨，交通受阻且活动取消",
+      "summaryZh": "继奥斯汀风暴后，英国再次迎来恶劣天气，气象部门已发布黄色预警。博洛风暴预计将带来时速高达60至80英里的阵风，苏格兰、北爱尔兰及英格兰北部地区受影响最为严重。",
+      "whyImportant": "极端天气对英国的交通基础设施和公共安全构成了直接威胁。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
-  "more": [],
+  "more": [
+    {
+      "id": "b5e8121a445ca35a",
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "publishedAt": "2026-10-24T22:28:37.000Z",
+      "summary": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+          "publishedAt": "2026-10-24T22:28:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0a22f46745ba7e5cb028d6a9",
+      "isContinuation": false,
+      "titleZh": "自上次美国大选以来，民主党的政策发生了怎样的转变？",
+      "summaryZh": "面对选民在跨性别权利、加沙战争等一系列议题上的立场变化，民主党候选人正在调整其政策重心。这些调整反映了党内对当前社会热点问题的回应与策略考量。",
+      "whyImportant": "政策转向直接影响民主党在未来选举中的选民基础和政治竞争力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "96276610426d29d3",
+      "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
+      "publishedAt": "2026-10-24T22:00:28.000Z",
+      "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the fourth part of this series, William Zheng looks at how the next generation of the party is being formed. When China’s political elites gather behind closed doors in Beijing for the Communist Party’s fifth plenum on Monday, much of the attention will be on the quiet preparations for allocating hundreds of pivotal roles in next year’s 21st...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
+          "publishedAt": "2026-10-24T22:00:28.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8da967ae5179aeb0358e12bc",
+      "isContinuation": false,
+      "titleZh": "中国下一代领导层正等待更高级别的职位",
+      "summaryZh": "随着中共中央全会的召开，外界关注焦点集中在明年二十一大的人事布局上。文章探讨了中国执政党如何培养和选拔下一代政治精英，以填补数百个关键职位。",
+      "whyImportant": "中国高层的人事变动对国家未来的政策走向和政治稳定性具有深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bbd544681eb903de",
+      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+      "source": "DW",
+      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-24T14:09:00.000Z",
+      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-10-24T14:09:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "b524e84824807110b1a5d38a",
+      "isContinuation": false,
+      "titleZh": "土耳其与利比亚就地中海海上边界达成的新协议加剧了与希腊及欧盟的矛盾",
+      "summaryZh": "土耳其与利比亚计划通过新协议重划地中海海上边界以建立经济走廊。此举引发了希腊的强烈抗议，并导致欧盟被卷入该地区的领土争端中。",
+      "whyImportant": "该协议进一步加剧了地中海东部的地缘政治紧张局势，并考验着欧盟与土耳其的外交关系。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
   "metadata": {
-    "fetched": 146,
-    "deduplicated": 143,
-    "selected": 22,
-    "translated": 22,
+    "fetched": 114,
+    "deduplicated": 112,
+    "selected": 21,
+    "translated": 21,
     "untranslated": 0,
     "minimumRequired": 21,
-    "featured": 4,
+    "featured": 2,
     "dryRun": true,
     "sampleData": false
   },
   "items": [
     {
-      "id": "a7d5e780dadabf24",
-      "title": "Pentagon designates Confucius Institutes a national security threat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-      "publishedAt": "2026-10-24T03:38:20.000Z",
-      "summary": "Pete Hegseth says the Pentagon dismantled 80 ‘propaganda cells’ operating under new names at 30 universities.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-          "publishedAt": "2026-10-24T03:38:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 68,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "ee475aee5e2aabd203815bae",
-      "isContinuation": false,
-      "titleZh": "五角大楼将孔子学院定性为国家安全威胁",
-      "summaryZh": "皮特·赫格塞斯表示，五角大楼已在30所大学拆除了80个以新名称运作的“宣传单元”。美方将其视为国家安全威胁。",
-      "whyImportant": "此举反映了美方在学术交流与国家安全领域对华政策的进一步收紧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "81f856d9de5ff81c",
-      "title": "President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
-      "publishedAt": "2026-10-23T17:30:14.000Z",
-      "summary": "President Donald J. Trump returns to Florida today to highlight a clear record of results that puts hardworking Americans first. Under President Trump and Republican leadership, Floridians are seeing historic tax relief, a surge in private investment and job creation, stronger rural healthcare, accelerated infrastructure and environmental progress, expanded support for veterans, and safer communities. […] The post President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
-          "publishedAt": "2026-10-23T17:30:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "环境",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "14e2e1ee529dbd74330e8342",
-      "isContinuation": false,
-      "titleZh": "特朗普总统重返“阳光之州”，为工薪阶层、老年人和退伍军人带来重大成果",
-      "summaryZh": "特朗普总统今日重返佛罗里达州，强调其政府在税收减免、就业创造及基础设施建设等方面的政绩。该声明列举了其在医疗、环境及退伍军人支持方面取得的进展，旨在展示其政策对当地民众的积极影响。",
-      "whyImportant": "此举旨在巩固佛罗里达州的政治支持，并宣传其执政期间的经济与社会政策成果。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bb04b79a643d8b9e",
-      "title": "‘Opportunistic’: experts weigh Manila’s minilateral agenda ahead of Trump-Xi meeting",
+      "id": "d5bd488729dd5e20",
+      "title": "How competition between Chinese and Indian firms could reshape African drug markets",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371952/opportunistic-experts-weigh-manilas-minilateral-agenda-ahead-trump-xi-meeting",
-      "publishedAt": "2026-10-23T14:00:14.000Z",
-      "summary": "The Philippines’ dual push for stronger “minilateral” defence links and a more robust Asean security role is dividing analysts, with one calling the move “opportunistic”. Some experts view Manila’s advocacy for the “Squad” alliance as a strategic opportunity to deepen core security partnerships while chairing the Association of Southeast Asian Nations. Others question how much actual weight is carried by this informal defence grouping – comprising the United States, the Philippines, Japan and...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
+      "publishedAt": "2026-10-24T07:00:10.000Z",
+      "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.6 million for China. Separately, the study...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371952/opportunistic-experts-weigh-manilas-minilateral-agenda-ahead-trump-xi-meeting",
-          "publishedAt": "2026-10-23T14:00:14.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
+          "publishedAt": "2026-10-24T07:00:10.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "军事与安全",
-        "专题·美国政策与全球影响"
+        "中国重点",
+        "金融",
+        "专题·全球经济与金融"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "united states",
-        "美国"
+        "market",
+        "金融"
       ],
-      "fingerprint": "1e3fd66f742a1805198fc32c",
+      "fingerprint": "deadf294c387b67d17c2f74e",
       "isContinuation": false,
-      "titleZh": "“机会主义”：专家评估马尼拉在特朗普与习近平会晤前的“小多边”议程",
-      "summaryZh": "菲律宾近期推动加强“小多边”防务联系及东盟安全角色，引发分析人士对其动机的争议。部分专家认为此举是利用担任东盟轮值主席国的机会深化安全伙伴关系，但也有人质疑该非正式防务联盟的实际影响力。",
-      "whyImportant": "菲律宾的战略调整反映了地区国家在美中博弈背景下，试图通过多边机制平衡安全利益的复杂考量。",
+      "titleZh": "中印企业竞争如何重塑非洲药品市场",
+      "summaryZh": "最新研究显示，中国在非洲抗疟疾药物市场的份额正迅速增长，逐渐缩小与长期占据主导地位的印度之间的差距。中印两国在非洲医药领域的竞争日益激烈。",
+      "whyImportant": "这反映了中国在非洲公共卫生领域影响力的提升及全球医药供应链格局的变动。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9a7d5b46b0a6d0d1",
-      "title": "Presidential Message on the World Series",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
-      "publishedAt": "2026-10-23T12:22:50.000Z",
-      "summary": "This week, Americans across our great country are coming together to celebrate the 2026 World Series, the crown jewel of our Nation’s favorite pastime. Baseball has long held a cherished place in our culture, and now, the Fall Classic once again unites us around this storied game. For nearly two centuries, baseball has shaped the […] The post Presidential Message on the World Series appeared first on The White House.",
-      "language": "",
-      "region": "usa",
+      "id": "bbd544681eb903de",
+      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+      "source": "DW",
+      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-24T14:09:00.000Z",
+      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+      "language": "en",
+      "region": "europe",
       "crossSources": [
         {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
-          "publishedAt": "2026-10-23T12:22:50.000Z"
+          "source": "DW",
+          "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-10-24T14:09:00.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
       ],
-      "score": 55,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
+        "经济"
       ],
-      "fingerprint": "55dbf073e1bdd74cee0ec0c9",
+      "fingerprint": "b524e84824807110b1a5d38a",
       "isContinuation": false,
-      "titleZh": "总统关于世界职业棒球大赛的致辞",
-      "summaryZh": "特朗普总统发表致辞，庆祝2026年世界职业棒球大赛的举行。他强调棒球作为美国文化的重要组成部分，在团结国民方面发挥了长期作用。",
-      "whyImportant": "总统通过体育赛事表达对国家文化传统的重视，旨在提升社会凝聚力。",
+      "titleZh": "土耳其与利比亚就地中海海上边界达成的新协议加剧了与希腊及欧盟的矛盾",
+      "summaryZh": "土耳其与利比亚计划通过新协议重划地中海海上边界以建立经济走廊。此举引发了希腊的强烈抗议，并导致欧盟被卷入该地区的领土争端中。",
+      "whyImportant": "该协议进一步加剧了地中海东部的地缘政治紧张局势，并考验着欧盟与土耳其的外交关系。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b67d6f9477e0a88d",
-      "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
+      "id": "bbebda7471c6cf56",
+      "title": "Gulf economies accelerate diversification as recession looms over Iran war",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-      "publishedAt": "2026-10-24T04:30:10.000Z",
-      "summary": "Days ahead of close-fought Israeli elections, campaigns have gone into overdrive with poor-taste jibes and inflammatory attacks against candidates, sometimes crossing red lines. Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion. The electioneering has at times turned personal, with some candidates who...",
+      "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
+      "publishedAt": "2026-10-25T04:00:10.000Z",
+      "summary": "Before the outbreak of the war triggered by the US-Israeli attack on Iran in February, the Gulf monarchies were living the prosperity dream that was the envy of the world. Their hydrocarbon-fuelled economies were glitzy oases of growth, inoculated from the conflict in Gaza that had rocked other parts of the Middle East for several years. Underpinned by decades-old US security guarantees and conflict mediation by billionaire sheikhs, Saudi Arabia, the United Arab Emirates and Qatar cultivated...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-          "publishedAt": "2026-10-24T04:30:10.000Z"
+          "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
+          "publishedAt": "2026-10-25T04:00:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1239,151 +1028,35 @@
       "tags": [
         "全球焦点",
         "突发",
-        "环境",
-        "国际组织"
-      ],
-      "score": 66,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "25760a51cf6ddf2d68609e74",
-      "isContinuation": false,
-      "titleZh": "以色列竞选活动因针对候选人的嘲讽和攻击而变得恶劣",
-      "summaryZh": "在以色列大选前夕，竞选活动愈演愈烈，出现了许多低俗的嘲讽和针对候选人的煽动性攻击。人工智能生成的虚假图像在社交媒体上泛滥，候选人利用刻板印象和恐惧心理来抹黑对手。",
-      "whyImportant": "竞选手段的恶化和虚假信息的传播加剧了社会分裂，可能对选举结果的公正性产生负面影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "71aeb37fecb01e21",
-      "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
-      "publishedAt": "2026-10-24T03:47:14.000Z",
-      "summary": "Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
-          "publishedAt": "2026-10-24T03:47:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "金融",
         "军事与安全"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 66,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5437929e4bb42e78769f6dea",
+      "fingerprint": "67f93d357437470b0bfedd90",
       "isContinuation": false,
-      "titleZh": "以色列突袭约旦河西岸城镇，拘留数十名巴勒斯坦人",
-      "summaryZh": "以色列军队对约旦河西岸北部的至少15个城镇进行了突袭行动。此次行动范围涵盖了纳布卢斯和杰宁等地。",
-      "whyImportant": "该地区紧张局势的升级进一步加剧了以色列与巴勒斯坦之间的冲突风险。",
+      "titleZh": "海湾国家加速经济多元化以应对伊朗战争带来的衰退风险",
+      "summaryZh": "在伊朗战争爆发前，海湾君主国曾享受着令人艳羡的繁荣。随着冲突阴影笼罩，这些依赖油气资源的经济体正加速推进多元化战略以抵御经济衰退。",
+      "whyImportant": "该地区经济转型对于维持中东地缘政治稳定及全球能源市场供应至关重要。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d2bf31cadca4d690",
-      "title": "Some Parisians buy pepper spray, tear gas for self-defence during protests",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3371994/some-parisians-buy-pepper-spray-tear-gas-self-defence-during-protests",
-      "publishedAt": "2026-10-24T03:30:17.000Z",
-      "summary": "Parisians are buying tear-gas canisters and pepper sprays to defend themselves and their property during protests, which are expected to continue over the weekend, the owner of a weapons shop in the French capital has said. France was hit by its worst social unrest in years last weekend as nationwide protests over high prices and declining public services erupted into riots. A town hall was torched, shops pillaged ‌and buildings covered in graffiti as violent groups clashed with police in cities...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3371994/some-parisians-buy-pepper-spray-tear-gas-self-defence-during-protests",
-          "publishedAt": "2026-10-24T03:30:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "能源"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "53b49c6c2ea1f2d5075670c8",
-      "isContinuation": false,
-      "titleZh": "部分巴黎市民购买胡椒喷雾和催泪瓦斯以在抗议期间自卫",
-      "summaryZh": "由于法国近期爆发了严重的社会动荡，巴黎市民开始购买催泪瓦斯和胡椒喷雾以保护自身及财产安全。抗议活动引发了骚乱，导致公共设施受损及暴力冲突。",
-      "whyImportant": "社会动荡引发的治安担忧反映了法国当前严峻的社会矛盾和民众的不安全感。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "19a6877444260be8",
-      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-      "publishedAt": "2026-10-23T12:00:00.000Z",
-      "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-          "publishedAt": "2026-10-23T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "能源"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "62a3d308ecf1392d2d5b269b",
-      "isContinuation": false,
-      "titleZh": "世界新闻简报：伊朗核查、约旦教堂遇袭、法希尔危机一周年",
-      "summaryZh": "国际原子能机构总干事拉斐尔·格罗西呼吁伊朗尽快允许核查人员返回。他警告称，全球核不扩散机制正变得日益脆弱。",
-      "whyImportant": "核查受阻增加了国际社会对核扩散风险的担忧，对全球安全局势构成挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "90a29d3e035aa77a",
-      "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+      "id": "771bd5e18c13cbd0",
+      "title": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-      "publishedAt": "2026-10-24T00:41:29.000Z",
-      "summary": "Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital Get our breaking news email, free app or daily news podcast Independent MP Helen Haines’s condition has been downgraded to serious but stable after she lost both legs following an alleged attack near her electorate office in north-east Victoria on Monday afternoon. The Alfred hospital in Melbourne provided an update on Haines’s condition on Saturday morning. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+      "publishedAt": "2026-10-25T03:54:43.000Z",
+      "summary": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email, free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’ rhetoric and threats and abuse being directed at leaders. The safety of elected representatives at all levels has been thrown into the spotlight after independent MP Helen Haines was allegedly deliberate attacked outside her Wangaratta electoral office. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-          "publishedAt": "2026-10-24T00:41:29.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+          "publishedAt": "2026-10-25T03:54:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1394,109 +1067,33 @@
         "全球焦点",
         "突发"
       ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 61,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "5857615af6401211c47b7723",
+      "fingerprint": "b06be5af1685dda246420e3f",
       "isContinuation": false,
-      "titleZh": "海伦·海恩斯在遭受袭击失去双腿后，病情有所好转",
-      "summaryZh": "独立议员海伦·海恩斯在维多利亚州遭遇袭击并失去双腿后，目前病情已降级为严重但稳定。墨尔本阿尔弗雷德医院于周六发布了这一最新医疗状况更新。",
-      "whyImportant": "针对民选官员的暴力袭击事件引发了公众对政治人物安全保障的广泛关注。",
+      "titleZh": "澳大利亚联邦警察局长称政客激烈言论助长了针对议员的威胁",
+      "summaryZh": "澳大利亚联邦警察局长克里西·巴雷特指出，政客的煽动性言论与针对议员的暴力威胁之间存在直接联系。近期针对议员的袭击事件引发了对民选代表安全状况的广泛关注。",
+      "whyImportant": "此现象凸显了政治极化对民主制度运作及公共安全构成的严峻挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ed7adddd60cf5c94",
-      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-      "publishedAt": "2026-10-24T00:30:02.000Z",
-      "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war. The US secretary of state, in his social media post addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-          "publishedAt": "2026-10-24T00:30:02.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 59,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "15d90ca55a3a3a5c9fd7b692",
-      "isContinuation": false,
-      "titleZh": "卢比奥告诉古巴人“现在是行动时刻”，以寻求政治变革",
-      "summaryZh": "美国国务卿卢比奥敦促古巴民众抓住机会寻求政治变革，并建议与中情局建立联系。此前，特朗普在集会上暗示美国军舰可能在从伊朗战争返回途中干预古巴。",
-      "whyImportant": "美国高层官员的言论暗示了对古巴政策的强硬转向，可能引发地区地缘政治的剧烈波动。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "94eaec9459aca735",
-      "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-      "publishedAt": "2026-10-23T22:41:46.000Z",
-      "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email, free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo and its new leader’s handling of the issue in question. David Shoebridge’s first major challenge at the helm of the federal Greens came earlier this month when the Nine newspapers reported a three-page letter had been sent to him urging an independent investigation into Steele-John. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-          "publishedAt": "2026-10-23T22:41:46.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "00670e9f79b145eea8d98e2c",
-      "isContinuation": false,
-      "titleZh": "乔丹·斯蒂尔-约翰的职位悬而未决，绿党准备迎接聚光灯",
-      "summaryZh": "绿党参议员乔丹·斯蒂尔-约翰因被指控行为不当，其党内职位目前处于不确定状态。新任领导人大卫·舒布里奇正面临处理此项指控的巨大压力。",
-      "whyImportant": "党内丑闻的处理方式将考验绿党新领导层的治理能力及其对道德标准的承诺。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "19c82b02afb86268",
-      "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
+      "id": "7dcf5aaed44ce684",
+      "title": "Singapore tells suppliers to ‘honour commitments’ amid Indonesia’s gas cut",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-      "publishedAt": "2026-10-23T17:17:41.000Z",
-      "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got out of a vehicle and started shooting during a funeral procession, the public security directorate said in a statement, adding that a hunt was...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
+      "publishedAt": "2026-10-25T03:38:07.000Z",
+      "summary": "Singapore expects all parties who have signed commercial contracts for gas supplies to “honour their commitments”, said Prime Minister Lawrence Wong on Sunday after Indonesia cut its exports. Speaking at the People’s Action Party (PAP) convention, Wong added that Singapore’s gas importer will take the necessary steps to protect its rights and interests. Indonesia began reducing natural gas exports to Singapore on Saturday. Indonesia’s upstream oil and gas regulator SKK Migas said the move was to...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-          "publishedAt": "2026-10-23T17:17:41.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
+          "publishedAt": "2026-10-25T03:38:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1505,75 +1102,36 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "军事与安全",
-        "环境"
+        "能源",
+        "国际组织"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 61,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "9ea9f656a38f25e91f8bea78",
+      "fingerprint": "292bf6e2959afb15eff1a2ed",
       "isContinuation": false,
-      "titleZh": "武装分子在约旦教堂杀害7人，国王誓言报复",
-      "summaryZh": "约旦南部一座教堂周五发生枪击事件，造成至少7人死亡，多人受伤。约旦国王对这起针对基督徒的罕见袭击表示强烈谴责，并誓言进行报复。",
-      "whyImportant": "这起针对宗教场所的暴力袭击威胁到了约旦国内的宗教和谐与社会稳定。",
+      "titleZh": "印尼削减天然气出口，新加坡要求供应商“履行承诺”",
+      "summaryZh": "在印尼削减天然气出口后，新加坡总理黄循财表示，新加坡期望所有签署商业合同的供应商履行承诺。新加坡天然气进口商将采取必要措施以维护自身合法权益。",
+      "whyImportant": "能源供应的波动直接影响新加坡的能源安全及区域贸易关系的稳定性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7718246191f00e57",
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T15:37:07.000Z",
-      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-23T15:37:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融"
-      ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e69b74cc532ab1bb24185dec",
-      "isContinuation": false,
-      "titleZh": "两名以色列士兵遭枪杀后，以军开始拆除希伯伦的巴勒斯坦建筑",
-      "summaryZh": "周五上午，两名巴勒斯坦枪手在西岸城市希伯伦外的一个检查站发动袭击，导致两名以色列士兵死亡。随后，以色列军队开始拆除该地区的巴勒斯坦建筑。",
-      "whyImportant": "此事件加剧了该地区的紧张局势，并引发了关于安全报复措施的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7ed915890f372abc",
-      "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+      "id": "8ff3510ef1d1e96b",
+      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
-      "publishedAt": "2026-10-24T03:51:58.000Z",
-      "summary": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+      "publishedAt": "2026-10-25T02:45:43.000Z",
+      "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
-          "publishedAt": "2026-10-24T03:51:58.000Z"
+          "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+          "publishedAt": "2026-10-25T02:45:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1584,147 +1142,301 @@
         "全球焦点",
         "军事与安全"
       ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "aeeeae43fd20d497186c4880",
+      "fingerprint": "956cd4b143544fab894a2d9a",
       "isContinuation": false,
-      "titleZh": "阿根廷确认数十名“肮脏战争”受害者身份",
-      "summaryZh": "法医人类学家已确认了至少38名阿根廷末代军事独裁统治时期受害者的遗骸。这一进展为受害者家属提供了迟来的真相。",
-      "whyImportant": "此举有助于阿根廷继续处理其历史创伤并推进正义进程。",
+      "titleZh": "保加利亚在俄乌战争阴影下举行总统选举",
+      "summaryZh": "保加利亚总统大选在俄乌战争的背景下进行。两位主要候选人均谴责了黑海地区的无人机袭击，但在如何应对乌克兰战争的问题上立场存在分歧。",
+      "whyImportant": "选举结果将决定保加利亚在俄乌冲突中的外交立场及北约内部的政策走向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "51e630777d1dbc32",
-      "title": "Crypto platform on alert lists opens Hong Kong office, prompting calls for scrutiny",
+      "id": "ad19948ea2995875",
+      "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+      "publishedAt": "2026-10-25T02:00:49.000Z",
+      "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “She still sounds certainly all there mentally, and physically she sounds strong,” Kim Aris said. “I don’t think she has anybody outside of the military or the police around her, so essentially she’s been held in solitary confinement from what I gather.” Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+          "publishedAt": "2026-10-25T02:00:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2f68f47805ecff6dcf95362b",
+      "isContinuation": false,
+      "titleZh": "昂山素季之子称其精神状态良好但处于孤立状态",
+      "summaryZh": "缅甸前民主领导人昂山素季的儿子表示，在五年多来的首次通话中，昂山素季听起来身体和精神状况尚好。然而，她目前处于近乎完全的隔离状态，身边几乎没有外界接触。",
+      "whyImportant": "昂山素季的处境持续引发国际社会对缅甸人权状况及军政府统治的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3dc7471b1a1d865f",
+      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+          "publishedAt": "2026-10-24T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "61a225fc45001f1a9663ccd0",
+      "isContinuation": false,
+      "titleZh": "苏丹妇女在围困中首当其冲，并成为一线响应者",
+      "summaryZh": "苏丹冲突爆发后，当地妇女不仅是战争的主要受害者，还积极投身于一线救援工作。她们在极度危险的环境中承担起社区支持和人道主义援助的重任。",
+      "whyImportant": "这反映了冲突中性别角色的转变以及妇女在战乱地区人道主义救援中的关键作用。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0043672a7d2de0f3",
+      "title": "Why more Japanese women are choosing ‘silver divorce’ after decades of marriage",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371978/crypto-platform-alert-lists-opens-hong-kong-office-prompting-calls-scrutiny",
-      "publishedAt": "2026-10-24T04:00:16.000Z",
-      "summary": "A cryptocurrency trading platform on Hong Kong and Canadian regulators’ alert lists has opened an office in the city, prompting experts to urge closer scrutiny of how such firms promote themselves without undermining an open business environment. Experts told the South China Morning Post that inclusion on a regulator’s alert list did not necessarily mean a company had broken the law. But they urged authorities to step up oversight of how such firms marketed regulated financial products. Polar...",
+      "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
+      "publishedAt": "2026-10-25T02:00:13.000Z",
+      "summary": "Ayumi lives alone in a spacious suburban house originally bought to raise a family, her two cats now her only full-time companions. Her two daughters have grown up and left home, and her husband of more than two decades moved out nearly a year ago as they finalise a divorce. For the 62-year-old Kawasaki resident, who spoke on condition that her surname be withheld, this was not how she envisioned her later years. “He worked very long hours, including on weekends, and I was always busy taking...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371978/crypto-platform-alert-lists-opens-hong-kong-office-prompting-calls-scrutiny",
-          "publishedAt": "2026-10-24T04:00:16.000Z"
+          "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
+          "publishedAt": "2026-10-25T02:00:13.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "金融",
-        "环境"
+        "全球焦点",
+        "国际组织"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "61029d5e55dca17335d7656c",
+      "fingerprint": "bcad526c618d8c9cc671a9d5",
       "isContinuation": false,
-      "titleZh": "加密货币平台在警示名单上仍开设香港办事处，引发监管呼吁",
-      "summaryZh": "一家被香港和加拿大监管机构列入警示名单的加密货币交易平台在香港开设了办事处。专家呼吁当局加强对此类公司营销行为的监管，以维护金融市场秩序。",
-      "whyImportant": "该事件凸显了在保持开放商业环境的同时，加强新兴金融领域监管的挑战。",
+      "titleZh": "为何更多日本女性在结婚数十年后选择“银发离婚”",
+      "summaryZh": "日本社会中，越来越多的中老年女性在子女成年后选择结束长达数十年的婚姻。这种被称为“银发离婚”的现象，反映了女性对晚年生活独立性和个人价值的重新追求。",
+      "whyImportant": "这一社会趋势揭示了日本人口结构变化下家庭观念与性别角色的深刻演变。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0258491472d04436",
-      "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+      "id": "32ee042ed7499943",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
-      "publishedAt": "2026-10-23T23:10:54.000Z",
-      "summary": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+      "publishedAt": "2026-10-25T00:34:43.000Z",
+      "summary": "Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
-          "publishedAt": "2026-10-23T23:10:54.000Z"
+          "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+          "publishedAt": "2026-10-25T00:34:43.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "军事与安全",
-        "环境"
+        "全球焦点",
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0c0e59b348a945e3a2fe9d4a",
+      "fingerprint": "e9d3baf2a804b3165be8e578",
       "isContinuation": false,
-      "titleZh": "台风“蝉皮”袭击台湾，造成一人死亡，数百人受伤",
-      "summaryZh": "台风“蝉皮”过境台湾东北部，当局警告称风力具有破坏性，并敦促居民寻求避难。目前已造成一人死亡及数百人受伤。",
-      "whyImportant": "此次自然灾害对当地基础设施和民众生命安全造成了严重影响。",
+      "titleZh": "奥巴马在为民主党助选时抨击特朗普的“残忍与腐败”",
+      "summaryZh": "美国前总统奥巴马在竞选集会上批评特朗普做出了一系列错误决策。他特别强调了美国在伊朗战争问题上的处理方式，以此动员民主党选民。",
+      "whyImportant": "此举旨在通过对比外交政策立场来影响选民对现任政府及前总统政策的评价。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d23cde46b9da33e1",
-      "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+      "id": "cbcf18a002202628",
+      "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
-      "publishedAt": "2026-10-23T22:29:03.000Z",
-      "summary": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy School Institute of Politics event on Friday. “There is a full-blown strategic competition under way in every dimension of national political power and influence, militarily, economically, trade and investment and technology, in foreign policy, in ideology,” said Rudd, a noted China scholar. “It’s across the world,...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+      "publishedAt": "2026-10-25T00:00:14.000Z",
+      "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that gained unauthorised access to files on an Australian government website earlier this year, raising questions over how quickly companies...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
-          "publishedAt": "2026-10-23T22:29:03.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+          "publishedAt": "2026-10-25T00:00:14.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "经济",
+        "全球焦点",
+        "军事与安全",
         "科技"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "86b84df4d1447791232faaba",
+      "fingerprint": "d2c60333fb3f81f1823834fa",
       "isContinuation": false,
-      "titleZh": "陆克文：美中战略竞争将持续升级，全球密切关注",
-      "summaryZh": "亚洲协会主席、澳大利亚前总理陆克文表示，美中两国在军事、经济、科技及意识形态等多个维度正进行全面的战略竞争。他认为这种竞争已演变为全球性的多维博弈。",
-      "whyImportant": "美中关系的持续紧张对全球地缘政治和经济格局具有深远影响。",
+      "titleZh": "新加坡拥抱人工智能以加强网络防御，但有一个前提：违规透明度",
+      "summaryZh": "新加坡正寻求与大型科技公司合作以强化网络防御，同时要求其在安全漏洞方面保持更高透明度。此举反映了各国在利用人工智能的同时，需应对其带来的安全风险与监管挑战。",
+      "whyImportant": "该报道揭示了政府在引入先进技术与确保国家安全之间寻求平衡的复杂性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9009e3caf6b34504",
-      "title": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
+      "id": "0c99717dd4e19eca",
+      "title": "German man detained after fire wrecks Hitler’s ‘Eagle’s Nest’ mountain retreat",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
-      "publishedAt": "2026-10-24T04:00:11.000Z",
-      "summary": "Chinese researchers have mapped the complex geological evolution of Turkey’s Kizilcaoren deposit, offering fresh insights into the country’s most significant known rare earth reserve while dampening expectations over its commercial potential. Although the findings shed light on how rare earth elements accumulate in carbonatite-related formations, the researchers concluded that the site was unlikely to emerge as a major global alternative to existing producers any time soon. Lead scientist...",
+      "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
+      "publishedAt": "2026-10-24T16:35:33.000Z",
+      "summary": "Firefighters battled on Saturday to put out flames that tore through Adolf Hitler’s “Eagle’s Nest” mountain retreat while police detained a suspect who investigators said may have psychiatric problems. The alarm was raised late on Friday at the former guest house for top Nazi officials, 1,834 metres (6,000 feet) high in the Bavarian Alps. As snow fell on the Alpine peak, the Eagle’s Nest was still engulfed in flames at dawn on Saturday, and fire chief Michael Brandl told a press conference the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
-          "publishedAt": "2026-10-24T04:00:11.000Z"
+          "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
+          "publishedAt": "2026-10-24T16:35:33.000Z"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-24T15:21:44.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0c317cf2c1183791a638e82b",
+      "isContinuation": false,
+      "titleZh": "德国男子被捕，希特勒“鹰巢”度假地遭火灾损毁",
+      "summaryZh": "位于巴伐利亚阿尔卑斯山脉的希特勒“鹰巢”度假地发生火灾，消防人员在恶劣天气下进行扑救。警方已拘留一名疑似患有精神疾病的嫌疑人。",
+      "whyImportant": "这一历史遗迹的损毁引发了对文化遗产保护及公共安全问题的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "04a1826fcf1385b7",
+      "title": "Will China’s 4 peace principles for tackling African conflicts work?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
+      "publishedAt": "2026-10-25T04:00:22.000Z",
+      "summary": "Beijing has a formula for tackling African conflicts and hot-button issues, and during a meeting this month with Togolese leader Faure Gnassingbe, Chinese President Xi Jinping outlined it in four principles linking peace to development. The principles entail focusing on African-led security free from outside intervention; upholding sovereignty and UN Charter principles; rejecting force and sanctions and favouring ceasefires through dialogue; and focusing on both immediate security concerns and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
+          "publishedAt": "2026-10-25T04:00:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 77,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9cfe43af71f7e2e371922b26",
+      "isContinuation": false,
+      "titleZh": "中国解决非洲冲突的四项和平原则会奏效吗？",
+      "summaryZh": "中国国家主席习近平向多哥领导人阐述了解决非洲冲突的四项原则，强调将和平与发展挂钩。这些原则主张非洲主导安全事务、维护主权、拒绝武力制裁并推动对话。",
+      "whyImportant": "这体现了中国在非洲外交政策中对“发展促和平”模式的进一步推广。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "34f133a14e5539bb",
+      "title": "Hong Kong needs a civil service fit for a changed world",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
+      "publishedAt": "2026-10-25T01:30:09.000Z",
+      "summary": "Hong Kong’s civil service has long enjoyed a reputation for efficiency, professionalism and probity. It has also been a pillar of stability, particularly during the transition from British to Chinese rule. Outside the general and administrative grades, many civil servants spend much of their careers in relatively specialised areas of responsibility. This allows them to develop deep expertise and makes them dependable regulators and administrators. However, it can also make it harder to adapt...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
+          "publishedAt": "2026-10-25T01:30:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1734,33 +1446,72 @@
       "tags": [
         "中国重点"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "d397522d16542f1f47fd663e",
+      "fingerprint": "62355b61161ec40a236964de",
       "isContinuation": false,
-      "titleZh": "中国对土耳其最大稀土矿床进行深入调查",
-      "summaryZh": "中国研究人员对土耳其Kizilcaoren稀土矿床进行了地质演化测绘。研究结论认为，该矿床短期内难以成为全球稀土供应的主要替代来源。",
-      "whyImportant": "这项研究为评估全球稀土供应链的多元化潜力提供了科学依据。",
+      "titleZh": "香港需要一个适应变革世界的公务员队伍",
+      "summaryZh": "香港公务员队伍长期以高效和专业著称，但其高度专业化的分工模式在应对快速变化的全球环境时可能面临挑战。专家认为，公务员体系需要提升适应力以应对新时代的复杂需求。",
+      "whyImportant": "这反映了香港在转型期对行政效率与治理能力现代化的迫切需求。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "849f03ab9ada281a",
-      "title": "Rocket debris hitting US homeland is ‘embarrassing’ for China, says astronomer",
+      "id": "9bc4f5ed8b859fb7",
+      "title": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
-      "publishedAt": "2026-10-23T15:00:07.000Z",
-      "summary": "A scorched hunk of metal that turned up in a US farmer’s cornfield may have handed China an awkward moment and technically an “international incident”, according to a British astronomer who has tracked rocket launches for more than 30 years. The farmer found the bowl-shaped object, measuring about 3.35 metres (11 feet) across, while harvesting corn in west-central Minnesota on October 14. Online, some residents joked that aliens had landed, while Chinese internet users said it looked like a...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
+      "publishedAt": "2026-10-24T09:20:03.000Z",
+      "summary": "Just weeks before Donald Trump’s second trip to China this year and his third meeting with President Xi Jinping, whom he has called a “truly great” friend, his administration is intensifying its crackdown on Confucius Institutes – Beijing-backed centres that promote Chinese language and culture at universities abroad. Long viewed by critics as instruments of Beijing’s soft power and cultural diplomacy, the institutes are back in the crosshairs of US Defence Secretary Pete Hegseth, who says the...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
-          "publishedAt": "2026-10-23T15:00:07.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
+          "publishedAt": "2026-10-24T09:20:03.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1c3e4d012e23d12ddffc6a10",
+      "isContinuation": false,
+      "titleZh": "“系统性拆除”：赫格塞斯对中国孔子学院发起新攻势",
+      "summaryZh": "尽管特朗普政府近期与中国保持高层互动，但美国国防部长赫格塞斯正加大对孔子学院的打击力度。美方长期将这些机构视为中国软实力的工具，并寻求进一步限制其在美活动。",
+      "whyImportant": "此举显示了美中在文化交流与教育合作领域持续存在的地缘政治摩擦。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "43d3564b0a6983b8",
+      "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
+      "publishedAt": "2026-10-24T12:00:14.000Z",
+      "summary": "Taiwan should not rely on a single foreign satellite provider for critical wartime communications, analysts have warned, after sudden restrictions on the use of Elon Musk’s Starlink disrupted Ukrainian drone operations. The episode has renewed debate in Taiwan over the risks of entrusting essential communications to foreign commercial operators whose services could be restricted for political, military or business reasons. Analysts said this was particularly relevant as Taipei was trying to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
+          "publishedAt": "2026-10-24T12:00:14.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1772,107 +1523,69 @@
         "军事与安全",
         "国际组织"
       ],
-      "score": 57,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "2bb8328b1b92fe5a0f74b329",
+      "fingerprint": "e144bb68250ca4104f254b7f",
       "isContinuation": false,
-      "titleZh": "天文学家称火箭残骸坠入美国本土对中国而言“令人尴尬”",
-      "summaryZh": "美国明尼苏达州的一位农民在玉米地中发现了一块巨大的金属残骸，据信来自中国火箭。专家指出，此类事件在国际层面引发了关注与讨论。",
-      "whyImportant": "该事件引发了关于航天残骸处理及国际空间安全责任的讨论。",
+      "titleZh": "分析人士称，乌克兰的“星链”困境应为台湾敲响警钟",
+      "summaryZh": "乌克兰在战争中受限于“星链”服务，引发了台湾对依赖单一外国卫星供应商的担忧。分析人士建议台湾应警惕关键通信基础设施受制于外国商业运营商的风险。",
+      "whyImportant": "该事件凸显了地缘政治冲突中，关键通信技术自主权对国家安全的重要性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8988dbab806aab6a",
-      "title": "Revised law to maintain Japan’s imperial family size takes effect",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3371993/revised-law-maintain-japans-imperial-family-size-takes-effect",
-      "publishedAt": "2026-10-24T03:30:15.000Z",
-      "summary": "A revised Imperial House Law took effect on Saturday to address Japan’s shrinking imperial family while retaining the traditional male-only succession system despite public support for female emperors. The legislation, enacted in July in the first major revision of the 1947 law, allows the imperial family to adopt males aged 15 or older from 11 former imperial branch families who are descended from emperors through the male line. The revised law also allows female members to retain their...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3371993/revised-law-maintain-japans-imperial-family-size-takes-effect",
-          "publishedAt": "2026-10-24T03:30:15.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d1410d98ae8b496dd16f44e6",
-      "isContinuation": false,
-      "titleZh": "旨在维持日本皇室规模的修订法案生效",
-      "summaryZh": "日本修订后的《皇室典范》正式生效，旨在应对皇室成员减少的问题，同时维持传统的男性继承制。新法允许皇室收养前皇族男性后裔，并允许女性成员在婚后保留皇室身份。",
-      "whyImportant": "该法律的修订是日本为解决皇室继承危机而采取的重大制度调整，但仍保留了男性继承的传统限制。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3ff60fdafb9e9654",
-      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-      "publishedAt": "2026-10-23T21:27:32.000Z",
-      "summary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-          "publishedAt": "2026-10-23T21:27:32.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "19c90dbd3830203121ca0b7d",
-      "isContinuation": false,
-      "titleZh": "约旦教堂葬礼遭蒙面枪手袭击，造成七人死亡",
-      "summaryZh": "约旦卡拉克省一座教堂在举行葬礼时遭到两名蒙面枪手袭击。此次事件造成至少7人死亡，另有34人受伤。",
-      "whyImportant": "该暴力事件对约旦的社会安全与宗教和谐构成严重威胁，引发了国际社会的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "45f546718dbb40df",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "id": "0a5bd0ce690d5e0e",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T19:46:30.000Z",
-      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T04:16:52.000Z",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-23T19:46:30.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-25T04:16:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0ec775958418e724e9581b0e",
+      "isContinuation": false,
+      "titleZh": "法国爆发大规模抗议，冲突导致近千人被捕",
+      "summaryZh": "法国多地爆发大规模示威活动，并蔓延至其他欧洲国家。抗议过程中发生激烈冲突，导致近千人被警方逮捕。",
+      "whyImportant": "大规模社会动荡反映了当前欧洲面临的深层社会矛盾与民众不满。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8ee27145471478cd",
+      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+      "publishedAt": "2026-10-24T23:07:12.000Z",
+      "summary": "Prime minister is considering different options for new relationship with Brussels ahead of summit in November Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc. The prime minister has been open about his desire to revisit the relationship between Britain and Brussels. He has said a new deal could mean the UK goes “all the way” and rejoins the EU. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+          "publishedAt": "2026-10-24T23:07:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1881,18 +1594,129 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "外交"
       ],
-      "score": 56,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "dd93487f3e662bd62c360b48",
+      "fingerprint": "ef707beaef1bba8acd473708",
       "isContinuation": false,
-      "titleZh": "官员称约旦教堂葬礼遭枪手袭击，七人中弹身亡",
-      "summaryZh": "约旦南部卡拉克省发生一起教堂葬礼枪击事件，导致7人死亡、34人受伤。目前当局正在对袭击者展开搜捕行动。",
-      "whyImportant": "此袭击事件造成重大伤亡，当地安全部门正全力追捕嫌疑人以维护地区稳定。",
+      "titleZh": "安迪·伯纳姆表示希望就与欧盟的“人员自由流动”进行诚实讨论",
+      "summaryZh": "英国首相正考虑在11月峰会前与欧盟建立新关系的各种方案。伯纳姆表示，希望就恢复英欧间人员自由流动的可能性与公众进行坦诚沟通，并暗示新协议可能涉及更深层次的合作。",
+      "whyImportant": "此举标志着英国政府在脱欧后重新审视与欧盟关系方面迈出了重要且具有争议的一步。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "65d78514c70d393e",
+      "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
+      "publishedAt": "2026-10-24T22:40:08.000Z",
+      "summary": "Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday Amber weather warnings have come into force as the worst of Storm Boelo could be set to hit parts of the UK. Storm Boelo’s winds will peak from Saturday evening, leaving areas in the warning zone, including Scotland, parts of Northern Ireland and the far north of England, braced for gusts of 60-70mph and even 80mph in exposed coastal spots, the Met Office said. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
+          "publishedAt": "2026-10-24T22:40:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "环境"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0f5cc7666edc7858ff6a2495",
+      "isContinuation": false,
+      "titleZh": "博洛风暴：英国遭遇大风大雨，交通受阻且活动取消",
+      "summaryZh": "继奥斯汀风暴后，英国再次迎来恶劣天气，气象部门已发布黄色预警。博洛风暴预计将带来时速高达60至80英里的阵风，苏格兰、北爱尔兰及英格兰北部地区受影响最为严重。",
+      "whyImportant": "极端天气对英国的交通基础设施和公共安全构成了直接威胁。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b5e8121a445ca35a",
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "publishedAt": "2026-10-24T22:28:37.000Z",
+      "summary": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+          "publishedAt": "2026-10-24T22:28:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0a22f46745ba7e5cb028d6a9",
+      "isContinuation": false,
+      "titleZh": "自上次美国大选以来，民主党的政策发生了怎样的转变？",
+      "summaryZh": "面对选民在跨性别权利、加沙战争等一系列议题上的立场变化，民主党候选人正在调整其政策重心。这些调整反映了党内对当前社会热点问题的回应与策略考量。",
+      "whyImportant": "政策转向直接影响民主党在未来选举中的选民基础和政治竞争力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "96276610426d29d3",
+      "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
+      "publishedAt": "2026-10-24T22:00:28.000Z",
+      "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the fourth part of this series, William Zheng looks at how the next generation of the party is being formed. When China’s political elites gather behind closed doors in Beijing for the Communist Party’s fifth plenum on Monday, much of the attention will be on the quiet preparations for allocating hundreds of pivotal roles in next year’s 21st...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
+          "publishedAt": "2026-10-24T22:00:28.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8da967ae5179aeb0358e12bc",
+      "isContinuation": false,
+      "titleZh": "中国下一代领导层正等待更高级别的职位",
+      "summaryZh": "随着中共中央全会的召开，外界关注焦点集中在明年二十一大的人事布局上。文章探讨了中国执政党如何培养和选拔下一代政治精英，以填补数百个关键职位。",
+      "whyImportant": "中国高层的人事变动对国家未来的政策走向和政治稳定性具有深远影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
