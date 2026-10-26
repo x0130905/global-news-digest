@@ -1,44 +1,135 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T04:38:15.018Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T04:43:45.071Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "economy-finance",
-    "name": "全球经济与金融",
-    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
-    "query": "global economy finance trade inflation interest rates",
+    "slug": "security",
+    "name": "军事、安全与突发事件",
+    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
+    "query": "military security conflict breaking crisis",
     "keywords": [
-      "economy",
-      "trade",
-      "tariff",
-      "inflation",
-      "market",
-      "bank",
-      "interest rate",
-      "经济",
-      "贸易",
-      "通胀",
-      "金融",
-      "利率"
+      "military",
+      "war",
+      "missile",
+      "security",
+      "attack",
+      "ceasefire",
+      "军事",
+      "战争",
+      "导弹",
+      "袭击",
+      "停火",
+      "突发"
     ],
-    "accent": "#10b981"
+    "accent": "#f97316"
   },
-  "overview": "今日专题“全球经济与金融”。共筛选 21 个高价值事件，重点关注中国相关进展、全球外交、经济与安全动态。",
+  "overview": "今日专题“军事、安全与突发事件”。共筛选 21 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "d5bd488729dd5e20",
-      "title": "How competition between Chinese and Indian firms could reshape African drug markets",
+      "id": "a567d6b0dc4a4447",
+      "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+      "publishedAt": "2026-10-26T02:55:15.000Z",
+      "summary": "North Korea sent a letter to the United Nations Security Council accusing Seoul of fabricating a landmine explosion that injured three South Korean soldiers, its state media reported Monday. Tensions between the two Koreas have soared since the South last month blamed the blast inside the heavily fortified demilitarised zone that separates the countries on landmines laid by the North, an accusation it has fiercely rejected. The North Korean permanent representative to the UN sent a letter on...",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+          "publishedAt": "2026-10-26T02:55:15.000Z"
+        },
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3372100/north-korea-tells-un-south-fabricated-border-landmine-blast",
+          "publishedAt": "2026-10-26T00:51:49.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 86,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "15036a457902d90084dff37c",
+      "isContinuation": false,
+      "titleZh": "朝鲜致信联合国，称首尔“捏造”地雷爆炸事件",
+      "summaryZh": "朝鲜向联合国安理会致信，指责韩国捏造了导致三名韩国士兵受伤的地雷爆炸事件。此前韩国将该事件归咎于朝鲜在非军事区埋设地雷，朝鲜对此予以强烈否认。",
+      "whyImportant": "此举加剧了朝鲜半岛本已紧张的局势，并引发了关于非军事区安全与外交指控的国际关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d90cdf650df3c259",
+      "title": "Trump escalates attacks on Michigan Senate hopeful El-Sayed with 9/11 comparison",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
-      "publishedAt": "2026-10-24T07:00:10.000Z",
-      "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.6 million for China. Separately, the study...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372097/trump-cites-9/11-urging-michigan-voters-oppose-muslim-senate-candidate-el-sayed",
+      "publishedAt": "2026-10-25T22:29:09.000Z",
+      "summary": "US President President Donald Trump at a Sunday campaign rally ratcheted up his push to link US Senate candidate Abdul El-Sayed to Muslim extremists, comparing him to the 9/11 attackers while saying Democrats would let violent anti-American terrorists into the United States. “I’m here to keep a jihadist, Muslim Brotherhood member from becoming a United States senator,” the president told a receptive audience in Port Huron, which is in a Michigan area where 66 per cent of the vote went to Trump...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
-          "publishedAt": "2026-10-24T07:00:10.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372097/trump-cites-9/11-urging-michigan-voters-oppose-muslim-senate-candidate-el-sayed",
+          "publishedAt": "2026-10-25T22:29:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 75,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "8a3d38c2991e760f8a1079c9",
+      "isContinuation": false,
+      "titleZh": "特朗普升级对密歇根州参议院候选人埃尔-赛义德的攻击，将其与9/11事件相提并论",
+      "summaryZh": "美国总统特朗普在竞选集会上将参议院候选人阿卜杜勒·埃尔-赛义德与9/11袭击者联系起来，并指责民主党人会允许恐怖分子进入美国。此举旨在通过激烈的言辞动员选民。",
+      "whyImportant": "此类言论加剧了美国政治中的身份政治对立，并对选举氛围产生了显著影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4c5f6b918b2069a0",
+      "title": "Man falls to death fleeing Hong Kong police raid on suspected drug den",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372120/man-falls-death-fleeing-hong-kong-police-raid-suspected-drug-den",
+      "publishedAt": "2026-10-26T04:16:31.000Z",
+      "summary": "A man has died after falling from a building while trying to flee a Hong Kong police raid on a suspected drug den in Yau Ma Tei. The 42-year-old man, surnamed Kwong, was found unconscious outside 385-387 Reclamation Street at about 9.28pm on Sunday. He was rushed to Kwong Wah Hospital, where he was pronounced dead, police said on Monday. At 9.21pm, officers from the Organised Crime and Triad Bureau launched an operation at the building, breaking into a flat suspected of operating as a drug...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372120/man-falls-death-fleeing-hong-kong-police-raid-suspected-drug-den",
+          "publishedAt": "2026-10-26T04:16:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -47,39 +138,38 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "专题·全球经济与金融"
+        "突发",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 73,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "market",
-        "金融"
+        "突发"
       ],
-      "fingerprint": "deadf294c387b67d17c2f74e",
+      "fingerprint": "6ace2f3f3bb02079093a8b7f",
       "isContinuation": false,
-      "titleZh": "中印企业竞争如何重塑非洲药品市场",
-      "summaryZh": "最新研究显示，中国在非洲抗疟疾药物市场的份额正迅速增长，逐渐缩小与长期占据主导地位的印度之间的差距。中印两国在非洲医药领域的竞争日益激烈。",
-      "whyImportant": "这反映了中国在非洲公共卫生领域影响力的提升及全球医药供应链格局的变动。",
+      "titleZh": "男子逃避香港警方突击搜查疑似毒窟时坠楼身亡",
+      "summaryZh": "一名42岁男子在油麻地一栋大厦内，为逃避警方对疑似毒窟的突击搜查而坠楼。该男子被送往广华医院后证实不治身亡。",
+      "whyImportant": "该事件反映了香港警方在打击毒品犯罪行动中面临的突发安全挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "bbd544681eb903de",
-      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-      "source": "DW",
-      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-24T14:09:00.000Z",
-      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
-      "language": "en",
-      "region": "europe",
+      "id": "0394a557e78c90e2",
+      "title": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+      "publishedAt": "2026-10-26T02:34:11.000Z",
+      "summary": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast A murderer who claimed a refusal to allow him Vegemite in prison is a breach of his human rights as an Australian has failed to overturn the ban on the polarising spread. Andre McKechnie sued Victoria’s corrections department after he was refused the salty, yeast-based condiment in prison. Continue reading...",
+      "language": "",
+      "region": "international",
       "crossSources": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-10-24T14:09:00.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+          "publishedAt": "2026-10-26T02:34:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -88,227 +178,255 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "经济",
-        "专题·全球经济与金融"
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 71,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "经济"
+        "突发"
       ],
-      "fingerprint": "b524e84824807110b1a5d38a",
+      "fingerprint": "248cb123f6fd6c2fd943bbfe",
       "isContinuation": false,
-      "titleZh": "土耳其与利比亚就地中海海上边界达成的新协议加剧了与希腊及欧盟的矛盾",
-      "summaryZh": "土耳其与利比亚计划通过新协议重划地中海海上边界以建立经济走廊。此举引发了希腊的强烈抗议，并导致欧盟被卷入该地区的领土争端中。",
-      "whyImportant": "该协议进一步加剧了地中海东部的地缘政治紧张局势，并考验着欧盟与土耳其的外交关系。",
+      "titleZh": "法院驳回澳大利亚囚犯诉求，称食用Vegemite酱并非人权",
+      "summaryZh": "一名被判谋杀罪的囚犯声称监狱禁止提供Vegemite酱侵犯了他享受文化的人权，但法院驳回了其诉求。法院裁定，监狱内禁止食用这种咸味酵母酱的规定依然有效。",
+      "whyImportant": "该裁决明确了囚犯在监狱内享有的权利范围，并确认了惩教部门对监狱内食品供应的监管权。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "44a4cfec02444770",
+      "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+      "publishedAt": "2026-10-26T04:29:01.000Z",
+      "summary": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birth A birthkeeper who allegedly “groomed” pregnant women to fear hospital could be referred to prosecutors to face potential criminal charges, a Victorian coroner has heard. Stacey Warnecke died in September 2025 at Frankston hospital in Melbourne after giving birth at home and suffering a postpartum haemorrhage with birthkeeper Emily Lal by her side, having paid her $6,000 to support her throughout pregnancy. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+          "publishedAt": "2026-10-26T04:29:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "5252c52514ae97102556ffff",
+      "isContinuation": false,
+      "titleZh": "涉嫌诱导孕妇恐惧医院的“助产士”可能面临刑事指控",
+      "summaryZh": "维多利亚州验尸官获悉，一名助产士曾诱导孕妇恐惧医院生产，导致一名产妇在家中分娩后因产后出血死亡。目前该助产士可能被移交检察机关，面临刑事指控。",
+      "whyImportant": "此案引发了关于非医疗专业人员在分娩过程中所扮演角色及其法律责任的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2b633ce8e35127be",
+      "title": "Man bitten after being chased by 3 dogs on his way to work in Yuen Long",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3372118/man-chased-3-dogs-and-bitten-while-his-way-work-yuen-long",
+      "publishedAt": "2026-10-26T04:08:55.000Z",
+      "summary": "A 26-year-old warehouse worker has been injured in Hong Kong after being chased by three dogs and bitten by one of them on his way to work. A source said police received a report at around 8am on Monday from the victim, surnamed Leung, saying one of the dogs pounced on him as he was walking towards his workplace at a logistics company in Yuen Long’s Kam Pok Road. Paramedics arrived at the scene and found the victim with minor wounds. He was sent to Pok Oi Hospital for treatment. The source said...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3372118/man-chased-3-dogs-and-bitten-while-his-way-work-yuen-long",
+          "publishedAt": "2026-10-26T04:08:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "c95736c5eb5dde5e13883d88",
+      "isContinuation": false,
+      "titleZh": "男子在元朗上班途中遭三只狗追逐并被咬伤",
+      "summaryZh": "一名26岁仓库工人在元朗上班途中遭到三只狗追逐，其中一只狗将其咬伤。受害者随后被送往博爱医院接受治疗，伤势较轻。",
+      "whyImportant": "此事件引发了公众对社区流浪狗管理及公共安全问题的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6144e963ccb213fb",
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "publishedAt": "2026-10-26T04:05:44.000Z",
+      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+          "publishedAt": "2026-10-26T04:05:44.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "能源",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "军事"
+      ],
+      "fingerprint": "38671d47492de5a0fc6f517e",
+      "isContinuation": false,
+      "titleZh": "美军称已协助海湾国家出口15亿桶石油",
+      "summaryZh": "美国中央司令部表示，在美军的支持下，已有超过3000艘商船顺利通过霍尔木兹海峡。此举旨在保障该地区的能源运输安全。",
+      "whyImportant": "这凸显了美军在维护全球关键能源航道安全及稳定国际能源供应方面所发挥的作用。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "27dcab46bf3a7e01",
+      "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+      "publishedAt": "2026-10-26T03:26:57.000Z",
+      "summary": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast A covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in December last year, “I fully take accountability that you’re involved because of me now,” a Sydney court has heard. Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+          "publishedAt": "2026-10-26T03:26:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "9335ec3e0fd088c2e565dd2c",
+      "isContinuation": false,
+      "titleZh": "双重谋杀案庭审播放Beau Lamarre-Condon狱中秘密录音",
+      "summaryZh": "在悉尼的一场庭审中，播放了一段前警官Beau Lamarre-Condon在狱中与朋友的秘密录音。录音中他承认自己应对朋友卷入此案负责，他被控枪杀了一对情侣。",
+      "whyImportant": "该录音作为关键证据，进一步揭示了被告在案件中的角色及认罪态度，对案件审理具有重要意义。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "bbebda7471c6cf56",
-      "title": "Gulf economies accelerate diversification as recession looms over Iran war",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
-      "publishedAt": "2026-10-25T04:00:10.000Z",
-      "summary": "Before the outbreak of the war triggered by the US-Israeli attack on Iran in February, the Gulf monarchies were living the prosperity dream that was the envy of the world. Their hydrocarbon-fuelled economies were glitzy oases of growth, inoculated from the conflict in Gaza that had rocked other parts of the Middle East for several years. Underpinned by decades-old US security guarantees and conflict mediation by billionaire sheikhs, Saudi Arabia, the United Arab Emirates and Qatar cultivated...",
+      "id": "a567d6b0dc4a4447",
+      "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+      "publishedAt": "2026-10-26T02:55:15.000Z",
+      "summary": "North Korea sent a letter to the United Nations Security Council accusing Seoul of fabricating a landmine explosion that injured three South Korean soldiers, its state media reported Monday. Tensions between the two Koreas have soared since the South last month blamed the blast inside the heavily fortified demilitarised zone that separates the countries on landmines laid by the North, an accusation it has fiercely rejected. The North Korean permanent representative to the UN sent a letter on...",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+          "publishedAt": "2026-10-26T02:55:15.000Z"
+        },
+        {
           "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
-          "publishedAt": "2026-10-25T04:00:10.000Z"
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3372100/north-korea-tells-un-south-fabricated-border-landmine-blast",
+          "publishedAt": "2026-10-26T00:51:49.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 66,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "67f93d357437470b0bfedd90",
-      "isContinuation": false,
-      "titleZh": "海湾国家加速经济多元化以应对伊朗战争带来的衰退风险",
-      "summaryZh": "在伊朗战争爆发前，海湾君主国曾享受着令人艳羡的繁荣。随着冲突阴影笼罩，这些依赖油气资源的经济体正加速推进多元化战略以抵御经济衰退。",
-      "whyImportant": "该地区经济转型对于维持中东地缘政治稳定及全球能源市场供应至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "771bd5e18c13cbd0",
-      "title": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
-      "publishedAt": "2026-10-25T03:54:43.000Z",
-      "summary": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email, free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’ rhetoric and threats and abuse being directed at leaders. The safety of elected representatives at all levels has been thrown into the spotlight after independent MP Helen Haines was allegedly deliberate attacked outside her Wangaratta electoral office. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
-          "publishedAt": "2026-10-25T03:54:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
+      "score": 86,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事",
         "突发"
       ],
-      "score": 61,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b06be5af1685dda246420e3f",
+      "fingerprint": "15036a457902d90084dff37c",
       "isContinuation": false,
-      "titleZh": "澳大利亚联邦警察局长称政客激烈言论助长了针对议员的威胁",
-      "summaryZh": "澳大利亚联邦警察局长克里西·巴雷特指出，政客的煽动性言论与针对议员的暴力威胁之间存在直接联系。近期针对议员的袭击事件引发了对民选代表安全状况的广泛关注。",
-      "whyImportant": "此现象凸显了政治极化对民主制度运作及公共安全构成的严峻挑战。",
+      "titleZh": "朝鲜致信联合国，称首尔“捏造”地雷爆炸事件",
+      "summaryZh": "朝鲜向联合国安理会致信，指责韩国捏造了导致三名韩国士兵受伤的地雷爆炸事件。此前韩国将该事件归咎于朝鲜在非军事区埋设地雷，朝鲜对此予以强烈否认。",
+      "whyImportant": "此举加剧了朝鲜半岛本已紧张的局势，并引发了关于非军事区安全与外交指控的国际关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7dcf5aaed44ce684",
-      "title": "Singapore tells suppliers to ‘honour commitments’ amid Indonesia’s gas cut",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
-      "publishedAt": "2026-10-25T03:38:07.000Z",
-      "summary": "Singapore expects all parties who have signed commercial contracts for gas supplies to “honour their commitments”, said Prime Minister Lawrence Wong on Sunday after Indonesia cut its exports. Speaking at the People’s Action Party (PAP) convention, Wong added that Singapore’s gas importer will take the necessary steps to protect its rights and interests. Indonesia began reducing natural gas exports to Singapore on Saturday. Indonesia’s upstream oil and gas regulator SKK Migas said the move was to...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
-          "publishedAt": "2026-10-25T03:38:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "292bf6e2959afb15eff1a2ed",
-      "isContinuation": false,
-      "titleZh": "印尼削减天然气出口，新加坡要求供应商“履行承诺”",
-      "summaryZh": "在印尼削减天然气出口后，新加坡总理黄循财表示，新加坡期望所有签署商业合同的供应商履行承诺。新加坡天然气进口商将采取必要措施以维护自身合法权益。",
-      "whyImportant": "能源供应的波动直接影响新加坡的能源安全及区域贸易关系的稳定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ff3510ef1d1e96b",
-      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
-      "publishedAt": "2026-10-25T02:45:43.000Z",
-      "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
-          "publishedAt": "2026-10-25T02:45:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "956cd4b143544fab894a2d9a",
-      "isContinuation": false,
-      "titleZh": "保加利亚在俄乌战争阴影下举行总统选举",
-      "summaryZh": "保加利亚总统大选在俄乌战争的背景下进行。两位主要候选人均谴责了黑海地区的无人机袭击，但在如何应对乌克兰战争的问题上立场存在分歧。",
-      "whyImportant": "选举结果将决定保加利亚在俄乌冲突中的外交立场及北约内部的政策走向。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ad19948ea2995875",
-      "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+      "id": "0394a557e78c90e2",
+      "title": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-      "publishedAt": "2026-10-25T02:00:49.000Z",
-      "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “She still sounds certainly all there mentally, and physically she sounds strong,” Kim Aris said. “I don’t think she has anybody outside of the military or the police around her, so essentially she’s been held in solitary confinement from what I gather.” Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+      "publishedAt": "2026-10-26T02:34:11.000Z",
+      "summary": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast A murderer who claimed a refusal to allow him Vegemite in prison is a breach of his human rights as an Australian has failed to overturn the ban on the polarising spread. Andre McKechnie sued Victoria’s corrections department after he was refused the salty, yeast-based condiment in prison. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-          "publishedAt": "2026-10-25T02:00:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2f68f47805ecff6dcf95362b",
-      "isContinuation": false,
-      "titleZh": "昂山素季之子称其精神状态良好但处于孤立状态",
-      "summaryZh": "缅甸前民主领导人昂山素季的儿子表示，在五年多来的首次通话中，昂山素季听起来身体和精神状况尚好。然而，她目前处于近乎完全的隔离状态，身边几乎没有外界接触。",
-      "whyImportant": "昂山素季的处境持续引发国际社会对缅甸人权状况及军政府统治的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3dc7471b1a1d865f",
-      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-      "publishedAt": "2026-10-24T12:00:00.000Z",
-      "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-          "publishedAt": "2026-10-24T12:00:00.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+          "publishedAt": "2026-10-26T02:34:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -318,109 +436,38 @@
       "tags": [
         "全球焦点",
         "突发",
-        "军事与安全"
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "61a225fc45001f1a9663ccd0",
+      "score": 71,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "248cb123f6fd6c2fd943bbfe",
       "isContinuation": false,
-      "titleZh": "苏丹妇女在围困中首当其冲，并成为一线响应者",
-      "summaryZh": "苏丹冲突爆发后，当地妇女不仅是战争的主要受害者，还积极投身于一线救援工作。她们在极度危险的环境中承担起社区支持和人道主义援助的重任。",
-      "whyImportant": "这反映了冲突中性别角色的转变以及妇女在战乱地区人道主义救援中的关键作用。",
+      "titleZh": "法院驳回澳大利亚囚犯诉求，称食用Vegemite酱并非人权",
+      "summaryZh": "一名被判谋杀罪的囚犯声称监狱禁止提供Vegemite酱侵犯了他享受文化的人权，但法院驳回了其诉求。法院裁定，监狱内禁止食用这种咸味酵母酱的规定依然有效。",
+      "whyImportant": "该裁决明确了囚犯在监狱内享有的权利范围，并确认了惩教部门对监狱内食品供应的监管权。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0043672a7d2de0f3",
-      "title": "Why more Japanese women are choosing ‘silver divorce’ after decades of marriage",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
-      "publishedAt": "2026-10-25T02:00:13.000Z",
-      "summary": "Ayumi lives alone in a spacious suburban house originally bought to raise a family, her two cats now her only full-time companions. Her two daughters have grown up and left home, and her husband of more than two decades moved out nearly a year ago as they finalise a divorce. For the 62-year-old Kawasaki resident, who spoke on condition that her surname be withheld, this was not how she envisioned her later years. “He worked very long hours, including on weekends, and I was always busy taking...",
+      "id": "44a4cfec02444770",
+      "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+      "publishedAt": "2026-10-26T04:29:01.000Z",
+      "summary": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birth A birthkeeper who allegedly “groomed” pregnant women to fear hospital could be referred to prosecutors to face potential criminal charges, a Victorian coroner has heard. Stacey Warnecke died in September 2025 at Frankston hospital in Melbourne after giving birth at home and suffering a postpartum haemorrhage with birthkeeper Emily Lal by her side, having paid her $6,000 to support her throughout pregnancy. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
-          "publishedAt": "2026-10-25T02:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bcad526c618d8c9cc671a9d5",
-      "isContinuation": false,
-      "titleZh": "为何更多日本女性在结婚数十年后选择“银发离婚”",
-      "summaryZh": "日本社会中，越来越多的中老年女性在子女成年后选择结束长达数十年的婚姻。这种被称为“银发离婚”的现象，反映了女性对晚年生活独立性和个人价值的重新追求。",
-      "whyImportant": "这一社会趋势揭示了日本人口结构变化下家庭观念与性别角色的深刻演变。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "32ee042ed7499943",
-      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
-      "publishedAt": "2026-10-25T00:34:43.000Z",
-      "summary": "Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
-          "publishedAt": "2026-10-25T00:34:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e9d3baf2a804b3165be8e578",
-      "isContinuation": false,
-      "titleZh": "奥巴马在为民主党助选时抨击特朗普的“残忍与腐败”",
-      "summaryZh": "美国前总统奥巴马在竞选集会上批评特朗普做出了一系列错误决策。他特别强调了美国在伊朗战争问题上的处理方式，以此动员民主党选民。",
-      "whyImportant": "此举旨在通过对比外交政策立场来影响选民对现任政府及前总统政策的评价。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cbcf18a002202628",
-      "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
-      "publishedAt": "2026-10-25T00:00:14.000Z",
-      "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that gained unauthorised access to files on an Australian government website earlier this year, raising questions over how quickly companies...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
-          "publishedAt": "2026-10-25T00:00:14.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+          "publishedAt": "2026-10-26T04:29:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -430,79 +477,320 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "科技"
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d2c60333fb3f81f1823834fa",
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "5252c52514ae97102556ffff",
       "isContinuation": false,
-      "titleZh": "新加坡拥抱人工智能以加强网络防御，但有一个前提：违规透明度",
-      "summaryZh": "新加坡正寻求与大型科技公司合作以强化网络防御，同时要求其在安全漏洞方面保持更高透明度。此举反映了各国在利用人工智能的同时，需应对其带来的安全风险与监管挑战。",
-      "whyImportant": "该报道揭示了政府在引入先进技术与确保国家安全之间寻求平衡的复杂性。",
+      "titleZh": "涉嫌诱导孕妇恐惧医院的“助产士”可能面临刑事指控",
+      "summaryZh": "维多利亚州验尸官获悉，一名助产士曾诱导孕妇恐惧医院生产，导致一名产妇在家中分娩后因产后出血死亡。目前该助产士可能被移交检察机关，面临刑事指控。",
+      "whyImportant": "此案引发了关于非医疗专业人员在分娩过程中所扮演角色及其法律责任的广泛讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0c99717dd4e19eca",
-      "title": "German man detained after fire wrecks Hitler’s ‘Eagle’s Nest’ mountain retreat",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
-      "publishedAt": "2026-10-24T16:35:33.000Z",
-      "summary": "Firefighters battled on Saturday to put out flames that tore through Adolf Hitler’s “Eagle’s Nest” mountain retreat while police detained a suspect who investigators said may have psychiatric problems. The alarm was raised late on Friday at the former guest house for top Nazi officials, 1,834 metres (6,000 feet) high in the Bavarian Alps. As snow fell on the Alpine peak, the Eagle’s Nest was still engulfed in flames at dawn on Saturday, and fire chief Michael Brandl told a press conference the...",
+      "id": "6144e963ccb213fb",
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "publishedAt": "2026-10-26T04:05:44.000Z",
+      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
-          "publishedAt": "2026-10-24T16:35:33.000Z"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-24T15:21:44.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+          "publishedAt": "2026-10-26T04:05:44.000Z"
         }
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "军事与安全",
+        "能源",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "军事"
+      ],
+      "fingerprint": "38671d47492de5a0fc6f517e",
+      "isContinuation": false,
+      "titleZh": "美军称已协助海湾国家出口15亿桶石油",
+      "summaryZh": "美国中央司令部表示，在美军的支持下，已有超过3000艘商船顺利通过霍尔木兹海峡。此举旨在保障该地区的能源运输安全。",
+      "whyImportant": "这凸显了美军在维护全球关键能源航道安全及稳定国际能源供应方面所发挥的作用。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "27dcab46bf3a7e01",
+      "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+      "publishedAt": "2026-10-26T03:26:57.000Z",
+      "summary": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast A covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in December last year, “I fully take accountability that you’re involved because of me now,” a Sydney court has heard. Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+          "publishedAt": "2026-10-26T03:26:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "9335ec3e0fd088c2e565dd2c",
+      "isContinuation": false,
+      "titleZh": "双重谋杀案庭审播放Beau Lamarre-Condon狱中秘密录音",
+      "summaryZh": "在悉尼的一场庭审中，播放了一段前警官Beau Lamarre-Condon在狱中与朋友的秘密录音。录音中他承认自己应对朋友卷入此案负责，他被控枪杀了一对情侣。",
+      "whyImportant": "该录音作为关键证据，进一步揭示了被告在案件中的角色及认罪态度，对案件审理具有重要意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e2bf780ef214f3f2",
+      "title": "Australia politics live: Plibersek notes ‘industrial scale of abuse’ but urges young women not to be turned off entering politics",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "publishedAt": "2026-10-26T04:33:53.000Z",
+      "summary": "Follow live updates Get our daily political email, free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff It’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats. There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House. I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+          "publishedAt": "2026-10-26T04:33:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "a5f95465b58ac62e116fad38",
+      "isContinuation": false,
+      "titleZh": "澳大利亚政治动态：Plibersek指出存在“工业规模的虐待”，呼吁女性不要因此放弃从政",
+      "summaryZh": "针对政界日益严重的网络暴力和威胁，独立议员Zali Steggall呼吁在政治辩论中保持文明与尊重。尽管面临严峻的骚扰环境，政界人士仍鼓励年轻女性积极参与政治。",
+      "whyImportant": "此讨论反映了澳大利亚政坛在应对网络暴力和保障议员人身安全方面所面临的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d33d24266c27fad8",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:11:13.000Z",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-25T22:11:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "5df0bc0a9ff17f020b811394",
+      "isContinuation": false,
+      "titleZh": "深度分裂的以色列严阵以待关键选举",
+      "summaryZh": "在经历了三年的地区战争后，以色列即将迎来一场至关重要的选举。这场选举被视为该国政治进程中的一个关键转折点。",
+      "whyImportant": "选举结果将决定以色列未来的政治走向及应对地区安全挑战的策略。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b3a8a79ad8e46503",
+      "title": "Why Israel's election is one of the most important in its history",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:05:30.000Z",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-25T22:05:30.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "89bf2d71e56c469c6176118d",
+      "isContinuation": false,
+      "titleZh": "为何以色列此次选举是其历史上最重要的选举之一",
+      "summaryZh": "安全与民主已成为以色列此次大选的核心议题。随着选民投票的临近，这些议题将深刻影响该国的未来发展方向。",
+      "whyImportant": "此次选举不仅关乎以色列的国内政策，也将对中东地区的整体地缘政治格局产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7048a8845f35aa8a",
+      "title": "Hong Kong to tighten burgeoning premium financing market as red flags, risks emerge",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/banking-finance/article/3372009/hong-kong-tighten-burgeoning-premium-financing-market-red-flags-risks-emerge",
+      "publishedAt": "2026-10-26T01:00:07.000Z",
+      "summary": "Hong Kong’s insurance watchdog is tightening oversight of the city’s booming premium financing market, as the once-niche lending arrangement spreads to lower-tier insurance buyers, while also reviewing regulations, particularly on how insurers evaluate clients’ affordability, according to Insurance Authority executives. Premium financing allows policyholders to borrow money from financial institutions to pay upfront premiums on large life insurance policies, which are commonly used as a wealth...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3372009/hong-kong-tighten-burgeoning-premium-financing-market-red-flags-risks-emerge",
+          "publishedAt": "2026-10-26T01:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融"
+      ],
+      "score": 59,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0c317cf2c1183791a638e82b",
+      "fingerprint": "ef2cd88388c08bcbc9d81a81",
       "isContinuation": false,
-      "titleZh": "德国男子被捕，希特勒“鹰巢”度假地遭火灾损毁",
-      "summaryZh": "位于巴伐利亚阿尔卑斯山脉的希特勒“鹰巢”度假地发生火灾，消防人员在恶劣天气下进行扑救。警方已拘留一名疑似患有精神疾病的嫌疑人。",
-      "whyImportant": "这一历史遗迹的损毁引发了对文化遗产保护及公共安全问题的关注。",
+      "titleZh": "香港保险监管机构将收紧保费融资市场，以应对日益凸显的风险",
+      "summaryZh": "香港保险业监管局正加强对保费融资市场的监管，因该业务已扩展至低端保险买家，引发了对客户偿付能力评估的担忧。监管机构正在审查相关法规，以遏制这一曾属于小众借贷安排的市场所带来的潜在金融风险。",
+      "whyImportant": "此举旨在防范金融风险，保护保险消费者并维护香港金融市场的稳定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1481004fc68e3840",
+      "title": "Lula pulls off Brazil’s first-ever run-off comeback to beat Trump ally Flavio Bolsonaro",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
+      "publishedAt": "2026-10-26T00:30:22.000Z",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva won re-election on Sunday in a dramatic comeback after trailing in the first round, extending the rule of a government that has overseen record Chinese investment. The Superior Electoral Court said Lula had 51.79 per cent of valid votes against 48.21 per cent for right-wing Senator Flavio Bolsonaro, with 99.99 per cent votes counted. No candidate who trailed after the first round had won a run-off since Brazil adopted the system in 1989. Addressing...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
+          "publishedAt": "2026-10-26T00:30:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "57201df4875c6afa99bf35e1",
+      "isContinuation": false,
+      "titleZh": "卢拉实现巴西史上首次决选逆转，击败特朗普盟友弗拉维奥·博索纳罗",
+      "summaryZh": "巴西总统卢拉在首轮落后的情况下实现戏剧性逆转，成功连任。这是巴西自1989年采用现行选举制度以来，首次有候选人在首轮落后后赢得决选。",
+      "whyImportant": "此次选举结果将延续现任政府的政策，并可能对巴西与中国的经贸关系产生持续影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "04a1826fcf1385b7",
-      "title": "Will China’s 4 peace principles for tackling African conflicts work?",
+      "id": "4c5f6b918b2069a0",
+      "title": "Man falls to death fleeing Hong Kong police raid on suspected drug den",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
-      "publishedAt": "2026-10-25T04:00:22.000Z",
-      "summary": "Beijing has a formula for tackling African conflicts and hot-button issues, and during a meeting this month with Togolese leader Faure Gnassingbe, Chinese President Xi Jinping outlined it in four principles linking peace to development. The principles entail focusing on African-led security free from outside intervention; upholding sovereignty and UN Charter principles; rejecting force and sanctions and favouring ceasefires through dialogue; and focusing on both immediate security concerns and...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372120/man-falls-death-fleeing-hong-kong-police-raid-suspected-drug-den",
+      "publishedAt": "2026-10-26T04:16:31.000Z",
+      "summary": "A man has died after falling from a building while trying to flee a Hong Kong police raid on a suspected drug den in Yau Ma Tei. The 42-year-old man, surnamed Kwong, was found unconscious outside 385-387 Reclamation Street at about 9.28pm on Sunday. He was rushed to Kwong Wah Hospital, where he was pronounced dead, police said on Monday. At 9.21pm, officers from the Organised Crime and Triad Bureau launched an operation at the building, breaking into a flat suspected of operating as a drug...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
-          "publishedAt": "2026-10-25T04:00:22.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372120/man-falls-death-fleeing-hong-kong-police-raid-suspected-drug-den",
+          "publishedAt": "2026-10-26T04:16:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -512,266 +800,360 @@
       "tags": [
         "中国重点",
         "突发",
-        "外交",
-        "军事与安全"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 77,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9cfe43af71f7e2e371922b26",
-      "isContinuation": false,
-      "titleZh": "中国解决非洲冲突的四项和平原则会奏效吗？",
-      "summaryZh": "中国国家主席习近平向多哥领导人阐述了解决非洲冲突的四项原则，强调将和平与发展挂钩。这些原则主张非洲主导安全事务、维护主权、拒绝武力制裁并推动对话。",
-      "whyImportant": "这体现了中国在非洲外交政策中对“发展促和平”模式的进一步推广。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "34f133a14e5539bb",
-      "title": "Hong Kong needs a civil service fit for a changed world",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
-      "publishedAt": "2026-10-25T01:30:09.000Z",
-      "summary": "Hong Kong’s civil service has long enjoyed a reputation for efficiency, professionalism and probity. It has also been a pillar of stability, particularly during the transition from British to Chinese rule. Outside the general and administrative grades, many civil servants spend much of their careers in relatively specialised areas of responsibility. This allows them to develop deep expertise and makes them dependable regulators and administrators. However, it can also make it harder to adapt...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
-          "publishedAt": "2026-10-25T01:30:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "62355b61161ec40a236964de",
-      "isContinuation": false,
-      "titleZh": "香港需要一个适应变革世界的公务员队伍",
-      "summaryZh": "香港公务员队伍长期以高效和专业著称，但其高度专业化的分工模式在应对快速变化的全球环境时可能面临挑战。专家认为，公务员体系需要提升适应力以应对新时代的复杂需求。",
-      "whyImportant": "这反映了香港在转型期对行政效率与治理能力现代化的迫切需求。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9bc4f5ed8b859fb7",
-      "title": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
-      "publishedAt": "2026-10-24T09:20:03.000Z",
-      "summary": "Just weeks before Donald Trump’s second trip to China this year and his third meeting with President Xi Jinping, whom he has called a “truly great” friend, his administration is intensifying its crackdown on Confucius Institutes – Beijing-backed centres that promote Chinese language and culture at universities abroad. Long viewed by critics as instruments of Beijing’s soft power and cultural diplomacy, the institutes are back in the crosshairs of US Defence Secretary Pete Hegseth, who says the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
-          "publishedAt": "2026-10-24T09:20:03.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "外交",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1c3e4d012e23d12ddffc6a10",
-      "isContinuation": false,
-      "titleZh": "“系统性拆除”：赫格塞斯对中国孔子学院发起新攻势",
-      "summaryZh": "尽管特朗普政府近期与中国保持高层互动，但美国国防部长赫格塞斯正加大对孔子学院的打击力度。美方长期将这些机构视为中国软实力的工具，并寻求进一步限制其在美活动。",
-      "whyImportant": "此举显示了美中在文化交流与教育合作领域持续存在的地缘政治摩擦。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "43d3564b0a6983b8",
-      "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
-      "publishedAt": "2026-10-24T12:00:14.000Z",
-      "summary": "Taiwan should not rely on a single foreign satellite provider for critical wartime communications, analysts have warned, after sudden restrictions on the use of Elon Musk’s Starlink disrupted Ukrainian drone operations. The episode has renewed debate in Taiwan over the risks of entrusting essential communications to foreign commercial operators whose services could be restricted for political, military or business reasons. Analysts said this was particularly relevant as Taipei was trying to...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
-          "publishedAt": "2026-10-24T12:00:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e144bb68250ca4104f254b7f",
-      "isContinuation": false,
-      "titleZh": "分析人士称，乌克兰的“星链”困境应为台湾敲响警钟",
-      "summaryZh": "乌克兰在战争中受限于“星链”服务，引发了台湾对依赖单一外国卫星供应商的担忧。分析人士建议台湾应警惕关键通信基础设施受制于外国商业运营商的风险。",
-      "whyImportant": "该事件凸显了地缘政治冲突中，关键通信技术自主权对国家安全的重要性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d5bd488729dd5e20",
-      "title": "How competition between Chinese and Indian firms could reshape African drug markets",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
-      "publishedAt": "2026-10-24T07:00:10.000Z",
-      "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.6 million for China. Separately, the study...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
-          "publishedAt": "2026-10-24T07:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "专题·全球经济与金融"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 73,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "market",
+        "突发"
+      ],
+      "fingerprint": "6ace2f3f3bb02079093a8b7f",
+      "isContinuation": false,
+      "titleZh": "男子逃避香港警方突击搜查疑似毒窟时坠楼身亡",
+      "summaryZh": "一名42岁男子在油麻地一栋大厦内，为逃避警方对疑似毒窟的突击搜查而坠楼。该男子被送往广华医院后证实不治身亡。",
+      "whyImportant": "该事件反映了香港警方在打击毒品犯罪行动中面临的突发安全挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2b633ce8e35127be",
+      "title": "Man bitten after being chased by 3 dogs on his way to work in Yuen Long",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3372118/man-chased-3-dogs-and-bitten-while-his-way-work-yuen-long",
+      "publishedAt": "2026-10-26T04:08:55.000Z",
+      "summary": "A 26-year-old warehouse worker has been injured in Hong Kong after being chased by three dogs and bitten by one of them on his way to work. A source said police received a report at around 8am on Monday from the victim, surnamed Leung, saying one of the dogs pounced on him as he was walking towards his workplace at a logistics company in Yuen Long’s Kam Pok Road. Paramedics arrived at the scene and found the victim with minor wounds. He was sent to Pok Oi Hospital for treatment. The source said...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3372118/man-chased-3-dogs-and-bitten-while-his-way-work-yuen-long",
+          "publishedAt": "2026-10-26T04:08:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "c95736c5eb5dde5e13883d88",
+      "isContinuation": false,
+      "titleZh": "男子在元朗上班途中遭三只狗追逐并被咬伤",
+      "summaryZh": "一名26岁仓库工人在元朗上班途中遭到三只狗追逐，其中一只狗将其咬伤。受害者随后被送往博爱医院接受治疗，伤势较轻。",
+      "whyImportant": "此事件引发了公众对社区流浪狗管理及公共安全问题的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a87844bdd2ebc62d",
+      "title": "100 million views: why China’s viral AI rap track has struck a chord",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/article/3372086/100-million-views-why-chinas-viral-ai-rap-track-has-struck-chord",
+      "publishedAt": "2026-10-26T03:00:24.000Z",
+      "summary": "An AI-generated Chinese rap song featuring some of the country’s most well-known historical figures has taken social media by storm. Titled “The One Who’s Been There” (Guo Lai Ren), the track crossed 100 million views across platforms in less than two weeks as it tapped into the anxieties of modern life. The song brings together 10 iconic figures from Chinese history and mythology – from revered poets and statesmen to the legendary Monkey King. Rather than reciting classical verses or lecturing...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/article/3372086/100-million-views-why-chinas-viral-ai-rap-track-has-struck-chord",
+          "publishedAt": "2026-10-26T03:00:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "环境",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "02a1deaed08136e8ff2dc3ed",
+      "isContinuation": false,
+      "titleZh": "播放量破亿：中国AI说唱歌曲为何能引发共鸣？",
+      "summaryZh": "一首由人工智能创作的中国说唱歌曲《过来人》在两周内播放量突破一亿次。该曲通过融合历史人物与现代生活焦虑，精准触动了当代听众的情感共鸣。",
+      "whyImportant": "该现象展示了AI技术在文化创作领域的潜力，以及社会大众对表达现代生活压力的文化产品的需求。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3dd4b8a495dbd7ac",
+      "title": "Hong Kong arbitration body eyes Mideast, Africa prospects amid global tensions",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3372084/hong-kong-arbitration-body-eyes-mideast-africa-prospects-amid-global-tensions",
+      "publishedAt": "2026-10-26T03:00:18.000Z",
+      "summary": "An international arbitration body in Hong Kong is exploring business opportunities in the Middle East and Africa, citing the city’s neutrality and predictability as key draws for new markets amid rising geopolitical tensions. Domitille Baizeau, co-chairwoman of the Hong Kong International Arbitration Centre, said the city had benefited from an overall shift in global business growth from Europe to Asia, with overseas businesses increasingly choosing Hong Kong to arbitrate disputes. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3372084/hong-kong-arbitration-body-eyes-mideast-africa-prospects-amid-global-tensions",
+          "publishedAt": "2026-10-26T03:00:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
         "金融"
       ],
-      "fingerprint": "deadf294c387b67d17c2f74e",
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "bb260af53123f8d03e0d7c20",
       "isContinuation": false,
-      "titleZh": "中印企业竞争如何重塑非洲药品市场",
-      "summaryZh": "最新研究显示，中国在非洲抗疟疾药物市场的份额正迅速增长，逐渐缩小与长期占据主导地位的印度之间的差距。中印两国在非洲医药领域的竞争日益激烈。",
-      "whyImportant": "这反映了中国在非洲公共卫生领域影响力的提升及全球医药供应链格局的变动。",
+      "titleZh": "香港仲裁机构着眼于中东和非洲市场，以应对全球紧张局势",
+      "summaryZh": "香港国际仲裁中心正积极拓展中东和非洲业务，利用香港的中立性和可预测性吸引海外企业。随着全球商业增长重心向亚洲转移，更多国际企业倾向于选择香港作为争议解决地。",
+      "whyImportant": "这有助于巩固香港作为国际法律及争议解决中心的地位，并促进其在多元化市场中的影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed0da1b7fd1470ba",
+      "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+      "publishedAt": "2026-10-26T00:58:25.000Z",
+      "summary": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyalty When Xi Jinping came to power in 2012, he pledged to stamp out corruption all through the ranks of the Communist party. More than a decade later, the pace of investigations has not slowed. Last year, China’s disciplinary authorities opened investigations into more than 1 million people, including more than 100 officials at or above ministerial or provincial level. As Chinese Communist party (CCP) officials kick off an important meeting this week, discipline – and party loyalty – is high on the agenda. For those who try to read the tea leaves of elite Chinese politics, concern about the apparent lack of discipline is dominating CCP discussions. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+          "publishedAt": "2026-10-26T00:58:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "55734f786a86ef10981fdc45",
+      "isContinuation": false,
+      "titleZh": "中国高层会议前夕，习近平的反腐行动备受关注",
+      "summaryZh": "在中共五中全会召开之际，反腐败与党内纪律再次成为核心议题。过去一年中，中国纪检部门调查了超过一百万名官员，显示出反腐力度并未减弱。",
+      "whyImportant": "反腐工作的持续推进对中国政治生态及党内纪律建设具有深远影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
-  "usa": [],
+  "usa": [
+    {
+      "id": "d90cdf650df3c259",
+      "title": "Trump escalates attacks on Michigan Senate hopeful El-Sayed with 9/11 comparison",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372097/trump-cites-9/11-urging-michigan-voters-oppose-muslim-senate-candidate-el-sayed",
+      "publishedAt": "2026-10-25T22:29:09.000Z",
+      "summary": "US President President Donald Trump at a Sunday campaign rally ratcheted up his push to link US Senate candidate Abdul El-Sayed to Muslim extremists, comparing him to the 9/11 attackers while saying Democrats would let violent anti-American terrorists into the United States. “I’m here to keep a jihadist, Muslim Brotherhood member from becoming a United States senator,” the president told a receptive audience in Port Huron, which is in a Michigan area where 66 per cent of the vote went to Trump...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372097/trump-cites-9/11-urging-michigan-voters-oppose-muslim-senate-candidate-el-sayed",
+          "publishedAt": "2026-10-25T22:29:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 75,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "8a3d38c2991e760f8a1079c9",
+      "isContinuation": false,
+      "titleZh": "特朗普升级对密歇根州参议院候选人埃尔-赛义德的攻击，将其与9/11事件相提并论",
+      "summaryZh": "美国总统特朗普在竞选集会上将参议院候选人阿卜杜勒·埃尔-赛义德与9/11袭击者联系起来，并指责民主党人会允许恐怖分子进入美国。此举旨在通过激烈的言辞动员选民。",
+      "whyImportant": "此类言论加剧了美国政治中的身份政治对立，并对选举氛围产生了显著影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4afd84ddb0150ddc",
+      "title": "收到 伊朗策划袭击 情报后 ： 美国对中东13国更新旅行警告 ， 多国使馆限制运行|沙特|也门",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/LA3C2TN40514R9P4.html",
+      "publishedAt": "2026-10-25T11:00:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "163.com",
+          "url": "https://www.163.com/dy/article/LA3C2TN40514R9P4.html",
+          "publishedAt": "2026-10-25T11:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 59,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "袭击",
+        "突发"
+      ],
+      "fingerprint": "fa2cff38f317ade23512b885",
+      "isContinuation": false,
+      "titleZh": "收到伊朗策划袭击情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
+      "summaryZh": "美国因收到伊朗策划袭击的情报，对中东13个国家发布了更新后的旅行警告。受此影响，美国在当地的多处使馆已采取限制运行措施。",
+      "whyImportant": "此举反映了中东地区安全局势的紧张升级，可能对区域外交与人员流动产生直接影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
   "watch": [
     {
-      "id": "0a5bd0ce690d5e0e",
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "id": "d02b90eebbc26b1c",
+      "title": "War of words over Xinjiang erupts between Chinese and Turkish social media users",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372077/war-words-over-xinjiang-erupts-between-chinese-and-turkish-social-media-users",
+      "publishedAt": "2026-10-25T13:00:09.000Z",
+      "summary": "The debate over ethnic identity in Xinjiang has triggered an online clash between Chinese and Turkish social media users. The row began earlier this month when a Turkish social media user recalled an encounter with a Uygur from Xinjiang, the region in China that is home to nearly 12 million mainly Muslim Turkic speakers. The user wrote that the woman did not look Chinese, but when asked whether she considered herself Turkic, the woman responded: “No, I’m Chinese.” The user also called on her to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372077/war-words-over-xinjiang-erupts-between-chinese-and-turkish-social-media-users",
+          "publishedAt": "2026-10-25T13:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 58,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "97eea7fd349b95e06a152d2a",
+      "isContinuation": false,
+      "titleZh": "中土社交媒体用户就新疆问题爆发口水战",
+      "summaryZh": "近期，一名土耳其社交媒体用户分享了与一名新疆维吾尔族女性的对话，引发了关于民族认同的在线争论。该事件导致中土两国网民在社交平台上展开了激烈的观点交锋。",
+      "whyImportant": "该事件凸显了跨文化交流中关于民族身份认同的敏感性，以及社交媒体在放大地缘政治议题讨论中的作用。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b4c30b6342df55a7",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T04:16:52.000Z",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T03:05:22.000Z",
+      "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-25T04:16:52.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-26T03:05:22.000Z"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+          "publishedAt": "2026-10-25T23:23:25.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 57,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0ec775958418e724e9581b0e",
+      "fingerprint": "76fb614fbf5460a116f3c6e2",
       "isContinuation": false,
-      "titleZh": "法国爆发大规模抗议，冲突导致近千人被捕",
-      "summaryZh": "法国多地爆发大规模示威活动，并蔓延至其他欧洲国家。抗议过程中发生激烈冲突，导致近千人被警方逮捕。",
-      "whyImportant": "大规模社会动荡反映了当前欧洲面临的深层社会矛盾与民众不满。",
+      "titleZh": "委内瑞拉反对派领导人玛丽亚·马查多流亡数月后回国",
+      "summaryZh": "委内瑞拉反对派领导人、诺贝尔和平奖得主玛丽亚·科里纳·马查多在流亡十个多月后返回国内。此次回国引发了外界对委内瑞拉国内政治局势走向的关注。",
+      "whyImportant": "马查多的回归可能对委内瑞拉国内的政治格局及反对派的后续行动产生重要影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8ee27145471478cd",
-      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
-      "publishedAt": "2026-10-24T23:07:12.000Z",
-      "summary": "Prime minister is considering different options for new relationship with Brussels ahead of summit in November Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc. The prime minister has been open about his desire to revisit the relationship between Britain and Brussels. He has said a new deal could mean the UK goes “all the way” and rejoins the EU. Continue reading...",
+      "id": "ccf98ecf7801c4b7",
+      "title": "Netanyahu warns Iran may try to disrupt Israel election: ‘don’t test us’",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+      "publishedAt": "2026-10-25T17:29:00.000Z",
+      "summary": "Prime Minister Benjamin Netanyahu said that Iran and its allies might try to disrupt Tuesday’s Israeli elections, warning the Islamic republic against any hostile acts. The remarks came as Israel’s Channel 12 reported, citing unnamed sources, that there had been a confrontation between Netanyahu and army chief Eyal Zamir over an unspecified new directive in the war with Iran, which the prime minister denied. Netanyahu has campaigned heavily on his security credentials, touting the war he...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
-          "publishedAt": "2026-10-24T23:07:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ef707beaef1bba8acd473708",
-      "isContinuation": false,
-      "titleZh": "安迪·伯纳姆表示希望就与欧盟的“人员自由流动”进行诚实讨论",
-      "summaryZh": "英国首相正考虑在11月峰会前与欧盟建立新关系的各种方案。伯纳姆表示，希望就恢复英欧间人员自由流动的可能性与公众进行坦诚沟通，并暗示新协议可能涉及更深层次的合作。",
-      "whyImportant": "此举标志着英国政府在脱欧后重新审视与欧盟关系方面迈出了重要且具有争议的一步。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "65d78514c70d393e",
-      "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
-      "publishedAt": "2026-10-24T22:40:08.000Z",
-      "summary": "Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday Amber weather warnings have come into force as the worst of Storm Boelo could be set to hit parts of the UK. Storm Boelo’s winds will peak from Saturday evening, leaving areas in the warning zone, including Scotland, parts of Northern Ireland and the far north of England, braced for gusts of 60-70mph and even 80mph in exposed coastal spots, the Met Office said. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
-          "publishedAt": "2026-10-24T22:40:08.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+          "publishedAt": "2026-10-25T17:29:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -781,163 +1163,41 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "环境"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0f5cc7666edc7858ff6a2495",
+      "score": 57,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "2a1ccc6e37caeb1b47bc0ef5",
       "isContinuation": false,
-      "titleZh": "博洛风暴：英国遭遇大风大雨，交通受阻且活动取消",
-      "summaryZh": "继奥斯汀风暴后，英国再次迎来恶劣天气，气象部门已发布黄色预警。博洛风暴预计将带来时速高达60至80英里的阵风，苏格兰、北爱尔兰及英格兰北部地区受影响最为严重。",
-      "whyImportant": "极端天气对英国的交通基础设施和公共安全构成了直接威胁。",
+      "titleZh": "内塔尼亚胡警告伊朗可能试图干扰以色列大选：“不要考验我们”",
+      "summaryZh": "以色列总理内塔尼亚胡警告称，伊朗及其盟友可能试图干扰即将到来的以色列大选。此外，有报道称内塔尼亚胡与军方高层在对伊战争指令上存在分歧，但遭到了总理本人的否认。",
+      "whyImportant": "此番言论加剧了以色列与伊朗之间的紧张关系，并可能影响以色列国内的选举氛围与安全政策讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [
     {
-      "id": "b5e8121a445ca35a",
-      "title": "How have Democrats’ policies shifted since the last major US election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-      "publishedAt": "2026-10-24T22:28:37.000Z",
-      "summary": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-          "publishedAt": "2026-10-24T22:28:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0a22f46745ba7e5cb028d6a9",
-      "isContinuation": false,
-      "titleZh": "自上次美国大选以来，民主党的政策发生了怎样的转变？",
-      "summaryZh": "面对选民在跨性别权利、加沙战争等一系列议题上的立场变化，民主党候选人正在调整其政策重心。这些调整反映了党内对当前社会热点问题的回应与策略考量。",
-      "whyImportant": "政策转向直接影响民主党在未来选举中的选民基础和政治竞争力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "96276610426d29d3",
-      "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+      "id": "d07af9b8a4497210",
+      "title": "China’s Liaoning carrier and USS Theodore Roosevelt may be in Philippine Sea at same time",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
-      "publishedAt": "2026-10-24T22:00:28.000Z",
-      "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the fourth part of this series, William Zheng looks at how the next generation of the party is being formed. When China’s political elites gather behind closed doors in Beijing for the Communist Party’s fifth plenum on Monday, much of the attention will be on the quiet preparations for allocating hundreds of pivotal roles in next year’s 21st...",
+      "url": "https://www.scmp.com/news/china/military/article/3372078/chinas-liaoning-aircraft-carrier-and-uss-theodore-roosevelt-converge-philippine-sea",
+      "publishedAt": "2026-10-25T12:13:45.000Z",
+      "summary": "China’s Liaoning aircraft carrier strike group sailed beyond the first island chain last week to reach the southernmost waters of the Philippines, suggesting an intent to position itself closer to ongoing US-Japan joint exercises. Philippine news channel BNC reported that the carrier group reached about 25 nautical miles (46km) east-southeast of Balut Island, the southernmost point of the Philippines, before sailing northeast on Friday. That positioned the warships past the first island chain, a...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
-          "publishedAt": "2026-10-24T22:00:28.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8da967ae5179aeb0358e12bc",
-      "isContinuation": false,
-      "titleZh": "中国下一代领导层正等待更高级别的职位",
-      "summaryZh": "随着中共中央全会的召开，外界关注焦点集中在明年二十一大的人事布局上。文章探讨了中国执政党如何培养和选拔下一代政治精英，以填补数百个关键职位。",
-      "whyImportant": "中国高层的人事变动对国家未来的政策走向和政治稳定性具有深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bbd544681eb903de",
-      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-      "source": "DW",
-      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-24T14:09:00.000Z",
-      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-10-24T14:09:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "专题·全球经济与金融"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济"
-      ],
-      "fingerprint": "b524e84824807110b1a5d38a",
-      "isContinuation": false,
-      "titleZh": "土耳其与利比亚就地中海海上边界达成的新协议加剧了与希腊及欧盟的矛盾",
-      "summaryZh": "土耳其与利比亚计划通过新协议重划地中海海上边界以建立经济走廊。此举引发了希腊的强烈抗议，并导致欧盟被卷入该地区的领土争端中。",
-      "whyImportant": "该协议进一步加剧了地中海东部的地缘政治紧张局势，并考验着欧盟与土耳其的外交关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "metadata": {
-    "fetched": 114,
-    "deduplicated": 112,
-    "selected": 21,
-    "translated": 21,
-    "untranslated": 0,
-    "minimumRequired": 21,
-    "featured": 2,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
-    {
-      "id": "d5bd488729dd5e20",
-      "title": "How competition between Chinese and Indian firms could reshape African drug markets",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
-      "publishedAt": "2026-10-24T07:00:10.000Z",
-      "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.6 million for China. Separately, the study...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
-          "publishedAt": "2026-10-24T07:00:10.000Z"
+          "url": "https://www.scmp.com/news/china/military/article/3372078/chinas-liaoning-aircraft-carrier-and-uss-theodore-roosevelt-converge-philippine-sea",
+          "publishedAt": "2026-10-25T12:13:45.000Z"
         }
       ],
       "sourceCount": 1,
@@ -946,421 +1206,57 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融",
-        "专题·全球经济与金融"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "market",
-        "金融"
-      ],
-      "fingerprint": "deadf294c387b67d17c2f74e",
-      "isContinuation": false,
-      "titleZh": "中印企业竞争如何重塑非洲药品市场",
-      "summaryZh": "最新研究显示，中国在非洲抗疟疾药物市场的份额正迅速增长，逐渐缩小与长期占据主导地位的印度之间的差距。中印两国在非洲医药领域的竞争日益激烈。",
-      "whyImportant": "这反映了中国在非洲公共卫生领域影响力的提升及全球医药供应链格局的变动。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bbd544681eb903de",
-      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-      "source": "DW",
-      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-24T14:09:00.000Z",
-      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-10-24T14:09:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "专题·全球经济与金融"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济"
-      ],
-      "fingerprint": "b524e84824807110b1a5d38a",
-      "isContinuation": false,
-      "titleZh": "土耳其与利比亚就地中海海上边界达成的新协议加剧了与希腊及欧盟的矛盾",
-      "summaryZh": "土耳其与利比亚计划通过新协议重划地中海海上边界以建立经济走廊。此举引发了希腊的强烈抗议，并导致欧盟被卷入该地区的领土争端中。",
-      "whyImportant": "该协议进一步加剧了地中海东部的地缘政治紧张局势，并考验着欧盟与土耳其的外交关系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bbebda7471c6cf56",
-      "title": "Gulf economies accelerate diversification as recession looms over Iran war",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
-      "publishedAt": "2026-10-25T04:00:10.000Z",
-      "summary": "Before the outbreak of the war triggered by the US-Israeli attack on Iran in February, the Gulf monarchies were living the prosperity dream that was the envy of the world. Their hydrocarbon-fuelled economies were glitzy oases of growth, inoculated from the conflict in Gaza that had rocked other parts of the Middle East for several years. Underpinned by decades-old US security guarantees and conflict mediation by billionaire sheikhs, Saudi Arabia, the United Arab Emirates and Qatar cultivated...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
-          "publishedAt": "2026-10-25T04:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 66,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "67f93d357437470b0bfedd90",
-      "isContinuation": false,
-      "titleZh": "海湾国家加速经济多元化以应对伊朗战争带来的衰退风险",
-      "summaryZh": "在伊朗战争爆发前，海湾君主国曾享受着令人艳羡的繁荣。随着冲突阴影笼罩，这些依赖油气资源的经济体正加速推进多元化战略以抵御经济衰退。",
-      "whyImportant": "该地区经济转型对于维持中东地缘政治稳定及全球能源市场供应至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "771bd5e18c13cbd0",
-      "title": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
-      "publishedAt": "2026-10-25T03:54:43.000Z",
-      "summary": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email, free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’ rhetoric and threats and abuse being directed at leaders. The safety of elected representatives at all levels has been thrown into the spotlight after independent MP Helen Haines was allegedly deliberate attacked outside her Wangaratta electoral office. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
-          "publishedAt": "2026-10-25T03:54:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b06be5af1685dda246420e3f",
-      "isContinuation": false,
-      "titleZh": "澳大利亚联邦警察局长称政客激烈言论助长了针对议员的威胁",
-      "summaryZh": "澳大利亚联邦警察局长克里西·巴雷特指出，政客的煽动性言论与针对议员的暴力威胁之间存在直接联系。近期针对议员的袭击事件引发了对民选代表安全状况的广泛关注。",
-      "whyImportant": "此现象凸显了政治极化对民主制度运作及公共安全构成的严峻挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7dcf5aaed44ce684",
-      "title": "Singapore tells suppliers to ‘honour commitments’ amid Indonesia’s gas cut",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
-      "publishedAt": "2026-10-25T03:38:07.000Z",
-      "summary": "Singapore expects all parties who have signed commercial contracts for gas supplies to “honour their commitments”, said Prime Minister Lawrence Wong on Sunday after Indonesia cut its exports. Speaking at the People’s Action Party (PAP) convention, Wong added that Singapore’s gas importer will take the necessary steps to protect its rights and interests. Indonesia began reducing natural gas exports to Singapore on Saturday. Indonesia’s upstream oil and gas regulator SKK Migas said the move was to...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
-          "publishedAt": "2026-10-25T03:38:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "能源",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "292bf6e2959afb15eff1a2ed",
-      "isContinuation": false,
-      "titleZh": "印尼削减天然气出口，新加坡要求供应商“履行承诺”",
-      "summaryZh": "在印尼削减天然气出口后，新加坡总理黄循财表示，新加坡期望所有签署商业合同的供应商履行承诺。新加坡天然气进口商将采取必要措施以维护自身合法权益。",
-      "whyImportant": "能源供应的波动直接影响新加坡的能源安全及区域贸易关系的稳定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ff3510ef1d1e96b",
-      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
-      "publishedAt": "2026-10-25T02:45:43.000Z",
-      "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
-          "publishedAt": "2026-10-25T02:45:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "956cd4b143544fab894a2d9a",
-      "isContinuation": false,
-      "titleZh": "保加利亚在俄乌战争阴影下举行总统选举",
-      "summaryZh": "保加利亚总统大选在俄乌战争的背景下进行。两位主要候选人均谴责了黑海地区的无人机袭击，但在如何应对乌克兰战争的问题上立场存在分歧。",
-      "whyImportant": "选举结果将决定保加利亚在俄乌冲突中的外交立场及北约内部的政策走向。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ad19948ea2995875",
-      "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-      "publishedAt": "2026-10-25T02:00:49.000Z",
-      "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “She still sounds certainly all there mentally, and physically she sounds strong,” Kim Aris said. “I don’t think she has anybody outside of the military or the police around her, so essentially she’s been held in solitary confinement from what I gather.” Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-          "publishedAt": "2026-10-25T02:00:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2f68f47805ecff6dcf95362b",
-      "isContinuation": false,
-      "titleZh": "昂山素季之子称其精神状态良好但处于孤立状态",
-      "summaryZh": "缅甸前民主领导人昂山素季的儿子表示，在五年多来的首次通话中，昂山素季听起来身体和精神状况尚好。然而，她目前处于近乎完全的隔离状态，身边几乎没有外界接触。",
-      "whyImportant": "昂山素季的处境持续引发国际社会对缅甸人权状况及军政府统治的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3dc7471b1a1d865f",
-      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-      "publishedAt": "2026-10-24T12:00:00.000Z",
-      "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-          "publishedAt": "2026-10-24T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "61a225fc45001f1a9663ccd0",
-      "isContinuation": false,
-      "titleZh": "苏丹妇女在围困中首当其冲，并成为一线响应者",
-      "summaryZh": "苏丹冲突爆发后，当地妇女不仅是战争的主要受害者，还积极投身于一线救援工作。她们在极度危险的环境中承担起社区支持和人道主义援助的重任。",
-      "whyImportant": "这反映了冲突中性别角色的转变以及妇女在战乱地区人道主义救援中的关键作用。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0043672a7d2de0f3",
-      "title": "Why more Japanese women are choosing ‘silver divorce’ after decades of marriage",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
-      "publishedAt": "2026-10-25T02:00:13.000Z",
-      "summary": "Ayumi lives alone in a spacious suburban house originally bought to raise a family, her two cats now her only full-time companions. Her two daughters have grown up and left home, and her husband of more than two decades moved out nearly a year ago as they finalise a divorce. For the 62-year-old Kawasaki resident, who spoke on condition that her surname be withheld, this was not how she envisioned her later years. “He worked very long hours, including on weekends, and I was always busy taking...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
-          "publishedAt": "2026-10-25T02:00:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bcad526c618d8c9cc671a9d5",
-      "isContinuation": false,
-      "titleZh": "为何更多日本女性在结婚数十年后选择“银发离婚”",
-      "summaryZh": "日本社会中，越来越多的中老年女性在子女成年后选择结束长达数十年的婚姻。这种被称为“银发离婚”的现象，反映了女性对晚年生活独立性和个人价值的重新追求。",
-      "whyImportant": "这一社会趋势揭示了日本人口结构变化下家庭观念与性别角色的深刻演变。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "32ee042ed7499943",
-      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
-      "publishedAt": "2026-10-25T00:34:43.000Z",
-      "summary": "Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
-          "publishedAt": "2026-10-25T00:34:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e9d3baf2a804b3165be8e578",
-      "isContinuation": false,
-      "titleZh": "奥巴马在为民主党助选时抨击特朗普的“残忍与腐败”",
-      "summaryZh": "美国前总统奥巴马在竞选集会上批评特朗普做出了一系列错误决策。他特别强调了美国在伊朗战争问题上的处理方式，以此动员民主党选民。",
-      "whyImportant": "此举旨在通过对比外交政策立场来影响选民对现任政府及前总统政策的评价。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cbcf18a002202628",
-      "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
-      "publishedAt": "2026-10-25T00:00:14.000Z",
-      "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that gained unauthorised access to files on an Australian government website earlier this year, raising questions over how quickly companies...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
-          "publishedAt": "2026-10-25T00:00:14.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
         "军事与安全",
-        "科技"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d2c60333fb3f81f1823834fa",
+      "score": 57,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "629477bef9bb7a52ad6fb8cf",
       "isContinuation": false,
-      "titleZh": "新加坡拥抱人工智能以加强网络防御，但有一个前提：违规透明度",
-      "summaryZh": "新加坡正寻求与大型科技公司合作以强化网络防御，同时要求其在安全漏洞方面保持更高透明度。此举反映了各国在利用人工智能的同时，需应对其带来的安全风险与监管挑战。",
-      "whyImportant": "该报道揭示了政府在引入先进技术与确保国家安全之间寻求平衡的复杂性。",
+      "titleZh": "中国辽宁舰航母编队与美国罗斯福号航母可能同时出现在菲律宾海",
+      "summaryZh": "中国辽宁舰航母编队近期航行至菲律宾最南端海域，位置靠近美日联合演习区域。外界分析认为，此举显示中国海军正加强在第一岛链外的军事存在。",
+      "whyImportant": "中美两国航母编队在敏感海域的潜在近距离接触，增加了区域军事对峙的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
-    },
+    }
+  ],
+  "metadata": {
+    "fetched": 165,
+    "deduplicated": 155,
+    "selected": 21,
+    "translated": 21,
+    "untranslated": 0,
+    "minimumRequired": 21,
+    "featured": 8,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
     {
-      "id": "0c99717dd4e19eca",
-      "title": "German man detained after fire wrecks Hitler’s ‘Eagle’s Nest’ mountain retreat",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
-      "publishedAt": "2026-10-24T16:35:33.000Z",
-      "summary": "Firefighters battled on Saturday to put out flames that tore through Adolf Hitler’s “Eagle’s Nest” mountain retreat while police detained a suspect who investigators said may have psychiatric problems. The alarm was raised late on Friday at the former guest house for top Nazi officials, 1,834 metres (6,000 feet) high in the Bavarian Alps. As snow fell on the Alpine peak, the Eagle’s Nest was still engulfed in flames at dawn on Saturday, and fire chief Michael Brandl told a press conference the...",
+      "id": "a567d6b0dc4a4447",
+      "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+      "publishedAt": "2026-10-26T02:55:15.000Z",
+      "summary": "North Korea sent a letter to the United Nations Security Council accusing Seoul of fabricating a landmine explosion that injured three South Korean soldiers, its state media reported Monday. Tensions between the two Koreas have soared since the South last month blamed the blast inside the heavily fortified demilitarised zone that separates the countries on landmines laid by the North, an accusation it has fiercely rejected. The North Korean permanent representative to the UN sent a letter on...",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
-          "publishedAt": "2026-10-24T16:35:33.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+          "publishedAt": "2026-10-26T02:55:15.000Z"
         },
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-24T15:21:44.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3372100/north-korea-tells-un-south-fabricated-border-landmine-blast",
+          "publishedAt": "2026-10-26T00:51:49.000Z"
         }
       ],
       "sourceCount": 2,
@@ -1369,35 +1265,84 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "突发",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0c317cf2c1183791a638e82b",
+      "score": 86,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "15036a457902d90084dff37c",
       "isContinuation": false,
-      "titleZh": "德国男子被捕，希特勒“鹰巢”度假地遭火灾损毁",
-      "summaryZh": "位于巴伐利亚阿尔卑斯山脉的希特勒“鹰巢”度假地发生火灾，消防人员在恶劣天气下进行扑救。警方已拘留一名疑似患有精神疾病的嫌疑人。",
-      "whyImportant": "这一历史遗迹的损毁引发了对文化遗产保护及公共安全问题的关注。",
+      "titleZh": "朝鲜致信联合国，称首尔“捏造”地雷爆炸事件",
+      "summaryZh": "朝鲜向联合国安理会致信，指责韩国捏造了导致三名韩国士兵受伤的地雷爆炸事件。此前韩国将该事件归咎于朝鲜在非军事区埋设地雷，朝鲜对此予以强烈否认。",
+      "whyImportant": "此举加剧了朝鲜半岛本已紧张的局势，并引发了关于非军事区安全与外交指控的国际关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "04a1826fcf1385b7",
-      "title": "Will China’s 4 peace principles for tackling African conflicts work?",
+      "id": "d90cdf650df3c259",
+      "title": "Trump escalates attacks on Michigan Senate hopeful El-Sayed with 9/11 comparison",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
-      "publishedAt": "2026-10-25T04:00:22.000Z",
-      "summary": "Beijing has a formula for tackling African conflicts and hot-button issues, and during a meeting this month with Togolese leader Faure Gnassingbe, Chinese President Xi Jinping outlined it in four principles linking peace to development. The principles entail focusing on African-led security free from outside intervention; upholding sovereignty and UN Charter principles; rejecting force and sanctions and favouring ceasefires through dialogue; and focusing on both immediate security concerns and...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372097/trump-cites-9/11-urging-michigan-voters-oppose-muslim-senate-candidate-el-sayed",
+      "publishedAt": "2026-10-25T22:29:09.000Z",
+      "summary": "US President President Donald Trump at a Sunday campaign rally ratcheted up his push to link US Senate candidate Abdul El-Sayed to Muslim extremists, comparing him to the 9/11 attackers while saying Democrats would let violent anti-American terrorists into the United States. “I’m here to keep a jihadist, Muslim Brotherhood member from becoming a United States senator,” the president told a receptive audience in Port Huron, which is in a Michigan area where 66 per cent of the vote went to Trump...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
-          "publishedAt": "2026-10-25T04:00:22.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372097/trump-cites-9/11-urging-michigan-voters-oppose-muslim-senate-candidate-el-sayed",
+          "publishedAt": "2026-10-25T22:29:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 75,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "8a3d38c2991e760f8a1079c9",
+      "isContinuation": false,
+      "titleZh": "特朗普升级对密歇根州参议院候选人埃尔-赛义德的攻击，将其与9/11事件相提并论",
+      "summaryZh": "美国总统特朗普在竞选集会上将参议院候选人阿卜杜勒·埃尔-赛义德与9/11袭击者联系起来，并指责民主党人会允许恐怖分子进入美国。此举旨在通过激烈的言辞动员选民。",
+      "whyImportant": "此类言论加剧了美国政治中的身份政治对立，并对选举氛围产生了显著影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4c5f6b918b2069a0",
+      "title": "Man falls to death fleeing Hong Kong police raid on suspected drug den",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372120/man-falls-death-fleeing-hong-kong-police-raid-suspected-drug-den",
+      "publishedAt": "2026-10-26T04:16:31.000Z",
+      "summary": "A man has died after falling from a building while trying to flee a Hong Kong police raid on a suspected drug den in Yau Ma Tei. The 42-year-old man, surnamed Kwong, was found unconscious outside 385-387 Reclamation Street at about 9.28pm on Sunday. He was rushed to Kwong Wah Hospital, where he was pronounced dead, police said on Monday. At 9.21pm, officers from the Organised Crime and Triad Bureau launched an operation at the building, breaking into a flat suspected of operating as a drug...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372120/man-falls-death-fleeing-hong-kong-police-raid-suspected-drug-den",
+          "publishedAt": "2026-10-26T04:16:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1407,72 +1352,120 @@
       "tags": [
         "中国重点",
         "突发",
-        "外交",
-        "军事与安全"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 77,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9cfe43af71f7e2e371922b26",
+      "score": 73,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "6ace2f3f3bb02079093a8b7f",
       "isContinuation": false,
-      "titleZh": "中国解决非洲冲突的四项和平原则会奏效吗？",
-      "summaryZh": "中国国家主席习近平向多哥领导人阐述了解决非洲冲突的四项原则，强调将和平与发展挂钩。这些原则主张非洲主导安全事务、维护主权、拒绝武力制裁并推动对话。",
-      "whyImportant": "这体现了中国在非洲外交政策中对“发展促和平”模式的进一步推广。",
+      "titleZh": "男子逃避香港警方突击搜查疑似毒窟时坠楼身亡",
+      "summaryZh": "一名42岁男子在油麻地一栋大厦内，为逃避警方对疑似毒窟的突击搜查而坠楼。该男子被送往广华医院后证实不治身亡。",
+      "whyImportant": "该事件反映了香港警方在打击毒品犯罪行动中面临的突发安全挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "34f133a14e5539bb",
-      "title": "Hong Kong needs a civil service fit for a changed world",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
-      "publishedAt": "2026-10-25T01:30:09.000Z",
-      "summary": "Hong Kong’s civil service has long enjoyed a reputation for efficiency, professionalism and probity. It has also been a pillar of stability, particularly during the transition from British to Chinese rule. Outside the general and administrative grades, many civil servants spend much of their careers in relatively specialised areas of responsibility. This allows them to develop deep expertise and makes them dependable regulators and administrators. However, it can also make it harder to adapt...",
+      "id": "0394a557e78c90e2",
+      "title": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+      "publishedAt": "2026-10-26T02:34:11.000Z",
+      "summary": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast A murderer who claimed a refusal to allow him Vegemite in prison is a breach of his human rights as an Australian has failed to overturn the ban on the polarising spread. Andre McKechnie sued Victoria’s corrections department after he was refused the salty, yeast-based condiment in prison. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
-          "publishedAt": "2026-10-25T01:30:09.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+          "publishedAt": "2026-10-26T02:34:11.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "全球焦点",
+        "突发",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "62355b61161ec40a236964de",
+      "score": 71,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "248cb123f6fd6c2fd943bbfe",
       "isContinuation": false,
-      "titleZh": "香港需要一个适应变革世界的公务员队伍",
-      "summaryZh": "香港公务员队伍长期以高效和专业著称，但其高度专业化的分工模式在应对快速变化的全球环境时可能面临挑战。专家认为，公务员体系需要提升适应力以应对新时代的复杂需求。",
-      "whyImportant": "这反映了香港在转型期对行政效率与治理能力现代化的迫切需求。",
+      "titleZh": "法院驳回澳大利亚囚犯诉求，称食用Vegemite酱并非人权",
+      "summaryZh": "一名被判谋杀罪的囚犯声称监狱禁止提供Vegemite酱侵犯了他享受文化的人权，但法院驳回了其诉求。法院裁定，监狱内禁止食用这种咸味酵母酱的规定依然有效。",
+      "whyImportant": "该裁决明确了囚犯在监狱内享有的权利范围，并确认了惩教部门对监狱内食品供应的监管权。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9bc4f5ed8b859fb7",
-      "title": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
+      "id": "44a4cfec02444770",
+      "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+      "publishedAt": "2026-10-26T04:29:01.000Z",
+      "summary": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birth A birthkeeper who allegedly “groomed” pregnant women to fear hospital could be referred to prosecutors to face potential criminal charges, a Victorian coroner has heard. Stacey Warnecke died in September 2025 at Frankston hospital in Melbourne after giving birth at home and suffering a postpartum haemorrhage with birthkeeper Emily Lal by her side, having paid her $6,000 to support her throughout pregnancy. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+          "publishedAt": "2026-10-26T04:29:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "5252c52514ae97102556ffff",
+      "isContinuation": false,
+      "titleZh": "涉嫌诱导孕妇恐惧医院的“助产士”可能面临刑事指控",
+      "summaryZh": "维多利亚州验尸官获悉，一名助产士曾诱导孕妇恐惧医院生产，导致一名产妇在家中分娩后因产后出血死亡。目前该助产士可能被移交检察机关，面临刑事指控。",
+      "whyImportant": "此案引发了关于非医疗专业人员在分娩过程中所扮演角色及其法律责任的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2b633ce8e35127be",
+      "title": "Man bitten after being chased by 3 dogs on his way to work in Yuen Long",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
-      "publishedAt": "2026-10-24T09:20:03.000Z",
-      "summary": "Just weeks before Donald Trump’s second trip to China this year and his third meeting with President Xi Jinping, whom he has called a “truly great” friend, his administration is intensifying its crackdown on Confucius Institutes – Beijing-backed centres that promote Chinese language and culture at universities abroad. Long viewed by critics as instruments of Beijing’s soft power and cultural diplomacy, the institutes are back in the crosshairs of US Defence Secretary Pete Hegseth, who says the...",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3372118/man-chased-3-dogs-and-bitten-while-his-way-work-yuen-long",
+      "publishedAt": "2026-10-26T04:08:55.000Z",
+      "summary": "A 26-year-old warehouse worker has been injured in Hong Kong after being chased by three dogs and bitten by one of them on his way to work. A source said police received a report at around 8am on Monday from the victim, surnamed Leung, saying one of the dogs pounced on him as he was walking towards his workplace at a logistics company in Yuen Long’s Kam Pok Road. Paramedics arrived at the scene and found the victim with minor wounds. He was sent to Pok Oi Hospital for treatment. The source said...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
-          "publishedAt": "2026-10-24T09:20:03.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3372118/man-chased-3-dogs-and-bitten-while-his-way-work-yuen-long",
+          "publishedAt": "2026-10-26T04:08:55.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1481,148 +1474,554 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "外交",
         "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1c3e4d012e23d12ddffc6a10",
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "c95736c5eb5dde5e13883d88",
       "isContinuation": false,
-      "titleZh": "“系统性拆除”：赫格塞斯对中国孔子学院发起新攻势",
-      "summaryZh": "尽管特朗普政府近期与中国保持高层互动，但美国国防部长赫格塞斯正加大对孔子学院的打击力度。美方长期将这些机构视为中国软实力的工具，并寻求进一步限制其在美活动。",
-      "whyImportant": "此举显示了美中在文化交流与教育合作领域持续存在的地缘政治摩擦。",
+      "titleZh": "男子在元朗上班途中遭三只狗追逐并被咬伤",
+      "summaryZh": "一名26岁仓库工人在元朗上班途中遭到三只狗追逐，其中一只狗将其咬伤。受害者随后被送往博爱医院接受治疗，伤势较轻。",
+      "whyImportant": "此事件引发了公众对社区流浪狗管理及公共安全问题的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "43d3564b0a6983b8",
-      "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
-      "publishedAt": "2026-10-24T12:00:14.000Z",
-      "summary": "Taiwan should not rely on a single foreign satellite provider for critical wartime communications, analysts have warned, after sudden restrictions on the use of Elon Musk’s Starlink disrupted Ukrainian drone operations. The episode has renewed debate in Taiwan over the risks of entrusting essential communications to foreign commercial operators whose services could be restricted for political, military or business reasons. Analysts said this was particularly relevant as Taipei was trying to...",
+      "id": "6144e963ccb213fb",
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "publishedAt": "2026-10-26T04:05:44.000Z",
+      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
-          "publishedAt": "2026-10-24T12:00:14.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+          "publishedAt": "2026-10-26T04:05:44.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
+        "全球焦点",
         "军事与安全",
-        "国际组织"
+        "能源",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e144bb68250ca4104f254b7f",
+      "score": 69,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "military",
+        "军事"
+      ],
+      "fingerprint": "38671d47492de5a0fc6f517e",
       "isContinuation": false,
-      "titleZh": "分析人士称，乌克兰的“星链”困境应为台湾敲响警钟",
-      "summaryZh": "乌克兰在战争中受限于“星链”服务，引发了台湾对依赖单一外国卫星供应商的担忧。分析人士建议台湾应警惕关键通信基础设施受制于外国商业运营商的风险。",
-      "whyImportant": "该事件凸显了地缘政治冲突中，关键通信技术自主权对国家安全的重要性。",
+      "titleZh": "美军称已协助海湾国家出口15亿桶石油",
+      "summaryZh": "美国中央司令部表示，在美军的支持下，已有超过3000艘商船顺利通过霍尔木兹海峡。此举旨在保障该地区的能源运输安全。",
+      "whyImportant": "这凸显了美军在维护全球关键能源航道安全及稳定国际能源供应方面所发挥的作用。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0a5bd0ce690d5e0e",
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "id": "27dcab46bf3a7e01",
+      "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+      "publishedAt": "2026-10-26T03:26:57.000Z",
+      "summary": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast A covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in December last year, “I fully take accountability that you’re involved because of me now,” a Sydney court has heard. Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+          "publishedAt": "2026-10-26T03:26:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "9335ec3e0fd088c2e565dd2c",
+      "isContinuation": false,
+      "titleZh": "双重谋杀案庭审播放Beau Lamarre-Condon狱中秘密录音",
+      "summaryZh": "在悉尼的一场庭审中，播放了一段前警官Beau Lamarre-Condon在狱中与朋友的秘密录音。录音中他承认自己应对朋友卷入此案负责，他被控枪杀了一对情侣。",
+      "whyImportant": "该录音作为关键证据，进一步揭示了被告在案件中的角色及认罪态度，对案件审理具有重要意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e2bf780ef214f3f2",
+      "title": "Australia politics live: Plibersek notes ‘industrial scale of abuse’ but urges young women not to be turned off entering politics",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "publishedAt": "2026-10-26T04:33:53.000Z",
+      "summary": "Follow live updates Get our daily political email, free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff It’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats. There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House. I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+          "publishedAt": "2026-10-26T04:33:53.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "a5f95465b58ac62e116fad38",
+      "isContinuation": false,
+      "titleZh": "澳大利亚政治动态：Plibersek指出存在“工业规模的虐待”，呼吁女性不要因此放弃从政",
+      "summaryZh": "针对政界日益严重的网络暴力和威胁，独立议员Zali Steggall呼吁在政治辩论中保持文明与尊重。尽管面临严峻的骚扰环境，政界人士仍鼓励年轻女性积极参与政治。",
+      "whyImportant": "此讨论反映了澳大利亚政坛在应对网络暴力和保障议员人身安全方面所面临的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d33d24266c27fad8",
+      "title": "Deeply divided Israel braces for pivotal election",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T04:16:52.000Z",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:11:13.000Z",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-10-25T04:16:52.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-25T22:11:13.000Z"
         }
       ],
       "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "5df0bc0a9ff17f020b811394",
+      "isContinuation": false,
+      "titleZh": "深度分裂的以色列严阵以待关键选举",
+      "summaryZh": "在经历了三年的地区战争后，以色列即将迎来一场至关重要的选举。这场选举被视为该国政治进程中的一个关键转折点。",
+      "whyImportant": "选举结果将决定以色列未来的政治走向及应对地区安全挑战的策略。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b3a8a79ad8e46503",
+      "title": "Why Israel's election is one of the most important in its history",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:05:30.000Z",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-25T22:05:30.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "security",
+        "军事"
+      ],
+      "fingerprint": "89bf2d71e56c469c6176118d",
+      "isContinuation": false,
+      "titleZh": "为何以色列此次选举是其历史上最重要的选举之一",
+      "summaryZh": "安全与民主已成为以色列此次大选的核心议题。随着选民投票的临近，这些议题将深刻影响该国的未来发展方向。",
+      "whyImportant": "此次选举不仅关乎以色列的国内政策，也将对中东地区的整体地缘政治格局产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7048a8845f35aa8a",
+      "title": "Hong Kong to tighten burgeoning premium financing market as red flags, risks emerge",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/banking-finance/article/3372009/hong-kong-tighten-burgeoning-premium-financing-market-red-flags-risks-emerge",
+      "publishedAt": "2026-10-26T01:00:07.000Z",
+      "summary": "Hong Kong’s insurance watchdog is tightening oversight of the city’s booming premium financing market, as the once-niche lending arrangement spreads to lower-tier insurance buyers, while also reviewing regulations, particularly on how insurers evaluate clients’ affordability, according to Insurance Authority executives. Premium financing allows policyholders to borrow money from financial institutions to pay upfront premiums on large life insurance policies, which are commonly used as a wealth...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3372009/hong-kong-tighten-burgeoning-premium-financing-market-red-flags-risks-emerge",
+          "publishedAt": "2026-10-26T01:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融"
+      ],
+      "score": 59,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ef2cd88388c08bcbc9d81a81",
+      "isContinuation": false,
+      "titleZh": "香港保险监管机构将收紧保费融资市场，以应对日益凸显的风险",
+      "summaryZh": "香港保险业监管局正加强对保费融资市场的监管，因该业务已扩展至低端保险买家，引发了对客户偿付能力评估的担忧。监管机构正在审查相关法规，以遏制这一曾属于小众借贷安排的市场所带来的潜在金融风险。",
+      "whyImportant": "此举旨在防范金融风险，保护保险消费者并维护香港金融市场的稳定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1481004fc68e3840",
+      "title": "Lula pulls off Brazil’s first-ever run-off comeback to beat Trump ally Flavio Bolsonaro",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
+      "publishedAt": "2026-10-26T00:30:22.000Z",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva won re-election on Sunday in a dramatic comeback after trailing in the first round, extending the rule of a government that has overseen record Chinese investment. The Superior Electoral Court said Lula had 51.79 per cent of valid votes against 48.21 per cent for right-wing Senator Flavio Bolsonaro, with 99.99 per cent votes counted. No candidate who trailed after the first round had won a run-off since Brazil adopted the system in 1989. Addressing...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
+          "publishedAt": "2026-10-26T00:30:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 59,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "57201df4875c6afa99bf35e1",
+      "isContinuation": false,
+      "titleZh": "卢拉实现巴西史上首次决选逆转，击败特朗普盟友弗拉维奥·博索纳罗",
+      "summaryZh": "巴西总统卢拉在首轮落后的情况下实现戏剧性逆转，成功连任。这是巴西自1989年采用现行选举制度以来，首次有候选人在首轮落后后赢得决选。",
+      "whyImportant": "此次选举结果将延续现任政府的政策，并可能对巴西与中国的经贸关系产生持续影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a87844bdd2ebc62d",
+      "title": "100 million views: why China’s viral AI rap track has struck a chord",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/article/3372086/100-million-views-why-chinas-viral-ai-rap-track-has-struck-chord",
+      "publishedAt": "2026-10-26T03:00:24.000Z",
+      "summary": "An AI-generated Chinese rap song featuring some of the country’s most well-known historical figures has taken social media by storm. Titled “The One Who’s Been There” (Guo Lai Ren), the track crossed 100 million views across platforms in less than two weeks as it tapped into the anxieties of modern life. The song brings together 10 iconic figures from Chinese history and mythology – from revered poets and statesmen to the legendary Monkey King. Rather than reciting classical verses or lecturing...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/article/3372086/100-million-views-why-chinas-viral-ai-rap-track-has-struck-chord",
+          "publishedAt": "2026-10-26T03:00:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "环境",
+        "国际组织"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "02a1deaed08136e8ff2dc3ed",
+      "isContinuation": false,
+      "titleZh": "播放量破亿：中国AI说唱歌曲为何能引发共鸣？",
+      "summaryZh": "一首由人工智能创作的中国说唱歌曲《过来人》在两周内播放量突破一亿次。该曲通过融合历史人物与现代生活焦虑，精准触动了当代听众的情感共鸣。",
+      "whyImportant": "该现象展示了AI技术在文化创作领域的潜力，以及社会大众对表达现代生活压力的文化产品的需求。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3dd4b8a495dbd7ac",
+      "title": "Hong Kong arbitration body eyes Mideast, Africa prospects amid global tensions",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3372084/hong-kong-arbitration-body-eyes-mideast-africa-prospects-amid-global-tensions",
+      "publishedAt": "2026-10-26T03:00:18.000Z",
+      "summary": "An international arbitration body in Hong Kong is exploring business opportunities in the Middle East and Africa, citing the city’s neutrality and predictability as key draws for new markets amid rising geopolitical tensions. Domitille Baizeau, co-chairwoman of the Hong Kong International Arbitration Centre, said the city had benefited from an overall shift in global business growth from Europe to Asia, with overseas businesses increasingly choosing Hong Kong to arbitrate disputes. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3372084/hong-kong-arbitration-body-eyes-mideast-africa-prospects-amid-global-tensions",
+          "publishedAt": "2026-10-26T03:00:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "bb260af53123f8d03e0d7c20",
+      "isContinuation": false,
+      "titleZh": "香港仲裁机构着眼于中东和非洲市场，以应对全球紧张局势",
+      "summaryZh": "香港国际仲裁中心正积极拓展中东和非洲业务，利用香港的中立性和可预测性吸引海外企业。随着全球商业增长重心向亚洲转移，更多国际企业倾向于选择香港作为争议解决地。",
+      "whyImportant": "这有助于巩固香港作为国际法律及争议解决中心的地位，并促进其在多元化市场中的影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed0da1b7fd1470ba",
+      "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+      "publishedAt": "2026-10-26T00:58:25.000Z",
+      "summary": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyalty When Xi Jinping came to power in 2012, he pledged to stamp out corruption all through the ranks of the Communist party. More than a decade later, the pace of investigations has not slowed. Last year, China’s disciplinary authorities opened investigations into more than 1 million people, including more than 100 officials at or above ministerial or provincial level. As Chinese Communist party (CCP) officials kick off an important meeting this week, discipline – and party loyalty – is high on the agenda. For those who try to read the tea leaves of elite Chinese politics, concern about the apparent lack of discipline is dominating CCP discussions. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+          "publishedAt": "2026-10-26T00:58:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "55734f786a86ef10981fdc45",
+      "isContinuation": false,
+      "titleZh": "中国高层会议前夕，习近平的反腐行动备受关注",
+      "summaryZh": "在中共五中全会召开之际，反腐败与党内纪律再次成为核心议题。过去一年中，中国纪检部门调查了超过一百万名官员，显示出反腐力度并未减弱。",
+      "whyImportant": "反腐工作的持续推进对中国政治生态及党内纪律建设具有深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4afd84ddb0150ddc",
+      "title": "收到 伊朗策划袭击 情报后 ： 美国对中东13国更新旅行警告 ， 多国使馆限制运行|沙特|也门",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/LA3C2TN40514R9P4.html",
+      "publishedAt": "2026-10-25T11:00:00.000Z",
+      "summary": "",
+      "language": "Chinese",
+      "region": "",
+      "crossSources": [
+        {
+          "source": "163.com",
+          "url": "https://www.163.com/dy/article/LA3C2TN40514R9P4.html",
+          "publishedAt": "2026-10-25T11:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 59,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "袭击",
+        "突发"
+      ],
+      "fingerprint": "fa2cff38f317ade23512b885",
+      "isContinuation": false,
+      "titleZh": "收到伊朗策划袭击情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
+      "summaryZh": "美国因收到伊朗策划袭击的情报，对中东13个国家发布了更新后的旅行警告。受此影响，美国在当地的多处使馆已采取限制运行措施。",
+      "whyImportant": "此举反映了中东地区安全局势的紧张升级，可能对区域外交与人员流动产生直接影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d02b90eebbc26b1c",
+      "title": "War of words over Xinjiang erupts between Chinese and Turkish social media users",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372077/war-words-over-xinjiang-erupts-between-chinese-and-turkish-social-media-users",
+      "publishedAt": "2026-10-25T13:00:09.000Z",
+      "summary": "The debate over ethnic identity in Xinjiang has triggered an online clash between Chinese and Turkish social media users. The row began earlier this month when a Turkish social media user recalled an encounter with a Uygur from Xinjiang, the region in China that is home to nearly 12 million mainly Muslim Turkic speakers. The user wrote that the woman did not look Chinese, but when asked whether she considered herself Turkic, the woman responded: “No, I’m Chinese.” The user also called on her to...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372077/war-words-over-xinjiang-erupts-between-chinese-and-turkish-social-media-users",
+          "publishedAt": "2026-10-25T13:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 58,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "97eea7fd349b95e06a152d2a",
+      "isContinuation": false,
+      "titleZh": "中土社交媒体用户就新疆问题爆发口水战",
+      "summaryZh": "近期，一名土耳其社交媒体用户分享了与一名新疆维吾尔族女性的对话，引发了关于民族认同的在线争论。该事件导致中土两国网民在社交平台上展开了激烈的观点交锋。",
+      "whyImportant": "该事件凸显了跨文化交流中关于民族身份认同的敏感性，以及社交媒体在放大地缘政治议题讨论中的作用。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b4c30b6342df55a7",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T03:05:22.000Z",
+      "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-10-26T03:05:22.000Z"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+          "publishedAt": "2026-10-25T23:23:25.000Z"
+        }
+      ],
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 57,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0ec775958418e724e9581b0e",
+      "fingerprint": "76fb614fbf5460a116f3c6e2",
       "isContinuation": false,
-      "titleZh": "法国爆发大规模抗议，冲突导致近千人被捕",
-      "summaryZh": "法国多地爆发大规模示威活动，并蔓延至其他欧洲国家。抗议过程中发生激烈冲突，导致近千人被警方逮捕。",
-      "whyImportant": "大规模社会动荡反映了当前欧洲面临的深层社会矛盾与民众不满。",
+      "titleZh": "委内瑞拉反对派领导人玛丽亚·马查多流亡数月后回国",
+      "summaryZh": "委内瑞拉反对派领导人、诺贝尔和平奖得主玛丽亚·科里纳·马查多在流亡十个多月后返回国内。此次回国引发了外界对委内瑞拉国内政治局势走向的关注。",
+      "whyImportant": "马查多的回归可能对委内瑞拉国内的政治格局及反对派的后续行动产生重要影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "8ee27145471478cd",
-      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
-      "publishedAt": "2026-10-24T23:07:12.000Z",
-      "summary": "Prime minister is considering different options for new relationship with Brussels ahead of summit in November Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc. The prime minister has been open about his desire to revisit the relationship between Britain and Brussels. He has said a new deal could mean the UK goes “all the way” and rejoins the EU. Continue reading...",
+      "id": "ccf98ecf7801c4b7",
+      "title": "Netanyahu warns Iran may try to disrupt Israel election: ‘don’t test us’",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+      "publishedAt": "2026-10-25T17:29:00.000Z",
+      "summary": "Prime Minister Benjamin Netanyahu said that Iran and its allies might try to disrupt Tuesday’s Israeli elections, warning the Islamic republic against any hostile acts. The remarks came as Israel’s Channel 12 reported, citing unnamed sources, that there had been a confrontation between Netanyahu and army chief Eyal Zamir over an unspecified new directive in the war with Iran, which the prime minister denied. Netanyahu has campaigned heavily on his security credentials, touting the war he...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
-          "publishedAt": "2026-10-24T23:07:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ef707beaef1bba8acd473708",
-      "isContinuation": false,
-      "titleZh": "安迪·伯纳姆表示希望就与欧盟的“人员自由流动”进行诚实讨论",
-      "summaryZh": "英国首相正考虑在11月峰会前与欧盟建立新关系的各种方案。伯纳姆表示，希望就恢复英欧间人员自由流动的可能性与公众进行坦诚沟通，并暗示新协议可能涉及更深层次的合作。",
-      "whyImportant": "此举标志着英国政府在脱欧后重新审视与欧盟关系方面迈出了重要且具有争议的一步。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "65d78514c70d393e",
-      "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
-      "publishedAt": "2026-10-24T22:40:08.000Z",
-      "summary": "Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday Amber weather warnings have come into force as the worst of Storm Boelo could be set to hit parts of the UK. Storm Boelo’s winds will peak from Saturday evening, leaving areas in the warning zone, including Scotland, parts of Northern Ireland and the far north of England, braced for gusts of 60-70mph and even 80mph in exposed coastal spots, the Met Office said. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
-          "publishedAt": "2026-10-24T22:40:08.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+          "publishedAt": "2026-10-25T17:29:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1632,72 +2031,39 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "环境"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0f5cc7666edc7858ff6a2495",
+      "score": 57,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "2a1ccc6e37caeb1b47bc0ef5",
       "isContinuation": false,
-      "titleZh": "博洛风暴：英国遭遇大风大雨，交通受阻且活动取消",
-      "summaryZh": "继奥斯汀风暴后，英国再次迎来恶劣天气，气象部门已发布黄色预警。博洛风暴预计将带来时速高达60至80英里的阵风，苏格兰、北爱尔兰及英格兰北部地区受影响最为严重。",
-      "whyImportant": "极端天气对英国的交通基础设施和公共安全构成了直接威胁。",
+      "titleZh": "内塔尼亚胡警告伊朗可能试图干扰以色列大选：“不要考验我们”",
+      "summaryZh": "以色列总理内塔尼亚胡警告称，伊朗及其盟友可能试图干扰即将到来的以色列大选。此外，有报道称内塔尼亚胡与军方高层在对伊战争指令上存在分歧，但遭到了总理本人的否认。",
+      "whyImportant": "此番言论加剧了以色列与伊朗之间的紧张关系，并可能影响以色列国内的选举氛围与安全政策讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b5e8121a445ca35a",
-      "title": "How have Democrats’ policies shifted since the last major US election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-      "publishedAt": "2026-10-24T22:28:37.000Z",
-      "summary": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-          "publishedAt": "2026-10-24T22:28:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "0a22f46745ba7e5cb028d6a9",
-      "isContinuation": false,
-      "titleZh": "自上次美国大选以来，民主党的政策发生了怎样的转变？",
-      "summaryZh": "面对选民在跨性别权利、加沙战争等一系列议题上的立场变化，民主党候选人正在调整其政策重心。这些调整反映了党内对当前社会热点问题的回应与策略考量。",
-      "whyImportant": "政策转向直接影响民主党在未来选举中的选民基础和政治竞争力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "96276610426d29d3",
-      "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+      "id": "d07af9b8a4497210",
+      "title": "China’s Liaoning carrier and USS Theodore Roosevelt may be in Philippine Sea at same time",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
-      "publishedAt": "2026-10-24T22:00:28.000Z",
-      "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the fourth part of this series, William Zheng looks at how the next generation of the party is being formed. When China’s political elites gather behind closed doors in Beijing for the Communist Party’s fifth plenum on Monday, much of the attention will be on the quiet preparations for allocating hundreds of pivotal roles in next year’s 21st...",
+      "url": "https://www.scmp.com/news/china/military/article/3372078/chinas-liaoning-aircraft-carrier-and-uss-theodore-roosevelt-converge-philippine-sea",
+      "publishedAt": "2026-10-25T12:13:45.000Z",
+      "summary": "China’s Liaoning aircraft carrier strike group sailed beyond the first island chain last week to reach the southernmost waters of the Philippines, suggesting an intent to position itself closer to ongoing US-Japan joint exercises. Philippine news channel BNC reported that the carrier group reached about 25 nautical miles (46km) east-southeast of Balut Island, the southernmost point of the Philippines, before sailing northeast on Friday. That positioned the warships past the first island chain, a...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
-          "publishedAt": "2026-10-24T22:00:28.000Z"
+          "url": "https://www.scmp.com/news/china/military/article/3372078/chinas-liaoning-aircraft-carrier-and-uss-theodore-roosevelt-converge-philippine-sea",
+          "publishedAt": "2026-10-25T12:13:45.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1705,18 +2071,23 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8da967ae5179aeb0358e12bc",
+      "score": 57,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "629477bef9bb7a52ad6fb8cf",
       "isContinuation": false,
-      "titleZh": "中国下一代领导层正等待更高级别的职位",
-      "summaryZh": "随着中共中央全会的召开，外界关注焦点集中在明年二十一大的人事布局上。文章探讨了中国执政党如何培养和选拔下一代政治精英，以填补数百个关键职位。",
-      "whyImportant": "中国高层的人事变动对国家未来的政策走向和政治稳定性具有深远影响。",
+      "titleZh": "中国辽宁舰航母编队与美国罗斯福号航母可能同时出现在菲律宾海",
+      "summaryZh": "中国辽宁舰航母编队近期航行至菲律宾最南端海域，位置靠近美日联合演习区域。外界分析认为，此举显示中国海军正加强在第一岛链外的军事存在。",
+      "whyImportant": "中美两国航母编队在敏感海域的潜在近距离接触，增加了区域军事对峙的风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
