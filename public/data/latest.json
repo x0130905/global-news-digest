@@ -1,40 +1,88 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T05:44:25.910Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T05:59:01.901Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "china",
-    "name": "中国与世界",
-    "description": "关注中国经济、外交、安全、产业链与海外利益",
-    "query": "China economy diplomacy security trade",
+    "slug": "economy-finance",
+    "name": "全球经济与金融",
+    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
+    "query": "global economy finance trade inflation interest rates",
     "keywords": [
-      "china",
-      "chinese",
-      "beijing",
-      "中国",
-      "北京",
-      "中美",
-      "人民币",
-      "产业链"
+      "economy",
+      "trade",
+      "tariff",
+      "inflation",
+      "market",
+      "bank",
+      "interest rate",
+      "经济",
+      "贸易",
+      "通胀",
+      "金融",
+      "利率"
     ],
-    "accent": "#ef4444"
+    "accent": "#10b981"
   },
-  "overview": "今日专题“中国与世界”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“全球经济与金融”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "8411b0a453396feb",
-      "title": "Lula’s win aids China ties; Hong Kong official quits over Tai Po fire: SCMP’s 7 highlights",
+      "id": "2763862c82c379ae",
+      "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
-      "publishedAt": "2026-10-30T04:15:06.000Z",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Win for Lula boosts China’s foothold and gives Brazil rare earths leverage Brazilian President Luiz Inacio Lula da Silva’s re-election preserves Beijing’s most critical foothold in Latin America, while positioning Brasilia to leverage...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+      "publishedAt": "2026-10-31T23:49:22.000Z",
+      "summary": "The theft of billions of dollars from Binance within a matter of minutes, the biggest cryptocurrency heist in history, was orchestrated by North Korean hackers, the FBI said on Saturday. The Federal Bureau of Investigation said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a US$1.5 billion Bybit hack last year. The FBI asked cryptocurrency exchanges, blockchain analytics companies and others to block...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
-          "publishedAt": "2026-10-30T04:15:06.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+          "publishedAt": "2026-10-31T23:49:22.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "经济",
+        "金融",
+        "专题·全球经济与金融"
+      ],
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济",
+        "金融"
+      ],
+      "fingerprint": "d851886b56eeba75654a5697",
+      "isContinuation": false,
+      "titleZh": "FBI指控朝鲜策划了史上最大规模的币安加密货币盗窃案",
+      "summaryZh": "美国联邦调查局（FBI）表示，币安近期发生的数十亿美元被盗事件是史上最大规模的加密货币劫案，系朝鲜黑客所为。该攻击与名为“TraderTraitor”的黑客组织有关，该组织此前也曾参与去年针对Bybit的15亿美元黑客攻击。",
+      "whyImportant": "此事件凸显了加密货币交易所面临的严峻安全威胁以及朝鲜利用网络犯罪规避制裁的持续风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4c2bd5d97e27d0c8",
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+      "publishedAt": "2026-10-31T19:32:58.000Z",
+      "summary": "As Washington seeks to loosen China’s dominance over critical minerals, US Secretary of State Marco Rubio urged other members of the Group of 20 (G20) to strengthen supply chains and secure strategic trade routes as the group’s foreign ministers’ meeting drew to a close in Atlanta on Saturday. Rubio said there was a “universal recognition” among the G20 members over the importance of issues like critical minerals, supply chain security and freedom of navigation. “The first step is at least some...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+          "publishedAt": "2026-10-31T19:32:58.000Z"
         }
       ],
       "sourceCount": 1,
@@ -44,243 +92,84 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "科技",
-        "专题·中国与世界"
+        "外交",
+        "经济",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 72,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "beijing",
-        "中国"
+        "trade",
+        "经济"
       ],
-      "fingerprint": "93452d57eed83580981c8518",
+      "fingerprint": "a7ae5035e4582b9d7a0e197d",
       "isContinuation": false,
-      "titleZh": "卢拉胜选助力中巴关系；香港官员因大埔火灾辞职：南华早报七大要闻",
-      "summaryZh": "巴西总统卢拉的连任巩固了中国在拉美的关键立足点，并为巴西在稀土领域提供了筹码。此外，香港官员因大埔火灾事件辞职引发关注。",
-      "whyImportant": "这些事件涵盖了中国在拉美的外交布局及香港地方治理的挑战，具有广泛的政治影响。",
+      "titleZh": "G20外长亚特兰大会议结束，未就关键议题达成共识",
+      "summaryZh": "G20外长会议在亚特兰大闭幕，美国国务卿卢比奥呼吁成员国加强供应链安全并保障战略贸易路线。尽管各方承认关键矿产和航行自由的重要性，但会议未能就具体行动达成一致。",
+      "whyImportant": "会议结果显示全球主要经济体在供应链重组和地缘政治议题上仍存在显著分歧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0a8fff036740a63a",
-      "title": "Evergrande liquidators sell controlling stake in property services unit for US$513 million",
+      "id": "23e4c3355422171d",
+      "title": "HKT says US order ‘ceased’ as firm reportedly agrees to exit American market",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3372681/evergrande-liquidators-sell-controlling-stake-property-services-unit-us513-million",
-      "publishedAt": "2026-10-30T05:24:31.000Z",
-      "summary": "Liquidators of China Evergrande Group have agreed to sell a controlling stake in its property management arm to investment firm PAG for HK$4.03 billion (US$513.6 million), as they seek to recover assets for creditors owed US$46 billion. The sale of a 51.016 per cent stake in Evergrande Property Services could give the profitable business a new controlling shareholder after its parent used billions of yuan of its bank deposits as collateral for loans, leaving the company struggling to recover the...",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
+      "publishedAt": "2026-10-31T14:39:19.000Z",
+      "summary": "A leading Hong Kong telecommunications carrier has confirmed that an order requiring it to justify its operation in the United States has been ceased, after the company reportedly agreed to wind down its business under pressure from a US regulatory agency over national security concerns. A spokeswoman for Hong Kong Telecom (HKT) told the South China Morning Post on Saturday that the Order to Show Cause issued by the US Federal Communications Commission (FCC) in October requiring it to justify...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3372681/evergrande-liquidators-sell-controlling-stake-property-services-unit-us513-million",
-          "publishedAt": "2026-10-30T05:24:31.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
+          "publishedAt": "2026-10-31T14:39:19.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
         "中国重点",
+        "美国重点",
         "金融",
-        "专题·中国与世界"
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 70,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 69,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "中国"
+        "market",
+        "金融"
       ],
-      "fingerprint": "44d1a2d9dda8a0f26596d162",
+      "fingerprint": "1130c4e301ef50cf69dc1cb2",
       "isContinuation": false,
-      "titleZh": "恒大清盘人以5.13亿美元出售物业服务部门控股权",
-      "summaryZh": "中国恒大集团清盘人已同意将物业管理部门的控股权以约5.13亿美元出售给投资公司PAG。此举旨在为债权人回收资产，以应对恒大面临的巨额债务问题。",
-      "whyImportant": "这是恒大债务重组过程中的重要资产处置，对债权人回收资金具有关键意义。",
+      "titleZh": "香港电讯称美国监管令已“终止”，据报将退出美国市场",
+      "summaryZh": "香港电讯确认，美国联邦通信委员会此前要求其说明运营合理性的命令已终止。据报道，该公司已同意在美方国家安全担忧的压力下逐步退出美国市场。",
+      "whyImportant": "此举反映了地缘政治因素对跨国电信企业在美运营环境的持续影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "eeec6a34a80c53a2",
-      "title": "‘Why did it take 11 months?’: apology too late for some Tai Po fire survivors",
+      "id": "65036de829fbe24a",
+      "title": "3 Hong Kong Chinese-language newspapers raise retail prices by HK$3",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors",
-      "publishedAt": "2026-10-30T04:46:00.000Z",
-      "summary": "Hong Kong officials’ apology over the deadly Tai Po blaze nearly a year ago came too late, residents of the fire-ravaged estate have said, as they urged authorities to learn from the disaster and pursue long-term reforms. Several Wang Fuk Court residents also said on Thursday the resignation of housing minister Winnie Ho Wing-yin could not answer for cross-departmental failings, adding that institutional overhaul would be ineffective unless officials enforced rules, exercised sound judgment and...",
+      "url": "https://www.scmp.com/news/hong-kong/article/3372863/3-hong-kong-chinese-language-newspapers-raise-retail-prices-hk3",
+      "publishedAt": "2026-11-01T03:44:51.000Z",
+      "summary": "Three Chinese-language newspapers in Hong Kong have raised their retail prices by HK$3 (40 US cents) this month, marking the first sector-wide adjustment in two years. Ming Pao’s price rise took effect on Sunday, increasing its single-copy price from HK$12 to HK$15, up 25 per cent. Two financial broadsheets will follow suit on Monday. The Hong Kong Economic Times (HKET) will raise its price from HK$12 to HK$15, while the Hong Kong Economic Journal (HKEJ) will increase its price by 20 per cent...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors",
-          "publishedAt": "2026-10-30T04:46:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "公共安全",
-        "专题·中国与世界"
-      ],
-      "score": 68,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "4349cb18cd1ee46c1783c591",
-      "isContinuation": false,
-      "titleZh": "“为何耗时11个月？”：大埔火灾幸存者认为道歉为时已晚",
-      "summaryZh": "香港官员就去年发生的大埔致命火灾道歉，但受灾居民认为道歉太迟且无法解决跨部门失职问题。居民呼吁进行制度性改革，而非仅靠官员辞职。",
-      "whyImportant": "该事件凸显了香港公众对政府危机处理效率及问责机制的深层不满。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0c5c9c1f501cbbcd",
-      "title": "China’s optical suppliers extend sell-off as fears of slower AI growth trump upbeat earnings",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings",
-      "publishedAt": "2026-10-30T04:27:35.000Z",
-      "summary": "Shares of major Chinese optical communications suppliers slumped on Friday before clawing back some of their losses, extending a two-day sell-off despite upbeat third-quarter earnings driven by the global artificial intelligence infrastructure boom. During morning trading in Shenzhen, Chengdu-based Eoptolink Technology dropped as much as 15 per cent, while Suzhou TFC Communication slid 10.3 per cent and industry leader Zhongji Innolight fell over 7 per cent. By the midday break, the trio had...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings",
-          "publishedAt": "2026-10-30T04:27:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "da7725c0636d2c6eb86826f1",
-      "isContinuation": false,
-      "titleZh": "中国光通信供应商股价遭抛售，对AI增长放缓的担忧盖过财报利好",
-      "summaryZh": "尽管第三季度财报表现强劲，但中国主要光通信供应商股价仍出现大幅下跌。市场担忧人工智能基础设施增长放缓，导致投资者抛售相关股票。",
-      "whyImportant": "这反映了资本市场对AI行业高估值及未来增长可持续性的敏感与谨慎态度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c567dba33885db9a",
-      "title": "Development minister on accountability: I am just a sailor following my captain",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3372651/ai-system-screen-contractors-mid-2027-part-sweeping-tai-po-fire-reforms",
-      "publishedAt": "2026-10-30T02:29:12.000Z",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account. Hong Kong authorities will provide more details about reforms to tackle bid-rigging and enhance oversight of building maintenance projects, in response to the city’s deadliest fire in decades. The government will hold two press conferences on Friday to provide details about the reforms, after an independent committee that investigated the Tai Po fire pointed to inadequacies in the government’s...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3372651/ai-system-screen-contractors-mid-2027-part-sweeping-tai-po-fire-reforms",
-          "publishedAt": "2026-10-30T02:29:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "d35e39d9cda090ad479e885d",
-      "isContinuation": false,
-      "titleZh": "发展局局长谈问责：我只是跟随船长的水手",
-      "summaryZh": "针对香港近年来最严重的火灾事故，政府将公布关于打击围标及加强楼宇维修监管的改革细节。此前独立调查委员会指出政府在监管方面存在不足。",
-      "whyImportant": "政府对火灾事故的后续改革回应，直接关系到香港楼宇安全管理及公共问责机制的有效性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b0284ed19ca6f9d0",
-      "title": "Hong Kong’s M+ forges new alliance with MoMA and Centre Pompidou to redefine museum loans",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
-      "publishedAt": "2026-10-30T03:15:06.000Z",
-      "summary": "Hong Kong’s M+ museum, New York’s Museum of Modern Art (MoMA) and the Centre Pompidou in Paris signed an agreement on October 30 to establish a three-way cultural alliance, aiming to redefine how visual culture is collected, exhibited and shared globally. The framework agreement, signed at M+ in the West Kowloon Cultural District, departs from conventional short-term blockbuster touring exhibitions and fee-based satellite franchises. With no money changing hands, the institutions will focus on...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
-          "publishedAt": "2026-10-30T03:15:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "专题·中国与世界"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "986d1306351d48e29c448703",
-      "isContinuation": false,
-      "titleZh": "香港M+博物馆与MoMA及蓬皮杜中心建立新联盟，重塑博物馆借展模式",
-      "summaryZh": "香港M+博物馆与纽约现代艺术博物馆（MoMA）及巴黎蓬皮杜中心签署协议，建立三方文化联盟。该合作旨在通过非商业化的资源共享，重塑全球视觉文化的收藏与展示模式。",
-      "whyImportant": "此举提升了香港作为国际文化枢纽的地位，并探索了全球博物馆合作的新范式。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9ec81bb919a7af1b",
-      "title": "China leaders demand more loyalty and more initiative",
-      "source": "DW",
-      "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-29T16:16:00.000Z",
-      "summary": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-10-29T16:16:00.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/article/3372863/3-hong-kong-chinese-language-newspapers-raise-retail-prices-hk3",
+          "publishedAt": "2026-11-01T03:44:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -290,38 +179,78 @@
       "tags": [
         "中国重点",
         "经济",
-        "专题·中国与世界"
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 67,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "中国"
+        "经济"
       ],
-      "fingerprint": "78d0204d54e9365f5373044c",
+      "fingerprint": "3c5020b6842b70b4c21471eb",
       "isContinuation": false,
-      "titleZh": "中国领导层要求加强忠诚度与主动性",
-      "summaryZh": "中共会议强调了内部纪律，但未明确习近平的继任者问题。在国际地缘政治紧张及国内经济放缓的背景下，党内对不稳定性表现出担忧。",
-      "whyImportant": "此举反映了中国在复杂内外部环境下对政治稳固与执行力的进一步强化。",
+      "titleZh": "香港三家中文报纸零售价上调3港元",
+      "summaryZh": "香港三家中文报纸本月起将零售价上调3港元，这是该行业两年来首次集体调价。明报、香港经济日报及香港经济日报旗下的财经报刊均在调整之列。",
+      "whyImportant": "报业集体涨价反映了传统媒体在运营成本上升压力下的生存挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "bed484949ae784d1",
-      "title": "China tests powerful AI that could one day be used on submarines",
+      "id": "9100c911744b0b13",
+      "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+      "source": "DW",
+      "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-01T01:53:00.000Z",
+      "summary": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-11-01T01:53:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "d7b4a4c6583cab3a3d728bde",
+      "isContinuation": false,
+      "titleZh": "FBI称朝鲜是币安60亿美元加密货币被盗案的幕后黑手",
+      "summaryZh": "FBI指出，此次盗窃案与名为“TraderTraitor”的实体进行的恶意网络活动有关。该组织此前曾策划了去年针对Bybit的15亿美元黑客攻击。",
+      "whyImportant": "该指控进一步证实了国际执法机构对朝鲜网络攻击能力的关注及其对全球金融系统的破坏性影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0c598f15953ccbe0",
+      "title": "Hong Kong may raise GDP forecast as growth could hit 5-year high: Paul Chan",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
-      "publishedAt": "2026-10-29T14:43:53.000Z",
-      "summary": "China has showcased artificial intelligence (AI) technology alongside 7,000-metre (23,000-feet) deep-sea trials of its upgraded Jiaolong submersible, highlighting the potential for similar systems to support decision-making and emergency responses aboard nuclear-powered submarines. The Chinese crewed submersible reached a maximum depth of 7,056.9 metres during three dives in the Philippine Basin in the western Pacific Ocean, according to state news agency Xinhua on October 27. The trials...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan",
+      "publishedAt": "2026-10-31T10:20:59.000Z",
+      "summary": "Hong Kong’s annual economic growth may hit a five-year high, the finance chief has said, raising the possibility of an upward revision to the current forecast of 3.5 to 4.5 per cent for 2026. Financial Secretary Paul Chan Mo-po said on Saturday that coming third-quarter figures indicated sustained momentum, noting the economy grew by 5.1 per cent in the first half of 2026 over a year earlier. “Although the third-quarter figures have not yet been released, I can share that exports remained very...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
-          "publishedAt": "2026-10-29T14:43:53.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan",
+          "publishedAt": "2026-10-31T10:20:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -330,123 +259,84 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "能源",
-        "专题·中国与世界"
+        "经济",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
       "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
+        "economy",
+        "经济"
       ],
-      "fingerprint": "1175454a5c5faed89a529b74",
+      "fingerprint": "809455193a79d74bd4878db8",
       "isContinuation": false,
-      "titleZh": "中国测试强大人工智能，未来或应用于潜艇",
-      "summaryZh": "中国在“蛟龙号”深潜器7000米深海试验中展示了人工智能技术。该系统未来有望支持核潜艇的决策制定与应急响应。",
-      "whyImportant": "这项技术展示了中国在军事智能化领域的进展，可能提升其水下作战能力。",
+      "titleZh": "香港财政司司长：经济增长或创五年新高，可能上调GDP预测",
+      "summaryZh": "香港财政司司长陈茂波表示，得益于上半年5.1%的增长及出口表现，香港今年经济增长有望创五年新高。政府正考虑上调此前3.5%至4.5%的年度增长预测。",
+      "whyImportant": "经济增长预期上调显示香港经济在外部环境挑战下展现出较强的韧性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "edece0edcb23d772",
+      "title": "Both Japan and China can help Bangladesh reach its full potential",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential",
+      "publishedAt": "2026-10-31T08:30:08.000Z",
+      "summary": "In the Land of the Rising Sun, Bangladesh looks forward to a new dawn. The hope that comes with Prime Minister Tarique Rahman’s visit to Japan goes beyond the deals signed or the financial support expected. It shows a country that has emerged from authoritarian rule and wants to turn its new political voice into bigger economic chances and freedom of choice. For a government chosen by the people, foreign policy must answer one question: how does it make life better for the people who gave it...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential",
+          "publishedAt": "2026-10-31T08:30:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "军事与安全",
+        "国际组织",
+        "专题·全球经济与金融"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "581307fb9df8383611ac46aa",
+      "isContinuation": false,
+      "titleZh": "日本和中国均可助力孟加拉国充分发挥其潜力",
+      "summaryZh": "孟加拉国总理塔里克·拉赫曼访问日本，标志着该国在摆脱威权统治后寻求经济机遇与外交自主。孟加拉国政府正致力于通过务实的外交政策，利用与日本及中国的合作来改善民生。",
+      "whyImportant": "这体现了孟加拉国在后威权时代通过平衡大国关系以寻求经济发展和国家利益最大化的战略考量。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "11af3731112fdc90",
-      "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-      "publishedAt": "2026-10-30T05:31:26.000Z",
-      "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email, free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s highest court handed down its decision on two appeals regarding her triple murder case. The court of appeal ruled on the two appeals on Friday, after justices Lesley Taylor, Stephen McLeish and Peter Kidd heard arguments from her legal team and prosecutors in August. Continue reading...",
+      "id": "2763862c82c379ae",
+      "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+      "publishedAt": "2026-10-31T23:49:22.000Z",
+      "summary": "The theft of billions of dollars from Binance within a matter of minutes, the biggest cryptocurrency heist in history, was orchestrated by North Korean hackers, the FBI said on Saturday. The Federal Bureau of Investigation said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a US$1.5 billion Bybit hack last year. The FBI asked cryptocurrency exchanges, blockchain analytics companies and others to block...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-          "publishedAt": "2026-10-30T05:31:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7bed659579585902c30fffd2",
-      "isContinuation": false,
-      "titleZh": "艾琳·帕特森上诉失败，因毒蘑菇谋杀案被判终身监禁且不得假释",
-      "summaryZh": "维多利亚州上诉法院驳回了艾琳·帕特森针对其三项谋杀罪名的上诉。她因在一次致命的惠灵顿牛排午餐中导致三人死亡，被判处终身监禁且不得假释。",
-      "whyImportant": "此判决终结了这起备受关注的毒蘑菇谋杀案的法律程序，维持了对被告的最高刑罚。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0cae19cbf9a7a51f",
-      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-      "publishedAt": "2026-10-29T22:36:06.000Z",
-      "summary": "Patrick Stewart, who rose from poverty in England to become an accomplished Shakespearean stage actor and then achieved global stardom as the erudite Captain Jean-Luc Picard in ⁠television’s Star Trek: The Next Generation and the telepathic Professor Charles ⁠Xavier in the X-Men films, has died at the age of 86. Stewart, knighted in 2010 by ⁠Queen Elizabeth for his contributions to drama, died at his home in Los Angeles, according to a statement on his social media account. “We announce with...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-          "publishedAt": "2026-10-29T22:36:06.000Z"
-        },
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372639/patrick-stewart-star-trek-and-x-men-fame-dies-86",
-          "publishedAt": "2026-10-29T20:17:56.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ba86a262563a07862d21ad27",
-      "isContinuation": false,
-      "titleZh": "《星际迷航》皮卡德舰长与《X战警》演员帕特里克·斯图尔特去世，享年86岁",
-      "summaryZh": "曾饰演皮卡德舰长和X教授的著名演员帕特里克·斯图尔特在洛杉矶家中去世，享年86岁。他从贫困中崛起，凭借在莎士比亚戏剧及影视作品中的卓越表现享誉全球。",
-      "whyImportant": "斯图尔特的离世标志着一位在舞台与银幕上均有深远影响的演艺界巨星的陨落。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e4250b542a9e55a0",
-      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-      "publishedAt": "2026-10-29T12:00:00.000Z",
-      "summary": "Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-          "publishedAt": "2026-10-29T12:00:00.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+          "publishedAt": "2026-10-31T23:49:22.000Z"
         }
       ],
       "sourceCount": 1,
@@ -457,229 +347,193 @@
         "全球焦点",
         "突发",
         "经济",
-        "军事与安全",
-        "科技",
-        "能源"
-      ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e29075a35057e9b62d23aa05",
-      "isContinuation": false,
-      "titleZh": "安理会直播：新技术能否保障全球航道安全？",
-      "summaryZh": "廉价无人机、自动驾驶船只和网络攻击正威胁着全球航运安全。联合国安理会正在讨论如何利用新兴技术来保护海员、全球贸易及能源供应。",
-      "whyImportant": "随着航运威胁的演变，国际社会正寻求通过技术手段应对全球供应链面临的新挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "92d460d43d7c7830",
-      "title": "Former Sydney childcare worker Ashley Paul Griffith hit with 202 more abuse charges",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
-      "publishedAt": "2026-10-30T05:14:17.000Z",
-      "summary": "NSW police say charges include child rape and relate to 23 alleged victims aged between one and five at a Sydney childcare centre Get our breaking news email, free app or daily news podcast One of Australia’s most notorious paedophiles is facing hundreds more child abuse charges, including for the alleged rape of children as young as one. Days after being extradited from Queensland to New South Wales, Ashley Paul Griffith was hit with 202 charges dating from between 2014 and 2017, with police labelling the allegations “deeply disturbing”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
-          "publishedAt": "2026-10-30T05:14:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f1d3271f24a3e860ab8e8d43",
-      "isContinuation": false,
-      "titleZh": "前悉尼托儿所员工阿什利·保罗·格里菲斯再遭202项虐待指控",
-      "summaryZh": "澳大利亚警方对前托儿所员工阿什利·保罗·格里菲斯追加了202项虐待指控，其中包括针对多名幼童的强奸指控。这些罪行涉及2014年至2017年间的23名受害者。",
-      "whyImportant": "此案因涉及大量受害者及极其恶劣的犯罪性质，在澳大利亚引发了广泛的社会关注与愤怒。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b5f849ef9045e664",
-      "title": "Crypto exchange Binance freezes billions in funds amid potential $6.3bn security breach",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-      "publishedAt": "2026-10-30T05:06:47.000Z",
-      "summary": "Breach may have started with a hacked laptop belonging to engineer, in incident analysts say could be of the most significant intrusions on record Binance, the world’s largest cryptocurrency exchange, has said it’s investigating reports of a potential $6.3bn security breach that analysts said could amount to the most significant incident relating to digital assets on record. It wasn’t immediately clear the extent of the damage hackers might have been able to cause, and Binance did not explicitly confirmed that funds had been stolen. The company said its teams are “working around the clock” to resolve the issue. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-          "publishedAt": "2026-10-30T05:06:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
         "金融",
-        "军事与安全"
+        "专题·全球经济与金融"
       ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8277406a9652da99e8448e50",
-      "isContinuation": false,
-      "titleZh": "加密货币交易所币安因潜在的63亿美元安全漏洞冻结资金",
-      "summaryZh": "全球最大的加密货币交易所币安正在调查一起可能涉及63亿美元的安全漏洞事件。分析人士认为，这可能是数字资产领域有史以来最严重的入侵事件之一。",
-      "whyImportant": "此次潜在的安全漏洞对全球加密货币市场及投资者信心构成了重大威胁。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7a687dcaac3ca08b",
-      "title": "Wildlife Trusts hit £30m target to buy and rewild huge Northumberland estate",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate",
-      "publishedAt": "2026-10-30T05:00:44.000Z",
-      "summary": "About 25,000 members of public chip in £17m towards 3,800-hectare Rothbury estate, described as ‘once-in-a-generation opportunity’ One of the most ambitious nature recovery projects ever undertaken in England can go ahead after campaigners announced they had raised £30m to buy an estate in Northumberland. The Wildlife Trusts’ bid to buy the Rothbury estate, an area the size of Athens, had been championed by David Attenborough who on Friday thanked the public for their help. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate",
-          "publishedAt": "2026-10-30T05:00:44.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8ac0994001838173742a1e10",
-      "isContinuation": false,
-      "titleZh": "野生动物信托基金筹集3000万英镑，用于购买并重塑诺森伯兰郡大片土地",
-      "summaryZh": "在约2.5万名公众的捐助下，野生动物信托基金成功筹集3000万英镑，用于购买诺森伯兰郡的罗斯伯里庄园。该项目旨在进行大规模的自然恢复，得到了大卫·爱登堡的支持。",
-      "whyImportant": "这一大规模的土地收购项目被视为英国自然保护领域一次重要的生态修复尝试。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c567dba33885db9a",
-      "title": "Development minister on accountability: I am just a sailor following my captain",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3372651/ai-system-screen-contractors-mid-2027-part-sweeping-tai-po-fire-reforms",
-      "publishedAt": "2026-10-30T02:29:12.000Z",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account. Hong Kong authorities will provide more details about reforms to tackle bid-rigging and enhance oversight of building maintenance projects, in response to the city’s deadliest fire in decades. The government will hold two press conferences on Friday to provide details about the reforms, after an independent committee that investigated the Tai Po fire pointed to inadequacies in the government’s...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3372651/ai-system-screen-contractors-mid-2027-part-sweeping-tai-po-fire-reforms",
-          "publishedAt": "2026-10-30T02:29:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "d35e39d9cda090ad479e885d",
-      "isContinuation": false,
-      "titleZh": "发展局局长谈问责：我只是跟随船长的水手",
-      "summaryZh": "针对香港近年来最严重的火灾事故，政府将公布关于打击围标及加强楼宇维修监管的改革细节。此前独立调查委员会指出政府在监管方面存在不足。",
-      "whyImportant": "政府对火灾事故的后续改革回应，直接关系到香港楼宇安全管理及公共问责机制的有效性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4f7661da811030c5",
-      "title": "Polymarket temporarily suspends trading on international platform due to security incident",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
-      "publishedAt": "2026-10-29T23:20:16.000Z",
-      "summary": "Security incident linked to performance-monitoring tool spurred platform to halt trading for about an hour Polymarket temporarily halted trading on its international platform on Thursday because of a security incident that compromised a third-party provider, the company said. Trading was paused for about an hour and resumed on Thursday afternoon. The company has promised to fully reimburse any affected traders. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
-          "publishedAt": "2026-10-29T23:20:16.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
+        "trade",
         "经济",
-        "金融",
-        "军事与安全"
+        "金融"
       ],
-      "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "321a79bff8b28cc65c8eac1a",
+      "fingerprint": "d851886b56eeba75654a5697",
       "isContinuation": false,
-      "titleZh": "Polymarket因安全事件暂时暂停国际平台交易",
-      "summaryZh": "预测市场平台Polymarket因第三方供应商的安全漏洞，暂停了其国际平台的交易约一小时。公司承诺将全额赔偿受影响的交易者，目前交易已恢复。",
-      "whyImportant": "此次事件凸显了预测市场平台在依赖第三方服务时所面临的网络安全风险。",
+      "titleZh": "FBI指控朝鲜策划了史上最大规模的币安加密货币盗窃案",
+      "summaryZh": "美国联邦调查局（FBI）表示，币安近期发生的数十亿美元被盗事件是史上最大规模的加密货币劫案，系朝鲜黑客所为。该攻击与名为“TraderTraitor”的黑客组织有关，该组织此前也曾参与去年针对Bybit的15亿美元黑客攻击。",
+      "whyImportant": "此事件凸显了加密货币交易所面临的严峻安全威胁以及朝鲜利用网络犯罪规避制裁的持续风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9ec81bb919a7af1b",
-      "title": "China leaders demand more loyalty and more initiative",
+      "id": "9100c911744b0b13",
+      "title": "FBI says North Korea behind $6 billion Binance crypto theft",
       "source": "DW",
-      "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-29T16:16:00.000Z",
-      "summary": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
+      "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-01T01:53:00.000Z",
+      "summary": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
       "language": "en",
       "region": "europe",
       "crossSources": [
         {
           "source": "DW",
-          "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-10-29T16:16:00.000Z"
+          "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-11-01T01:53:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "d7b4a4c6583cab3a3d728bde",
+      "isContinuation": false,
+      "titleZh": "FBI称朝鲜是币安60亿美元加密货币被盗案的幕后黑手",
+      "summaryZh": "FBI指出，此次盗窃案与名为“TraderTraitor”的实体进行的恶意网络活动有关。该组织此前曾策划了去年针对Bybit的15亿美元黑客攻击。",
+      "whyImportant": "该指控进一步证实了国际执法机构对朝鲜网络攻击能力的关注及其对全球金融系统的破坏性影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fa3ec50660c85aec",
+      "title": "What we know about latest efforts to end US war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+      "publishedAt": "2026-11-01T03:24:02.000Z",
+      "summary": "The foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+          "publishedAt": "2026-11-01T03:24:02.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3a84cc6cd86ddb40c537816e",
+      "isContinuation": false,
+      "titleZh": "关于结束美国对伊朗战争的最新努力有哪些进展",
+      "summaryZh": "美国和伊朗的外交部长均表示，通过外交途径结束战争仍有可能性。双方正就此进行相关沟通与探讨。",
+      "whyImportant": "这表明尽管局势紧张，但双方仍保留了通过外交手段解决冲突的意愿，对地区稳定具有重要意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d0de6024512eb15e",
+      "title": "‘Flirtatious’ US$2,500 photo shoots for ‘lonely’ middle-aged women spark backlash in China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372860/flirtatious-us2500-photo-shoots-lonely-middle-aged-women-spark-backlash-china",
+      "publishedAt": "2026-11-01T02:00:21.000Z",
+      "summary": "A Chinese photographer is facing fierce public backlash for charging middle-aged women inflated fees while allegedly subjecting them to sexually suggestive remarks during photo shoots. Known online as “Duan Gongzi,” 48-year-old army veteran Duan Xiaozhou has amassed nearly 400,000 followers on Douyin. At his Wuhan studio, he charges 16,800 yuan (US$2,500) for 36 unedited portraits. Duan promotes his sessions as empathetic exchanges intended to capture clients’ authentic selves. But...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372860/flirtatious-us2500-photo-shoots-lonely-middle-aged-women-spark-backlash-china",
+          "publishedAt": "2026-11-01T02:00:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "abbfa12a8cf5d0d49de19979",
+      "isContinuation": false,
+      "titleZh": "中国摄影师向“孤独”中年女性收取高额费用拍摄“调情”照片引发争议",
+      "summaryZh": "一名被称为“段公子”的摄影师因向中年女性收取高额拍摄费，并在拍摄过程中发表性暗示言论而遭到公众强烈抵制。尽管他声称拍摄旨在捕捉客户的真实自我，但其行为引发了关于职业道德和剥削心理脆弱群体的广泛讨论。",
+      "whyImportant": "该事件反映了社会对针对特定群体进行商业剥削行为的敏感度提升，以及对网络营销伦理的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9a8fed8d5415a483",
+      "title": "Russia surpasses France in African youth appeal, still trails China: survey",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372843/russia-surpasses-france-african-youth-appeal-still-trails-china-survey",
+      "publishedAt": "2026-11-01T02:00:17.000Z",
+      "summary": "Russia’s influence has surged among young people across Africa in recent years, leaping over former colonial power France while still trailing China, a survey of African youths has found. Many young Africans now perceive Russia to be an ally, observers said, warning its rivals to take the shift seriously as the continent becomes increasingly critical to both Moscow and Beijing. According to the African Youth Survey commissioned by the South Africa-based Ichikowitz Family Foundation, 54 per cent...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372843/russia-surpasses-france-african-youth-appeal-still-trails-china-survey",
+          "publishedAt": "2026-11-01T02:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c238ff6f6a21d457ab941b73",
+      "isContinuation": false,
+      "titleZh": "调查显示：俄罗斯在非洲青年中的影响力已超过法国，但仍落后于中国",
+      "summaryZh": "一项针对非洲青年的调查发现，俄罗斯在非洲的影响力近年来显著上升，已超过前殖民宗主国法国，但仍排在中国之后。许多非洲年轻人将俄罗斯视为盟友，观察人士警告称，随着非洲战略地位的提升，各国应重视这一地缘政治格局的变化。",
+      "whyImportant": "这一趋势表明非洲在国际地缘政治竞争中的重要性日益凸显，大国在该地区的影响力博弈正在加剧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "edece0edcb23d772",
+      "title": "Both Japan and China can help Bangladesh reach its full potential",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential",
+      "publishedAt": "2026-10-31T08:30:08.000Z",
+      "summary": "In the Land of the Rising Sun, Bangladesh looks forward to a new dawn. The hope that comes with Prime Minister Tarique Rahman’s visit to Japan goes beyond the deals signed or the financial support expected. It shows a country that has emerged from authoritarian rule and wants to turn its new political voice into bigger economic chances and freedom of choice. For a government chosen by the people, foreign policy must answer one question: how does it make life better for the people who gave it...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential",
+          "publishedAt": "2026-10-31T08:30:08.000Z"
         }
       ],
       "sourceCount": 1,
@@ -689,38 +543,149 @@
       "tags": [
         "中国重点",
         "经济",
-        "专题·中国与世界"
+        "军事与安全",
+        "国际组织",
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "中国"
+        "经济"
       ],
-      "fingerprint": "78d0204d54e9365f5373044c",
+      "fingerprint": "581307fb9df8383611ac46aa",
       "isContinuation": false,
-      "titleZh": "中国领导层要求加强忠诚度与主动性",
-      "summaryZh": "中共会议强调了内部纪律，但未明确习近平的继任者问题。在国际地缘政治紧张及国内经济放缓的背景下，党内对不稳定性表现出担忧。",
-      "whyImportant": "此举反映了中国在复杂内外部环境下对政治稳固与执行力的进一步强化。",
+      "titleZh": "日本和中国均可助力孟加拉国充分发挥其潜力",
+      "summaryZh": "孟加拉国总理塔里克·拉赫曼访问日本，标志着该国在摆脱威权统治后寻求经济机遇与外交自主。孟加拉国政府正致力于通过务实的外交政策，利用与日本及中国的合作来改善民生。",
+      "whyImportant": "这体现了孟加拉国在后威权时代通过平衡大国关系以寻求经济发展和国家利益最大化的战略考量。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "bed484949ae784d1",
-      "title": "China tests powerful AI that could one day be used on submarines",
+      "id": "e642227cd50da14b",
+      "title": "Singapore turns up heat on power-hungry air conditioning with cool revolution",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
-      "publishedAt": "2026-10-29T14:43:53.000Z",
-      "summary": "China has showcased artificial intelligence (AI) technology alongside 7,000-metre (23,000-feet) deep-sea trials of its upgraded Jiaolong submersible, highlighting the potential for similar systems to support decision-making and emergency responses aboard nuclear-powered submarines. The Chinese crewed submersible reached a maximum depth of 7,056.9 metres during three dives in the Philippine Basin in the western Pacific Ocean, according to state news agency Xinhua on October 27. The trials...",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372868/singapore-turns-heat-power-hungry-air-conditioning-cool-revolution",
+      "publishedAt": "2026-11-01T05:34:21.000Z",
+      "summary": "Long dubbed an “air-conditioned nation”, Singapore is experimenting with cooling alternatives from chilled beams to “passive displacement” to curb its thirst for energy-guzzling air conditioning. The city state has the highest per-capita air conditioner ownership rate in Southeast Asia, with about 99 per cent of private residences equipped with cooling units. Singapore’s local building sector accounts for one-fifth of its emissions, while cooling itself accounts for 40 to 60 per cent of a...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
-          "publishedAt": "2026-10-29T14:43:53.000Z"
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372868/singapore-turns-heat-power-hungry-air-conditioning-cool-revolution",
+          "publishedAt": "2026-11-01T05:34:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1a936b0434eefa86a4682121",
+      "isContinuation": false,
+      "titleZh": "新加坡掀起“降温革命”，应对高能耗空调使用问题",
+      "summaryZh": "作为东南亚空调普及率最高的国家，新加坡正尝试通过冷梁和被动置换通风等替代技术来减少对空调的依赖。建筑业占该国排放量的五分之一，其中空调能耗占比极高，政府正寻求更可持续的降温方案。",
+      "whyImportant": "新加坡的尝试为热带城市在应对气候变化和高能耗需求之间寻找平衡提供了参考范例。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a814439176582cb4",
+      "title": "Ex-Japanese adult film actress in intensive care after alleged drugging in Hong Kong",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372866/ex-japanese-adult-film-actress-intensive-care-after-alleged-drugging-hong-kong",
+      "publishedAt": "2026-11-01T04:45:02.000Z",
+      "summary": "Former Japanese adult film actress Mao Hamasaki was admitted to intensive care at a Hong Kong hospital after being allegedly drugged while working in a club in Tsim Sha Tsui on Sunday morning. Hamasaki’s manager published a post on her Facebook page at 5.40am on Sunday morning, with two photos showing her in a wheelchair being taken to an ambulance. The post read “drugged while working”. Hamasaki had performed as a disc jockey at several clubs on Halloween night until the early hours of Sunday,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372866/ex-japanese-adult-film-actress-intensive-care-after-alleged-drugging-hong-kong",
+          "publishedAt": "2026-11-01T04:45:02.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0c15353d782642838c73a2c0",
+      "isContinuation": false,
+      "titleZh": "日本前成人电影女星在香港疑遭下药，目前处于重症监护中",
+      "summaryZh": "日本前成人电影女星滨崎真绪在香港尖沙咀一家俱乐部工作时，疑似遭人下药，随后被送往医院重症监护室。其经纪人在社交媒体上发布了她被送往医院的照片，并确认了相关情况。",
+      "whyImportant": "该事件引发了公众对海外工作者安全保障以及香港夜生活场所治安问题的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fc9683a709a69213",
+      "title": "France protests enter third week as police fire tear gas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+      "publishedAt": "2026-11-01T04:31:24.000Z",
+      "summary": "Police used tear gas to disperse protesters as demonstrations entered a third week ahead in France.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+          "publishedAt": "2026-11-01T04:31:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e0e3a2afd3f595ff9252f3ff",
+      "isContinuation": false,
+      "titleZh": "法国抗议活动进入第三周，警方发射催泪瓦斯",
+      "summaryZh": "法国的抗议示威活动已进入第三周。警方在现场使用催泪瓦斯驱散抗议人群。",
+      "whyImportant": "此次持续的社会动荡反映了法国国内深层的政治与社会矛盾。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a40442af48a186b8",
+      "title": "Guangzhou reclaims crown as China’s busiest airport after US$8 billion mega expansion",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3372756/guangzhou-reclaims-crown-chinas-busiest-airport-after-us8-billion-mega-expansion",
+      "publishedAt": "2026-11-01T04:00:16.000Z",
+      "summary": "Guangzhou Baiyun International Airport has reclaimed its position as China’s busiest airport, handling more than 67 million passenger trips in the first nine months of 2026 following a major expansion last year, the municipal government announced. The airport overtook Shanghai Pudong International Airport, which handled 66.58 million passenger trips during the same period, official data showed. Baiyun had fallen behind Pudong in 2024 and 2025. The expansion took half a decade to complete and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3372756/guangzhou-reclaims-crown-chinas-busiest-airport-after-us8-billion-mega-expansion",
+          "publishedAt": "2026-11-01T04:00:16.000Z"
         }
       ],
       "sourceCount": 1,
@@ -729,43 +694,37 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "能源",
-        "专题·中国与世界"
+        "科技"
       ],
-      "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "1175454a5c5faed89a529b74",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6540383c18490e90969201ea",
       "isContinuation": false,
-      "titleZh": "中国测试强大人工智能，未来或应用于潜艇",
-      "summaryZh": "中国在“蛟龙号”深潜器7000米深海试验中展示了人工智能技术。该系统未来有望支持核潜艇的决策制定与应急响应。",
-      "whyImportant": "这项技术展示了中国在军事智能化领域的进展，可能提升其水下作战能力。",
+      "titleZh": "广州白云机场完成80亿美元扩建，重夺中国最繁忙机场称号",
+      "summaryZh": "广州白云国际机场在完成大规模扩建后，今年前九个月客流量超过6700万人次，重新成为中国最繁忙的机场。该机场成功超越了同期客流量为6658万人次的上海浦东国际机场。",
+      "whyImportant": "这一数据变化凸显了广州作为区域航空枢纽的竞争力提升及中国民航市场的复苏。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "8411b0a453396feb",
-      "title": "Lula’s win aids China ties; Hong Kong official quits over Tai Po fire: SCMP’s 7 highlights",
+      "id": "4c2bd5d97e27d0c8",
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
-      "publishedAt": "2026-10-30T04:15:06.000Z",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Win for Lula boosts China’s foothold and gives Brazil rare earths leverage Brazilian President Luiz Inacio Lula da Silva’s re-election preserves Beijing’s most critical foothold in Latin America, while positioning Brasilia to leverage...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+      "publishedAt": "2026-10-31T19:32:58.000Z",
+      "summary": "As Washington seeks to loosen China’s dominance over critical minerals, US Secretary of State Marco Rubio urged other members of the Group of 20 (G20) to strengthen supply chains and secure strategic trade routes as the group’s foreign ministers’ meeting drew to a close in Atlanta on Saturday. Rubio said there was a “universal recognition” among the G20 members over the importance of issues like critical minerals, supply chain security and freedom of navigation. “The first step is at least some...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
-          "publishedAt": "2026-10-30T04:15:06.000Z"
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+          "publishedAt": "2026-10-31T19:32:58.000Z"
         }
       ],
       "sourceCount": 1,
@@ -775,520 +734,41 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "科技",
-        "专题·中国与世界"
+        "外交",
+        "经济",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 72,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "beijing",
-        "中国"
-      ],
-      "fingerprint": "93452d57eed83580981c8518",
-      "isContinuation": false,
-      "titleZh": "卢拉胜选助力中巴关系；香港官员因大埔火灾辞职：南华早报七大要闻",
-      "summaryZh": "巴西总统卢拉的连任巩固了中国在拉美的关键立足点，并为巴西在稀土领域提供了筹码。此外，香港官员因大埔火灾事件辞职引发关注。",
-      "whyImportant": "这些事件涵盖了中国在拉美的外交布局及香港地方治理的挑战，具有广泛的政治影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0a8fff036740a63a",
-      "title": "Evergrande liquidators sell controlling stake in property services unit for US$513 million",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3372681/evergrande-liquidators-sell-controlling-stake-property-services-unit-us513-million",
-      "publishedAt": "2026-10-30T05:24:31.000Z",
-      "summary": "Liquidators of China Evergrande Group have agreed to sell a controlling stake in its property management arm to investment firm PAG for HK$4.03 billion (US$513.6 million), as they seek to recover assets for creditors owed US$46 billion. The sale of a 51.016 per cent stake in Evergrande Property Services could give the profitable business a new controlling shareholder after its parent used billions of yuan of its bank deposits as collateral for loans, leaving the company struggling to recover the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3372681/evergrande-liquidators-sell-controlling-stake-property-services-unit-us513-million",
-          "publishedAt": "2026-10-30T05:24:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "专题·中国与世界"
-      ],
-      "score": 70,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "中国"
-      ],
-      "fingerprint": "44d1a2d9dda8a0f26596d162",
-      "isContinuation": false,
-      "titleZh": "恒大清盘人以5.13亿美元出售物业服务部门控股权",
-      "summaryZh": "中国恒大集团清盘人已同意将物业管理部门的控股权以约5.13亿美元出售给投资公司PAG。此举旨在为债权人回收资产，以应对恒大面临的巨额债务问题。",
-      "whyImportant": "这是恒大债务重组过程中的重要资产处置，对债权人回收资金具有关键意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "eeec6a34a80c53a2",
-      "title": "‘Why did it take 11 months?’: apology too late for some Tai Po fire survivors",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors",
-      "publishedAt": "2026-10-30T04:46:00.000Z",
-      "summary": "Hong Kong officials’ apology over the deadly Tai Po blaze nearly a year ago came too late, residents of the fire-ravaged estate have said, as they urged authorities to learn from the disaster and pursue long-term reforms. Several Wang Fuk Court residents also said on Thursday the resignation of housing minister Winnie Ho Wing-yin could not answer for cross-departmental failings, adding that institutional overhaul would be ineffective unless officials enforced rules, exercised sound judgment and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors",
-          "publishedAt": "2026-10-30T04:46:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "公共安全",
-        "专题·中国与世界"
-      ],
-      "score": 68,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "4349cb18cd1ee46c1783c591",
-      "isContinuation": false,
-      "titleZh": "“为何耗时11个月？”：大埔火灾幸存者认为道歉为时已晚",
-      "summaryZh": "香港官员就去年发生的大埔致命火灾道歉，但受灾居民认为道歉太迟且无法解决跨部门失职问题。居民呼吁进行制度性改革，而非仅靠官员辞职。",
-      "whyImportant": "该事件凸显了香港公众对政府危机处理效率及问责机制的深层不满。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0c5c9c1f501cbbcd",
-      "title": "China’s optical suppliers extend sell-off as fears of slower AI growth trump upbeat earnings",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings",
-      "publishedAt": "2026-10-30T04:27:35.000Z",
-      "summary": "Shares of major Chinese optical communications suppliers slumped on Friday before clawing back some of their losses, extending a two-day sell-off despite upbeat third-quarter earnings driven by the global artificial intelligence infrastructure boom. During morning trading in Shenzhen, Chengdu-based Eoptolink Technology dropped as much as 15 per cent, while Suzhou TFC Communication slid 10.3 per cent and industry leader Zhongji Innolight fell over 7 per cent. By the midday break, the trio had...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings",
-          "publishedAt": "2026-10-30T04:27:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "da7725c0636d2c6eb86826f1",
-      "isContinuation": false,
-      "titleZh": "中国光通信供应商股价遭抛售，对AI增长放缓的担忧盖过财报利好",
-      "summaryZh": "尽管第三季度财报表现强劲，但中国主要光通信供应商股价仍出现大幅下跌。市场担忧人工智能基础设施增长放缓，导致投资者抛售相关股票。",
-      "whyImportant": "这反映了资本市场对AI行业高估值及未来增长可持续性的敏感与谨慎态度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b0284ed19ca6f9d0",
-      "title": "Hong Kong’s M+ forges new alliance with MoMA and Centre Pompidou to redefine museum loans",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
-      "publishedAt": "2026-10-30T03:15:06.000Z",
-      "summary": "Hong Kong’s M+ museum, New York’s Museum of Modern Art (MoMA) and the Centre Pompidou in Paris signed an agreement on October 30 to establish a three-way cultural alliance, aiming to redefine how visual culture is collected, exhibited and shared globally. The framework agreement, signed at M+ in the West Kowloon Cultural District, departs from conventional short-term blockbuster touring exhibitions and fee-based satellite franchises. With no money changing hands, the institutions will focus on...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
-          "publishedAt": "2026-10-30T03:15:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "专题·中国与世界"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "986d1306351d48e29c448703",
-      "isContinuation": false,
-      "titleZh": "香港M+博物馆与MoMA及蓬皮杜中心建立新联盟，重塑博物馆借展模式",
-      "summaryZh": "香港M+博物馆与纽约现代艺术博物馆（MoMA）及巴黎蓬皮杜中心签署协议，建立三方文化联盟。该合作旨在通过非商业化的资源共享，重塑全球视觉文化的收藏与展示模式。",
-      "whyImportant": "此举提升了香港作为国际文化枢纽的地位，并探索了全球博物馆合作的新范式。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "usa": [
-    {
-      "id": "0d090f2e11b13e08",
-      "title": "Why are Detroit gas stations selling discounted fuel in Trump’s name?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
-      "publishedAt": "2026-10-30T03:31:30.000Z",
-      "summary": "Gas stations promoted by President Trump are selling discounted fuel in Detroit as Americans grapple with rising prices.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
-          "publishedAt": "2026-10-30T03:31:30.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "能源"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b044ab426b7c1d64c5e4c753",
-      "isContinuation": false,
-      "titleZh": "为何底特律的加油站以特朗普的名义销售折扣燃油？",
-      "summaryZh": "在美国民众应对燃油价格上涨之际，底特律部分加油站以特朗普的名义提供折扣燃油促销。此举引发了关于政治与商业营销结合的讨论。",
-      "whyImportant": "该现象折射出美国当前高通胀背景下的政治极化与民生焦虑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a3a538e45faee860",
-      "title": "Pentagon accuses fired US general of leaking sensitive information",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372653/pentagon-accuses-fired-us-general-leaking-sensitive-information",
-      "publishedAt": "2026-10-30T02:12:12.000Z",
-      "summary": "The Pentagon has accused a newly ousted three-star general of leaking sensitive information to the media just hours after officials confirmed his removal from a top military planning post. Defence Secretary Pete Hegseth fired US Army Lieutenant General Brett Sylvia as head of strategy, plans and policy for the Joint Chiefs of Staff, a defence official said late Wednesday. Typically, the general in the position and their staff are responsible for generating and coordinating military plans for...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372653/pentagon-accuses-fired-us-general-leaking-sensitive-information",
-          "publishedAt": "2026-10-30T02:12:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c48e883bc5b6147090bd0827",
-      "isContinuation": false,
-      "titleZh": "五角大楼指控被解职的美国将军泄露敏感信息",
-      "summaryZh": "五角大楼证实，美国陆军中将布雷特·西尔维亚在被免去参谋长联席会议战略、计划和政策主管职务后，被指控向媒体泄露敏感信息。国防部长皮特·赫格塞斯下令将其解职，目前相关调查正在进行中。",
-      "whyImportant": "此事件涉及美军高层人事变动及国家安全机密泄露问题，引发了对军方内部信息管控的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "677893a90872d29d",
-      "title": "Hegseth reportedly fires high-ranking army strategist over alleged leaks",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
-      "publishedAt": "2026-10-29T22:01:56.000Z",
-      "summary": "Pentagon says it has referred leak case to justice department for criminal investigation The US defense secretary, Pete Hegseth, has reportedly dismissed Lt Gen Brett Sylvia, a high-ranking army strategist serving on the Pentagon’s joint staff, following allegations that he disclosed classified information to the public. The Pentagon announced on Thursday that it had referred an alleged information leak case for criminal investigation, maintaining that the removal of the senior general was essential “to protect sensitive information”, the Washington Post reported. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
-          "publishedAt": "2026-10-29T22:01:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "60ed7d34725659b35f2843ec",
-      "isContinuation": false,
-      "titleZh": "据报道，赫格塞斯因涉嫌泄密解雇了陆军高级战略家",
-      "summaryZh": "五角大楼已将布雷特·西尔维亚中将涉嫌泄露机密信息的案件移交司法部进行刑事调查。国防部长皮特·赫格塞斯表示，此举旨在保护敏感信息安全。",
-      "whyImportant": "该事件凸显了美国国防部对内部泄密行为的零容忍态度及法律追责的严肃性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7c7122dfb4209bd3",
-      "title": "President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/",
-      "publishedAt": "2026-10-29T16:27:20.000Z",
-      "summary": "The U.S. economy grew at a strong annual rate of 3.4% in the third quarter of 2026 — the strongest pace in a year. President Donald J. Trump’s America First agenda is delivering as promised: faster growth, historic levels of investment, and an economy that continues to outperform the so-called “experts.” Here’s what you need […] The post President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/",
-          "publishedAt": "2026-10-29T16:27:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
+        "trade",
         "经济"
       ],
-      "score": 53,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "79e0ba943eebd3d9539d4793",
+      "fingerprint": "a7ae5035e4582b9d7a0e197d",
       "isContinuation": false,
-      "titleZh": "特朗普总统释放美国经济活力：GDP激增，投资创多年新高",
-      "summaryZh": "2026年第三季度美国经济年化增长率达到3.4%，为一年来最快增速。白宫表示，特朗普的“美国优先”议程推动了经济增长和历史性的投资水平。",
-      "whyImportant": "该数据反映了当前美国政府经济政策的执行效果，并成为衡量其执政表现的关键指标。",
+      "titleZh": "G20外长亚特兰大会议结束，未就关键议题达成共识",
+      "summaryZh": "G20外长会议在亚特兰大闭幕，美国国务卿卢比奥呼吁成员国加强供应链安全并保障战略贸易路线。尽管各方承认关键矿产和航行自由的重要性，但会议未能就具体行动达成一致。",
+      "whyImportant": "会议结果显示全球主要经济体在供应链重组和地缘政治议题上仍存在显著分歧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "71fee8edd7df3537",
-      "title": "Ship reported on fire off Oman as Iran escalation fears mount",
-      "source": "DW",
-      "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-29T10:04:00.000Z",
-      "summary": "A ship in the Strait of Hormuz is reported to be on fire, a British maritime agency says. Iran has meanwhile said it has shot down another US drone as military tensions with Washington continue.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-10-29T10:04:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 47,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d8710a3157854fa28e5ec9ed",
-      "isContinuation": false,
-      "titleZh": "霍尔木兹海峡一艘船只起火，伊朗局势升级引发担忧",
-      "summaryZh": "英国海事机构报告称，霍尔木兹海峡有一艘船只起火。与此同时，伊朗声称击落了另一架美国无人机，加剧了与华盛顿之间的军事紧张局势。",
-      "whyImportant": "该地区局势的恶化可能对全球能源供应和地缘政治稳定产生重大影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "watch": [
-    {
-      "id": "33ce4c32ea32e63a",
-      "title": "Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
-      "publishedAt": "2026-10-30T02:47:58.000Z",
-      "summary": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email, free app or daily news podcast A Queensland court has heard claims that former Bachelor star Sam Wood used drugs and alcohol, engaged in a “party lifestyle” and that he “struggles with anger”, as Wood makes a second bid for bail on domestic violence charges. Wood, 46, from Melbourne, has been held in custody since his arrest on 4 October at Noosa. He was initially denied bail over allegations he choked and assaulted his wife, Snezana Wood, while the family was holidaying on the Sunshine Coast. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
-          "publishedAt": "2026-10-30T02:47:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 59,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "604bc0ff30a6e5f4d7a65fa5",
-      "isContinuation": false,
-      "titleZh": "萨姆·伍德因家庭暴力指控再次申请保释，法庭听取关于其“派对生活方式”及愤怒问题的陈述",
-      "summaryZh": "前《单身汉》明星萨姆·伍德因涉嫌在昆士兰州勒死并袭击其妻子而被拘留。法庭在审理其保释申请时，听取了关于其药物使用、酗酒及愤怒管理问题的证词。",
-      "whyImportant": "此案因涉及知名公众人物及严重的家庭暴力指控，在当地社会引发了广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1da8a030205e3a10",
-      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "publishedAt": "2026-10-30T02:40:26.000Z",
-      "summary": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-          "publishedAt": "2026-10-30T02:40:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 59,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "93255da850dd3e7a1c8d300d",
-      "isContinuation": false,
-      "titleZh": "内塔尼亚胡在未能获得多数席位后攻击以色列阿拉伯政党",
-      "summaryZh": "以色列总理内塔尼亚胡指责巴勒斯坦裔以色列政党在选举中存在欺诈行为。此前，其阵营在选举中未能获得组建政府所需的多数席位。",
-      "whyImportant": "此举加剧了以色列国内的政治分歧，并可能对未来的政府组建和民族关系产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9b067e6fd5564db8",
-      "title": "Will Tai Po fire reforms wipe out collusion in Hong Kong’s building maintenance industry?",
+      "id": "23e4c3355422171d",
+      "title": "HKT says US order ‘ceased’ as firm reportedly agrees to exit American market",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/article/3372635/will-tai-po-fire-reforms-wipe-out-collusion-hong-kongs-building-maintenance-industry",
-      "publishedAt": "2026-10-30T00:44:33.000Z",
-      "summary": "A raft of reforms to overhaul Hong Kong’s building maintenance sector has been hailed as a bold first step in tackling bid-rigging and other deep-rooted problems, but observers said its success would depend on the determination and persistence to implement them to restore public trust. They said the reforms signalled a departure from the government’s long-standing reliance on the self-discipline of industry professionals, but highlighted a notable absence of measures to tackle falsified...",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
+      "publishedAt": "2026-10-31T14:39:19.000Z",
+      "summary": "A leading Hong Kong telecommunications carrier has confirmed that an order requiring it to justify its operation in the United States has been ceased, after the company reportedly agreed to wind down its business under pressure from a US regulatory agency over national security concerns. A spokeswoman for Hong Kong Telecom (HKT) told the South China Morning Post on Saturday that the Order to Show Cause issued by the US Federal Communications Commission (FCC) in October requiring it to justify...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/article/3372635/will-tai-po-fire-reforms-wipe-out-collusion-hong-kongs-building-maintenance-industry",
-          "publishedAt": "2026-10-30T00:44:33.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 59,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "7dae83622ba5e083c2c4b55a",
-      "isContinuation": false,
-      "titleZh": "大埔火灾后的改革能否消除香港建筑维修行业的串通行为？",
-      "summaryZh": "香港针对建筑维修行业推出了一系列改革措施，旨在打击围标等深层问题。观察人士认为，改革成效取决于政府的执行决心，但目前仍缺乏针对伪造文件的具体措施。",
-      "whyImportant": "建筑维修行业的透明度直接关系到公共安全和市民的经济利益，是香港社会治理的重要议题。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "more": [],
-  "metadata": {
-    "fetched": 156,
-    "deduplicated": 155,
-    "selected": 23,
-    "translated": 23,
-    "untranslated": 0,
-    "minimumRequired": 21,
-    "featured": 8,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
-    {
-      "id": "8411b0a453396feb",
-      "title": "Lula’s win aids China ties; Hong Kong official quits over Tai Po fire: SCMP’s 7 highlights",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
-      "publishedAt": "2026-10-30T04:15:06.000Z",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Win for Lula boosts China’s foothold and gives Brazil rare earths leverage Brazilian President Luiz Inacio Lula da Silva’s re-election preserves Beijing’s most critical foothold in Latin America, while positioning Brasilia to leverage...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
-          "publishedAt": "2026-10-30T04:15:06.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
+          "publishedAt": "2026-10-31T14:39:19.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1298,243 +778,40 @@
       "tags": [
         "中国重点",
         "美国重点",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 72,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "beijing",
-        "中国"
-      ],
-      "fingerprint": "93452d57eed83580981c8518",
-      "isContinuation": false,
-      "titleZh": "卢拉胜选助力中巴关系；香港官员因大埔火灾辞职：南华早报七大要闻",
-      "summaryZh": "巴西总统卢拉的连任巩固了中国在拉美的关键立足点，并为巴西在稀土领域提供了筹码。此外，香港官员因大埔火灾事件辞职引发关注。",
-      "whyImportant": "这些事件涵盖了中国在拉美的外交布局及香港地方治理的挑战，具有广泛的政治影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0a8fff036740a63a",
-      "title": "Evergrande liquidators sell controlling stake in property services unit for US$513 million",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/banking-finance/article/3372681/evergrande-liquidators-sell-controlling-stake-property-services-unit-us513-million",
-      "publishedAt": "2026-10-30T05:24:31.000Z",
-      "summary": "Liquidators of China Evergrande Group have agreed to sell a controlling stake in its property management arm to investment firm PAG for HK$4.03 billion (US$513.6 million), as they seek to recover assets for creditors owed US$46 billion. The sale of a 51.016 per cent stake in Evergrande Property Services could give the profitable business a new controlling shareholder after its parent used billions of yuan of its bank deposits as collateral for loans, leaving the company struggling to recover the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3372681/evergrande-liquidators-sell-controlling-stake-property-services-unit-us513-million",
-          "publishedAt": "2026-10-30T05:24:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
         "金融",
-        "专题·中国与世界"
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 70,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 69,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "中国"
+        "market",
+        "金融"
       ],
-      "fingerprint": "44d1a2d9dda8a0f26596d162",
+      "fingerprint": "1130c4e301ef50cf69dc1cb2",
       "isContinuation": false,
-      "titleZh": "恒大清盘人以5.13亿美元出售物业服务部门控股权",
-      "summaryZh": "中国恒大集团清盘人已同意将物业管理部门的控股权以约5.13亿美元出售给投资公司PAG。此举旨在为债权人回收资产，以应对恒大面临的巨额债务问题。",
-      "whyImportant": "这是恒大债务重组过程中的重要资产处置，对债权人回收资金具有关键意义。",
+      "titleZh": "香港电讯称美国监管令已“终止”，据报将退出美国市场",
+      "summaryZh": "香港电讯确认，美国联邦通信委员会此前要求其说明运营合理性的命令已终止。据报道，该公司已同意在美方国家安全担忧的压力下逐步退出美国市场。",
+      "whyImportant": "此举反映了地缘政治因素对跨国电信企业在美运营环境的持续影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "eeec6a34a80c53a2",
-      "title": "‘Why did it take 11 months?’: apology too late for some Tai Po fire survivors",
+      "id": "65036de829fbe24a",
+      "title": "3 Hong Kong Chinese-language newspapers raise retail prices by HK$3",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors",
-      "publishedAt": "2026-10-30T04:46:00.000Z",
-      "summary": "Hong Kong officials’ apology over the deadly Tai Po blaze nearly a year ago came too late, residents of the fire-ravaged estate have said, as they urged authorities to learn from the disaster and pursue long-term reforms. Several Wang Fuk Court residents also said on Thursday the resignation of housing minister Winnie Ho Wing-yin could not answer for cross-departmental failings, adding that institutional overhaul would be ineffective unless officials enforced rules, exercised sound judgment and...",
+      "url": "https://www.scmp.com/news/hong-kong/article/3372863/3-hong-kong-chinese-language-newspapers-raise-retail-prices-hk3",
+      "publishedAt": "2026-11-01T03:44:51.000Z",
+      "summary": "Three Chinese-language newspapers in Hong Kong have raised their retail prices by HK$3 (40 US cents) this month, marking the first sector-wide adjustment in two years. Ming Pao’s price rise took effect on Sunday, increasing its single-copy price from HK$12 to HK$15, up 25 per cent. Two financial broadsheets will follow suit on Monday. The Hong Kong Economic Times (HKET) will raise its price from HK$12 to HK$15, while the Hong Kong Economic Journal (HKEJ) will increase its price by 20 per cent...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors",
-          "publishedAt": "2026-10-30T04:46:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "公共安全",
-        "专题·中国与世界"
-      ],
-      "score": 68,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "4349cb18cd1ee46c1783c591",
-      "isContinuation": false,
-      "titleZh": "“为何耗时11个月？”：大埔火灾幸存者认为道歉为时已晚",
-      "summaryZh": "香港官员就去年发生的大埔致命火灾道歉，但受灾居民认为道歉太迟且无法解决跨部门失职问题。居民呼吁进行制度性改革，而非仅靠官员辞职。",
-      "whyImportant": "该事件凸显了香港公众对政府危机处理效率及问责机制的深层不满。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0c5c9c1f501cbbcd",
-      "title": "China’s optical suppliers extend sell-off as fears of slower AI growth trump upbeat earnings",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings",
-      "publishedAt": "2026-10-30T04:27:35.000Z",
-      "summary": "Shares of major Chinese optical communications suppliers slumped on Friday before clawing back some of their losses, extending a two-day sell-off despite upbeat third-quarter earnings driven by the global artificial intelligence infrastructure boom. During morning trading in Shenzhen, Chengdu-based Eoptolink Technology dropped as much as 15 per cent, while Suzhou TFC Communication slid 10.3 per cent and industry leader Zhongji Innolight fell over 7 per cent. By the midday break, the trio had...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings",
-          "publishedAt": "2026-10-30T04:27:35.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 66,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
-      ],
-      "fingerprint": "da7725c0636d2c6eb86826f1",
-      "isContinuation": false,
-      "titleZh": "中国光通信供应商股价遭抛售，对AI增长放缓的担忧盖过财报利好",
-      "summaryZh": "尽管第三季度财报表现强劲，但中国主要光通信供应商股价仍出现大幅下跌。市场担忧人工智能基础设施增长放缓，导致投资者抛售相关股票。",
-      "whyImportant": "这反映了资本市场对AI行业高估值及未来增长可持续性的敏感与谨慎态度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c567dba33885db9a",
-      "title": "Development minister on accountability: I am just a sailor following my captain",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3372651/ai-system-screen-contractors-mid-2027-part-sweeping-tai-po-fire-reforms",
-      "publishedAt": "2026-10-30T02:29:12.000Z",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account. Hong Kong authorities will provide more details about reforms to tackle bid-rigging and enhance oversight of building maintenance projects, in response to the city’s deadliest fire in decades. The government will hold two press conferences on Friday to provide details about the reforms, after an independent committee that investigated the Tai Po fire pointed to inadequacies in the government’s...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3372651/ai-system-screen-contractors-mid-2027-part-sweeping-tai-po-fire-reforms",
-          "publishedAt": "2026-10-30T02:29:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "专题·中国与世界"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "d35e39d9cda090ad479e885d",
-      "isContinuation": false,
-      "titleZh": "发展局局长谈问责：我只是跟随船长的水手",
-      "summaryZh": "针对香港近年来最严重的火灾事故，政府将公布关于打击围标及加强楼宇维修监管的改革细节。此前独立调查委员会指出政府在监管方面存在不足。",
-      "whyImportant": "政府对火灾事故的后续改革回应，直接关系到香港楼宇安全管理及公共问责机制的有效性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b0284ed19ca6f9d0",
-      "title": "Hong Kong’s M+ forges new alliance with MoMA and Centre Pompidou to redefine museum loans",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
-      "publishedAt": "2026-10-30T03:15:06.000Z",
-      "summary": "Hong Kong’s M+ museum, New York’s Museum of Modern Art (MoMA) and the Centre Pompidou in Paris signed an agreement on October 30 to establish a three-way cultural alliance, aiming to redefine how visual culture is collected, exhibited and shared globally. The framework agreement, signed at M+ in the West Kowloon Cultural District, departs from conventional short-term blockbuster touring exhibitions and fee-based satellite franchises. With no money changing hands, the institutions will focus on...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
-          "publishedAt": "2026-10-30T03:15:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "专题·中国与世界"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": true,
-      "topicKeywords": [
-        "中国"
-      ],
-      "fingerprint": "986d1306351d48e29c448703",
-      "isContinuation": false,
-      "titleZh": "香港M+博物馆与MoMA及蓬皮杜中心建立新联盟，重塑博物馆借展模式",
-      "summaryZh": "香港M+博物馆与纽约现代艺术博物馆（MoMA）及巴黎蓬皮杜中心签署协议，建立三方文化联盟。该合作旨在通过非商业化的资源共享，重塑全球视觉文化的收藏与展示模式。",
-      "whyImportant": "此举提升了香港作为国际文化枢纽的地位，并探索了全球博物馆合作的新范式。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9ec81bb919a7af1b",
-      "title": "China leaders demand more loyalty and more initiative",
-      "source": "DW",
-      "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-29T16:16:00.000Z",
-      "summary": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-10-29T16:16:00.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/article/3372863/3-hong-kong-chinese-language-newspapers-raise-retail-prices-hk3",
+          "publishedAt": "2026-11-01T03:44:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1544,38 +821,76 @@
       "tags": [
         "中国重点",
         "经济",
-        "专题·中国与世界"
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 67,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "中国"
+        "经济"
       ],
-      "fingerprint": "78d0204d54e9365f5373044c",
+      "fingerprint": "3c5020b6842b70b4c21471eb",
       "isContinuation": false,
-      "titleZh": "中国领导层要求加强忠诚度与主动性",
-      "summaryZh": "中共会议强调了内部纪律，但未明确习近平的继任者问题。在国际地缘政治紧张及国内经济放缓的背景下，党内对不稳定性表现出担忧。",
-      "whyImportant": "此举反映了中国在复杂内外部环境下对政治稳固与执行力的进一步强化。",
+      "titleZh": "香港三家中文报纸零售价上调3港元",
+      "summaryZh": "香港三家中文报纸本月起将零售价上调3港元，这是该行业两年来首次集体调价。明报、香港经济日报及香港经济日报旗下的财经报刊均在调整之列。",
+      "whyImportant": "报业集体涨价反映了传统媒体在运营成本上升压力下的生存挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "bed484949ae784d1",
-      "title": "China tests powerful AI that could one day be used on submarines",
+      "id": "a8cb816ba4659d67",
+      "title": "Is Beijing’s 2027 military milestone now a US readiness deadline over Taiwan?",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
-      "publishedAt": "2026-10-29T14:43:53.000Z",
-      "summary": "China has showcased artificial intelligence (AI) technology alongside 7,000-metre (23,000-feet) deep-sea trials of its upgraded Jiaolong submersible, highlighting the potential for similar systems to support decision-making and emergency responses aboard nuclear-powered submarines. The Chinese crewed submersible reached a maximum depth of 7,056.9 metres during three dives in the Philippine Basin in the western Pacific Ocean, according to state news agency Xinhua on October 27. The trials...",
+      "url": "https://www.scmp.com/news/china/military/article/3372829/beijings-2027-military-milestone-now-us-readiness-deadline-over-taiwan",
+      "publishedAt": "2026-10-31T12:00:09.000Z",
+      "summary": "America’s push for 2027 combat readiness in the Indo-Pacific is raising questions over whether a year that US military officials linked to a possible People’s Liberation Army attack on Taiwan has instead become a planning benchmark. The preparations come despite a US intelligence assessment published in March that mainland Chinese leaders “do not currently plan” to attack Taiwan in 2027, “nor do they have a fixed timeline for achieving unification”. General Ronald Clark, commander of US Army...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
-          "publishedAt": "2026-10-29T14:43:53.000Z"
+          "url": "https://www.scmp.com/news/china/military/article/3372829/beijings-2027-military-milestone-now-us-readiness-deadline-over-taiwan",
+          "publishedAt": "2026-10-31T12:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 64,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a17dc192b016f5a3808c762f",
+      "isContinuation": false,
+      "titleZh": "北京的2027年军事里程碑是否已成为美国针对台湾的战备最后期限？",
+      "summaryZh": "美国在印太地区推进2027年战备目标，引发外界猜测该时间点是否已成为美军应对台海局势的规划基准。尽管美国情报评估显示目前并无明确的攻击时间表，但美军指挥官正加紧相关准备工作。",
+      "whyImportant": "这一规划基准的设定加剧了中美在台海问题上的战略博弈与紧张氛围。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0c598f15953ccbe0",
+      "title": "Hong Kong may raise GDP forecast as growth could hit 5-year high: Paul Chan",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan",
+      "publishedAt": "2026-10-31T10:20:59.000Z",
+      "summary": "Hong Kong’s annual economic growth may hit a five-year high, the finance chief has said, raising the possibility of an upward revision to the current forecast of 3.5 to 4.5 per cent for 2026. Financial Secretary Paul Chan Mo-po said on Saturday that coming third-quarter figures indicated sustained momentum, noting the economy grew by 5.1 per cent in the first half of 2026 over a year earlier. “Although the third-quarter figures have not yet been released, I can share that exports remained very...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan",
+          "publishedAt": "2026-10-31T10:20:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1584,121 +899,356 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "能源",
-        "专题·中国与世界"
+        "经济",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
       "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "china",
-        "chinese",
-        "中国"
+        "economy",
+        "经济"
       ],
-      "fingerprint": "1175454a5c5faed89a529b74",
+      "fingerprint": "809455193a79d74bd4878db8",
       "isContinuation": false,
-      "titleZh": "中国测试强大人工智能，未来或应用于潜艇",
-      "summaryZh": "中国在“蛟龙号”深潜器7000米深海试验中展示了人工智能技术。该系统未来有望支持核潜艇的决策制定与应急响应。",
-      "whyImportant": "这项技术展示了中国在军事智能化领域的进展，可能提升其水下作战能力。",
+      "titleZh": "香港财政司司长：经济增长或创五年新高，可能上调GDP预测",
+      "summaryZh": "香港财政司司长陈茂波表示，得益于上半年5.1%的增长及出口表现，香港今年经济增长有望创五年新高。政府正考虑上调此前3.5%至4.5%的年度增长预测。",
+      "whyImportant": "经济增长预期上调显示香港经济在外部环境挑战下展现出较强的韧性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "usa": [
+    {
+      "id": "adebf824deb84eb4",
+      "title": "Iran’s supreme leader warns US, Israel against war",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+      "publishedAt": "2026-10-31T14:16:26.000Z",
+      "summary": "Iran’s supreme leader Mojtaba Khamenei on Saturday warned the United States and Israel against returning to war, according to a written statement, following threats from the Islamic republic’s foes of a possible resumption of strikes. “If the enemies once again launch military or terrorist attacks, it is the armed forces of the Islamic Republic and the Iranian nation that will determine the time and conditions for ending them,” said a statement attributed to Khamenei posted on his website. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+          "publishedAt": "2026-10-31T14:16:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6e71ce92f764320f09fe77db",
+      "isContinuation": false,
+      "titleZh": "伊朗最高领袖警告美国和以色列不要发动战争",
+      "summaryZh": "伊朗最高领袖哈梅内伊发表声明，警告美国和以色列不要采取军事或恐怖袭击。他强调，若遭到攻击，伊朗武装力量和人民将决定反击的时间与条件。",
+      "whyImportant": "此番强硬表态进一步加剧了中东地区本已紧张的军事对峙风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "11af3731112fdc90",
-      "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+      "id": "f404abb855441559",
+      "title": "UK police should not have let US force take over airbase trial, MoD documents show",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-      "publishedAt": "2026-10-30T05:31:26.000Z",
-      "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email, free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s highest court handed down its decision on two appeals regarding her triple murder case. The court of appeal ruled on the two appeals on Friday, after justices Lesley Taylor, Stephen McLeish and Peter Kidd heard arguments from her legal team and prosecutors in August. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+      "publishedAt": "2026-10-31T13:30:43.000Z",
+      "summary": "According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of wrongly handing over the investigation of an American fighter pilot who strangled a British woman to the US military, according to documents obtained by the Guardian. Cambridgeshire police allowed the US military police to quickly take control of the investigation into Capt Jacob Wulfson after he had been accused of sexually assaulting Sarah Steele in his Cambridge flat. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-          "publishedAt": "2026-10-30T05:31:26.000Z"
+          "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+          "publishedAt": "2026-10-31T13:30:43.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发"
+        "美国重点",
+        "军事与安全",
+        "国际组织"
       ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7bed659579585902c30fffd2",
+      "fingerprint": "8004813808e8591c27c9c03d",
       "isContinuation": false,
-      "titleZh": "艾琳·帕特森上诉失败，因毒蘑菇谋杀案被判终身监禁且不得假释",
-      "summaryZh": "维多利亚州上诉法院驳回了艾琳·帕特森针对其三项谋杀罪名的上诉。她因在一次致命的惠灵顿牛排午餐中导致三人死亡，被判处终身监禁且不得假释。",
-      "whyImportant": "此判决终结了这起备受关注的毒蘑菇谋杀案的法律程序，维持了对被告的最高刑罚。",
+      "titleZh": "英国国防部文件显示：警方不应允许美军接管空军基地案件调查",
+      "summaryZh": "据《卫报》获取的文件显示，英国国防部官员私下指责剑桥郡警方违规，将一名美军飞行员涉嫌勒死英国女性的案件移交给美军处理。警方在接到指控后，迅速允许美军宪兵接管了对雅各布·沃尔夫森上尉的调查。",
+      "whyImportant": "此事件引发了关于司法管辖权及美英军事协议执行情况的争议，受到公众广泛关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0cae19cbf9a7a51f",
-      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+      "id": "1e3fe78264309bbd",
+      "title": "With ‘Kissinger moment’ over, US and China urged to foster new ‘bridge builders’",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372823/kissinger-moment-over-us-and-china-urged-foster-new-bridge-builders",
+      "publishedAt": "2026-10-31T11:00:12.000Z",
+      "summary": "Beijing and Washington have been urged to foster a new generation of talent to bridge gaps between the countries and strengthen people-to-people exchanges amid growing frictions and concerns about a lack of China expertise in the US. Academics and experts from the two countries gathered in Shanghai on Friday at the China-US Intergenerational Dialogue 2026. They were seeking a new crop of “bridge builders” like Henry Kissinger, the former US secretary of state who helped to engineer the historic...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372823/kissinger-moment-over-us-and-china-urged-foster-new-bridge-builders",
+          "publishedAt": "2026-10-31T11:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "027a2ff22f99b56bb45e633c",
+      "isContinuation": false,
+      "titleZh": "随着“基辛格时刻”结束，美中被敦促培养新一代“桥梁建设者”",
+      "summaryZh": "面对双边摩擦加剧及美国国内中国专业人才匮乏的担忧，北京和华盛顿被敦促培养新一代人才以加强民间交流。在上海举行的中美代际对话会议上，专家们呼吁寻找像基辛格那样能够弥合两国分歧的“桥梁建设者”。",
+      "whyImportant": "在当前地缘政治紧张背景下，加强两国人才交流被视为缓解对抗、促进长期稳定的关键。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1e34b1a854c2be35",
+      "title": "Starmer says UK must get closer to Europe as US relationship changes",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+      "publishedAt": "2026-10-31T13:32:25.000Z",
+      "summary": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM says The UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has said in his first significant political intervention since leaving No 10. The former prime minister warned European leaders of the threat posed by Russia, among others, and said the shift in relations with Washington during Donald Trump’s presidency was not likely to reset once he leaves the Oval Office. He accused them of being caught out by these new realities twice already. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+          "publishedAt": "2026-10-31T13:32:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 50,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "73176d9067680696273a538c",
+      "isContinuation": false,
+      "titleZh": "斯塔默称随着美英关系变化，英国必须与欧洲走得更近",
+      "summaryZh": "英国前首相斯塔默表示，随着美国日益成为不可靠的伙伴，英国及其他欧洲国家必须加强团结。他警告称，特朗普执政期间美英关系发生的转变即便在特朗普离任后也难以恢复原状。",
+      "whyImportant": "这一表态反映了欧洲政界对美国外交政策不确定性的深层忧虑，可能影响未来英国的战略重心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1581f6cb400fb1cd",
+      "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+      "publishedAt": "2026-10-31T16:13:17.000Z",
+      "summary": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such election amid a series of tight contests that will determine control of Congress. More than 50.5m early votes have been cast across the US as of Saturday morning, according to an analysis by the University of Florida. This is already nearly 5m more votes than the total number of early votes made in the last midterm elections, in 2022. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+          "publishedAt": "2026-10-31T16:13:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 47,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e7f84b7432e4ab5adfa02fd3",
+      "isContinuation": false,
+      "titleZh": "美国中期选举临近，提前投票人数已超5000万",
+      "summaryZh": "美国中期选举投票进入最后三天，提前投票人数创下历史新高。据佛罗里达大学分析，目前已有超过5050万张选票投出，比2022年中期选举的总提前投票数多出近500万。",
+      "whyImportant": "高投票率反映了选民对国会控制权争夺的高度关注，可能对选举最终结果产生重大影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "watch": [
+    {
+      "id": "edfb8281c909e6ea",
+      "title": "Far from home, close to grief: why millions of Filipino migrants dread Undas",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3372721/far-home-close-grief-why-millions-filipino-migrants-dread-undas",
+      "publishedAt": "2026-11-01T04:00:13.000Z",
+      "summary": "For over three decades, Dolores Balladares Pelaez has lived and worked in Hong Kong without once returning to the Philippines for Undas, the annual two-day observance honouring the dead. This year, she is arranging prayers from afar for her late father and four siblings, but will once again miss the gathering back home. On Thursday morning, the 56-year-old domestic helper called her mother and niece in Laguna province to discuss hiring a prayer leader to visit the family home. Her sisters-in-law...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3372721/far-home-close-grief-why-millions-filipino-migrants-dread-undas",
+          "publishedAt": "2026-11-01T04:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "37259e87afedf1004a6051f2",
+      "isContinuation": false,
+      "titleZh": "远离家乡，心系哀思：为何数百万菲律宾移民惧怕“亡人节”",
+      "summaryZh": "对于在香港工作的菲律宾家政工多洛雷斯·巴拉达雷斯·佩拉埃斯而言，由于长期无法回国，每年的“亡人节”都充满了对已故亲人的思念。她只能通过远程安排祈祷仪式，以表达对家乡亲人的哀思。",
+      "whyImportant": "该报道揭示了海外劳工群体在传统节日期间面临的心理压力与情感困境。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7056accf2fd05364",
+      "title": "India’s largest dam planned to counter China faces Indigenous revolt",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-      "publishedAt": "2026-10-29T22:36:06.000Z",
-      "summary": "Patrick Stewart, who rose from poverty in England to become an accomplished Shakespearean stage actor and then achieved global stardom as the erudite Captain Jean-Luc Picard in ⁠television’s Star Trek: The Next Generation and the telepathic Professor Charles ⁠Xavier in the X-Men films, has died at the age of 86. Stewart, knighted in 2010 by ⁠Queen Elizabeth for his contributions to drama, died at his home in Los Angeles, according to a statement on his social media account. “We announce with...",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+      "publishedAt": "2026-11-01T03:19:28.000Z",
+      "summary": "Indigenous people of Arunachal Pradesh are protesting a mega dam planned to counter China's upstream hydropower project.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-          "publishedAt": "2026-10-29T22:36:06.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372639/patrick-stewart-star-trek-and-x-men-fame-dies-86",
-          "publishedAt": "2026-10-29T20:17:56.000Z"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+          "publishedAt": "2026-11-01T03:19:28.000Z"
         }
       ],
-      "sourceCount": 2,
-      "isChina": false,
+      "sourceCount": 1,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
+        "中国重点"
       ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "ba86a262563a07862d21ad27",
+      "fingerprint": "6a6b25b113effa43d05a24bf",
       "isContinuation": false,
-      "titleZh": "《星际迷航》皮卡德舰长与《X战警》演员帕特里克·斯图尔特去世，享年86岁",
-      "summaryZh": "曾饰演皮卡德舰长和X教授的著名演员帕特里克·斯图尔特在洛杉矶家中去世，享年86岁。他从贫困中崛起，凭借在莎士比亚戏剧及影视作品中的卓越表现享誉全球。",
-      "whyImportant": "斯图尔特的离世标志着一位在舞台与银幕上均有深远影响的演艺界巨星的陨落。",
+      "titleZh": "印度计划修建最大水坝以抗衡中国，引发原住民抗议",
+      "summaryZh": "印度阿鲁纳恰尔邦的原住民正在抗议一项大型水坝建设计划。该项目旨在抗衡中国在上游地区推进的水电工程。",
+      "whyImportant": "该项目涉及跨境水资源开发与当地原住民权益的冲突，是中印地缘政治竞争在边境地区的具体体现。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e4250b542a9e55a0",
-      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-      "publishedAt": "2026-10-29T12:00:00.000Z",
-      "summary": "Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.",
+      "id": "9dbb7512f22048f1",
+      "title": "Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+      "publishedAt": "2026-10-31T16:17:17.000Z",
+      "summary": "US Secretary of State Marco Rubio said on Saturday that the Quadrilateral Security Dialogue, or the Quad, was not an “anti-China” coalition, as the grouping’s top diplomats finalised preparations for the leaders’ summit in the Philippines next month. Rubio’s statement comes just weeks before US President Donald Trump is scheduled to meet Chinese leader Xi Jinping in Shenzhen, China. “It is not an anti-China or anti-anybody coalition,” Rubio said at a press conference on the sidelines of the...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-          "publishedAt": "2026-10-29T12:00:00.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+          "publishedAt": "2026-10-31T16:17:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cac20672668c7c07c637d1b9",
+      "isContinuation": false,
+      "titleZh": "卢比奥称“四方安全对话”并非“反华”联盟，峰会将在特朗普与习近平会晤前举行",
+      "summaryZh": "美国国务卿卢比奥表示，“四方安全对话”（Quad）并非针对中国的联盟。该组织正为下个月在菲律宾举行的领导人峰会做准备，而此前美国总统特朗普计划在深圳与中国领导人习近平会晤。",
+      "whyImportant": "此表态旨在缓和地区紧张局势，为即将到来的高层会晤营造外交氛围。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "more": [],
+  "metadata": {
+    "fetched": 117,
+    "deduplicated": 115,
+    "selected": 23,
+    "translated": 23,
+    "untranslated": 0,
+    "minimumRequired": 21,
+    "featured": 7,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
+    {
+      "id": "2763862c82c379ae",
+      "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+      "publishedAt": "2026-10-31T23:49:22.000Z",
+      "summary": "The theft of billions of dollars from Binance within a matter of minutes, the biggest cryptocurrency heist in history, was orchestrated by North Korean hackers, the FBI said on Saturday. The Federal Bureau of Investigation said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a US$1.5 billion Bybit hack last year. The FBI asked cryptocurrency exchanges, blockchain analytics companies and others to block...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+          "publishedAt": "2026-10-31T23:49:22.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1709,150 +1259,167 @@
         "全球焦点",
         "突发",
         "经济",
-        "军事与安全",
-        "科技",
-        "能源"
-      ],
-      "score": 62,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e29075a35057e9b62d23aa05",
-      "isContinuation": false,
-      "titleZh": "安理会直播：新技术能否保障全球航道安全？",
-      "summaryZh": "廉价无人机、自动驾驶船只和网络攻击正威胁着全球航运安全。联合国安理会正在讨论如何利用新兴技术来保护海员、全球贸易及能源供应。",
-      "whyImportant": "随着航运威胁的演变，国际社会正寻求通过技术手段应对全球供应链面临的新挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "92d460d43d7c7830",
-      "title": "Former Sydney childcare worker Ashley Paul Griffith hit with 202 more abuse charges",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
-      "publishedAt": "2026-10-30T05:14:17.000Z",
-      "summary": "NSW police say charges include child rape and relate to 23 alleged victims aged between one and five at a Sydney childcare centre Get our breaking news email, free app or daily news podcast One of Australia’s most notorious paedophiles is facing hundreds more child abuse charges, including for the alleged rape of children as young as one. Days after being extradited from Queensland to New South Wales, Ashley Paul Griffith was hit with 202 charges dating from between 2014 and 2017, with police labelling the allegations “deeply disturbing”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
-          "publishedAt": "2026-10-30T05:14:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "f1d3271f24a3e860ab8e8d43",
-      "isContinuation": false,
-      "titleZh": "前悉尼托儿所员工阿什利·保罗·格里菲斯再遭202项虐待指控",
-      "summaryZh": "澳大利亚警方对前托儿所员工阿什利·保罗·格里菲斯追加了202项虐待指控，其中包括针对多名幼童的强奸指控。这些罪行涉及2014年至2017年间的23名受害者。",
-      "whyImportant": "此案因涉及大量受害者及极其恶劣的犯罪性质，在澳大利亚引发了广泛的社会关注与愤怒。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b5f849ef9045e664",
-      "title": "Crypto exchange Binance freezes billions in funds amid potential $6.3bn security breach",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-      "publishedAt": "2026-10-30T05:06:47.000Z",
-      "summary": "Breach may have started with a hacked laptop belonging to engineer, in incident analysts say could be of the most significant intrusions on record Binance, the world’s largest cryptocurrency exchange, has said it’s investigating reports of a potential $6.3bn security breach that analysts said could amount to the most significant incident relating to digital assets on record. It wasn’t immediately clear the extent of the damage hackers might have been able to cause, and Binance did not explicitly confirmed that funds had been stolen. The company said its teams are “working around the clock” to resolve the issue. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-          "publishedAt": "2026-10-30T05:06:47.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
         "金融",
-        "军事与安全"
+        "专题·全球经济与金融"
       ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8277406a9652da99e8448e50",
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济",
+        "金融"
+      ],
+      "fingerprint": "d851886b56eeba75654a5697",
       "isContinuation": false,
-      "titleZh": "加密货币交易所币安因潜在的63亿美元安全漏洞冻结资金",
-      "summaryZh": "全球最大的加密货币交易所币安正在调查一起可能涉及63亿美元的安全漏洞事件。分析人士认为，这可能是数字资产领域有史以来最严重的入侵事件之一。",
-      "whyImportant": "此次潜在的安全漏洞对全球加密货币市场及投资者信心构成了重大威胁。",
+      "titleZh": "FBI指控朝鲜策划了史上最大规模的币安加密货币盗窃案",
+      "summaryZh": "美国联邦调查局（FBI）表示，币安近期发生的数十亿美元被盗事件是史上最大规模的加密货币劫案，系朝鲜黑客所为。该攻击与名为“TraderTraitor”的黑客组织有关，该组织此前也曾参与去年针对Bybit的15亿美元黑客攻击。",
+      "whyImportant": "此事件凸显了加密货币交易所面临的严峻安全威胁以及朝鲜利用网络犯罪规避制裁的持续风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7a687dcaac3ca08b",
-      "title": "Wildlife Trusts hit £30m target to buy and rewild huge Northumberland estate",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate",
-      "publishedAt": "2026-10-30T05:00:44.000Z",
-      "summary": "About 25,000 members of public chip in £17m towards 3,800-hectare Rothbury estate, described as ‘once-in-a-generation opportunity’ One of the most ambitious nature recovery projects ever undertaken in England can go ahead after campaigners announced they had raised £30m to buy an estate in Northumberland. The Wildlife Trusts’ bid to buy the Rothbury estate, an area the size of Athens, had been championed by David Attenborough who on Friday thanked the public for their help. Continue reading...",
+      "id": "4c2bd5d97e27d0c8",
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+      "publishedAt": "2026-10-31T19:32:58.000Z",
+      "summary": "As Washington seeks to loosen China’s dominance over critical minerals, US Secretary of State Marco Rubio urged other members of the Group of 20 (G20) to strengthen supply chains and secure strategic trade routes as the group’s foreign ministers’ meeting drew to a close in Atlanta on Saturday. Rubio said there was a “universal recognition” among the G20 members over the importance of issues like critical minerals, supply chain security and freedom of navigation. “The first step is at least some...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate",
-          "publishedAt": "2026-10-30T05:00:44.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+          "publishedAt": "2026-10-31T19:32:58.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
+      "isChina": true,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
+        "中国重点",
+        "美国重点",
+        "外交",
+        "经济",
         "军事与安全",
-        "国际组织"
+        "专题·全球经济与金融"
       ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8ac0994001838173742a1e10",
+      "score": 76,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "a7ae5035e4582b9d7a0e197d",
       "isContinuation": false,
-      "titleZh": "野生动物信托基金筹集3000万英镑，用于购买并重塑诺森伯兰郡大片土地",
-      "summaryZh": "在约2.5万名公众的捐助下，野生动物信托基金成功筹集3000万英镑，用于购买诺森伯兰郡的罗斯伯里庄园。该项目旨在进行大规模的自然恢复，得到了大卫·爱登堡的支持。",
-      "whyImportant": "这一大规模的土地收购项目被视为英国自然保护领域一次重要的生态修复尝试。",
+      "titleZh": "G20外长亚特兰大会议结束，未就关键议题达成共识",
+      "summaryZh": "G20外长会议在亚特兰大闭幕，美国国务卿卢比奥呼吁成员国加强供应链安全并保障战略贸易路线。尽管各方承认关键矿产和航行自由的重要性，但会议未能就具体行动达成一致。",
+      "whyImportant": "会议结果显示全球主要经济体在供应链重组和地缘政治议题上仍存在显著分歧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "4f7661da811030c5",
-      "title": "Polymarket temporarily suspends trading on international platform due to security incident",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
-      "publishedAt": "2026-10-29T23:20:16.000Z",
-      "summary": "Security incident linked to performance-monitoring tool spurred platform to halt trading for about an hour Polymarket temporarily halted trading on its international platform on Thursday because of a security incident that compromised a third-party provider, the company said. Trading was paused for about an hour and resumed on Thursday afternoon. The company has promised to fully reimburse any affected traders. Continue reading...",
+      "id": "23e4c3355422171d",
+      "title": "HKT says US order ‘ceased’ as firm reportedly agrees to exit American market",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
+      "publishedAt": "2026-10-31T14:39:19.000Z",
+      "summary": "A leading Hong Kong telecommunications carrier has confirmed that an order requiring it to justify its operation in the United States has been ceased, after the company reportedly agreed to wind down its business under pressure from a US regulatory agency over national security concerns. A spokeswoman for Hong Kong Telecom (HKT) told the South China Morning Post on Saturday that the Order to Show Cause issued by the US Federal Communications Commission (FCC) in October requiring it to justify...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
-          "publishedAt": "2026-10-29T23:20:16.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
+          "publishedAt": "2026-10-31T14:39:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "金融",
+        "军事与安全",
+        "专题·全球经济与金融"
+      ],
+      "score": 69,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "market",
+        "金融"
+      ],
+      "fingerprint": "1130c4e301ef50cf69dc1cb2",
+      "isContinuation": false,
+      "titleZh": "香港电讯称美国监管令已“终止”，据报将退出美国市场",
+      "summaryZh": "香港电讯确认，美国联邦通信委员会此前要求其说明运营合理性的命令已终止。据报道，该公司已同意在美方国家安全担忧的压力下逐步退出美国市场。",
+      "whyImportant": "此举反映了地缘政治因素对跨国电信企业在美运营环境的持续影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "65036de829fbe24a",
+      "title": "3 Hong Kong Chinese-language newspapers raise retail prices by HK$3",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/article/3372863/3-hong-kong-chinese-language-newspapers-raise-retail-prices-hk3",
+      "publishedAt": "2026-11-01T03:44:51.000Z",
+      "summary": "Three Chinese-language newspapers in Hong Kong have raised their retail prices by HK$3 (40 US cents) this month, marking the first sector-wide adjustment in two years. Ming Pao’s price rise took effect on Sunday, increasing its single-copy price from HK$12 to HK$15, up 25 per cent. Two financial broadsheets will follow suit on Monday. The Hong Kong Economic Times (HKET) will raise its price from HK$12 to HK$15, while the Hong Kong Economic Journal (HKEJ) will increase its price by 20 per cent...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/article/3372863/3-hong-kong-chinese-language-newspapers-raise-retail-prices-hk3",
+          "publishedAt": "2026-11-01T03:44:51.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 67,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "3c5020b6842b70b4c21471eb",
+      "isContinuation": false,
+      "titleZh": "香港三家中文报纸零售价上调3港元",
+      "summaryZh": "香港三家中文报纸本月起将零售价上调3港元，这是该行业两年来首次集体调价。明报、香港经济日报及香港经济日报旗下的财经报刊均在调整之列。",
+      "whyImportant": "报业集体涨价反映了传统媒体在运营成本上升压力下的生存挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9100c911744b0b13",
+      "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+      "source": "DW",
+      "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-01T01:53:00.000Z",
+      "summary": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-11-01T01:53:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1862,295 +1429,38 @@
       "tags": [
         "全球焦点",
         "经济",
-        "金融",
-        "军事与安全"
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "321a79bff8b28cc65c8eac1a",
-      "isContinuation": false,
-      "titleZh": "Polymarket因安全事件暂时暂停国际平台交易",
-      "summaryZh": "预测市场平台Polymarket因第三方供应商的安全漏洞，暂停了其国际平台的交易约一小时。公司承诺将全额赔偿受影响的交易者，目前交易已恢复。",
-      "whyImportant": "此次事件凸显了预测市场平台在依赖第三方服务时所面临的网络安全风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0d090f2e11b13e08",
-      "title": "Why are Detroit gas stations selling discounted fuel in Trump’s name?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
-      "publishedAt": "2026-10-30T03:31:30.000Z",
-      "summary": "Gas stations promoted by President Trump are selling discounted fuel in Detroit as Americans grapple with rising prices.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
-          "publishedAt": "2026-10-30T03:31:30.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "能源"
-      ],
-      "score": 61,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b044ab426b7c1d64c5e4c753",
-      "isContinuation": false,
-      "titleZh": "为何底特律的加油站以特朗普的名义销售折扣燃油？",
-      "summaryZh": "在美国民众应对燃油价格上涨之际，底特律部分加油站以特朗普的名义提供折扣燃油促销。此举引发了关于政治与商业营销结合的讨论。",
-      "whyImportant": "该现象折射出美国当前高通胀背景下的政治极化与民生焦虑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a3a538e45faee860",
-      "title": "Pentagon accuses fired US general of leaking sensitive information",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372653/pentagon-accuses-fired-us-general-leaking-sensitive-information",
-      "publishedAt": "2026-10-30T02:12:12.000Z",
-      "summary": "The Pentagon has accused a newly ousted three-star general of leaking sensitive information to the media just hours after officials confirmed his removal from a top military planning post. Defence Secretary Pete Hegseth fired US Army Lieutenant General Brett Sylvia as head of strategy, plans and policy for the Joint Chiefs of Staff, a defence official said late Wednesday. Typically, the general in the position and their staff are responsible for generating and coordinating military plans for...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372653/pentagon-accuses-fired-us-general-leaking-sensitive-information",
-          "publishedAt": "2026-10-30T02:12:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 60,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c48e883bc5b6147090bd0827",
-      "isContinuation": false,
-      "titleZh": "五角大楼指控被解职的美国将军泄露敏感信息",
-      "summaryZh": "五角大楼证实，美国陆军中将布雷特·西尔维亚在被免去参谋长联席会议战略、计划和政策主管职务后，被指控向媒体泄露敏感信息。国防部长皮特·赫格塞斯下令将其解职，目前相关调查正在进行中。",
-      "whyImportant": "此事件涉及美军高层人事变动及国家安全机密泄露问题，引发了对军方内部信息管控的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "677893a90872d29d",
-      "title": "Hegseth reportedly fires high-ranking army strategist over alleged leaks",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
-      "publishedAt": "2026-10-29T22:01:56.000Z",
-      "summary": "Pentagon says it has referred leak case to justice department for criminal investigation The US defense secretary, Pete Hegseth, has reportedly dismissed Lt Gen Brett Sylvia, a high-ranking army strategist serving on the Pentagon’s joint staff, following allegations that he disclosed classified information to the public. The Pentagon announced on Thursday that it had referred an alleged information leak case for criminal investigation, maintaining that the removal of the senior general was essential “to protect sensitive information”, the Washington Post reported. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
-          "publishedAt": "2026-10-29T22:01:56.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "60ed7d34725659b35f2843ec",
-      "isContinuation": false,
-      "titleZh": "据报道，赫格塞斯因涉嫌泄密解雇了陆军高级战略家",
-      "summaryZh": "五角大楼已将布雷特·西尔维亚中将涉嫌泄露机密信息的案件移交司法部进行刑事调查。国防部长皮特·赫格塞斯表示，此举旨在保护敏感信息安全。",
-      "whyImportant": "该事件凸显了美国国防部对内部泄密行为的零容忍态度及法律追责的严肃性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7c7122dfb4209bd3",
-      "title": "President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/",
-      "publishedAt": "2026-10-29T16:27:20.000Z",
-      "summary": "The U.S. economy grew at a strong annual rate of 3.4% in the third quarter of 2026 — the strongest pace in a year. President Donald J. Trump’s America First agenda is delivering as promised: faster growth, historic levels of investment, and an economy that continues to outperform the so-called “experts.” Here’s what you need […] The post President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/",
-          "publishedAt": "2026-10-29T16:27:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
+      "score": 62,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
         "经济"
       ],
-      "score": 53,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "79e0ba943eebd3d9539d4793",
+      "fingerprint": "d7b4a4c6583cab3a3d728bde",
       "isContinuation": false,
-      "titleZh": "特朗普总统释放美国经济活力：GDP激增，投资创多年新高",
-      "summaryZh": "2026年第三季度美国经济年化增长率达到3.4%，为一年来最快增速。白宫表示，特朗普的“美国优先”议程推动了经济增长和历史性的投资水平。",
-      "whyImportant": "该数据反映了当前美国政府经济政策的执行效果，并成为衡量其执政表现的关键指标。",
+      "titleZh": "FBI称朝鲜是币安60亿美元加密货币被盗案的幕后黑手",
+      "summaryZh": "FBI指出，此次盗窃案与名为“TraderTraitor”的实体进行的恶意网络活动有关。该组织此前曾策划了去年针对Bybit的15亿美元黑客攻击。",
+      "whyImportant": "该指控进一步证实了国际执法机构对朝鲜网络攻击能力的关注及其对全球金融系统的破坏性影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "71fee8edd7df3537",
-      "title": "Ship reported on fire off Oman as Iran escalation fears mount",
-      "source": "DW",
-      "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-29T10:04:00.000Z",
-      "summary": "A ship in the Strait of Hormuz is reported to be on fire, a British maritime agency says. Iran has meanwhile said it has shot down another US drone as military tensions with Washington continue.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-10-29T10:04:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全"
-      ],
-      "score": 47,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d8710a3157854fa28e5ec9ed",
-      "isContinuation": false,
-      "titleZh": "霍尔木兹海峡一艘船只起火，伊朗局势升级引发担忧",
-      "summaryZh": "英国海事机构报告称，霍尔木兹海峡有一艘船只起火。与此同时，伊朗声称击落了另一架美国无人机，加剧了与华盛顿之间的军事紧张局势。",
-      "whyImportant": "该地区局势的恶化可能对全球能源供应和地缘政治稳定产生重大影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "33ce4c32ea32e63a",
-      "title": "Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
-      "publishedAt": "2026-10-30T02:47:58.000Z",
-      "summary": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email, free app or daily news podcast A Queensland court has heard claims that former Bachelor star Sam Wood used drugs and alcohol, engaged in a “party lifestyle” and that he “struggles with anger”, as Wood makes a second bid for bail on domestic violence charges. Wood, 46, from Melbourne, has been held in custody since his arrest on 4 October at Noosa. He was initially denied bail over allegations he choked and assaulted his wife, Snezana Wood, while the family was holidaying on the Sunshine Coast. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
-          "publishedAt": "2026-10-30T02:47:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 59,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "604bc0ff30a6e5f4d7a65fa5",
-      "isContinuation": false,
-      "titleZh": "萨姆·伍德因家庭暴力指控再次申请保释，法庭听取关于其“派对生活方式”及愤怒问题的陈述",
-      "summaryZh": "前《单身汉》明星萨姆·伍德因涉嫌在昆士兰州勒死并袭击其妻子而被拘留。法庭在审理其保释申请时，听取了关于其药物使用、酗酒及愤怒管理问题的证词。",
-      "whyImportant": "此案因涉及知名公众人物及严重的家庭暴力指控，在当地社会引发了广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1da8a030205e3a10",
-      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "publishedAt": "2026-10-30T02:40:26.000Z",
-      "summary": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-          "publishedAt": "2026-10-30T02:40:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 59,
-      "topic": "china",
-      "topicName": "中国与世界",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "93255da850dd3e7a1c8d300d",
-      "isContinuation": false,
-      "titleZh": "内塔尼亚胡在未能获得多数席位后攻击以色列阿拉伯政党",
-      "summaryZh": "以色列总理内塔尼亚胡指责巴勒斯坦裔以色列政党在选举中存在欺诈行为。此前，其阵营在选举中未能获得组建政府所需的多数席位。",
-      "whyImportant": "此举加剧了以色列国内的政治分歧，并可能对未来的政府组建和民族关系产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9b067e6fd5564db8",
-      "title": "Will Tai Po fire reforms wipe out collusion in Hong Kong’s building maintenance industry?",
+      "id": "0c598f15953ccbe0",
+      "title": "Hong Kong may raise GDP forecast as growth could hit 5-year high: Paul Chan",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/article/3372635/will-tai-po-fire-reforms-wipe-out-collusion-hong-kongs-building-maintenance-industry",
-      "publishedAt": "2026-10-30T00:44:33.000Z",
-      "summary": "A raft of reforms to overhaul Hong Kong’s building maintenance sector has been hailed as a bold first step in tackling bid-rigging and other deep-rooted problems, but observers said its success would depend on the determination and persistence to implement them to restore public trust. They said the reforms signalled a departure from the government’s long-standing reliance on the self-discipline of industry professionals, but highlighted a notable absence of measures to tackle falsified...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan",
+      "publishedAt": "2026-10-31T10:20:59.000Z",
+      "summary": "Hong Kong’s annual economic growth may hit a five-year high, the finance chief has said, raising the possibility of an upward revision to the current forecast of 3.5 to 4.5 per cent for 2026. Financial Secretary Paul Chan Mo-po said on Saturday that coming third-quarter figures indicated sustained momentum, noting the economy grew by 5.1 per cent in the first half of 2026 over a year earlier. “Although the third-quarter figures have not yet been released, I can share that exports remained very...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/article/3372635/will-tai-po-fire-reforms-wipe-out-collusion-hong-kongs-building-maintenance-industry",
-          "publishedAt": "2026-10-30T00:44:33.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan",
+          "publishedAt": "2026-10-31T10:20:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2159,21 +1469,661 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技",
-        "专题·中国与世界"
+        "经济",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 59,
-      "topic": "china",
-      "topicName": "中国与世界",
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "中国"
+        "economy",
+        "经济"
       ],
-      "fingerprint": "7dae83622ba5e083c2c4b55a",
+      "fingerprint": "809455193a79d74bd4878db8",
       "isContinuation": false,
-      "titleZh": "大埔火灾后的改革能否消除香港建筑维修行业的串通行为？",
-      "summaryZh": "香港针对建筑维修行业推出了一系列改革措施，旨在打击围标等深层问题。观察人士认为，改革成效取决于政府的执行决心，但目前仍缺乏针对伪造文件的具体措施。",
-      "whyImportant": "建筑维修行业的透明度直接关系到公共安全和市民的经济利益，是香港社会治理的重要议题。",
+      "titleZh": "香港财政司司长：经济增长或创五年新高，可能上调GDP预测",
+      "summaryZh": "香港财政司司长陈茂波表示，得益于上半年5.1%的增长及出口表现，香港今年经济增长有望创五年新高。政府正考虑上调此前3.5%至4.5%的年度增长预测。",
+      "whyImportant": "经济增长预期上调显示香港经济在外部环境挑战下展现出较强的韧性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "edece0edcb23d772",
+      "title": "Both Japan and China can help Bangladesh reach its full potential",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential",
+      "publishedAt": "2026-10-31T08:30:08.000Z",
+      "summary": "In the Land of the Rising Sun, Bangladesh looks forward to a new dawn. The hope that comes with Prime Minister Tarique Rahman’s visit to Japan goes beyond the deals signed or the financial support expected. It shows a country that has emerged from authoritarian rule and wants to turn its new political voice into bigger economic chances and freedom of choice. For a government chosen by the people, foreign policy must answer one question: how does it make life better for the people who gave it...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential",
+          "publishedAt": "2026-10-31T08:30:08.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "军事与安全",
+        "国际组织",
+        "专题·全球经济与金融"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "581307fb9df8383611ac46aa",
+      "isContinuation": false,
+      "titleZh": "日本和中国均可助力孟加拉国充分发挥其潜力",
+      "summaryZh": "孟加拉国总理塔里克·拉赫曼访问日本，标志着该国在摆脱威权统治后寻求经济机遇与外交自主。孟加拉国政府正致力于通过务实的外交政策，利用与日本及中国的合作来改善民生。",
+      "whyImportant": "这体现了孟加拉国在后威权时代通过平衡大国关系以寻求经济发展和国家利益最大化的战略考量。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fa3ec50660c85aec",
+      "title": "What we know about latest efforts to end US war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+      "publishedAt": "2026-11-01T03:24:02.000Z",
+      "summary": "The foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+          "publishedAt": "2026-11-01T03:24:02.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "3a84cc6cd86ddb40c537816e",
+      "isContinuation": false,
+      "titleZh": "关于结束美国对伊朗战争的最新努力有哪些进展",
+      "summaryZh": "美国和伊朗的外交部长均表示，通过外交途径结束战争仍有可能性。双方正就此进行相关沟通与探讨。",
+      "whyImportant": "这表明尽管局势紧张，但双方仍保留了通过外交手段解决冲突的意愿，对地区稳定具有重要意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d0de6024512eb15e",
+      "title": "‘Flirtatious’ US$2,500 photo shoots for ‘lonely’ middle-aged women spark backlash in China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372860/flirtatious-us2500-photo-shoots-lonely-middle-aged-women-spark-backlash-china",
+      "publishedAt": "2026-11-01T02:00:21.000Z",
+      "summary": "A Chinese photographer is facing fierce public backlash for charging middle-aged women inflated fees while allegedly subjecting them to sexually suggestive remarks during photo shoots. Known online as “Duan Gongzi,” 48-year-old army veteran Duan Xiaozhou has amassed nearly 400,000 followers on Douyin. At his Wuhan studio, he charges 16,800 yuan (US$2,500) for 36 unedited portraits. Duan promotes his sessions as empathetic exchanges intended to capture clients’ authentic selves. But...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372860/flirtatious-us2500-photo-shoots-lonely-middle-aged-women-spark-backlash-china",
+          "publishedAt": "2026-11-01T02:00:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "abbfa12a8cf5d0d49de19979",
+      "isContinuation": false,
+      "titleZh": "中国摄影师向“孤独”中年女性收取高额费用拍摄“调情”照片引发争议",
+      "summaryZh": "一名被称为“段公子”的摄影师因向中年女性收取高额拍摄费，并在拍摄过程中发表性暗示言论而遭到公众强烈抵制。尽管他声称拍摄旨在捕捉客户的真实自我，但其行为引发了关于职业道德和剥削心理脆弱群体的广泛讨论。",
+      "whyImportant": "该事件反映了社会对针对特定群体进行商业剥削行为的敏感度提升，以及对网络营销伦理的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9a8fed8d5415a483",
+      "title": "Russia surpasses France in African youth appeal, still trails China: survey",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372843/russia-surpasses-france-african-youth-appeal-still-trails-china-survey",
+      "publishedAt": "2026-11-01T02:00:17.000Z",
+      "summary": "Russia’s influence has surged among young people across Africa in recent years, leaping over former colonial power France while still trailing China, a survey of African youths has found. Many young Africans now perceive Russia to be an ally, observers said, warning its rivals to take the shift seriously as the continent becomes increasingly critical to both Moscow and Beijing. According to the African Youth Survey commissioned by the South Africa-based Ichikowitz Family Foundation, 54 per cent...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372843/russia-surpasses-france-african-youth-appeal-still-trails-china-survey",
+          "publishedAt": "2026-11-01T02:00:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全"
+      ],
+      "score": 59,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c238ff6f6a21d457ab941b73",
+      "isContinuation": false,
+      "titleZh": "调查显示：俄罗斯在非洲青年中的影响力已超过法国，但仍落后于中国",
+      "summaryZh": "一项针对非洲青年的调查发现，俄罗斯在非洲的影响力近年来显著上升，已超过前殖民宗主国法国，但仍排在中国之后。许多非洲年轻人将俄罗斯视为盟友，观察人士警告称，随着非洲战略地位的提升，各国应重视这一地缘政治格局的变化。",
+      "whyImportant": "这一趋势表明非洲在国际地缘政治竞争中的重要性日益凸显，大国在该地区的影响力博弈正在加剧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e642227cd50da14b",
+      "title": "Singapore turns up heat on power-hungry air conditioning with cool revolution",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372868/singapore-turns-heat-power-hungry-air-conditioning-cool-revolution",
+      "publishedAt": "2026-11-01T05:34:21.000Z",
+      "summary": "Long dubbed an “air-conditioned nation”, Singapore is experimenting with cooling alternatives from chilled beams to “passive displacement” to curb its thirst for energy-guzzling air conditioning. The city state has the highest per-capita air conditioner ownership rate in Southeast Asia, with about 99 per cent of private residences equipped with cooling units. Singapore’s local building sector accounts for one-fifth of its emissions, while cooling itself accounts for 40 to 60 per cent of a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372868/singapore-turns-heat-power-hungry-air-conditioning-cool-revolution",
+          "publishedAt": "2026-11-01T05:34:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1a936b0434eefa86a4682121",
+      "isContinuation": false,
+      "titleZh": "新加坡掀起“降温革命”，应对高能耗空调使用问题",
+      "summaryZh": "作为东南亚空调普及率最高的国家，新加坡正尝试通过冷梁和被动置换通风等替代技术来减少对空调的依赖。建筑业占该国排放量的五分之一，其中空调能耗占比极高，政府正寻求更可持续的降温方案。",
+      "whyImportant": "新加坡的尝试为热带城市在应对气候变化和高能耗需求之间寻找平衡提供了参考范例。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a814439176582cb4",
+      "title": "Ex-Japanese adult film actress in intensive care after alleged drugging in Hong Kong",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372866/ex-japanese-adult-film-actress-intensive-care-after-alleged-drugging-hong-kong",
+      "publishedAt": "2026-11-01T04:45:02.000Z",
+      "summary": "Former Japanese adult film actress Mao Hamasaki was admitted to intensive care at a Hong Kong hospital after being allegedly drugged while working in a club in Tsim Sha Tsui on Sunday morning. Hamasaki’s manager published a post on her Facebook page at 5.40am on Sunday morning, with two photos showing her in a wheelchair being taken to an ambulance. The post read “drugged while working”. Hamasaki had performed as a disc jockey at several clubs on Halloween night until the early hours of Sunday,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372866/ex-japanese-adult-film-actress-intensive-care-after-alleged-drugging-hong-kong",
+          "publishedAt": "2026-11-01T04:45:02.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0c15353d782642838c73a2c0",
+      "isContinuation": false,
+      "titleZh": "日本前成人电影女星在香港疑遭下药，目前处于重症监护中",
+      "summaryZh": "日本前成人电影女星滨崎真绪在香港尖沙咀一家俱乐部工作时，疑似遭人下药，随后被送往医院重症监护室。其经纪人在社交媒体上发布了她被送往医院的照片，并确认了相关情况。",
+      "whyImportant": "该事件引发了公众对海外工作者安全保障以及香港夜生活场所治安问题的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fc9683a709a69213",
+      "title": "France protests enter third week as police fire tear gas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+      "publishedAt": "2026-11-01T04:31:24.000Z",
+      "summary": "Police used tear gas to disperse protesters as demonstrations entered a third week ahead in France.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+          "publishedAt": "2026-11-01T04:31:24.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e0e3a2afd3f595ff9252f3ff",
+      "isContinuation": false,
+      "titleZh": "法国抗议活动进入第三周，警方发射催泪瓦斯",
+      "summaryZh": "法国的抗议示威活动已进入第三周。警方在现场使用催泪瓦斯驱散抗议人群。",
+      "whyImportant": "此次持续的社会动荡反映了法国国内深层的政治与社会矛盾。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a40442af48a186b8",
+      "title": "Guangzhou reclaims crown as China’s busiest airport after US$8 billion mega expansion",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3372756/guangzhou-reclaims-crown-chinas-busiest-airport-after-us8-billion-mega-expansion",
+      "publishedAt": "2026-11-01T04:00:16.000Z",
+      "summary": "Guangzhou Baiyun International Airport has reclaimed its position as China’s busiest airport, handling more than 67 million passenger trips in the first nine months of 2026 following a major expansion last year, the municipal government announced. The airport overtook Shanghai Pudong International Airport, which handled 66.58 million passenger trips during the same period, official data showed. Baiyun had fallen behind Pudong in 2024 and 2025. The expansion took half a decade to complete and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3372756/guangzhou-reclaims-crown-chinas-busiest-airport-after-us8-billion-mega-expansion",
+          "publishedAt": "2026-11-01T04:00:16.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6540383c18490e90969201ea",
+      "isContinuation": false,
+      "titleZh": "广州白云机场完成80亿美元扩建，重夺中国最繁忙机场称号",
+      "summaryZh": "广州白云国际机场在完成大规模扩建后，今年前九个月客流量超过6700万人次，重新成为中国最繁忙的机场。该机场成功超越了同期客流量为6658万人次的上海浦东国际机场。",
+      "whyImportant": "这一数据变化凸显了广州作为区域航空枢纽的竞争力提升及中国民航市场的复苏。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a8cb816ba4659d67",
+      "title": "Is Beijing’s 2027 military milestone now a US readiness deadline over Taiwan?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3372829/beijings-2027-military-milestone-now-us-readiness-deadline-over-taiwan",
+      "publishedAt": "2026-10-31T12:00:09.000Z",
+      "summary": "America’s push for 2027 combat readiness in the Indo-Pacific is raising questions over whether a year that US military officials linked to a possible People’s Liberation Army attack on Taiwan has instead become a planning benchmark. The preparations come despite a US intelligence assessment published in March that mainland Chinese leaders “do not currently plan” to attack Taiwan in 2027, “nor do they have a fixed timeline for achieving unification”. General Ronald Clark, commander of US Army...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3372829/beijings-2027-military-milestone-now-us-readiness-deadline-over-taiwan",
+          "publishedAt": "2026-10-31T12:00:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 64,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a17dc192b016f5a3808c762f",
+      "isContinuation": false,
+      "titleZh": "北京的2027年军事里程碑是否已成为美国针对台湾的战备最后期限？",
+      "summaryZh": "美国在印太地区推进2027年战备目标，引发外界猜测该时间点是否已成为美军应对台海局势的规划基准。尽管美国情报评估显示目前并无明确的攻击时间表，但美军指挥官正加紧相关准备工作。",
+      "whyImportant": "这一规划基准的设定加剧了中美在台海问题上的战略博弈与紧张氛围。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "adebf824deb84eb4",
+      "title": "Iran’s supreme leader warns US, Israel against war",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+      "publishedAt": "2026-10-31T14:16:26.000Z",
+      "summary": "Iran’s supreme leader Mojtaba Khamenei on Saturday warned the United States and Israel against returning to war, according to a written statement, following threats from the Islamic republic’s foes of a possible resumption of strikes. “If the enemies once again launch military or terrorist attacks, it is the armed forces of the Islamic Republic and the Iranian nation that will determine the time and conditions for ending them,” said a statement attributed to Khamenei posted on his website. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+          "publishedAt": "2026-10-31T14:16:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 60,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6e71ce92f764320f09fe77db",
+      "isContinuation": false,
+      "titleZh": "伊朗最高领袖警告美国和以色列不要发动战争",
+      "summaryZh": "伊朗最高领袖哈梅内伊发表声明，警告美国和以色列不要采取军事或恐怖袭击。他强调，若遭到攻击，伊朗武装力量和人民将决定反击的时间与条件。",
+      "whyImportant": "此番强硬表态进一步加剧了中东地区本已紧张的军事对峙风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f404abb855441559",
+      "title": "UK police should not have let US force take over airbase trial, MoD documents show",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+      "publishedAt": "2026-10-31T13:30:43.000Z",
+      "summary": "According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of wrongly handing over the investigation of an American fighter pilot who strangled a British woman to the US military, according to documents obtained by the Guardian. Cambridgeshire police allowed the US military police to quickly take control of the investigation into Capt Jacob Wulfson after he had been accused of sexually assaulting Sarah Steele in his Cambridge flat. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+          "publishedAt": "2026-10-31T13:30:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8004813808e8591c27c9c03d",
+      "isContinuation": false,
+      "titleZh": "英国国防部文件显示：警方不应允许美军接管空军基地案件调查",
+      "summaryZh": "据《卫报》获取的文件显示，英国国防部官员私下指责剑桥郡警方违规，将一名美军飞行员涉嫌勒死英国女性的案件移交给美军处理。警方在接到指控后，迅速允许美军宪兵接管了对雅各布·沃尔夫森上尉的调查。",
+      "whyImportant": "此事件引发了关于司法管辖权及美英军事协议执行情况的争议，受到公众广泛关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1e3fe78264309bbd",
+      "title": "With ‘Kissinger moment’ over, US and China urged to foster new ‘bridge builders’",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372823/kissinger-moment-over-us-and-china-urged-foster-new-bridge-builders",
+      "publishedAt": "2026-10-31T11:00:12.000Z",
+      "summary": "Beijing and Washington have been urged to foster a new generation of talent to bridge gaps between the countries and strengthen people-to-people exchanges amid growing frictions and concerns about a lack of China expertise in the US. Academics and experts from the two countries gathered in Shanghai on Friday at the China-US Intergenerational Dialogue 2026. They were seeking a new crop of “bridge builders” like Henry Kissinger, the former US secretary of state who helped to engineer the historic...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372823/kissinger-moment-over-us-and-china-urged-foster-new-bridge-builders",
+          "publishedAt": "2026-10-31T11:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "科技",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "027a2ff22f99b56bb45e633c",
+      "isContinuation": false,
+      "titleZh": "随着“基辛格时刻”结束，美中被敦促培养新一代“桥梁建设者”",
+      "summaryZh": "面对双边摩擦加剧及美国国内中国专业人才匮乏的担忧，北京和华盛顿被敦促培养新一代人才以加强民间交流。在上海举行的中美代际对话会议上，专家们呼吁寻找像基辛格那样能够弥合两国分歧的“桥梁建设者”。",
+      "whyImportant": "在当前地缘政治紧张背景下，加强两国人才交流被视为缓解对抗、促进长期稳定的关键。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1e34b1a854c2be35",
+      "title": "Starmer says UK must get closer to Europe as US relationship changes",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+      "publishedAt": "2026-10-31T13:32:25.000Z",
+      "summary": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM says The UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has said in his first significant political intervention since leaving No 10. The former prime minister warned European leaders of the threat posed by Russia, among others, and said the shift in relations with Washington during Donald Trump’s presidency was not likely to reset once he leaves the Oval Office. He accused them of being caught out by these new realities twice already. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+          "publishedAt": "2026-10-31T13:32:25.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 50,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "73176d9067680696273a538c",
+      "isContinuation": false,
+      "titleZh": "斯塔默称随着美英关系变化，英国必须与欧洲走得更近",
+      "summaryZh": "英国前首相斯塔默表示，随着美国日益成为不可靠的伙伴，英国及其他欧洲国家必须加强团结。他警告称，特朗普执政期间美英关系发生的转变即便在特朗普离任后也难以恢复原状。",
+      "whyImportant": "这一表态反映了欧洲政界对美国外交政策不确定性的深层忧虑，可能影响未来英国的战略重心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1581f6cb400fb1cd",
+      "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+      "publishedAt": "2026-10-31T16:13:17.000Z",
+      "summary": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such election amid a series of tight contests that will determine control of Congress. More than 50.5m early votes have been cast across the US as of Saturday morning, according to an analysis by the University of Florida. This is already nearly 5m more votes than the total number of early votes made in the last midterm elections, in 2022. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+          "publishedAt": "2026-10-31T16:13:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 47,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "e7f84b7432e4ab5adfa02fd3",
+      "isContinuation": false,
+      "titleZh": "美国中期选举临近，提前投票人数已超5000万",
+      "summaryZh": "美国中期选举投票进入最后三天，提前投票人数创下历史新高。据佛罗里达大学分析，目前已有超过5050万张选票投出，比2022年中期选举的总提前投票数多出近500万。",
+      "whyImportant": "高投票率反映了选民对国会控制权争夺的高度关注，可能对选举最终结果产生重大影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "edfb8281c909e6ea",
+      "title": "Far from home, close to grief: why millions of Filipino migrants dread Undas",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3372721/far-home-close-grief-why-millions-filipino-migrants-dread-undas",
+      "publishedAt": "2026-11-01T04:00:13.000Z",
+      "summary": "For over three decades, Dolores Balladares Pelaez has lived and worked in Hong Kong without once returning to the Philippines for Undas, the annual two-day observance honouring the dead. This year, she is arranging prayers from afar for her late father and four siblings, but will once again miss the gathering back home. On Thursday morning, the 56-year-old domestic helper called her mother and niece in Laguna province to discuss hiring a prayer leader to visit the family home. Her sisters-in-law...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3372721/far-home-close-grief-why-millions-filipino-migrants-dread-undas",
+          "publishedAt": "2026-11-01T04:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "37259e87afedf1004a6051f2",
+      "isContinuation": false,
+      "titleZh": "远离家乡，心系哀思：为何数百万菲律宾移民惧怕“亡人节”",
+      "summaryZh": "对于在香港工作的菲律宾家政工多洛雷斯·巴拉达雷斯·佩拉埃斯而言，由于长期无法回国，每年的“亡人节”都充满了对已故亲人的思念。她只能通过远程安排祈祷仪式，以表达对家乡亲人的哀思。",
+      "whyImportant": "该报道揭示了海外劳工群体在传统节日期间面临的心理压力与情感困境。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7056accf2fd05364",
+      "title": "India’s largest dam planned to counter China faces Indigenous revolt",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+      "publishedAt": "2026-11-01T03:19:28.000Z",
+      "summary": "Indigenous people of Arunachal Pradesh are protesting a mega dam planned to counter China's upstream hydropower project.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+          "publishedAt": "2026-11-01T03:19:28.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6a6b25b113effa43d05a24bf",
+      "isContinuation": false,
+      "titleZh": "印度计划修建最大水坝以抗衡中国，引发原住民抗议",
+      "summaryZh": "印度阿鲁纳恰尔邦的原住民正在抗议一项大型水坝建设计划。该项目旨在抗衡中国在上游地区推进的水电工程。",
+      "whyImportant": "该项目涉及跨境水资源开发与当地原住民权益的冲突，是中印地缘政治竞争在边境地区的具体体现。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9dbb7512f22048f1",
+      "title": "Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+      "publishedAt": "2026-10-31T16:17:17.000Z",
+      "summary": "US Secretary of State Marco Rubio said on Saturday that the Quadrilateral Security Dialogue, or the Quad, was not an “anti-China” coalition, as the grouping’s top diplomats finalised preparations for the leaders’ summit in the Philippines next month. Rubio’s statement comes just weeks before US President Donald Trump is scheduled to meet Chinese leader Xi Jinping in Shenzhen, China. “It is not an anti-China or anti-anybody coalition,” Rubio said at a press conference on the sidelines of the...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+          "publishedAt": "2026-10-31T16:17:17.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cac20672668c7c07c637d1b9",
+      "isContinuation": false,
+      "titleZh": "卢比奥称“四方安全对话”并非“反华”联盟，峰会将在特朗普与习近平会晤前举行",
+      "summaryZh": "美国国务卿卢比奥表示，“四方安全对话”（Quad）并非针对中国的联盟。该组织正为下个月在菲律宾举行的领导人峰会做准备，而此前美国总统特朗普计划在深圳与中国领导人习近平会晤。",
+      "whyImportant": "此表态旨在缓和地区紧张局势，为即将到来的高层会晤营造外交氛围。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
