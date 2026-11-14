@@ -1,166 +1,680 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T07:07:13.643Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T06:18:04.306Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "global-governance",
-    "name": "全球治理与外交",
-    "description": "追踪国际组织、峰会、制裁、谈判与地缘关系变化",
-    "query": "diplomacy international relations summit sanctions United Nations",
+    "slug": "usa",
+    "name": "美国政策与全球影响",
+    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
+    "query": "United States policy economy diplomacy security",
     "keywords": [
-      "diplomacy",
-      "summit",
-      "sanction",
-      "treaty",
-      "united nations",
-      "外交",
-      "峰会",
-      "制裁",
-      "条约",
-      "联合国"
+      "united states",
+      "u.s.",
+      "american",
+      "washington",
+      "white house",
+      "美国",
+      "华盛顿",
+      "白宫",
+      "美联储"
     ],
-    "accent": "#8b5cf6"
+    "accent": "#3b82f6"
   },
-  "overview": "今日专题“全球治理与外交”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“美国政策与全球影响”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "8f9a86c0bb6d8631",
-      "title": "美期中選舉台灣連線大換血 外交部 ： 跨黨派友台共識仍在 - 政治",
-      "source": "news.ltn.com.tw",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5638020",
-      "publishedAt": "2026-11-12T04:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
+      "id": "f4962b7c6f76d1ed",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+      "publishedAt": "2026-11-14T04:55:58.000Z",
+      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "language": "",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "news.ltn.com.tw",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5638020",
-          "publishedAt": "2026-11-12T04:00:00.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+          "publishedAt": "2026-11-14T04:55:58.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "军事与安全",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 84,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "400e2e3ff4dca72911af4161",
+      "isContinuation": false,
+      "titleZh": "特朗普、习近平和普京将在中国举行首次三方峰会",
+      "summaryZh": "白宫表示，特朗普计划在下周亚太经合组织（APEC）会议期间，与中俄领导人讨论伊朗战争及核武器问题。",
+      "whyImportant": "此次三方会晤若成行，将是全球地缘政治格局中的重大外交事件。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "92720765a427577c",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T05:52:31.000Z",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-14T05:52:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 77,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "cc1d919aa105dddc7e67fd50",
+      "isContinuation": false,
+      "titleZh": "白宫称特朗普、普京和习近平计划下周在中国举行历史性联合会议",
+      "summaryZh": "白宫发言人表示，特朗普将在这次史无前例的会谈中讨论“削减核武器”议题。",
+      "whyImportant": "大国领导人就核裁军进行直接对话对全球安全局势具有深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "56227f666efa2268",
+      "title": "Cathay Pacific warns of delays after US ground stop hits Hong Kong-bound flights",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
+      "publishedAt": "2026-11-14T04:50:00.000Z",
+      "summary": "Two Hong Kong-bound Cathay Pacific flights from the United States have been affected by a nationwide ground stop, with the city’s flag carrier warning of further delays. The US Federal Aviation Administration (FAA) had temporarily grounded flights nationwide following a communications breakdown at regional air traffic control centres. “We’re closely monitoring the impact of the nationwide ground stop in the United States issued by the Federal Aviation Administration (FAA) earlier today,” Cathay...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
+          "publishedAt": "2026-11-14T04:50:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "军事与安全",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 75,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "9bc3d6c1a62b6d29fa5e2999",
+      "isContinuation": false,
+      "titleZh": "美国地面停飞影响赴港航班，国泰航空警告可能出现延误",
+      "summaryZh": "受美国联邦航空管理局（FAA）全国性地面停飞影响，两架从美国飞往香港的国泰航空航班受到波及。国泰航空警告称，由于美国空中交通管制中心出现通信故障，后续航班可能面临进一步延误。",
+      "whyImportant": "航空系统的技术故障对国际航空运输的准点率和运营效率造成了直接冲击。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9d144ca940fcf85a",
+      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+      "publishedAt": "2026-11-13T20:28:20.000Z",
+      "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+          "publishedAt": "2026-11-13T20:28:20.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": false,
+      "isUsa": true,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
+        "美国重点",
+        "专题·美国政策与全球影响"
       ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 56,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": true,
       "topicKeywords": [
-        "外交"
+        "美国"
       ],
-      "fingerprint": "08d5bcfcc41c1c5d346151af",
+      "fingerprint": "aa7c551db011d881af4e870b",
       "isContinuation": false,
-      "titleZh": "美期中选举台湾连线大换血 外交部：跨党派友台共识仍在",
-      "summaryZh": "美国中期选举导致国会“台湾连线”成员发生变动。台湾外交部表示，尽管人员更迭，但美国国会支持台湾的跨党派共识依然稳固。",
-      "whyImportant": "此表态旨在强调台湾与美国国会关系的持续稳定性。",
+      "titleZh": "教皇在感人重返秘鲁奇克拉约时感谢民众",
+      "summaryZh": "这位出生于芝加哥的教皇在南美之行的最后一站，受到了秘鲁沿海城市奇克拉约民众的热烈欢迎。他将此地称为自己的“第二个家”。",
+      "whyImportant": "教皇的访问加强了梵蒂冈与南美地区信众的情感纽带。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "17ce9d8841384021",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "publishedAt": "2026-11-13T16:05:54.000Z",
+      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "NASA",
+          "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+          "publishedAt": "2026-11-13T16:05:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 56,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "美国"
+      ],
+      "fingerprint": "f182f6318a344bb6ea8246a2",
+      "isContinuation": false,
+      "titleZh": "双子座宇航员拍摄的照片启发了早期的地球观测计划",
+      "summaryZh": "1966年11月，双子座12号任务的宇航员在执行太空行走和对接任务的同时，也推动了地球观测技术的发展。这些早期太空任务为后续的月球探索及地球监测项目奠定了基础。",
+      "whyImportant": "该任务在航天史上具有里程碑意义，不仅验证了关键的太空操作技术，还开启了利用太空视角观测地球的新纪元。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f82418a970511a04",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T18:34:45.000Z",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-13T18:34:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 55,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "81f1f2642ecb88a6896a26a5",
+      "isContinuation": false,
+      "titleZh": "秘鲁城市将教皇利奥视为自己人",
+      "summaryZh": "教皇利奥十四世正在秘鲁进行拉美访问，此前他刚接受了肺癌手术。当地民众对他的到访表现出极大的热情与接纳。",
+      "whyImportant": "教皇在术后坚持出访体现了其对拉美地区的重视，同时也引发了外界对其健康状况及宗教外交政策的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c677e2f6ebd63f4b",
+      "title": "Trump Administration Delivers Record-Setting Results Through Executive Action",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
+      "publishedAt": "2026-11-13T13:10:00.000Z",
+      "summary": "Under President Donald J. Trump’s leadership, the Administration has delivered historic results for the American people in just 21 months through executive action alone. The promise of America has been quickly reignited under the President’s common-sense leadership, making America the hottest nation in the world and reviving the American Dream. Crime has plummeted, merit is […] The post Trump Administration Delivers Record-Setting Results Through Executive Action appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
+          "publishedAt": "2026-11-13T13:10:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 54,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "49eedab80de9339cf623bc07",
+      "isContinuation": false,
+      "titleZh": "特朗普政府通过行政命令取得创纪录成果",
+      "summaryZh": "特朗普政府宣称在执政21个月内，仅通过行政命令就实现了多项历史性成果。官方表示这些举措有效提振了美国经济并改善了社会治安。",
+      "whyImportant": "此声明反映了特朗普政府强调行政效率的执政风格，并试图通过总结政绩来巩固其政治影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "75c7088a3c4ee640",
+      "title": "America’s AI bubble is a Ponzi scheme",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3373996/americas-ai-bubble-ponzi-scheme",
+      "publishedAt": "2026-11-13T12:30:07.000Z",
+      "summary": "America’s AI bubble is starting to look like a Ponzi scheme. Artificial intelligence companies increasingly rely on a data centre boom that allows them to raise more money from debt markets. But the midterm elections have swept in state governments sceptical of a mass data-centre buildout. Without the data centres to raise debt, chips don’t ship and the circular financing among AI companies might face a short circuit. Market bubbles grow out of excessive investor optimism, which can accelerate...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3373996/americas-ai-bubble-ponzi-scheme",
+          "publishedAt": "2026-11-13T12:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "金融",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 54,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "5c003222159d73303beb8b68",
+      "isContinuation": false,
+      "titleZh": "美国的AI泡沫被指为庞氏骗局",
+      "summaryZh": "分析认为，美国AI行业过度依赖数据中心建设带来的融资循环，一旦地方政府限制数据中心扩张，该模式可能面临崩溃。这种基于过度乐观预期的融资方式被质疑缺乏可持续性。",
+      "whyImportant": "该观点揭示了当前AI产业在资本运作方面存在的潜在风险，可能影响投资者对科技行业的信心。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "2f56f11deb16a82f",
-      "title": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
-      "publishedAt": "2026-11-12T06:09:21.000Z",
-      "summary": "‘You just don’t mess or play with a 400-tonne train’, Sydney Trains says as 17-year-old suffers multiple injuries to head, chest and pelvis Get our breaking news email, free app or daily news podcast A 17-year-old boy is in a critical condition after falling from the outside of a train on the Sydney Harbour Bridge while he was likely train surfing, NSW police say. Around 11.30am on Thursday, emergency services were called to the railway corridor between Wynyard and Milsons Point train stations following reports someone had fallen from a northbound Tangara train onto the tracks on the bridge. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
-          "publishedAt": "2026-11-12T06:09:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b063723b486828d7f3fb4a66",
-      "isContinuation": false,
-      "titleZh": "悉尼海港大桥发生疑似“火车冲浪”事故，一名青少年伤势危急",
-      "summaryZh": "一名17岁少年在悉尼海港大桥上疑似进行“火车冲浪”时从行驶的列车外侧坠落。目前该少年头部、胸部及骨盆多处受伤，情况危急。",
-      "whyImportant": "此事件引发了公众对青少年危险行为及铁路安全监管的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1fe1ab9d58153bba",
-      "title": "Beau Lamarre-Condon says he was diagnosed with cancer by naturopath but doesn’t recall which one, trial hears",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-      "publishedAt": "2026-11-12T05:38:27.000Z",
-      "summary": "Former police officer questioned about Instagram message he asked friend to send to Jessie Baird referencing ‘cancerous tumour’ Get our breaking news email, free app or daily news podcast Beau Lamarre-Condon has claimed in court that he was diagnosed with cancer by a naturopath and has been questioned about a post-breakup message to Jesse Baird where he referred to the diagnosis. But Lamarre-Condon on Thursday told the court he could not name the naturopath or the location of their practice, claiming there had been new developments and stores had been “cleared out”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-          "publishedAt": "2026-11-12T05:38:27.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1e7b37f10e902d0f02bc1ba1",
-      "isContinuation": false,
-      "titleZh": "庭审获悉：博·拉马尔-康登称曾被自然疗法师诊断出癌症，但记不清具体信息",
-      "summaryZh": "前警官博·拉马尔-康登在法庭上声称自己曾被自然疗法师诊断出癌症，并曾以此为由向杰西·贝尔德发送信息。然而，他在接受质询时无法提供该疗法师的姓名或诊所地址。",
-      "whyImportant": "被告关于癌症诊断的说法在法庭上受到质疑，影响了案件的审理过程。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ef687e13d6390ee",
-      "title": "Autistic teen missing in Australian bushland for 6 days rescued alive",
+      "id": "341b2243f279273d",
+      "title": "Musk ordered to preserve records on Ukraine’s Starlink access by Democratic US senators",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/australasia/article/3374155/autistic-teen-missing-australian-bushland-6-days-rescued-alive",
-      "publishedAt": "2026-11-12T04:51:16.000Z",
-      "summary": "A 17-year-old boy with autism was found alive on Thursday after six days lost in eastern Australian woodlands. The boy, whom police identified only as William, had begun camping with a teenage friend when he disappeared last Friday near Walhalla, a former gold-mining town 185km east of Melbourne, police said. A police helicopter crew found him surrounded by wilderness lying in a dry creek bed, and he was later reunited with his mother. William was in good spirits and mostly in good health, the...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators",
+      "publishedAt": "2026-11-14T05:31:58.000Z",
+      "summary": "Democratic US senators have told Elon Musk to preserve all records related to his company SpaceX’s restrictions on Ukraine’s use of its Starlink and Starshield satellite services. Ukrainian forces say Starshield, the military-grade version of ‌Starlink, is vital for frontline communications and drone operations in their defence against Russian drone and missile attacks. But in mid-October, Ukrainian officials complained that the service had been restricted without explanation or warning,...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/australasia/article/3374155/autistic-teen-missing-australian-bushland-6-days-rescued-alive",
-          "publishedAt": "2026-11-12T04:51:16.000Z"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-12T02:40:18.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators",
+          "publishedAt": "2026-11-14T05:31:58.000Z"
         }
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "科技",
+        "国际组织"
+      ],
+      "score": 71,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "165637418b0764ddc7af7d26",
+      "isContinuation": false,
+      "titleZh": "美国民主党参议员要求马斯克保留有关乌克兰使用星链的记录",
+      "summaryZh": "美国民主党参议员要求埃隆·马斯克保留所有关于SpaceX限制乌克兰使用星链及Starshield卫星服务的记录。乌克兰方面表示，这些服务对于前线通信和无人机作战至关重要，但近期服务曾出现无故受限的情况。",
+      "whyImportant": "此举反映了美国立法者对私人企业在战争中控制关键军事通信基础设施的监管关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0ad18a04d3b61954",
+      "title": "German spies granted sweeping new powers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+      "publishedAt": "2026-11-14T04:41:11.000Z",
+      "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+          "publishedAt": "2026-11-14T04:41:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 66,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "393dbda5e37a5a708d0c30a8",
+      "isContinuation": false,
+      "titleZh": "德国情报机构被授予广泛的新权力",
+      "summaryZh": "在莱比锡-哈雷机场发生未遂袭击事件数月后，德国议会通过了相关立法。柏林方面将该袭击事件与俄罗斯联系起来。",
+      "whyImportant": "该立法标志着德国在应对外部安全威胁时，情报部门的监控和执法权限得到显著扩大。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fb9303c76708ab02",
+      "title": "What we know about the longest ground stop since 9/11",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T03:45:21.000Z",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-14T03:45:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 61,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cc29879e000382aad0dd30ac",
+      "isContinuation": false,
+      "titleZh": "关于“9·11”事件以来最长地面停飞事件的已知信息",
+      "summaryZh": "美国官员表示，此次大规模停飞是由旧设备过载引起的，并非网络攻击或微软系统故障所致。",
+      "whyImportant": "此次事件凸显了美国航空基础设施在应对老旧系统故障时的脆弱性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bdd0e45929053361",
+      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+      "publishedAt": "2026-11-13T13:52:11.000Z",
+      "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz. It is Iran’s first direct attack on US military installations for months. “This is a serious warning to the aggressor enemy to end its aerial mischief and oil smuggling in the strait of Hormuz,” the IRGC said. “In the event of repeated violations and aggression, the IRGC aerospace force is on full alert to confront the enemy without constraint.” Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+          "publishedAt": "2026-11-13T13:52:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "科技",
+        "能源"
+      ],
+      "score": 59,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c2c0402a89622a6063c9f1f8",
+      "isContinuation": false,
+      "titleZh": "伊朗称其在报复性打击中摧毁了巴林境内的美国军事雷达",
+      "summaryZh": "伊朗伊斯兰革命卫队声称摧毁了一座美国预警雷达，以报复美军对伊朗通信塔的空袭。这是数月来伊朗首次直接攻击美国军事设施。",
+      "whyImportant": "此举加剧了伊朗与美国在波斯湾地区的直接军事对抗风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3446f253b8be783b",
+      "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "summary": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale fighting have yet to produce a deal. The Security Council is meeting at Bahrain’s request to discuss the threat to regional and maritime security. Follow live below – and for full meetings coverage year round, go here.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+          "publishedAt": "2026-11-13T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 59,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ecd2f89ac84a2455734c3641",
+      "isContinuation": false,
+      "titleZh": "安理会直播：波斯湾局势脆弱，霍尔木兹海峡航运威胁加剧",
+      "summaryZh": "在美以对伊朗打击引发地区战争九个月后，波斯湾局势依然紧张。伊朗几乎关闭了霍尔木兹海峡，安理会正应巴林要求讨论地区及海上安全威胁。",
+      "whyImportant": "霍尔木兹海峡作为全球能源运输要道，其封锁威胁对全球能源供应和地区稳定构成重大挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9caed3d418d35d70",
+      "title": "Russia sets cull of up to 30 per cent of brown bears after 36 people killed in attacks",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374418/russia-sets-cull-30-cent-brown-bears-after-36-killed-attacks",
+      "publishedAt": "2026-11-14T02:15:05.000Z",
+      "summary": "The Russian government has established a cull of ⁠up to ⁠30 per cent of brown bear ⁠populations to keep numbers in check after bear attacks killed 36 people this year, the Ministry of Natural Resources was quoted as saying on Friday. A ministry statement, quoted by the ‌state RIA news agency, said the limit sought to better control bear populations and reduce the number of attacks and was already registered with Russia’s Justice Ministry. “Since the beginning of the year, more than 12,000...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374418/russia-sets-cull-30-cent-brown-bears-after-36-killed-attacks",
+          "publishedAt": "2026-11-14T02:15:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "def806d140943dc2d76037c8",
+      "isContinuation": false,
+      "titleZh": "俄罗斯计划捕杀多达30%的棕熊，此前已有36人死于袭击",
+      "summaryZh": "俄罗斯自然资源部宣布，为控制棕熊数量并减少袭击事件，政府已批准捕杀多达30%的棕熊种群。今年以来，俄罗斯已发生多起致命的棕熊袭击事件。",
+      "whyImportant": "该政策反映了俄罗斯在野生动物保护与公共安全之间寻求平衡的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "97d6ccad489e4c81",
+      "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+      "publishedAt": "2026-11-14T01:00:30.000Z",
+      "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email, free app or daily news podcast In a Facebook video from a Sydney anti-immigration rally on Sunday, as a man dressed like a medieval knight watches on, One Nation’s lead upper house candidate, Stuart Bonds, launches into a speech against “mass” migration. “Make no mistake, we are being demographically replaced inside our own nation,” he says. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+          "publishedAt": "2026-11-14T01:00:30.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0384bdc6d05d775e71f174ce",
+      "isContinuation": false,
+      "titleZh": "斯图尔特·邦兹发表“种族主义”和“分裂性”言论，但“一族党”未表现出撤换该新南威尔士州候选人的迹象",
+      "summaryZh": "“一族党”候选人斯图尔特·邦兹在集会上声称澳大利亚人正面临“人口更替”，引发广泛批评。尽管言论极具争议，该党目前仍未采取撤换候选人的行动。",
+      "whyImportant": "此事件凸显了澳大利亚政坛在移民议题上的极化倾向及政党对极端言论的容忍度问题。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a34a30b3f7455d87",
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "publishedAt": "2026-11-14T00:06:43.000Z",
+      "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+          "publishedAt": "2026-11-14T00:06:43.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济"
+      ],
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "53c409646c696bb53d4b16d9",
+      "isContinuation": false,
+      "titleZh": "阿富汗通往中国的新公路在关闭的边境处中断",
+      "summaryZh": "塔利班政府希望通过瓦罕走廊公路开辟新的贸易路线，以减少对巴基斯坦的依赖。然而，目前该边境口岸仍处于关闭状态。",
+      "whyImportant": "该公路的受阻反映了阿富汗在寻求经济多元化和改善地区互联互通方面面临的地缘政治障碍。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "25b6951773cfaf62",
+      "title": "UK tells blind Nigerian pensioner to go home to India",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+      "publishedAt": "2026-11-14T06:00:37.000Z",
+      "summary": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules A blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely “go home” to India. Comfort*, 67, arrived in the UK in 2000, and shortly after suddenly went blind due to acute glaucoma. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+          "publishedAt": "2026-11-14T06:00:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
@@ -168,267 +682,33 @@
         "全球焦点",
         "国际组织"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8447f4d4cecbe111b09c769d",
-      "isContinuation": false,
-      "titleZh": "在澳大利亚丛林失踪6天的自闭症少年获救",
-      "summaryZh": "一名17岁的自闭症少年在澳大利亚东部丛林失踪6天后，于周四被警方直升机发现并获救。该少年目前身体状况良好，已与家人团聚。",
-      "whyImportant": "这起搜救行动的成功引发了社会对失踪人员搜救工作的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "263f7a45ce67c612",
-      "title": "Is the US blue wave a turning point for Europe, too?",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-      "publishedAt": "2026-11-11T15:40:52.000Z",
-      "summary": "Far-right populists remain insurgent and pro-EU governments are braced for Trump’s betrayal. But the midterms also showed that democracy can fight back • Don’t get This Is Europe delivered to your inbox? Sign up here “Is Maga dead?” asked Margaret, a Guardian reader in Switzerland, in a live Q&A with our correspondents after the seismic US midterm elections. If Margaret’s query expressed a hope that the Democrats’ blue wave could transform Europe’s fortunes after two years of Maga-induced trauma, she was probably not alone. The resounding defeat for Donald Trump’s Republicans and the installation of a Democratic-controlled US Congress has been met with understandable relief in European capitals. In the short term however, the worst for Europe is not over. Trump didn’t need congressional approval, after all, to unleash a trade war on his supposed European allies, threaten to invade Greenland, try to stitch up Ukraine or go to war with Iran, an act that has inflated fuel and food prices disastrously. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-          "publishedAt": "2026-11-11T15:40:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "250b5b607538b3bc1dd62ba2",
-      "isContinuation": false,
-      "titleZh": "美国“蓝色浪潮”是否也是欧洲的转折点？",
-      "summaryZh": "美国中期选举中民主党的胜利让欧洲政界感到宽慰，但欧洲仍面临极右翼民粹主义和特朗普政策带来的长期不确定性。尽管短期内局势有所缓和，但欧洲在贸易和地缘政治方面仍需保持警惕。",
-      "whyImportant": "分析探讨了美国政治变动对欧洲地缘政治及政策走向的潜在影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "80dd20624d3c996f",
-      "title": "How are Chinese infantry units training to survive drone-filled battlefields?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3374059/how-are-chinese-infantry-units-training-survive-drone-filled-battlefields",
-      "publishedAt": "2026-11-11T14:00:08.000Z",
-      "summary": "China’s infantry units are adapting to the growing threat from drones, with some brigades introducing compulsory counter-drone training, new equipment and fresh tactics to help soldiers evade aerial surveillance and attacks. The latest example comes from a brigade of the People’s Liberation Army’s (PLA) 75th Group Army, which has made counter-drone training compulsory after an exercise exposed how troops relying on traditional camouflage were vulnerable to drone-directed artillery...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3374059/how-are-chinese-infantry-units-training-survive-drone-filled-battlefields",
-          "publishedAt": "2026-11-11T14:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7284d3d7ef393e19bada3454",
-      "isContinuation": false,
-      "titleZh": "中国步兵部队如何训练以在无人机密集的战场上生存？",
-      "summaryZh": "面对无人机威胁的日益增长，中国人民解放军步兵部队正通过引入强制性反无人机训练、新装备及新战术来提升生存能力。演习表明，传统的伪装手段已不足以应对无人机引导的精确打击。",
-      "whyImportant": "反映了现代战争中无人机技术对传统步兵战术带来的深刻变革。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8f9a86c0bb6d8631",
-      "title": "美期中選舉台灣連線大換血 外交部 ： 跨黨派友台共識仍在 - 政治",
-      "source": "news.ltn.com.tw",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5638020",
-      "publishedAt": "2026-11-12T04:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "news.ltn.com.tw",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5638020",
-          "publishedAt": "2026-11-12T04:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "08d5bcfcc41c1c5d346151af",
-      "isContinuation": false,
-      "titleZh": "美期中选举台湾连线大换血 外交部：跨党派友台共识仍在",
-      "summaryZh": "美国中期选举导致国会“台湾连线”成员发生变动。台湾外交部表示，尽管人员更迭，但美国国会支持台湾的跨党派共识依然稳固。",
-      "whyImportant": "此表态旨在强调台湾与美国国会关系的持续稳定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a6b2f9d2807ed788",
-      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "publishedAt": "2026-11-12T00:42:37.000Z",
-      "summary": "A soldier guarding the Tomb of the Unknown Soldier issued a verbal reprimand to a group of advisers and staffers with US Defence Secretary Pete Hegseth following a Veterans Day ceremony at Arlington National Cemetery. Video shows Hegseth taking photos on the empty steps in front of the tomb with his wife, Jennifer, chief of staff Ricky Buria, deputy chief of staff Patrick Weaver and senior adviser Tami Radabaugh. As the group broke from taking photos, a loud laugh could be heard, and the soldier...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-          "publishedAt": "2026-11-12T00:42:37.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374128/hegseth-and-staff-scolded-guard-after-laughter-heard-tomb-unknown-soldier",
-          "publishedAt": "2026-11-11T22:40:30.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "407440328ffdc0fd29af343a",
-      "isContinuation": false,
-      "titleZh": "赫格塞斯随行人员在无名烈士墓前遭卫兵训斥",
-      "summaryZh": "美国国防部长皮特·赫格塞斯及其随行人员在阿灵顿国家公墓参加退伍军人节仪式后，因在无名烈士墓前拍照并发出笑声，遭到了守卫士兵的口头训斥。",
-      "whyImportant": "该事件因涉及对国家纪念场所的不当行为而引发了舆论争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "955db39045169f6f",
-      "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-      "publishedAt": "2026-11-12T06:55:44.000Z",
-      "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance - the government has warned employers. While major companies like Qantas and Canva slash their workforces in restructures spurred by AI changes, workplace relations minister Amanda Rishworth said employers must give workers “a clear plan” about how automation could affect their jobs, and the opportunity to move into new roles. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-          "publishedAt": "2026-11-12T06:55:44.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "科技"
-      ],
       "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f53b1003879aab1e1b133d8e",
+      "fingerprint": "7c7445c83aa674d2f2d39c69",
       "isContinuation": false,
-      "titleZh": "工作时间减少、工资提高，还是倦怠与监控增加？雇主被要求为人工智能做好准备",
-      "summaryZh": "澳大利亚政府发布了人工智能应用最佳实践指南，警告雇主自动化可能导致入门级岗位减少。政府强调，企业必须为员工提供明确的转型计划，以应对AI带来的工作性质变化。",
-      "whyImportant": "突显了人工智能在职场应用中对劳动力市场及员工权益带来的挑战。",
+      "titleZh": "英国告知一名失明的尼日利亚退休老人回印度去",
+      "summaryZh": "一名在英国居住了26年的尼日利亚失明退休老人，因内政部的新定居规则被拒绝给予永久居留权。内政部错误地告知该女子她可以安全地“回印度”去。",
+      "whyImportant": "此事件引发了公众对英国移民政策执行准确性及人道主义考量的广泛质疑。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "91c36047d39d350d",
-      "title": "Nexperia’s China unit claims supply chain ‘localisation’ as rift with Dutch parent deepens",
+      "id": "045c40927549ec2a",
+      "title": "Hong Kong preschool rejects father’s claim son suffered head injury on campus",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-war/article/3374170/nexperias-china-unit-claims-supply-chain-localisation-rift-dutch-parent-deepens",
-      "publishedAt": "2026-11-12T06:30:07.000Z",
-      "summary": "Nexperia’s Chinese unit says its domestic 12-inch wafer platform now covers all of its product categories, marking a key milestone in building an independent supply chain more than a year after its Dutch parent halted direct shipments of European wafers. Speaking at the 23rd China International Semiconductor Expo in Beijing on Thursday, Nexperia China CEO John Chang said the local division had partnered with domestic foundries while relying on its own facilities and local contractors to handle...",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3374427/hong-kong-preschool-rejects-fathers-claim-son-suffered-head-injury-campus",
+      "publishedAt": "2026-11-14T05:44:41.000Z",
+      "summary": "A popular preschool in Kowloon Tong has rejected a parent’s allegation that his two-year-old son suffered a large bump on his head on campus, saying police had closed their investigation after finding no CCTV evidence that he had been injured on site. Cannan Kindergarten (Waterloo Road) told the South China Morning Post on Saturday that it had not received any medical reports or professional medical opinions substantiating the father’s claim that “the injuries occurred on campus”. It added that...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-war/article/3374170/nexperias-china-unit-claims-supply-chain-localisation-rift-dutch-parent-deepens",
-          "publishedAt": "2026-11-12T06:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bdf3199b5d5656fef048a8b7",
-      "isContinuation": false,
-      "titleZh": "安世半导体中国部门深化与荷兰母公司裂痕，声称实现供应链“本土化”",
-      "summaryZh": "安世半导体中国公司宣布其12英寸晶圆平台已覆盖所有产品类别，标志着在荷兰母公司停止直接供应欧洲晶圆一年多后，其独立供应链建设取得关键进展。公司首席执行官张志强表示，中国部门已通过与本土代工厂合作及利用自有设施，实现了生产自主化。",
-      "whyImportant": "此举反映了在国际贸易限制背景下，跨国企业中国分支机构为保障供应链安全而加速本土化转型的趋势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ba77fd18e98694b8",
-      "title": "Hong Kong passes bill to speed up development of Northern Metropolis megaproject",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3374173/hong-kong-passes-bill-speed-development-northern-metropolis-megaproject",
-      "publishedAt": "2026-11-12T06:25:14.000Z",
-      "summary": "Hong Kong’s legislature has given the green light to legislation aimed at expediting the development of the Northern Metropolis megaproject near the border with mainland China, with the government saying the bill will help achieve targets in the city’s first five-year plan. Lawmakers completed the third reading of the Northern Metropolis Development Bill and unanimously passed it on Thursday. The bill resumed a second reading on Wednesday, with lawmakers debating it for about eight hours over...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3374173/hong-kong-passes-bill-speed-development-northern-metropolis-megaproject",
-          "publishedAt": "2026-11-12T06:25:14.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3374427/hong-kong-preschool-rejects-fathers-claim-son-suffered-head-injury-campus",
+          "publishedAt": "2026-11-14T05:44:41.000Z"
         }
       ],
       "sourceCount": 1,
@@ -439,34 +719,120 @@
         "中国重点"
       ],
       "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0c9c2fee8e89d2344f7679de",
+      "fingerprint": "660dda7ea5c31aa35d32b022",
       "isContinuation": false,
-      "titleZh": "香港通过法案以加速“北部都会区”大型项目开发",
-      "summaryZh": "香港立法会已通过《北部都会区发展条例草案》，旨在加快这一靠近内地边境的大型开发项目进程。政府表示，该法案将有助于实现城市首个五年计划中的相关发展目标。",
-      "whyImportant": "该法案的通过为香港北部都会区的建设提供了法律保障，将直接影响香港未来的土地供应与区域经济整合。",
+      "titleZh": "香港一所幼儿园否认父亲关于其子在校头部受伤的指控",
+      "summaryZh": "九龙塘一所幼儿园否认了一名家长的指控，称其两岁儿子在校内头部受重伤。校方表示警方已结束调查，且未发现任何闭路电视证据支持该受伤发生在校内的说法。",
+      "whyImportant": "该事件反映了家长与教育机构在校园安全及证据认定方面的矛盾。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "2d88c88109c5c9e2",
-      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-      "publishedAt": "2026-11-12T06:43:31.000Z",
-      "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies. Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines. UK | Ministers are considering changing the law to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand. Climate | The UK government has appointed the world’s first special representative for climate sec",
+      "id": "f4962b7c6f76d1ed",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+      "publishedAt": "2026-11-14T04:55:58.000Z",
+      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+          "publishedAt": "2026-11-14T04:55:58.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "军事与安全",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 84,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "400e2e3ff4dca72911af4161",
+      "isContinuation": false,
+      "titleZh": "特朗普、习近平和普京将在中国举行首次三方峰会",
+      "summaryZh": "白宫表示，特朗普计划在下周亚太经合组织（APEC）会议期间，与中俄领导人讨论伊朗战争及核武器问题。",
+      "whyImportant": "此次三方会晤若成行，将是全球地缘政治格局中的重大外交事件。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "92720765a427577c",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T05:52:31.000Z",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-          "publishedAt": "2026-11-12T06:43:31.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-14T05:52:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 77,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "cc1d919aa105dddc7e67fd50",
+      "isContinuation": false,
+      "titleZh": "白宫称特朗普、普京和习近平计划下周在中国举行历史性联合会议",
+      "summaryZh": "白宫发言人表示，特朗普将在这次史无前例的会谈中讨论“削减核武器”议题。",
+      "whyImportant": "大国领导人就核裁军进行直接对话对全球安全局势具有深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "56227f666efa2268",
+      "title": "Cathay Pacific warns of delays after US ground stop hits Hong Kong-bound flights",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
+      "publishedAt": "2026-11-14T04:50:00.000Z",
+      "summary": "Two Hong Kong-bound Cathay Pacific flights from the United States have been affected by a nationwide ground stop, with the city’s flag carrier warning of further delays. The US Federal Aviation Administration (FAA) had temporarily grounded flights nationwide following a communications breakdown at regional air traffic control centres. “We’re closely monitoring the impact of the nationwide ground stop in the United States issued by the Federal Aviation Administration (FAA) earlier today,” Cathay...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
+          "publishedAt": "2026-11-14T04:50:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -477,77 +843,38 @@
         "中国重点",
         "美国重点",
         "军事与安全",
-        "科技",
-        "环境",
-        "国际组织"
+        "专题·美国政策与全球影响"
       ],
-      "score": 73,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4f668ee7a33d84961175c454",
+      "score": 75,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "9bc3d6c1a62b6d29fa5e2999",
       "isContinuation": false,
-      "titleZh": "周四简报：关于爱丽丝·黄与英伟达事件的已知与未知",
-      "summaryZh": "美国情报部门据称认为前科技高管爱丽丝·黄已被北京招募，引发了对人工智能行业安全及特朗普与英伟达首席执行官黄仁勋关系的担忧。爱丽丝·黄与黄仁勋曾有恋爱关系，目前外界正密切关注此案对英伟达及美国科技安全的影响。",
-      "whyImportant": "此事件涉及地缘政治背景下的商业间谍指控，可能对全球半导体行业领军企业的领导层及安全评估产生深远影响。",
+      "titleZh": "美国地面停飞影响赴港航班，国泰航空警告可能出现延误",
+      "summaryZh": "受美国联邦航空管理局（FAA）全国性地面停飞影响，两架从美国飞往香港的国泰航空航班受到波及。国泰航空警告称，由于美国空中交通管制中心出现通信故障，后续航班可能面临进一步延误。",
+      "whyImportant": "航空系统的技术故障对国际航空运输的准点率和运营效率造成了直接冲击。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e95aee3ab41d6549",
-      "title": "China signals focus shift to policy delivery as PBOC drops stimulus language: analysts",
+      "id": "ca18e7bc33b289fe",
+      "title": "Why Japanese DJ who survived spiked-drink ordeal in Hong Kong keeps apologising",
       "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3374160/china-signals-focus-shift-policy-delivery-pboc-drops-stimulus-language",
-      "publishedAt": "2026-11-12T05:04:45.000Z",
-      "summary": "China’s central bank’s decision to drop a reference to additional policy measures from its latest quarterly report suggests Beijing’s focus is shifting towards implementing existing support measures, analysts said, pointing to December’s annual policy-setting meeting as the next window for fresh stimulus. In its third-quarter monetary policy implementation report released on Wednesday, the People’s Bank of China (PBOC) removed a pledge included in its previous quarterly report to “timely plan...",
+      "url": "https://www.scmp.com/news/hong-kong/article/3374398/why-japanese-dj-who-survived-spiked-drink-ordeal-hong-kong-keeps-apologising",
+      "publishedAt": "2026-11-14T01:00:14.000Z",
+      "summary": "When Mao Hamasaki, also known as DJ Mao, took to the social media platform X earlier this month to recount the ordeal of consuming a spiked drink in Hong Kong, her comments were accompanied by an apology, leaving many local social media users perplexed. “They said, ‘You are the victim, why do you keep apologising and taking the blame’, making it sound like I’m putting the fault on myself. But that is honestly just how we [Japanese] talk,” she said. “People in Hong Kong are much more direct. They...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3374160/china-signals-focus-shift-policy-delivery-pboc-drops-stimulus-language",
-          "publishedAt": "2026-11-12T05:04:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "军事与安全",
-        "持续关注"
-      ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8f9321793d9110214b30f20b",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "分析师：中国央行删除刺激性措辞，政策重心转向落实",
-      "summaryZh": "中国人民银行在最新季度货币政策执行报告中删除了关于额外政策措施的表述，分析师认为这表明北京的重心已转向落实现有支持政策。市场普遍预期12月的年度政策会议将成为观察后续刺激计划的窗口。",
-      "whyImportant": "政策措辞的调整暗示中国政府目前更倾向于观察现有政策的实施效果，而非立即推出大规模增量刺激。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "38b34d2d58ce742a",
-      "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
-      "publishedAt": "2026-11-12T06:21:20.000Z",
-      "summary": "The meeting comes after the executive and co-founder admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the world’s most valuable chip company, according to multiple reports, after a tumultuous week in which the executive and co-founder of the company admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy. The meeting marks ⁠a sharp shift from Sunday, when Nvidia’s board ​expressed confidence in Huang and his leadership team, and the company’s stock slid more than 8% in after-hours trading after the Wall Street Journal reported that ⁠the company was preparing to fire Huang. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
-          "publishedAt": "2026-11-12T06:21:20.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/article/3374398/why-japanese-dj-who-survived-spiked-drink-ordeal-hong-kong-keeps-apologising",
+          "publishedAt": "2026-11-14T01:00:14.000Z"
         }
       ],
       "sourceCount": 1,
@@ -558,33 +885,33 @@
         "中国重点",
         "国际组织"
       ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "29a11db6325d8f48ed0eaac8",
+      "fingerprint": "a63d7dae65252d123ef94df5",
       "isContinuation": false,
-      "titleZh": "据报道，英伟达董事会正决定是否罢免首席执行官黄仁勋，股价随之下跌",
-      "summaryZh": "在英伟达联合创始人兼首席执行官黄仁勋承认与一名被指控为中国间谍的女性存在恋爱关系后，公司董事会于周三召开会议讨论其去留问题。此前有报道称公司正准备罢免黄仁勋，导致英伟达股价在盘后交易中大幅下跌。",
-      "whyImportant": "作为全球市值最高的芯片公司，其领导层的动荡可能引发全球科技市场及供应链的剧烈波动。",
+      "titleZh": "为何在香港遭遇饮品被下药的日本DJ不断道歉",
+      "summaryZh": "日本DJ Mao在社交媒体讲述自己在香港被下药的经历时不断道歉，引发当地网友困惑。她解释称这反映了日本文化中习惯性的礼貌表达，而非自我责备。",
+      "whyImportant": "该事件凸显了不同文化背景下在处理受害者身份与沟通方式上的差异。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "871d6c321f3e39fe",
-      "title": "As Beijing pushes for cash return, Chinese firms can unlock 15% valuation boost: report",
+      "id": "894e64e578706f88",
+      "title": "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
       "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3374146/beijing-pushes-cash-return-chinese-firms-can-unlock-15-valuation-boost-report",
-      "publishedAt": "2026-11-12T05:00:10.000Z",
-      "summary": "Chinese companies could unlock a further 15 per cent in equity valuation upside by stepping up share buy-backs and dividend payouts, as Beijing seeks to encourage listed firms to return more cash to investors, according to Goldman Sachs. The US investment bank said in a report on Wednesday that an increase in corporate payout ratios and share repurchases, in line with policymakers’ efforts to improve shareholder returns, could lift valuations of the MSCI China Index by about 15 per cent from...",
+      "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+      "publishedAt": "2026-11-14T01:00:07.000Z",
+      "summary": "China owns 80 per cent of the world’s underwater data centre patents, giving it a decisive lead in critical technologies, according to a two-decade study of global patents in the field. The findings reveal a shift away from the West in the race to build future green computing infrastructure, as China transforms from an early follower into the dominant force in subsea data technologies. “China holds competitive edges in engineering-oriented technologies such as modular construction and in situ...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3374146/beijing-pushes-cash-return-chinese-firms-can-unlock-15-valuation-boost-report",
-          "publishedAt": "2026-11-12T05:00:10.000Z"
+          "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+          "publishedAt": "2026-11-14T01:00:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -593,74 +920,37 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "金融"
+        "能源"
       ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7f5f9f4b8497a0e68acb29a0",
+      "fingerprint": "c4644c996d1709d757e62540",
       "isContinuation": false,
-      "titleZh": "报告：随着北京推动现金回报，中国企业可解锁15%的估值增长",
-      "summaryZh": "高盛在报告中指出，随着北京鼓励上市公司增加股东回报，中国企业若能加大股票回购和分红力度，有望提升估值。预计提高派息率和回购规模可使MSCI中国指数的估值提升约15%。",
-      "whyImportant": "此举旨在通过改善资本配置效率，增强中国资本市场对投资者的吸引力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1358ef601edfa5e2",
-      "title": "Chinese women believe they are long-lost twins after chance sighting in short video",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374134/chinese-twin-sisters-reunite-after-20-years-thanks-chance-sighting-short-video",
-      "publishedAt": "2026-11-12T02:18:48.000Z",
-      "summary": "A chance discovery on a short-video-sharing platform reunited two Chinese women who believe they are twins separated at birth 20 years ago. Recently, 20-year-old Shenzhen resident Luo posted a video documenting her reunion with a woman she believed to be her identical twin sister, a sibling she never knew she had. While scrolling through Douyin, Luo’s cousin came across an account belonging to a woman surnamed Xia whose face bore a striking resemblance to Luo’s. Stunned by the similarity, the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374134/chinese-twin-sisters-reunite-after-20-years-thanks-chance-sighting-short-video",
-          "publishedAt": "2026-11-12T02:18:48.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5081092921f17033e6041447",
-      "isContinuation": false,
-      "titleZh": "中国两名女子在短视频平台偶遇，确信是失散多年的双胞胎",
-      "summaryZh": "深圳20岁的罗女士在刷短视频时，其表亲发现一名长相极其相似的夏姓女子，两人随后取得联系并确认了身份。她们相信彼此是20年前出生时失散的同卵双胞胎。",
-      "whyImportant": "这一罕见的寻亲案例引发了公众对个人身份认同及社交媒体在社会连接中作用的广泛讨论。",
+      "titleZh": "随着计算能源需求增长，中国拥有全球80%的水下数据中心专利",
+      "summaryZh": "一项为期二十年的全球专利研究显示，中国掌握了全球80%的水下数据中心专利。这标志着中国在绿色计算基础设施建设领域已从追随者转变为关键技术的主导力量。",
+      "whyImportant": "中国在水下数据中心领域的专利优势将影响未来全球绿色计算基础设施的竞争格局。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "6b8a0090f1cc7ff7",
-      "title": "Biden says he would not have run again had he known of cancer",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374126/biden-says-he-wouldnt-have-run-second-term-if-hed-known-he-had-cancer",
-      "publishedAt": "2026-11-11T20:55:07.000Z",
-      "summary": "Joe Biden says he did not know he had cancer while he was US president and would not have sought a second term if he already had been diagnosed. The former Democratic president’s comments came in an interview with People magazine before the release of his White House memoir on Tuesday. “If I had known that I was feeling lousy because I had cancer,” said Biden, who turns 84 on November 20, “I would’ve not gone forward” with a 2024 re-election bid that ended after a disastrous debate performance...",
+      "id": "9d144ca940fcf85a",
+      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+      "publishedAt": "2026-11-13T20:28:20.000Z",
+      "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374126/biden-says-he-wouldnt-have-run-second-term-if-hed-known-he-had-cancer",
-          "publishedAt": "2026-11-11T20:55:07.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+          "publishedAt": "2026-11-13T20:28:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -669,36 +959,37 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "军事与安全",
-        "国际组织"
+        "专题·美国政策与全球影响"
       ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "20f92a7830f6b3f06da3a4a9",
+      "score": 56,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "aa7c551db011d881af4e870b",
       "isContinuation": false,
-      "titleZh": "拜登称若早知患癌就不会寻求连任",
-      "summaryZh": "前美国总统拜登在接受采访时表示，如果他当时知道自己身体不适是因为患有癌症，就不会参加2024年的总统竞选。他在卸任后出版的回忆录中披露了这一健康状况。",
-      "whyImportant": "这一披露解释了拜登在竞选期间表现不佳的部分原因，并引发了关于政治人物健康透明度的讨论。",
+      "titleZh": "教皇在感人重返秘鲁奇克拉约时感谢民众",
+      "summaryZh": "这位出生于芝加哥的教皇在南美之行的最后一站，受到了秘鲁沿海城市奇克拉约民众的热烈欢迎。他将此地称为自己的“第二个家”。",
+      "whyImportant": "教皇的访问加强了梵蒂冈与南美地区信众的情感纽带。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "0503ffc4c57ded34",
-      "title": "Presidential Message on Victory Day for World War I",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
-      "publishedAt": "2026-11-11T19:30:08.000Z",
-      "summary": "On November 11, 1918, after more than four grueling years, an armistice at last silenced the guns of the First World War. With enduring pride, we celebrate America’s pivotal role in winning this global conflict. The enemy was defeated with powerful weapons of land, sea, and sky and the unmatched valor of selfless heroes who […] The post Presidential Message on Victory Day for World War I appeared first on The White House.",
+      "id": "17ce9d8841384021",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "publishedAt": "2026-11-13T16:05:54.000Z",
+      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
       "language": "",
       "region": "usa",
       "crossSources": [
         {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
-          "publishedAt": "2026-11-11T19:30:08.000Z"
+          "source": "NASA",
+          "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+          "publishedAt": "2026-11-13T16:05:54.000Z"
         }
       ],
       "sourceCount": 1,
@@ -707,72 +998,39 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "军事与安全",
-        "国际组织"
+        "科技",
+        "专题·美国政策与全球影响"
       ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "eaf1b44a2ebd3ae4c87ad987",
+      "score": 56,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "美国"
+      ],
+      "fingerprint": "f182f6318a344bb6ea8246a2",
       "isContinuation": false,
-      "titleZh": "总统关于第一次世界大战胜利日的致辞",
-      "summaryZh": "1918年11月11日，历经四年多的残酷战争后，停战协议终于让第一次世界大战的炮火平息。美国政府通过致辞纪念美国在赢得这场全球冲突中所发挥的关键作用，并向参战英雄致敬。",
-      "whyImportant": "此举旨在重申美国在历史性全球冲突中的贡献，并借此纪念日强化国家认同与爱国主义精神。",
+      "titleZh": "双子座宇航员拍摄的照片启发了早期的地球观测计划",
+      "summaryZh": "1966年11月，双子座12号任务的宇航员在执行太空行走和对接任务的同时，也推动了地球观测技术的发展。这些早期太空任务为后续的月球探索及地球监测项目奠定了基础。",
+      "whyImportant": "该任务在航天史上具有里程碑意义，不仅验证了关键的太空操作技术，还开启了利用太空视角观测地球的新纪元。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e8d0b12d49faf422",
-      "title": "Famed ship SS United States sunk off coast of Florida",
+      "id": "f82418a970511a04",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T04:03:13.000Z",
-      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T18:34:45.000Z",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-12T04:03:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2476f644bd90f73c95d6635c",
-      "isContinuation": false,
-      "titleZh": "著名邮轮“美国号”在佛罗里达海岸沉没",
-      "summaryZh": "尽管活动人士曾努力争取将其保留并改建为博物馆，但该历史悠久的邮轮最终未能幸免。它现在将被沉入海底，成为世界上最大的人造海洋礁石。",
-      "whyImportant": "这标志着一艘具有历史意义的邮轮正式退役，并转变为海洋生态保护设施。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2f369d508278da65",
-      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-      "publishedAt": "2026-11-11T22:50:37.000Z",
-      "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday. The remains had been outside Brazil since the 19th century. One was taken about 190 years ago from Salvador, the capital of the state of Bahia; the other, about 160 years ago, from Rio de Janeiro – and were welcomed back in moving, subdued ceremonies in both cities. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-          "publishedAt": "2026-11-11T22:50:37.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-13T18:34:45.000Z"
         }
       ],
       "sourceCount": 1,
@@ -781,35 +1039,37 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "国际组织"
+        "专题·美国政策与全球影响"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "51c9b176db52a6da940829d0",
+      "score": 55,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "81f1f2642ecb88a6896a26a5",
       "isContinuation": false,
-      "titleZh": "两具曾被哈佛大学用于优生学研究的被奴役者遗骸被送回巴西",
-      "summaryZh": "两具被认为属于非洲或非裔巴西人的头骨遗骸已从美国遣返回巴西。这些遗骸在19世纪被带走，并曾被哈佛大学用于种族主义优生学研究，现已在巴西举行仪式迎接归国。",
-      "whyImportant": "此事件反映了学术界对历史殖民与种族主义研究的反思，以及对被奴役者尊严的修复。",
+      "titleZh": "秘鲁城市将教皇利奥视为自己人",
+      "summaryZh": "教皇利奥十四世正在秘鲁进行拉美访问，此前他刚接受了肺癌手术。当地民众对他的到访表现出极大的热情与接纳。",
+      "whyImportant": "教皇在术后坚持出访体现了其对拉美地区的重视，同时也引发了外界对其健康状况及宗教外交政策的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "57dd77ca350ebb17",
-      "title": "“We Render You the Highest Salute”: President Trump Honors America’s Veterans on Hallowed Ground at Arlington",
+      "id": "c677e2f6ebd63f4b",
+      "title": "Trump Administration Delivers Record-Setting Results Through Executive Action",
       "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/",
-      "publishedAt": "2026-11-11T22:17:51.000Z",
-      "summary": "On this Veterans Day, President Donald J. Trump stood among the fallen at Arlington National Cemetery and rendered our nation’s highest salute to the living who still carry the cost of freedom. In words that echoed across the quiet hills where generations of heroes rest, the Commander-in-Chief honored every Patriot who has worn the uniform […] The post “We Render You the Highest Salute”: President Trump Honors America’s Veterans on Hallowed Ground at Arlington appeared first on The White House.",
+      "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
+      "publishedAt": "2026-11-13T13:10:00.000Z",
+      "summary": "Under President Donald J. Trump’s leadership, the Administration has delivered historic results for the American people in just 21 months through executive action alone. The promise of America has been quickly reignited under the President’s common-sense leadership, making America the hottest nation in the world and reviving the American Dream. Crime has plummeted, merit is […] The post Trump Administration Delivers Record-Setting Results Through Executive Action appeared first on The White House.",
       "language": "",
       "region": "usa",
       "crossSources": [
         {
           "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/",
-          "publishedAt": "2026-11-11T22:17:51.000Z"
+          "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
+          "publishedAt": "2026-11-13T13:10:00.000Z"
         }
       ],
       "sourceCount": 1,
@@ -818,438 +1078,82 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "国际组织"
+        "专题·美国政策与全球影响"
       ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5ed94f97c2b49b85572501ea",
+      "score": 54,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "49eedab80de9339cf623bc07",
       "isContinuation": false,
-      "titleZh": "“我们向你们致以最高敬礼”：特朗普总统在阿灵顿国家公墓向美国退伍军人致敬",
-      "summaryZh": "在退伍军人节当天，特朗普总统在阿灵顿国家公墓向阵亡将士及退伍军人致敬。他发表讲话赞扬了所有曾身着军装的爱国者，并向那些为自由付出代价的人们表达了敬意。",
-      "whyImportant": "总统通过此举强调了对军人贡献的认可，并借此巩固与退伍军人群体的政治联系。",
+      "titleZh": "特朗普政府通过行政命令取得创纪录成果",
+      "summaryZh": "特朗普政府宣称在执政21个月内，仅通过行政命令就实现了多项历史性成果。官方表示这些举措有效提振了美国经济并改善了社会治安。",
+      "whyImportant": "此声明反映了特朗普政府强调行政效率的执政风格，并试图通过总结政绩来巩固其政治影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "75c7088a3c4ee640",
+      "title": "America’s AI bubble is a Ponzi scheme",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3373996/americas-ai-bubble-ponzi-scheme",
+      "publishedAt": "2026-11-13T12:30:07.000Z",
+      "summary": "America’s AI bubble is starting to look like a Ponzi scheme. Artificial intelligence companies increasingly rely on a data centre boom that allows them to raise more money from debt markets. But the midterm elections have swept in state governments sceptical of a mass data-centre buildout. Without the data centres to raise debt, chips don’t ship and the circular financing among AI companies might face a short circuit. Market bubbles grow out of excessive investor optimism, which can accelerate...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3373996/americas-ai-bubble-ponzi-scheme",
+          "publishedAt": "2026-11-13T12:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "金融",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 54,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "5c003222159d73303beb8b68",
+      "isContinuation": false,
+      "titleZh": "美国的AI泡沫被指为庞氏骗局",
+      "summaryZh": "分析认为，美国AI行业过度依赖数据中心建设带来的融资循环，一旦地方政府限制数据中心扩张，该模式可能面临崩溃。这种基于过度乐观预期的融资方式被质疑缺乏可持续性。",
+      "whyImportant": "该观点揭示了当前AI产业在资本运作方面存在的潜在风险，可能影响投资者对科技行业的信心。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "b8bb9c4cdad0231b",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T06:12:05.000Z",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-12T06:12:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "353fe1b6f9e1fb255c14cfb2",
-      "isContinuation": false,
-      "titleZh": "加沙民防机构称以色列袭击医院导致至少五名巴勒斯坦人死亡",
-      "summaryZh": "据发言人称，此次袭击击中了纳赛尔医院的外科部门，造成至少20人受伤并导致设施严重受损。该事件进一步加剧了当地医疗机构面临的严峻安全挑战。",
-      "whyImportant": "针对医疗设施的袭击引发了国际社会对平民保护和人道主义危机的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d95d319540d85273",
-      "title": "Silk Road in orbit: China to build 20-satellite ‘space AI’ system for Oman",
+      "id": "45b8f9fbb697aebc",
+      "title": "Melaka election: Malaysians vote as Anwar’s PH seeks to stem Umno tide",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3374157/silk-road-orbit-china-build-20-satellite-space-ai-system-oman",
-      "publishedAt": "2026-11-12T06:00:06.000Z",
-      "summary": "Hangzhou-based Star Vision will build Oman a network of 20 satellites that use AI to process images in orbit and spot ships and floods in real time, in what the company called China’s most valuable commercial space contract ever. The deal – worth over US$200 million according to the start-up – was signed in Beijing last week with Omani firm Oman Lens during a landmark state visit by the country’s ruler, Sultan Haitham bin Tariq. Besides the constellation, the package includes a satellite...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3374416/malaysias-melaka-election-begins-anwars-ph-seeks-counter-resurgent-umno",
+      "publishedAt": "2026-11-14T01:02:20.000Z",
+      "summary": "Voters are casting their ballots on Saturday to decide who will govern the southern Malaysian state of Melaka amid concerns over turnout due to rain forecasts, with the odds stacked against Prime Minister Anwar Ibrahim’s ruling Pakatan Harapan (PH) coalition against the incumbent Umno. By around 11.30am, nearly 35 per cent of the 669,211 eligible voters have cast their ballots according to the Election Commission’s online dashboard. The polls mark the third state electoral battle between PH and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3374157/silk-road-orbit-china-build-20-satellite-space-ai-system-oman",
-          "publishedAt": "2026-11-12T06:00:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "环境"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "11d5cb3de6f91fb7c699e949",
-      "isContinuation": false,
-      "titleZh": "轨道上的丝绸之路：中国将为阿曼建造20颗卫星的“空间人工智能”系统",
-      "summaryZh": "杭州星视科技公司将为阿曼建造一个由20颗卫星组成的网络，利用人工智能在轨道上实时处理图像并监测船只与洪水。这是中国目前价值最高的商业航天合同，总额超过2亿美元。",
-      "whyImportant": "该项目展示了中国在商业航天领域的出口能力，并深化了中国与阿曼在科技基础设施方面的合作。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bf486b75525366c8",
-      "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-      "publishedAt": "2026-11-12T01:27:01.000Z",
-      "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email, free app or daily news podcast New South Wales police have entered their second day searching for human remains after a human torso was found in bushland on Sydney’s lower north shore. Police were called to Lane Cove North about 2.30pm on Wednesday after receiving “a number of reports from members of the public” regarding a strong odour in the area, Supt Paul Devaney told media on Thursday morning. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-          "publishedAt": "2026-11-12T01:27:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a8f610bb3b33dd103b6329f1",
-      "isContinuation": false,
-      "titleZh": "悉尼丛林中沙发内发现人体躯干，引发凶杀案调查",
-      "summaryZh": "警方在接到公众关于异味的报告后，在悉尼北部的丛林中发现了一个装有人体躯干的沙发。目前警方已展开凶杀案调查，并正在对现场进行搜查。",
-      "whyImportant": "这一骇人听闻的发现引发了当地社区的恐慌，并促使警方启动大规模刑事调查以查明死者身份。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "more": [],
-  "metadata": {
-    "fetched": 162,
-    "deduplicated": 154,
-    "selected": 23,
-    "translated": 23,
-    "untranslated": 0,
-    "minimumRequired": 21,
-    "featured": 1,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
-    {
-      "id": "8f9a86c0bb6d8631",
-      "title": "美期中選舉台灣連線大換血 外交部 ： 跨黨派友台共識仍在 - 政治",
-      "source": "news.ltn.com.tw",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5638020",
-      "publishedAt": "2026-11-12T04:00:00.000Z",
-      "summary": "",
-      "language": "Chinese",
-      "region": "",
-      "crossSources": [
-        {
-          "source": "news.ltn.com.tw",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5638020",
-          "publishedAt": "2026-11-12T04:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "专题·全球治理与外交"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": true,
-      "topicKeywords": [
-        "外交"
-      ],
-      "fingerprint": "08d5bcfcc41c1c5d346151af",
-      "isContinuation": false,
-      "titleZh": "美期中选举台湾连线大换血 外交部：跨党派友台共识仍在",
-      "summaryZh": "美国中期选举导致国会“台湾连线”成员发生变动。台湾外交部表示，尽管人员更迭，但美国国会支持台湾的跨党派共识依然稳固。",
-      "whyImportant": "此表态旨在强调台湾与美国国会关系的持续稳定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2f56f11deb16a82f",
-      "title": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
-      "publishedAt": "2026-11-12T06:09:21.000Z",
-      "summary": "‘You just don’t mess or play with a 400-tonne train’, Sydney Trains says as 17-year-old suffers multiple injuries to head, chest and pelvis Get our breaking news email, free app or daily news podcast A 17-year-old boy is in a critical condition after falling from the outside of a train on the Sydney Harbour Bridge while he was likely train surfing, NSW police say. Around 11.30am on Thursday, emergency services were called to the railway corridor between Wynyard and Milsons Point train stations following reports someone had fallen from a northbound Tangara train onto the tracks on the bridge. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
-          "publishedAt": "2026-11-12T06:09:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b063723b486828d7f3fb4a66",
-      "isContinuation": false,
-      "titleZh": "悉尼海港大桥发生疑似“火车冲浪”事故，一名青少年伤势危急",
-      "summaryZh": "一名17岁少年在悉尼海港大桥上疑似进行“火车冲浪”时从行驶的列车外侧坠落。目前该少年头部、胸部及骨盆多处受伤，情况危急。",
-      "whyImportant": "此事件引发了公众对青少年危险行为及铁路安全监管的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1fe1ab9d58153bba",
-      "title": "Beau Lamarre-Condon says he was diagnosed with cancer by naturopath but doesn’t recall which one, trial hears",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-      "publishedAt": "2026-11-12T05:38:27.000Z",
-      "summary": "Former police officer questioned about Instagram message he asked friend to send to Jessie Baird referencing ‘cancerous tumour’ Get our breaking news email, free app or daily news podcast Beau Lamarre-Condon has claimed in court that he was diagnosed with cancer by a naturopath and has been questioned about a post-breakup message to Jesse Baird where he referred to the diagnosis. But Lamarre-Condon on Thursday told the court he could not name the naturopath or the location of their practice, claiming there had been new developments and stores had been “cleared out”. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-          "publishedAt": "2026-11-12T05:38:27.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1e7b37f10e902d0f02bc1ba1",
-      "isContinuation": false,
-      "titleZh": "庭审获悉：博·拉马尔-康登称曾被自然疗法师诊断出癌症，但记不清具体信息",
-      "summaryZh": "前警官博·拉马尔-康登在法庭上声称自己曾被自然疗法师诊断出癌症，并曾以此为由向杰西·贝尔德发送信息。然而，他在接受质询时无法提供该疗法师的姓名或诊所地址。",
-      "whyImportant": "被告关于癌症诊断的说法在法庭上受到质疑，影响了案件的审理过程。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8ef687e13d6390ee",
-      "title": "Autistic teen missing in Australian bushland for 6 days rescued alive",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/australasia/article/3374155/autistic-teen-missing-australian-bushland-6-days-rescued-alive",
-      "publishedAt": "2026-11-12T04:51:16.000Z",
-      "summary": "A 17-year-old boy with autism was found alive on Thursday after six days lost in eastern Australian woodlands. The boy, whom police identified only as William, had begun camping with a teenage friend when he disappeared last Friday near Walhalla, a former gold-mining town 185km east of Melbourne, police said. A police helicopter crew found him surrounded by wilderness lying in a dry creek bed, and he was later reunited with his mother. William was in good spirits and mostly in good health, the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/australasia/article/3374155/autistic-teen-missing-australian-bushland-6-days-rescued-alive",
-          "publishedAt": "2026-11-12T04:51:16.000Z"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-12T02:40:18.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8447f4d4cecbe111b09c769d",
-      "isContinuation": false,
-      "titleZh": "在澳大利亚丛林失踪6天的自闭症少年获救",
-      "summaryZh": "一名17岁的自闭症少年在澳大利亚东部丛林失踪6天后，于周四被警方直升机发现并获救。该少年目前身体状况良好，已与家人团聚。",
-      "whyImportant": "这起搜救行动的成功引发了社会对失踪人员搜救工作的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "263f7a45ce67c612",
-      "title": "Is the US blue wave a turning point for Europe, too?",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-      "publishedAt": "2026-11-11T15:40:52.000Z",
-      "summary": "Far-right populists remain insurgent and pro-EU governments are braced for Trump’s betrayal. But the midterms also showed that democracy can fight back • Don’t get This Is Europe delivered to your inbox? Sign up here “Is Maga dead?” asked Margaret, a Guardian reader in Switzerland, in a live Q&A with our correspondents after the seismic US midterm elections. If Margaret’s query expressed a hope that the Democrats’ blue wave could transform Europe’s fortunes after two years of Maga-induced trauma, she was probably not alone. The resounding defeat for Donald Trump’s Republicans and the installation of a Democratic-controlled US Congress has been met with understandable relief in European capitals. In the short term however, the worst for Europe is not over. Trump didn’t need congressional approval, after all, to unleash a trade war on his supposed European allies, threaten to invade Greenland, try to stitch up Ukraine or go to war with Iran, an act that has inflated fuel and food prices disastrously. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-          "publishedAt": "2026-11-11T15:40:52.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "经济",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "250b5b607538b3bc1dd62ba2",
-      "isContinuation": false,
-      "titleZh": "美国“蓝色浪潮”是否也是欧洲的转折点？",
-      "summaryZh": "美国中期选举中民主党的胜利让欧洲政界感到宽慰，但欧洲仍面临极右翼民粹主义和特朗普政策带来的长期不确定性。尽管短期内局势有所缓和，但欧洲在贸易和地缘政治方面仍需保持警惕。",
-      "whyImportant": "分析探讨了美国政治变动对欧洲地缘政治及政策走向的潜在影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "80dd20624d3c996f",
-      "title": "How are Chinese infantry units training to survive drone-filled battlefields?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3374059/how-are-chinese-infantry-units-training-survive-drone-filled-battlefields",
-      "publishedAt": "2026-11-11T14:00:08.000Z",
-      "summary": "China’s infantry units are adapting to the growing threat from drones, with some brigades introducing compulsory counter-drone training, new equipment and fresh tactics to help soldiers evade aerial surveillance and attacks. The latest example comes from a brigade of the People’s Liberation Army’s (PLA) 75th Group Army, which has made counter-drone training compulsory after an exercise exposed how troops relying on traditional camouflage were vulnerable to drone-directed artillery...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3374059/how-are-chinese-infantry-units-training-survive-drone-filled-battlefields",
-          "publishedAt": "2026-11-11T14:00:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7284d3d7ef393e19bada3454",
-      "isContinuation": false,
-      "titleZh": "中国步兵部队如何训练以在无人机密集的战场上生存？",
-      "summaryZh": "面对无人机威胁的日益增长，中国人民解放军步兵部队正通过引入强制性反无人机训练、新装备及新战术来提升生存能力。演习表明，传统的伪装手段已不足以应对无人机引导的精确打击。",
-      "whyImportant": "反映了现代战争中无人机技术对传统步兵战术带来的深刻变革。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a6b2f9d2807ed788",
-      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "publishedAt": "2026-11-12T00:42:37.000Z",
-      "summary": "A soldier guarding the Tomb of the Unknown Soldier issued a verbal reprimand to a group of advisers and staffers with US Defence Secretary Pete Hegseth following a Veterans Day ceremony at Arlington National Cemetery. Video shows Hegseth taking photos on the empty steps in front of the tomb with his wife, Jennifer, chief of staff Ricky Buria, deputy chief of staff Patrick Weaver and senior adviser Tami Radabaugh. As the group broke from taking photos, a loud laugh could be heard, and the soldier...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-          "publishedAt": "2026-11-12T00:42:37.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374128/hegseth-and-staff-scolded-guard-after-laughter-heard-tomb-unknown-soldier",
-          "publishedAt": "2026-11-11T22:40:30.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全"
-      ],
-      "score": 58,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "407440328ffdc0fd29af343a",
-      "isContinuation": false,
-      "titleZh": "赫格塞斯随行人员在无名烈士墓前遭卫兵训斥",
-      "summaryZh": "美国国防部长皮特·赫格塞斯及其随行人员在阿灵顿国家公墓参加退伍军人节仪式后，因在无名烈士墓前拍照并发出笑声，遭到了守卫士兵的口头训斥。",
-      "whyImportant": "该事件因涉及对国家纪念场所的不当行为而引发了舆论争议。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "955db39045169f6f",
-      "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-      "publishedAt": "2026-11-12T06:55:44.000Z",
-      "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance - the government has warned employers. While major companies like Qantas and Canva slash their workforces in restructures spurred by AI changes, workplace relations minister Amanda Rishworth said employers must give workers “a clear plan” about how automation could affect their jobs, and the opportunity to move into new roles. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-          "publishedAt": "2026-11-12T06:55:44.000Z"
+          "url": "https://www.scmp.com/week-asia/politics/article/3374416/malaysias-melaka-election-begins-anwars-ph-seeks-counter-resurgent-umno",
+          "publishedAt": "2026-11-14T01:02:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1259,35 +1163,725 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "科技"
+        "国际组织"
       ],
       "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "f53b1003879aab1e1b133d8e",
+      "fingerprint": "f0fe25fc6f6659458fd4137c",
       "isContinuation": false,
-      "titleZh": "工作时间减少、工资提高，还是倦怠与监控增加？雇主被要求为人工智能做好准备",
-      "summaryZh": "澳大利亚政府发布了人工智能应用最佳实践指南，警告雇主自动化可能导致入门级岗位减少。政府强调，企业必须为员工提供明确的转型计划，以应对AI带来的工作性质变化。",
-      "whyImportant": "突显了人工智能在职场应用中对劳动力市场及员工权益带来的挑战。",
+      "titleZh": "马六甲选举：马来西亚选民投票，安瓦尔的希望联盟试图遏制巫统势头",
+      "summaryZh": "马来西亚马六甲州举行选举，选民将决定该州未来的执政权。安瓦尔领导的希望联盟正面临来自巫统的严峻挑战，投票率受到天气等因素影响。",
+      "whyImportant": "此次选举被视为马来西亚政坛力量对比的风向标，对安瓦尔政府的执政稳定性具有重要参考价值。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "91c36047d39d350d",
-      "title": "Nexperia’s China unit claims supply chain ‘localisation’ as rift with Dutch parent deepens",
+      "id": "6a7a556b630cca5a",
+      "title": "US Air Force responds to suspected drone activity over UK airbase",
       "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-war/article/3374170/nexperias-china-unit-claims-supply-chain-localisation-rift-dutch-parent-deepens",
-      "publishedAt": "2026-11-12T06:30:07.000Z",
-      "summary": "Nexperia’s Chinese unit says its domestic 12-inch wafer platform now covers all of its product categories, marking a key milestone in building an independent supply chain more than a year after its Dutch parent halted direct shipments of European wafers. Speaking at the 23rd China International Semiconductor Expo in Beijing on Thursday, Nexperia China CEO John Chang said the local division had partnered with domestic foundries while relying on its own facilities and local contractors to handle...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+      "publishedAt": "2026-11-13T23:47:51.000Z",
+      "summary": "US Air Force personnel at the RAF Lakenheath base in Britain responded to “suspected unauthorised drone activity” on Friday evening, although no personnel, aircraft or infrastructure were affected, a US Air Force spokesman said. “We continue ‌to work closely with our host nation counterparts to ensure the safety and security of our US service members, US and host nation civilians, contractors and all of our families,” the spokesman added by email. The British Ministry of Defence was not...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-war/article/3374170/nexperias-china-unit-claims-supply-chain-localisation-rift-dutch-parent-deepens",
-          "publishedAt": "2026-11-12T06:30:07.000Z"
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+          "publishedAt": "2026-11-13T23:47:51.000Z"
+        },
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+          "publishedAt": "2026-11-13T22:31:05.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 57,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "fac0ea605bf4c956b8a3b1ec",
+      "isContinuation": false,
+      "titleZh": "美国空军应对英国空军基地上空的疑似无人机活动",
+      "summaryZh": "美国空军驻英国莱肯希思基地周五晚间发现疑似未经授权的无人机活动。美方表示未造成人员或设施损失，并正与英国当局密切合作以确保安全。",
+      "whyImportant": "在敏感军事设施附近出现不明无人机活动，引发了对基地安全保障及领空防御能力的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "75023870efe3e907",
+      "title": "FAA ground stop disrupts NBA, NHL and college football weekend travel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+      "publishedAt": "2026-11-14T05:42:41.000Z",
+      "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+          "publishedAt": "2026-11-14T05:42:41.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 56,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a93f1b67221970354e1f40ec",
+      "isContinuation": false,
+      "titleZh": "美国联邦航空管理局的停飞令扰乱了NBA、NHL及大学橄榄球周末出行",
+      "summaryZh": "美国联邦航空管理局实施的停飞令导致超过150万名乘客面临行程中断。航空公司警告称，此次事件将引发连锁性的航班延误。",
+      "whyImportant": "大规模的航空交通中断对体育赛事及公众出行造成了显著影响，凸显了航空系统对监管指令的高度依赖。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "more": [],
+  "metadata": {
+    "fetched": 143,
+    "deduplicated": 141,
+    "selected": 23,
+    "translated": 23,
+    "untranslated": 0,
+    "minimumRequired": 21,
+    "featured": 8,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
+    {
+      "id": "f4962b7c6f76d1ed",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+      "publishedAt": "2026-11-14T04:55:58.000Z",
+      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+          "publishedAt": "2026-11-14T04:55:58.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交",
+        "军事与安全",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 84,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "400e2e3ff4dca72911af4161",
+      "isContinuation": false,
+      "titleZh": "特朗普、习近平和普京将在中国举行首次三方峰会",
+      "summaryZh": "白宫表示，特朗普计划在下周亚太经合组织（APEC）会议期间，与中俄领导人讨论伊朗战争及核武器问题。",
+      "whyImportant": "此次三方会晤若成行，将是全球地缘政治格局中的重大外交事件。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "92720765a427577c",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T05:52:31.000Z",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-14T05:52:31.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "能源",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 77,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "cc1d919aa105dddc7e67fd50",
+      "isContinuation": false,
+      "titleZh": "白宫称特朗普、普京和习近平计划下周在中国举行历史性联合会议",
+      "summaryZh": "白宫发言人表示，特朗普将在这次史无前例的会谈中讨论“削减核武器”议题。",
+      "whyImportant": "大国领导人就核裁军进行直接对话对全球安全局势具有深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "56227f666efa2268",
+      "title": "Cathay Pacific warns of delays after US ground stop hits Hong Kong-bound flights",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
+      "publishedAt": "2026-11-14T04:50:00.000Z",
+      "summary": "Two Hong Kong-bound Cathay Pacific flights from the United States have been affected by a nationwide ground stop, with the city’s flag carrier warning of further delays. The US Federal Aviation Administration (FAA) had temporarily grounded flights nationwide following a communications breakdown at regional air traffic control centres. “We’re closely monitoring the impact of the nationwide ground stop in the United States issued by the Federal Aviation Administration (FAA) earlier today,” Cathay...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
+          "publishedAt": "2026-11-14T04:50:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "军事与安全",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 75,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "united states",
+        "美国"
+      ],
+      "fingerprint": "9bc3d6c1a62b6d29fa5e2999",
+      "isContinuation": false,
+      "titleZh": "美国地面停飞影响赴港航班，国泰航空警告可能出现延误",
+      "summaryZh": "受美国联邦航空管理局（FAA）全国性地面停飞影响，两架从美国飞往香港的国泰航空航班受到波及。国泰航空警告称，由于美国空中交通管制中心出现通信故障，后续航班可能面临进一步延误。",
+      "whyImportant": "航空系统的技术故障对国际航空运输的准点率和运营效率造成了直接冲击。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9d144ca940fcf85a",
+      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+      "publishedAt": "2026-11-13T20:28:20.000Z",
+      "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+          "publishedAt": "2026-11-13T20:28:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 56,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "aa7c551db011d881af4e870b",
+      "isContinuation": false,
+      "titleZh": "教皇在感人重返秘鲁奇克拉约时感谢民众",
+      "summaryZh": "这位出生于芝加哥的教皇在南美之行的最后一站，受到了秘鲁沿海城市奇克拉约民众的热烈欢迎。他将此地称为自己的“第二个家”。",
+      "whyImportant": "教皇的访问加强了梵蒂冈与南美地区信众的情感纽带。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "17ce9d8841384021",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "publishedAt": "2026-11-13T16:05:54.000Z",
+      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "NASA",
+          "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+          "publishedAt": "2026-11-13T16:05:54.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 56,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "美国"
+      ],
+      "fingerprint": "f182f6318a344bb6ea8246a2",
+      "isContinuation": false,
+      "titleZh": "双子座宇航员拍摄的照片启发了早期的地球观测计划",
+      "summaryZh": "1966年11月，双子座12号任务的宇航员在执行太空行走和对接任务的同时，也推动了地球观测技术的发展。这些早期太空任务为后续的月球探索及地球监测项目奠定了基础。",
+      "whyImportant": "该任务在航天史上具有里程碑意义，不仅验证了关键的太空操作技术，还开启了利用太空视角观测地球的新纪元。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f82418a970511a04",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T18:34:45.000Z",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-13T18:34:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 55,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "81f1f2642ecb88a6896a26a5",
+      "isContinuation": false,
+      "titleZh": "秘鲁城市将教皇利奥视为自己人",
+      "summaryZh": "教皇利奥十四世正在秘鲁进行拉美访问，此前他刚接受了肺癌手术。当地民众对他的到访表现出极大的热情与接纳。",
+      "whyImportant": "教皇在术后坚持出访体现了其对拉美地区的重视，同时也引发了外界对其健康状况及宗教外交政策的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c677e2f6ebd63f4b",
+      "title": "Trump Administration Delivers Record-Setting Results Through Executive Action",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
+      "publishedAt": "2026-11-13T13:10:00.000Z",
+      "summary": "Under President Donald J. Trump’s leadership, the Administration has delivered historic results for the American people in just 21 months through executive action alone. The promise of America has been quickly reignited under the President’s common-sense leadership, making America the hottest nation in the world and reviving the American Dream. Crime has plummeted, merit is […] The post Trump Administration Delivers Record-Setting Results Through Executive Action appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
+          "publishedAt": "2026-11-13T13:10:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 54,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "american",
+        "white house",
+        "美国"
+      ],
+      "fingerprint": "49eedab80de9339cf623bc07",
+      "isContinuation": false,
+      "titleZh": "特朗普政府通过行政命令取得创纪录成果",
+      "summaryZh": "特朗普政府宣称在执政21个月内，仅通过行政命令就实现了多项历史性成果。官方表示这些举措有效提振了美国经济并改善了社会治安。",
+      "whyImportant": "此声明反映了特朗普政府强调行政效率的执政风格，并试图通过总结政绩来巩固其政治影响力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "75c7088a3c4ee640",
+      "title": "America’s AI bubble is a Ponzi scheme",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3373996/americas-ai-bubble-ponzi-scheme",
+      "publishedAt": "2026-11-13T12:30:07.000Z",
+      "summary": "America’s AI bubble is starting to look like a Ponzi scheme. Artificial intelligence companies increasingly rely on a data centre boom that allows them to raise more money from debt markets. But the midterm elections have swept in state governments sceptical of a mass data-centre buildout. Without the data centres to raise debt, chips don’t ship and the circular financing among AI companies might face a short circuit. Market bubbles grow out of excessive investor optimism, which can accelerate...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3373996/americas-ai-bubble-ponzi-scheme",
+          "publishedAt": "2026-11-13T12:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "金融",
+        "科技",
+        "专题·美国政策与全球影响"
+      ],
+      "score": 54,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": true,
+      "topicKeywords": [
+        "美国"
+      ],
+      "fingerprint": "5c003222159d73303beb8b68",
+      "isContinuation": false,
+      "titleZh": "美国的AI泡沫被指为庞氏骗局",
+      "summaryZh": "分析认为，美国AI行业过度依赖数据中心建设带来的融资循环，一旦地方政府限制数据中心扩张，该模式可能面临崩溃。这种基于过度乐观预期的融资方式被质疑缺乏可持续性。",
+      "whyImportant": "该观点揭示了当前AI产业在资本运作方面存在的潜在风险，可能影响投资者对科技行业的信心。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "341b2243f279273d",
+      "title": "Musk ordered to preserve records on Ukraine’s Starlink access by Democratic US senators",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators",
+      "publishedAt": "2026-11-14T05:31:58.000Z",
+      "summary": "Democratic US senators have told Elon Musk to preserve all records related to his company SpaceX’s restrictions on Ukraine’s use of its Starlink and Starshield satellite services. Ukrainian forces say Starshield, the military-grade version of ‌Starlink, is vital for frontline communications and drone operations in their defence against Russian drone and missile attacks. But in mid-October, Ukrainian officials complained that the service had been restricted without explanation or warning,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators",
+          "publishedAt": "2026-11-14T05:31:58.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "科技",
+        "国际组织"
+      ],
+      "score": 71,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "165637418b0764ddc7af7d26",
+      "isContinuation": false,
+      "titleZh": "美国民主党参议员要求马斯克保留有关乌克兰使用星链的记录",
+      "summaryZh": "美国民主党参议员要求埃隆·马斯克保留所有关于SpaceX限制乌克兰使用星链及Starshield卫星服务的记录。乌克兰方面表示，这些服务对于前线通信和无人机作战至关重要，但近期服务曾出现无故受限的情况。",
+      "whyImportant": "此举反映了美国立法者对私人企业在战争中控制关键军事通信基础设施的监管关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0ad18a04d3b61954",
+      "title": "German spies granted sweeping new powers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+      "publishedAt": "2026-11-14T04:41:11.000Z",
+      "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+          "publishedAt": "2026-11-14T04:41:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 66,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "393dbda5e37a5a708d0c30a8",
+      "isContinuation": false,
+      "titleZh": "德国情报机构被授予广泛的新权力",
+      "summaryZh": "在莱比锡-哈雷机场发生未遂袭击事件数月后，德国议会通过了相关立法。柏林方面将该袭击事件与俄罗斯联系起来。",
+      "whyImportant": "该立法标志着德国在应对外部安全威胁时，情报部门的监控和执法权限得到显著扩大。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fb9303c76708ab02",
+      "title": "What we know about the longest ground stop since 9/11",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T03:45:21.000Z",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-14T03:45:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 61,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cc29879e000382aad0dd30ac",
+      "isContinuation": false,
+      "titleZh": "关于“9·11”事件以来最长地面停飞事件的已知信息",
+      "summaryZh": "美国官员表示，此次大规模停飞是由旧设备过载引起的，并非网络攻击或微软系统故障所致。",
+      "whyImportant": "此次事件凸显了美国航空基础设施在应对老旧系统故障时的脆弱性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "bdd0e45929053361",
+      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+      "publishedAt": "2026-11-13T13:52:11.000Z",
+      "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz. It is Iran’s first direct attack on US military installations for months. “This is a serious warning to the aggressor enemy to end its aerial mischief and oil smuggling in the strait of Hormuz,” the IRGC said. “In the event of repeated violations and aggression, the IRGC aerospace force is on full alert to confront the enemy without constraint.” Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+          "publishedAt": "2026-11-13T13:52:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "科技",
+        "能源"
+      ],
+      "score": 59,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c2c0402a89622a6063c9f1f8",
+      "isContinuation": false,
+      "titleZh": "伊朗称其在报复性打击中摧毁了巴林境内的美国军事雷达",
+      "summaryZh": "伊朗伊斯兰革命卫队声称摧毁了一座美国预警雷达，以报复美军对伊朗通信塔的空袭。这是数月来伊朗首次直接攻击美国军事设施。",
+      "whyImportant": "此举加剧了伊朗与美国在波斯湾地区的直接军事对抗风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3446f253b8be783b",
+      "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "summary": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale fighting have yet to produce a deal. The Security Council is meeting at Bahrain’s request to discuss the threat to regional and maritime security. Follow live below – and for full meetings coverage year round, go here.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+          "publishedAt": "2026-11-13T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "能源"
+      ],
+      "score": 59,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "ecd2f89ac84a2455734c3641",
+      "isContinuation": false,
+      "titleZh": "安理会直播：波斯湾局势脆弱，霍尔木兹海峡航运威胁加剧",
+      "summaryZh": "在美以对伊朗打击引发地区战争九个月后，波斯湾局势依然紧张。伊朗几乎关闭了霍尔木兹海峡，安理会正应巴林要求讨论地区及海上安全威胁。",
+      "whyImportant": "霍尔木兹海峡作为全球能源运输要道，其封锁威胁对全球能源供应和地区稳定构成重大挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9caed3d418d35d70",
+      "title": "Russia sets cull of up to 30 per cent of brown bears after 36 people killed in attacks",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374418/russia-sets-cull-30-cent-brown-bears-after-36-killed-attacks",
+      "publishedAt": "2026-11-14T02:15:05.000Z",
+      "summary": "The Russian government has established a cull of ⁠up to ⁠30 per cent of brown bear ⁠populations to keep numbers in check after bear attacks killed 36 people this year, the Ministry of Natural Resources was quoted as saying on Friday. A ministry statement, quoted by the ‌state RIA news agency, said the limit sought to better control bear populations and reduce the number of attacks and was already registered with Russia’s Justice Ministry. “Since the beginning of the year, more than 12,000...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374418/russia-sets-cull-30-cent-brown-bears-after-36-killed-attacks",
+          "publishedAt": "2026-11-14T02:15:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "def806d140943dc2d76037c8",
+      "isContinuation": false,
+      "titleZh": "俄罗斯计划捕杀多达30%的棕熊，此前已有36人死于袭击",
+      "summaryZh": "俄罗斯自然资源部宣布，为控制棕熊数量并减少袭击事件，政府已批准捕杀多达30%的棕熊种群。今年以来，俄罗斯已发生多起致命的棕熊袭击事件。",
+      "whyImportant": "该政策反映了俄罗斯在野生动物保护与公共安全之间寻求平衡的严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "97d6ccad489e4c81",
+      "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+      "publishedAt": "2026-11-14T01:00:30.000Z",
+      "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email, free app or daily news podcast In a Facebook video from a Sydney anti-immigration rally on Sunday, as a man dressed like a medieval knight watches on, One Nation’s lead upper house candidate, Stuart Bonds, launches into a speech against “mass” migration. “Make no mistake, we are being demographically replaced inside our own nation,” he says. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+          "publishedAt": "2026-11-14T01:00:30.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "0384bdc6d05d775e71f174ce",
+      "isContinuation": false,
+      "titleZh": "斯图尔特·邦兹发表“种族主义”和“分裂性”言论，但“一族党”未表现出撤换该新南威尔士州候选人的迹象",
+      "summaryZh": "“一族党”候选人斯图尔特·邦兹在集会上声称澳大利亚人正面临“人口更替”，引发广泛批评。尽管言论极具争议，该党目前仍未采取撤换候选人的行动。",
+      "whyImportant": "此事件凸显了澳大利亚政坛在移民议题上的极化倾向及政党对极端言论的容忍度问题。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a34a30b3f7455d87",
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "publishedAt": "2026-11-14T00:06:43.000Z",
+      "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+          "publishedAt": "2026-11-14T00:06:43.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1296,35 +1890,72 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "科技"
+        "经济"
       ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "bdf3199b5d5656fef048a8b7",
+      "fingerprint": "53c409646c696bb53d4b16d9",
       "isContinuation": false,
-      "titleZh": "安世半导体中国部门深化与荷兰母公司裂痕，声称实现供应链“本土化”",
-      "summaryZh": "安世半导体中国公司宣布其12英寸晶圆平台已覆盖所有产品类别，标志着在荷兰母公司停止直接供应欧洲晶圆一年多后，其独立供应链建设取得关键进展。公司首席执行官张志强表示，中国部门已通过与本土代工厂合作及利用自有设施，实现了生产自主化。",
-      "whyImportant": "此举反映了在国际贸易限制背景下，跨国企业中国分支机构为保障供应链安全而加速本土化转型的趋势。",
+      "titleZh": "阿富汗通往中国的新公路在关闭的边境处中断",
+      "summaryZh": "塔利班政府希望通过瓦罕走廊公路开辟新的贸易路线，以减少对巴基斯坦的依赖。然而，目前该边境口岸仍处于关闭状态。",
+      "whyImportant": "该公路的受阻反映了阿富汗在寻求经济多元化和改善地区互联互通方面面临的地缘政治障碍。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "ba77fd18e98694b8",
-      "title": "Hong Kong passes bill to speed up development of Northern Metropolis megaproject",
+      "id": "25b6951773cfaf62",
+      "title": "UK tells blind Nigerian pensioner to go home to India",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+      "publishedAt": "2026-11-14T06:00:37.000Z",
+      "summary": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules A blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely “go home” to India. Comfort*, 67, arrived in the UK in 2000, and shortly after suddenly went blind due to acute glaucoma. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+          "publishedAt": "2026-11-14T06:00:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "国际组织"
+      ],
+      "score": 57,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "7c7445c83aa674d2f2d39c69",
+      "isContinuation": false,
+      "titleZh": "英国告知一名失明的尼日利亚退休老人回印度去",
+      "summaryZh": "一名在英国居住了26年的尼日利亚失明退休老人，因内政部的新定居规则被拒绝给予永久居留权。内政部错误地告知该女子她可以安全地“回印度”去。",
+      "whyImportant": "此事件引发了公众对英国移民政策执行准确性及人道主义考量的广泛质疑。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "045c40927549ec2a",
+      "title": "Hong Kong preschool rejects father’s claim son suffered head injury on campus",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3374173/hong-kong-passes-bill-speed-development-northern-metropolis-megaproject",
-      "publishedAt": "2026-11-12T06:25:14.000Z",
-      "summary": "Hong Kong’s legislature has given the green light to legislation aimed at expediting the development of the Northern Metropolis megaproject near the border with mainland China, with the government saying the bill will help achieve targets in the city’s first five-year plan. Lawmakers completed the third reading of the Northern Metropolis Development Bill and unanimously passed it on Thursday. The bill resumed a second reading on Wednesday, with lawmakers debating it for about eight hours over...",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3374427/hong-kong-preschool-rejects-fathers-claim-son-suffered-head-injury-campus",
+      "publishedAt": "2026-11-14T05:44:41.000Z",
+      "summary": "A popular preschool in Kowloon Tong has rejected a parent’s allegation that his two-year-old son suffered a large bump on his head on campus, saying police had closed their investigation after finding no CCTV evidence that he had been injured on site. Cannan Kindergarten (Waterloo Road) told the South China Morning Post on Saturday that it had not received any medical reports or professional medical opinions substantiating the father’s claim that “the injuries occurred on campus”. It added that...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3374173/hong-kong-passes-bill-speed-development-northern-metropolis-megaproject",
-          "publishedAt": "2026-11-12T06:25:14.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3374427/hong-kong-preschool-rejects-fathers-claim-son-suffered-head-injury-campus",
+          "publishedAt": "2026-11-14T05:44:41.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1335,410 +1966,186 @@
         "中国重点"
       ],
       "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "0c9c2fee8e89d2344f7679de",
+      "fingerprint": "660dda7ea5c31aa35d32b022",
       "isContinuation": false,
-      "titleZh": "香港通过法案以加速“北部都会区”大型项目开发",
-      "summaryZh": "香港立法会已通过《北部都会区发展条例草案》，旨在加快这一靠近内地边境的大型开发项目进程。政府表示，该法案将有助于实现城市首个五年计划中的相关发展目标。",
-      "whyImportant": "该法案的通过为香港北部都会区的建设提供了法律保障，将直接影响香港未来的土地供应与区域经济整合。",
+      "titleZh": "香港一所幼儿园否认父亲关于其子在校头部受伤的指控",
+      "summaryZh": "九龙塘一所幼儿园否认了一名家长的指控，称其两岁儿子在校内头部受重伤。校方表示警方已结束调查，且未发现任何闭路电视证据支持该受伤发生在校内的说法。",
+      "whyImportant": "该事件反映了家长与教育机构在校园安全及证据认定方面的矛盾。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2d88c88109c5c9e2",
-      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-      "publishedAt": "2026-11-12T06:43:31.000Z",
-      "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies. Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines. UK | Ministers are considering changing the law to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand. Climate | The UK government has appointed the world’s first special representative for climate sec",
+      "id": "ca18e7bc33b289fe",
+      "title": "Why Japanese DJ who survived spiked-drink ordeal in Hong Kong keeps apologising",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/article/3374398/why-japanese-dj-who-survived-spiked-drink-ordeal-hong-kong-keeps-apologising",
+      "publishedAt": "2026-11-14T01:00:14.000Z",
+      "summary": "When Mao Hamasaki, also known as DJ Mao, took to the social media platform X earlier this month to recount the ordeal of consuming a spiked drink in Hong Kong, her comments were accompanied by an apology, leaving many local social media users perplexed. “They said, ‘You are the victim, why do you keep apologising and taking the blame’, making it sound like I’m putting the fault on myself. But that is honestly just how we [Japanese] talk,” she said. “People in Hong Kong are much more direct. They...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/article/3374398/why-japanese-dj-who-survived-spiked-drink-ordeal-hong-kong-keeps-apologising",
+          "publishedAt": "2026-11-14T01:00:14.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a63d7dae65252d123ef94df5",
+      "isContinuation": false,
+      "titleZh": "为何在香港遭遇饮品被下药的日本DJ不断道歉",
+      "summaryZh": "日本DJ Mao在社交媒体讲述自己在香港被下药的经历时不断道歉，引发当地网友困惑。她解释称这反映了日本文化中习惯性的礼貌表达，而非自我责备。",
+      "whyImportant": "该事件凸显了不同文化背景下在处理受害者身份与沟通方式上的差异。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "894e64e578706f88",
+      "title": "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+      "publishedAt": "2026-11-14T01:00:07.000Z",
+      "summary": "China owns 80 per cent of the world’s underwater data centre patents, giving it a decisive lead in critical technologies, according to a two-decade study of global patents in the field. The findings reveal a shift away from the West in the race to build future green computing infrastructure, as China transforms from an early follower into the dominant force in subsea data technologies. “China holds competitive edges in engineering-oriented technologies such as modular construction and in situ...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+          "publishedAt": "2026-11-14T01:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "能源"
+      ],
+      "score": 58,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c4644c996d1709d757e62540",
+      "isContinuation": false,
+      "titleZh": "随着计算能源需求增长，中国拥有全球80%的水下数据中心专利",
+      "summaryZh": "一项为期二十年的全球专利研究显示，中国掌握了全球80%的水下数据中心专利。这标志着中国在绿色计算基础设施建设领域已从追随者转变为关键技术的主导力量。",
+      "whyImportant": "中国在水下数据中心领域的专利优势将影响未来全球绿色计算基础设施的竞争格局。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "45b8f9fbb697aebc",
+      "title": "Melaka election: Malaysians vote as Anwar’s PH seeks to stem Umno tide",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3374416/malaysias-melaka-election-begins-anwars-ph-seeks-counter-resurgent-umno",
+      "publishedAt": "2026-11-14T01:02:20.000Z",
+      "summary": "Voters are casting their ballots on Saturday to decide who will govern the southern Malaysian state of Melaka amid concerns over turnout due to rain forecasts, with the odds stacked against Prime Minister Anwar Ibrahim’s ruling Pakatan Harapan (PH) coalition against the incumbent Umno. By around 11.30am, nearly 35 per cent of the 669,211 eligible voters have cast their ballots according to the Election Commission’s online dashboard. The polls mark the third state electoral battle between PH and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3374416/malaysias-melaka-election-begins-anwars-ph-seeks-counter-resurgent-umno",
+          "publishedAt": "2026-11-14T01:02:20.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 57,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f0fe25fc6f6659458fd4137c",
+      "isContinuation": false,
+      "titleZh": "马六甲选举：马来西亚选民投票，安瓦尔的希望联盟试图遏制巫统势头",
+      "summaryZh": "马来西亚马六甲州举行选举，选民将决定该州未来的执政权。安瓦尔领导的希望联盟正面临来自巫统的严峻挑战，投票率受到天气等因素影响。",
+      "whyImportant": "此次选举被视为马来西亚政坛力量对比的风向标，对安瓦尔政府的执政稳定性具有重要参考价值。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6a7a556b630cca5a",
+      "title": "US Air Force responds to suspected drone activity over UK airbase",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+      "publishedAt": "2026-11-13T23:47:51.000Z",
+      "summary": "US Air Force personnel at the RAF Lakenheath base in Britain responded to “suspected unauthorised drone activity” on Friday evening, although no personnel, aircraft or infrastructure were affected, a US Air Force spokesman said. “We continue ‌to work closely with our host nation counterparts to ensure the safety and security of our US service members, US and host nation civilians, contractors and all of our families,” the spokesman added by email. The British Ministry of Defence was not...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+          "publishedAt": "2026-11-13T23:47:51.000Z"
+        },
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-          "publishedAt": "2026-11-12T06:43:31.000Z"
+          "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+          "publishedAt": "2026-11-13T22:31:05.000Z"
         }
       ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "军事与安全",
-        "科技",
-        "环境",
-        "国际组织"
-      ],
-      "score": 73,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4f668ee7a33d84961175c454",
-      "isContinuation": false,
-      "titleZh": "周四简报：关于爱丽丝·黄与英伟达事件的已知与未知",
-      "summaryZh": "美国情报部门据称认为前科技高管爱丽丝·黄已被北京招募，引发了对人工智能行业安全及特朗普与英伟达首席执行官黄仁勋关系的担忧。爱丽丝·黄与黄仁勋曾有恋爱关系，目前外界正密切关注此案对英伟达及美国科技安全的影响。",
-      "whyImportant": "此事件涉及地缘政治背景下的商业间谍指控，可能对全球半导体行业领军企业的领导层及安全评估产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e95aee3ab41d6549",
-      "title": "China signals focus shift to policy delivery as PBOC drops stimulus language: analysts",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3374160/china-signals-focus-shift-policy-delivery-pboc-drops-stimulus-language",
-      "publishedAt": "2026-11-12T05:04:45.000Z",
-      "summary": "China’s central bank’s decision to drop a reference to additional policy measures from its latest quarterly report suggests Beijing’s focus is shifting towards implementing existing support measures, analysts said, pointing to December’s annual policy-setting meeting as the next window for fresh stimulus. In its third-quarter monetary policy implementation report released on Wednesday, the People’s Bank of China (PBOC) removed a pledge included in its previous quarterly report to “timely plan...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/economy/china-economy/article/3374160/china-signals-focus-shift-policy-delivery-pboc-drops-stimulus-language",
-          "publishedAt": "2026-11-12T05:04:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
+      "sourceCount": 2,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "金融",
-        "军事与安全",
-        "持续关注"
+        "全球焦点",
+        "军事与安全"
       ],
-      "score": 66,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 57,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8f9321793d9110214b30f20b",
-      "isContinuation": true,
-      "hasNewDevelopment": true,
-      "titleZh": "分析师：中国央行删除刺激性措辞，政策重心转向落实",
-      "summaryZh": "中国人民银行在最新季度货币政策执行报告中删除了关于额外政策措施的表述，分析师认为这表明北京的重心已转向落实现有支持政策。市场普遍预期12月的年度政策会议将成为观察后续刺激计划的窗口。",
-      "whyImportant": "政策措辞的调整暗示中国政府目前更倾向于观察现有政策的实施效果，而非立即推出大规模增量刺激。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "38b34d2d58ce742a",
-      "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
-      "publishedAt": "2026-11-12T06:21:20.000Z",
-      "summary": "The meeting comes after the executive and co-founder admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the world’s most valuable chip company, according to multiple reports, after a tumultuous week in which the executive and co-founder of the company admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy. The meeting marks ⁠a sharp shift from Sunday, when Nvidia’s board ​expressed confidence in Huang and his leadership team, and the company’s stock slid more than 8% in after-hours trading after the Wall Street Journal reported that ⁠the company was preparing to fire Huang. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
-          "publishedAt": "2026-11-12T06:21:20.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "29a11db6325d8f48ed0eaac8",
+      "fingerprint": "fac0ea605bf4c956b8a3b1ec",
       "isContinuation": false,
-      "titleZh": "据报道，英伟达董事会正决定是否罢免首席执行官黄仁勋，股价随之下跌",
-      "summaryZh": "在英伟达联合创始人兼首席执行官黄仁勋承认与一名被指控为中国间谍的女性存在恋爱关系后，公司董事会于周三召开会议讨论其去留问题。此前有报道称公司正准备罢免黄仁勋，导致英伟达股价在盘后交易中大幅下跌。",
-      "whyImportant": "作为全球市值最高的芯片公司，其领导层的动荡可能引发全球科技市场及供应链的剧烈波动。",
+      "titleZh": "美国空军应对英国空军基地上空的疑似无人机活动",
+      "summaryZh": "美国空军驻英国莱肯希思基地周五晚间发现疑似未经授权的无人机活动。美方表示未造成人员或设施损失，并正与英国当局密切合作以确保安全。",
+      "whyImportant": "在敏感军事设施附近出现不明无人机活动，引发了对基地安全保障及领空防御能力的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "871d6c321f3e39fe",
-      "title": "As Beijing pushes for cash return, Chinese firms can unlock 15% valuation boost: report",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3374146/beijing-pushes-cash-return-chinese-firms-can-unlock-15-valuation-boost-report",
-      "publishedAt": "2026-11-12T05:00:10.000Z",
-      "summary": "Chinese companies could unlock a further 15 per cent in equity valuation upside by stepping up share buy-backs and dividend payouts, as Beijing seeks to encourage listed firms to return more cash to investors, according to Goldman Sachs. The US investment bank said in a report on Wednesday that an increase in corporate payout ratios and share repurchases, in line with policymakers’ efforts to improve shareholder returns, could lift valuations of the MSCI China Index by about 15 per cent from...",
+      "id": "75023870efe3e907",
+      "title": "FAA ground stop disrupts NBA, NHL and college football weekend travel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+      "publishedAt": "2026-11-14T05:42:41.000Z",
+      "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3374146/beijing-pushes-cash-return-chinese-firms-can-unlock-15-valuation-boost-report",
-          "publishedAt": "2026-11-12T05:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融"
-      ],
-      "score": 61,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7f5f9f4b8497a0e68acb29a0",
-      "isContinuation": false,
-      "titleZh": "报告：随着北京推动现金回报，中国企业可解锁15%的估值增长",
-      "summaryZh": "高盛在报告中指出，随着北京鼓励上市公司增加股东回报，中国企业若能加大股票回购和分红力度，有望提升估值。预计提高派息率和回购规模可使MSCI中国指数的估值提升约15%。",
-      "whyImportant": "此举旨在通过改善资本配置效率，增强中国资本市场对投资者的吸引力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1358ef601edfa5e2",
-      "title": "Chinese women believe they are long-lost twins after chance sighting in short video",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374134/chinese-twin-sisters-reunite-after-20-years-thanks-chance-sighting-short-video",
-      "publishedAt": "2026-11-12T02:18:48.000Z",
-      "summary": "A chance discovery on a short-video-sharing platform reunited two Chinese women who believe they are twins separated at birth 20 years ago. Recently, 20-year-old Shenzhen resident Luo posted a video documenting her reunion with a woman she believed to be her identical twin sister, a sibling she never knew she had. While scrolling through Douyin, Luo’s cousin came across an account belonging to a woman surnamed Xia whose face bore a striking resemblance to Luo’s. Stunned by the similarity, the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374134/chinese-twin-sisters-reunite-after-20-years-thanks-chance-sighting-short-video",
-          "publishedAt": "2026-11-12T02:18:48.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5081092921f17033e6041447",
-      "isContinuation": false,
-      "titleZh": "中国两名女子在短视频平台偶遇，确信是失散多年的双胞胎",
-      "summaryZh": "深圳20岁的罗女士在刷短视频时，其表亲发现一名长相极其相似的夏姓女子，两人随后取得联系并确认了身份。她们相信彼此是20年前出生时失散的同卵双胞胎。",
-      "whyImportant": "这一罕见的寻亲案例引发了公众对个人身份认同及社交媒体在社会连接中作用的广泛讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6b8a0090f1cc7ff7",
-      "title": "Biden says he would not have run again had he known of cancer",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374126/biden-says-he-wouldnt-have-run-second-term-if-hed-known-he-had-cancer",
-      "publishedAt": "2026-11-11T20:55:07.000Z",
-      "summary": "Joe Biden says he did not know he had cancer while he was US president and would not have sought a second term if he already had been diagnosed. The former Democratic president’s comments came in an interview with People magazine before the release of his White House memoir on Tuesday. “If I had known that I was feeling lousy because I had cancer,” said Biden, who turns 84 on November 20, “I would’ve not gone forward” with a 2024 re-election bid that ended after a disastrous debate performance...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374126/biden-says-he-wouldnt-have-run-second-term-if-hed-known-he-had-cancer",
-          "publishedAt": "2026-11-11T20:55:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "20f92a7830f6b3f06da3a4a9",
-      "isContinuation": false,
-      "titleZh": "拜登称若早知患癌就不会寻求连任",
-      "summaryZh": "前美国总统拜登在接受采访时表示，如果他当时知道自己身体不适是因为患有癌症，就不会参加2024年的总统竞选。他在卸任后出版的回忆录中披露了这一健康状况。",
-      "whyImportant": "这一披露解释了拜登在竞选期间表现不佳的部分原因，并引发了关于政治人物健康透明度的讨论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0503ffc4c57ded34",
-      "title": "Presidential Message on Victory Day for World War I",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
-      "publishedAt": "2026-11-11T19:30:08.000Z",
-      "summary": "On November 11, 1918, after more than four grueling years, an armistice at last silenced the guns of the First World War. With enduring pride, we celebrate America’s pivotal role in winning this global conflict. The enemy was defeated with powerful weapons of land, sea, and sky and the unmatched valor of selfless heroes who […] The post Presidential Message on Victory Day for World War I appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
-          "publishedAt": "2026-11-11T19:30:08.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 59,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "eaf1b44a2ebd3ae4c87ad987",
-      "isContinuation": false,
-      "titleZh": "总统关于第一次世界大战胜利日的致辞",
-      "summaryZh": "1918年11月11日，历经四年多的残酷战争后，停战协议终于让第一次世界大战的炮火平息。美国政府通过致辞纪念美国在赢得这场全球冲突中所发挥的关键作用，并向参战英雄致敬。",
-      "whyImportant": "此举旨在重申美国在历史性全球冲突中的贡献，并借此纪念日强化国家认同与爱国主义精神。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e8d0b12d49faf422",
-      "title": "Famed ship SS United States sunk off coast of Florida",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T04:03:13.000Z",
-      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-12T04:03:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2476f644bd90f73c95d6635c",
-      "isContinuation": false,
-      "titleZh": "著名邮轮“美国号”在佛罗里达海岸沉没",
-      "summaryZh": "尽管活动人士曾努力争取将其保留并改建为博物馆，但该历史悠久的邮轮最终未能幸免。它现在将被沉入海底，成为世界上最大的人造海洋礁石。",
-      "whyImportant": "这标志着一艘具有历史意义的邮轮正式退役，并转变为海洋生态保护设施。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2f369d508278da65",
-      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-      "publishedAt": "2026-11-11T22:50:37.000Z",
-      "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday. The remains had been outside Brazil since the 19th century. One was taken about 190 years ago from Salvador, the capital of the state of Bahia; the other, about 160 years ago, from Rio de Janeiro – and were welcomed back in moving, subdued ceremonies in both cities. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-          "publishedAt": "2026-11-11T22:50:37.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "51c9b176db52a6da940829d0",
-      "isContinuation": false,
-      "titleZh": "两具曾被哈佛大学用于优生学研究的被奴役者遗骸被送回巴西",
-      "summaryZh": "两具被认为属于非洲或非裔巴西人的头骨遗骸已从美国遣返回巴西。这些遗骸在19世纪被带走，并曾被哈佛大学用于种族主义优生学研究，现已在巴西举行仪式迎接归国。",
-      "whyImportant": "此事件反映了学术界对历史殖民与种族主义研究的反思，以及对被奴役者尊严的修复。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "57dd77ca350ebb17",
-      "title": "“We Render You the Highest Salute”: President Trump Honors America’s Veterans on Hallowed Ground at Arlington",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/",
-      "publishedAt": "2026-11-11T22:17:51.000Z",
-      "summary": "On this Veterans Day, President Donald J. Trump stood among the fallen at Arlington National Cemetery and rendered our nation’s highest salute to the living who still carry the cost of freedom. In words that echoed across the quiet hills where generations of heroes rest, the Commander-in-Chief honored every Patriot who has worn the uniform […] The post “We Render You the Highest Salute”: President Trump Honors America’s Veterans on Hallowed Ground at Arlington appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/",
-          "publishedAt": "2026-11-11T22:17:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "5ed94f97c2b49b85572501ea",
-      "isContinuation": false,
-      "titleZh": "“我们向你们致以最高敬礼”：特朗普总统在阿灵顿国家公墓向美国退伍军人致敬",
-      "summaryZh": "在退伍军人节当天，特朗普总统在阿灵顿国家公墓向阵亡将士及退伍军人致敬。他发表讲话赞扬了所有曾身着军装的爱国者，并向那些为自由付出代价的人们表达了敬意。",
-      "whyImportant": "总统通过此举强调了对军人贡献的认可，并借此巩固与退伍军人群体的政治联系。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b8bb9c4cdad0231b",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T06:12:05.000Z",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-12T06:12:05.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+          "publishedAt": "2026-11-14T05:42:41.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1749,91 +2156,16 @@
         "全球焦点",
         "军事与安全"
       ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
+      "score": 56,
+      "topic": "usa",
+      "topicName": "美国政策与全球影响",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "353fe1b6f9e1fb255c14cfb2",
+      "fingerprint": "a93f1b67221970354e1f40ec",
       "isContinuation": false,
-      "titleZh": "加沙民防机构称以色列袭击医院导致至少五名巴勒斯坦人死亡",
-      "summaryZh": "据发言人称，此次袭击击中了纳赛尔医院的外科部门，造成至少20人受伤并导致设施严重受损。该事件进一步加剧了当地医疗机构面临的严峻安全挑战。",
-      "whyImportant": "针对医疗设施的袭击引发了国际社会对平民保护和人道主义危机的广泛关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d95d319540d85273",
-      "title": "Silk Road in orbit: China to build 20-satellite ‘space AI’ system for Oman",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3374157/silk-road-orbit-china-build-20-satellite-space-ai-system-oman",
-      "publishedAt": "2026-11-12T06:00:06.000Z",
-      "summary": "Hangzhou-based Star Vision will build Oman a network of 20 satellites that use AI to process images in orbit and spot ships and floods in real time, in what the company called China’s most valuable commercial space contract ever. The deal – worth over US$200 million according to the start-up – was signed in Beijing last week with Omani firm Oman Lens during a landmark state visit by the country’s ruler, Sultan Haitham bin Tariq. Besides the constellation, the package includes a satellite...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3374157/silk-road-orbit-china-build-20-satellite-space-ai-system-oman",
-          "publishedAt": "2026-11-12T06:00:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "环境"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "11d5cb3de6f91fb7c699e949",
-      "isContinuation": false,
-      "titleZh": "轨道上的丝绸之路：中国将为阿曼建造20颗卫星的“空间人工智能”系统",
-      "summaryZh": "杭州星视科技公司将为阿曼建造一个由20颗卫星组成的网络，利用人工智能在轨道上实时处理图像并监测船只与洪水。这是中国目前价值最高的商业航天合同，总额超过2亿美元。",
-      "whyImportant": "该项目展示了中国在商业航天领域的出口能力，并深化了中国与阿曼在科技基础设施方面的合作。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "bf486b75525366c8",
-      "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-      "publishedAt": "2026-11-12T01:27:01.000Z",
-      "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email, free app or daily news podcast New South Wales police have entered their second day searching for human remains after a human torso was found in bushland on Sydney’s lower north shore. Police were called to Lane Cove North about 2.30pm on Wednesday after receiving “a number of reports from members of the public” regarding a strong odour in the area, Supt Paul Devaney told media on Thursday morning. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-          "publishedAt": "2026-11-12T01:27:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 57,
-      "topic": "global-governance",
-      "topicName": "全球治理与外交",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a8f610bb3b33dd103b6329f1",
-      "isContinuation": false,
-      "titleZh": "悉尼丛林中沙发内发现人体躯干，引发凶杀案调查",
-      "summaryZh": "警方在接到公众关于异味的报告后，在悉尼北部的丛林中发现了一个装有人体躯干的沙发。目前警方已展开凶杀案调查，并正在对现场进行搜查。",
-      "whyImportant": "这一骇人听闻的发现引发了当地社区的恐慌，并促使警方启动大规模刑事调查以查明死者身份。",
+      "titleZh": "美国联邦航空管理局的停飞令扰乱了NBA、NHL及大学橄榄球周末出行",
+      "summaryZh": "美国联邦航空管理局实施的停飞令导致超过150万名乘客面临行程中断。航空公司警告称，此次事件将引发连锁性的航班延误。",
+      "whyImportant": "大规模的航空交通中断对体育赛事及公众出行造成了显著影响，凸显了航空系统对监管指令的高度依赖。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
