@@ -1,331 +1,44 @@
 {
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T07:02:57.850Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T06:43:52.163Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "usa",
-    "name": "美国政策与全球影响",
-    "description": "关注美国政治、外交、经济政策及其国际外溢效应",
-    "query": "United States policy economy diplomacy security",
+    "slug": "economy-finance",
+    "name": "全球经济与金融",
+    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
+    "query": "global economy finance trade inflation interest rates",
     "keywords": [
-      "united states",
-      "u.s.",
-      "american",
-      "washington",
-      "white house",
-      "美国",
-      "华盛顿",
-      "白宫",
-      "美联储"
+      "economy",
+      "trade",
+      "tariff",
+      "inflation",
+      "market",
+      "bank",
+      "interest rate",
+      "经济",
+      "贸易",
+      "通胀",
+      "金融",
+      "利率"
     ],
-    "accent": "#3b82f6"
+    "accent": "#10b981"
   },
-  "overview": "今日专题“美国政策与全球影响”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“全球经济与金融”。共筛选 21 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "d43f4d1466d2595f",
-      "title": "Princeton PhD student from China detained by ICE after US academic conference",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
-      "publishedAt": "2026-11-20T22:35:43.000Z",
-      "summary": "A Chinese PhD student at Princeton University, New Jersey, was detained by US Immigration and Customs Enforcement (ICE) on Thursday after presenting her research at a neuroscience conference in Washington, the South China Morning Post has confirmed. Eva Yi Xie, a third-year neuroscience student, was detained at Ronald Reagan National Airport in Washington while travelling home from the Society for Neuroscience’s annual meeting, according to a post on social media by her lab, the Brody Lab. It...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
-          "publishedAt": "2026-11-20T22:35:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "f251035af49a64bf0b4db0a5",
-      "isContinuation": false,
-      "titleZh": "普林斯顿大学中国博士生在参加美国学术会议后被ICE拘留",
-      "summaryZh": "普林斯顿大学神经科学专业博士生谢某在华盛顿参加学术会议后，于返程时在机场被美国移民和海关执法局（ICE）拘留。目前尚不清楚其被拘留的具体原因。",
-      "whyImportant": "此事件引发了学术界对中国留学生在美国科研环境及出入境安全方面的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "69042885001bee95",
-      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-      "publishedAt": "2026-11-20T22:15:07.000Z",
-      "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-          "publishedAt": "2026-11-20T22:15:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "科技",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "dbcd11330e64ff1526e94018",
-      "isContinuation": false,
-      "titleZh": "美国立法者在对华出口限制背景下推动更严格的AI芯片规则",
-      "summaryZh": "尽管华盛顿已出台限制远程访问美国先进AI芯片的新规，但美国立法者仍寻求进一步收紧相关出口管制。此举旨在进一步遏制中国在人工智能领域的技术进步。",
-      "whyImportant": "这表明美国在科技竞争中持续加大对华限制力度，可能对全球半导体供应链产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a201d50ff95f2be0",
-      "title": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
-      "publishedAt": "2026-11-21T02:31:05.000Z",
-      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act (40 U.S.C. 101 et seq.) and the common law, it is hereby ordered: Section 1. Purpose and Policy. In order to protect and serve the American people, […] The post PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
-          "publishedAt": "2026-11-21T02:31:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "u.s.",
-        "american",
-        "white house"
-      ],
-      "fingerprint": "d1a81b39f611bfc9602aee0d",
-      "isContinuation": false,
-      "titleZh": "保护行政特权并提高联邦合同效率",
-      "summaryZh": "美国总统发布行政命令，旨在保护行政特权并提升联邦合同的执行效率。该命令强调了在宪法和法律框架下，通过优化管理来服务美国人民。",
-      "whyImportant": "此行政命令旨在强化总统对联邦合同管理的控制权，并可能对政府承包商的合规要求产生影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2bde70caaf1d0148",
-      "title": "At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
-      "publishedAt": "2026-11-21T01:50:58.000Z",
-      "summary": "In a White House press briefing today, President Donald J. Trump took questions from reporters alongside Vice President JD Vance and Secretary of State Marco Rubio. Fresh off his return from Asia, President Trump used the briefing to underscore that America is negotiating from a position of restored strength — highlighting more than $17 billion […] The post At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
-          "publishedAt": "2026-11-21T01:50:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 64,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "278a8a77e4a772756f5ddabc",
-      "isContinuation": false,
-      "titleZh": "特朗普总统在新闻发布会上宣扬美国历史性胜利，并暗示将在医疗保健领域达成协议",
-      "summaryZh": "特朗普总统在白宫新闻发布会上强调，美国正处于恢复实力的谈判地位，并提到了超过170亿美元的成果。他与副总统万斯及国务卿卢比奥一同出席，并暗示将就医疗保健问题进行谈判。",
-      "whyImportant": "此举展示了特朗普政府在外交和国内政策上的优先事项及谈判策略。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "66c4dca518a09ec9",
-      "title": "NATIONAL ADOPTION MONTH, 2026",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
-      "publishedAt": "2026-11-21T02:31:38.000Z",
-      "summary": "From the moment a child is conceived, they are a gift from God, bringing hope, love, and a future filled with promise into the world. For countless children across our Nation, adoption provides the gift of a loving family and nurturing home where they can feel safe, supported, and encouraged to pursue their own unique […] The post NATIONAL ADOPTION MONTH, 2026 appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
-          "publishedAt": "2026-11-21T02:31:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 63,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "b5804d5dfb7af69631bd3695",
-      "isContinuation": false,
-      "titleZh": "2026年全国领养月",
-      "summaryZh": "白宫宣布将2026年定为全国领养月，强调每个孩子都是珍贵的礼物。领养为无数儿童提供了充满爱与支持的家庭环境，帮助他们追求未来。",
-      "whyImportant": "该声明旨在提升公众对领养重要性的认识，并倡导为儿童提供稳定的成长环境。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "402a6aa6529474b1",
-      "title": "WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
-      "publishedAt": "2026-11-20T22:57:43.000Z",
-      "summary": "“Last night, landmark permitting reform legislation passed the Senate. It’s one of the biggest things that you will see. It’s a big deal… It’s projected to put at least $1,300 a year back in the pockets of hardworking Americans.” – President Donald J. Trump President Donald J. Trump is committed to fixing America’s broken permitting system — […] The post WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
-          "publishedAt": "2026-11-20T22:57:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "00c6aab45ec2eee12337f0b5",
-      "isContinuation": false,
-      "titleZh": "各方评价：将两党《美国负担能力与就业法案》提交至特朗普总统案头",
-      "summaryZh": "参议院通过了具有里程碑意义的许可改革立法，旨在简化美国的许可制度。特朗普总统表示，该法案预计每年将为美国劳动者节省至少1300美元。",
-      "whyImportant": "该法案的通过被视为政府在经济改革和减轻民众负担方面的重要进展。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "26377587c90752a8",
-      "title": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
-      "publishedAt": "2026-11-20T16:53:12.000Z",
-      "summary": "Yesterday, President Donald J. Trump named Kirsten A. Davies to lead the White House Office of the National Cyber Director. A battle-tested cyber leader and the Pentagon’s Chief Information Officer, Davies will drive an America First cyber strategy that treats cybersecurity as national security and keeps the United States dominant and secure in cyberspace. Her […] The post President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
-          "publishedAt": "2026-11-20T16:53:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "科技",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "69ee2a0812e8fc45f53f1e4a",
-      "isContinuation": false,
-      "titleZh": "特朗普总统任命五角大楼网络主管克里斯汀·戴维斯为国家网络总监",
-      "summaryZh": "特朗普总统任命五角大楼首席信息官克里斯汀·戴维斯领导白宫国家网络总监办公室。戴维斯将负责推动“美国优先”的网络战略，将网络安全视为国家安全的核心。",
-      "whyImportant": "此项任命反映了政府对加强国家网络防御能力和保持网络空间主导地位的重视。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "22f5eaecb09c50bc",
-      "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+      "id": "96eef9501f0cde58",
+      "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-      "publishedAt": "2026-11-20T18:36:30.000Z",
-      "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States. Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+      "publishedAt": "2026-11-22T06:00:18.000Z",
+      "summary": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected chancellor of Germany. The EU had 15 member states and pro-European, centre-left parties were in power – either alone or in coalitions – in all but two of them. Brisk economic growth was lifting living standards. Eastward enlargement was under way. In Washington, Bill Clinton was pursuing the same brand of “third way” centrism as a middle path between free-market capitalism and traditional socialism. The EU felt like it had the tide of history behind it. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-          "publishedAt": "2026-11-20T18:36:30.000Z"
+          "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+          "publishedAt": "2026-11-22T06:00:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -334,79 +47,210 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "国际组织",
-        "专题·美国政策与全球影响"
+        "经济",
+        "金融",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 80,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "united states",
-        "美国"
+        "market",
+        "经济",
+        "金融"
       ],
-      "fingerprint": "289e9493ee2ff6e7072fb75f",
+      "fingerprint": "46b69ef948485473f505f776",
       "isContinuation": false,
-      "titleZh": "佛罗里达州机械师被判谋杀英国女子罪名成立",
-      "summaryZh": "佛罗里达州一名机械师因刺死一名英国音乐教师被判有罪。被告通过恋物网站诱骗受害者前往美国，随后将其杀害。",
-      "whyImportant": "此案凸显了网络交友带来的安全风险以及跨国犯罪的司法管辖挑战。",
+      "titleZh": "欧洲进入全国选举“超级周期”，结果可能动摇欧盟根基",
+      "summaryZh": "欧洲多国即将迎来一系列全国性选举，这些选举被视为对欧盟韧性的关键考验。选举结果可能改变欧洲的政治格局，并对欧盟的未来发展方向产生深远影响。",
+      "whyImportant": "欧洲政治版图的变动将直接影响欧盟的政策走向及全球地缘政治稳定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a0149a11303781b2",
+      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "publishedAt": "2026-11-22T06:00:21.000Z",
+      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, drones hanging from the ceiling, and guards in flak jackets patrolling the premises with sniffer dogs. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+          "publishedAt": "2026-11-22T06:00:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "科技",
+        "专题·全球经济与金融"
+      ],
+      "score": 69,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "f5cfd72c5dbbe164a9ac8e07",
+      "isContinuation": false,
+      "titleZh": "“严重的判断失误”：柏林艺术中心举办军事AI活动引发愤怒",
+      "summaryZh": "柏林著名的Kraftwerk艺术中心近日被改造成军火商的“作战室”，现场展示了地图、无人机及全副武装的警卫。这一充满反乌托邦色彩的活动在当地引发了强烈抗议。",
+      "whyImportant": "该事件凸显了柏林文化界对军事化活动进入艺术空间的抵触情绪。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c902a31706b5ef7e",
+      "title": "Thousands protest across Europe over living costs and housing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "publishedAt": "2026-11-21T20:47:50.000Z",
+      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+          "publishedAt": "2026-11-21T20:47:50.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "8b847967e87220786d9b1db7",
+      "isContinuation": false,
+      "titleZh": "欧洲多地爆发抗议，民众不满生活成本与住房问题",
+      "summaryZh": "继青年群体针对教育和经济困境发起抗议后，法国和葡萄牙等地再次爆发大规模示威。民众对高昂的生活成本和住房危机表示强烈不满。",
+      "whyImportant": "欧洲范围内的抗议活动显示了经济压力正持续引发社会动荡。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fd52e88d68631eb5",
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+          "publishedAt": "2026-11-21T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "环境",
+        "专题·全球经济与金融"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "17af5f33fe12e0137280f7e8",
+      "isContinuation": false,
+      "titleZh": "家园被弃、收成受损：海地农民在暴力、饥饿与厄尔尼诺现象中重建生活",
+      "summaryZh": "海地长期遭受武装团伙暴力、经济不稳定及气候冲击，导致数百万民众面临严重的粮食短缺。当地农民在极端困难的环境下艰难维持生计。",
+      "whyImportant": "海地的人道主义危机凸显了气候变化与社会动荡对脆弱国家粮食安全的叠加影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a0f99a33eb97a780",
+      "title": "Hong Kong will not rule out whistle-blower immunity in bid-rigging law: minister",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
+      "publishedAt": "2026-11-21T09:52:12.000Z",
+      "summary": "Hong Kong authorities will not rule out the inclusion of immunity provisions for whistle-blowers in proposed legal amendments to outlaw bid-rigging in building maintenance and renovation projects, the commerce chief has said. Officials vowed to amend the law after an independent committee identified bid-rigging as one of the causes behind the Tai Po fire in November 2025 that claimed 168 lives and displaced almost 5,000 people. Secretary for Commerce and Economic Development Algernon Yau...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
+          "publishedAt": "2026-11-21T09:52:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
+        "科技",
+        "专题·全球经济与金融"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "a450b9409be17e918e889063",
+      "isContinuation": false,
+      "titleZh": "香港商务及经济发展局局长：立法打击围标不排除给予举报人豁免权",
+      "summaryZh": "香港政府计划修法打击楼宇维修工程中的围标行为，商务及经济发展局局长表示，不排除在法例中加入举报人豁免条款。此举旨在根除导致大埔火灾等严重事故的行业弊病。",
+      "whyImportant": "引入举报人豁免机制有助于打破围标利益链，提升楼宇维修工程的透明度与安全性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "d880bf5a1d2dccd0",
-      "title": "Yemen’s Houthis launch strikes on Riyadh after Saudi coalition ‘special operation’",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation",
-      "publishedAt": "2026-11-21T05:40:01.000Z",
-      "summary": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them. Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis. A journalist reported hearing two explosions shortly after authorities issued an alert, later lifted, saying the city was “under a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation",
-          "publishedAt": "2026-11-21T05:40:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c4cb4f89d7a3fb5235c627af",
-      "isContinuation": false,
-      "titleZh": "也门胡塞武装在沙特联军进行“特别行动”后袭击利雅得",
-      "summaryZh": "在沙特领导的联军发动“特别行动”后，也门胡塞武装对沙特首都利雅得发动了袭击。利雅得方面支持也门政府对抗胡塞武装，近期该地区的冲突有所加剧。",
-      "whyImportant": "此次袭击标志着也门内战冲突的进一步升级，加剧了该地区的紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd2811614640e90d",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+      "id": "dc4db2d331645011",
+      "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "publishedAt": "2026-11-20T21:38:17.000Z",
-      "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+      "publishedAt": "2026-11-22T05:21:01.000Z",
+      "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email, free app or daily news podcast The twin brother of a man whose body lay undiscovered for 12 days after he was killed in a suspected hit and run in Sydney says it has left him feeling like half a person. Joshua Howard was last seen at a bus interchange in Parramatta, in western Sydney, about 10pm on 7 November. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "publishedAt": "2026-11-20T21:38:17.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+          "publishedAt": "2026-11-22T05:21:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -416,42 +260,84 @@
       "tags": [
         "全球焦点",
         "突发",
-        "金融",
-        "科技",
+        "军事与安全",
         "国际组织"
       ],
-      "score": 64,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 71,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "7755f5c473f8c13d11947a31",
+      "fingerprint": "9b7856e9b0ff013b29154584",
       "isContinuation": false,
-      "titleZh": "纳斯达克抹去2026年全部涨幅，人工智能板块抛售潮影响Anthropic上市表现",
-      "summaryZh": "受人工智能板块抛售潮影响，纳斯达克指数抹去了2026年的全部涨幅。尽管人工智能初创公司Anthropic进行了大规模IPO，但未能阻止科技股的全球性下跌。",
-      "whyImportant": "投资者对人工智能领域巨额投入的质疑引发了市场对科技股估值的担忧，导致全球股市出现显著回调。",
+      "titleZh": "悉尼男子失踪12天后被发现，警方称其死于疑似肇事逃逸",
+      "summaryZh": "31岁的约书亚·霍华德在从派对回家的路上疑似被车撞倒并抛出护栏。他的遗体在失踪12天后才被发现，其双胞胎兄弟对此深感悲痛。",
+      "whyImportant": "此案引发了公众对道路安全及失踪人口搜救效率的关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "933288238db15d27",
-      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-      "publishedAt": "2026-11-21T01:12:48.000Z",
-      "summary": "Denmark’s foreign minister on Friday said Moscow’s defence attache in Copenhagen would be expelled after Russia was suspected of being behind an attempted assassination of a Ukrainian rapper. “We have just summoned the Russian ambassador to the ministry of foreign affairs and notified him of the government’s decision to expel the Russian defence attache from Denmark” within seven days, Lars Lokke Rasmussen told a news conference. He also added Denmark was mulling suspending Schengen visas for...",
+      "id": "a0149a11303781b2",
+      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "publishedAt": "2026-11-22T06:00:21.000Z",
+      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, drones hanging from the ceiling, and guards in flak jackets patrolling the premises with sniffer dogs. Continue reading...",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-          "publishedAt": "2026-11-21T01:12:48.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+          "publishedAt": "2026-11-22T06:00:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "科技",
+        "专题·全球经济与金融"
+      ],
+      "score": 69,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "f5cfd72c5dbbe164a9ac8e07",
+      "isContinuation": false,
+      "titleZh": "“严重的判断失误”：柏林艺术中心举办军事AI活动引发愤怒",
+      "summaryZh": "柏林著名的Kraftwerk艺术中心近日被改造成军火商的“作战室”，现场展示了地图、无人机及全副武装的警卫。这一充满反乌托邦色彩的活动在当地引发了强烈抗议。",
+      "whyImportant": "该事件凸显了柏林文化界对军事化活动进入艺术空间的抵触情绪。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7b2ee0823f3ab321",
+      "title": "Dozens missing as deadly fire hits Indonesian candy factory",
+      "source": "DW",
+      "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-22T06:14:00.000Z",
+      "summary": "A fire at a confectionery factory in Indonesia's Banten province has killed at least three people. Dozens are also unaccounted for after the blaze, which destroyed large parts of the facility.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-11-22T06:14:00.000Z"
         },
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper",
-          "publishedAt": "2026-11-20T18:14:12.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T06:05:00.000Z"
         }
       ],
       "sourceCount": 2,
@@ -459,37 +345,35 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全"
+        "全球焦点"
       ],
-      "score": 63,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 58,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "8411139331da2950afa638aa",
+      "fingerprint": "2527d9ca5e17c853b7a181e0",
       "isContinuation": false,
-      "titleZh": "丹麦因涉嫌谋杀乌克兰说唱歌手阴谋驱逐俄罗斯外交官",
-      "summaryZh": "丹麦外交大臣宣布将驱逐俄罗斯驻哥本哈根的国防武官，原因是俄罗斯涉嫌参与针对一名乌克兰说唱歌手的暗杀企图。丹麦政府同时考虑暂停对俄发放申根签证。",
-      "whyImportant": "此举进一步恶化了丹麦与俄罗斯之间的外交关系，反映出欧洲国家对俄罗斯潜在渗透活动的警惕。",
+      "titleZh": "印尼糖果厂发生致命火灾，数十人失踪",
+      "summaryZh": "印度尼西亚万丹省一家糖果厂发生火灾，造成至少3人死亡。火灾摧毁了工厂大部分设施，目前仍有数十人下落不明。",
+      "whyImportant": "此次工业事故造成的人员伤亡引发了对当地工厂安全标准的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b2c4c883c1830c63",
-      "title": "Sudan’s war will end, but will it be too late?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-      "publishedAt": "2026-11-21T06:32:04.000Z",
-      "summary": "Pressure from within Sudan may achieve what international diplomacy has not.",
+      "id": "0ba1f946ec685f93",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T05:26:10.000Z",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
       "language": "",
-      "region": "middle-east",
+      "region": "international",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-          "publishedAt": "2026-11-21T06:32:04.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T05:26:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -499,72 +383,35 @@
       "tags": [
         "全球焦点",
         "外交",
-        "军事与安全"
+        "环境"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "4ab6a8c92eac2fa1913a7d58",
+      "fingerprint": "a6ce68ac6a75c8274d8f2795",
       "isContinuation": false,
-      "titleZh": "苏丹战争终将结束，但会否为时已晚？",
-      "summaryZh": "文章探讨了苏丹内部压力在推动战争结束方面可能发挥的作用。国际外交手段在解决该国冲突方面收效甚微。",
-      "whyImportant": "苏丹持续的冲突对当地人道主义状况造成了深远影响，内部动力的作用成为解决危机的关键变量。",
+      "titleZh": "新草案旨在避免气候峰会谈判破裂",
+      "summaryZh": "在土耳其举行的联合国COP31气候峰会进入延长期。各国代表正努力就新草案达成共识，以避免谈判彻底失败。",
+      "whyImportant": "气候峰会的谈判结果直接影响全球应对气候变化的政策方向。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7ad1ca3944a03233",
-      "title": "Netanyahu is playing with the fire that killed Rabin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-      "publishedAt": "2026-11-21T06:21:03.000Z",
-      "summary": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-          "publishedAt": "2026-11-21T06:21:03.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6d51d30026e441ccb0fe9d74",
-      "isContinuation": false,
-      "titleZh": "内塔尼亚胡正在玩弄曾导致拉宾遇刺的火种",
-      "summaryZh": "评论指出，内塔尼亚胡对阿拉伯议员的攻击类似于拉宾遇刺前的煽动性言论。这种做法存在引发新一轮暴力的风险。",
-      "whyImportant": "该观点强调了政治煽动对社会稳定和国家安全的潜在破坏性影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "de7f6c902fce731b",
-      "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
+      "id": "2d635062e2c3dca5",
+      "title": "Labour MPs sign up for leadership course to counter rightwing populism",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-      "publishedAt": "2026-11-21T06:00:53.000Z",
-      "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a survivor of drug-facilitated rape but said action must also focus on wider issues around sexual assault. Joanne Young, who was drugged and raped by her husband and sexually abused by men he invited into their home, warned of “serious questions about how the law deals with consent”. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+      "publishedAt": "2026-11-22T06:00:21.000Z",
+      "summary": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more than £11m to Labour More than 20 Labour MPs have signed up to a year-long leadership course helping them to counter rightwing populism and deal with hostility, run by two former No 10 advisers and ultimately funded by multimillionaire donor Gary Lubner. The training courses worth about £9,600 are being led by Ruth Turner, who was Tony Blair’s director of government relations, and Peter Hyman, who has worked for Blair, Keir Starmer and Andy Burnham’s governments. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-          "publishedAt": "2026-11-21T06:00:53.000Z"
+          "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+          "publishedAt": "2026-11-22T06:00:21.000Z"
         }
       ],
       "sourceCount": 1,
@@ -573,114 +420,75 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
         "国际组织"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "71acb3a46d44254be8169151",
+      "fingerprint": "d649c35e6731ca9b5c69f378",
       "isContinuation": false,
-      "titleZh": "活动人士支持对同意法进行审查的呼吁",
-      "summaryZh": "在一名药物辅助强奸幸存者呼吁审查同意法后，专家们表示法律中并无第三方同意的有效辩护条款。活动人士呼吁加强公众辩论并关注更广泛的性侵犯问题。",
-      "whyImportant": "此呼吁旨在推动法律改革，以更好地保护性暴力受害者并明确法律对同意权的界定。",
+      "titleZh": "工党议员参加领导力课程以应对右翼民粹主义",
+      "summaryZh": "超过20名工党议员参加了一项为期一年的领导力培训课程，旨在学习如何应对右翼民粹主义及政治敌意。该课程由前首相顾问领导，并由富豪捐赠者资助。",
+      "whyImportant": "此举反映了英国工党在政治极化背景下加强议员应对能力的策略。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "66dfca0112fe8307",
-      "title": "Deal on duty-free Swiss exports to China a boon for Hong Kong, top diplomat says",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says",
-      "publishedAt": "2026-11-21T05:08:48.000Z",
-      "summary": "The scrapping of tariffs on almost all Swiss exports to China will give Hong Kong’s finance, logistics and legal sectors a boost, the top Swiss diplomat in the city has said, as the European nation seeks more research and development (R&D) collaborations in the Northern Metropolis megadevelopment. Switzerland’s Consul General in Hong Kong Daniel Freihofer’s comments came after the presidents of the two countries met and signed an upgraded bilateral free trade agreement last month, among other...",
+      "id": "c902a31706b5ef7e",
+      "title": "Thousands protest across Europe over living costs and housing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "publishedAt": "2026-11-21T20:47:50.000Z",
+      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
       "language": "",
-      "region": "china",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says",
-          "publishedAt": "2026-11-21T05:08:48.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ae298247ff9bcad5e24e9851",
-      "isContinuation": false,
-      "titleZh": "瑞士外交官称瑞士对华免税出口协议将惠及香港",
-      "summaryZh": "随着中瑞升级自由贸易协定，瑞士对华出口关税的取消将为香港的金融、物流和法律行业带来机遇。瑞士正寻求在香港北部都会区开展更多研发合作。",
-      "whyImportant": "该协议的实施有望加强中瑞经贸联系，并为香港作为国际贸易枢纽提供新的增长动力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "22f5eaecb09c50bc",
-      "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-      "publishedAt": "2026-11-20T18:36:30.000Z",
-      "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States. Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-          "publishedAt": "2026-11-20T18:36:30.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+          "publishedAt": "2026-11-21T20:47:50.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "国际组织",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "united states",
-        "美国"
+        "经济"
       ],
-      "fingerprint": "289e9493ee2ff6e7072fb75f",
+      "fingerprint": "8b847967e87220786d9b1db7",
       "isContinuation": false,
-      "titleZh": "佛罗里达州机械师被判谋杀英国女子罪名成立",
-      "summaryZh": "佛罗里达州一名机械师因刺死一名英国音乐教师被判有罪。被告通过恋物网站诱骗受害者前往美国，随后将其杀害。",
-      "whyImportant": "此案凸显了网络交友带来的安全风险以及跨国犯罪的司法管辖挑战。",
+      "titleZh": "欧洲多地爆发抗议，民众不满生活成本与住房问题",
+      "summaryZh": "继青年群体针对教育和经济困境发起抗议后，法国和葡萄牙等地再次爆发大规模示威。民众对高昂的生活成本和住房危机表示强烈不满。",
+      "whyImportant": "欧洲范围内的抗议活动显示了经济压力正持续引发社会动荡。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "03d08e9a45dfd424",
-      "title": "Japan wants an Asian energy agency. Will the region buy in?",
+      "id": "74a634417f442408",
+      "title": "Australia-Philippine deal exposes where Asean’s architecture is weakest",
       "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
-      "publishedAt": "2026-11-21T02:00:10.000Z",
-      "summary": "Asia already has oil-sharing pacts it has never used. Now, Japan wants to add another that critics warn will do little to solve the region’s dependence on energy imports and may simply add another level of bureaucracy. Japanese Prime Minister Sanae Takaichi announced the plan on Tuesday at an Asia Zero-Emission Community leaders’ meeting in Manila, on the sidelines of this year’s Asean summit. “We would like to position this as an Asian version of the IEA,” Takaichi said, referring to the...",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest",
+      "publishedAt": "2026-11-21T21:30:05.000Z",
+      "summary": "The most revealing moment of the 49th Asean summit in Manila might have occurred beyond the plenary hall. On November 15, as Southeast Asian governments gathered to reaffirm regional cooperation, Australia and the Philippines signed a new defence cooperation arrangement intended to make their military partnership more practical. The timing was striking: the Association of Southeast Asian Nations (Asean) was celebrating its central role even as two partners were building security mechanisms...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
-          "publishedAt": "2026-11-21T02:00:10.000Z"
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest",
+          "publishedAt": "2026-11-21T21:30:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -690,274 +498,342 @@
       "tags": [
         "全球焦点",
         "外交",
-        "军事与安全",
-        "能源"
+        "军事与安全"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "6d68515ae9987b88a95220b9",
+      "fingerprint": "1bcc9d563cc399d09c537db0",
       "isContinuation": false,
-      "titleZh": "日本提议建立亚洲能源机构，该地区会买账吗？",
-      "summaryZh": "日本首相高市早苗提议建立一个类似于国际能源署（IEA）的亚洲能源机构，旨在应对能源进口依赖问题。然而，批评人士认为该计划可能只会增加官僚机构，且难以解决该地区的能源安全挑战。",
-      "whyImportant": "此举反映了日本试图在亚洲能源政策中发挥领导作用，但其有效性仍面临地区合作意愿和实际执行力的质疑。",
+      "titleZh": "澳菲协议暴露东盟架构的薄弱环节",
+      "summaryZh": "在东盟峰会期间，澳大利亚与菲律宾签署了新的防务合作协议。此举被认为在东盟强调区域合作的同时，凸显了其在安全机制上的局限性。",
+      "whyImportant": "该协议反映了亚太地区在多边框架之外寻求双边安全保障的趋势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "d9d55b2a7cb96960",
-      "title": "Trump turns White House press conference into a 2028 succession audition",
+      "id": "fd52e88d68631eb5",
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "联合国新闻",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+          "publishedAt": "2026-11-21T12:00:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "环境",
+        "专题·全球经济与金融"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "17af5f33fe12e0137280f7e8",
+      "isContinuation": false,
+      "titleZh": "家园被弃、收成受损：海地农民在暴力、饥饿与厄尔尼诺现象中重建生活",
+      "summaryZh": "海地长期遭受武装团伙暴力、经济不稳定及气候冲击，导致数百万民众面临严重的粮食短缺。当地农民在极端困难的环境下艰难维持生计。",
+      "whyImportant": "海地的人道主义危机凸显了气候变化与社会动荡对脆弱国家粮食安全的叠加影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "07e0882a22b0ec43",
+      "title": "A year of grief: Tai Po fire residents on coping with loss and trying to move on",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
+      "publishedAt": "2026-11-22T02:30:06.000Z",
+      "summary": "What has life been like for the residents of Wang Fuk Court displaced by the deadly blaze of last November? Lo Hoi-ying speaks to residents as part of a series on the first anniversary of the Tai Po fire. Vivian Lee had just finished lunch and was resting at home when she smelled smoke. At first, the 70-year-old housewife thought her domestic helper had burnt something in the kitchen. She was inspecting her hob when a neighbour knocked on her door to warn them of a fire at Wang Cheong House, six...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
+          "publishedAt": "2026-11-22T02:30:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "43d6d55a66c2a6ea992a0cdb",
+      "isContinuation": false,
+      "titleZh": "悲伤的一年：大埔火灾居民讲述如何应对失去与尝试重新生活",
+      "summaryZh": "去年11月大埔宏福苑发生致命火灾，导致大量居民流离失所。在火灾一周年之际，媒体采访了受灾居民，回顾他们过去一年在失去家园后的生活与心理重建过程。",
+      "whyImportant": "该报道关注灾后居民的心理健康与生活重建，反映了重大公共安全事故对社区的长期影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e5102d2b451f1adf",
+      "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
-      "publishedAt": "2026-11-21T00:16:26.000Z",
-      "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+      "publishedAt": "2026-11-22T02:08:49.000Z",
+      "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email, free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate from handing out how to vote cards that mimic their branding and urge people to preference it last. The decision has been welcomed by the party’s leader, Ellen Sandell, who said the flyers distributed by people wearing the exact same colour shirts as genuine Greens volunteers had already misled voters. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
-          "publishedAt": "2026-11-21T00:16:26.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+          "publishedAt": "2026-11-22T02:08:49.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "全球焦点",
+        "国际组织"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "c96eaa785cf25f504698250f",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8a92bf423653a18ccb573aae",
       "isContinuation": false,
-      "titleZh": "特朗普将白宫新闻发布会变成2028年接班人选拔赛",
-      "summaryZh": "特朗普在白宫新闻发布会上似乎在考察万斯和卢比奥作为潜在接班人的表现。尽管斯蒂芬·米勒意外抢镜，但整场活动被外界解读为特朗普在测试其潜在继任者的忠诚度与能力。",
-      "whyImportant": "这一动态凸显了特朗普在第二任期内对共和党未来领导权的影响力，以及党内潜在继任者之间的竞争态势。",
+      "titleZh": "维多利亚州绿党赢得禁令，阻止模仿其品牌但将其排在投票意向末位的“投票指南”",
+      "summaryZh": "维多利亚州绿党成功申请最高法院禁令，阻止一名独立候选人发放模仿绿党品牌形象的投票指南。该指南误导选民，将绿党排在投票意向的最后一位，引发了关于选举公平性的争议。",
+      "whyImportant": "此案凸显了选举中利用品牌混淆误导选民的风险，对维护选举公正性具有法律参考意义。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "d43f4d1466d2595f",
-      "title": "Princeton PhD student from China detained by ICE after US academic conference",
+      "id": "a251b02ef2e87733",
+      "title": "Hong Kong temperatures to fall to 16 degrees midweek as monsoon arrives",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
-      "publishedAt": "2026-11-20T22:35:43.000Z",
-      "summary": "A Chinese PhD student at Princeton University, New Jersey, was detained by US Immigration and Customs Enforcement (ICE) on Thursday after presenting her research at a neuroscience conference in Washington, the South China Morning Post has confirmed. Eva Yi Xie, a third-year neuroscience student, was detained at Ronald Reagan National Airport in Washington while travelling home from the Society for Neuroscience’s annual meeting, according to a post on social media by her lab, the Brody Lab. It...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
+      "publishedAt": "2026-11-22T05:45:02.000Z",
+      "summary": "Hong Kong is expected to turn chilly midweek, with temperatures dropping to 16 degrees Celsius (60.8 Fahrenheit) as a northeast monsoon brings cloudy skies and rain, according to the forecaster. The Hong Kong Observatory said on Sunday a fresh to strong easterly airstream would bring cloudier conditions to southern China over the next two days. Winds are forecast to turn northerly midweek, pushing temperatures down to between 16 and 20 degrees on Wednesday. In the New Territories, temperatures...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
-          "publishedAt": "2026-11-20T22:35:43.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
+          "publishedAt": "2026-11-22T05:45:02.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·美国政策与全球影响"
+        "中国重点"
       ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "f251035af49a64bf0b4db0a5",
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b52295551b55bdca615131dd",
       "isContinuation": false,
-      "titleZh": "普林斯顿大学中国博士生在参加美国学术会议后被ICE拘留",
-      "summaryZh": "普林斯顿大学神经科学专业博士生谢某在华盛顿参加学术会议后，于返程时在机场被美国移民和海关执法局（ICE）拘留。目前尚不清楚其被拘留的具体原因。",
-      "whyImportant": "此事件引发了学术界对中国留学生在美国科研环境及出入境安全方面的担忧。",
+      "titleZh": "受东北季候风影响，香港周中气温将降至16度",
+      "summaryZh": "香港天文台预计，受东北季候风影响，本周中期香港天气将转凉，气温将降至16至20摄氏度。届时将伴随多云及降雨天气，新界地区气温可能更低。",
+      "whyImportant": "气温骤降提醒市民注意保暖，并对户外活动及健康状况产生直接影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "69042885001bee95",
-      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-      "publishedAt": "2026-11-20T22:15:07.000Z",
-      "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+      "id": "1ac3def8ed8713da",
+      "title": "Experts call for stronger reef protection as 20% of coral survey sites bleached",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
+      "publishedAt": "2026-11-22T04:00:12.000Z",
+      "summary": "About 20 per cent of Hong Kong’s coral survey sites recorded minor bleaching this year, as experts called for stronger measures to protect the marine habitats from potential climate effects. The Agriculture, Fisheries and Conservation Department shared the latest data with the South China Morning Post on Friday, saying minor coral bleaching was common during the summer months in Hong Kong. However, experts said mitigation measures, such as installing shading to shield corals from UV light,...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-          "publishedAt": "2026-11-20T22:15:07.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
+          "publishedAt": "2026-11-22T04:00:12.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": true,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
         "中国重点",
-        "美国重点",
+        "环境"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a3cb3500d8f8ec57c004c156",
+      "isContinuation": false,
+      "titleZh": "专家呼吁加强珊瑚保护，20%的珊瑚调查点出现白化现象",
+      "summaryZh": "香港今年约20%的珊瑚调查点记录到轻微白化现象。专家呼吁采取更强有力的保护措施，如安装遮阳设施以减少紫外线影响，应对气候变化对海洋生态的威胁。",
+      "whyImportant": "珊瑚白化是气候变化影响海洋生态的警示，加强保护对维护香港生物多样性至关重要。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9d20407ea31a297d",
+      "title": "Hong Kong Election Committee race: turnout hits nearly 90%, exceeding 2021 total",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
+      "publishedAt": "2026-11-22T02:26:45.000Z",
+      "summary": "A total of 856 candidates are vying for 723 seats across the 31 subsectors. The elected members will join 259 members from five uncontested subsectors, 362 ex officio members and 156 members nominated by designated bodies to form the 1,500-strong electoral college. The key body will nominate and vote in next year’s chief executive election, and will nominate candidates and elect 40 of the 90 lawmakers in the 2029 Legislative Council election. The second Election Committee poll since Beijing’s...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
+          "publishedAt": "2026-11-22T02:26:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2f79b76861d5fdacce149793",
+      "isContinuation": false,
+      "titleZh": "香港选举委员会选举：投票率接近90%，超过2021年总数",
+      "summaryZh": "香港选举委员会选举投票率接近90%，超过了2021年的水平。选出的委员将组成1500人的选举委员会，负责提名及选出下任行政长官，并参与立法会议员的提名与选举。",
+      "whyImportant": "高投票率反映了选民对新选举制度下选委会职能的关注，该机构在香港政治架构中扮演核心角色。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "54bdbb67bf04a7c0",
+      "title": "Hong Kong’s Election Committee race: how voting works and new candidates to watch",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
+      "publishedAt": "2026-11-22T00:00:23.000Z",
+      "summary": "Hong Kong goes to the polls on Sunday for some 5,700 eligible voters to choose members of the powerful Election Committee, a 1,500-strong electoral college that will nominate candidates and elect the city leader in next year’s chief executive race, as well as nominate candidates and elect legislators in the 2029 Legislative Council election. Here is what you need to know about the 2026 Election Committee Subsector Ordinary Elections and the candidates to watch. 1. What is the Election...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
+          "publishedAt": "2026-11-22T00:00:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "369c2d7dd3831592cc04407a",
+      "isContinuation": false,
+      "titleZh": "香港选举委员会选举：投票机制及值得关注的新候选人",
+      "summaryZh": "香港举行选举委员会界别分组一般选举，约5700名合资格选民参与投票。此次选举选出的委员将负责未来行政长官及立法会议员的提名与选举工作。",
+      "whyImportant": "选委会选举是香港政治体制的重要组成部分，其结果直接影响未来政府领导人及立法机构的产生。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a0f99a33eb97a780",
+      "title": "Hong Kong will not rule out whistle-blower immunity in bid-rigging law: minister",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
+      "publishedAt": "2026-11-21T09:52:12.000Z",
+      "summary": "Hong Kong authorities will not rule out the inclusion of immunity provisions for whistle-blowers in proposed legal amendments to outlaw bid-rigging in building maintenance and renovation projects, the commerce chief has said. Officials vowed to amend the law after an independent committee identified bid-rigging as one of the causes behind the Tai Po fire in November 2025 that claimed 168 lives and displaced almost 5,000 people. Secretary for Commerce and Economic Development Algernon Yau...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
+          "publishedAt": "2026-11-21T09:52:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "经济",
         "科技",
-        "专题·美国政策与全球影响"
+        "专题·全球经济与金融"
       ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "washington",
-        "美国"
+        "经济"
       ],
-      "fingerprint": "dbcd11330e64ff1526e94018",
+      "fingerprint": "a450b9409be17e918e889063",
       "isContinuation": false,
-      "titleZh": "美国立法者在对华出口限制背景下推动更严格的AI芯片规则",
-      "summaryZh": "尽管华盛顿已出台限制远程访问美国先进AI芯片的新规，但美国立法者仍寻求进一步收紧相关出口管制。此举旨在进一步遏制中国在人工智能领域的技术进步。",
-      "whyImportant": "这表明美国在科技竞争中持续加大对华限制力度，可能对全球半导体供应链产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "136b4b9fdad7fb24",
-      "title": "Man, 61, arrested over fake Chanel, Dior perfumes sold in alleged scam run by his son",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375319/man-61-arrested-over-fake-chanel-dior-perfumes-sold-alleged-scam-run-his-son",
-      "publishedAt": "2026-11-21T06:37:59.000Z",
-      "summary": "A 61-year-old Hong Kong man has been arrested on suspicion of selling fake luxury perfume in an online scam operation that made more than HK$6 million (US$765,500) in illicit profits over the past two years. Customs officials, who also accused the man of money laundering, said the suspect had operated the Hong Kong side of the business for his 30-year-old son, who is alleged to have masterminded the scam operation from overseas. On Saturday, the Customs and Excise Department revealed that it had...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375319/man-61-arrested-over-fake-chanel-dior-perfumes-sold-alleged-scam-run-his-son",
-          "publishedAt": "2026-11-21T06:37:59.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4968027498aae90699441738",
-      "isContinuation": false,
-      "titleZh": "61岁男子因涉嫌参与其子经营的假冒香水诈骗案被捕",
-      "summaryZh": "一名61岁香港男子因涉嫌参与销售假冒香水诈骗案被捕，该团伙在两年内非法获利超过600万港元。警方指控该男子协助其身处海外的儿子运营香港业务，并涉及洗钱活动。",
-      "whyImportant": "此案揭示了跨境网络诈骗的运作模式，并提醒消费者警惕在线购买奢侈品的风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "94566befecfbd5b9",
-      "title": "Using IDs to check concert tickets, combat scalping could slow entry: tourism chief",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375317/using-ids-check-concert-tickets-combat-scalping-could-slow-entry-tourism-chief",
-      "publishedAt": "2026-11-21T06:07:13.000Z",
-      "summary": "Hong Kong’s tourism chief has warned that requiring fans to show identity cards that match the names on their concert tickets to combat scalping could slow entry at venues, saying arrangements would need to be discussed with organisers for each event. Secretary for Culture, Sports and Tourism Rosanna Law Shuk-pui also told a radio programme on Saturday that the city could record around 55 million visitor arrivals this year, 1.2 million more than the government’s earlier estimate of 53.8...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375317/using-ids-check-concert-tickets-combat-scalping-could-slow-entry-tourism-chief",
-          "publishedAt": "2026-11-21T06:07:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ec84876e503734c55f51db65",
-      "isContinuation": false,
-      "titleZh": "旅游局长：使用身份证核对演唱会门票以打击黄牛可能会减慢入场速度",
-      "summaryZh": "香港文化体育及旅游局局长杨润雄表示，通过核对身份证件打击演唱会黄牛票可能会导致入场效率降低，需与主办方协商具体安排。同时，预计今年香港访客量将达到5500万人次。",
-      "whyImportant": "该讨论平衡了打击票务欺诈与提升大型活动运营效率之间的矛盾，对香港旅游及娱乐产业具有参考意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5a9ab11bf151f988",
-      "title": "China’s EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
-      "publishedAt": "2026-11-21T06:00:09.000Z",
-      "summary": "Seven out of 10 car buyers in mainland China this month will opt for electric vehicles (EVs), as petrol-guzzling options fall further out of favour in the world’s largest market, according to an industry consortium. The country’s carmakers were expected to deliver 1.15 million EVs – comprising pure-electric and plug-in hybrids – to mainland customers in November, equal to 70.6 per cent of total car sales, the China Passenger Car Association (CPCA) said in a statement on Thursday. If the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
-          "publishedAt": "2026-11-21T06:00:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "afed3ece842e1f185f68edae",
-      "isContinuation": false,
-      "titleZh": "中国电动汽车普及率将超过70%，燃油车销量遭受重创",
-      "summaryZh": "中国乘用车市场协会数据显示，本月中国电动汽车（含纯电和插混）销量占比预计将达到70.6%。随着消费者偏好转向新能源，传统燃油车的市场份额正持续萎缩。",
-      "whyImportant": "这一数据标志着中国汽车市场向电动化转型的速度远超预期，将重塑全球汽车产业格局。",
+      "titleZh": "香港商务及经济发展局局长：立法打击围标不排除给予举报人豁免权",
+      "summaryZh": "香港政府计划修法打击楼宇维修工程中的围标行为，商务及经济发展局局长表示，不排除在法例中加入举报人豁免条款。此举旨在根除导致大埔火灾等严重事故的行业弊病。",
+      "whyImportant": "引入举报人豁免机制有助于打破围标利益链，提升楼宇维修工程的透明度与安全性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "usa": [
     {
-      "id": "a201d50ff95f2be0",
-      "title": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
-      "publishedAt": "2026-11-21T02:31:05.000Z",
-      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act (40 U.S.C. 101 et seq.) and the common law, it is hereby ordered: Section 1. Purpose and Policy. In order to protect and serve the American people, […] The post PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING appeared first on The White House.",
+      "id": "96eef9501f0cde58",
+      "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+      "publishedAt": "2026-11-22T06:00:18.000Z",
+      "summary": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected chancellor of Germany. The EU had 15 member states and pro-European, centre-left parties were in power – either alone or in coalitions – in all but two of them. Brisk economic growth was lifting living standards. Eastward enlargement was under way. In Washington, Bill Clinton was pursuing the same brand of “third way” centrism as a middle path between free-market capitalism and traditional socialism. The EU felt like it had the tide of history behind it. Continue reading...",
       "language": "",
-      "region": "usa",
+      "region": "international",
       "crossSources": [
         {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
-          "publishedAt": "2026-11-21T02:31:05.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+          "publishedAt": "2026-11-22T06:00:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -966,294 +842,120 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "u.s.",
-        "american",
-        "white house"
-      ],
-      "fingerprint": "d1a81b39f611bfc9602aee0d",
-      "isContinuation": false,
-      "titleZh": "保护行政特权并提高联邦合同效率",
-      "summaryZh": "美国总统发布行政命令，旨在保护行政特权并提升联邦合同的执行效率。该命令强调了在宪法和法律框架下，通过优化管理来服务美国人民。",
-      "whyImportant": "此行政命令旨在强化总统对联邦合同管理的控制权，并可能对政府承包商的合规要求产生影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2bde70caaf1d0148",
-      "title": "At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
-      "publishedAt": "2026-11-21T01:50:58.000Z",
-      "summary": "In a White House press briefing today, President Donald J. Trump took questions from reporters alongside Vice President JD Vance and Secretary of State Marco Rubio. Fresh off his return from Asia, President Trump used the briefing to underscore that America is negotiating from a position of restored strength — highlighting more than $17 billion […] The post At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
-          "publishedAt": "2026-11-21T01:50:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 64,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "278a8a77e4a772756f5ddabc",
-      "isContinuation": false,
-      "titleZh": "特朗普总统在新闻发布会上宣扬美国历史性胜利，并暗示将在医疗保健领域达成协议",
-      "summaryZh": "特朗普总统在白宫新闻发布会上强调，美国正处于恢复实力的谈判地位，并提到了超过170亿美元的成果。他与副总统万斯及国务卿卢比奥一同出席，并暗示将就医疗保健问题进行谈判。",
-      "whyImportant": "此举展示了特朗普政府在外交和国内政策上的优先事项及谈判策略。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "66c4dca518a09ec9",
-      "title": "NATIONAL ADOPTION MONTH, 2026",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
-      "publishedAt": "2026-11-21T02:31:38.000Z",
-      "summary": "From the moment a child is conceived, they are a gift from God, bringing hope, love, and a future filled with promise into the world. For countless children across our Nation, adoption provides the gift of a loving family and nurturing home where they can feel safe, supported, and encouraged to pursue their own unique […] The post NATIONAL ADOPTION MONTH, 2026 appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
-          "publishedAt": "2026-11-21T02:31:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 63,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "b5804d5dfb7af69631bd3695",
-      "isContinuation": false,
-      "titleZh": "2026年全国领养月",
-      "summaryZh": "白宫宣布将2026年定为全国领养月，强调每个孩子都是珍贵的礼物。领养为无数儿童提供了充满爱与支持的家庭环境，帮助他们追求未来。",
-      "whyImportant": "该声明旨在提升公众对领养重要性的认识，并倡导为儿童提供稳定的成长环境。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "402a6aa6529474b1",
-      "title": "WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
-      "publishedAt": "2026-11-20T22:57:43.000Z",
-      "summary": "“Last night, landmark permitting reform legislation passed the Senate. It’s one of the biggest things that you will see. It’s a big deal… It’s projected to put at least $1,300 a year back in the pockets of hardworking Americans.” – President Donald J. Trump President Donald J. Trump is committed to fixing America’s broken permitting system — […] The post WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
-          "publishedAt": "2026-11-20T22:57:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "00c6aab45ec2eee12337f0b5",
-      "isContinuation": false,
-      "titleZh": "各方评价：将两党《美国负担能力与就业法案》提交至特朗普总统案头",
-      "summaryZh": "参议院通过了具有里程碑意义的许可改革立法，旨在简化美国的许可制度。特朗普总统表示，该法案预计每年将为美国劳动者节省至少1300美元。",
-      "whyImportant": "该法案的通过被视为政府在经济改革和减轻民众负担方面的重要进展。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "26377587c90752a8",
-      "title": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
-      "publishedAt": "2026-11-20T16:53:12.000Z",
-      "summary": "Yesterday, President Donald J. Trump named Kirsten A. Davies to lead the White House Office of the National Cyber Director. A battle-tested cyber leader and the Pentagon’s Chief Information Officer, Davies will drive an America First cyber strategy that treats cybersecurity as national security and keeps the United States dominant and secure in cyberspace. Her […] The post President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
-          "publishedAt": "2026-11-20T16:53:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
+        "经济",
+        "金融",
         "军事与安全",
-        "科技",
-        "专题·美国政策与全球影响"
+        "专题·全球经济与金融"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 80,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "united states",
-        "white house",
-        "美国"
+        "market",
+        "经济",
+        "金融"
       ],
-      "fingerprint": "69ee2a0812e8fc45f53f1e4a",
+      "fingerprint": "46b69ef948485473f505f776",
       "isContinuation": false,
-      "titleZh": "特朗普总统任命五角大楼网络主管克里斯汀·戴维斯为国家网络总监",
-      "summaryZh": "特朗普总统任命五角大楼首席信息官克里斯汀·戴维斯领导白宫国家网络总监办公室。戴维斯将负责推动“美国优先”的网络战略，将网络安全视为国家安全的核心。",
-      "whyImportant": "此项任命反映了政府对加强国家网络防御能力和保持网络空间主导地位的重视。",
+      "titleZh": "欧洲进入全国选举“超级周期”，结果可能动摇欧盟根基",
+      "summaryZh": "欧洲多国即将迎来一系列全国性选举，这些选举被视为对欧盟韧性的关键考验。选举结果可能改变欧洲的政治格局，并对欧盟的未来发展方向产生深远影响。",
+      "whyImportant": "欧洲政治版图的变动将直接影响欧盟的政策走向及全球地缘政治稳定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "caa368e1c1157f45",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T22:01:19.000Z",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-21T22:01:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "48ef3ca7f0b5200847386010",
+      "isContinuation": false,
+      "titleZh": "美国前总统乔治·华盛顿的一缕头发以4000美元售出",
+      "summaryZh": "据前拥有者的后代称，这缕头发是在华盛顿1799年去世前作为友谊的象征赠送的。该物品近期在拍卖中以4000美元的价格成交。",
+      "whyImportant": "这一拍卖事件反映了历史名人遗物在收藏市场中持续存在的价值与关注度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "watch": [
     {
-      "id": "e2a13b8cf5300822",
-      "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "summary": "A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activists warn the talks are headed for failure, and negotiators search for a deal that nearly 200 governments can accept.",
+      "id": "50f4fac8f2424a22",
+      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "publishedAt": "2026-11-22T02:05:50.000Z",
+      "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
-          "publishedAt": "2026-11-20T12:00:00.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+          "publishedAt": "2026-11-22T02:05:50.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "外交",
-        "军事与安全",
-        "环境",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "美国"
-      ],
-      "fingerprint": "53ea15872401a74af1d67142",
-      "isContinuation": false,
-      "titleZh": "COP31：安塔利亚气候谈判进入最后一天，各国要求达成更强有力的协议",
-      "summaryZh": "来自欧洲、非洲、拉丁美洲和太平洋地区的国家对COP31拟议协议提出质疑，要求明确针对化石燃料采取行动并加强气候融资。随着峰会即将结束，谈判代表正努力寻求各方都能接受的方案。",
-      "whyImportant": "此次谈判的结果将直接影响全球应对气候变化的政策方向和承诺力度。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "30a73eeb618a7c1c",
-      "title": "Who are you calling a ‘Chinese honeypot’?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
-      "publishedAt": "2026-11-21T01:30:06.000Z",
-      "summary": "“Please stop being such a Chinese honeypot.” When reports emerged alleging that then-Nvidia chief executive Jensen Huang had been romantically involved with a Chinese woman suspected of espionage, my inbox filled with remarks from friends and acquaintances about my supposed career as a Chinese spy. One came from an old university mate I hadn’t seen in more than a decade. Underneath the humour was a more revealing assumption. I am a British woman of Vietnamese-Chinese ancestry, with no family...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
-          "publishedAt": "2026-11-21T01:30:06.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "国际组织"
+        "全球焦点",
+        "军事与安全"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "bac7da9c5b96d6fe89a46f02",
+      "fingerprint": "cb5d335223dcca978947b926",
       "isContinuation": false,
-      "titleZh": "你管谁叫“中国美人计”？",
-      "summaryZh": "作者分享了因其亚裔背景而遭受种族偏见和无端指控的经历。文章探讨了在涉及地缘政治的背景下，针对亚裔女性的刻板印象和歧视性言论如何影响个人生活。",
-      "whyImportant": "该文揭示了当前社会中针对特定族裔的偏见问题及其对个人造成的心理和社会影响。",
+      "titleZh": "贝森特证实因担忧伊朗威胁而居住在美军基地",
+      "summaryZh": "美国财政部长斯科特·贝森特表示，在收到以色列的警告两周后，他目前仍居住在美军基地内。此举凸显了政府高层对潜在安全威胁的重视。",
+      "whyImportant": "该消息揭示了当前地缘政治紧张局势下，美国高级官员面临的安全风险及防范措施。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b7fdc1f987cba474",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "id": "48f549e40ad0da89",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T00:01:39.000Z",
-      "summary": "New York’s Rikers Island jail complex would close by 2032 under a sweeping plan announced on Friday by Mayor Zohran Mamdani, whose strategy for finally shuttering the notorious facility hinges on substantially reducing the number of people kept behind bars. The mayor, a Democrat, unveiled the plan as the city is all but certain to blow past a legal requirement to close Rikers and replace it with four smaller, more modern jails by 2027. For years, Rikers Island has stood as a symbol of...",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T01:25:03.000Z",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-21T00:01:39.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail",
-          "publishedAt": "2026-11-20T17:00:43.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T01:25:03.000Z"
         }
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
@@ -1261,537 +963,73 @@
         "全球焦点",
         "国际组织"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "96db76abd1370645ffd293db",
+      "fingerprint": "c3cfb67f3ae7618c6e39b63e",
       "isContinuation": false,
-      "titleZh": "马姆达尼宣布计划在2032年前关闭纽约赖克斯岛监狱",
-      "summaryZh": "纽约市长马姆达尼宣布了一项新计划，旨在通过大幅减少在押人员数量，于2032年前关闭赖克斯岛监狱。该计划旨在取代此前未能按期完成的监狱改造项目。",
-      "whyImportant": "此举标志着纽约市在刑事司法改革和监狱系统管理方面采取了新的政策方向。",
+      "titleZh": "FBI十大通缉要犯名单中的墨西哥毒枭在枪战中被捕",
+      "summaryZh": "被控贩毒和酷刑的法乌斯托·伊西德罗·梅萨·弗洛雷斯在与当局的枪战后被捕。他此前一直位列联邦调查局的十大通缉要犯名单。",
+      "whyImportant": "此次逮捕行动是打击跨国贩毒集团的重要进展，有助于削弱相关犯罪组织的势力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6dac6d520a4240fa",
+      "title": "French police officers jailed for racist violence against black man in landmark ruling",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
+      "publishedAt": "2026-11-21T20:22:55.000Z",
+      "summary": "The lawyer for a black man who was beaten up by three French police officers hailed a “historic ruling” on Saturday after a court acknowledged the racist nature of the violence and sentenced them to between one and two years in prison. The assault on Michel Zecler, a music producer, took place six years ago during the coronavirus pandemic and was caught on camera. It showed the officers repeatedly punching him, using a truncheon and tear gas against him for no apparent reason. Zecler said after...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
+          "publishedAt": "2026-11-21T20:22:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "95f84f50ed11696cd4f18d75",
+      "isContinuation": false,
+      "titleZh": "法国警察因对黑人实施种族主义暴力被判入狱，裁决具有里程碑意义",
+      "summaryZh": "三名法国警察因六年前殴打音乐制作人米歇尔·泽克勒被判处一至两年监禁。法院认定该暴力行为具有种族主义性质，受害者律师称此裁决具有历史意义。",
+      "whyImportant": "该判决标志着法国司法系统在处理执法人员种族歧视和暴力问题上迈出了重要一步。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
-  "more": [],
-  "metadata": {
-    "fetched": 157,
-    "deduplicated": 153,
-    "selected": 23,
-    "translated": 23,
-    "untranslated": 0,
-    "minimumRequired": 21,
-    "featured": 8,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
+  "more": [
     {
-      "id": "d43f4d1466d2595f",
-      "title": "Princeton PhD student from China detained by ICE after US academic conference",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
-      "publishedAt": "2026-11-20T22:35:43.000Z",
-      "summary": "A Chinese PhD student at Princeton University, New Jersey, was detained by US Immigration and Customs Enforcement (ICE) on Thursday after presenting her research at a neuroscience conference in Washington, the South China Morning Post has confirmed. Eva Yi Xie, a third-year neuroscience student, was detained at Ronald Reagan National Airport in Washington while travelling home from the Society for Neuroscience’s annual meeting, according to a post on social media by her lab, the Brody Lab. It...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
-          "publishedAt": "2026-11-20T22:35:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "f251035af49a64bf0b4db0a5",
-      "isContinuation": false,
-      "titleZh": "普林斯顿大学中国博士生在参加美国学术会议后被ICE拘留",
-      "summaryZh": "普林斯顿大学神经科学专业博士生谢某在华盛顿参加学术会议后，于返程时在机场被美国移民和海关执法局（ICE）拘留。目前尚不清楚其被拘留的具体原因。",
-      "whyImportant": "此事件引发了学术界对中国留学生在美国科研环境及出入境安全方面的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "69042885001bee95",
-      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-      "publishedAt": "2026-11-20T22:15:07.000Z",
-      "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-          "publishedAt": "2026-11-20T22:15:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "美国重点",
-        "科技",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "washington",
-        "美国"
-      ],
-      "fingerprint": "dbcd11330e64ff1526e94018",
-      "isContinuation": false,
-      "titleZh": "美国立法者在对华出口限制背景下推动更严格的AI芯片规则",
-      "summaryZh": "尽管华盛顿已出台限制远程访问美国先进AI芯片的新规，但美国立法者仍寻求进一步收紧相关出口管制。此举旨在进一步遏制中国在人工智能领域的技术进步。",
-      "whyImportant": "这表明美国在科技竞争中持续加大对华限制力度，可能对全球半导体供应链产生深远影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a201d50ff95f2be0",
-      "title": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
-      "publishedAt": "2026-11-21T02:31:05.000Z",
-      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act (40 U.S.C. 101 et seq.) and the common law, it is hereby ordered: Section 1. Purpose and Policy. In order to protect and serve the American people, […] The post PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
-          "publishedAt": "2026-11-21T02:31:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "u.s.",
-        "american",
-        "white house"
-      ],
-      "fingerprint": "d1a81b39f611bfc9602aee0d",
-      "isContinuation": false,
-      "titleZh": "保护行政特权并提高联邦合同效率",
-      "summaryZh": "美国总统发布行政命令，旨在保护行政特权并提升联邦合同的执行效率。该命令强调了在宪法和法律框架下，通过优化管理来服务美国人民。",
-      "whyImportant": "此行政命令旨在强化总统对联邦合同管理的控制权，并可能对政府承包商的合规要求产生影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2bde70caaf1d0148",
-      "title": "At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
-      "publishedAt": "2026-11-21T01:50:58.000Z",
-      "summary": "In a White House press briefing today, President Donald J. Trump took questions from reporters alongside Vice President JD Vance and Secretary of State Marco Rubio. Fresh off his return from Asia, President Trump used the briefing to underscore that America is negotiating from a position of restored strength — highlighting more than $17 billion […] The post At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
-          "publishedAt": "2026-11-21T01:50:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 64,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "278a8a77e4a772756f5ddabc",
-      "isContinuation": false,
-      "titleZh": "特朗普总统在新闻发布会上宣扬美国历史性胜利，并暗示将在医疗保健领域达成协议",
-      "summaryZh": "特朗普总统在白宫新闻发布会上强调，美国正处于恢复实力的谈判地位，并提到了超过170亿美元的成果。他与副总统万斯及国务卿卢比奥一同出席，并暗示将就医疗保健问题进行谈判。",
-      "whyImportant": "此举展示了特朗普政府在外交和国内政策上的优先事项及谈判策略。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "66c4dca518a09ec9",
-      "title": "NATIONAL ADOPTION MONTH, 2026",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
-      "publishedAt": "2026-11-21T02:31:38.000Z",
-      "summary": "From the moment a child is conceived, they are a gift from God, bringing hope, love, and a future filled with promise into the world. For countless children across our Nation, adoption provides the gift of a loving family and nurturing home where they can feel safe, supported, and encouraged to pursue their own unique […] The post NATIONAL ADOPTION MONTH, 2026 appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
-          "publishedAt": "2026-11-21T02:31:38.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 63,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "b5804d5dfb7af69631bd3695",
-      "isContinuation": false,
-      "titleZh": "2026年全国领养月",
-      "summaryZh": "白宫宣布将2026年定为全国领养月，强调每个孩子都是珍贵的礼物。领养为无数儿童提供了充满爱与支持的家庭环境，帮助他们追求未来。",
-      "whyImportant": "该声明旨在提升公众对领养重要性的认识，并倡导为儿童提供稳定的成长环境。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "402a6aa6529474b1",
-      "title": "WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
-      "publishedAt": "2026-11-20T22:57:43.000Z",
-      "summary": "“Last night, landmark permitting reform legislation passed the Senate. It’s one of the biggest things that you will see. It’s a big deal… It’s projected to put at least $1,300 a year back in the pockets of hardworking Americans.” – President Donald J. Trump President Donald J. Trump is committed to fixing America’s broken permitting system — […] The post WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
-          "publishedAt": "2026-11-20T22:57:43.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "american",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "00c6aab45ec2eee12337f0b5",
-      "isContinuation": false,
-      "titleZh": "各方评价：将两党《美国负担能力与就业法案》提交至特朗普总统案头",
-      "summaryZh": "参议院通过了具有里程碑意义的许可改革立法，旨在简化美国的许可制度。特朗普总统表示，该法案预计每年将为美国劳动者节省至少1300美元。",
-      "whyImportant": "该法案的通过被视为政府在经济改革和减轻民众负担方面的重要进展。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "26377587c90752a8",
-      "title": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
-      "publishedAt": "2026-11-20T16:53:12.000Z",
-      "summary": "Yesterday, President Donald J. Trump named Kirsten A. Davies to lead the White House Office of the National Cyber Director. A battle-tested cyber leader and the Pentagon’s Chief Information Officer, Davies will drive an America First cyber strategy that treats cybersecurity as national security and keeps the United States dominant and secure in cyberspace. Her […] The post President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director appeared first on The White House.",
-      "language": "",
-      "region": "usa",
-      "crossSources": [
-        {
-          "source": "The White House",
-          "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
-          "publishedAt": "2026-11-20T16:53:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "军事与安全",
-        "科技",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "69ee2a0812e8fc45f53f1e4a",
-      "isContinuation": false,
-      "titleZh": "特朗普总统任命五角大楼网络主管克里斯汀·戴维斯为国家网络总监",
-      "summaryZh": "特朗普总统任命五角大楼首席信息官克里斯汀·戴维斯领导白宫国家网络总监办公室。戴维斯将负责推动“美国优先”的网络战略，将网络安全视为国家安全的核心。",
-      "whyImportant": "此项任命反映了政府对加强国家网络防御能力和保持网络空间主导地位的重视。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "22f5eaecb09c50bc",
-      "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+      "id": "6bb0948a08a8b60c",
+      "title": "Man charged with attempted murder after councillor stabbed in Bradford",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-      "publishedAt": "2026-11-20T18:36:30.000Z",
-      "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States. Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+      "publishedAt": "2026-11-21T19:42:42.000Z",
+      "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-          "publishedAt": "2026-11-20T18:36:30.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "国际组织",
-        "专题·美国政策与全球影响"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": true,
-      "topicKeywords": [
-        "united states",
-        "美国"
-      ],
-      "fingerprint": "289e9493ee2ff6e7072fb75f",
-      "isContinuation": false,
-      "titleZh": "佛罗里达州机械师被判谋杀英国女子罪名成立",
-      "summaryZh": "佛罗里达州一名机械师因刺死一名英国音乐教师被判有罪。被告通过恋物网站诱骗受害者前往美国，随后将其杀害。",
-      "whyImportant": "此案凸显了网络交友带来的安全风险以及跨国犯罪的司法管辖挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d880bf5a1d2dccd0",
-      "title": "Yemen’s Houthis launch strikes on Riyadh after Saudi coalition ‘special operation’",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation",
-      "publishedAt": "2026-11-21T05:40:01.000Z",
-      "summary": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them. Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis. A journalist reported hearing two explosions shortly after authorities issued an alert, later lifted, saying the city was “under a...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation",
-          "publishedAt": "2026-11-21T05:40:01.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全"
-      ],
-      "score": 65,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c4cb4f89d7a3fb5235c627af",
-      "isContinuation": false,
-      "titleZh": "也门胡塞武装在沙特联军进行“特别行动”后袭击利雅得",
-      "summaryZh": "在沙特领导的联军发动“特别行动”后，也门胡塞武装对沙特首都利雅得发动了袭击。利雅得方面支持也门政府对抗胡塞武装，近期该地区的冲突有所加剧。",
-      "whyImportant": "此次袭击标志着也门内战冲突的进一步升级，加剧了该地区的紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd2811614640e90d",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "publishedAt": "2026-11-20T21:38:17.000Z",
-      "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "publishedAt": "2026-11-20T21:38:17.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "金融",
-        "科技",
-        "国际组织"
-      ],
-      "score": 64,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "7755f5c473f8c13d11947a31",
-      "isContinuation": false,
-      "titleZh": "纳斯达克抹去2026年全部涨幅，人工智能板块抛售潮影响Anthropic上市表现",
-      "summaryZh": "受人工智能板块抛售潮影响，纳斯达克指数抹去了2026年的全部涨幅。尽管人工智能初创公司Anthropic进行了大规模IPO，但未能阻止科技股的全球性下跌。",
-      "whyImportant": "投资者对人工智能领域巨额投入的质疑引发了市场对科技股估值的担忧，导致全球股市出现显著回调。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "933288238db15d27",
-      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-      "publishedAt": "2026-11-21T01:12:48.000Z",
-      "summary": "Denmark’s foreign minister on Friday said Moscow’s defence attache in Copenhagen would be expelled after Russia was suspected of being behind an attempted assassination of a Ukrainian rapper. “We have just summoned the Russian ambassador to the ministry of foreign affairs and notified him of the government’s decision to expel the Russian defence attache from Denmark” within seven days, Lars Lokke Rasmussen told a news conference. He also added Denmark was mulling suspending Schengen visas for...",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-          "publishedAt": "2026-11-21T01:12:48.000Z"
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper",
-          "publishedAt": "2026-11-20T18:14:12.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全"
-      ],
-      "score": 63,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8411139331da2950afa638aa",
-      "isContinuation": false,
-      "titleZh": "丹麦因涉嫌谋杀乌克兰说唱歌手阴谋驱逐俄罗斯外交官",
-      "summaryZh": "丹麦外交大臣宣布将驱逐俄罗斯驻哥本哈根的国防武官，原因是俄罗斯涉嫌参与针对一名乌克兰说唱歌手的暗杀企图。丹麦政府同时考虑暂停对俄发放申根签证。",
-      "whyImportant": "此举进一步恶化了丹麦与俄罗斯之间的外交关系，反映出欧洲国家对俄罗斯潜在渗透活动的警惕。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "b2c4c883c1830c63",
-      "title": "Sudan’s war will end, but will it be too late?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-      "publishedAt": "2026-11-21T06:32:04.000Z",
-      "summary": "Pressure from within Sudan may achieve what international diplomacy has not.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-          "publishedAt": "2026-11-21T06:32:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4ab6a8c92eac2fa1913a7d58",
-      "isContinuation": false,
-      "titleZh": "苏丹战争终将结束，但会否为时已晚？",
-      "summaryZh": "文章探讨了苏丹内部压力在推动战争结束方面可能发挥的作用。国际外交手段在解决该国冲突方面收效甚微。",
-      "whyImportant": "苏丹持续的冲突对当地人道主义状况造成了深远影响，内部动力的作用成为解决危机的关键变量。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7ad1ca3944a03233",
-      "title": "Netanyahu is playing with the fire that killed Rabin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-      "publishedAt": "2026-11-21T06:21:03.000Z",
-      "summary": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-          "publishedAt": "2026-11-21T06:21:03.000Z"
+          "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+          "publishedAt": "2026-11-21T19:42:42.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1802,147 +1040,46 @@
         "全球焦点",
         "突发"
       ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "6d51d30026e441ccb0fe9d74",
+      "fingerprint": "caf9643c39ee9381dfb5c471",
       "isContinuation": false,
-      "titleZh": "内塔尼亚胡正在玩弄曾导致拉宾遇刺的火种",
-      "summaryZh": "评论指出，内塔尼亚胡对阿拉伯议员的攻击类似于拉宾遇刺前的煽动性言论。这种做法存在引发新一轮暴力的风险。",
-      "whyImportant": "该观点强调了政治煽动对社会稳定和国家安全的潜在破坏性影响。",
+      "titleZh": "布拉德福德议员遇刺，一名男子被控谋杀未遂",
+      "summaryZh": "31岁的阿尔凡·阿里因在布拉德福德袭击当地议员伊布拉尔·阿里而被控谋杀未遂、袭击及非法持有攻击性武器。袭击事件发生于周四上午，目前警方已介入调查。",
+      "whyImportant": "针对民选官员的暴力袭击引发了公众对社区安全及政治人物人身保护的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
-    },
+    }
+  ],
+  "metadata": {
+    "fetched": 147,
+    "deduplicated": 131,
+    "selected": 21,
+    "translated": 21,
+    "untranslated": 0,
+    "minimumRequired": 21,
+    "featured": 5,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
     {
-      "id": "de7f6c902fce731b",
-      "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
+      "id": "96eef9501f0cde58",
+      "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-      "publishedAt": "2026-11-21T06:00:53.000Z",
-      "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a survivor of drug-facilitated rape but said action must also focus on wider issues around sexual assault. Joanne Young, who was drugged and raped by her husband and sexually abused by men he invited into their home, warned of “serious questions about how the law deals with consent”. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+      "publishedAt": "2026-11-22T06:00:18.000Z",
+      "summary": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected chancellor of Germany. The EU had 15 member states and pro-European, centre-left parties were in power – either alone or in coalitions – in all but two of them. Brisk economic growth was lifting living standards. Eastward enlargement was under way. In Washington, Bill Clinton was pursuing the same brand of “third way” centrism as a middle path between free-market capitalism and traditional socialism. The EU felt like it had the tide of history behind it. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-          "publishedAt": "2026-11-21T06:00:53.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "71acb3a46d44254be8169151",
-      "isContinuation": false,
-      "titleZh": "活动人士支持对同意法进行审查的呼吁",
-      "summaryZh": "在一名药物辅助强奸幸存者呼吁审查同意法后，专家们表示法律中并无第三方同意的有效辩护条款。活动人士呼吁加强公众辩论并关注更广泛的性侵犯问题。",
-      "whyImportant": "此呼吁旨在推动法律改革，以更好地保护性暴力受害者并明确法律对同意权的界定。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "66dfca0112fe8307",
-      "title": "Deal on duty-free Swiss exports to China a boon for Hong Kong, top diplomat says",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says",
-      "publishedAt": "2026-11-21T05:08:48.000Z",
-      "summary": "The scrapping of tariffs on almost all Swiss exports to China will give Hong Kong’s finance, logistics and legal sectors a boost, the top Swiss diplomat in the city has said, as the European nation seeks more research and development (R&D) collaborations in the Northern Metropolis megadevelopment. Switzerland’s Consul General in Hong Kong Daniel Freihofer’s comments came after the presidents of the two countries met and signed an upgraded bilateral free trade agreement last month, among other...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says",
-          "publishedAt": "2026-11-21T05:08:48.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济"
-      ],
-      "score": 61,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ae298247ff9bcad5e24e9851",
-      "isContinuation": false,
-      "titleZh": "瑞士外交官称瑞士对华免税出口协议将惠及香港",
-      "summaryZh": "随着中瑞升级自由贸易协定，瑞士对华出口关税的取消将为香港的金融、物流和法律行业带来机遇。瑞士正寻求在香港北部都会区开展更多研发合作。",
-      "whyImportant": "该协议的实施有望加强中瑞经贸联系，并为香港作为国际贸易枢纽提供新的增长动力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "03d08e9a45dfd424",
-      "title": "Japan wants an Asian energy agency. Will the region buy in?",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
-      "publishedAt": "2026-11-21T02:00:10.000Z",
-      "summary": "Asia already has oil-sharing pacts it has never used. Now, Japan wants to add another that critics warn will do little to solve the region’s dependence on energy imports and may simply add another level of bureaucracy. Japanese Prime Minister Sanae Takaichi announced the plan on Tuesday at an Asia Zero-Emission Community leaders’ meeting in Manila, on the sidelines of this year’s Asean summit. “We would like to position this as an Asian version of the IEA,” Takaichi said, referring to the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
-          "publishedAt": "2026-11-21T02:00:10.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全",
-        "能源"
-      ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "6d68515ae9987b88a95220b9",
-      "isContinuation": false,
-      "titleZh": "日本提议建立亚洲能源机构，该地区会买账吗？",
-      "summaryZh": "日本首相高市早苗提议建立一个类似于国际能源署（IEA）的亚洲能源机构，旨在应对能源进口依赖问题。然而，批评人士认为该计划可能只会增加官僚机构，且难以解决该地区的能源安全挑战。",
-      "whyImportant": "此举反映了日本试图在亚洲能源政策中发挥领导作用，但其有效性仍面临地区合作意愿和实际执行力的质疑。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "d9d55b2a7cb96960",
-      "title": "Trump turns White House press conference into a 2028 succession audition",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
-      "publishedAt": "2026-11-21T00:16:26.000Z",
-      "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
-          "publishedAt": "2026-11-21T00:16:26.000Z"
+          "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+          "publishedAt": "2026-11-22T06:00:18.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1951,191 +1088,167 @@
       "isNoise": false,
       "tags": [
         "美国重点",
-        "专题·美国政策与全球影响"
+        "经济",
+        "金融",
+        "军事与安全",
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 80,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "white house",
-        "美国"
-      ],
-      "fingerprint": "c96eaa785cf25f504698250f",
-      "isContinuation": false,
-      "titleZh": "特朗普将白宫新闻发布会变成2028年接班人选拔赛",
-      "summaryZh": "特朗普在白宫新闻发布会上似乎在考察万斯和卢比奥作为潜在接班人的表现。尽管斯蒂芬·米勒意外抢镜，但整场活动被外界解读为特朗普在测试其潜在继任者的忠诚度与能力。",
-      "whyImportant": "这一动态凸显了特朗普在第二任期内对共和党未来领导权的影响力，以及党内潜在继任者之间的竞争态势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "136b4b9fdad7fb24",
-      "title": "Man, 61, arrested over fake Chanel, Dior perfumes sold in alleged scam run by his son",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375319/man-61-arrested-over-fake-chanel-dior-perfumes-sold-alleged-scam-run-his-son",
-      "publishedAt": "2026-11-21T06:37:59.000Z",
-      "summary": "A 61-year-old Hong Kong man has been arrested on suspicion of selling fake luxury perfume in an online scam operation that made more than HK$6 million (US$765,500) in illicit profits over the past two years. Customs officials, who also accused the man of money laundering, said the suspect had operated the Hong Kong side of the business for his 30-year-old son, who is alleged to have masterminded the scam operation from overseas. On Saturday, the Customs and Excise Department revealed that it had...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375319/man-61-arrested-over-fake-chanel-dior-perfumes-sold-alleged-scam-run-his-son",
-          "publishedAt": "2026-11-21T06:37:59.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4968027498aae90699441738",
-      "isContinuation": false,
-      "titleZh": "61岁男子因涉嫌参与其子经营的假冒香水诈骗案被捕",
-      "summaryZh": "一名61岁香港男子因涉嫌参与销售假冒香水诈骗案被捕，该团伙在两年内非法获利超过600万港元。警方指控该男子协助其身处海外的儿子运营香港业务，并涉及洗钱活动。",
-      "whyImportant": "此案揭示了跨境网络诈骗的运作模式，并提醒消费者警惕在线购买奢侈品的风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "94566befecfbd5b9",
-      "title": "Using IDs to check concert tickets, combat scalping could slow entry: tourism chief",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375317/using-ids-check-concert-tickets-combat-scalping-could-slow-entry-tourism-chief",
-      "publishedAt": "2026-11-21T06:07:13.000Z",
-      "summary": "Hong Kong’s tourism chief has warned that requiring fans to show identity cards that match the names on their concert tickets to combat scalping could slow entry at venues, saying arrangements would need to be discussed with organisers for each event. Secretary for Culture, Sports and Tourism Rosanna Law Shuk-pui also told a radio programme on Saturday that the city could record around 55 million visitor arrivals this year, 1.2 million more than the government’s earlier estimate of 53.8...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375317/using-ids-check-concert-tickets-combat-scalping-could-slow-entry-tourism-chief",
-          "publishedAt": "2026-11-21T06:07:13.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全"
-      ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "ec84876e503734c55f51db65",
-      "isContinuation": false,
-      "titleZh": "旅游局长：使用身份证核对演唱会门票以打击黄牛可能会减慢入场速度",
-      "summaryZh": "香港文化体育及旅游局局长杨润雄表示，通过核对身份证件打击演唱会黄牛票可能会导致入场效率降低，需与主办方协商具体安排。同时，预计今年香港访客量将达到5500万人次。",
-      "whyImportant": "该讨论平衡了打击票务欺诈与提升大型活动运营效率之间的矛盾，对香港旅游及娱乐产业具有参考意义。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5a9ab11bf151f988",
-      "title": "China’s EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
-      "publishedAt": "2026-11-21T06:00:09.000Z",
-      "summary": "Seven out of 10 car buyers in mainland China this month will opt for electric vehicles (EVs), as petrol-guzzling options fall further out of favour in the world’s largest market, according to an industry consortium. The country’s carmakers were expected to deliver 1.15 million EVs – comprising pure-electric and plug-in hybrids – to mainland customers in November, equal to 70.6 per cent of total car sales, the China Passenger Car Association (CPCA) said in a statement on Thursday. If the...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
-          "publishedAt": "2026-11-21T06:00:09.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
+        "market",
+        "经济",
         "金融"
       ],
-      "score": 62,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "afed3ece842e1f185f68edae",
+      "fingerprint": "46b69ef948485473f505f776",
       "isContinuation": false,
-      "titleZh": "中国电动汽车普及率将超过70%，燃油车销量遭受重创",
-      "summaryZh": "中国乘用车市场协会数据显示，本月中国电动汽车（含纯电和插混）销量占比预计将达到70.6%。随着消费者偏好转向新能源，传统燃油车的市场份额正持续萎缩。",
-      "whyImportant": "这一数据标志着中国汽车市场向电动化转型的速度远超预期，将重塑全球汽车产业格局。",
+      "titleZh": "欧洲进入全国选举“超级周期”，结果可能动摇欧盟根基",
+      "summaryZh": "欧洲多国即将迎来一系列全国性选举，这些选举被视为对欧盟韧性的关键考验。选举结果可能改变欧洲的政治格局，并对欧盟的未来发展方向产生深远影响。",
+      "whyImportant": "欧洲政治版图的变动将直接影响欧盟的政策走向及全球地缘政治稳定性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e2a13b8cf5300822",
-      "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+      "id": "a0149a11303781b2",
+      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "publishedAt": "2026-11-22T06:00:21.000Z",
+      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, drones hanging from the ceiling, and guards in flak jackets patrolling the premises with sniffer dogs. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+          "publishedAt": "2026-11-22T06:00:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "科技",
+        "专题·全球经济与金融"
+      ],
+      "score": 69,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "trade",
+        "经济"
+      ],
+      "fingerprint": "f5cfd72c5dbbe164a9ac8e07",
+      "isContinuation": false,
+      "titleZh": "“严重的判断失误”：柏林艺术中心举办军事AI活动引发愤怒",
+      "summaryZh": "柏林著名的Kraftwerk艺术中心近日被改造成军火商的“作战室”，现场展示了地图、无人机及全副武装的警卫。这一充满反乌托邦色彩的活动在当地引发了强烈抗议。",
+      "whyImportant": "该事件凸显了柏林文化界对军事化活动进入艺术空间的抵触情绪。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c902a31706b5ef7e",
+      "title": "Thousands protest across Europe over living costs and housing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "publishedAt": "2026-11-21T20:47:50.000Z",
+      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+          "publishedAt": "2026-11-21T20:47:50.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "专题·全球经济与金融"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "8b847967e87220786d9b1db7",
+      "isContinuation": false,
+      "titleZh": "欧洲多地爆发抗议，民众不满生活成本与住房问题",
+      "summaryZh": "继青年群体针对教育和经济困境发起抗议后，法国和葡萄牙等地再次爆发大规模示威。民众对高昂的生活成本和住房危机表示强烈不满。",
+      "whyImportant": "欧洲范围内的抗议活动显示了经济压力正持续引发社会动荡。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fd52e88d68631eb5",
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
       "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "summary": "A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activists warn the talks are headed for failure, and negotiators search for a deal that nearly 200 governments can accept.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
-          "publishedAt": "2026-11-20T12:00:00.000Z"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+          "publishedAt": "2026-11-21T12:00:00.000Z"
         }
       ],
       "sourceCount": 1,
       "isChina": false,
-      "isUsa": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
-        "外交",
+        "全球焦点",
+        "经济",
         "军事与安全",
         "环境",
-        "专题·美国政策与全球影响"
+        "专题·全球经济与金融"
       ],
-      "score": 60,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": true,
       "topicKeywords": [
-        "美国"
+        "经济"
       ],
-      "fingerprint": "53ea15872401a74af1d67142",
+      "fingerprint": "17af5f33fe12e0137280f7e8",
       "isContinuation": false,
-      "titleZh": "COP31：安塔利亚气候谈判进入最后一天，各国要求达成更强有力的协议",
-      "summaryZh": "来自欧洲、非洲、拉丁美洲和太平洋地区的国家对COP31拟议协议提出质疑，要求明确针对化石燃料采取行动并加强气候融资。随着峰会即将结束，谈判代表正努力寻求各方都能接受的方案。",
-      "whyImportant": "此次谈判的结果将直接影响全球应对气候变化的政策方向和承诺力度。",
+      "titleZh": "家园被弃、收成受损：海地农民在暴力、饥饿与厄尔尼诺现象中重建生活",
+      "summaryZh": "海地长期遭受武装团伙暴力、经济不稳定及气候冲击，导致数百万民众面临严重的粮食短缺。当地农民在极端困难的环境下艰难维持生计。",
+      "whyImportant": "海地的人道主义危机凸显了气候变化与社会动荡对脆弱国家粮食安全的叠加影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "30a73eeb618a7c1c",
-      "title": "Who are you calling a ‘Chinese honeypot’?",
+      "id": "a0f99a33eb97a780",
+      "title": "Hong Kong will not rule out whistle-blower immunity in bid-rigging law: minister",
       "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
-      "publishedAt": "2026-11-21T01:30:06.000Z",
-      "summary": "“Please stop being such a Chinese honeypot.” When reports emerged alleging that then-Nvidia chief executive Jensen Huang had been romantically involved with a Chinese woman suspected of espionage, my inbox filled with remarks from friends and acquaintances about my supposed career as a Chinese spy. One came from an old university mate I hadn’t seen in more than a decade. Underneath the humour was a more revealing assumption. I am a British woman of Vietnamese-Chinese ancestry, with no family...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
+      "publishedAt": "2026-11-21T09:52:12.000Z",
+      "summary": "Hong Kong authorities will not rule out the inclusion of immunity provisions for whistle-blowers in proposed legal amendments to outlaw bid-rigging in building maintenance and renovation projects, the commerce chief has said. Officials vowed to amend the law after an independent committee identified bid-rigging as one of the causes behind the Tai Po fire in November 2025 that claimed 168 lives and displaced almost 5,000 people. Secretary for Commerce and Economic Development Algernon Yau...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
-          "publishedAt": "2026-11-21T01:30:06.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
+          "publishedAt": "2026-11-21T09:52:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -2144,40 +1257,83 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "国际组织"
+        "经济",
+        "科技",
+        "专题·全球经济与金融"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "bac7da9c5b96d6fe89a46f02",
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": true,
+      "topicKeywords": [
+        "经济"
+      ],
+      "fingerprint": "a450b9409be17e918e889063",
       "isContinuation": false,
-      "titleZh": "你管谁叫“中国美人计”？",
-      "summaryZh": "作者分享了因其亚裔背景而遭受种族偏见和无端指控的经历。文章探讨了在涉及地缘政治的背景下，针对亚裔女性的刻板印象和歧视性言论如何影响个人生活。",
-      "whyImportant": "该文揭示了当前社会中针对特定族裔的偏见问题及其对个人造成的心理和社会影响。",
+      "titleZh": "香港商务及经济发展局局长：立法打击围标不排除给予举报人豁免权",
+      "summaryZh": "香港政府计划修法打击楼宇维修工程中的围标行为，商务及经济发展局局长表示，不排除在法例中加入举报人豁免条款。此举旨在根除导致大埔火灾等严重事故的行业弊病。",
+      "whyImportant": "引入举报人豁免机制有助于打破围标利益链，提升楼宇维修工程的透明度与安全性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b7fdc1f987cba474",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T00:01:39.000Z",
-      "summary": "New York’s Rikers Island jail complex would close by 2032 under a sweeping plan announced on Friday by Mayor Zohran Mamdani, whose strategy for finally shuttering the notorious facility hinges on substantially reducing the number of people kept behind bars. The mayor, a Democrat, unveiled the plan as the city is all but certain to blow past a legal requirement to close Rikers and replace it with four smaller, more modern jails by 2027. For years, Rikers Island has stood as a symbol of...",
+      "id": "dc4db2d331645011",
+      "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+      "publishedAt": "2026-11-22T05:21:01.000Z",
+      "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email, free app or daily news podcast The twin brother of a man whose body lay undiscovered for 12 days after he was killed in a suspected hit and run in Sydney says it has left him feeling like half a person. Joshua Howard was last seen at a bus interchange in Parramatta, in western Sydney, about 10pm on 7 November. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-21T00:01:39.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+          "publishedAt": "2026-11-22T05:21:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 71,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9b7856e9b0ff013b29154584",
+      "isContinuation": false,
+      "titleZh": "悉尼男子失踪12天后被发现，警方称其死于疑似肇事逃逸",
+      "summaryZh": "31岁的约书亚·霍华德在从派对回家的路上疑似被车撞倒并抛出护栏。他的遗体在失踪12天后才被发现，其双胞胎兄弟对此深感悲痛。",
+      "whyImportant": "此案引发了公众对道路安全及失踪人口搜救效率的关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7b2ee0823f3ab321",
+      "title": "Dozens missing as deadly fire hits Indonesian candy factory",
+      "source": "DW",
+      "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-22T06:14:00.000Z",
+      "summary": "A fire at a confectionery factory in Indonesia's Banten province has killed at least three people. Dozens are also unaccounted for after the blaze, which destroyed large parts of the facility.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-11-22T06:14:00.000Z"
         },
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail",
-          "publishedAt": "2026-11-20T17:00:43.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T06:05:00.000Z"
         }
       ],
       "sourceCount": 2,
@@ -2185,19 +1341,536 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
+        "全球焦点"
+      ],
+      "score": 58,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2527d9ca5e17c853b7a181e0",
+      "isContinuation": false,
+      "titleZh": "印尼糖果厂发生致命火灾，数十人失踪",
+      "summaryZh": "印度尼西亚万丹省一家糖果厂发生火灾，造成至少3人死亡。火灾摧毁了工厂大部分设施，目前仍有数十人下落不明。",
+      "whyImportant": "此次工业事故造成的人员伤亡引发了对当地工厂安全标准的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0ba1f946ec685f93",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T05:26:10.000Z",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T05:26:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "环境"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a6ce68ac6a75c8274d8f2795",
+      "isContinuation": false,
+      "titleZh": "新草案旨在避免气候峰会谈判破裂",
+      "summaryZh": "在土耳其举行的联合国COP31气候峰会进入延长期。各国代表正努力就新草案达成共识，以避免谈判彻底失败。",
+      "whyImportant": "气候峰会的谈判结果直接影响全球应对气候变化的政策方向。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2d635062e2c3dca5",
+      "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+      "publishedAt": "2026-11-22T06:00:21.000Z",
+      "summary": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more than £11m to Labour More than 20 Labour MPs have signed up to a year-long leadership course helping them to counter rightwing populism and deal with hostility, run by two former No 10 advisers and ultimately funded by multimillionaire donor Gary Lubner. The training courses worth about £9,600 are being led by Ruth Turner, who was Tony Blair’s director of government relations, and Peter Hyman, who has worked for Blair, Keir Starmer and Andy Burnham’s governments. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+          "publishedAt": "2026-11-22T06:00:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
         "全球焦点",
         "国际组织"
       ],
-      "score": 58,
-      "topic": "usa",
-      "topicName": "美国政策与全球影响",
+      "score": 56,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "96db76abd1370645ffd293db",
+      "fingerprint": "d649c35e6731ca9b5c69f378",
       "isContinuation": false,
-      "titleZh": "马姆达尼宣布计划在2032年前关闭纽约赖克斯岛监狱",
-      "summaryZh": "纽约市长马姆达尼宣布了一项新计划，旨在通过大幅减少在押人员数量，于2032年前关闭赖克斯岛监狱。该计划旨在取代此前未能按期完成的监狱改造项目。",
-      "whyImportant": "此举标志着纽约市在刑事司法改革和监狱系统管理方面采取了新的政策方向。",
+      "titleZh": "工党议员参加领导力课程以应对右翼民粹主义",
+      "summaryZh": "超过20名工党议员参加了一项为期一年的领导力培训课程，旨在学习如何应对右翼民粹主义及政治敌意。该课程由前首相顾问领导，并由富豪捐赠者资助。",
+      "whyImportant": "此举反映了英国工党在政治极化背景下加强议员应对能力的策略。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "74a634417f442408",
+      "title": "Australia-Philippine deal exposes where Asean’s architecture is weakest",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest",
+      "publishedAt": "2026-11-21T21:30:05.000Z",
+      "summary": "The most revealing moment of the 49th Asean summit in Manila might have occurred beyond the plenary hall. On November 15, as Southeast Asian governments gathered to reaffirm regional cooperation, Australia and the Philippines signed a new defence cooperation arrangement intended to make their military partnership more practical. The timing was striking: the Association of Southeast Asian Nations (Asean) was celebrating its central role even as two partners were building security mechanisms...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest",
+          "publishedAt": "2026-11-21T21:30:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "军事与安全"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1bcc9d563cc399d09c537db0",
+      "isContinuation": false,
+      "titleZh": "澳菲协议暴露东盟架构的薄弱环节",
+      "summaryZh": "在东盟峰会期间，澳大利亚与菲律宾签署了新的防务合作协议。此举被认为在东盟强调区域合作的同时，凸显了其在安全机制上的局限性。",
+      "whyImportant": "该协议反映了亚太地区在多边框架之外寻求双边安全保障的趋势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "07e0882a22b0ec43",
+      "title": "A year of grief: Tai Po fire residents on coping with loss and trying to move on",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
+      "publishedAt": "2026-11-22T02:30:06.000Z",
+      "summary": "What has life been like for the residents of Wang Fuk Court displaced by the deadly blaze of last November? Lo Hoi-ying speaks to residents as part of a series on the first anniversary of the Tai Po fire. Vivian Lee had just finished lunch and was resting at home when she smelled smoke. At first, the 70-year-old housewife thought her domestic helper had burnt something in the kitchen. She was inspecting her hob when a neighbour knocked on her door to warn them of a fire at Wang Cheong House, six...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
+          "publishedAt": "2026-11-22T02:30:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "43d6d55a66c2a6ea992a0cdb",
+      "isContinuation": false,
+      "titleZh": "悲伤的一年：大埔火灾居民讲述如何应对失去与尝试重新生活",
+      "summaryZh": "去年11月大埔宏福苑发生致命火灾，导致大量居民流离失所。在火灾一周年之际，媒体采访了受灾居民，回顾他们过去一年在失去家园后的生活与心理重建过程。",
+      "whyImportant": "该报道关注灾后居民的心理健康与生活重建，反映了重大公共安全事故对社区的长期影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e5102d2b451f1adf",
+      "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+      "publishedAt": "2026-11-22T02:08:49.000Z",
+      "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email, free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate from handing out how to vote cards that mimic their branding and urge people to preference it last. The decision has been welcomed by the party’s leader, Ellen Sandell, who said the flyers distributed by people wearing the exact same colour shirts as genuine Greens volunteers had already misled voters. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+          "publishedAt": "2026-11-22T02:08:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "8a92bf423653a18ccb573aae",
+      "isContinuation": false,
+      "titleZh": "维多利亚州绿党赢得禁令，阻止模仿其品牌但将其排在投票意向末位的“投票指南”",
+      "summaryZh": "维多利亚州绿党成功申请最高法院禁令，阻止一名独立候选人发放模仿绿党品牌形象的投票指南。该指南误导选民，将绿党排在投票意向的最后一位，引发了关于选举公平性的争议。",
+      "whyImportant": "此案凸显了选举中利用品牌混淆误导选民的风险，对维护选举公正性具有法律参考意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a251b02ef2e87733",
+      "title": "Hong Kong temperatures to fall to 16 degrees midweek as monsoon arrives",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
+      "publishedAt": "2026-11-22T05:45:02.000Z",
+      "summary": "Hong Kong is expected to turn chilly midweek, with temperatures dropping to 16 degrees Celsius (60.8 Fahrenheit) as a northeast monsoon brings cloudy skies and rain, according to the forecaster. The Hong Kong Observatory said on Sunday a fresh to strong easterly airstream would bring cloudier conditions to southern China over the next two days. Winds are forecast to turn northerly midweek, pushing temperatures down to between 16 and 20 degrees on Wednesday. In the New Territories, temperatures...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
+          "publishedAt": "2026-11-22T05:45:02.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 57,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "b52295551b55bdca615131dd",
+      "isContinuation": false,
+      "titleZh": "受东北季候风影响，香港周中气温将降至16度",
+      "summaryZh": "香港天文台预计，受东北季候风影响，本周中期香港天气将转凉，气温将降至16至20摄氏度。届时将伴随多云及降雨天气，新界地区气温可能更低。",
+      "whyImportant": "气温骤降提醒市民注意保暖，并对户外活动及健康状况产生直接影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1ac3def8ed8713da",
+      "title": "Experts call for stronger reef protection as 20% of coral survey sites bleached",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
+      "publishedAt": "2026-11-22T04:00:12.000Z",
+      "summary": "About 20 per cent of Hong Kong’s coral survey sites recorded minor bleaching this year, as experts called for stronger measures to protect the marine habitats from potential climate effects. The Agriculture, Fisheries and Conservation Department shared the latest data with the South China Morning Post on Friday, saying minor coral bleaching was common during the summer months in Hong Kong. However, experts said mitigation measures, such as installing shading to shield corals from UV light,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
+          "publishedAt": "2026-11-22T04:00:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "环境"
+      ],
+      "score": 55,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "a3cb3500d8f8ec57c004c156",
+      "isContinuation": false,
+      "titleZh": "专家呼吁加强珊瑚保护，20%的珊瑚调查点出现白化现象",
+      "summaryZh": "香港今年约20%的珊瑚调查点记录到轻微白化现象。专家呼吁采取更强有力的保护措施，如安装遮阳设施以减少紫外线影响，应对气候变化对海洋生态的威胁。",
+      "whyImportant": "珊瑚白化是气候变化影响海洋生态的警示，加强保护对维护香港生物多样性至关重要。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9d20407ea31a297d",
+      "title": "Hong Kong Election Committee race: turnout hits nearly 90%, exceeding 2021 total",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
+      "publishedAt": "2026-11-22T02:26:45.000Z",
+      "summary": "A total of 856 candidates are vying for 723 seats across the 31 subsectors. The elected members will join 259 members from five uncontested subsectors, 362 ex officio members and 156 members nominated by designated bodies to form the 1,500-strong electoral college. The key body will nominate and vote in next year’s chief executive election, and will nominate candidates and elect 40 of the 90 lawmakers in the 2029 Legislative Council election. The second Election Committee poll since Beijing’s...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
+          "publishedAt": "2026-11-22T02:26:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 54,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2f79b76861d5fdacce149793",
+      "isContinuation": false,
+      "titleZh": "香港选举委员会选举：投票率接近90%，超过2021年总数",
+      "summaryZh": "香港选举委员会选举投票率接近90%，超过了2021年的水平。选出的委员将组成1500人的选举委员会，负责提名及选出下任行政长官，并参与立法会议员的提名与选举。",
+      "whyImportant": "高投票率反映了选民对新选举制度下选委会职能的关注，该机构在香港政治架构中扮演核心角色。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "54bdbb67bf04a7c0",
+      "title": "Hong Kong’s Election Committee race: how voting works and new candidates to watch",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
+      "publishedAt": "2026-11-22T00:00:23.000Z",
+      "summary": "Hong Kong goes to the polls on Sunday for some 5,700 eligible voters to choose members of the powerful Election Committee, a 1,500-strong electoral college that will nominate candidates and elect the city leader in next year’s chief executive race, as well as nominate candidates and elect legislators in the 2029 Legislative Council election. Here is what you need to know about the 2026 Election Committee Subsector Ordinary Elections and the candidates to watch. 1. What is the Election...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
+          "publishedAt": "2026-11-22T00:00:23.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "369c2d7dd3831592cc04407a",
+      "isContinuation": false,
+      "titleZh": "香港选举委员会选举：投票机制及值得关注的新候选人",
+      "summaryZh": "香港举行选举委员会界别分组一般选举，约5700名合资格选民参与投票。此次选举选出的委员将负责未来行政长官及立法会议员的提名与选举工作。",
+      "whyImportant": "选委会选举是香港政治体制的重要组成部分，其结果直接影响未来政府领导人及立法机构的产生。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "caa368e1c1157f45",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T22:01:19.000Z",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-21T22:01:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 52,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "48ef3ca7f0b5200847386010",
+      "isContinuation": false,
+      "titleZh": "美国前总统乔治·华盛顿的一缕头发以4000美元售出",
+      "summaryZh": "据前拥有者的后代称，这缕头发是在华盛顿1799年去世前作为友谊的象征赠送的。该物品近期在拍卖中以4000美元的价格成交。",
+      "whyImportant": "这一拍卖事件反映了历史名人遗物在收藏市场中持续存在的价值与关注度。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "50f4fac8f2424a22",
+      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "publishedAt": "2026-11-22T02:05:50.000Z",
+      "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+          "publishedAt": "2026-11-22T02:05:50.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cb5d335223dcca978947b926",
+      "isContinuation": false,
+      "titleZh": "贝森特证实因担忧伊朗威胁而居住在美军基地",
+      "summaryZh": "美国财政部长斯科特·贝森特表示，在收到以色列的警告两周后，他目前仍居住在美军基地内。此举凸显了政府高层对潜在安全威胁的重视。",
+      "whyImportant": "该消息揭示了当前地缘政治紧张局势下，美国高级官员面临的安全风险及防范措施。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "48f549e40ad0da89",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T01:25:03.000Z",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T01:25:03.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "c3cfb67f3ae7618c6e39b63e",
+      "isContinuation": false,
+      "titleZh": "FBI十大通缉要犯名单中的墨西哥毒枭在枪战中被捕",
+      "summaryZh": "被控贩毒和酷刑的法乌斯托·伊西德罗·梅萨·弗洛雷斯在与当局的枪战后被捕。他此前一直位列联邦调查局的十大通缉要犯名单。",
+      "whyImportant": "此次逮捕行动是打击跨国贩毒集团的重要进展，有助于削弱相关犯罪组织的势力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6dac6d520a4240fa",
+      "title": "French police officers jailed for racist violence against black man in landmark ruling",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
+      "publishedAt": "2026-11-21T20:22:55.000Z",
+      "summary": "The lawyer for a black man who was beaten up by three French police officers hailed a “historic ruling” on Saturday after a court acknowledged the racist nature of the violence and sentenced them to between one and two years in prison. The assault on Michel Zecler, a music producer, took place six years ago during the coronavirus pandemic and was caught on camera. It showed the officers repeatedly punching him, using a truncheon and tear gas against him for no apparent reason. Zecler said after...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
+          "publishedAt": "2026-11-21T20:22:55.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "能源",
+        "国际组织"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "95f84f50ed11696cd4f18d75",
+      "isContinuation": false,
+      "titleZh": "法国警察因对黑人实施种族主义暴力被判入狱，裁决具有里程碑意义",
+      "summaryZh": "三名法国警察因六年前殴打音乐制作人米歇尔·泽克勒被判处一至两年监禁。法院认定该暴力行为具有种族主义性质，受害者律师称此裁决具有历史意义。",
+      "whyImportant": "该判决标志着法国司法系统在处理执法人员种族歧视和暴力问题上迈出了重要一步。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6bb0948a08a8b60c",
+      "title": "Man charged with attempted murder after councillor stabbed in Bradford",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+      "publishedAt": "2026-11-21T19:42:42.000Z",
+      "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+          "publishedAt": "2026-11-21T19:42:42.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发"
+      ],
+      "score": 53,
+      "topic": "economy-finance",
+      "topicName": "全球经济与金融",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "caf9643c39ee9381dfb5c471",
+      "isContinuation": false,
+      "titleZh": "布拉德福德议员遇刺，一名男子被控谋杀未遂",
+      "summaryZh": "31岁的阿尔凡·阿里因在布拉德福德袭击当地议员伊布拉尔·阿里而被控谋杀未遂、袭击及非法持有攻击性武器。袭击事件发生于周四上午，目前警方已介入调查。",
+      "whyImportant": "针对民选官员的暴力袭击引发了公众对社区安全及政治人物人身保护的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
