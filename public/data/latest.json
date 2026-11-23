@@ -1,131 +1,44 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T06:43:52.163Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T07:33:09.485Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "economy-finance",
-    "name": "全球经济与金融",
-    "description": "追踪增长、贸易、通胀、利率、金融市场与供应链",
-    "query": "global economy finance trade inflation interest rates",
+    "slug": "security",
+    "name": "军事、安全与突发事件",
+    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
+    "query": "military security conflict breaking crisis",
     "keywords": [
-      "economy",
-      "trade",
-      "tariff",
-      "inflation",
-      "market",
-      "bank",
-      "interest rate",
-      "经济",
-      "贸易",
-      "通胀",
-      "金融",
-      "利率"
+      "military",
+      "war",
+      "missile",
+      "security",
+      "attack",
+      "ceasefire",
+      "军事",
+      "战争",
+      "导弹",
+      "袭击",
+      "停火",
+      "突发"
     ],
-    "accent": "#10b981"
+    "accent": "#f97316"
   },
-  "overview": "今日专题“全球经济与金融”。共筛选 21 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
+  "overview": "今日专题“军事、安全与突发事件”。共筛选 21 个高价值事件，重点关注中国相关进展、全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "96eef9501f0cde58",
-      "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-      "publishedAt": "2026-11-22T06:00:18.000Z",
-      "summary": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected chancellor of Germany. The EU had 15 member states and pro-European, centre-left parties were in power – either alone or in coalitions – in all but two of them. Brisk economic growth was lifting living standards. Eastward enlargement was under way. In Washington, Bill Clinton was pursuing the same brand of “third way” centrism as a middle path between free-market capitalism and traditional socialism. The EU felt like it had the tide of history behind it. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-          "publishedAt": "2026-11-22T06:00:18.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济",
-        "金融",
-        "军事与安全",
-        "专题·全球经济与金融"
-      ],
-      "score": 80,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "market",
-        "经济",
-        "金融"
-      ],
-      "fingerprint": "46b69ef948485473f505f776",
-      "isContinuation": false,
-      "titleZh": "欧洲进入全国选举“超级周期”，结果可能动摇欧盟根基",
-      "summaryZh": "欧洲多国即将迎来一系列全国性选举，这些选举被视为对欧盟韧性的关键考验。选举结果可能改变欧洲的政治格局，并对欧盟的未来发展方向产生深远影响。",
-      "whyImportant": "欧洲政治版图的变动将直接影响欧盟的政策走向及全球地缘政治稳定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a0149a11303781b2",
-      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-      "publishedAt": "2026-11-22T06:00:21.000Z",
-      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, drones hanging from the ceiling, and guards in flak jackets patrolling the premises with sniffer dogs. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-          "publishedAt": "2026-11-22T06:00:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "科技",
-        "专题·全球经济与金融"
-      ],
-      "score": 69,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "trade",
-        "经济"
-      ],
-      "fingerprint": "f5cfd72c5dbbe164a9ac8e07",
-      "isContinuation": false,
-      "titleZh": "“严重的判断失误”：柏林艺术中心举办军事AI活动引发愤怒",
-      "summaryZh": "柏林著名的Kraftwerk艺术中心近日被改造成军火商的“作战室”，现场展示了地图、无人机及全副武装的警卫。这一充满反乌托邦色彩的活动在当地引发了强烈抗议。",
-      "whyImportant": "该事件凸显了柏林文化界对军事化活动进入艺术空间的抵触情绪。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c902a31706b5ef7e",
-      "title": "Thousands protest across Europe over living costs and housing",
+      "id": "42f3dcde7248d8f1",
+      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-      "publishedAt": "2026-11-21T20:47:50.000Z",
-      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+      "publishedAt": "2026-11-23T05:38:01.000Z",
+      "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-          "publishedAt": "2026-11-21T20:47:50.000Z"
+          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+          "publishedAt": "2026-11-23T05:38:01.000Z"
         }
       ],
       "sourceCount": 1,
@@ -134,38 +47,82 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "经济",
-        "专题·全球经济与金融"
+        "突发",
+        "金融",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 73,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "经济"
+        "attack",
+        "突发"
       ],
-      "fingerprint": "8b847967e87220786d9b1db7",
+      "fingerprint": "ad7db2f01488baaa73230e4d",
       "isContinuation": false,
-      "titleZh": "欧洲多地爆发抗议，民众不满生活成本与住房问题",
-      "summaryZh": "继青年群体针对教育和经济困境发起抗议后，法国和葡萄牙等地再次爆发大规模示威。民众对高昂的生活成本和住房危机表示强烈不满。",
-      "whyImportant": "欧洲范围内的抗议活动显示了经济压力正持续引发社会动荡。",
+      "titleZh": "人权组织：以色列在被占领的西岸对医务人员的袭击激增350%",
+      "summaryZh": "以色列医生人权组织表示，医务人员正面临来自士兵和定居者日益严重的暴力威胁。这种暴力升级对当地医疗救援工作构成了极大的危险。",
+      "whyImportant": "该报告揭示了冲突地区医疗环境的恶化，引发了对国际人道法执行情况的担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "fd52e88d68631eb5",
-      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-      "publishedAt": "2026-11-21T12:00:00.000Z",
-      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
+      "id": "b5b81b0987c156ab",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T05:34:39.000Z",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-          "publishedAt": "2026-11-21T12:00:00.000Z"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-23T05:34:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "外交",
+        "环境",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "5b6e0e4353c980e61733fe8e",
+      "isContinuation": false,
+      "titleZh": "COP31气候谈判未达成协议，后续将如何发展？",
+      "summaryZh": "本次气候峰会是历史上持续时间最长的一次，谈判在原定结束日期两天后宣告破裂。各方未能就最终协议达成一致，引发了对未来气候政策走向的讨论。",
+      "whyImportant": "全球气候治理进程的停滞可能对国际减排合作及应对气候变化的紧迫行动产生负面影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "af75c65b14939e5d",
+      "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+      "publishedAt": "2026-11-23T06:46:49.000Z",
+      "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning. Nobody really wants to think about Brexit any more, save for the original Brexiters, who seem delighted that Andy Burnham’s “reset” with the EU has given them an excuse to get the old gang back together. But arguments about whether the UK should rejoin the EU will reignite in parliament this week, as Burnham briefs MPs on the deal he agreed on Friday. That deal wasn’t so much a victory as the culmination of Keir Starmer’s incrementalist approach to UK-EU relations. Its core agreements haven’t been ratified by member states yet, and the EU won’t sign them off until Britain resolves a dispute over tuition fees for European students. Burnham is apparently “determined” to take the UK back into the EU, but don’t expect any progress on that before the next general election. Cop31 | The EU, the UK and allies in the developing world rejected what they called an unacceptable deal that “failed to meet the moment” in a dramatic finish to the UN talks in Turkey. T",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+          "publishedAt": "2026-11-23T06:46:49.000Z"
         }
       ],
       "sourceCount": 1,
@@ -176,81 +133,460 @@
         "全球焦点",
         "经济",
         "军事与安全",
-        "环境",
-        "专题·全球经济与金融"
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "经济"
+        "军事"
       ],
-      "fingerprint": "17af5f33fe12e0137280f7e8",
+      "fingerprint": "124a28f5adefaf2351002f29",
       "isContinuation": false,
-      "titleZh": "家园被弃、收成受损：海地农民在暴力、饥饿与厄尔尼诺现象中重建生活",
-      "summaryZh": "海地长期遭受武装团伙暴力、经济不稳定及气候冲击，导致数百万民众面临严重的粮食短缺。当地农民在极端困难的环境下艰难维持生计。",
-      "whyImportant": "海地的人道主义危机凸显了气候变化与社会动荡对脆弱国家粮食安全的叠加影响。",
+      "titleZh": "周一简报：安迪·伯纳姆的“重置”对英国意味着什么？",
+      "summaryZh": "英国首相安迪·伯纳姆重启了关于英国与欧盟未来关系的辩论，并于上周五达成了一项初步协议。然而，该协议尚未得到欧盟成员国批准，且在学费争议解决前进展缓慢。",
+      "whyImportant": "此举标志着英国在脱欧后试图调整对欧政策，可能引发国内关于重新加入欧盟的政治争论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a0f99a33eb97a780",
-      "title": "Hong Kong will not rule out whistle-blower immunity in bid-rigging law: minister",
+      "id": "83c8a30ff39af264",
+      "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "publishedAt": "2026-11-23T06:13:21.000Z",
+      "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+          "publishedAt": "2026-11-23T06:13:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "军事与安全",
+        "环境",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "军事"
+      ],
+      "fingerprint": "3c9360f8fbc901b7b7e74c35",
+      "isContinuation": false,
+      "titleZh": "新南威尔士州议员亚历克斯·格林威治在LGBTQ+群体的反对下，撤回对弗雷德·奈尔国葬的支持",
+      "summaryZh": "在COP31气候峰会未能达成最终协议后，澳大利亚内阁部长穆雷·瓦特表示，国际社会在气候政策上的分歧难以弥合。与此同时，澳大利亚正加强与日本和菲律宾的防务合作。",
+      "whyImportant": "该事件反映了澳大利亚在处理国内社会议题与应对复杂国际地缘政治环境时的双重压力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9f7ec8950b45edc5",
+      "title": "South Korea rights body raps centre after detainee denied final call to dying father",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
-      "publishedAt": "2026-11-21T09:52:12.000Z",
-      "summary": "Hong Kong authorities will not rule out the inclusion of immunity provisions for whistle-blowers in proposed legal amendments to outlaw bid-rigging in building maintenance and renovation projects, the commerce chief has said. Officials vowed to amend the law after an independent committee identified bid-rigging as one of the causes behind the Tai Po fire in November 2025 that claimed 168 lives and displaced almost 5,000 people. Secretary for Commerce and Economic Development Algernon Yau...",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
+      "publishedAt": "2026-11-23T05:13:04.000Z",
+      "summary": "South Korea’s rights watchdog said on Monday it recommended that an immigration detention centre minimise restrictions on detainees’ freedom of communication, after it found that a facility violated a detainee’s right to pursue happiness by not allowing a video call with a dying father. The National Human Rights Commission of Korea, which made the recommendation last week, called on the centre to guarantee that detainees can use their personal mobile phones to the extent necessary in urgent and...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
-          "publishedAt": "2026-11-21T09:52:12.000Z"
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
+          "publishedAt": "2026-11-23T05:13:04.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "专题·全球经济与金融"
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "经济"
+        "突发"
       ],
-      "fingerprint": "a450b9409be17e918e889063",
+      "fingerprint": "9147671565e43dd40764480b",
       "isContinuation": false,
-      "titleZh": "香港商务及经济发展局局长：立法打击围标不排除给予举报人豁免权",
-      "summaryZh": "香港政府计划修法打击楼宇维修工程中的围标行为，商务及经济发展局局长表示，不排除在法例中加入举报人豁免条款。此举旨在根除导致大埔火灾等严重事故的行业弊病。",
-      "whyImportant": "引入举报人豁免机制有助于打破围标利益链，提升楼宇维修工程的透明度与安全性。",
+      "titleZh": "韩国人权机构批评拘留中心：被拘留者被拒绝与垂死父亲进行最后通话",
+      "summaryZh": "韩国国家人权委员会建议移民拘留中心放宽对被拘留者通讯自由的限制。此前，该中心因禁止一名被拘留者与垂死的父亲进行视频通话而受到批评。",
+      "whyImportant": "此举强调了在行政拘留过程中保障基本人权和人性化管理的重要性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c314b1c9598cf1d7",
+      "title": "Russian strikes kill at least 15 in Kyiv region, Ukraine says",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+      "publishedAt": "2026-11-22T18:32:59.000Z",
+      "summary": "Rescuers in Ukraine raced on Monday to find residents trapped under the rubble of a block of flats that partially collapsed in a Russian strike, after attacks on the Kyiv region killed at least 15 people. Moscow has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for another winter, as the full-scale invasion grinds through its fifth year. Russian President Vladimir Putin vowed last week a “painful” response to Ukrainian strikes on Russia’s Crimea bridge after...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+          "publishedAt": "2026-11-22T18:32:59.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "b9350e0129e3f266b32d7c63",
+      "isContinuation": false,
+      "titleZh": "乌克兰称俄罗斯袭击基辅地区，造成至少15人死亡",
+      "summaryZh": "俄罗斯对基辅地区发动了大规模空袭，导致一栋公寓楼部分坍塌，救援人员正在废墟中搜寻幸存者。这是俄乌冲突进入第五年之际，俄罗斯持续进行的夜间轰炸行动之一。",
+      "whyImportant": "平民伤亡的增加加剧了乌克兰在冬季面临的人道主义危机，并可能导致冲突进一步升级。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "86c4e817690b99be",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T17:18:26.000Z",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T17:18:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "214aa3724d58ff0633ed7cdc",
+      "isContinuation": false,
+      "titleZh": "一艘前往俄罗斯的船只在芬兰湾遇袭后被拖走",
+      "summaryZh": "芬兰国防军表示，上周六发生在芬兰湾的无人机袭击事件很可能是由乌克兰策划的。目前基辅方面尚未对此事发表评论。",
+      "whyImportant": "此次袭击事件显示了俄乌冲突的影响范围已延伸至波罗的海区域，增加了地区安全的不确定性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9e0e59e94b700d88",
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "publishedAt": "2026-11-22T22:00:58.000Z",
+      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+          "publishedAt": "2026-11-22T22:00:58.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "公共安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "8e37797b3127ff826ffd70fa",
+      "isContinuation": false,
+      "titleZh": "特蕾莎·梅的旧事重提将保守党拉回了不愉快的境地",
+      "summaryZh": "特蕾莎·梅近期公开支持脱欧的言论，让保守党重新陷入了关于欧盟关系的痛苦回忆中。尽管保守党倾向于反对与欧盟建立更紧密联系，但安迪·伯纳姆的政策调整迫使他们不得不面对这一议题。",
+      "whyImportant": "这反映了英国保守党内部在脱欧后遗症与未来对欧政策方向上的持续分裂。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "dc4db2d331645011",
-      "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+      "id": "42f3dcde7248d8f1",
+      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+      "publishedAt": "2026-11-23T05:38:01.000Z",
+      "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+          "publishedAt": "2026-11-23T05:38:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 73,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "ad7db2f01488baaa73230e4d",
+      "isContinuation": false,
+      "titleZh": "人权组织：以色列在被占领的西岸对医务人员的袭击激增350%",
+      "summaryZh": "以色列医生人权组织表示，医务人员正面临来自士兵和定居者日益严重的暴力威胁。这种暴力升级对当地医疗救援工作构成了极大的危险。",
+      "whyImportant": "该报告揭示了冲突地区医疗环境的恶化，引发了对国际人道法执行情况的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b5b81b0987c156ab",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T05:34:39.000Z",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-23T05:34:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "外交",
+        "环境",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "5b6e0e4353c980e61733fe8e",
+      "isContinuation": false,
+      "titleZh": "COP31气候谈判未达成协议，后续将如何发展？",
+      "summaryZh": "本次气候峰会是历史上持续时间最长的一次，谈判在原定结束日期两天后宣告破裂。各方未能就最终协议达成一致，引发了对未来气候政策走向的讨论。",
+      "whyImportant": "全球气候治理进程的停滞可能对国际减排合作及应对气候变化的紧迫行动产生负面影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "af75c65b14939e5d",
+      "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
-      "publishedAt": "2026-11-22T05:21:01.000Z",
-      "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email, free app or daily news podcast The twin brother of a man whose body lay undiscovered for 12 days after he was killed in a suspected hit and run in Sydney says it has left him feeling like half a person. Joshua Howard was last seen at a bus interchange in Parramatta, in western Sydney, about 10pm on 7 November. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+      "publishedAt": "2026-11-23T06:46:49.000Z",
+      "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning. Nobody really wants to think about Brexit any more, save for the original Brexiters, who seem delighted that Andy Burnham’s “reset” with the EU has given them an excuse to get the old gang back together. But arguments about whether the UK should rejoin the EU will reignite in parliament this week, as Burnham briefs MPs on the deal he agreed on Friday. That deal wasn’t so much a victory as the culmination of Keir Starmer’s incrementalist approach to UK-EU relations. Its core agreements haven’t been ratified by member states yet, and the EU won’t sign them off until Britain resolves a dispute over tuition fees for European students. Burnham is apparently “determined” to take the UK back into the EU, but don’t expect any progress on that before the next general election. Cop31 | The EU, the UK and allies in the developing world rejected what they called an unacceptable deal that “failed to meet the moment” in a dramatic finish to the UN talks in Turkey. T",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
-          "publishedAt": "2026-11-22T05:21:01.000Z"
+          "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+          "publishedAt": "2026-11-23T06:46:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "军事"
+      ],
+      "fingerprint": "124a28f5adefaf2351002f29",
+      "isContinuation": false,
+      "titleZh": "周一简报：安迪·伯纳姆的“重置”对英国意味着什么？",
+      "summaryZh": "英国首相安迪·伯纳姆重启了关于英国与欧盟未来关系的辩论，并于上周五达成了一项初步协议。然而，该协议尚未得到欧盟成员国批准，且在学费争议解决前进展缓慢。",
+      "whyImportant": "此举标志着英国在脱欧后试图调整对欧政策，可能引发国内关于重新加入欧盟的政治争论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "83c8a30ff39af264",
+      "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "publishedAt": "2026-11-23T06:13:21.000Z",
+      "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+          "publishedAt": "2026-11-23T06:13:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "军事与安全",
+        "环境",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "军事"
+      ],
+      "fingerprint": "3c9360f8fbc901b7b7e74c35",
+      "isContinuation": false,
+      "titleZh": "新南威尔士州议员亚历克斯·格林威治在LGBTQ+群体的反对下，撤回对弗雷德·奈尔国葬的支持",
+      "summaryZh": "在COP31气候峰会未能达成最终协议后，澳大利亚内阁部长穆雷·瓦特表示，国际社会在气候政策上的分歧难以弥合。与此同时，澳大利亚正加强与日本和菲律宾的防务合作。",
+      "whyImportant": "该事件反映了澳大利亚在处理国内社会议题与应对复杂国际地缘政治环境时的双重压力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9f7ec8950b45edc5",
+      "title": "South Korea rights body raps centre after detainee denied final call to dying father",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
+      "publishedAt": "2026-11-23T05:13:04.000Z",
+      "summary": "South Korea’s rights watchdog said on Monday it recommended that an immigration detention centre minimise restrictions on detainees’ freedom of communication, after it found that a facility violated a detainee’s right to pursue happiness by not allowing a video call with a dying father. The National Human Rights Commission of Korea, which made the recommendation last week, called on the centre to guarantee that detainees can use their personal mobile phones to the extent necessary in urgent and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
+          "publishedAt": "2026-11-23T05:13:04.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "9147671565e43dd40764480b",
+      "isContinuation": false,
+      "titleZh": "韩国人权机构批评拘留中心：被拘留者被拒绝与垂死父亲进行最后通话",
+      "summaryZh": "韩国国家人权委员会建议移民拘留中心放宽对被拘留者通讯自由的限制。此前，该中心因禁止一名被拘留者与垂死的父亲进行视频通话而受到批评。",
+      "whyImportant": "此举强调了在行政拘留过程中保障基本人权和人性化管理的重要性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c314b1c9598cf1d7",
+      "title": "Russian strikes kill at least 15 in Kyiv region, Ukraine says",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+      "publishedAt": "2026-11-22T18:32:59.000Z",
+      "summary": "Rescuers in Ukraine raced on Monday to find residents trapped under the rubble of a block of flats that partially collapsed in a Russian strike, after attacks on the Kyiv region killed at least 15 people. Moscow has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for another winter, as the full-scale invasion grinds through its fifth year. Russian President Vladimir Putin vowed last week a “painful” response to Ukrainian strikes on Russia’s Crimea bridge after...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+          "publishedAt": "2026-11-22T18:32:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -261,119 +597,40 @@
         "全球焦点",
         "突发",
         "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 71,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9b7856e9b0ff013b29154584",
-      "isContinuation": false,
-      "titleZh": "悉尼男子失踪12天后被发现，警方称其死于疑似肇事逃逸",
-      "summaryZh": "31岁的约书亚·霍华德在从派对回家的路上疑似被车撞倒并抛出护栏。他的遗体在失踪12天后才被发现，其双胞胎兄弟对此深感悲痛。",
-      "whyImportant": "此案引发了公众对道路安全及失踪人口搜救效率的关注。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a0149a11303781b2",
-      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-      "publishedAt": "2026-11-22T06:00:21.000Z",
-      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, drones hanging from the ceiling, and guards in flak jackets patrolling the premises with sniffer dogs. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-          "publishedAt": "2026-11-22T06:00:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "科技",
-        "专题·全球经济与金融"
-      ],
-      "score": 69,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "trade",
-        "经济"
+        "war",
+        "attack",
+        "军事",
+        "突发"
       ],
-      "fingerprint": "f5cfd72c5dbbe164a9ac8e07",
+      "fingerprint": "b9350e0129e3f266b32d7c63",
       "isContinuation": false,
-      "titleZh": "“严重的判断失误”：柏林艺术中心举办军事AI活动引发愤怒",
-      "summaryZh": "柏林著名的Kraftwerk艺术中心近日被改造成军火商的“作战室”，现场展示了地图、无人机及全副武装的警卫。这一充满反乌托邦色彩的活动在当地引发了强烈抗议。",
-      "whyImportant": "该事件凸显了柏林文化界对军事化活动进入艺术空间的抵触情绪。",
+      "titleZh": "乌克兰称俄罗斯袭击基辅地区，造成至少15人死亡",
+      "summaryZh": "俄罗斯对基辅地区发动了大规模空袭，导致一栋公寓楼部分坍塌，救援人员正在废墟中搜寻幸存者。这是俄乌冲突进入第五年之际，俄罗斯持续进行的夜间轰炸行动之一。",
+      "whyImportant": "平民伤亡的增加加剧了乌克兰在冬季面临的人道主义危机，并可能导致冲突进一步升级。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7b2ee0823f3ab321",
-      "title": "Dozens missing as deadly fire hits Indonesian candy factory",
-      "source": "DW",
-      "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-11-22T06:14:00.000Z",
-      "summary": "A fire at a confectionery factory in Indonesia's Banten province has killed at least three people. Dozens are also unaccounted for after the blaze, which destroyed large parts of the facility.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-11-22T06:14:00.000Z"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T06:05:00.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 58,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2527d9ca5e17c853b7a181e0",
-      "isContinuation": false,
-      "titleZh": "印尼糖果厂发生致命火灾，数十人失踪",
-      "summaryZh": "印度尼西亚万丹省一家糖果厂发生火灾，造成至少3人死亡。火灾摧毁了工厂大部分设施，目前仍有数十人下落不明。",
-      "whyImportant": "此次工业事故造成的人员伤亡引发了对当地工厂安全标准的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0ba1f946ec685f93",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "id": "86c4e817690b99be",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T05:26:10.000Z",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T17:18:26.000Z",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T05:26:10.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T17:18:26.000Z"
         }
       ],
       "sourceCount": 1,
@@ -382,36 +639,41 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "外交",
-        "环境"
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a6ce68ac6a75c8274d8f2795",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "214aa3724d58ff0633ed7cdc",
       "isContinuation": false,
-      "titleZh": "新草案旨在避免气候峰会谈判破裂",
-      "summaryZh": "在土耳其举行的联合国COP31气候峰会进入延长期。各国代表正努力就新草案达成共识，以避免谈判彻底失败。",
-      "whyImportant": "气候峰会的谈判结果直接影响全球应对气候变化的政策方向。",
+      "titleZh": "一艘前往俄罗斯的船只在芬兰湾遇袭后被拖走",
+      "summaryZh": "芬兰国防军表示，上周六发生在芬兰湾的无人机袭击事件很可能是由乌克兰策划的。目前基辅方面尚未对此事发表评论。",
+      "whyImportant": "此次袭击事件显示了俄乌冲突的影响范围已延伸至波罗的海区域，增加了地区安全的不确定性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2d635062e2c3dca5",
-      "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+      "id": "9e0e59e94b700d88",
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
-      "publishedAt": "2026-11-22T06:00:21.000Z",
-      "summary": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more than £11m to Labour More than 20 Labour MPs have signed up to a year-long leadership course helping them to counter rightwing populism and deal with hostility, run by two former No 10 advisers and ultimately funded by multimillionaire donor Gary Lubner. The training courses worth about £9,600 are being led by Ruth Turner, who was Tony Blair’s director of government relations, and Peter Hyman, who has worked for Blair, Keir Starmer and Andy Burnham’s governments. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "publishedAt": "2026-11-22T22:00:58.000Z",
+      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
-          "publishedAt": "2026-11-22T06:00:21.000Z"
+          "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+          "publishedAt": "2026-11-22T22:00:58.000Z"
         }
       ],
       "sourceCount": 1,
@@ -420,155 +682,41 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "军事与安全",
+        "公共安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d649c35e6731ca9b5c69f378",
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "8e37797b3127ff826ffd70fa",
       "isContinuation": false,
-      "titleZh": "工党议员参加领导力课程以应对右翼民粹主义",
-      "summaryZh": "超过20名工党议员参加了一项为期一年的领导力培训课程，旨在学习如何应对右翼民粹主义及政治敌意。该课程由前首相顾问领导，并由富豪捐赠者资助。",
-      "whyImportant": "此举反映了英国工党在政治极化背景下加强议员应对能力的策略。",
+      "titleZh": "特蕾莎·梅的旧事重提将保守党拉回了不愉快的境地",
+      "summaryZh": "特蕾莎·梅近期公开支持脱欧的言论，让保守党重新陷入了关于欧盟关系的痛苦回忆中。尽管保守党倾向于反对与欧盟建立更紧密联系，但安迪·伯纳姆的政策调整迫使他们不得不面对这一议题。",
+      "whyImportant": "这反映了英国保守党内部在脱欧后遗症与未来对欧政策方向上的持续分裂。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "c902a31706b5ef7e",
-      "title": "Thousands protest across Europe over living costs and housing",
+      "id": "36634285571cad6e",
+      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-      "publishedAt": "2026-11-21T20:47:50.000Z",
-      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+      "publishedAt": "2026-11-23T00:39:51.000Z",
+      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-          "publishedAt": "2026-11-21T20:47:50.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "专题·全球经济与金融"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济"
-      ],
-      "fingerprint": "8b847967e87220786d9b1db7",
-      "isContinuation": false,
-      "titleZh": "欧洲多地爆发抗议，民众不满生活成本与住房问题",
-      "summaryZh": "继青年群体针对教育和经济困境发起抗议后，法国和葡萄牙等地再次爆发大规模示威。民众对高昂的生活成本和住房危机表示强烈不满。",
-      "whyImportant": "欧洲范围内的抗议活动显示了经济压力正持续引发社会动荡。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "74a634417f442408",
-      "title": "Australia-Philippine deal exposes where Asean’s architecture is weakest",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest",
-      "publishedAt": "2026-11-21T21:30:05.000Z",
-      "summary": "The most revealing moment of the 49th Asean summit in Manila might have occurred beyond the plenary hall. On November 15, as Southeast Asian governments gathered to reaffirm regional cooperation, Australia and the Philippines signed a new defence cooperation arrangement intended to make their military partnership more practical. The timing was striking: the Association of Southeast Asian Nations (Asean) was celebrating its central role even as two partners were building security mechanisms...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest",
-          "publishedAt": "2026-11-21T21:30:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1bcc9d563cc399d09c537db0",
-      "isContinuation": false,
-      "titleZh": "澳菲协议暴露东盟架构的薄弱环节",
-      "summaryZh": "在东盟峰会期间，澳大利亚与菲律宾签署了新的防务合作协议。此举被认为在东盟强调区域合作的同时，凸显了其在安全机制上的局限性。",
-      "whyImportant": "该协议反映了亚太地区在多边框架之外寻求双边安全保障的趋势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd52e88d68631eb5",
-      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-      "publishedAt": "2026-11-21T12:00:00.000Z",
-      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-          "publishedAt": "2026-11-21T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "环境",
-        "专题·全球经济与金融"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济"
-      ],
-      "fingerprint": "17af5f33fe12e0137280f7e8",
-      "isContinuation": false,
-      "titleZh": "家园被弃、收成受损：海地农民在暴力、饥饿与厄尔尼诺现象中重建生活",
-      "summaryZh": "海地长期遭受武装团伙暴力、经济不稳定及气候冲击，导致数百万民众面临严重的粮食短缺。当地农民在极端困难的环境下艰难维持生计。",
-      "whyImportant": "海地的人道主义危机凸显了气候变化与社会动荡对脆弱国家粮食安全的叠加影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "07e0882a22b0ec43",
-      "title": "A year of grief: Tai Po fire residents on coping with loss and trying to move on",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
-      "publishedAt": "2026-11-22T02:30:06.000Z",
-      "summary": "What has life been like for the residents of Wang Fuk Court displaced by the deadly blaze of last November? Lo Hoi-ying speaks to residents as part of a series on the first anniversary of the Tai Po fire. Vivian Lee had just finished lunch and was resting at home when she smelled smoke. At first, the 70-year-old housewife thought her domestic helper had burnt something in the kitchen. She was inspecting her hob when a neighbour knocked on her door to warn them of a fire at Wang Cheong House, six...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
-          "publishedAt": "2026-11-22T02:30:06.000Z"
+          "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+          "publishedAt": "2026-11-23T00:39:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -578,35 +726,39 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "科技"
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "43d6d55a66c2a6ea992a0cdb",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "bf94c0f6acf47cc84434c7b1",
       "isContinuation": false,
-      "titleZh": "悲伤的一年：大埔火灾居民讲述如何应对失去与尝试重新生活",
-      "summaryZh": "去年11月大埔宏福苑发生致命火灾，导致大量居民流离失所。在火灾一周年之际，媒体采访了受灾居民，回顾他们过去一年在失去家园后的生活与心理重建过程。",
-      "whyImportant": "该报道关注灾后居民的心理健康与生活重建，反映了重大公共安全事故对社区的长期影响。",
+      "titleZh": "世卫组织总干事呼吁刚果民主共和国埃博拉疫区停止战斗以实现和平",
+      "summaryZh": "刚果民主共和国一家医院附近的战斗干扰了埃博拉防控工作。世卫组织警告称，这使患者和医护人员处于严重危险之中。",
+      "whyImportant": "冲突升级威胁到当地脆弱的公共卫生防疫体系，可能导致埃博拉疫情进一步扩散。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e5102d2b451f1adf",
-      "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+      "id": "e2be825e0d55bb5f",
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-      "publishedAt": "2026-11-22T02:08:49.000Z",
-      "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email, free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate from handing out how to vote cards that mimic their branding and urge people to preference it last. The decision has been welcomed by the party’s leader, Ellen Sandell, who said the flyers distributed by people wearing the exact same colour shirts as genuine Greens volunteers had already misled voters. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "publishedAt": "2026-11-23T00:31:31.000Z",
+      "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own meme coin as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, set to take place at the Trump National Golf Club in Sterling, Virginia, will include meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, Shark Tank investor Kevin O’Leary, NBA champion Tristan Thompson and mentalist Lior Suchard, according to the event’s website. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-          "publishedAt": "2026-11-22T02:08:49.000Z"
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+          "publishedAt": "2026-11-23T00:31:31.000Z"
         }
       ],
       "sourceCount": 1,
@@ -615,73 +767,42 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "金融",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8a92bf423653a18ccb573aae",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "3179b851c585fd5ec114e66e",
       "isContinuation": false,
-      "titleZh": "维多利亚州绿党赢得禁令，阻止模仿其品牌但将其排在投票意向末位的“投票指南”",
-      "summaryZh": "维多利亚州绿党成功申请最高法院禁令，阻止一名独立候选人发放模仿绿党品牌形象的投票指南。该指南误导选民，将绿党排在投票意向的最后一位，引发了关于选举公平性的争议。",
-      "whyImportant": "此案凸显了选举中利用品牌混淆误导选民的风险，对维护选举公正性具有法律参考意义。",
+      "titleZh": "特朗普举办第三场模因币加密货币晚宴，引发利益冲突争议",
+      "summaryZh": "特朗普在弗吉尼亚州的高尔夫俱乐部举办加密货币晚宴，奖励其模因币的持有者。民主党人指责特朗普利用总统身份从加密货币业务中谋取不正当利益。",
+      "whyImportant": "此举引发了公众对总统职务与个人商业利益之间界限的质疑，并加剧了政治上的道德争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "a251b02ef2e87733",
-      "title": "Hong Kong temperatures to fall to 16 degrees midweek as monsoon arrives",
+      "id": "9aa581609376e08c",
+      "title": "Hong Kong films shine as Angela Yuen, Anson Kong win at Golden Horse Awards",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
-      "publishedAt": "2026-11-22T05:45:02.000Z",
-      "summary": "Hong Kong is expected to turn chilly midweek, with temperatures dropping to 16 degrees Celsius (60.8 Fahrenheit) as a northeast monsoon brings cloudy skies and rain, according to the forecaster. The Hong Kong Observatory said on Sunday a fresh to strong easterly airstream would bring cloudier conditions to southern China over the next two days. Winds are forecast to turn northerly midweek, pushing temperatures down to between 16 and 20 degrees on Wednesday. In the New Territories, temperatures...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375392/mirrors-anson-kong-rises-step-step-golden-horse-glory-we-are-born-good-wins",
+      "publishedAt": "2026-11-22T14:51:20.000Z",
+      "summary": "Hong Kong actress Angela Yuen Lai-lam has won the best actress prize at the prestigious Golden Horse Awards in Taiwan, while Anson Kong Ip-sang of boy band Mirror has snagged the best supporting actor trophy. The 33-year-old Yuen beat fellow contenders for the top acting prize for her performance in Hong Kong film Afterpiece, in which she plays an amateur actress who auditions for a leading role in a stage play and later becomes embroiled in a complex dynamic with its director. Yuen drew...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
-          "publishedAt": "2026-11-22T05:45:02.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b52295551b55bdca615131dd",
-      "isContinuation": false,
-      "titleZh": "受东北季候风影响，香港周中气温将降至16度",
-      "summaryZh": "香港天文台预计，受东北季候风影响，本周中期香港天气将转凉，气温将降至16至20摄氏度。届时将伴随多云及降雨天气，新界地区气温可能更低。",
-      "whyImportant": "气温骤降提醒市民注意保暖，并对户外活动及健康状况产生直接影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1ac3def8ed8713da",
-      "title": "Experts call for stronger reef protection as 20% of coral survey sites bleached",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
-      "publishedAt": "2026-11-22T04:00:12.000Z",
-      "summary": "About 20 per cent of Hong Kong’s coral survey sites recorded minor bleaching this year, as experts called for stronger measures to protect the marine habitats from potential climate effects. The Agriculture, Fisheries and Conservation Department shared the latest data with the South China Morning Post on Friday, saying minor coral bleaching was common during the summer months in Hong Kong. However, experts said mitigation measures, such as installing shading to shield corals from UV light,...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
-          "publishedAt": "2026-11-22T04:00:12.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3375392/mirrors-anson-kong-rises-step-step-golden-horse-glory-we-are-born-good-wins",
+          "publishedAt": "2026-11-22T14:51:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -690,232 +811,206 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "环境"
+        "军事与安全",
+        "能源",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a3cb3500d8f8ec57c004c156",
-      "isContinuation": false,
-      "titleZh": "专家呼吁加强珊瑚保护，20%的珊瑚调查点出现白化现象",
-      "summaryZh": "香港今年约20%的珊瑚调查点记录到轻微白化现象。专家呼吁采取更强有力的保护措施，如安装遮阳设施以减少紫外线影响，应对气候变化对海洋生态的威胁。",
-      "whyImportant": "珊瑚白化是气候变化影响海洋生态的警示，加强保护对维护香港生物多样性至关重要。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9d20407ea31a297d",
-      "title": "Hong Kong Election Committee race: turnout hits nearly 90%, exceeding 2021 total",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
-      "publishedAt": "2026-11-22T02:26:45.000Z",
-      "summary": "A total of 856 candidates are vying for 723 seats across the 31 subsectors. The elected members will join 259 members from five uncontested subsectors, 362 ex officio members and 156 members nominated by designated bodies to form the 1,500-strong electoral college. The key body will nominate and vote in next year’s chief executive election, and will nominate candidates and elect 40 of the 90 lawmakers in the 2029 Legislative Council election. The second Election Committee poll since Beijing’s...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
-          "publishedAt": "2026-11-22T02:26:45.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2f79b76861d5fdacce149793",
-      "isContinuation": false,
-      "titleZh": "香港选举委员会选举：投票率接近90%，超过2021年总数",
-      "summaryZh": "香港选举委员会选举投票率接近90%，超过了2021年的水平。选出的委员将组成1500人的选举委员会，负责提名及选出下任行政长官，并参与立法会议员的提名与选举。",
-      "whyImportant": "高投票率反映了选民对新选举制度下选委会职能的关注，该机构在香港政治架构中扮演核心角色。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "54bdbb67bf04a7c0",
-      "title": "Hong Kong’s Election Committee race: how voting works and new candidates to watch",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
-      "publishedAt": "2026-11-22T00:00:23.000Z",
-      "summary": "Hong Kong goes to the polls on Sunday for some 5,700 eligible voters to choose members of the powerful Election Committee, a 1,500-strong electoral college that will nominate candidates and elect the city leader in next year’s chief executive race, as well as nominate candidates and elect legislators in the 2029 Legislative Council election. Here is what you need to know about the 2026 Election Committee Subsector Ordinary Elections and the candidates to watch. 1. What is the Election...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
-          "publishedAt": "2026-11-22T00:00:23.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "369c2d7dd3831592cc04407a",
-      "isContinuation": false,
-      "titleZh": "香港选举委员会选举：投票机制及值得关注的新候选人",
-      "summaryZh": "香港举行选举委员会界别分组一般选举，约5700名合资格选民参与投票。此次选举选出的委员将负责未来行政长官及立法会议员的提名与选举工作。",
-      "whyImportant": "选委会选举是香港政治体制的重要组成部分，其结果直接影响未来政府领导人及立法机构的产生。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a0f99a33eb97a780",
-      "title": "Hong Kong will not rule out whistle-blower immunity in bid-rigging law: minister",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
-      "publishedAt": "2026-11-21T09:52:12.000Z",
-      "summary": "Hong Kong authorities will not rule out the inclusion of immunity provisions for whistle-blowers in proposed legal amendments to outlaw bid-rigging in building maintenance and renovation projects, the commerce chief has said. Officials vowed to amend the law after an independent committee identified bid-rigging as one of the causes behind the Tai Po fire in November 2025 that claimed 168 lives and displaced almost 5,000 people. Secretary for Commerce and Economic Development Algernon Yau...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
-          "publishedAt": "2026-11-21T09:52:12.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "经济",
-        "科技",
-        "专题·全球经济与金融"
-      ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": true,
       "topicKeywords": [
-        "经济"
+        "war",
+        "军事"
       ],
-      "fingerprint": "a450b9409be17e918e889063",
+      "fingerprint": "b29d287261457d5dd8991a82",
       "isContinuation": false,
-      "titleZh": "香港商务及经济发展局局长：立法打击围标不排除给予举报人豁免权",
-      "summaryZh": "香港政府计划修法打击楼宇维修工程中的围标行为，商务及经济发展局局长表示，不排除在法例中加入举报人豁免条款。此举旨在根除导致大埔火灾等严重事故的行业弊病。",
-      "whyImportant": "引入举报人豁免机制有助于打破围标利益链，提升楼宇维修工程的透明度与安全性。",
+      "titleZh": "香港电影闪耀金马奖，袁澧林与江𤒹生分获殊荣",
+      "summaryZh": "香港演员袁澧林凭借电影《后项》获得金马奖最佳女主角奖，Mirror成员江𤒹生则摘得最佳男配角奖。袁澧林在片中饰演一名业余演员，展现了复杂的角色心理。",
+      "whyImportant": "香港影人在金马奖的成功体现了香港电影在华语影坛的持续影响力和艺术水准。",
       "summaryMode": "ai",
       "translationStatus": "translated"
-    }
-  ],
-  "usa": [
+    },
     {
-      "id": "96eef9501f0cde58",
-      "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-      "publishedAt": "2026-11-22T06:00:18.000Z",
-      "summary": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected chancellor of Germany. The EU had 15 member states and pro-European, centre-left parties were in power – either alone or in coalitions – in all but two of them. Brisk economic growth was lifting living standards. Eastward enlargement was under way. In Washington, Bill Clinton was pursuing the same brand of “third way” centrism as a middle path between free-market capitalism and traditional socialism. The EU felt like it had the tide of history behind it. Continue reading...",
+      "id": "996f7397fdc17477",
+      "title": "Danny Quah on how Asean charts its own course amid fierce US-China rivalry",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
+      "publishedAt": "2026-11-22T22:00:12.000Z",
+      "summary": "Danny Quah is an economics professor at the National University of Singapore’s Lee Kuan Yew School of Public Policy. He served as the school’s dean between 2018 and 2025, and has consulted for, among others, the World Bank, the Bank of England and the Monetary Authority of Singapore. Here, he discusses how the Association of Southeast Asian Nations (Asean) navigates the US-China rivalry, yuan internationalisation in the region and why the “China shock” has played out differently in Southeast...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-          "publishedAt": "2026-11-22T06:00:18.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
+          "publishedAt": "2026-11-22T22:00:12.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点",
+        "中国重点",
         "经济",
         "金融",
-        "军事与安全",
-        "专题·全球经济与金融"
+        "国际组织"
       ],
-      "score": 80,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "market",
-        "经济",
-        "金融"
-      ],
-      "fingerprint": "46b69ef948485473f505f776",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "4a383974eae78498d4fe12d2",
       "isContinuation": false,
-      "titleZh": "欧洲进入全国选举“超级周期”，结果可能动摇欧盟根基",
-      "summaryZh": "欧洲多国即将迎来一系列全国性选举，这些选举被视为对欧盟韧性的关键考验。选举结果可能改变欧洲的政治格局，并对欧盟的未来发展方向产生深远影响。",
-      "whyImportant": "欧洲政治版图的变动将直接影响欧盟的政策走向及全球地缘政治稳定性。",
+      "titleZh": "丹尼·夸：东盟如何在激烈的中美竞争中开辟自己的道路",
+      "summaryZh": "经济学教授丹尼·夸探讨了东盟如何在中美竞争中保持平衡。他分析了人民币在东南亚的国际化进程，以及该地区如何应对“中国冲击”。",
+      "whyImportant": "该分析为理解东南亚国家在当前地缘政治博弈中的战略自主性提供了重要视角。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "caa368e1c1157f45",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T22:01:19.000Z",
-      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "id": "ad2ae59dc582853c",
+      "title": "No grand bargain at Xi-Trump-Putin meeting? That was never the point",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
+      "publishedAt": "2026-11-22T12:30:07.000Z",
+      "summary": "When Chinese President Xi Jinping hosted US President Donald Trump and Russian President Vladimir Putin in Shenzhen on November 19, the images were historic. The three leaders issued a four-point declaration towards peace, addressing UN reform, energy security, concerns over abuses of jurisdiction by the International Criminal Court, and nuclear risk reduction. Yet the meeting produced considerably less than a grand bargain on substantive geopolitical or security issues. As a result, some media...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-21T22:01:19.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
+          "publishedAt": "2026-11-22T12:30:07.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "中国重点",
+        "军事与安全",
+        "能源",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "e85e64ad584d83a1f7b68c39",
+      "isContinuation": false,
+      "titleZh": "习特普深圳会晤未达成“大交易”？这本就不是目的",
+      "summaryZh": "中、美、俄三国领导人在深圳发表了关于和平、能源安全及核风险的四点声明。尽管未达成重大的地缘政治协议，但此次会晤本身具有历史意义。",
+      "whyImportant": "此次会晤展示了主要大国在关键全球议题上进行对话的意愿，有助于缓解国际紧张局势。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f734972b78a777ea",
+      "title": "Why Hong Kong’s Fine Art Asia fair has moved to Shenzhen after 20 years",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
+      "publishedAt": "2026-11-23T05:17:51.000Z",
+      "summary": "Hong Kong’s longest-running art and antiques fair, Fine Art Asia (FAA), is relocating to Shenzhen for its upcoming 2026 edition, which will take place from November 26 to 29, with its founder citing a sharp market downturn in his home city as one of the reasons behind the decision. Established in 2006, the home-grown fair had long been a fixture in Hong Kong’s cultural calendar, continuously taking place in Wan Chai – first at the China Resources Building and later at the Hong Kong Convention...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
+          "publishedAt": "2026-11-23T05:17:51.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "48ef3ca7f0b5200847386010",
+      "fingerprint": "b6a5980364eb4c9705f1bc85",
       "isContinuation": false,
-      "titleZh": "美国前总统乔治·华盛顿的一缕头发以4000美元售出",
-      "summaryZh": "据前拥有者的后代称，这缕头发是在华盛顿1799年去世前作为友谊的象征赠送的。该物品近期在拍卖中以4000美元的价格成交。",
-      "whyImportant": "这一拍卖事件反映了历史名人遗物在收藏市场中持续存在的价值与关注度。",
+      "titleZh": "为何香港“典亚艺博”在举办20年后迁至深圳",
+      "summaryZh": "香港历史最悠久的艺术品博览会“典亚艺博”宣布迁至深圳举办。创始人表示，香港本地市场低迷是促成此次搬迁的主要原因之一。",
+      "whyImportant": "这一变动反映了区域艺术市场重心的潜在转移以及香港文化产业面临的经济挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1d546e49d38a9425",
+      "title": "Tencent touts latest AI model Hy4’s performance on independent safety assessments",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
+      "publishedAt": "2026-11-22T13:30:07.000Z",
+      "summary": "Tencent Holdings has teamed up with an international group of artificial intelligence safety organisations to assess the risk level of its latest open-weight model, amid growing concerns over AI-assisted cyberattacks and biological misuse. The development marks the first time a leading Chinese tech company has disclosed that it worked with independent third-party evaluators in such evaluations of a new model before releasing it. “Our goal is to develop AI systems that are not only increasingly...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
+          "publishedAt": "2026-11-22T13:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "科技",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "6a3d00f37034b818f9bc77ff",
+      "isContinuation": false,
+      "titleZh": "腾讯展示其最新AI模型Hy4在独立安全评估中的表现",
+      "summaryZh": "腾讯与国际AI安全组织合作，对其最新的开源模型进行风险评估。这是中国大型科技公司首次在模型发布前披露第三方独立安全评估结果。",
+      "whyImportant": "此举标志着中国科技企业在AI安全治理方面与国际标准接轨，旨在应对AI技术带来的潜在滥用风险。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
+  "usa": [],
   "watch": [
     {
-      "id": "50f4fac8f2424a22",
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "id": "de25ddea0330fb09",
+      "title": "Iran war live: Hormuz tankers set ablaze; Tehran warns of internal threats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-      "publishedAt": "2026-11-22T02:05:50.000Z",
-      "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+      "publishedAt": "2026-11-22T23:59:22.000Z",
+      "summary": "Oil tankers were set ablaze in the Strait of Hormuz as Iran warned that its enemies sought to stoke domestic unrest.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-          "publishedAt": "2026-11-22T02:05:50.000Z"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+          "publishedAt": "2026-11-22T23:59:22.000Z"
         }
       ],
       "sourceCount": 1,
@@ -924,35 +1019,40 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全"
+        "军事与安全",
+        "能源",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cb5d335223dcca978947b926",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "b1b3dc8aab349c0378dab2d2",
       "isContinuation": false,
-      "titleZh": "贝森特证实因担忧伊朗威胁而居住在美军基地",
-      "summaryZh": "美国财政部长斯科特·贝森特表示，在收到以色列的警告两周后，他目前仍居住在美军基地内。此举凸显了政府高层对潜在安全威胁的重视。",
-      "whyImportant": "该消息揭示了当前地缘政治紧张局势下，美国高级官员面临的安全风险及防范措施。",
+      "titleZh": "伊朗战争直播：霍尔木兹海峡油轮起火，德黑兰警告存在内部威胁",
+      "summaryZh": "霍尔木兹海峡发生油轮起火事件。伊朗方面警告称，其敌对势力正试图煽动国内动乱。",
+      "whyImportant": "该事件加剧了波斯湾地区的紧张局势，并可能对全球能源供应安全产生重大影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "48f549e40ad0da89",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T01:25:03.000Z",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "id": "a3d6e17b844c421d",
+      "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
+      "publishedAt": "2026-11-23T05:00:48.000Z",
+      "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’ Fewer than half of households in Britain will pay the BBC’s licence within a decade, according to analysis that warns that the broadcaster’s funding is locked in a “spiral of decline”. With senior BBC figures concerned about the accelerating fall in licence fee sales, the independent projections also warn that the proportion of households paying the levy will further decline to less than a third by 2037-38 should the government persist with the corporation’s current funding model. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T01:25:03.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
+          "publishedAt": "2026-11-23T05:00:48.000Z"
         }
       ],
       "sourceCount": 1,
@@ -961,35 +1061,39 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c3cfb67f3ae7618c6e39b63e",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "de88d771deeb755fccd4b781",
       "isContinuation": false,
-      "titleZh": "FBI十大通缉要犯名单中的墨西哥毒枭在枪战中被捕",
-      "summaryZh": "被控贩毒和酷刑的法乌斯托·伊西德罗·梅萨·弗洛雷斯在与当局的枪战后被捕。他此前一直位列联邦调查局的十大通缉要犯名单。",
-      "whyImportant": "此次逮捕行动是打击跨国贩毒集团的重要进展，有助于削弱相关犯罪组织的势力。",
+      "titleZh": "报告警告：十年内英国支付电视许可费的家庭将不足半数",
+      "summaryZh": "一项智库分析指出，英国广播公司（BBC）正陷入“衰退螺旋”，收入下降导致内容支出减少。预计十年内支付许可费的家庭将不足半数，若维持现有模式，到2037-38年度这一比例可能降至三分之一以下。",
+      "whyImportant": "该趋势对BBC的长期财务可持续性及公共广播模式构成了严峻挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6dac6d520a4240fa",
-      "title": "French police officers jailed for racist violence against black man in landmark ruling",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
-      "publishedAt": "2026-11-21T20:22:55.000Z",
-      "summary": "The lawyer for a black man who was beaten up by three French police officers hailed a “historic ruling” on Saturday after a court acknowledged the racist nature of the violence and sentenced them to between one and two years in prison. The assault on Michel Zecler, a music producer, took place six years ago during the coronavirus pandemic and was caught on camera. It showed the officers repeatedly punching him, using a truncheon and tear gas against him for no apparent reason. Zecler said after...",
+      "id": "cb372748e574f8a4",
+      "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
+      "publishedAt": "2026-11-23T06:00:50.000Z",
+      "summary": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in Brussels, the Guardian has been told, after signs of an apparent slowdown in the timetable. The prime minister has promised to set out options for the UK’s long-term relationship with the EU, including the possibility of rejoining, saying last week that these would be outlined later in the year. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
-          "publishedAt": "2026-11-21T20:22:55.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
+          "publishedAt": "2026-11-23T06:00:50.000Z"
         }
       ],
       "sourceCount": 1,
@@ -998,257 +1102,38 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "能源",
-        "国际组织"
+        "外交",
+        "经济"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "95f84f50ed11696cd4f18d75",
+      "fingerprint": "e89701df6d578c4866e4a48d",
       "isContinuation": false,
-      "titleZh": "法国警察因对黑人实施种族主义暴力被判入狱，裁决具有里程碑意义",
-      "summaryZh": "三名法国警察因六年前殴打音乐制作人米歇尔·泽克勒被判处一至两年监禁。法院认定该暴力行为具有种族主义性质，受害者律师称此裁决具有历史意义。",
-      "whyImportant": "该判决标志着法国司法系统在处理执法人员种族歧视和暴力问题上迈出了重要一步。",
+      "titleZh": "官员称伯纳姆并未在与欧盟建立更紧密联系的问题上“退缩”",
+      "summaryZh": "尽管外界猜测英国政府正在放缓与欧盟建立更紧密关系的步伐，但相关人士表示，安迪·伯纳姆并未改变其目标。政府目前希望让贸易协议有更多缓冲空间，并承诺将在今年晚些时候阐述英国与欧盟长期关系的选项。",
+      "whyImportant": "此举反映了英国政府在处理脱欧后对欧关系时，需要在政治雄心与实际贸易执行之间寻求平衡。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "more": [
     {
-      "id": "6bb0948a08a8b60c",
-      "title": "Man charged with attempted murder after councillor stabbed in Bradford",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
-      "publishedAt": "2026-11-21T19:42:42.000Z",
-      "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
-          "publishedAt": "2026-11-21T19:42:42.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "caf9643c39ee9381dfb5c471",
-      "isContinuation": false,
-      "titleZh": "布拉德福德议员遇刺，一名男子被控谋杀未遂",
-      "summaryZh": "31岁的阿尔凡·阿里因在布拉德福德袭击当地议员伊布拉尔·阿里而被控谋杀未遂、袭击及非法持有攻击性武器。袭击事件发生于周四上午，目前警方已介入调查。",
-      "whyImportant": "针对民选官员的暴力袭击引发了公众对社区安全及政治人物人身保护的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "metadata": {
-    "fetched": 147,
-    "deduplicated": 131,
-    "selected": 21,
-    "translated": 21,
-    "untranslated": 0,
-    "minimumRequired": 21,
-    "featured": 5,
-    "dryRun": true,
-    "sampleData": false
-  },
-  "items": [
-    {
-      "id": "96eef9501f0cde58",
-      "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-      "publishedAt": "2026-11-22T06:00:18.000Z",
-      "summary": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected chancellor of Germany. The EU had 15 member states and pro-European, centre-left parties were in power – either alone or in coalitions – in all but two of them. Brisk economic growth was lifting living standards. Eastward enlargement was under way. In Washington, Bill Clinton was pursuing the same brand of “third way” centrism as a middle path between free-market capitalism and traditional socialism. The EU felt like it had the tide of history behind it. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-          "publishedAt": "2026-11-22T06:00:18.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
-      "isNoise": false,
-      "tags": [
-        "美国重点",
-        "经济",
-        "金融",
-        "军事与安全",
-        "专题·全球经济与金融"
-      ],
-      "score": 80,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "market",
-        "经济",
-        "金融"
-      ],
-      "fingerprint": "46b69ef948485473f505f776",
-      "isContinuation": false,
-      "titleZh": "欧洲进入全国选举“超级周期”，结果可能动摇欧盟根基",
-      "summaryZh": "欧洲多国即将迎来一系列全国性选举，这些选举被视为对欧盟韧性的关键考验。选举结果可能改变欧洲的政治格局，并对欧盟的未来发展方向产生深远影响。",
-      "whyImportant": "欧洲政治版图的变动将直接影响欧盟的政策走向及全球地缘政治稳定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a0149a11303781b2",
-      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-      "publishedAt": "2026-11-22T06:00:21.000Z",
-      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, drones hanging from the ceiling, and guards in flak jackets patrolling the premises with sniffer dogs. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-          "publishedAt": "2026-11-22T06:00:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "科技",
-        "专题·全球经济与金融"
-      ],
-      "score": 69,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "trade",
-        "经济"
-      ],
-      "fingerprint": "f5cfd72c5dbbe164a9ac8e07",
-      "isContinuation": false,
-      "titleZh": "“严重的判断失误”：柏林艺术中心举办军事AI活动引发愤怒",
-      "summaryZh": "柏林著名的Kraftwerk艺术中心近日被改造成军火商的“作战室”，现场展示了地图、无人机及全副武装的警卫。这一充满反乌托邦色彩的活动在当地引发了强烈抗议。",
-      "whyImportant": "该事件凸显了柏林文化界对军事化活动进入艺术空间的抵触情绪。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c902a31706b5ef7e",
-      "title": "Thousands protest across Europe over living costs and housing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-      "publishedAt": "2026-11-21T20:47:50.000Z",
-      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-          "publishedAt": "2026-11-21T20:47:50.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "专题·全球经济与金融"
-      ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济"
-      ],
-      "fingerprint": "8b847967e87220786d9b1db7",
-      "isContinuation": false,
-      "titleZh": "欧洲多地爆发抗议，民众不满生活成本与住房问题",
-      "summaryZh": "继青年群体针对教育和经济困境发起抗议后，法国和葡萄牙等地再次爆发大规模示威。民众对高昂的生活成本和住房危机表示强烈不满。",
-      "whyImportant": "欧洲范围内的抗议活动显示了经济压力正持续引发社会动荡。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fd52e88d68631eb5",
-      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-      "source": "联合国新闻",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-      "publishedAt": "2026-11-21T12:00:00.000Z",
-      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "联合国新闻",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-          "publishedAt": "2026-11-21T12:00:00.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "环境",
-        "专题·全球经济与金融"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济"
-      ],
-      "fingerprint": "17af5f33fe12e0137280f7e8",
-      "isContinuation": false,
-      "titleZh": "家园被弃、收成受损：海地农民在暴力、饥饿与厄尔尼诺现象中重建生活",
-      "summaryZh": "海地长期遭受武装团伙暴力、经济不稳定及气候冲击，导致数百万民众面临严重的粮食短缺。当地农民在极端困难的环境下艰难维持生计。",
-      "whyImportant": "海地的人道主义危机凸显了气候变化与社会动荡对脆弱国家粮食安全的叠加影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a0f99a33eb97a780",
-      "title": "Hong Kong will not rule out whistle-blower immunity in bid-rigging law: minister",
+      "id": "6cd7774d5d0cca45",
+      "title": "Hong Kong names former lawmaker Chan Kin-por as Hospital Authority chairman",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
-      "publishedAt": "2026-11-21T09:52:12.000Z",
-      "summary": "Hong Kong authorities will not rule out the inclusion of immunity provisions for whistle-blowers in proposed legal amendments to outlaw bid-rigging in building maintenance and renovation projects, the commerce chief has said. Officials vowed to amend the law after an independent committee identified bid-rigging as one of the causes behind the Tai Po fire in November 2025 that claimed 168 lives and displaced almost 5,000 people. Secretary for Commerce and Economic Development Algernon Yau...",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375433/hong-kong-names-former-lawmaker-chan-kin-por-hospital-authority-chairman",
+      "publishedAt": "2026-11-23T04:52:05.000Z",
+      "summary": "Former Hong Kong lawmaker and veteran insurance executive Chan Kin-por has pledged to improve management and retain staff as he prepares to become chairman of the Hospital Authority, describing the role as an “immense responsibility”. The government announced on Monday that Chief Executive John Lee Ka-chiu had appointed Chan to lead the body that manages the city’s 44 public hospitals and institutions for a two-year term starting on December 1. Chan will succeed Henry Fan Hung-ling, who has...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
-          "publishedAt": "2026-11-21T09:52:12.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375433/hong-kong-names-former-lawmaker-chan-kin-por-hospital-authority-chairman",
+          "publishedAt": "2026-11-23T04:52:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1257,39 +1142,332 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "经济",
-        "科技",
-        "专题·全球经济与金融"
+        "国际组织"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": true,
-      "topicKeywords": [
-        "经济"
-      ],
-      "fingerprint": "a450b9409be17e918e889063",
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cec7afade16053b6f88687c3",
       "isContinuation": false,
-      "titleZh": "香港商务及经济发展局局长：立法打击围标不排除给予举报人豁免权",
-      "summaryZh": "香港政府计划修法打击楼宇维修工程中的围标行为，商务及经济发展局局长表示，不排除在法例中加入举报人豁免条款。此举旨在根除导致大埔火灾等严重事故的行业弊病。",
-      "whyImportant": "引入举报人豁免机制有助于打破围标利益链，提升楼宇维修工程的透明度与安全性。",
+      "titleZh": "香港委任前立法会议员陈健波为医院管理局主席",
+      "summaryZh": "香港政府宣布委任资深保险业高管、前立法会议员陈健波为医院管理局主席，任期两年，自12月1日起生效。陈健波承诺将致力于改善管理并留住医疗人才，接替即将卸任的范鸿龄。",
+      "whyImportant": "此项任命对香港公立医疗系统的管理改革及人才流失问题的应对具有关键影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "dc4db2d331645011",
-      "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+      "id": "0f71d74f71e986d3",
+      "title": "New 19-month low: Hong Kong stocks plunge as AI sell-off spreads to Asia",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
+      "publishedAt": "2026-11-23T04:20:57.000Z",
+      "summary": "Hong Kong stocks slid to their lowest level in 19 months on Monday, with technology shares hit the hardest, as a rout in US artificial intelligence stocks continued to spill over into Asia. The Hang Seng Tech Index, which tracks the city’s largest technology companies, fell as much as 3 per cent to below 3,400 points, taking its loss for the year to more than a third. It closed the morning trading session down 1.09 per cent. The benchmark Hang Seng Index declined as much as 1.8 per cent,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
+          "publishedAt": "2026-11-23T04:20:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1958b048b4a4935c044c15ec",
+      "isContinuation": false,
+      "titleZh": "创19个月新低：人工智能抛售潮蔓延至亚洲，港股大幅下挫",
+      "summaryZh": "受美国人工智能股票抛售潮影响，香港股市周一跌至19个月以来的最低点，科技股领跌。恒生科技指数盘中一度下跌3%，年内跌幅已超过三分之一。",
+      "whyImportant": "全球科技板块的波动正显著加剧香港资本市场的下行压力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8b5f55914868b429",
+      "title": "Tai Po fire survivors battle grief, fear and trauma as first anniversary nears",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
+      "publishedAt": "2026-11-23T04:00:07.000Z",
+      "summary": "A year after the deadly Wang Fuk Court blaze in Hong Kong, Hilary Lau has developed certain habits born out of the tragedy. The 49-year-old who lost both his parents can fall asleep only under a fire-resistant blanket and keeps extra fire extinguishers at his flat in Kong Ha Wai Village, a transitional housing project in Yuen Long. His fear of fire has even made him reluctant to eat hotpot – a reaction he cannot fully explain. Although Lau was not at home when the fire broke out, losing his...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
+          "publishedAt": "2026-11-23T04:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1d8b6c90c93f111622a16cde",
+      "isContinuation": false,
+      "titleZh": "大埔火灾幸存者在周年纪念临近之际与悲伤、恐惧和创伤抗争",
+      "summaryZh": "香港宏福苑致命火灾发生近一年后，幸存者仍深受心理创伤影响，表现出对火灾的极度恐惧和防御性行为。许多受害者在失去亲人后，至今难以走出阴影，生活习惯也因创伤而发生改变。",
+      "whyImportant": "该报道揭示了重大灾难对幸存者长期的心理健康影响，以及社会支持体系的重要性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "metadata": {
+    "fetched": 136,
+    "deduplicated": 131,
+    "selected": 21,
+    "translated": 21,
+    "untranslated": 0,
+    "minimumRequired": 21,
+    "featured": 8,
+    "dryRun": true,
+    "sampleData": false
+  },
+  "items": [
+    {
+      "id": "42f3dcde7248d8f1",
+      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+      "publishedAt": "2026-11-23T05:38:01.000Z",
+      "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+          "publishedAt": "2026-11-23T05:38:01.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "金融",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 73,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "ad7db2f01488baaa73230e4d",
+      "isContinuation": false,
+      "titleZh": "人权组织：以色列在被占领的西岸对医务人员的袭击激增350%",
+      "summaryZh": "以色列医生人权组织表示，医务人员正面临来自士兵和定居者日益严重的暴力威胁。这种暴力升级对当地医疗救援工作构成了极大的危险。",
+      "whyImportant": "该报告揭示了冲突地区医疗环境的恶化，引发了对国际人道法执行情况的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b5b81b0987c156ab",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T05:34:39.000Z",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-23T05:34:39.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "外交",
+        "环境",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 72,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "5b6e0e4353c980e61733fe8e",
+      "isContinuation": false,
+      "titleZh": "COP31气候谈判未达成协议，后续将如何发展？",
+      "summaryZh": "本次气候峰会是历史上持续时间最长的一次，谈判在原定结束日期两天后宣告破裂。各方未能就最终协议达成一致，引发了对未来气候政策走向的讨论。",
+      "whyImportant": "全球气候治理进程的停滞可能对国际减排合作及应对气候变化的紧迫行动产生负面影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "af75c65b14939e5d",
+      "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
-      "publishedAt": "2026-11-22T05:21:01.000Z",
-      "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email, free app or daily news podcast The twin brother of a man whose body lay undiscovered for 12 days after he was killed in a suspected hit and run in Sydney says it has left him feeling like half a person. Joshua Howard was last seen at a bus interchange in Parramatta, in western Sydney, about 10pm on 7 November. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+      "publishedAt": "2026-11-23T06:46:49.000Z",
+      "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning. Nobody really wants to think about Brexit any more, save for the original Brexiters, who seem delighted that Andy Burnham’s “reset” with the EU has given them an excuse to get the old gang back together. But arguments about whether the UK should rejoin the EU will reignite in parliament this week, as Burnham briefs MPs on the deal he agreed on Friday. That deal wasn’t so much a victory as the culmination of Keir Starmer’s incrementalist approach to UK-EU relations. Its core agreements haven’t been ratified by member states yet, and the EU won’t sign them off until Britain resolves a dispute over tuition fees for European students. Burnham is apparently “determined” to take the UK back into the EU, but don’t expect any progress on that before the next general election. Cop31 | The EU, the UK and allies in the developing world rejected what they called an unacceptable deal that “failed to meet the moment” in a dramatic finish to the UN talks in Turkey. T",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
-          "publishedAt": "2026-11-22T05:21:01.000Z"
+          "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+          "publishedAt": "2026-11-23T06:46:49.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 70,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "军事"
+      ],
+      "fingerprint": "124a28f5adefaf2351002f29",
+      "isContinuation": false,
+      "titleZh": "周一简报：安迪·伯纳姆的“重置”对英国意味着什么？",
+      "summaryZh": "英国首相安迪·伯纳姆重启了关于英国与欧盟未来关系的辩论，并于上周五达成了一项初步协议。然而，该协议尚未得到欧盟成员国批准，且在学费争议解决前进展缓慢。",
+      "whyImportant": "此举标志着英国在脱欧后试图调整对欧政策，可能引发国内关于重新加入欧盟的政治争论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "83c8a30ff39af264",
+      "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "publishedAt": "2026-11-23T06:13:21.000Z",
+      "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+          "publishedAt": "2026-11-23T06:13:21.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "军事与安全",
+        "环境",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 67,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "军事"
+      ],
+      "fingerprint": "3c9360f8fbc901b7b7e74c35",
+      "isContinuation": false,
+      "titleZh": "新南威尔士州议员亚历克斯·格林威治在LGBTQ+群体的反对下，撤回对弗雷德·奈尔国葬的支持",
+      "summaryZh": "在COP31气候峰会未能达成最终协议后，澳大利亚内阁部长穆雷·瓦特表示，国际社会在气候政策上的分歧难以弥合。与此同时，澳大利亚正加强与日本和菲律宾的防务合作。",
+      "whyImportant": "该事件反映了澳大利亚在处理国内社会议题与应对复杂国际地缘政治环境时的双重压力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9f7ec8950b45edc5",
+      "title": "South Korea rights body raps centre after detainee denied final call to dying father",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
+      "publishedAt": "2026-11-23T05:13:04.000Z",
+      "summary": "South Korea’s rights watchdog said on Monday it recommended that an immigration detention centre minimise restrictions on detainees’ freedom of communication, after it found that a facility violated a detainee’s right to pursue happiness by not allowing a video call with a dying father. The National Human Rights Commission of Korea, which made the recommendation last week, called on the centre to guarantee that detainees can use their personal mobile phones to the extent necessary in urgent and...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
+          "publishedAt": "2026-11-23T05:13:04.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "突发"
+      ],
+      "fingerprint": "9147671565e43dd40764480b",
+      "isContinuation": false,
+      "titleZh": "韩国人权机构批评拘留中心：被拘留者被拒绝与垂死父亲进行最后通话",
+      "summaryZh": "韩国国家人权委员会建议移民拘留中心放宽对被拘留者通讯自由的限制。此前，该中心因禁止一名被拘留者与垂死的父亲进行视频通话而受到批评。",
+      "whyImportant": "此举强调了在行政拘留过程中保障基本人权和人性化管理的重要性。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c314b1c9598cf1d7",
+      "title": "Russian strikes kill at least 15 in Kyiv region, Ukraine says",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+      "publishedAt": "2026-11-22T18:32:59.000Z",
+      "summary": "Rescuers in Ukraine raced on Monday to find residents trapped under the rubble of a block of flats that partially collapsed in a Russian strike, after attacks on the Kyiv region killed at least 15 people. Moscow has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for another winter, as the full-scale invasion grinds through its fifth year. Russian President Vladimir Putin vowed last week a “painful” response to Ukrainian strikes on Russia’s Crimea bridge after...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+          "publishedAt": "2026-11-22T18:32:59.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1300,76 +1478,40 @@
         "全球焦点",
         "突发",
         "军事与安全",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 71,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "9b7856e9b0ff013b29154584",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "b9350e0129e3f266b32d7c63",
       "isContinuation": false,
-      "titleZh": "悉尼男子失踪12天后被发现，警方称其死于疑似肇事逃逸",
-      "summaryZh": "31岁的约书亚·霍华德在从派对回家的路上疑似被车撞倒并抛出护栏。他的遗体在失踪12天后才被发现，其双胞胎兄弟对此深感悲痛。",
-      "whyImportant": "此案引发了公众对道路安全及失踪人口搜救效率的关注。",
+      "titleZh": "乌克兰称俄罗斯袭击基辅地区，造成至少15人死亡",
+      "summaryZh": "俄罗斯对基辅地区发动了大规模空袭，导致一栋公寓楼部分坍塌，救援人员正在废墟中搜寻幸存者。这是俄乌冲突进入第五年之际，俄罗斯持续进行的夜间轰炸行动之一。",
+      "whyImportant": "平民伤亡的增加加剧了乌克兰在冬季面临的人道主义危机，并可能导致冲突进一步升级。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "7b2ee0823f3ab321",
-      "title": "Dozens missing as deadly fire hits Indonesian candy factory",
-      "source": "DW",
-      "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-11-22T06:14:00.000Z",
-      "summary": "A fire at a confectionery factory in Indonesia's Banten province has killed at least three people. Dozens are also unaccounted for after the blaze, which destroyed large parts of the facility.",
-      "language": "en",
-      "region": "europe",
-      "crossSources": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
-          "publishedAt": "2026-11-22T06:14:00.000Z"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T06:05:00.000Z"
-        }
-      ],
-      "sourceCount": 2,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点"
-      ],
-      "score": 58,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "2527d9ca5e17c853b7a181e0",
-      "isContinuation": false,
-      "titleZh": "印尼糖果厂发生致命火灾，数十人失踪",
-      "summaryZh": "印度尼西亚万丹省一家糖果厂发生火灾，造成至少3人死亡。火灾摧毁了工厂大部分设施，目前仍有数十人下落不明。",
-      "whyImportant": "此次工业事故造成的人员伤亡引发了对当地工厂安全标准的担忧。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0ba1f946ec685f93",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "id": "86c4e817690b99be",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T05:26:10.000Z",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T17:18:26.000Z",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T05:26:10.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-22T17:18:26.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1378,111 +1520,41 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "外交",
-        "环境"
+        "突发",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a6ce68ac6a75c8274d8f2795",
+      "score": 66,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "军事",
+        "突发"
+      ],
+      "fingerprint": "214aa3724d58ff0633ed7cdc",
       "isContinuation": false,
-      "titleZh": "新草案旨在避免气候峰会谈判破裂",
-      "summaryZh": "在土耳其举行的联合国COP31气候峰会进入延长期。各国代表正努力就新草案达成共识，以避免谈判彻底失败。",
-      "whyImportant": "气候峰会的谈判结果直接影响全球应对气候变化的政策方向。",
+      "titleZh": "一艘前往俄罗斯的船只在芬兰湾遇袭后被拖走",
+      "summaryZh": "芬兰国防军表示，上周六发生在芬兰湾的无人机袭击事件很可能是由乌克兰策划的。目前基辅方面尚未对此事发表评论。",
+      "whyImportant": "此次袭击事件显示了俄乌冲突的影响范围已延伸至波罗的海区域，增加了地区安全的不确定性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "2d635062e2c3dca5",
-      "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+      "id": "9e0e59e94b700d88",
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
-      "publishedAt": "2026-11-22T06:00:21.000Z",
-      "summary": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more than £11m to Labour More than 20 Labour MPs have signed up to a year-long leadership course helping them to counter rightwing populism and deal with hostility, run by two former No 10 advisers and ultimately funded by multimillionaire donor Gary Lubner. The training courses worth about £9,600 are being led by Ruth Turner, who was Tony Blair’s director of government relations, and Peter Hyman, who has worked for Blair, Keir Starmer and Andy Burnham’s governments. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "publishedAt": "2026-11-22T22:00:58.000Z",
+      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
-          "publishedAt": "2026-11-22T06:00:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 56,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "d649c35e6731ca9b5c69f378",
-      "isContinuation": false,
-      "titleZh": "工党议员参加领导力课程以应对右翼民粹主义",
-      "summaryZh": "超过20名工党议员参加了一项为期一年的领导力培训课程，旨在学习如何应对右翼民粹主义及政治敌意。该课程由前首相顾问领导，并由富豪捐赠者资助。",
-      "whyImportant": "此举反映了英国工党在政治极化背景下加强议员应对能力的策略。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "74a634417f442408",
-      "title": "Australia-Philippine deal exposes where Asean’s architecture is weakest",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest",
-      "publishedAt": "2026-11-21T21:30:05.000Z",
-      "summary": "The most revealing moment of the 49th Asean summit in Manila might have occurred beyond the plenary hall. On November 15, as Southeast Asian governments gathered to reaffirm regional cooperation, Australia and the Philippines signed a new defence cooperation arrangement intended to make their military partnership more practical. The timing was striking: the Association of Southeast Asian Nations (Asean) was celebrating its central role even as two partners were building security mechanisms...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest",
-          "publishedAt": "2026-11-21T21:30:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全"
-      ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1bcc9d563cc399d09c537db0",
-      "isContinuation": false,
-      "titleZh": "澳菲协议暴露东盟架构的薄弱环节",
-      "summaryZh": "在东盟峰会期间，澳大利亚与菲律宾签署了新的防务合作协议。此举被认为在东盟强调区域合作的同时，凸显了其在安全机制上的局限性。",
-      "whyImportant": "该协议反映了亚太地区在多边框架之外寻求双边安全保障的趋势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "07e0882a22b0ec43",
-      "title": "A year of grief: Tai Po fire residents on coping with loss and trying to move on",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
-      "publishedAt": "2026-11-22T02:30:06.000Z",
-      "summary": "What has life been like for the residents of Wang Fuk Court displaced by the deadly blaze of last November? Lo Hoi-ying speaks to residents as part of a series on the first anniversary of the Tai Po fire. Vivian Lee had just finished lunch and was resting at home when she smelled smoke. At first, the 70-year-old housewife thought her domestic helper had burnt something in the kitchen. She was inspecting her hob when a neighbour knocked on her door to warn them of a fire at Wang Cheong House, six...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
-          "publishedAt": "2026-11-22T02:30:06.000Z"
+          "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+          "publishedAt": "2026-11-22T22:00:58.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1492,35 +1564,40 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "科技"
+        "公共安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "43d6d55a66c2a6ea992a0cdb",
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "8e37797b3127ff826ffd70fa",
       "isContinuation": false,
-      "titleZh": "悲伤的一年：大埔火灾居民讲述如何应对失去与尝试重新生活",
-      "summaryZh": "去年11月大埔宏福苑发生致命火灾，导致大量居民流离失所。在火灾一周年之际，媒体采访了受灾居民，回顾他们过去一年在失去家园后的生活与心理重建过程。",
-      "whyImportant": "该报道关注灾后居民的心理健康与生活重建，反映了重大公共安全事故对社区的长期影响。",
+      "titleZh": "特蕾莎·梅的旧事重提将保守党拉回了不愉快的境地",
+      "summaryZh": "特蕾莎·梅近期公开支持脱欧的言论，让保守党重新陷入了关于欧盟关系的痛苦回忆中。尽管保守党倾向于反对与欧盟建立更紧密联系，但安迪·伯纳姆的政策调整迫使他们不得不面对这一议题。",
+      "whyImportant": "这反映了英国保守党内部在脱欧后遗症与未来对欧政策方向上的持续分裂。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "e5102d2b451f1adf",
-      "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-      "publishedAt": "2026-11-22T02:08:49.000Z",
-      "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email, free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate from handing out how to vote cards that mimic their branding and urge people to preference it last. The decision has been welcomed by the party’s leader, Ellen Sandell, who said the flyers distributed by people wearing the exact same colour shirts as genuine Greens volunteers had already misled voters. Continue reading...",
+      "id": "36634285571cad6e",
+      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+      "publishedAt": "2026-11-23T00:39:51.000Z",
+      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
       "language": "",
-      "region": "international",
+      "region": "middle-east",
       "crossSources": [
         {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-          "publishedAt": "2026-11-22T02:08:49.000Z"
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+          "publishedAt": "2026-11-23T00:39:51.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1529,71 +1606,82 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "国际组织"
+        "军事与安全",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "8a92bf423653a18ccb573aae",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "bf94c0f6acf47cc84434c7b1",
       "isContinuation": false,
-      "titleZh": "维多利亚州绿党赢得禁令，阻止模仿其品牌但将其排在投票意向末位的“投票指南”",
-      "summaryZh": "维多利亚州绿党成功申请最高法院禁令，阻止一名独立候选人发放模仿绿党品牌形象的投票指南。该指南误导选民，将绿党排在投票意向的最后一位，引发了关于选举公平性的争议。",
-      "whyImportant": "此案凸显了选举中利用品牌混淆误导选民的风险，对维护选举公正性具有法律参考意义。",
+      "titleZh": "世卫组织总干事呼吁刚果民主共和国埃博拉疫区停止战斗以实现和平",
+      "summaryZh": "刚果民主共和国一家医院附近的战斗干扰了埃博拉防控工作。世卫组织警告称，这使患者和医护人员处于严重危险之中。",
+      "whyImportant": "冲突升级威胁到当地脆弱的公共卫生防疫体系，可能导致埃博拉疫情进一步扩散。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a251b02ef2e87733",
-      "title": "Hong Kong temperatures to fall to 16 degrees midweek as monsoon arrives",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
-      "publishedAt": "2026-11-22T05:45:02.000Z",
-      "summary": "Hong Kong is expected to turn chilly midweek, with temperatures dropping to 16 degrees Celsius (60.8 Fahrenheit) as a northeast monsoon brings cloudy skies and rain, according to the forecaster. The Hong Kong Observatory said on Sunday a fresh to strong easterly airstream would bring cloudier conditions to southern China over the next two days. Winds are forecast to turn northerly midweek, pushing temperatures down to between 16 and 20 degrees on Wednesday. In the New Territories, temperatures...",
+      "id": "e2be825e0d55bb5f",
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "publishedAt": "2026-11-23T00:31:31.000Z",
+      "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own meme coin as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, set to take place at the Trump National Golf Club in Sterling, Virginia, will include meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, Shark Tank investor Kevin O’Leary, NBA champion Tristan Thompson and mentalist Lior Suchard, according to the event’s website. Continue reading...",
       "language": "",
-      "region": "china",
+      "region": "international",
       "crossSources": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
-          "publishedAt": "2026-11-22T05:45:02.000Z"
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+          "publishedAt": "2026-11-23T00:31:31.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": true,
+      "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "全球焦点",
+        "金融",
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 57,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b52295551b55bdca615131dd",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "3179b851c585fd5ec114e66e",
       "isContinuation": false,
-      "titleZh": "受东北季候风影响，香港周中气温将降至16度",
-      "summaryZh": "香港天文台预计，受东北季候风影响，本周中期香港天气将转凉，气温将降至16至20摄氏度。届时将伴随多云及降雨天气，新界地区气温可能更低。",
-      "whyImportant": "气温骤降提醒市民注意保暖，并对户外活动及健康状况产生直接影响。",
+      "titleZh": "特朗普举办第三场模因币加密货币晚宴，引发利益冲突争议",
+      "summaryZh": "特朗普在弗吉尼亚州的高尔夫俱乐部举办加密货币晚宴，奖励其模因币的持有者。民主党人指责特朗普利用总统身份从加密货币业务中谋取不正当利益。",
+      "whyImportant": "此举引发了公众对总统职务与个人商业利益之间界限的质疑，并加剧了政治上的道德争议。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1ac3def8ed8713da",
-      "title": "Experts call for stronger reef protection as 20% of coral survey sites bleached",
+      "id": "9aa581609376e08c",
+      "title": "Hong Kong films shine as Angela Yuen, Anson Kong win at Golden Horse Awards",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
-      "publishedAt": "2026-11-22T04:00:12.000Z",
-      "summary": "About 20 per cent of Hong Kong’s coral survey sites recorded minor bleaching this year, as experts called for stronger measures to protect the marine habitats from potential climate effects. The Agriculture, Fisheries and Conservation Department shared the latest data with the South China Morning Post on Friday, saying minor coral bleaching was common during the summer months in Hong Kong. However, experts said mitigation measures, such as installing shading to shield corals from UV light,...",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375392/mirrors-anson-kong-rises-step-step-golden-horse-glory-we-are-born-good-wins",
+      "publishedAt": "2026-11-22T14:51:20.000Z",
+      "summary": "Hong Kong actress Angela Yuen Lai-lam has won the best actress prize at the prestigious Golden Horse Awards in Taiwan, while Anson Kong Ip-sang of boy band Mirror has snagged the best supporting actor trophy. The 33-year-old Yuen beat fellow contenders for the top acting prize for her performance in Hong Kong film Afterpiece, in which she plays an amateur actress who auditions for a leading role in a stage play and later becomes embroiled in a complex dynamic with its director. Yuen drew...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
-          "publishedAt": "2026-11-22T04:00:12.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3375392/mirrors-anson-kong-rises-step-step-golden-horse-glory-we-are-born-good-wins",
+          "publishedAt": "2026-11-22T14:51:20.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1602,35 +1690,41 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "环境"
+        "军事与安全",
+        "能源",
+        "国际组织",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 55,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "a3cb3500d8f8ec57c004c156",
+      "score": 65,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "b29d287261457d5dd8991a82",
       "isContinuation": false,
-      "titleZh": "专家呼吁加强珊瑚保护，20%的珊瑚调查点出现白化现象",
-      "summaryZh": "香港今年约20%的珊瑚调查点记录到轻微白化现象。专家呼吁采取更强有力的保护措施，如安装遮阳设施以减少紫外线影响，应对气候变化对海洋生态的威胁。",
-      "whyImportant": "珊瑚白化是气候变化影响海洋生态的警示，加强保护对维护香港生物多样性至关重要。",
+      "titleZh": "香港电影闪耀金马奖，袁澧林与江𤒹生分获殊荣",
+      "summaryZh": "香港演员袁澧林凭借电影《后项》获得金马奖最佳女主角奖，Mirror成员江𤒹生则摘得最佳男配角奖。袁澧林在片中饰演一名业余演员，展现了复杂的角色心理。",
+      "whyImportant": "香港影人在金马奖的成功体现了香港电影在华语影坛的持续影响力和艺术水准。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9d20407ea31a297d",
-      "title": "Hong Kong Election Committee race: turnout hits nearly 90%, exceeding 2021 total",
+      "id": "996f7397fdc17477",
+      "title": "Danny Quah on how Asean charts its own course amid fierce US-China rivalry",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
-      "publishedAt": "2026-11-22T02:26:45.000Z",
-      "summary": "A total of 856 candidates are vying for 723 seats across the 31 subsectors. The elected members will join 259 members from five uncontested subsectors, 362 ex officio members and 156 members nominated by designated bodies to form the 1,500-strong electoral college. The key body will nominate and vote in next year’s chief executive election, and will nominate candidates and elect 40 of the 90 lawmakers in the 2029 Legislative Council election. The second Election Committee poll since Beijing’s...",
+      "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
+      "publishedAt": "2026-11-22T22:00:12.000Z",
+      "summary": "Danny Quah is an economics professor at the National University of Singapore’s Lee Kuan Yew School of Public Policy. He served as the school’s dean between 2018 and 2025, and has consulted for, among others, the World Bank, the Bank of England and the Monetary Authority of Singapore. Here, he discusses how the Association of Southeast Asian Nations (Asean) navigates the US-China rivalry, yuan internationalisation in the region and why the “China shock” has played out differently in Southeast...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
-          "publishedAt": "2026-11-22T02:26:45.000Z"
+          "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
+          "publishedAt": "2026-11-22T22:00:12.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1638,35 +1732,38 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "经济",
+        "金融",
+        "国际组织"
       ],
-      "score": 54,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "2f79b76861d5fdacce149793",
+      "fingerprint": "4a383974eae78498d4fe12d2",
       "isContinuation": false,
-      "titleZh": "香港选举委员会选举：投票率接近90%，超过2021年总数",
-      "summaryZh": "香港选举委员会选举投票率接近90%，超过了2021年的水平。选出的委员将组成1500人的选举委员会，负责提名及选出下任行政长官，并参与立法会议员的提名与选举。",
-      "whyImportant": "高投票率反映了选民对新选举制度下选委会职能的关注，该机构在香港政治架构中扮演核心角色。",
+      "titleZh": "丹尼·夸：东盟如何在激烈的中美竞争中开辟自己的道路",
+      "summaryZh": "经济学教授丹尼·夸探讨了东盟如何在中美竞争中保持平衡。他分析了人民币在东南亚的国际化进程，以及该地区如何应对“中国冲击”。",
+      "whyImportant": "该分析为理解东南亚国家在当前地缘政治博弈中的战略自主性提供了重要视角。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "54bdbb67bf04a7c0",
-      "title": "Hong Kong’s Election Committee race: how voting works and new candidates to watch",
+      "id": "ad2ae59dc582853c",
+      "title": "No grand bargain at Xi-Trump-Putin meeting? That was never the point",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
-      "publishedAt": "2026-11-22T00:00:23.000Z",
-      "summary": "Hong Kong goes to the polls on Sunday for some 5,700 eligible voters to choose members of the powerful Election Committee, a 1,500-strong electoral college that will nominate candidates and elect the city leader in next year’s chief executive race, as well as nominate candidates and elect legislators in the 2029 Legislative Council election. Here is what you need to know about the 2026 Election Committee Subsector Ordinary Elections and the candidates to watch. 1. What is the Election...",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
+      "publishedAt": "2026-11-22T12:30:07.000Z",
+      "summary": "When Chinese President Xi Jinping hosted US President Donald Trump and Russian President Vladimir Putin in Shenzhen on November 19, the images were historic. The three leaders issued a four-point declaration towards peace, addressing UN reform, energy security, concerns over abuses of jurisdiction by the International Criminal Court, and nuclear risk reduction. Yet the meeting produced considerably less than a grand bargain on substantive geopolitical or security issues. As a result, some media...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
-          "publishedAt": "2026-11-22T00:00:23.000Z"
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
+          "publishedAt": "2026-11-22T12:30:07.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1674,71 +1771,122 @@
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "中国重点"
+        "中国重点",
+        "军事与安全",
+        "能源",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "369c2d7dd3831592cc04407a",
+      "score": 62,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "security",
+        "军事"
+      ],
+      "fingerprint": "e85e64ad584d83a1f7b68c39",
       "isContinuation": false,
-      "titleZh": "香港选举委员会选举：投票机制及值得关注的新候选人",
-      "summaryZh": "香港举行选举委员会界别分组一般选举，约5700名合资格选民参与投票。此次选举选出的委员将负责未来行政长官及立法会议员的提名与选举工作。",
-      "whyImportant": "选委会选举是香港政治体制的重要组成部分，其结果直接影响未来政府领导人及立法机构的产生。",
+      "titleZh": "习特普深圳会晤未达成“大交易”？这本就不是目的",
+      "summaryZh": "中、美、俄三国领导人在深圳发表了关于和平、能源安全及核风险的四点声明。尽管未达成重大的地缘政治协议，但此次会晤本身具有历史意义。",
+      "whyImportant": "此次会晤展示了主要大国在关键全球议题上进行对话的意愿，有助于缓解国际紧张局势。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "caa368e1c1157f45",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T22:01:19.000Z",
-      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "id": "f734972b78a777ea",
+      "title": "Why Hong Kong’s Fine Art Asia fair has moved to Shenzhen after 20 years",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
+      "publishedAt": "2026-11-23T05:17:51.000Z",
+      "summary": "Hong Kong’s longest-running art and antiques fair, Fine Art Asia (FAA), is relocating to Shenzhen for its upcoming 2026 edition, which will take place from November 26 to 29, with its founder citing a sharp market downturn in his home city as one of the reasons behind the decision. Established in 2006, the home-grown fair had long been a fixture in Hong Kong’s cultural calendar, continuously taking place in Wan Chai – first at the China Resources Building and later at the Hong Kong Convention...",
       "language": "",
-      "region": "international",
+      "region": "china",
       "crossSources": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-21T22:01:19.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
+          "publishedAt": "2026-11-23T05:17:51.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
-      "isUsa": true,
+      "isChina": true,
+      "isUsa": false,
       "isNoise": false,
       "tags": [
-        "美国重点"
+        "中国重点",
+        "金融",
+        "科技"
       ],
-      "score": 52,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "48ef3ca7f0b5200847386010",
+      "fingerprint": "b6a5980364eb4c9705f1bc85",
       "isContinuation": false,
-      "titleZh": "美国前总统乔治·华盛顿的一缕头发以4000美元售出",
-      "summaryZh": "据前拥有者的后代称，这缕头发是在华盛顿1799年去世前作为友谊的象征赠送的。该物品近期在拍卖中以4000美元的价格成交。",
-      "whyImportant": "这一拍卖事件反映了历史名人遗物在收藏市场中持续存在的价值与关注度。",
+      "titleZh": "为何香港“典亚艺博”在举办20年后迁至深圳",
+      "summaryZh": "香港历史最悠久的艺术品博览会“典亚艺博”宣布迁至深圳举办。创始人表示，香港本地市场低迷是促成此次搬迁的主要原因之一。",
+      "whyImportant": "这一变动反映了区域艺术市场重心的潜在转移以及香港文化产业面临的经济挑战。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "50f4fac8f2424a22",
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "id": "1d546e49d38a9425",
+      "title": "Tencent touts latest AI model Hy4’s performance on independent safety assessments",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
+      "publishedAt": "2026-11-22T13:30:07.000Z",
+      "summary": "Tencent Holdings has teamed up with an international group of artificial intelligence safety organisations to assess the risk level of its latest open-weight model, amid growing concerns over AI-assisted cyberattacks and biological misuse. The development marks the first time a leading Chinese tech company has disclosed that it worked with independent third-party evaluators in such evaluations of a new model before releasing it. “Our goal is to develop AI systems that are not only increasingly...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
+          "publishedAt": "2026-11-22T13:30:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "突发",
+        "科技",
+        "专题·军事、安全与突发事件"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "attack",
+        "突发"
+      ],
+      "fingerprint": "6a3d00f37034b818f9bc77ff",
+      "isContinuation": false,
+      "titleZh": "腾讯展示其最新AI模型Hy4在独立安全评估中的表现",
+      "summaryZh": "腾讯与国际AI安全组织合作，对其最新的开源模型进行风险评估。这是中国大型科技公司首次在模型发布前披露第三方独立安全评估结果。",
+      "whyImportant": "此举标志着中国科技企业在AI安全治理方面与国际标准接轨，旨在应对AI技术带来的潜在滥用风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "de25ddea0330fb09",
+      "title": "Iran war live: Hormuz tankers set ablaze; Tehran warns of internal threats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-      "publishedAt": "2026-11-22T02:05:50.000Z",
-      "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+      "publishedAt": "2026-11-22T23:59:22.000Z",
+      "summary": "Oil tankers were set ablaze in the Strait of Hormuz as Iran warned that its enemies sought to stoke domestic unrest.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-          "publishedAt": "2026-11-22T02:05:50.000Z"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+          "publishedAt": "2026-11-22T23:59:22.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1747,110 +1895,40 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cb5d335223dcca978947b926",
-      "isContinuation": false,
-      "titleZh": "贝森特证实因担忧伊朗威胁而居住在美军基地",
-      "summaryZh": "美国财政部长斯科特·贝森特表示，在收到以色列的警告两周后，他目前仍居住在美军基地内。此举凸显了政府高层对潜在安全威胁的重视。",
-      "whyImportant": "该消息揭示了当前地缘政治紧张局势下，美国高级官员面临的安全风险及防范措施。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "48f549e40ad0da89",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T01:25:03.000Z",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T01:25:03.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "国际组织"
-      ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "c3cfb67f3ae7618c6e39b63e",
-      "isContinuation": false,
-      "titleZh": "FBI十大通缉要犯名单中的墨西哥毒枭在枪战中被捕",
-      "summaryZh": "被控贩毒和酷刑的法乌斯托·伊西德罗·梅萨·弗洛雷斯在与当局的枪战后被捕。他此前一直位列联邦调查局的十大通缉要犯名单。",
-      "whyImportant": "此次逮捕行动是打击跨国贩毒集团的重要进展，有助于削弱相关犯罪组织的势力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6dac6d520a4240fa",
-      "title": "French police officers jailed for racist violence against black man in landmark ruling",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
-      "publishedAt": "2026-11-21T20:22:55.000Z",
-      "summary": "The lawyer for a black man who was beaten up by three French police officers hailed a “historic ruling” on Saturday after a court acknowledged the racist nature of the violence and sentenced them to between one and two years in prison. The assault on Michel Zecler, a music producer, took place six years ago during the coronavirus pandemic and was caught on camera. It showed the officers repeatedly punching him, using a truncheon and tear gas against him for no apparent reason. Zecler said after...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
-          "publishedAt": "2026-11-21T20:22:55.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
+        "军事与安全",
         "能源",
-        "国际组织"
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "95f84f50ed11696cd4f18d75",
+      "score": 64,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "b1b3dc8aab349c0378dab2d2",
       "isContinuation": false,
-      "titleZh": "法国警察因对黑人实施种族主义暴力被判入狱，裁决具有里程碑意义",
-      "summaryZh": "三名法国警察因六年前殴打音乐制作人米歇尔·泽克勒被判处一至两年监禁。法院认定该暴力行为具有种族主义性质，受害者律师称此裁决具有历史意义。",
-      "whyImportant": "该判决标志着法国司法系统在处理执法人员种族歧视和暴力问题上迈出了重要一步。",
+      "titleZh": "伊朗战争直播：霍尔木兹海峡油轮起火，德黑兰警告存在内部威胁",
+      "summaryZh": "霍尔木兹海峡发生油轮起火事件。伊朗方面警告称，其敌对势力正试图煽动国内动乱。",
+      "whyImportant": "该事件加剧了波斯湾地区的紧张局势，并可能对全球能源供应安全产生重大影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "6bb0948a08a8b60c",
-      "title": "Man charged with attempted murder after councillor stabbed in Bradford",
+      "id": "a3d6e17b844c421d",
+      "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
-      "publishedAt": "2026-11-21T19:42:42.000Z",
-      "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city. Continue reading...",
+      "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
+      "publishedAt": "2026-11-23T05:00:48.000Z",
+      "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’ Fewer than half of households in Britain will pay the BBC’s licence within a decade, according to analysis that warns that the broadcaster’s funding is locked in a “spiral of decline”. With senior BBC figures concerned about the accelerating fall in licence fee sales, the independent projections also warn that the proportion of households paying the levy will further decline to less than a third by 2037-38 should the government persist with the corporation’s current funding model. Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
-          "publishedAt": "2026-11-21T19:42:42.000Z"
+          "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
+          "publishedAt": "2026-11-23T05:00:48.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1859,18 +1937,173 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发"
+        "军事与安全",
+        "专题·军事、安全与突发事件"
       ],
-      "score": 53,
-      "topic": "economy-finance",
-      "topicName": "全球经济与金融",
+      "score": 63,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": true,
+      "topicKeywords": [
+        "war",
+        "军事"
+      ],
+      "fingerprint": "de88d771deeb755fccd4b781",
+      "isContinuation": false,
+      "titleZh": "报告警告：十年内英国支付电视许可费的家庭将不足半数",
+      "summaryZh": "一项智库分析指出，英国广播公司（BBC）正陷入“衰退螺旋”，收入下降导致内容支出减少。预计十年内支付许可费的家庭将不足半数，若维持现有模式，到2037-38年度这一比例可能降至三分之一以下。",
+      "whyImportant": "该趋势对BBC的长期财务可持续性及公共广播模式构成了严峻挑战。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cb372748e574f8a4",
+      "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
+      "publishedAt": "2026-11-23T06:00:50.000Z",
+      "summary": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in Brussels, the Guardian has been told, after signs of an apparent slowdown in the timetable. The prime minister has promised to set out options for the UK’s long-term relationship with the EU, including the possibility of rejoining, saying last week that these would be outlined later in the year. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
+          "publishedAt": "2026-11-23T06:00:50.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "外交",
+        "经济"
+      ],
+      "score": 61,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "caf9643c39ee9381dfb5c471",
+      "fingerprint": "e89701df6d578c4866e4a48d",
       "isContinuation": false,
-      "titleZh": "布拉德福德议员遇刺，一名男子被控谋杀未遂",
-      "summaryZh": "31岁的阿尔凡·阿里因在布拉德福德袭击当地议员伊布拉尔·阿里而被控谋杀未遂、袭击及非法持有攻击性武器。袭击事件发生于周四上午，目前警方已介入调查。",
-      "whyImportant": "针对民选官员的暴力袭击引发了公众对社区安全及政治人物人身保护的担忧。",
+      "titleZh": "官员称伯纳姆并未在与欧盟建立更紧密联系的问题上“退缩”",
+      "summaryZh": "尽管外界猜测英国政府正在放缓与欧盟建立更紧密关系的步伐，但相关人士表示，安迪·伯纳姆并未改变其目标。政府目前希望让贸易协议有更多缓冲空间，并承诺将在今年晚些时候阐述英国与欧盟长期关系的选项。",
+      "whyImportant": "此举反映了英国政府在处理脱欧后对欧关系时，需要在政治雄心与实际贸易执行之间寻求平衡。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6cd7774d5d0cca45",
+      "title": "Hong Kong names former lawmaker Chan Kin-por as Hospital Authority chairman",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375433/hong-kong-names-former-lawmaker-chan-kin-por-hospital-authority-chairman",
+      "publishedAt": "2026-11-23T04:52:05.000Z",
+      "summary": "Former Hong Kong lawmaker and veteran insurance executive Chan Kin-por has pledged to improve management and retain staff as he prepares to become chairman of the Hospital Authority, describing the role as an “immense responsibility”. The government announced on Monday that Chief Executive John Lee Ka-chiu had appointed Chan to lead the body that manages the city’s 44 public hospitals and institutions for a two-year term starting on December 1. Chan will succeed Henry Fan Hung-ling, who has...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375433/hong-kong-names-former-lawmaker-chan-kin-por-hospital-authority-chairman",
+          "publishedAt": "2026-11-23T04:52:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "cec7afade16053b6f88687c3",
+      "isContinuation": false,
+      "titleZh": "香港委任前立法会议员陈健波为医院管理局主席",
+      "summaryZh": "香港政府宣布委任资深保险业高管、前立法会议员陈健波为医院管理局主席，任期两年，自12月1日起生效。陈健波承诺将致力于改善管理并留住医疗人才，接替即将卸任的范鸿龄。",
+      "whyImportant": "此项任命对香港公立医疗系统的管理改革及人才流失问题的应对具有关键影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0f71d74f71e986d3",
+      "title": "New 19-month low: Hong Kong stocks plunge as AI sell-off spreads to Asia",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
+      "publishedAt": "2026-11-23T04:20:57.000Z",
+      "summary": "Hong Kong stocks slid to their lowest level in 19 months on Monday, with technology shares hit the hardest, as a rout in US artificial intelligence stocks continued to spill over into Asia. The Hang Seng Tech Index, which tracks the city’s largest technology companies, fell as much as 3 per cent to below 3,400 points, taking its loss for the year to more than a third. It closed the morning trading session down 1.09 per cent. The benchmark Hang Seng Index declined as much as 1.8 per cent,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
+          "publishedAt": "2026-11-23T04:20:57.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1958b048b4a4935c044c15ec",
+      "isContinuation": false,
+      "titleZh": "创19个月新低：人工智能抛售潮蔓延至亚洲，港股大幅下挫",
+      "summaryZh": "受美国人工智能股票抛售潮影响，香港股市周一跌至19个月以来的最低点，科技股领跌。恒生科技指数盘中一度下跌3%，年内跌幅已超过三分之一。",
+      "whyImportant": "全球科技板块的波动正显著加剧香港资本市场的下行压力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8b5f55914868b429",
+      "title": "Tai Po fire survivors battle grief, fear and trauma as first anniversary nears",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
+      "publishedAt": "2026-11-23T04:00:07.000Z",
+      "summary": "A year after the deadly Wang Fuk Court blaze in Hong Kong, Hilary Lau has developed certain habits born out of the tragedy. The 49-year-old who lost both his parents can fall asleep only under a fire-resistant blanket and keeps extra fire extinguishers at his flat in Kong Ha Wai Village, a transitional housing project in Yuen Long. His fear of fire has even made him reluctant to eat hotpot – a reaction he cannot fully explain. Although Lau was not at home when the fire broke out, losing his...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
+          "publishedAt": "2026-11-23T04:00:07.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "国际组织"
+      ],
+      "score": 60,
+      "topic": "security",
+      "topicName": "军事、安全与突发事件",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1d8b6c90c93f111622a16cde",
+      "isContinuation": false,
+      "titleZh": "大埔火灾幸存者在周年纪念临近之际与悲伤、恐惧和创伤抗争",
+      "summaryZh": "香港宏福苑致命火灾发生近一年后，幸存者仍深受心理创伤影响，表现出对火灾的极度恐惧和防御性行为。许多受害者在失去亲人后，至今难以走出阴影，生活习惯也因创伤而发生改变。",
+      "whyImportant": "该报道揭示了重大灾难对幸存者长期的心理健康影响，以及社会支持体系的重要性。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
