@@ -1,384 +1,386 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T07:33:09.485Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T09:51:02.649Z",
   "timezone": "Asia/Shanghai",
   "topic": {
-    "slug": "security",
-    "name": "军事、安全与突发事件",
-    "description": "追踪冲突、军备、公共安全和仍在发展的重大事件",
-    "query": "military security conflict breaking crisis",
+    "slug": "technology-energy",
+    "name": "科技、能源与产业",
+    "description": "关注人工智能、芯片、太空、能源转型与关键产业",
+    "query": "technology artificial intelligence semiconductor energy industry",
     "keywords": [
-      "military",
-      "war",
-      "missile",
-      "security",
-      "attack",
-      "ceasefire",
-      "军事",
-      "战争",
-      "导弹",
-      "袭击",
-      "停火",
-      "突发"
+      "technology",
+      "artificial intelligence",
+      "semiconductor",
+      "space",
+      "energy",
+      "科技",
+      "人工智能",
+      "芯片",
+      "太空",
+      "能源"
     ],
-    "accent": "#f97316"
+    "accent": "#06b6d4"
   },
-  "overview": "今日专题“军事、安全与突发事件”。共筛选 21 个高价值事件，重点关注中国相关进展、全球外交、经济与安全动态。",
+  "overview": "今日专题“科技、能源与产业”。共筛选 23 个高价值事件，重点关注中国相关进展、美国相关进展及全球外交、经济与安全动态。",
   "featured": [
     {
-      "id": "42f3dcde7248d8f1",
-      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+      "id": "a68ca873214b3e3e",
+      "title": "US B94 nuclear bomb designation signals renewed push for bunker-busting weapons",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3375597/us-b94-nuclear-bomb-designation-signals-renewed-push-bunker-busting-weapons",
+      "publishedAt": "2026-11-24T09:00:13.000Z",
+      "summary": "A new nuclear bomb designation buried in a US Senate budget document suggests Washington may be pursuing a weapon to destroy targets deep underground. The B94 designation surfaced on November 12 in an explanatory statement accompanying the US Senate Appropriations Committee’s draft energy and water funding bill for the 2027 financial year. Listed under the National Nuclear Security Administration’s (NNSA) stockpile modernisation programme, the entry recommends US$77.1 million for the B94,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3375597/us-b94-nuclear-bomb-designation-signals-renewed-push-bunker-busting-weapons",
+          "publishedAt": "2026-11-24T09:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "能源",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 78,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "energy",
+        "能源"
+      ],
+      "fingerprint": "1c1083a1dde83a9d5f827fb5",
+      "isContinuation": false,
+      "titleZh": "美国B94核弹代号显示其推动研发钻地武器的意图",
+      "summaryZh": "美国参议院预算文件披露了名为“B94”的新型核弹代号，建议拨款7710万美元用于相关研发。外界普遍认为这是美方旨在增强打击深层地下目标能力的信号。",
+      "whyImportant": "美国核武库现代化进程的推进可能引发全球军备竞赛的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "43b484dc42ff2941",
+      "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "publishedAt": "2026-11-24T09:39:35.000Z",
+      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congre",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+          "publishedAt": "2026-11-24T09:39:35.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 76,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "da0362bf5d5d00066be873b6",
+      "isContinuation": false,
+      "titleZh": "黄仁勋回归引发美国政治反弹，英伟达盘前股价下跌",
+      "summaryZh": "黄仁勋在争议中重返英伟达引发美国两党议员不满，质疑总统干预企业董事会决策的合法性。市场担忧英伟达对人工智能产业的系统性重要性，以及其在复杂政治环境下的未来前景。",
+      "whyImportant": "该事件引发了关于科技巨头是否“大到不能倒”以及政治干预企业治理的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d3c6289003d7a06a",
+      "title": "Cop31 illustrated what’s wrong with climate finance",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3375456/cop31-illustrated-whats-wrong-climate-finance",
+      "publishedAt": "2026-11-24T08:30:05.000Z",
+      "summary": "When Australia’s climate minister Chris Bowen spoke at Cop31, the United Nations climate change conference, in Antalya, Turkey, he said the world was asking whether multilateralism could rise to meet a “polycrisis” of climate change, energy security, conflict and the power demands of artificial intelligence. “Is international cooperation still a way forward? This fortnight we can answer those legitimate concerns and questions with a simple answer: Yes,” he said. For developing countries across...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3375456/cop31-illustrated-whats-wrong-climate-finance",
+          "publishedAt": "2026-11-24T08:30:05.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "能源",
+        "环境",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "artificial intelligence",
+        "energy",
+        "科技",
+        "能源"
+      ],
+      "fingerprint": "d53ccdfe84089a13c3905c12",
+      "isContinuation": false,
+      "titleZh": "Cop31会议凸显了气候融资存在的问题",
+      "summaryZh": "澳大利亚气候部长在Cop31会议上强调，国际社会正面临气候变化、能源安全及人工智能电力需求等多重危机。他呼吁通过国际合作来应对这些挑战，并对多边主义的有效性表示肯定。",
+      "whyImportant": "该会议反映了全球在应对复杂气候挑战时，对国际合作机制与资金分配问题的持续关注。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f016628a7e29d68f",
+      "title": "Why Japan is taking its missile drills to Indian soil",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3375590/why-japan-taking-its-missile-drills-indian-soil",
+      "publishedAt": "2026-11-24T09:00:10.000Z",
+      "summary": "India’s decision to allow Japanese forces to conduct live-fire missile drills at its firing ranges signals a new level of cooperation between their militaries, analysts have said, as shared concerns over China push the two countries towards closer defence ties. “What we’re seeing is certainly an elevation of the security relationship. India and Japan have run joint exercises for years, but the fact that Delhi is letting another country’s forces fire long-range missiles from Indian soil is a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3375590/why-japan-taking-its-missile-drills-indian-soil",
+          "publishedAt": "2026-11-24T09:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "e97a6af218be845ec559f7eb",
+      "isContinuation": false,
+      "titleZh": "日本为何将导弹演习移至印度领土进行",
+      "summaryZh": "印度允许日本军队在其境内进行实弹导弹演习，标志着两国军事合作迈向新高度。分析认为，双方在应对中国挑战方面的共同关切正推动其防务关系进一步深化。",
+      "whyImportant": "印日防务合作的升级反映了印太地区地缘政治格局的调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "86afad3ac3241cff",
+      "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "publishedAt": "2026-11-24T09:22:10.000Z",
+      "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Meanwhile, Hungary’s prime minister Péter Magyar announced a visit to the border region of Transcarpathia for talks with Ukraine’s Volodymyr Zelenskyy. Announcing the visit on Facebook, Magyar said: “Together with [foreign] minister Anita Orbán, we will visit several Hungarian institutions. This is the first visit by a Hungarian prime minister to Ukraine since 2015.” Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+          "publishedAt": "2026-11-24T09:22:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 69,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "07c011f1e825683550bbc82f",
+      "isContinuation": false,
+      "titleZh": "俄罗斯无人机侵犯波兰领空，此前该国刚遭巡航导弹袭击",
+      "summaryZh": "波兰当局正调查一起涉及俄罗斯无人机的“蓄意活动”，加剧了北约东翼的紧张局势。与此同时，匈牙利总理马扎尔宣布将访问乌克兰外喀尔巴阡地区，这是自2015年以来匈牙利总理首次访乌。",
+      "whyImportant": "此事件进一步加剧了北约与俄罗斯之间的地缘政治紧张关系，并标志着匈牙利与乌克兰外交关系的潜在变动。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7117544317abba2f",
+      "title": "What happens if a nuclear weapon explodes in space?",
+      "source": "DW",
+      "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-24T08:34:00.000Z",
+      "summary": "Earth's atmosphere offers protection from a nuclear blast in space, but satellites are more exposed. We explain how radiation could damage them, why the effects can linger and what protection is possible.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-11-24T08:34:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "科技",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技",
+        "能源"
+      ],
+      "fingerprint": "83fc761dc3a7c9ba4db5c7f3",
+      "isContinuation": false,
+      "titleZh": "如果核武器在太空中爆炸会发生什么？",
+      "summaryZh": "地球大气层能提供一定的保护，但太空中的卫星将直接暴露在核爆炸的辐射之下。文章解释了辐射如何损坏卫星，以及为何其影响具有持久性及可能的防护措施。",
+      "whyImportant": "随着太空军事化风险增加，了解核爆炸对轨道资产的潜在破坏性具有重要的战略意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9b8d84b5905e8a8",
+      "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-      "publishedAt": "2026-11-23T05:38:01.000Z",
-      "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+      "publishedAt": "2026-11-24T07:55:18.000Z",
+      "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-          "publishedAt": "2026-11-23T05:38:01.000Z"
+          "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+          "publishedAt": "2026-11-24T07:55:18.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "金融",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 73,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
-        "突发"
+        "space",
+        "科技"
       ],
-      "fingerprint": "ad7db2f01488baaa73230e4d",
+      "fingerprint": "459d7d817a2c8be72466f451",
       "isContinuation": false,
-      "titleZh": "人权组织：以色列在被占领的西岸对医务人员的袭击激增350%",
-      "summaryZh": "以色列医生人权组织表示，医务人员正面临来自士兵和定居者日益严重的暴力威胁。这种暴力升级对当地医疗救援工作构成了极大的危险。",
-      "whyImportant": "该报告揭示了冲突地区医疗环境的恶化，引发了对国际人道法执行情况的担忧。",
+      "titleZh": "巴基斯坦飞行员齐尚·阿里将开启前往中国空间站的历史性飞行",
+      "summaryZh": "巴基斯坦空军飞行员齐尚·阿里将前往中国天宫空间站，进行为期约一周的驻留。期间他将与中国航天员共同开展科学实验。",
+      "whyImportant": "此次任务标志着巴基斯坦与中国在载人航天领域的合作迈出了重要一步。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b5b81b0987c156ab",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T05:34:39.000Z",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-23T05:34:39.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "5b6e0e4353c980e61733fe8e",
-      "isContinuation": false,
-      "titleZh": "COP31气候谈判未达成协议，后续将如何发展？",
-      "summaryZh": "本次气候峰会是历史上持续时间最长的一次，谈判在原定结束日期两天后宣告破裂。各方未能就最终协议达成一致，引发了对未来气候政策走向的讨论。",
-      "whyImportant": "全球气候治理进程的停滞可能对国际减排合作及应对气候变化的紧迫行动产生负面影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "af75c65b14939e5d",
-      "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
-      "publishedAt": "2026-11-23T06:46:49.000Z",
-      "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning. Nobody really wants to think about Brexit any more, save for the original Brexiters, who seem delighted that Andy Burnham’s “reset” with the EU has given them an excuse to get the old gang back together. But arguments about whether the UK should rejoin the EU will reignite in parliament this week, as Burnham briefs MPs on the deal he agreed on Friday. That deal wasn’t so much a victory as the culmination of Keir Starmer’s incrementalist approach to UK-EU relations. Its core agreements haven’t been ratified by member states yet, and the EU won’t sign them off until Britain resolves a dispute over tuition fees for European students. Burnham is apparently “determined” to take the UK back into the EU, but don’t expect any progress on that before the next general election. Cop31 | The EU, the UK and allies in the developing world rejected what they called an unacceptable deal that “failed to meet the moment” in a dramatic finish to the UN talks in Turkey. T",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
-          "publishedAt": "2026-11-23T06:46:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "124a28f5adefaf2351002f29",
-      "isContinuation": false,
-      "titleZh": "周一简报：安迪·伯纳姆的“重置”对英国意味着什么？",
-      "summaryZh": "英国首相安迪·伯纳姆重启了关于英国与欧盟未来关系的辩论，并于上周五达成了一项初步协议。然而，该协议尚未得到欧盟成员国批准，且在学费争议解决前进展缓慢。",
-      "whyImportant": "此举标志着英国在脱欧后试图调整对欧政策，可能引发国内关于重新加入欧盟的政治争论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "83c8a30ff39af264",
-      "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "publishedAt": "2026-11-23T06:13:21.000Z",
-      "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-          "publishedAt": "2026-11-23T06:13:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "3c9360f8fbc901b7b7e74c35",
-      "isContinuation": false,
-      "titleZh": "新南威尔士州议员亚历克斯·格林威治在LGBTQ+群体的反对下，撤回对弗雷德·奈尔国葬的支持",
-      "summaryZh": "在COP31气候峰会未能达成最终协议后，澳大利亚内阁部长穆雷·瓦特表示，国际社会在气候政策上的分歧难以弥合。与此同时，澳大利亚正加强与日本和菲律宾的防务合作。",
-      "whyImportant": "该事件反映了澳大利亚在处理国内社会议题与应对复杂国际地缘政治环境时的双重压力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9f7ec8950b45edc5",
-      "title": "South Korea rights body raps centre after detainee denied final call to dying father",
+      "id": "287f55f8fbfbbd10",
+      "title": "China corruption watchdog investigates senior science ministry official Liu Min",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
-      "publishedAt": "2026-11-23T05:13:04.000Z",
-      "summary": "South Korea’s rights watchdog said on Monday it recommended that an immigration detention centre minimise restrictions on detainees’ freedom of communication, after it found that a facility violated a detainee’s right to pursue happiness by not allowing a video call with a dying father. The National Human Rights Commission of Korea, which made the recommendation last week, called on the centre to guarantee that detainees can use their personal mobile phones to the extent necessary in urgent and...",
+      "url": "https://www.scmp.com/news/china/politics/article/3375564/china-corruption-watchdog-investigates-senior-science-ministry-official-liu-min",
+      "publishedAt": "2026-11-24T04:57:19.000Z",
+      "summary": "Liu Min, a senior official at the Ministry of Science and Technology, is under investigation, according to China’s top anti-corruption watchdog, the Central Commission for Discipline Inspection (CCDI). Liu is “suspected of serious violations of party discipline and national laws” – a euphemism for corruption – and is subject to disciplinary review by the CCDI team at the ministry. She was also being investigated by the supervisory commission in Yichang, Hubei province, in central China, the CCDI...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
-          "publishedAt": "2026-11-23T05:13:04.000Z"
+          "url": "https://www.scmp.com/news/china/politics/article/3375564/china-corruption-watchdog-investigates-senior-science-ministry-official-liu-min",
+          "publishedAt": "2026-11-24T04:57:19.000Z"
         }
       ],
       "sourceCount": 1,
-      "isChina": false,
+      "isChina": true,
       "isUsa": false,
       "isNoise": false,
       "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "突发"
+        "technology",
+        "科技"
       ],
-      "fingerprint": "9147671565e43dd40764480b",
+      "fingerprint": "b0b936b7815f1a06ad63940f",
       "isContinuation": false,
-      "titleZh": "韩国人权机构批评拘留中心：被拘留者被拒绝与垂死父亲进行最后通话",
-      "summaryZh": "韩国国家人权委员会建议移民拘留中心放宽对被拘留者通讯自由的限制。此前，该中心因禁止一名被拘留者与垂死的父亲进行视频通话而受到批评。",
-      "whyImportant": "此举强调了在行政拘留过程中保障基本人权和人性化管理的重要性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c314b1c9598cf1d7",
-      "title": "Russian strikes kill at least 15 in Kyiv region, Ukraine says",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
-      "publishedAt": "2026-11-22T18:32:59.000Z",
-      "summary": "Rescuers in Ukraine raced on Monday to find residents trapped under the rubble of a block of flats that partially collapsed in a Russian strike, after attacks on the Kyiv region killed at least 15 people. Moscow has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for another winter, as the full-scale invasion grinds through its fifth year. Russian President Vladimir Putin vowed last week a “painful” response to Ukrainian strikes on Russia’s Crimea bridge after...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
-          "publishedAt": "2026-11-22T18:32:59.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "b9350e0129e3f266b32d7c63",
-      "isContinuation": false,
-      "titleZh": "乌克兰称俄罗斯袭击基辅地区，造成至少15人死亡",
-      "summaryZh": "俄罗斯对基辅地区发动了大规模空袭，导致一栋公寓楼部分坍塌，救援人员正在废墟中搜寻幸存者。这是俄乌冲突进入第五年之际，俄罗斯持续进行的夜间轰炸行动之一。",
-      "whyImportant": "平民伤亡的增加加剧了乌克兰在冬季面临的人道主义危机，并可能导致冲突进一步升级。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "86c4e817690b99be",
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:18:26.000Z",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T17:18:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "214aa3724d58ff0633ed7cdc",
-      "isContinuation": false,
-      "titleZh": "一艘前往俄罗斯的船只在芬兰湾遇袭后被拖走",
-      "summaryZh": "芬兰国防军表示，上周六发生在芬兰湾的无人机袭击事件很可能是由乌克兰策划的。目前基辅方面尚未对此事发表评论。",
-      "whyImportant": "此次袭击事件显示了俄乌冲突的影响范围已延伸至波罗的海区域，增加了地区安全的不确定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9e0e59e94b700d88",
-      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-      "publishedAt": "2026-11-22T22:00:58.000Z",
-      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-          "publishedAt": "2026-11-22T22:00:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "公共安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8e37797b3127ff826ffd70fa",
-      "isContinuation": false,
-      "titleZh": "特蕾莎·梅的旧事重提将保守党拉回了不愉快的境地",
-      "summaryZh": "特蕾莎·梅近期公开支持脱欧的言论，让保守党重新陷入了关于欧盟关系的痛苦回忆中。尽管保守党倾向于反对与欧盟建立更紧密联系，但安迪·伯纳姆的政策调整迫使他们不得不面对这一议题。",
-      "whyImportant": "这反映了英国保守党内部在脱欧后遗症与未来对欧政策方向上的持续分裂。",
+      "titleZh": "中国反腐机构调查科技部高级官员刘敏",
+      "summaryZh": "据中央纪委国家监委消息，科技部高级官员刘敏因涉嫌严重违纪违法正接受纪律审查。目前，该调查由科技部纪检监察组及湖北省宜昌市监委共同开展。",
+      "whyImportant": "此举显示中国政府持续加强对科技领域关键岗位的反腐力度。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "global": [
     {
-      "id": "42f3dcde7248d8f1",
-      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-      "publishedAt": "2026-11-23T05:38:01.000Z",
-      "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+      "id": "d3c6289003d7a06a",
+      "title": "Cop31 illustrated what’s wrong with climate finance",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3375456/cop31-illustrated-whats-wrong-climate-finance",
+      "publishedAt": "2026-11-24T08:30:05.000Z",
+      "summary": "When Australia’s climate minister Chris Bowen spoke at Cop31, the United Nations climate change conference, in Antalya, Turkey, he said the world was asking whether multilateralism could rise to meet a “polycrisis” of climate change, energy security, conflict and the power demands of artificial intelligence. “Is international cooperation still a way forward? This fortnight we can answer those legitimate concerns and questions with a simple answer: Yes,” he said. For developing countries across...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-          "publishedAt": "2026-11-23T05:38:01.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3375456/cop31-illustrated-whats-wrong-climate-finance",
+          "publishedAt": "2026-11-24T08:30:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -387,82 +389,215 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "金融",
-        "专题·军事、安全与突发事件"
+        "军事与安全",
+        "科技",
+        "能源",
+        "环境",
+        "国际组织",
+        "专题·科技、能源与产业"
       ],
       "score": 73,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
-        "突发"
+        "artificial intelligence",
+        "energy",
+        "科技",
+        "能源"
       ],
-      "fingerprint": "ad7db2f01488baaa73230e4d",
+      "fingerprint": "d53ccdfe84089a13c3905c12",
       "isContinuation": false,
-      "titleZh": "人权组织：以色列在被占领的西岸对医务人员的袭击激增350%",
-      "summaryZh": "以色列医生人权组织表示，医务人员正面临来自士兵和定居者日益严重的暴力威胁。这种暴力升级对当地医疗救援工作构成了极大的危险。",
-      "whyImportant": "该报告揭示了冲突地区医疗环境的恶化，引发了对国际人道法执行情况的担忧。",
+      "titleZh": "Cop31会议凸显了气候融资存在的问题",
+      "summaryZh": "澳大利亚气候部长在Cop31会议上强调，国际社会正面临气候变化、能源安全及人工智能电力需求等多重危机。他呼吁通过国际合作来应对这些挑战，并对多边主义的有效性表示肯定。",
+      "whyImportant": "该会议反映了全球在应对复杂气候挑战时，对国际合作机制与资金分配问题的持续关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b5b81b0987c156ab",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T05:34:39.000Z",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-23T05:34:39.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "外交",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "5b6e0e4353c980e61733fe8e",
-      "isContinuation": false,
-      "titleZh": "COP31气候谈判未达成协议，后续将如何发展？",
-      "summaryZh": "本次气候峰会是历史上持续时间最长的一次，谈判在原定结束日期两天后宣告破裂。各方未能就最终协议达成一致，引发了对未来气候政策走向的讨论。",
-      "whyImportant": "全球气候治理进程的停滞可能对国际减排合作及应对气候变化的紧迫行动产生负面影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "af75c65b14939e5d",
-      "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
+      "id": "86afad3ac3241cff",
+      "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
-      "publishedAt": "2026-11-23T06:46:49.000Z",
-      "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning. Nobody really wants to think about Brexit any more, save for the original Brexiters, who seem delighted that Andy Burnham’s “reset” with the EU has given them an excuse to get the old gang back together. But arguments about whether the UK should rejoin the EU will reignite in parliament this week, as Burnham briefs MPs on the deal he agreed on Friday. That deal wasn’t so much a victory as the culmination of Keir Starmer’s incrementalist approach to UK-EU relations. Its core agreements haven’t been ratified by member states yet, and the EU won’t sign them off until Britain resolves a dispute over tuition fees for European students. Burnham is apparently “determined” to take the UK back into the EU, but don’t expect any progress on that before the next general election. Cop31 | The EU, the UK and allies in the developing world rejected what they called an unacceptable deal that “failed to meet the moment” in a dramatic finish to the UN talks in Turkey. T",
+      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "publishedAt": "2026-11-24T09:22:10.000Z",
+      "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Meanwhile, Hungary’s prime minister Péter Magyar announced a visit to the border region of Transcarpathia for talks with Ukraine’s Volodymyr Zelenskyy. Announcing the visit on Facebook, Magyar said: “Together with [foreign] minister Anita Orbán, we will visit several Hungarian institutions. This is the first visit by a Hungarian prime minister to Ukraine since 2015.” Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
-          "publishedAt": "2026-11-23T06:46:49.000Z"
+          "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+          "publishedAt": "2026-11-24T09:22:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 69,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "07c011f1e825683550bbc82f",
+      "isContinuation": false,
+      "titleZh": "俄罗斯无人机侵犯波兰领空，此前该国刚遭巡航导弹袭击",
+      "summaryZh": "波兰当局正调查一起涉及俄罗斯无人机的“蓄意活动”，加剧了北约东翼的紧张局势。与此同时，匈牙利总理马扎尔宣布将访问乌克兰外喀尔巴阡地区，这是自2015年以来匈牙利总理首次访乌。",
+      "whyImportant": "此事件进一步加剧了北约与俄罗斯之间的地缘政治紧张关系，并标志着匈牙利与乌克兰外交关系的潜在变动。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a8806135a47fa698",
+      "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
+      "publishedAt": "2026-11-24T08:24:26.000Z",
+      "summary": "Saurav Das was due to give talks at UK universities on protest movement but says ‘coward government’ prevented him flying A leader of India’s youth-led Cockroach movement has said he was prevented from leaving Delhi to fly to the UK to give talks on the viral group’s protests. Saurav Das, 27, has been at the forefront of the Cockroach Janta party (CJP), which has amassed millions of social media followers since its launch in May. Das, who was due to fly out early on Tuesday, said immigration officials told him at the airport that his passport had been flagged. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
+          "publishedAt": "2026-11-24T08:24:26.000Z"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-24T05:33:07.000Z"
+        }
+      ],
+      "sourceCount": 2,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "国际组织"
+      ],
+      "score": 67,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "261d87de6ec61a048e93f138",
+      "isContinuation": false,
+      "titleZh": "印度“蟑螂运动”领导人称被禁止登机前往英国",
+      "summaryZh": "印度青年抗议组织“蟑螂运动”的领导人索拉夫·达斯表示，他在德里机场被移民官员拦截，无法前往英国进行演讲。他声称自己的护照被标记，并指责政府采取了阻挠行动。",
+      "whyImportant": "该事件引发了关于印度政府对异见人士出境限制及言论自由状况的讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7117544317abba2f",
+      "title": "What happens if a nuclear weapon explodes in space?",
+      "source": "DW",
+      "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-24T08:34:00.000Z",
+      "summary": "Earth's atmosphere offers protection from a nuclear blast in space, but satellites are more exposed. We explain how radiation could damage them, why the effects can linger and what protection is possible.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-11-24T08:34:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "科技",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技",
+        "能源"
+      ],
+      "fingerprint": "83fc761dc3a7c9ba4db5c7f3",
+      "isContinuation": false,
+      "titleZh": "如果核武器在太空中爆炸会发生什么？",
+      "summaryZh": "地球大气层能提供一定的保护，但太空中的卫星将直接暴露在核爆炸的辐射之下。文章解释了辐射如何损坏卫星，以及为何其影响具有持久性及可能的防护措施。",
+      "whyImportant": "随着太空军事化风险增加，了解核爆炸对轨道资产的潜在破坏性具有重要的战略意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9b8d84b5905e8a8",
+      "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+      "publishedAt": "2026-11-24T07:55:18.000Z",
+      "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+          "publishedAt": "2026-11-24T07:55:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "459d7d817a2c8be72466f451",
+      "isContinuation": false,
+      "titleZh": "巴基斯坦飞行员齐尚·阿里将开启前往中国空间站的历史性飞行",
+      "summaryZh": "巴基斯坦空军飞行员齐尚·阿里将前往中国天宫空间站，进行为期约一周的驻留。期间他将与中国航天员共同开展科学实验。",
+      "whyImportant": "此次任务标志着巴基斯坦与中国在载人航天领域的合作迈出了重要一步。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "530eaa08afbc98c4",
+      "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
+      "publishedAt": "2026-11-24T08:00:11.000Z",
+      "summary": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat thumbs-up, boosting Nvidia’s share price by about a third. Shareholders, whose interests the board is meant to represent, are surely happy. But like Fifa’s controversial decision to defer the one-match suspension of US forward Folarin Balogun after receiving a red card for a foul on Bosnia and Herzegovina’s Tarik Muharemović during the World Cup over the summer, Huang’s absolution might backfire. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
+          "publishedAt": "2026-11-24T08:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -472,337 +607,279 @@
       "tags": [
         "全球焦点",
         "经济",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "124a28f5adefaf2351002f29",
-      "isContinuation": false,
-      "titleZh": "周一简报：安迪·伯纳姆的“重置”对英国意味着什么？",
-      "summaryZh": "英国首相安迪·伯纳姆重启了关于英国与欧盟未来关系的辩论，并于上周五达成了一项初步协议。然而，该协议尚未得到欧盟成员国批准，且在学费争议解决前进展缓慢。",
-      "whyImportant": "此举标志着英国在脱欧后试图调整对欧政策，可能引发国内关于重新加入欧盟的政治争论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "83c8a30ff39af264",
-      "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "publishedAt": "2026-11-23T06:13:21.000Z",
-      "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-          "publishedAt": "2026-11-23T06:13:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "3c9360f8fbc901b7b7e74c35",
-      "isContinuation": false,
-      "titleZh": "新南威尔士州议员亚历克斯·格林威治在LGBTQ+群体的反对下，撤回对弗雷德·奈尔国葬的支持",
-      "summaryZh": "在COP31气候峰会未能达成最终协议后，澳大利亚内阁部长穆雷·瓦特表示，国际社会在气候政策上的分歧难以弥合。与此同时，澳大利亚正加强与日本和菲律宾的防务合作。",
-      "whyImportant": "该事件反映了澳大利亚在处理国内社会议题与应对复杂国际地缘政治环境时的双重压力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9f7ec8950b45edc5",
-      "title": "South Korea rights body raps centre after detainee denied final call to dying father",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
-      "publishedAt": "2026-11-23T05:13:04.000Z",
-      "summary": "South Korea’s rights watchdog said on Monday it recommended that an immigration detention centre minimise restrictions on detainees’ freedom of communication, after it found that a facility violated a detainee’s right to pursue happiness by not allowing a video call with a dying father. The National Human Rights Commission of Korea, which made the recommendation last week, called on the centre to guarantee that detainees can use their personal mobile phones to the extent necessary in urgent and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
-          "publishedAt": "2026-11-23T05:13:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "9147671565e43dd40764480b",
-      "isContinuation": false,
-      "titleZh": "韩国人权机构批评拘留中心：被拘留者被拒绝与垂死父亲进行最后通话",
-      "summaryZh": "韩国国家人权委员会建议移民拘留中心放宽对被拘留者通讯自由的限制。此前，该中心因禁止一名被拘留者与垂死的父亲进行视频通话而受到批评。",
-      "whyImportant": "此举强调了在行政拘留过程中保障基本人权和人性化管理的重要性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c314b1c9598cf1d7",
-      "title": "Russian strikes kill at least 15 in Kyiv region, Ukraine says",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
-      "publishedAt": "2026-11-22T18:32:59.000Z",
-      "summary": "Rescuers in Ukraine raced on Monday to find residents trapped under the rubble of a block of flats that partially collapsed in a Russian strike, after attacks on the Kyiv region killed at least 15 people. Moscow has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for another winter, as the full-scale invasion grinds through its fifth year. Russian President Vladimir Putin vowed last week a “painful” response to Ukrainian strikes on Russia’s Crimea bridge after...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
-          "publishedAt": "2026-11-22T18:32:59.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "b9350e0129e3f266b32d7c63",
-      "isContinuation": false,
-      "titleZh": "乌克兰称俄罗斯袭击基辅地区，造成至少15人死亡",
-      "summaryZh": "俄罗斯对基辅地区发动了大规模空袭，导致一栋公寓楼部分坍塌，救援人员正在废墟中搜寻幸存者。这是俄乌冲突进入第五年之际，俄罗斯持续进行的夜间轰炸行动之一。",
-      "whyImportant": "平民伤亡的增加加剧了乌克兰在冬季面临的人道主义危机，并可能导致冲突进一步升级。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "86c4e817690b99be",
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:18:26.000Z",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T17:18:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "214aa3724d58ff0633ed7cdc",
-      "isContinuation": false,
-      "titleZh": "一艘前往俄罗斯的船只在芬兰湾遇袭后被拖走",
-      "summaryZh": "芬兰国防军表示，上周六发生在芬兰湾的无人机袭击事件很可能是由乌克兰策划的。目前基辅方面尚未对此事发表评论。",
-      "whyImportant": "此次袭击事件显示了俄乌冲突的影响范围已延伸至波罗的海区域，增加了地区安全的不确定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9e0e59e94b700d88",
-      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-      "publishedAt": "2026-11-22T22:00:58.000Z",
-      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-          "publishedAt": "2026-11-22T22:00:58.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "公共安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8e37797b3127ff826ffd70fa",
-      "isContinuation": false,
-      "titleZh": "特蕾莎·梅的旧事重提将保守党拉回了不愉快的境地",
-      "summaryZh": "特蕾莎·梅近期公开支持脱欧的言论，让保守党重新陷入了关于欧盟关系的痛苦回忆中。尽管保守党倾向于反对与欧盟建立更紧密联系，但安迪·伯纳姆的政策调整迫使他们不得不面对这一议题。",
-      "whyImportant": "这反映了英国保守党内部在脱欧后遗症与未来对欧政策方向上的持续分裂。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "36634285571cad6e",
-      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-      "publishedAt": "2026-11-23T00:39:51.000Z",
-      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-          "publishedAt": "2026-11-23T00:39:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "bf94c0f6acf47cc84434c7b1",
-      "isContinuation": false,
-      "titleZh": "世卫组织总干事呼吁刚果民主共和国埃博拉疫区停止战斗以实现和平",
-      "summaryZh": "刚果民主共和国一家医院附近的战斗干扰了埃博拉防控工作。世卫组织警告称，这使患者和医护人员处于严重危险之中。",
-      "whyImportant": "冲突升级威胁到当地脆弱的公共卫生防疫体系，可能导致埃博拉疫情进一步扩散。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e2be825e0d55bb5f",
-      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-      "publishedAt": "2026-11-23T00:31:31.000Z",
-      "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own meme coin as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, set to take place at the Trump National Golf Club in Sterling, Virginia, will include meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, Shark Tank investor Kevin O’Leary, NBA champion Tristan Thompson and mentalist Lior Suchard, according to the event’s website. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-          "publishedAt": "2026-11-23T00:31:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
         "金融",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6a5e2cbe9095cdbd0b1b05bb",
+      "isContinuation": false,
+      "titleZh": "特朗普、英伟达与电力：我们是否正接近科技“镀金时代”的终结？",
+      "summaryZh": "文章探讨了英伟达高层变动对市场的影响，并质疑科技巨头在当前政治环境下的权力扩张。作者认为，这种不受约束的权力可能正面临转折点。",
+      "whyImportant": "该评论反映了市场对科技巨头垄断地位及企业治理与政治环境相互作用的深层担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "21fa4ed698d3ab66",
+      "title": "Hong Kong school reminded on rest after requiring night study for lagging pupils",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3375607/hong-kong-school-reminded-rest-after-requiring-night-study-lagging-pupils",
+      "publishedAt": "2026-11-24T08:59:09.000Z",
+      "summary": "Hong Kong’s education authorities have reminded a secondary institution to “fully consider students’ rest schedules” after it required underperforming Form Six pupils to stay until 8.30pm for a three-hour tutorial and self-study session. The reminder followed a student’s complaint to local media that pupils who were absent from the required extra school hours without prior approval would be considered truants, criticising the policy as unreasonable and “trading their health for grades”. The...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3375607/hong-kong-school-reminded-rest-after-requiring-night-study-lagging-pupils",
+          "publishedAt": "2026-11-24T08:59:09.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "国际组织"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6451beaed9702c0d11731b16",
+      "isContinuation": false,
+      "titleZh": "香港一学校因要求落后学生参加夜间补习被提醒注意休息时间",
+      "summaryZh": "香港教育部门提醒一所中学需充分考虑学生的休息安排，此前该校要求成绩落后的六年级学生留校至晚上8点半进行补习。有学生投诉该政策不合理，认为是在以健康换取成绩。",
+      "whyImportant": "此事件引发了关于香港教育体系中过度竞争及学生身心健康平衡的社会讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e58ed156c3ec691f",
+      "title": "Hacked Russian data suggests nearly 500,000 soldiers dead, reports say",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375557/hacked-russian-data-suggests-nearly-500000-soldiers-dead-reports-say",
+      "publishedAt": "2026-11-24T03:50:26.000Z",
+      "summary": "Data allegedly stolen by hackers from Russia’s statistics agency Rosstat show the number of recorded Russian military dead is approaching 500,000, several Russian media outlets and German news magazine Der Spiegel reported on Monday. The outlets said they had gained access to the data set, which the hacker groups Cyberpartisans and Silent Crow are said to have taken in an attack on the agency. Reports said the groups were close to the Belarusian opposition or to pro-Ukrainian...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375557/hacked-russian-data-suggests-nearly-500000-soldiers-dead-reports-say",
+          "publishedAt": "2026-11-24T03:50:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1948d17c8eb67f279df95157",
+      "isContinuation": false,
+      "titleZh": "报道称被黑客窃取的俄罗斯数据显示死亡士兵近50万人",
+      "summaryZh": "据多家媒体报道，黑客组织从俄罗斯统计局窃取的数据显示，俄军死亡人数已接近50万。这些数据据称由亲乌克兰或白俄罗斯反对派背景的黑客获取。",
+      "whyImportant": "若数据属实，这将揭示俄乌冲突中俄方遭受的巨大人员损失，可能对战争进程产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "287f55f8fbfbbd10",
+      "title": "China corruption watchdog investigates senior science ministry official Liu Min",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3375564/china-corruption-watchdog-investigates-senior-science-ministry-official-liu-min",
+      "publishedAt": "2026-11-24T04:57:19.000Z",
+      "summary": "Liu Min, a senior official at the Ministry of Science and Technology, is under investigation, according to China’s top anti-corruption watchdog, the Central Commission for Discipline Inspection (CCDI). Liu is “suspected of serious violations of party discipline and national laws” – a euphemism for corruption – and is subject to disciplinary review by the CCDI team at the ministry. She was also being investigated by the supervisory commission in Yichang, Hubei province, in central China, the CCDI...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3375564/china-corruption-watchdog-investigates-senior-science-ministry-official-liu-min",
+          "publishedAt": "2026-11-24T04:57:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "technology",
+        "科技"
       ],
-      "fingerprint": "3179b851c585fd5ec114e66e",
+      "fingerprint": "b0b936b7815f1a06ad63940f",
       "isContinuation": false,
-      "titleZh": "特朗普举办第三场模因币加密货币晚宴，引发利益冲突争议",
-      "summaryZh": "特朗普在弗吉尼亚州的高尔夫俱乐部举办加密货币晚宴，奖励其模因币的持有者。民主党人指责特朗普利用总统身份从加密货币业务中谋取不正当利益。",
-      "whyImportant": "此举引发了公众对总统职务与个人商业利益之间界限的质疑，并加剧了政治上的道德争议。",
+      "titleZh": "中国反腐机构调查科技部高级官员刘敏",
+      "summaryZh": "据中央纪委国家监委消息，科技部高级官员刘敏因涉嫌严重违纪违法正接受纪律审查。目前，该调查由科技部纪检监察组及湖北省宜昌市监委共同开展。",
+      "whyImportant": "此举显示中国政府持续加强对科技领域关键岗位的反腐力度。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c6f1b3c9b9ab3fd5",
+      "title": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
+      "publishedAt": "2026-11-24T01:45:37.000Z",
+      "summary": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff momentarily drowned out nearly two weeks of corporate turmoil. “I’m going to be a better CEO the second time around,” Huang told the crowd, joking that he would need the IT department to set him up with a computer on his first day back. The emotional homecoming marked a stunning reversal just 11 days after Huang’s abrupt resignation...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
+          "publishedAt": "2026-11-24T01:45:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "d231aa2d945284412c2305b4",
+      "isContinuation": false,
+      "titleZh": "黄仁勋重返英伟达获员工欢呼，未穿标志性皮夹克",
+      "summaryZh": "在辞职11天后，黄仁勋重返英伟达总部并受到员工热烈欢迎。他表示将以更好的状态担任首席执行官，此次回归标志着该公司近期动荡局势的重大转折。",
+      "whyImportant": "黄仁勋的回归对英伟达的稳定及全球人工智能产业的发展具有关键影响。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
   "china": [
     {
-      "id": "9aa581609376e08c",
-      "title": "Hong Kong films shine as Angela Yuen, Anson Kong win at Golden Horse Awards",
+      "id": "1fb7a9351c7d2105",
+      "title": "Chinese drug stocks sink as US lawmakers threaten curbs on cross-border collaboration",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3375392/mirrors-anson-kong-rises-step-step-golden-horse-glory-we-are-born-good-wins",
-      "publishedAt": "2026-11-22T14:51:20.000Z",
-      "summary": "Hong Kong actress Angela Yuen Lai-lam has won the best actress prize at the prestigious Golden Horse Awards in Taiwan, while Anson Kong Ip-sang of boy band Mirror has snagged the best supporting actor trophy. The 33-year-old Yuen beat fellow contenders for the top acting prize for her performance in Hong Kong film Afterpiece, in which she plays an amateur actress who auditions for a leading role in a stage play and later becomes embroiled in a complex dynamic with its director. Yuen drew...",
+      "url": "https://www.scmp.com/business/markets/article/3375599/chinese-drug-stocks-sink-us-lawmakers-threaten-cross-border-collaboration",
+      "publishedAt": "2026-11-24T08:16:34.000Z",
+      "summary": "Chinese healthcare stocks fell on Tuesday amid intensifying threats from Washington, where lawmakers warned about the US drug industry’s “dangerous dependence” on China and urged restrictions on cross-border collaboration. “We cannot allow China to get ahead and control drug development, or it will use that power against us,” John Moolenaar, chairman of the US House Select Committee on China, said in a statement on Tuesday, adding that “urgent action is needed”. The committee published a 57-page...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3375392/mirrors-anson-kong-rises-step-step-golden-horse-glory-we-are-born-good-wins",
-          "publishedAt": "2026-11-22T14:51:20.000Z"
+          "url": "https://www.scmp.com/business/markets/article/3375599/chinese-drug-stocks-sink-us-lawmakers-threaten-cross-border-collaboration",
+          "publishedAt": "2026-11-24T08:16:34.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "突发",
+        "金融",
+        "军事与安全"
+      ],
+      "score": 82,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5ac38fdf7e4996ab64421173",
+      "isContinuation": false,
+      "titleZh": "美国议员威胁限制跨境合作，中国医药股下跌",
+      "summaryZh": "美国众议院中国问题特别委员会警告称美方对中国医药产业存在危险依赖，并呼吁限制跨境合作。受此消息影响，中国医药板块股价出现下滑。",
+      "whyImportant": "美方对生物医药供应链的审查升级，加剧了中美在关键科技与医疗领域的脱钩风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "43b484dc42ff2941",
+      "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "publishedAt": "2026-11-24T09:39:35.000Z",
+      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congre",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+          "publishedAt": "2026-11-24T09:39:35.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 76,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "da0362bf5d5d00066be873b6",
+      "isContinuation": false,
+      "titleZh": "黄仁勋回归引发美国政治反弹，英伟达盘前股价下跌",
+      "summaryZh": "黄仁勋在争议中重返英伟达引发美国两党议员不满，质疑总统干预企业董事会决策的合法性。市场担忧英伟达对人工智能产业的系统性重要性，以及其在复杂政治环境下的未来前景。",
+      "whyImportant": "该事件引发了关于科技巨头是否“大到不能倒”以及政治干预企业治理的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f016628a7e29d68f",
+      "title": "Why Japan is taking its missile drills to Indian soil",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3375590/why-japan-taking-its-missile-drills-indian-soil",
+      "publishedAt": "2026-11-24T09:00:10.000Z",
+      "summary": "India’s decision to allow Japanese forces to conduct live-fire missile drills at its firing ranges signals a new level of cooperation between their militaries, analysts have said, as shared concerns over China push the two countries towards closer defence ties. “What we’re seeing is certainly an elevation of the security relationship. India and Japan have run joint exercises for years, but the fact that Delhi is letting another country’s forces fire long-range missiles from Indian soil is a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3375590/why-japan-taking-its-missile-drills-indian-soil",
+          "publishedAt": "2026-11-24T09:00:10.000Z"
         }
       ],
       "sourceCount": 1,
@@ -813,39 +890,307 @@
         "中国重点",
         "军事与安全",
         "能源",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "专题·科技、能源与产业"
       ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "军事"
+        "能源"
       ],
-      "fingerprint": "b29d287261457d5dd8991a82",
+      "fingerprint": "e97a6af218be845ec559f7eb",
       "isContinuation": false,
-      "titleZh": "香港电影闪耀金马奖，袁澧林与江𤒹生分获殊荣",
-      "summaryZh": "香港演员袁澧林凭借电影《后项》获得金马奖最佳女主角奖，Mirror成员江𤒹生则摘得最佳男配角奖。袁澧林在片中饰演一名业余演员，展现了复杂的角色心理。",
-      "whyImportant": "香港影人在金马奖的成功体现了香港电影在华语影坛的持续影响力和艺术水准。",
+      "titleZh": "日本为何将导弹演习移至印度领土进行",
+      "summaryZh": "印度允许日本军队在其境内进行实弹导弹演习，标志着两国军事合作迈向新高度。分析认为，双方在应对中国挑战方面的共同关切正推动其防务关系进一步深化。",
+      "whyImportant": "印日防务合作的升级反映了印太地区地缘政治格局的调整。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "996f7397fdc17477",
-      "title": "Danny Quah on how Asean charts its own course amid fierce US-China rivalry",
+      "id": "32361de972d13eaf",
+      "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
       "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
-      "publishedAt": "2026-11-22T22:00:12.000Z",
-      "summary": "Danny Quah is an economics professor at the National University of Singapore’s Lee Kuan Yew School of Public Policy. He served as the school’s dean between 2018 and 2025, and has consulted for, among others, the World Bank, the Bank of England and the Monetary Authority of Singapore. Here, he discusses how the Association of Southeast Asian Nations (Asean) navigates the US-China rivalry, yuan internationalisation in the region and why the “China shock” has played out differently in Southeast...",
+      "url": "https://www.scmp.com/economy/policy/article/3375565/dutch-minister-heads-china-nvidia-saga-revives-us-push-tougher-asml-curbs",
+      "publishedAt": "2026-11-24T09:00:06.000Z",
+      "summary": "Dutch Foreign Minister Tom Berendsen’s visit to China this week comes amid a shifting dynamic in the Netherlands’ efforts to fend off further US restrictions on ASML sales to Beijing following the Nvidia saga, analysts say, with some suggesting it could strengthen the Dutch case against the proposed measures despite mounting pressure from Washington. “Because of the Nvidia [saga], there is a renewed push for the Match Act in the US Congress,” said Frans-Paul van der Putten, founder of...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
-          "publishedAt": "2026-11-22T22:00:12.000Z"
+          "url": "https://www.scmp.com/economy/policy/article/3375565/dutch-minister-heads-china-nvidia-saga-revives-us-push-tougher-asml-curbs",
+          "publishedAt": "2026-11-24T09:00:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交"
+      ],
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "abeb44a3c57016c8e2d6afb1",
+      "isContinuation": false,
+      "titleZh": "荷兰大臣访华，英伟达事件重燃美国对阿斯麦施压",
+      "summaryZh": "荷兰外交大臣本周访华，旨在应对美国因英伟达事件而推动的更严厉出口限制。分析指出，荷兰正试图在华盛顿的压力下维护其半导体设备的对华贸易利益。",
+      "whyImportant": "此举凸显了荷兰在美中半导体技术博弈中面临的复杂外交与经济压力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ae2e8e2caf29fdfa",
+      "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+      "publishedAt": "2026-11-24T08:28:00.000Z",
+      "summary": "Asia-Pacific stock markets rise after US president says he ‘convinced’ chipmaker’s board to reinstate CEO Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holdings of Nvidia stock after the US chipmaker’s share price soared on the surprise return of Jensen Huang as chief executive. Huang, who co-founded the company in 1993, was ousted by the board after allegations that he had three affairs, including one with a suspected Chinese spy and two with employees. But the Nvidia board reinstated him after an intervention from the US president. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+          "publishedAt": "2026-11-24T08:28:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "国际组织"
+      ],
+      "score": 67,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f780e48ad62f723e8b9c2657",
+      "isContinuation": false,
+      "titleZh": "特朗普在黄仁勋回归后通过英伟达股票获利高达1500万美元",
+      "summaryZh": "在特朗普干预促成黄仁勋重返英伟达后，该公司股价大涨，特朗普持有的英伟达股票价值随之飙升。此前黄仁勋因个人丑闻被董事会罢免，此次回归引发了关于总统干预企业决策的争议。",
+      "whyImportant": "总统直接干预企业人事并从中获利引发了严重的道德与利益冲突质疑。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "usa": [
+    {
+      "id": "a68ca873214b3e3e",
+      "title": "US B94 nuclear bomb designation signals renewed push for bunker-busting weapons",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3375597/us-b94-nuclear-bomb-designation-signals-renewed-push-bunker-busting-weapons",
+      "publishedAt": "2026-11-24T09:00:13.000Z",
+      "summary": "A new nuclear bomb designation buried in a US Senate budget document suggests Washington may be pursuing a weapon to destroy targets deep underground. The B94 designation surfaced on November 12 in an explanatory statement accompanying the US Senate Appropriations Committee’s draft energy and water funding bill for the 2027 financial year. Listed under the National Nuclear Security Administration’s (NNSA) stockpile modernisation programme, the entry recommends US$77.1 million for the B94,...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3375597/us-b94-nuclear-bomb-designation-signals-renewed-push-bunker-busting-weapons",
+          "publishedAt": "2026-11-24T09:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "能源",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 78,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "energy",
+        "能源"
+      ],
+      "fingerprint": "1c1083a1dde83a9d5f827fb5",
+      "isContinuation": false,
+      "titleZh": "美国B94核弹代号显示其推动研发钻地武器的意图",
+      "summaryZh": "美国参议院预算文件披露了名为“B94”的新型核弹代号，建议拨款7710万美元用于相关研发。外界普遍认为这是美方旨在增强打击深层地下目标能力的信号。",
+      "whyImportant": "美国核武库现代化进程的推进可能引发全球军备竞赛的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "714f56f22337350a",
+      "title": "China approves 2-month extension of select US export restrictions",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3375609/china-approves-2-month-extension-select-us-export-restrictions",
+      "publishedAt": "2026-11-24T09:01:45.000Z",
+      "summary": "China has extended the suspension of some export restrictions on dual-use items to the United States by two months, maintaining a temporary easing of curbs on critical minerals and other materials amid a broader cooling of tensions between the world’s two largest economies. The Ministry of Commerce said the suspension of the second clause of its dual-use export control announcement to the United States would remain in effect through January 27. The original measures, introduced in December 2024...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3375609/china-approves-2-month-extension-select-us-export-restrictions",
+          "publishedAt": "2026-11-24T09:01:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9bacdb623b741f31e400dca1",
+      "isContinuation": false,
+      "titleZh": "中国批准将部分对美出口限制措施延长两个月",
+      "summaryZh": "中国商务部宣布，将针对部分两用物项对美出口限制措施的暂停期延长两个月，至2027年1月27日。此举旨在维持关键矿产等物资出口限制的暂时放宽，以缓解中美两大经济体之间的紧张关系。",
+      "whyImportant": "此举显示出中美在关键供应链领域的紧张局势出现阶段性缓和迹象。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4be7299b21c26c30",
+      "title": "How US restrictions on China are reshaping the science race",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/us/article/3375472/how-us-restrictions-china-are-reshaping-science-race",
+      "publishedAt": "2026-11-23T22:00:11.000Z",
+      "summary": "As the United States and China compete for scientific leadership, Washington and a growing number of states are imposing restrictions on academic ties with China. Since 2018, Congress and 23 states have introduced 158 bills curbing how US universities work with foreign scientists, students and institutions; 24 became law, according to a new tracker from the Committee of 100, a non-profit organisation of prominent Chinese Americans. Its interactive map shows 13 states with a law or executive...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/us/article/3375472/how-us-restrictions-china-are-reshaping-science-race",
+          "publishedAt": "2026-11-23T22:00:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 54,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "902942f77af08c4371310b65",
+      "isContinuation": false,
+      "titleZh": "美国对华限制如何重塑科学竞赛格局",
+      "summaryZh": "随着美中在科学领导力方面的竞争加剧，美国国会及多个州政府正通过立法限制与中国的学术交流。据统计，自2018年以来已有大量相关法案被提出，旨在管控美国大学与外国科学家及机构的合作。",
+      "whyImportant": "学术交流限制的增加可能对全球科研合作及人才流动产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6d1ee2675b209aad",
+      "title": "First Lady Melania Trump Hails America’s Armed Forces",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
+      "publishedAt": "2026-11-23T19:20:12.000Z",
+      "summary": "Declaring precision and mental strength the foundation of global military superiority As families across America prepare to celebrate Thanksgiving, First Lady Melania Trump addressed members of America’s armed forces at Joint Base Andrews, “The US military is the most powerful military in the world because of its people. Our warriors train relentlessly, pushing the boundaries […] The post First Lady Melania Trump Hails America’s Armed Forces appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
+          "publishedAt": "2026-11-23T19:20:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 52,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "535f8717456d4ff07dc9de33",
+      "isContinuation": false,
+      "titleZh": "第一夫人梅拉尼娅·特朗普赞扬美国武装部队",
+      "summaryZh": "在感恩节前夕，第一夫人梅拉尼娅·特朗普在安德鲁斯联合基地向美军致辞。她强调美军的全球优势源于其人员的专业素质与坚韧训练。",
+      "whyImportant": "此举体现了美国政府对军队士气的重视及对军事力量的公开支持。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed84ffb42da213d0",
+      "title": "Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/",
+      "publishedAt": "2026-11-23T23:39:52.000Z",
+      "summary": "On Monday, November 23, 2026, the President signed into law: H.R. 1550, the “Strengthening America’s Turning Point Act,” which redesignates the Saratoga National Historical Park as the Saratoga National Battlefield Park; H.R. 4930, which expands U.S. Customs and Border Protection’s authority to share information about imports suspected of violating United States intellectual-property-rights with the rights holders, online […] The post Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/",
+          "publishedAt": "2026-11-23T23:39:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 50,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2d2265689211975132632ec1",
+      "isContinuation": false,
+      "titleZh": "美国国会法案H.R. 1550、H.R. 4930及H.R. 8552签署成为法律",
+      "summaryZh": "美国总统于11月23日签署了多项法案，其中包括将萨拉托加国家历史公园重新命名为萨拉托加国家战场公园，以及扩大海关和边境保护局在打击侵犯知识产权进口商品方面的执法权限。",
+      "whyImportant": "这些法律的签署将直接影响美国历史遗迹管理及知识产权保护的执法力度。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    }
+  ],
+  "watch": [
+    {
+      "id": "942d09ddc42d441d",
+      "title": "Thailand agrees new durian export rules with China to protect US$5 billion trade",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375498/thailand-agrees-new-durian-export-rules-china-protect-us5-billion-trade",
+      "publishedAt": "2026-11-24T01:00:11.000Z",
+      "summary": "China and Thailand have agreed a new sanitation protocol for exports of Thai durian to raise Beijing’s “confidence” in the trade and protect billions of dollars’ worth of shipments, according to Thailand’s Ministry of Commerce. The two governments updated plant health guidelines and procedures to clarify shipping requirements and establish a “systematic” approach to managing quarantine pests, the ministry announced on Sunday via its official website. “This is intended to build confidence among...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3375498/thailand-agrees-new-durian-export-rules-china-protect-us5-billion-trade",
+          "publishedAt": "2026-11-24T01:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -855,162 +1200,38 @@
       "tags": [
         "中国重点",
         "经济",
-        "金融",
-        "国际组织"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4a383974eae78498d4fe12d2",
-      "isContinuation": false,
-      "titleZh": "丹尼·夸：东盟如何在激烈的中美竞争中开辟自己的道路",
-      "summaryZh": "经济学教授丹尼·夸探讨了东盟如何在中美竞争中保持平衡。他分析了人民币在东南亚的国际化进程，以及该地区如何应对“中国冲击”。",
-      "whyImportant": "该分析为理解东南亚国家在当前地缘政治博弈中的战略自主性提供了重要视角。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ad2ae59dc582853c",
-      "title": "No grand bargain at Xi-Trump-Putin meeting? That was never the point",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
-      "publishedAt": "2026-11-22T12:30:07.000Z",
-      "summary": "When Chinese President Xi Jinping hosted US President Donald Trump and Russian President Vladimir Putin in Shenzhen on November 19, the images were historic. The three leaders issued a four-point declaration towards peace, addressing UN reform, energy security, concerns over abuses of jurisdiction by the International Criminal Court, and nuclear risk reduction. Yet the meeting produced considerably less than a grand bargain on substantive geopolitical or security issues. As a result, some media...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
-          "publishedAt": "2026-11-22T12:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "security",
-        "军事"
-      ],
-      "fingerprint": "e85e64ad584d83a1f7b68c39",
-      "isContinuation": false,
-      "titleZh": "习特普深圳会晤未达成“大交易”？这本就不是目的",
-      "summaryZh": "中、美、俄三国领导人在深圳发表了关于和平、能源安全及核风险的四点声明。尽管未达成重大的地缘政治协议，但此次会晤本身具有历史意义。",
-      "whyImportant": "此次会晤展示了主要大国在关键全球议题上进行对话的意愿，有助于缓解国际紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f734972b78a777ea",
-      "title": "Why Hong Kong’s Fine Art Asia fair has moved to Shenzhen after 20 years",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
-      "publishedAt": "2026-11-23T05:17:51.000Z",
-      "summary": "Hong Kong’s longest-running art and antiques fair, Fine Art Asia (FAA), is relocating to Shenzhen for its upcoming 2026 edition, which will take place from November 26 to 29, with its founder citing a sharp market downturn in his home city as one of the reasons behind the decision. Established in 2006, the home-grown fair had long been a fixture in Hong Kong’s cultural calendar, continuously taking place in Wan Chai – first at the China Resources Building and later at the Hong Kong Convention...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
-          "publishedAt": "2026-11-23T05:17:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
         "科技"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b6a5980364eb4c9705f1bc85",
+      "fingerprint": "614f1d9baef0f9a050731786",
       "isContinuation": false,
-      "titleZh": "为何香港“典亚艺博”在举办20年后迁至深圳",
-      "summaryZh": "香港历史最悠久的艺术品博览会“典亚艺博”宣布迁至深圳举办。创始人表示，香港本地市场低迷是促成此次搬迁的主要原因之一。",
-      "whyImportant": "这一变动反映了区域艺术市场重心的潜在转移以及香港文化产业面临的经济挑战。",
+      "titleZh": "泰国与中国达成新的榴莲出口规则，以保护50亿美元贸易额",
+      "summaryZh": "中泰两国就泰国榴莲出口达成新的卫生检疫协议，旨在规范检疫流程并提升中方对进口产品的信心。此举旨在保障两国间价值数十亿美元的农产品贸易稳定运行。",
+      "whyImportant": "该协议有助于稳定中泰农产品贸易，并为双边农业合作提供更明确的监管框架。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1d546e49d38a9425",
-      "title": "Tencent touts latest AI model Hy4’s performance on independent safety assessments",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
-      "publishedAt": "2026-11-22T13:30:07.000Z",
-      "summary": "Tencent Holdings has teamed up with an international group of artificial intelligence safety organisations to assess the risk level of its latest open-weight model, amid growing concerns over AI-assisted cyberattacks and biological misuse. The development marks the first time a leading Chinese tech company has disclosed that it worked with independent third-party evaluators in such evaluations of a new model before releasing it. “Our goal is to develop AI systems that are not only increasingly...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
-          "publishedAt": "2026-11-22T13:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "6a3d00f37034b818f9bc77ff",
-      "isContinuation": false,
-      "titleZh": "腾讯展示其最新AI模型Hy4在独立安全评估中的表现",
-      "summaryZh": "腾讯与国际AI安全组织合作，对其最新的开源模型进行风险评估。这是中国大型科技公司首次在模型发布前披露第三方独立安全评估结果。",
-      "whyImportant": "此举标志着中国科技企业在AI安全治理方面与国际标准接轨，旨在应对AI技术带来的潜在滥用风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
-  "usa": [],
-  "watch": [
-    {
-      "id": "de25ddea0330fb09",
-      "title": "Iran war live: Hormuz tankers set ablaze; Tehran warns of internal threats",
+      "id": "f3d06eaf3dc32c4d",
+      "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-      "publishedAt": "2026-11-22T23:59:22.000Z",
-      "summary": "Oil tankers were set ablaze in the Strait of Hormuz as Iran warned that its enemies sought to stoke domestic unrest.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+      "publishedAt": "2026-11-24T07:52:44.000Z",
+      "summary": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-          "publishedAt": "2026-11-22T23:59:22.000Z"
+          "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+          "publishedAt": "2026-11-24T07:52:44.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1020,80 +1241,35 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "b1b3dc8aab349c0378dab2d2",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1be59a991fb8767a130738d1",
       "isContinuation": false,
-      "titleZh": "伊朗战争直播：霍尔木兹海峡油轮起火，德黑兰警告存在内部威胁",
-      "summaryZh": "霍尔木兹海峡发生油轮起火事件。伊朗方面警告称，其敌对势力正试图煽动国内动乱。",
-      "whyImportant": "该事件加剧了波斯湾地区的紧张局势，并可能对全球能源供应安全产生重大影响。",
+      "titleZh": "世界粮食计划署警告：战争阻断全球粮食通道，730万人援助受阻",
+      "summaryZh": "世界粮食计划署执行主任卢克·林德伯格指出，政治问题导致粮食无法送达急需人群。战争冲突严重干扰了全球粮食供应链，威胁到数百万人的生存。",
+      "whyImportant": "全球粮食运输受阻加剧了脆弱地区的人道主义危机。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a3d6e17b844c421d",
-      "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
+      "id": "e7530cf187b6c43b",
+      "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-      "publishedAt": "2026-11-23T05:00:48.000Z",
-      "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’ Fewer than half of households in Britain will pay the BBC’s licence within a decade, according to analysis that warns that the broadcaster’s funding is locked in a “spiral of decline”. With senior BBC figures concerned about the accelerating fall in licence fee sales, the independent projections also warn that the proportion of households paying the levy will further decline to less than a third by 2037-38 should the government persist with the corporation’s current funding model. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+      "publishedAt": "2026-11-24T07:42:57.000Z",
+      "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Climate campaigners are urging the Albanese government to heed a “line in the sand” warning on fossil fuels issued by dozens of countries at a UN climate summit and refuse a massive coalmine expansion planned in New South Wales. A proposed agreement at the Cop31 negotiations in Turkey failed after a list of nations – including European Union members, Panama, the Marshall Islands, Vanuatu, Norway and Belize – said they would not support it unless it included an explicit statement that the world needed to transition away from fossil fuels. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-          "publishedAt": "2026-11-23T05:00:48.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "de88d771deeb755fccd4b781",
-      "isContinuation": false,
-      "titleZh": "报告警告：十年内英国支付电视许可费的家庭将不足半数",
-      "summaryZh": "一项智库分析指出，英国广播公司（BBC）正陷入“衰退螺旋”，收入下降导致内容支出减少。预计十年内支付许可费的家庭将不足半数，若维持现有模式，到2037-38年度这一比例可能降至三分之一以下。",
-      "whyImportant": "该趋势对BBC的长期财务可持续性及公共广播模式构成了严峻挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cb372748e574f8a4",
-      "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
-      "publishedAt": "2026-11-23T06:00:50.000Z",
-      "summary": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in Brussels, the Guardian has been told, after signs of an apparent slowdown in the timetable. The prime minister has promised to set out options for the UK’s long-term relationship with the EU, including the possibility of rejoining, saying last week that these would be outlined later in the year. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
-          "publishedAt": "2026-11-23T06:00:50.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+          "publishedAt": "2026-11-24T07:42:57.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1103,142 +1279,29 @@
       "tags": [
         "全球焦点",
         "外交",
-        "经济"
+        "军事与安全",
+        "环境"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "e89701df6d578c4866e4a48d",
+      "fingerprint": "3abacbe697bcd46aa4808a7f",
       "isContinuation": false,
-      "titleZh": "官员称伯纳姆并未在与欧盟建立更紧密联系的问题上“退缩”",
-      "summaryZh": "尽管外界猜测英国政府正在放缓与欧盟建立更紧密关系的步伐，但相关人士表示，安迪·伯纳姆并未改变其目标。政府目前希望让贸易协议有更多缓冲空间，并承诺将在今年晚些时候阐述英国与欧盟长期关系的选项。",
-      "whyImportant": "此举反映了英国政府在处理脱欧后对欧关系时，需要在政治雄心与实际贸易执行之间寻求平衡。",
+      "titleZh": "环保人士敦促阿尔巴尼斯政府在Cop31后拒绝“气候炸弹”煤矿扩建项目",
+      "summaryZh": "环保人士呼吁澳大利亚政府拒绝新南威尔士州的一项大型煤矿扩建计划，该计划涉及额外开采4.3亿吨煤炭。此前在土耳其举行的Cop31气候峰会上，多国因未能就化石燃料转型达成共识而导致协议流产。",
+      "whyImportant": "此事件凸显了澳大利亚在气候承诺与化石燃料产业利益之间的政策博弈。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
   ],
-  "more": [
-    {
-      "id": "6cd7774d5d0cca45",
-      "title": "Hong Kong names former lawmaker Chan Kin-por as Hospital Authority chairman",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375433/hong-kong-names-former-lawmaker-chan-kin-por-hospital-authority-chairman",
-      "publishedAt": "2026-11-23T04:52:05.000Z",
-      "summary": "Former Hong Kong lawmaker and veteran insurance executive Chan Kin-por has pledged to improve management and retain staff as he prepares to become chairman of the Hospital Authority, describing the role as an “immense responsibility”. The government announced on Monday that Chief Executive John Lee Ka-chiu had appointed Chan to lead the body that manages the city’s 44 public hospitals and institutions for a two-year term starting on December 1. Chan will succeed Henry Fan Hung-ling, who has...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375433/hong-kong-names-former-lawmaker-chan-kin-por-hospital-authority-chairman",
-          "publishedAt": "2026-11-23T04:52:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "cec7afade16053b6f88687c3",
-      "isContinuation": false,
-      "titleZh": "香港委任前立法会议员陈健波为医院管理局主席",
-      "summaryZh": "香港政府宣布委任资深保险业高管、前立法会议员陈健波为医院管理局主席，任期两年，自12月1日起生效。陈健波承诺将致力于改善管理并留住医疗人才，接替即将卸任的范鸿龄。",
-      "whyImportant": "此项任命对香港公立医疗系统的管理改革及人才流失问题的应对具有关键影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0f71d74f71e986d3",
-      "title": "New 19-month low: Hong Kong stocks plunge as AI sell-off spreads to Asia",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
-      "publishedAt": "2026-11-23T04:20:57.000Z",
-      "summary": "Hong Kong stocks slid to their lowest level in 19 months on Monday, with technology shares hit the hardest, as a rout in US artificial intelligence stocks continued to spill over into Asia. The Hang Seng Tech Index, which tracks the city’s largest technology companies, fell as much as 3 per cent to below 3,400 points, taking its loss for the year to more than a third. It closed the morning trading session down 1.09 per cent. The benchmark Hang Seng Index declined as much as 1.8 per cent,...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
-          "publishedAt": "2026-11-23T04:20:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "科技"
-      ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1958b048b4a4935c044c15ec",
-      "isContinuation": false,
-      "titleZh": "创19个月新低：人工智能抛售潮蔓延至亚洲，港股大幅下挫",
-      "summaryZh": "受美国人工智能股票抛售潮影响，香港股市周一跌至19个月以来的最低点，科技股领跌。恒生科技指数盘中一度下跌3%，年内跌幅已超过三分之一。",
-      "whyImportant": "全球科技板块的波动正显著加剧香港资本市场的下行压力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8b5f55914868b429",
-      "title": "Tai Po fire survivors battle grief, fear and trauma as first anniversary nears",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
-      "publishedAt": "2026-11-23T04:00:07.000Z",
-      "summary": "A year after the deadly Wang Fuk Court blaze in Hong Kong, Hilary Lau has developed certain habits born out of the tragedy. The 49-year-old who lost both his parents can fall asleep only under a fire-resistant blanket and keeps extra fire extinguishers at his flat in Kong Ha Wai Village, a transitional housing project in Yuen Long. His fear of fire has even made him reluctant to eat hotpot – a reaction he cannot fully explain. Although Lau was not at home when the fire broke out, losing his...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
-          "publishedAt": "2026-11-23T04:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1d8b6c90c93f111622a16cde",
-      "isContinuation": false,
-      "titleZh": "大埔火灾幸存者在周年纪念临近之际与悲伤、恐惧和创伤抗争",
-      "summaryZh": "香港宏福苑致命火灾发生近一年后，幸存者仍深受心理创伤影响，表现出对火灾的极度恐惧和防御性行为。许多受害者在失去亲人后，至今难以走出阴影，生活习惯也因创伤而发生改变。",
-      "whyImportant": "该报道揭示了重大灾难对幸存者长期的心理健康影响，以及社会支持体系的重要性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    }
-  ],
+  "more": [],
   "metadata": {
-    "fetched": 136,
-    "deduplicated": 131,
-    "selected": 21,
-    "translated": 21,
+    "fetched": 200,
+    "deduplicated": 182,
+    "selected": 23,
+    "translated": 23,
     "untranslated": 0,
     "minimumRequired": 21,
     "featured": 8,
@@ -1247,19 +1310,105 @@
   },
   "items": [
     {
-      "id": "42f3dcde7248d8f1",
-      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-      "publishedAt": "2026-11-23T05:38:01.000Z",
-      "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+      "id": "a68ca873214b3e3e",
+      "title": "US B94 nuclear bomb designation signals renewed push for bunker-busting weapons",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3375597/us-b94-nuclear-bomb-designation-signals-renewed-push-bunker-busting-weapons",
+      "publishedAt": "2026-11-24T09:00:13.000Z",
+      "summary": "A new nuclear bomb designation buried in a US Senate budget document suggests Washington may be pursuing a weapon to destroy targets deep underground. The B94 designation surfaced on November 12 in an explanatory statement accompanying the US Senate Appropriations Committee’s draft energy and water funding bill for the 2027 financial year. Listed under the National Nuclear Security Administration’s (NNSA) stockpile modernisation programme, the entry recommends US$77.1 million for the B94,...",
       "language": "",
-      "region": "middle-east",
+      "region": "china",
       "crossSources": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-          "publishedAt": "2026-11-23T05:38:01.000Z"
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/military/article/3375597/us-b94-nuclear-bomb-designation-signals-renewed-push-bunker-busting-weapons",
+          "publishedAt": "2026-11-24T09:00:13.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全",
+        "能源",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 78,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "energy",
+        "能源"
+      ],
+      "fingerprint": "1c1083a1dde83a9d5f827fb5",
+      "isContinuation": false,
+      "titleZh": "美国B94核弹代号显示其推动研发钻地武器的意图",
+      "summaryZh": "美国参议院预算文件披露了名为“B94”的新型核弹代号，建议拨款7710万美元用于相关研发。外界普遍认为这是美方旨在增强打击深层地下目标能力的信号。",
+      "whyImportant": "美国核武库现代化进程的推进可能引发全球军备竞赛的担忧。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "43b484dc42ff2941",
+      "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "publishedAt": "2026-11-24T09:39:35.000Z",
+      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congre",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+          "publishedAt": "2026-11-24T09:39:35.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 76,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "da0362bf5d5d00066be873b6",
+      "isContinuation": false,
+      "titleZh": "黄仁勋回归引发美国政治反弹，英伟达盘前股价下跌",
+      "summaryZh": "黄仁勋在争议中重返英伟达引发美国两党议员不满，质疑总统干预企业董事会决策的合法性。市场担忧英伟达对人工智能产业的系统性重要性，以及其在复杂政治环境下的未来前景。",
+      "whyImportant": "该事件引发了关于科技巨头是否“大到不能倒”以及政治干预企业治理的广泛讨论。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d3c6289003d7a06a",
+      "title": "Cop31 illustrated what’s wrong with climate finance",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3375456/cop31-illustrated-whats-wrong-climate-finance",
+      "publishedAt": "2026-11-24T08:30:05.000Z",
+      "summary": "When Australia’s climate minister Chris Bowen spoke at Cop31, the United Nations climate change conference, in Antalya, Turkey, he said the world was asking whether multilateralism could rise to meet a “polycrisis” of climate change, energy security, conflict and the power demands of artificial intelligence. “Is international cooperation still a way forward? This fortnight we can answer those legitimate concerns and questions with a simple answer: Yes,” he said. For developing countries across...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3375456/cop31-illustrated-whats-wrong-climate-finance",
+          "publishedAt": "2026-11-24T08:30:05.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1268,293 +1417,297 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "金融",
-        "专题·军事、安全与突发事件"
+        "军事与安全",
+        "科技",
+        "能源",
+        "环境",
+        "国际组织",
+        "专题·科技、能源与产业"
       ],
       "score": 73,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "attack",
-        "突发"
+        "artificial intelligence",
+        "energy",
+        "科技",
+        "能源"
       ],
-      "fingerprint": "ad7db2f01488baaa73230e4d",
+      "fingerprint": "d53ccdfe84089a13c3905c12",
       "isContinuation": false,
-      "titleZh": "人权组织：以色列在被占领的西岸对医务人员的袭击激增350%",
-      "summaryZh": "以色列医生人权组织表示，医务人员正面临来自士兵和定居者日益严重的暴力威胁。这种暴力升级对当地医疗救援工作构成了极大的危险。",
-      "whyImportant": "该报告揭示了冲突地区医疗环境的恶化，引发了对国际人道法执行情况的担忧。",
+      "titleZh": "Cop31会议凸显了气候融资存在的问题",
+      "summaryZh": "澳大利亚气候部长在Cop31会议上强调，国际社会正面临气候变化、能源安全及人工智能电力需求等多重危机。他呼吁通过国际合作来应对这些挑战，并对多边主义的有效性表示肯定。",
+      "whyImportant": "该会议反映了全球在应对复杂气候挑战时，对国际合作机制与资金分配问题的持续关注。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "b5b81b0987c156ab",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T05:34:39.000Z",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "id": "f016628a7e29d68f",
+      "title": "Why Japan is taking its missile drills to Indian soil",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3375590/why-japan-taking-its-missile-drills-indian-soil",
+      "publishedAt": "2026-11-24T09:00:10.000Z",
+      "summary": "India’s decision to allow Japanese forces to conduct live-fire missile drills at its firing ranges signals a new level of cooperation between their militaries, analysts have said, as shared concerns over China push the two countries towards closer defence ties. “What we’re seeing is certainly an elevation of the security relationship. India and Japan have run joint exercises for years, but the fact that Delhi is letting another country’s forces fire long-range missiles from Indian soil is a...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3375590/why-japan-taking-its-missile-drills-indian-soil",
+          "publishedAt": "2026-11-24T09:00:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "军事与安全",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 73,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "e97a6af218be845ec559f7eb",
+      "isContinuation": false,
+      "titleZh": "日本为何将导弹演习移至印度领土进行",
+      "summaryZh": "印度允许日本军队在其境内进行实弹导弹演习，标志着两国军事合作迈向新高度。分析认为，双方在应对中国挑战方面的共同关切正推动其防务关系进一步深化。",
+      "whyImportant": "印日防务合作的升级反映了印太地区地缘政治格局的调整。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "86afad3ac3241cff",
+      "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "publishedAt": "2026-11-24T09:22:10.000Z",
+      "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Meanwhile, Hungary’s prime minister Péter Magyar announced a visit to the border region of Transcarpathia for talks with Ukraine’s Volodymyr Zelenskyy. Announcing the visit on Facebook, Magyar said: “Together with [foreign] minister Anita Orbán, we will visit several Hungarian institutions. This is the first visit by a Hungarian prime minister to Ukraine since 2015.” Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+          "publishedAt": "2026-11-24T09:22:10.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "军事与安全",
+        "科技",
+        "国际组织",
+        "专题·科技、能源与产业"
+      ],
+      "score": 69,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "07c011f1e825683550bbc82f",
+      "isContinuation": false,
+      "titleZh": "俄罗斯无人机侵犯波兰领空，此前该国刚遭巡航导弹袭击",
+      "summaryZh": "波兰当局正调查一起涉及俄罗斯无人机的“蓄意活动”，加剧了北约东翼的紧张局势。与此同时，匈牙利总理马扎尔宣布将访问乌克兰外喀尔巴阡地区，这是自2015年以来匈牙利总理首次访乌。",
+      "whyImportant": "此事件进一步加剧了北约与俄罗斯之间的地缘政治紧张关系，并标志着匈牙利与乌克兰外交关系的潜在变动。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7117544317abba2f",
+      "title": "What happens if a nuclear weapon explodes in space?",
+      "source": "DW",
+      "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-24T08:34:00.000Z",
+      "summary": "Earth's atmosphere offers protection from a nuclear blast in space, but satellites are more exposed. We explain how radiation could damage them, why the effects can linger and what protection is possible.",
+      "language": "en",
+      "region": "europe",
+      "crossSources": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+          "publishedAt": "2026-11-24T08:34:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "科技",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 66,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技",
+        "能源"
+      ],
+      "fingerprint": "83fc761dc3a7c9ba4db5c7f3",
+      "isContinuation": false,
+      "titleZh": "如果核武器在太空中爆炸会发生什么？",
+      "summaryZh": "地球大气层能提供一定的保护，但太空中的卫星将直接暴露在核爆炸的辐射之下。文章解释了辐射如何损坏卫星，以及为何其影响具有持久性及可能的防护措施。",
+      "whyImportant": "随着太空军事化风险增加，了解核爆炸对轨道资产的潜在破坏性具有重要的战略意义。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b9b8d84b5905e8a8",
+      "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+      "publishedAt": "2026-11-24T07:55:18.000Z",
+      "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
+      "language": "",
+      "region": "middle-east",
+      "crossSources": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+          "publishedAt": "2026-11-24T07:55:18.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 64,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "space",
+        "科技"
+      ],
+      "fingerprint": "459d7d817a2c8be72466f451",
+      "isContinuation": false,
+      "titleZh": "巴基斯坦飞行员齐尚·阿里将开启前往中国空间站的历史性飞行",
+      "summaryZh": "巴基斯坦空军飞行员齐尚·阿里将前往中国天宫空间站，进行为期约一周的驻留。期间他将与中国航天员共同开展科学实验。",
+      "whyImportant": "此次任务标志着巴基斯坦与中国在载人航天领域的合作迈出了重要一步。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "287f55f8fbfbbd10",
+      "title": "China corruption watchdog investigates senior science ministry official Liu Min",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3375564/china-corruption-watchdog-investigates-senior-science-ministry-official-liu-min",
+      "publishedAt": "2026-11-24T04:57:19.000Z",
+      "summary": "Liu Min, a senior official at the Ministry of Science and Technology, is under investigation, according to China’s top anti-corruption watchdog, the Central Commission for Discipline Inspection (CCDI). Liu is “suspected of serious violations of party discipline and national laws” – a euphemism for corruption – and is subject to disciplinary review by the CCDI team at the ministry. She was also being investigated by the supervisory commission in Yichang, Hubei province, in central China, the CCDI...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/politics/article/3375564/china-corruption-watchdog-investigates-senior-science-ministry-official-liu-min",
+          "publishedAt": "2026-11-24T04:57:19.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "科技",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "technology",
+        "科技"
+      ],
+      "fingerprint": "b0b936b7815f1a06ad63940f",
+      "isContinuation": false,
+      "titleZh": "中国反腐机构调查科技部高级官员刘敏",
+      "summaryZh": "据中央纪委国家监委消息，科技部高级官员刘敏因涉嫌严重违纪违法正接受纪律审查。目前，该调查由科技部纪检监察组及湖北省宜昌市监委共同开展。",
+      "whyImportant": "此举显示中国政府持续加强对科技领域关键岗位的反腐力度。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a8806135a47fa698",
+      "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
+      "publishedAt": "2026-11-24T08:24:26.000Z",
+      "summary": "Saurav Das was due to give talks at UK universities on protest movement but says ‘coward government’ prevented him flying A leader of India’s youth-led Cockroach movement has said he was prevented from leaving Delhi to fly to the UK to give talks on the viral group’s protests. Saurav Das, 27, has been at the forefront of the Cockroach Janta party (CJP), which has amassed millions of social media followers since its launch in May. Das, who was due to fly out early on Tuesday, said immigration officials told him at the airport that his passport had been flagged. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
+          "publishedAt": "2026-11-24T08:24:26.000Z"
+        },
         {
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-23T05:34:39.000Z"
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-24T05:33:07.000Z"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "isChina": false,
       "isUsa": false,
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "突发",
-        "外交",
-        "环境",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 72,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "5b6e0e4353c980e61733fe8e",
-      "isContinuation": false,
-      "titleZh": "COP31气候谈判未达成协议，后续将如何发展？",
-      "summaryZh": "本次气候峰会是历史上持续时间最长的一次，谈判在原定结束日期两天后宣告破裂。各方未能就最终协议达成一致，引发了对未来气候政策走向的讨论。",
-      "whyImportant": "全球气候治理进程的停滞可能对国际减排合作及应对气候变化的紧迫行动产生负面影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "af75c65b14939e5d",
-      "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
-      "publishedAt": "2026-11-23T06:46:49.000Z",
-      "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning. Nobody really wants to think about Brexit any more, save for the original Brexiters, who seem delighted that Andy Burnham’s “reset” with the EU has given them an excuse to get the old gang back together. But arguments about whether the UK should rejoin the EU will reignite in parliament this week, as Burnham briefs MPs on the deal he agreed on Friday. That deal wasn’t so much a victory as the culmination of Keir Starmer’s incrementalist approach to UK-EU relations. Its core agreements haven’t been ratified by member states yet, and the EU won’t sign them off until Britain resolves a dispute over tuition fees for European students. Burnham is apparently “determined” to take the UK back into the EU, but don’t expect any progress on that before the next general election. Cop31 | The EU, the UK and allies in the developing world rejected what they called an unacceptable deal that “failed to meet the moment” in a dramatic finish to the UN talks in Turkey. T",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
-          "publishedAt": "2026-11-23T06:46:49.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "经济",
         "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 70,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "124a28f5adefaf2351002f29",
-      "isContinuation": false,
-      "titleZh": "周一简报：安迪·伯纳姆的“重置”对英国意味着什么？",
-      "summaryZh": "英国首相安迪·伯纳姆重启了关于英国与欧盟未来关系的辩论，并于上周五达成了一项初步协议。然而，该协议尚未得到欧盟成员国批准，且在学费争议解决前进展缓慢。",
-      "whyImportant": "此举标志着英国在脱欧后试图调整对欧政策，可能引发国内关于重新加入欧盟的政治争论。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "83c8a30ff39af264",
-      "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "publishedAt": "2026-11-23T06:13:21.000Z",
-      "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-          "publishedAt": "2026-11-23T06:13:21.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "外交",
-        "军事与安全",
-        "环境",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
       "score": 67,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "军事"
-      ],
-      "fingerprint": "3c9360f8fbc901b7b7e74c35",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "261d87de6ec61a048e93f138",
       "isContinuation": false,
-      "titleZh": "新南威尔士州议员亚历克斯·格林威治在LGBTQ+群体的反对下，撤回对弗雷德·奈尔国葬的支持",
-      "summaryZh": "在COP31气候峰会未能达成最终协议后，澳大利亚内阁部长穆雷·瓦特表示，国际社会在气候政策上的分歧难以弥合。与此同时，澳大利亚正加强与日本和菲律宾的防务合作。",
-      "whyImportant": "该事件反映了澳大利亚在处理国内社会议题与应对复杂国际地缘政治环境时的双重压力。",
+      "titleZh": "印度“蟑螂运动”领导人称被禁止登机前往英国",
+      "summaryZh": "印度青年抗议组织“蟑螂运动”的领导人索拉夫·达斯表示，他在德里机场被移民官员拦截，无法前往英国进行演讲。他声称自己的护照被标记，并指责政府采取了阻挠行动。",
+      "whyImportant": "该事件引发了关于印度政府对异见人士出境限制及言论自由状况的讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9f7ec8950b45edc5",
-      "title": "South Korea rights body raps centre after detainee denied final call to dying father",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
-      "publishedAt": "2026-11-23T05:13:04.000Z",
-      "summary": "South Korea’s rights watchdog said on Monday it recommended that an immigration detention centre minimise restrictions on detainees’ freedom of communication, after it found that a facility violated a detainee’s right to pursue happiness by not allowing a video call with a dying father. The National Human Rights Commission of Korea, which made the recommendation last week, called on the centre to guarantee that detainees can use their personal mobile phones to the extent necessary in urgent and...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3375434/south-korea-rights-body-raps-centre-after-detainee-denied-final-call-dying-father",
-          "publishedAt": "2026-11-23T05:13:04.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "突发"
-      ],
-      "fingerprint": "9147671565e43dd40764480b",
-      "isContinuation": false,
-      "titleZh": "韩国人权机构批评拘留中心：被拘留者被拒绝与垂死父亲进行最后通话",
-      "summaryZh": "韩国国家人权委员会建议移民拘留中心放宽对被拘留者通讯自由的限制。此前，该中心因禁止一名被拘留者与垂死的父亲进行视频通话而受到批评。",
-      "whyImportant": "此举强调了在行政拘留过程中保障基本人权和人性化管理的重要性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c314b1c9598cf1d7",
-      "title": "Russian strikes kill at least 15 in Kyiv region, Ukraine says",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
-      "publishedAt": "2026-11-22T18:32:59.000Z",
-      "summary": "Rescuers in Ukraine raced on Monday to find residents trapped under the rubble of a block of flats that partially collapsed in a Russian strike, after attacks on the Kyiv region killed at least 15 people. Moscow has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for another winter, as the full-scale invasion grinds through its fifth year. Russian President Vladimir Putin vowed last week a “painful” response to Ukrainian strikes on Russia’s Crimea bridge after...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
-          "publishedAt": "2026-11-22T18:32:59.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "b9350e0129e3f266b32d7c63",
-      "isContinuation": false,
-      "titleZh": "乌克兰称俄罗斯袭击基辅地区，造成至少15人死亡",
-      "summaryZh": "俄罗斯对基辅地区发动了大规模空袭，导致一栋公寓楼部分坍塌，救援人员正在废墟中搜寻幸存者。这是俄乌冲突进入第五年之际，俄罗斯持续进行的夜间轰炸行动之一。",
-      "whyImportant": "平民伤亡的增加加剧了乌克兰在冬季面临的人道主义危机，并可能导致冲突进一步升级。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "86c4e817690b99be",
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:18:26.000Z",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-22T17:18:26.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "突发",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 66,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "军事",
-        "突发"
-      ],
-      "fingerprint": "214aa3724d58ff0633ed7cdc",
-      "isContinuation": false,
-      "titleZh": "一艘前往俄罗斯的船只在芬兰湾遇袭后被拖走",
-      "summaryZh": "芬兰国防军表示，上周六发生在芬兰湾的无人机袭击事件很可能是由乌克兰策划的。目前基辅方面尚未对此事发表评论。",
-      "whyImportant": "此次袭击事件显示了俄乌冲突的影响范围已延伸至波罗的海区域，增加了地区安全的不确定性。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "9e0e59e94b700d88",
-      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+      "id": "530eaa08afbc98c4",
+      "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-      "publishedAt": "2026-11-22T22:00:58.000Z",
-      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
+      "publishedAt": "2026-11-24T08:00:11.000Z",
+      "summary": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat thumbs-up, boosting Nvidia’s share price by about a third. Shareholders, whose interests the board is meant to represent, are surely happy. But like Fifa’s controversial decision to defer the one-match suspension of US forward Folarin Balogun after receiving a red card for a foul on Bosnia and Herzegovina’s Tarik Muharemović during the World Cup over the summer, Huang’s absolution might backfire. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-          "publishedAt": "2026-11-22T22:00:58.000Z"
+          "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
+          "publishedAt": "2026-11-24T08:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1563,125 +1716,38 @@
       "isNoise": false,
       "tags": [
         "全球焦点",
-        "军事与安全",
-        "公共安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "8e37797b3127ff826ffd70fa",
-      "isContinuation": false,
-      "titleZh": "特蕾莎·梅的旧事重提将保守党拉回了不愉快的境地",
-      "summaryZh": "特蕾莎·梅近期公开支持脱欧的言论，让保守党重新陷入了关于欧盟关系的痛苦回忆中。尽管保守党倾向于反对与欧盟建立更紧密联系，但安迪·伯纳姆的政策调整迫使他们不得不面对这一议题。",
-      "whyImportant": "这反映了英国保守党内部在脱欧后遗症与未来对欧政策方向上的持续分裂。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "36634285571cad6e",
-      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-      "publishedAt": "2026-11-23T00:39:51.000Z",
-      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
-      "language": "",
-      "region": "middle-east",
-      "crossSources": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-          "publishedAt": "2026-11-23T00:39:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "国际组织",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "bf94c0f6acf47cc84434c7b1",
-      "isContinuation": false,
-      "titleZh": "世卫组织总干事呼吁刚果民主共和国埃博拉疫区停止战斗以实现和平",
-      "summaryZh": "刚果民主共和国一家医院附近的战斗干扰了埃博拉防控工作。世卫组织警告称，这使患者和医护人员处于严重危险之中。",
-      "whyImportant": "冲突升级威胁到当地脆弱的公共卫生防疫体系，可能导致埃博拉疫情进一步扩散。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e2be825e0d55bb5f",
-      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-      "publishedAt": "2026-11-23T00:31:31.000Z",
-      "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own meme coin as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, set to take place at the Trump National Golf Club in Sterling, Virginia, will include meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, Shark Tank investor Kevin O’Leary, NBA champion Tristan Thompson and mentalist Lior Suchard, according to the event’s website. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-          "publishedAt": "2026-11-23T00:31:31.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
+        "经济",
         "金融",
         "军事与安全",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "3179b851c585fd5ec114e66e",
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6a5e2cbe9095cdbd0b1b05bb",
       "isContinuation": false,
-      "titleZh": "特朗普举办第三场模因币加密货币晚宴，引发利益冲突争议",
-      "summaryZh": "特朗普在弗吉尼亚州的高尔夫俱乐部举办加密货币晚宴，奖励其模因币的持有者。民主党人指责特朗普利用总统身份从加密货币业务中谋取不正当利益。",
-      "whyImportant": "此举引发了公众对总统职务与个人商业利益之间界限的质疑，并加剧了政治上的道德争议。",
+      "titleZh": "特朗普、英伟达与电力：我们是否正接近科技“镀金时代”的终结？",
+      "summaryZh": "文章探讨了英伟达高层变动对市场的影响，并质疑科技巨头在当前政治环境下的权力扩张。作者认为，这种不受约束的权力可能正面临转折点。",
+      "whyImportant": "该评论反映了市场对科技巨头垄断地位及企业治理与政治环境相互作用的深层担忧。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "9aa581609376e08c",
-      "title": "Hong Kong films shine as Angela Yuen, Anson Kong win at Golden Horse Awards",
+      "id": "21fa4ed698d3ab66",
+      "title": "Hong Kong school reminded on rest after requiring night study for lagging pupils",
       "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3375392/mirrors-anson-kong-rises-step-step-golden-horse-glory-we-are-born-good-wins",
-      "publishedAt": "2026-11-22T14:51:20.000Z",
-      "summary": "Hong Kong actress Angela Yuen Lai-lam has won the best actress prize at the prestigious Golden Horse Awards in Taiwan, while Anson Kong Ip-sang of boy band Mirror has snagged the best supporting actor trophy. The 33-year-old Yuen beat fellow contenders for the top acting prize for her performance in Hong Kong film Afterpiece, in which she plays an amateur actress who auditions for a leading role in a stage play and later becomes embroiled in a complex dynamic with its director. Yuen drew...",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3375607/hong-kong-school-reminded-rest-after-requiring-night-study-lagging-pupils",
+      "publishedAt": "2026-11-24T08:59:09.000Z",
+      "summary": "Hong Kong’s education authorities have reminded a secondary institution to “fully consider students’ rest schedules” after it required underperforming Form Six pupils to stay until 8.30pm for a three-hour tutorial and self-study session. The reminder followed a student’s complaint to local media that pupils who were absent from the required extra school hours without prior approval would be considered truants, criticising the policy as unreasonable and “trading their health for grades”. The...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3375392/mirrors-anson-kong-rises-step-step-golden-horse-glory-we-are-born-good-wins",
-          "publishedAt": "2026-11-22T14:51:20.000Z"
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3375607/hong-kong-school-reminded-rest-after-requiring-night-study-lagging-pupils",
+          "publishedAt": "2026-11-24T08:59:09.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1690,41 +1756,377 @@
       "isNoise": false,
       "tags": [
         "中国重点",
-        "军事与安全",
-        "能源",
-        "国际组织",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 65,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "b29d287261457d5dd8991a82",
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "6451beaed9702c0d11731b16",
       "isContinuation": false,
-      "titleZh": "香港电影闪耀金马奖，袁澧林与江𤒹生分获殊荣",
-      "summaryZh": "香港演员袁澧林凭借电影《后项》获得金马奖最佳女主角奖，Mirror成员江𤒹生则摘得最佳男配角奖。袁澧林在片中饰演一名业余演员，展现了复杂的角色心理。",
-      "whyImportant": "香港影人在金马奖的成功体现了香港电影在华语影坛的持续影响力和艺术水准。",
+      "titleZh": "香港一学校因要求落后学生参加夜间补习被提醒注意休息时间",
+      "summaryZh": "香港教育部门提醒一所中学需充分考虑学生的休息安排，此前该校要求成绩落后的六年级学生留校至晚上8点半进行补习。有学生投诉该政策不合理，认为是在以健康换取成绩。",
+      "whyImportant": "此事件引发了关于香港教育体系中过度竞争及学生身心健康平衡的社会讨论。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "996f7397fdc17477",
-      "title": "Danny Quah on how Asean charts its own course amid fierce US-China rivalry",
+      "id": "e58ed156c3ec691f",
+      "title": "Hacked Russian data suggests nearly 500,000 soldiers dead, reports say",
       "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
-      "publishedAt": "2026-11-22T22:00:12.000Z",
-      "summary": "Danny Quah is an economics professor at the National University of Singapore’s Lee Kuan Yew School of Public Policy. He served as the school’s dean between 2018 and 2025, and has consulted for, among others, the World Bank, the Bank of England and the Monetary Authority of Singapore. Here, he discusses how the Association of Southeast Asian Nations (Asean) navigates the US-China rivalry, yuan internationalisation in the region and why the “China shock” has played out differently in Southeast...",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375557/hacked-russian-data-suggests-nearly-500000-soldiers-dead-reports-say",
+      "publishedAt": "2026-11-24T03:50:26.000Z",
+      "summary": "Data allegedly stolen by hackers from Russia’s statistics agency Rosstat show the number of recorded Russian military dead is approaching 500,000, several Russian media outlets and German news magazine Der Spiegel reported on Monday. The outlets said they had gained access to the data set, which the hacker groups Cyberpartisans and Silent Crow are said to have taken in an attack on the agency. Reports said the groups were close to the Belarusian opposition or to pro-Ukrainian...",
       "language": "",
       "region": "china",
       "crossSources": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
-          "publishedAt": "2026-11-22T22:00:12.000Z"
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375557/hacked-russian-data-suggests-nearly-500000-soldiers-dead-reports-say",
+          "publishedAt": "2026-11-24T03:50:26.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "突发",
+        "军事与安全"
+      ],
+      "score": 62,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1948d17c8eb67f279df95157",
+      "isContinuation": false,
+      "titleZh": "报道称被黑客窃取的俄罗斯数据显示死亡士兵近50万人",
+      "summaryZh": "据多家媒体报道，黑客组织从俄罗斯统计局窃取的数据显示，俄军死亡人数已接近50万。这些数据据称由亲乌克兰或白俄罗斯反对派背景的黑客获取。",
+      "whyImportant": "若数据属实，这将揭示俄乌冲突中俄方遭受的巨大人员损失，可能对战争进程产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c6f1b3c9b9ab3fd5",
+      "title": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
+      "publishedAt": "2026-11-24T01:45:37.000Z",
+      "summary": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff momentarily drowned out nearly two weeks of corporate turmoil. “I’m going to be a better CEO the second time around,” Huang told the crowd, joking that he would need the IT department to set him up with a computer on his first day back. The emotional homecoming marked a stunning reversal just 11 days after Huang’s abrupt resignation...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
+          "publishedAt": "2026-11-24T01:45:37.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "全球焦点",
+        "经济",
+        "能源",
+        "专题·科技、能源与产业"
+      ],
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": true,
+      "topicKeywords": [
+        "能源"
+      ],
+      "fingerprint": "d231aa2d945284412c2305b4",
+      "isContinuation": false,
+      "titleZh": "黄仁勋重返英伟达获员工欢呼，未穿标志性皮夹克",
+      "summaryZh": "在辞职11天后，黄仁勋重返英伟达总部并受到员工热烈欢迎。他表示将以更好的状态担任首席执行官，此次回归标志着该公司近期动荡局势的重大转折。",
+      "whyImportant": "黄仁勋的回归对英伟达的稳定及全球人工智能产业的发展具有关键影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1fb7a9351c7d2105",
+      "title": "Chinese drug stocks sink as US lawmakers threaten curbs on cross-border collaboration",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/markets/article/3375599/chinese-drug-stocks-sink-us-lawmakers-threaten-cross-border-collaboration",
+      "publishedAt": "2026-11-24T08:16:34.000Z",
+      "summary": "Chinese healthcare stocks fell on Tuesday amid intensifying threats from Washington, where lawmakers warned about the US drug industry’s “dangerous dependence” on China and urged restrictions on cross-border collaboration. “We cannot allow China to get ahead and control drug development, or it will use that power against us,” John Moolenaar, chairman of the US House Select Committee on China, said in a statement on Tuesday, adding that “urgent action is needed”. The committee published a 57-page...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/markets/article/3375599/chinese-drug-stocks-sink-us-lawmakers-threaten-cross-border-collaboration",
+          "publishedAt": "2026-11-24T08:16:34.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "突发",
+        "金融",
+        "军事与安全"
+      ],
+      "score": 82,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "5ac38fdf7e4996ab64421173",
+      "isContinuation": false,
+      "titleZh": "美国议员威胁限制跨境合作，中国医药股下跌",
+      "summaryZh": "美国众议院中国问题特别委员会警告称美方对中国医药产业存在危险依赖，并呼吁限制跨境合作。受此消息影响，中国医药板块股价出现下滑。",
+      "whyImportant": "美方对生物医药供应链的审查升级，加剧了中美在关键科技与医疗领域的脱钩风险。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "32361de972d13eaf",
+      "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/policy/article/3375565/dutch-minister-heads-china-nvidia-saga-revives-us-push-tougher-asml-curbs",
+      "publishedAt": "2026-11-24T09:00:06.000Z",
+      "summary": "Dutch Foreign Minister Tom Berendsen’s visit to China this week comes amid a shifting dynamic in the Netherlands’ efforts to fend off further US restrictions on ASML sales to Beijing following the Nvidia saga, analysts say, with some suggesting it could strengthen the Dutch case against the proposed measures despite mounting pressure from Washington. “Because of the Nvidia [saga], there is a renewed push for the Match Act in the US Congress,” said Frans-Paul van der Putten, founder of...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/policy/article/3375565/dutch-minister-heads-china-nvidia-saga-revives-us-push-tougher-asml-curbs",
+          "publishedAt": "2026-11-24T09:00:06.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点",
+        "外交"
+      ],
+      "score": 68,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "abeb44a3c57016c8e2d6afb1",
+      "isContinuation": false,
+      "titleZh": "荷兰大臣访华，英伟达事件重燃美国对阿斯麦施压",
+      "summaryZh": "荷兰外交大臣本周访华，旨在应对美国因英伟达事件而推动的更严厉出口限制。分析指出，荷兰正试图在华盛顿的压力下维护其半导体设备的对华贸易利益。",
+      "whyImportant": "此举凸显了荷兰在美中半导体技术博弈中面临的复杂外交与经济压力。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ae2e8e2caf29fdfa",
+      "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+      "publishedAt": "2026-11-24T08:28:00.000Z",
+      "summary": "Asia-Pacific stock markets rise after US president says he ‘convinced’ chipmaker’s board to reinstate CEO Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holdings of Nvidia stock after the US chipmaker’s share price soared on the surprise return of Jensen Huang as chief executive. Huang, who co-founded the company in 1993, was ousted by the board after allegations that he had three affairs, including one with a suspected Chinese spy and two with employees. But the Nvidia board reinstated him after an intervention from the US president. Continue reading...",
+      "language": "",
+      "region": "international",
+      "crossSources": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+          "publishedAt": "2026-11-24T08:28:00.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": false,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "金融",
+        "国际组织"
+      ],
+      "score": 67,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "f780e48ad62f723e8b9c2657",
+      "isContinuation": false,
+      "titleZh": "特朗普在黄仁勋回归后通过英伟达股票获利高达1500万美元",
+      "summaryZh": "在特朗普干预促成黄仁勋重返英伟达后，该公司股价大涨，特朗普持有的英伟达股票价值随之飙升。此前黄仁勋因个人丑闻被董事会罢免，此次回归引发了关于总统干预企业决策的争议。",
+      "whyImportant": "总统直接干预企业人事并从中获利引发了严重的道德与利益冲突质疑。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "714f56f22337350a",
+      "title": "China approves 2-month extension of select US export restrictions",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3375609/china-approves-2-month-extension-select-us-export-restrictions",
+      "publishedAt": "2026-11-24T09:01:45.000Z",
+      "summary": "China has extended the suspension of some export restrictions on dual-use items to the United States by two months, maintaining a temporary easing of curbs on critical minerals and other materials amid a broader cooling of tensions between the world’s two largest economies. The Ministry of Commerce said the suspension of the second clause of its dual-use export control announcement to the United States would remain in effect through January 27. The original measures, introduced in December 2024...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3375609/china-approves-2-month-extension-select-us-export-restrictions",
+          "publishedAt": "2026-11-24T09:01:45.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 63,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "9bacdb623b741f31e400dca1",
+      "isContinuation": false,
+      "titleZh": "中国批准将部分对美出口限制措施延长两个月",
+      "summaryZh": "中国商务部宣布，将针对部分两用物项对美出口限制措施的暂停期延长两个月，至2027年1月27日。此举旨在维持关键矿产等物资出口限制的暂时放宽，以缓解中美两大经济体之间的紧张关系。",
+      "whyImportant": "此举显示出中美在关键供应链领域的紧张局势出现阶段性缓和迹象。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4be7299b21c26c30",
+      "title": "How US restrictions on China are reshaping the science race",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/us/article/3375472/how-us-restrictions-china-are-reshaping-science-race",
+      "publishedAt": "2026-11-23T22:00:11.000Z",
+      "summary": "As the United States and China compete for scientific leadership, Washington and a growing number of states are imposing restrictions on academic ties with China. Since 2018, Congress and 23 states have introduced 158 bills curbing how US universities work with foreign scientists, students and institutions; 24 became law, according to a new tracker from the Committee of 100, a non-profit organisation of prominent Chinese Americans. Its interactive map shows 13 states with a law or executive...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/us/article/3375472/how-us-restrictions-china-are-reshaping-science-race",
+          "publishedAt": "2026-11-23T22:00:11.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": true,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "中国重点",
+        "美国重点"
+      ],
+      "score": 54,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "902942f77af08c4371310b65",
+      "isContinuation": false,
+      "titleZh": "美国对华限制如何重塑科学竞赛格局",
+      "summaryZh": "随着美中在科学领导力方面的竞争加剧，美国国会及多个州政府正通过立法限制与中国的学术交流。据统计，自2018年以来已有大量相关法案被提出，旨在管控美国大学与外国科学家及机构的合作。",
+      "whyImportant": "学术交流限制的增加可能对全球科研合作及人才流动产生深远影响。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6d1ee2675b209aad",
+      "title": "First Lady Melania Trump Hails America’s Armed Forces",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
+      "publishedAt": "2026-11-23T19:20:12.000Z",
+      "summary": "Declaring precision and mental strength the foundation of global military superiority As families across America prepare to celebrate Thanksgiving, First Lady Melania Trump addressed members of America’s armed forces at Joint Base Andrews, “The US military is the most powerful military in the world because of its people. Our warriors train relentlessly, pushing the boundaries […] The post First Lady Melania Trump Hails America’s Armed Forces appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
+          "publishedAt": "2026-11-23T19:20:12.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点",
+        "军事与安全"
+      ],
+      "score": 52,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "535f8717456d4ff07dc9de33",
+      "isContinuation": false,
+      "titleZh": "第一夫人梅拉尼娅·特朗普赞扬美国武装部队",
+      "summaryZh": "在感恩节前夕，第一夫人梅拉尼娅·特朗普在安德鲁斯联合基地向美军致辞。她强调美军的全球优势源于其人员的专业素质与坚韧训练。",
+      "whyImportant": "此举体现了美国政府对军队士气的重视及对军事力量的公开支持。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed84ffb42da213d0",
+      "title": "Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/",
+      "publishedAt": "2026-11-23T23:39:52.000Z",
+      "summary": "On Monday, November 23, 2026, the President signed into law: H.R. 1550, the “Strengthening America’s Turning Point Act,” which redesignates the Saratoga National Historical Park as the Saratoga National Battlefield Park; H.R. 4930, which expands U.S. Customs and Border Protection’s authority to share information about imports suspected of violating United States intellectual-property-rights with the rights holders, online […] The post Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law appeared first on The White House.",
+      "language": "",
+      "region": "usa",
+      "crossSources": [
+        {
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/",
+          "publishedAt": "2026-11-23T23:39:52.000Z"
+        }
+      ],
+      "sourceCount": 1,
+      "isChina": false,
+      "isUsa": true,
+      "isNoise": false,
+      "tags": [
+        "美国重点"
+      ],
+      "score": 50,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "2d2265689211975132632ec1",
+      "isContinuation": false,
+      "titleZh": "美国国会法案H.R. 1550、H.R. 4930及H.R. 8552签署成为法律",
+      "summaryZh": "美国总统于11月23日签署了多项法案，其中包括将萨拉托加国家历史公园重新命名为萨拉托加国家战场公园，以及扩大海关和边境保护局在打击侵犯知识产权进口商品方面的执法权限。",
+      "whyImportant": "这些法律的签署将直接影响美国历史遗迹管理及知识产权保护的执法力度。",
+      "summaryMode": "ai",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "942d09ddc42d441d",
+      "title": "Thailand agrees new durian export rules with China to protect US$5 billion trade",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375498/thailand-agrees-new-durian-export-rules-china-protect-us5-billion-trade",
+      "publishedAt": "2026-11-24T01:00:11.000Z",
+      "summary": "China and Thailand have agreed a new sanitation protocol for exports of Thai durian to raise Beijing’s “confidence” in the trade and protect billions of dollars’ worth of shipments, according to Thailand’s Ministry of Commerce. The two governments updated plant health guidelines and procedures to clarify shipping requirements and establish a “systematic” approach to managing quarantine pests, the ministry announced on Sunday via its official website. “This is intended to build confidence among...",
+      "language": "",
+      "region": "china",
+      "crossSources": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3375498/thailand-agrees-new-durian-export-rules-china-protect-us5-billion-trade",
+          "publishedAt": "2026-11-24T01:00:11.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1734,159 +2136,38 @@
       "tags": [
         "中国重点",
         "经济",
-        "金融",
-        "国际组织"
+        "科技",
+        "专题·科技、能源与产业"
       ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "4a383974eae78498d4fe12d2",
-      "isContinuation": false,
-      "titleZh": "丹尼·夸：东盟如何在激烈的中美竞争中开辟自己的道路",
-      "summaryZh": "经济学教授丹尼·夸探讨了东盟如何在中美竞争中保持平衡。他分析了人民币在东南亚的国际化进程，以及该地区如何应对“中国冲击”。",
-      "whyImportant": "该分析为理解东南亚国家在当前地缘政治博弈中的战略自主性提供了重要视角。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "ad2ae59dc582853c",
-      "title": "No grand bargain at Xi-Trump-Putin meeting? That was never the point",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
-      "publishedAt": "2026-11-22T12:30:07.000Z",
-      "summary": "When Chinese President Xi Jinping hosted US President Donald Trump and Russian President Vladimir Putin in Shenzhen on November 19, the images were historic. The three leaders issued a four-point declaration towards peace, addressing UN reform, energy security, concerns over abuses of jurisdiction by the International Criminal Court, and nuclear risk reduction. Yet the meeting produced considerably less than a grand bargain on substantive geopolitical or security issues. As a result, some media...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
-          "publishedAt": "2026-11-22T12:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 62,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "score": 61,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": true,
       "topicKeywords": [
-        "war",
-        "security",
-        "军事"
-      ],
-      "fingerprint": "e85e64ad584d83a1f7b68c39",
-      "isContinuation": false,
-      "titleZh": "习特普深圳会晤未达成“大交易”？这本就不是目的",
-      "summaryZh": "中、美、俄三国领导人在深圳发表了关于和平、能源安全及核风险的四点声明。尽管未达成重大的地缘政治协议，但此次会晤本身具有历史意义。",
-      "whyImportant": "此次会晤展示了主要大国在关键全球议题上进行对话的意愿，有助于缓解国际紧张局势。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f734972b78a777ea",
-      "title": "Why Hong Kong’s Fine Art Asia fair has moved to Shenzhen after 20 years",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
-      "publishedAt": "2026-11-23T05:17:51.000Z",
-      "summary": "Hong Kong’s longest-running art and antiques fair, Fine Art Asia (FAA), is relocating to Shenzhen for its upcoming 2026 edition, which will take place from November 26 to 29, with its founder citing a sharp market downturn in his home city as one of the reasons behind the decision. Established in 2006, the home-grown fair had long been a fixture in Hong Kong’s cultural calendar, continuously taking place in Wan Chai – first at the China Resources Building and later at the Hong Kong Convention...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
-          "publishedAt": "2026-11-23T05:17:51.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
         "科技"
       ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "b6a5980364eb4c9705f1bc85",
+      "fingerprint": "614f1d9baef0f9a050731786",
       "isContinuation": false,
-      "titleZh": "为何香港“典亚艺博”在举办20年后迁至深圳",
-      "summaryZh": "香港历史最悠久的艺术品博览会“典亚艺博”宣布迁至深圳举办。创始人表示，香港本地市场低迷是促成此次搬迁的主要原因之一。",
-      "whyImportant": "这一变动反映了区域艺术市场重心的潜在转移以及香港文化产业面临的经济挑战。",
+      "titleZh": "泰国与中国达成新的榴莲出口规则，以保护50亿美元贸易额",
+      "summaryZh": "中泰两国就泰国榴莲出口达成新的卫生检疫协议，旨在规范检疫流程并提升中方对进口产品的信心。此举旨在保障两国间价值数十亿美元的农产品贸易稳定运行。",
+      "whyImportant": "该协议有助于稳定中泰农产品贸易，并为双边农业合作提供更明确的监管框架。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "1d546e49d38a9425",
-      "title": "Tencent touts latest AI model Hy4’s performance on independent safety assessments",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
-      "publishedAt": "2026-11-22T13:30:07.000Z",
-      "summary": "Tencent Holdings has teamed up with an international group of artificial intelligence safety organisations to assess the risk level of its latest open-weight model, amid growing concerns over AI-assisted cyberattacks and biological misuse. The development marks the first time a leading Chinese tech company has disclosed that it worked with independent third-party evaluators in such evaluations of a new model before releasing it. “Our goal is to develop AI systems that are not only increasingly...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
-          "publishedAt": "2026-11-22T13:30:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "突发",
-        "科技",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "attack",
-        "突发"
-      ],
-      "fingerprint": "6a3d00f37034b818f9bc77ff",
-      "isContinuation": false,
-      "titleZh": "腾讯展示其最新AI模型Hy4在独立安全评估中的表现",
-      "summaryZh": "腾讯与国际AI安全组织合作，对其最新的开源模型进行风险评估。这是中国大型科技公司首次在模型发布前披露第三方独立安全评估结果。",
-      "whyImportant": "此举标志着中国科技企业在AI安全治理方面与国际标准接轨，旨在应对AI技术带来的潜在滥用风险。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "de25ddea0330fb09",
-      "title": "Iran war live: Hormuz tankers set ablaze; Tehran warns of internal threats",
+      "id": "f3d06eaf3dc32c4d",
+      "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-      "publishedAt": "2026-11-22T23:59:22.000Z",
-      "summary": "Oil tankers were set ablaze in the Strait of Hormuz as Iran warned that its enemies sought to stoke domestic unrest.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+      "publishedAt": "2026-11-24T07:52:44.000Z",
+      "summary": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
       "language": "",
       "region": "middle-east",
       "crossSources": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-          "publishedAt": "2026-11-22T23:59:22.000Z"
+          "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+          "publishedAt": "2026-11-24T07:52:44.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1896,80 +2177,35 @@
       "tags": [
         "全球焦点",
         "军事与安全",
-        "能源",
-        "专题·军事、安全与突发事件"
+        "国际组织"
       ],
-      "score": 64,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "b1b3dc8aab349c0378dab2d2",
+      "score": 60,
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
+      "topicMatch": false,
+      "topicKeywords": [],
+      "fingerprint": "1be59a991fb8767a130738d1",
       "isContinuation": false,
-      "titleZh": "伊朗战争直播：霍尔木兹海峡油轮起火，德黑兰警告存在内部威胁",
-      "summaryZh": "霍尔木兹海峡发生油轮起火事件。伊朗方面警告称，其敌对势力正试图煽动国内动乱。",
-      "whyImportant": "该事件加剧了波斯湾地区的紧张局势，并可能对全球能源供应安全产生重大影响。",
+      "titleZh": "世界粮食计划署警告：战争阻断全球粮食通道，730万人援助受阻",
+      "summaryZh": "世界粮食计划署执行主任卢克·林德伯格指出，政治问题导致粮食无法送达急需人群。战争冲突严重干扰了全球粮食供应链，威胁到数百万人的生存。",
+      "whyImportant": "全球粮食运输受阻加剧了脆弱地区的人道主义危机。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     },
     {
-      "id": "a3d6e17b844c421d",
-      "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
+      "id": "e7530cf187b6c43b",
+      "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-      "publishedAt": "2026-11-23T05:00:48.000Z",
-      "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’ Fewer than half of households in Britain will pay the BBC’s licence within a decade, according to analysis that warns that the broadcaster’s funding is locked in a “spiral of decline”. With senior BBC figures concerned about the accelerating fall in licence fee sales, the independent projections also warn that the proportion of households paying the levy will further decline to less than a third by 2037-38 should the government persist with the corporation’s current funding model. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+      "publishedAt": "2026-11-24T07:42:57.000Z",
+      "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Climate campaigners are urging the Albanese government to heed a “line in the sand” warning on fossil fuels issued by dozens of countries at a UN climate summit and refuse a massive coalmine expansion planned in New South Wales. A proposed agreement at the Cop31 negotiations in Turkey failed after a list of nations – including European Union members, Panama, the Marshall Islands, Vanuatu, Norway and Belize – said they would not support it unless it included an explicit statement that the world needed to transition away from fossil fuels. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
       "language": "",
       "region": "international",
       "crossSources": [
         {
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-          "publishedAt": "2026-11-23T05:00:48.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": false,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "全球焦点",
-        "军事与安全",
-        "专题·军事、安全与突发事件"
-      ],
-      "score": 63,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": true,
-      "topicKeywords": [
-        "war",
-        "军事"
-      ],
-      "fingerprint": "de88d771deeb755fccd4b781",
-      "isContinuation": false,
-      "titleZh": "报告警告：十年内英国支付电视许可费的家庭将不足半数",
-      "summaryZh": "一项智库分析指出，英国广播公司（BBC）正陷入“衰退螺旋”，收入下降导致内容支出减少。预计十年内支付许可费的家庭将不足半数，若维持现有模式，到2037-38年度这一比例可能降至三分之一以下。",
-      "whyImportant": "该趋势对BBC的长期财务可持续性及公共广播模式构成了严峻挑战。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cb372748e574f8a4",
-      "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
-      "publishedAt": "2026-11-23T06:00:50.000Z",
-      "summary": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in Brussels, the Guardian has been told, after signs of an apparent slowdown in the timetable. The prime minister has promised to set out options for the UK’s long-term relationship with the EU, including the possibility of rejoining, saying last week that these would be outlined later in the year. Continue reading...",
-      "language": "",
-      "region": "international",
-      "crossSources": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
-          "publishedAt": "2026-11-23T06:00:50.000Z"
+          "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+          "publishedAt": "2026-11-24T07:42:57.000Z"
         }
       ],
       "sourceCount": 1,
@@ -1979,131 +2215,19 @@
       "tags": [
         "全球焦点",
         "外交",
-        "经济"
-      ],
-      "score": 61,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "e89701df6d578c4866e4a48d",
-      "isContinuation": false,
-      "titleZh": "官员称伯纳姆并未在与欧盟建立更紧密联系的问题上“退缩”",
-      "summaryZh": "尽管外界猜测英国政府正在放缓与欧盟建立更紧密关系的步伐，但相关人士表示，安迪·伯纳姆并未改变其目标。政府目前希望让贸易协议有更多缓冲空间，并承诺将在今年晚些时候阐述英国与欧盟长期关系的选项。",
-      "whyImportant": "此举反映了英国政府在处理脱欧后对欧关系时，需要在政治雄心与实际贸易执行之间寻求平衡。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6cd7774d5d0cca45",
-      "title": "Hong Kong names former lawmaker Chan Kin-por as Hospital Authority chairman",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375433/hong-kong-names-former-lawmaker-chan-kin-por-hospital-authority-chairman",
-      "publishedAt": "2026-11-23T04:52:05.000Z",
-      "summary": "Former Hong Kong lawmaker and veteran insurance executive Chan Kin-por has pledged to improve management and retain staff as he prepares to become chairman of the Hospital Authority, describing the role as an “immense responsibility”. The government announced on Monday that Chief Executive John Lee Ka-chiu had appointed Chan to lead the body that manages the city’s 44 public hospitals and institutions for a two-year term starting on December 1. Chan will succeed Henry Fan Hung-ling, who has...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375433/hong-kong-names-former-lawmaker-chan-kin-por-hospital-authority-chairman",
-          "publishedAt": "2026-11-23T04:52:05.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "国际组织"
+        "军事与安全",
+        "环境"
       ],
       "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
+      "topic": "technology-energy",
+      "topicName": "科技、能源与产业",
       "topicMatch": false,
       "topicKeywords": [],
-      "fingerprint": "cec7afade16053b6f88687c3",
+      "fingerprint": "3abacbe697bcd46aa4808a7f",
       "isContinuation": false,
-      "titleZh": "香港委任前立法会议员陈健波为医院管理局主席",
-      "summaryZh": "香港政府宣布委任资深保险业高管、前立法会议员陈健波为医院管理局主席，任期两年，自12月1日起生效。陈健波承诺将致力于改善管理并留住医疗人才，接替即将卸任的范鸿龄。",
-      "whyImportant": "此项任命对香港公立医疗系统的管理改革及人才流失问题的应对具有关键影响。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0f71d74f71e986d3",
-      "title": "New 19-month low: Hong Kong stocks plunge as AI sell-off spreads to Asia",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
-      "publishedAt": "2026-11-23T04:20:57.000Z",
-      "summary": "Hong Kong stocks slid to their lowest level in 19 months on Monday, with technology shares hit the hardest, as a rout in US artificial intelligence stocks continued to spill over into Asia. The Hang Seng Tech Index, which tracks the city’s largest technology companies, fell as much as 3 per cent to below 3,400 points, taking its loss for the year to more than a third. It closed the morning trading session down 1.09 per cent. The benchmark Hang Seng Index declined as much as 1.8 per cent,...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
-          "publishedAt": "2026-11-23T04:20:57.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "金融",
-        "科技"
-      ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1958b048b4a4935c044c15ec",
-      "isContinuation": false,
-      "titleZh": "创19个月新低：人工智能抛售潮蔓延至亚洲，港股大幅下挫",
-      "summaryZh": "受美国人工智能股票抛售潮影响，香港股市周一跌至19个月以来的最低点，科技股领跌。恒生科技指数盘中一度下跌3%，年内跌幅已超过三分之一。",
-      "whyImportant": "全球科技板块的波动正显著加剧香港资本市场的下行压力。",
-      "summaryMode": "ai",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "8b5f55914868b429",
-      "title": "Tai Po fire survivors battle grief, fear and trauma as first anniversary nears",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
-      "publishedAt": "2026-11-23T04:00:07.000Z",
-      "summary": "A year after the deadly Wang Fuk Court blaze in Hong Kong, Hilary Lau has developed certain habits born out of the tragedy. The 49-year-old who lost both his parents can fall asleep only under a fire-resistant blanket and keeps extra fire extinguishers at his flat in Kong Ha Wai Village, a transitional housing project in Yuen Long. His fear of fire has even made him reluctant to eat hotpot – a reaction he cannot fully explain. Although Lau was not at home when the fire broke out, losing his...",
-      "language": "",
-      "region": "china",
-      "crossSources": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
-          "publishedAt": "2026-11-23T04:00:07.000Z"
-        }
-      ],
-      "sourceCount": 1,
-      "isChina": true,
-      "isUsa": false,
-      "isNoise": false,
-      "tags": [
-        "中国重点",
-        "科技",
-        "国际组织"
-      ],
-      "score": 60,
-      "topic": "security",
-      "topicName": "军事、安全与突发事件",
-      "topicMatch": false,
-      "topicKeywords": [],
-      "fingerprint": "1d8b6c90c93f111622a16cde",
-      "isContinuation": false,
-      "titleZh": "大埔火灾幸存者在周年纪念临近之际与悲伤、恐惧和创伤抗争",
-      "summaryZh": "香港宏福苑致命火灾发生近一年后，幸存者仍深受心理创伤影响，表现出对火灾的极度恐惧和防御性行为。许多受害者在失去亲人后，至今难以走出阴影，生活习惯也因创伤而发生改变。",
-      "whyImportant": "该报道揭示了重大灾难对幸存者长期的心理健康影响，以及社会支持体系的重要性。",
+      "titleZh": "环保人士敦促阿尔巴尼斯政府在Cop31后拒绝“气候炸弹”煤矿扩建项目",
+      "summaryZh": "环保人士呼吁澳大利亚政府拒绝新南威尔士州的一项大型煤矿扩建计划，该计划涉及额外开采4.3亿吨煤炭。此前在土耳其举行的Cop31气候峰会上，多国因未能就化石燃料转型达成共识而导致协议流产。",
+      "whyImportant": "此事件凸显了澳大利亚在气候承诺与化石燃料产业利益之间的政策博弈。",
       "summaryMode": "ai",
       "translationStatus": "translated"
     }
